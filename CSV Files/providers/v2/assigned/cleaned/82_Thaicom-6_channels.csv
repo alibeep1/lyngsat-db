@@ -1,0 +1,369 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3711 Htp 1HSE Asia C,,Myanmar mux,,,,,False,,3/4,15000,DVB-S2,,3711 H
+3711 Htp 1HSE Asia C,51.0,MRTV,MPEG-4/HD,100.0,,https://www.lyngsat.com/providers/mm/MRTV.html,True,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3735 Htp 1HSE Asia C,,MRTV,,,,https://www.lyngsat.com/providers/mm/MRTV.html,True,MRTV,3/4,3333,DVB-S2,,3735 H
+3711 Htp 1HSE Asia C,52.0,MRTV News,MPEG-4/HD,101.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,53.0,MRTV Parliament,MPEG-4/SD,102.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,54.0,MRTV NRC,MPEG-4/HD,103.0,,,False,MRTV,3/4,15000,DVB-S2,,3711 H
+3711 Htp 1HSE Asia C,55.0,MRTV Farmers,MPEG-4/SD,104.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3735 Htp 1HSE Asia C,1.0,MRTV Farmers,MPEG-4/SD,1000.0,,,False,MRTV,3/4,3333,DVB-S2,Bur,3735 H
+3711 Htp 1HSE Asia C,56.0,MRTV Sports,MPEG-4/SD,105.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3735 Htp 1HSE Asia C,2.0,MRTV Sports,MPEG-4/SD,2000.0,,,False,MRTV,3/4,3333,DVB-S2,Bur,3735 H
+12728 VSE Asia Ku,18.0,MRTV Sports,MPEG-4/SD,3018.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,57.0,Myanmar International TV,MPEG-4/SD,106.0,,,False,MRTV,3/4,15000,DVB-S2,Eng,3711 H
+3711 Htp 1HSE Asia C,58.0,Education Channel,MPEG-4/SD,107.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,59.0,M Entertainment,MPEG-4/SD,108.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,9.0,M Entertainment,MPEG-4/SD,3009.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,60.0,MRTV 4,MPEG-4/SD,109.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,4.0,MRTV 4,MPEG-4/SD,3004.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,61.0,Channel 7 (Myanmar),MPEG-4/SD,110.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,11.0,Channel 7 (Myanmar),MPEG-4/SD,3011.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,62.0,5 Plus (Myanmar),MPEG-4/SD,111.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,63.0,MN TV,MPEG-4/SD,112.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,64.0,Channel 9 (Myanmar),MPEG-4/SD,113.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,6.0,Channel 9 (Myanmar),MPEG-4/SD,3006.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,65.0,MWD,MPEG-4/SD,114.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,10.0,MWD,MPEG-2/SD,3010.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,66.0,Channel K,MPEG-4/SD,117.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,5.0,Channel K,MPEG-4/SD,3005.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,67.0,YTV,MPEG-4/SD,118.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,7.0,YTV,MPEG-4/SD,3007.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,68.0,Fortune TV,MPEG-4/SD,119.0,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+12728 VSE Asia Ku,3.0,Fortune TV,MPEG-4/SD,3003.0,Neotion SHL,,False,MRTV,3/4,30000,DVB-S2,Bur,12728 V
+3711 Htp 1HSE Asia C,69.0,Myanmar Radio National,,,,,False,MRTV,3/4,15000,DVB-S2,,3711 H
+3711 Htp 1HSE Asia C,70.0,Upper Tineyinthar Radio,,,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,71.0,Lower Tineyinthar Radio,,,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3711 Htp 1HSE Asia C,73.0,Myanmar Radio International,,,,,False,MRTV,3/4,15000,DVB-S2,,3711 H
+3711 Htp 1HSE Asia C,74.0,Tha Pyay,,,,,False,MRTV,3/4,15000,DVB-S2,Bur,3711 H
+3752 Htp 1AAfrica36-38,,,,,,,False,MRTV,,,,,3752 H
+3931 HAfrica36-38,,,,,,,False,MRTV,,,,,3931 HA
+4008 Htp 8HSE Asia C,,,8956-40,,BISS 1,,False,MRTV,4/5,15000,DVB-S2,,4008 H
+4050 Htp 9HSE Asia C,,,,,,,False,MRTV,P 0,,DVB-S2,,4050 H
+4053 Htp 5AAfrica36-38,,,,,,,False,MRTV,3/4,21666,DVB-S2,,4053 H
+4080 Htp 10HSE Asia C,,,1-1,,BISS 1Irdeto,,False,MRTV,4/5,30000,DVB-S2,,4080 H
+3760 Htp 2HSE Asia C,,Thaicom,1-2,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,3760 H
+3760 Htp 2HSE Asia C,,Thaicom,1-2,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,3760 H
+3760 Htp 2HSE Asia C,,Thaicom,1-2,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,3760 H
+3760 Htp 2HSE Asia C,,Thaicom,1-2,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,3760 H
+3840 Htp 4HSE Asia C,,Thaicom,1-4,,,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3840 H
+3840 Htp 4HSE Asia C,,Thaicom,1-4,,,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3840 H
+3840 Htp 4HSE Asia C,,Thaicom,1-4,,,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3840 H
+3840 Htp 4HSE Asia C,,Thaicom,1-4,,,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3840 H
+3920 Htp 6HSE Asia C,,Thaicom,26-6,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3920 H
+3920 Htp 6HSE Asia C,,Thaicom,26-6,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3920 H
+3920 Htp 6HSE Asia C,,Thaicom,26-6,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3920 H
+3920 Htp 6HSE Asia C,,Thaicom,26-6,,BISS 1,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,3/4,30000,DVB-S3,,3920 H
+12687 VSE Asia Ku,,Thaicom,,,BISS,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,12687 V
+12687 VSE Asia Ku,,Thaicom,,,BISS,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,12687 V
+12687 VSE Asia Ku,,Thaicom,,,BISS,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,12687 V
+12687 VSE Asia Ku,,Thaicom,,,BISS,https://www.lyngsat.com/providers/th/Thaicom.html,True,Thaicom,5/6,30000,DVB-S3,,12687 V
+3760 Htp 2HSE Asia C,1.0,MCOT HD,MPEG-2/SD,512.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4050 Htp 9HSE Asia C,30.0,MCOT HD,MPEG-4/HD,1301.0,,,False,Thaicom,P 0,,DVB-S2,Tha Qaa,4050 H
+3760 Htp 2HSE Asia C,7.0,T Sports 7,MPEG-2/SD,1071.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4050 Htp 9HSE Asia C,7.0,T Sports 7,MPEG-4/SD,1071.0,,,False,Thaicom,P 0,,DVB-S2,Tha Qaa,4050 H
+3760 Htp 2HSE Asia C,10.0,TP Channel,MPEG-2/SD,1010.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4050 Htp 9HSE Asia C,10.0,TP Channel,MPEG-4/SD,1101.0,,,False,Thaicom,P 0,,DVB-S2,Tha Qaa,4050 H
+3760 Htp 2HSE Asia C,32.0,Thairath TV 32,MPEG-4/HD,1320.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+3920 Htp 6HSE Asia C,614.0,Thairath TV 32,MPEG-2/SD,214.0,BISS 1,,False,Thaicom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4050 Htp 9HSE Asia C,32.0,Thairath TV 32,MPEG-4/HD,1321.0,,,False,Thaicom,P 0,,DVB-S2,Tha Qaa,4050 H
+3760 Htp 2HSE Asia C,34.0,Yunnan Lancang-Mekong International Channel,MPEG-2/SD,3001.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,,3760 H
+3760 Htp 2HSE Asia C,701.0,PPTV HD 36,MPEG-2/SD,201.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4080 Htp 10HSE Asia C,36.0,PPTV HD 36,MPEG-4/HD,1361.0,BISS 1Irdeto,,False,Thaicom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3760 Htp 2HSE Asia C,703.0,GMM 25,MPEG-2/SD,203.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4080 Htp 10HSE Asia C,25.0,GMM 25,MPEG-4/SD,1251.0,BISS 1,,False,Thaicom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3760 Htp 2HSE Asia C,704.0,Thai Channel 8,MPEG-2/SD,204.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4008 Htp 8HSE Asia C,27.0,Thai Channel 8,MPEG-4/SD,1271.0,BISS 1,,False,Thaicom,4/5,15000,DVB-S2,Tha Qaa,4008 H
+3760 Htp 2HSE Asia C,705.0,Mono 29,MPEG-2/SD,205.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha Qaa,3760 H
+4080 Htp 10HSE Asia C,29.0,Mono 29,MPEG-4/SD,1291.0,BISS 1,,False,Thaicom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3760 Htp 2HSE Asia C,708.0,GMM O Shopping,MPEG-2/SD,208.0,BISS 1,,False,Thaicom,5/6,30000,DVB-S3,Tha,3760 H
+3800 Htp 3HSE Asia C,79.0,GMM O Shopping,MPEG-4/HD,791.0,,,False,Thaicom,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1001.0,GMM O Shopping,MPEG-4/HD,201.0,,,False,Thaicom,3/4,45000,DVB-S2,Tha,12343 V
+3760 Htp 2HSE Asia C,11.0,MCOT LTM FM 95,,,,,False,Thaicom,5/6,30000,DVB-S3,Tha,3760 H
+3760 Htp 2HSE Asia C,12.0,MCOT AM 1143,,,,,False,Thaicom,5/6,30000,DVB-S3,Tha,3760 H
+3760 Htp 2HSE Asia C,12.0,MCOT Like Station 1494,,,,,False,Thaicom,5/6,30000,DVB-S3,Tha,3760 H
+3800 Htp 3HSE Asia C,,PSI,65280-2,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,3800 H
+3800 Htp 3HSE Asia C,,PSI,65280-2,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,3800 H
+3800 Htp 3HSE Asia C,,PSI,65280-2,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,3800 H
+3800 Htp 3HSE Asia C,,PSI,65280-2,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,3800 H
+4120 Htp 11HSE Asia C,,PSI,65280-7,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,4120 H
+4120 Htp 11HSE Asia C,,PSI,65280-7,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,4120 H
+4120 Htp 11HSE Asia C,,PSI,65280-7,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,4120 H
+4120 Htp 11HSE Asia C,,PSI,65280-7,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,2/3,30000,DVB-S2,,4120 H
+12343 VSE Asia Ku,,PSI,,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,45000,DVB-S2,,12343 V
+12343 VSE Asia Ku,,PSI,,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,45000,DVB-S2,,12343 V
+12343 VSE Asia Ku,,PSI,,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,45000,DVB-S2,,12343 V
+12343 VSE Asia Ku,,PSI,,,,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,45000,DVB-S2,,12343 V
+12728 VSE Asia Ku,,PSI,16-1,,BISSNeotion SHL,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,30000,DVB-S2,,12728 V
+12728 VSE Asia Ku,,PSI,16-1,,BISSNeotion SHL,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,30000,DVB-S2,,12728 V
+12728 VSE Asia Ku,,PSI,16-1,,BISSNeotion SHL,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,30000,DVB-S2,,12728 V
+12728 VSE Asia Ku,,PSI,16-1,,BISSNeotion SHL,https://www.lyngsat.com/providers/th/PSI.html,True,PSI,3/4,30000,DVB-S2,,12728 V
+3800 Htp 3HSE Asia C,51.0,TV Direct 3,MPEG-4/HD,601.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1006.0,TV Direct 3,MPEG-4/SD,206.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,52.0,World Entertainment TV (Thailand),MPEG-4/SD,611.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1015.0,World Entertainment TV (Thailand),MPEG-4/SD,215.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,53.0,Smart TV (Thailand),MPEG-4/SD,621.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+3800 Htp 3HSE Asia C,56.0,Oto Shopping 1,MPEG-4/HD,651.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,34.0,Oto Shopping 1,MPEG-4/SD,3034.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,57.0,Oto Shopping 2,MPEG-4/HD,761.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,35.0,Oto Shopping 2,MPEG-4/SD,3035.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,77.0,Doonee TV,MPEG-4/HD,771.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,31.0,Doonee TV,MPEG-4/SD,3031.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,78.0,Thai Chaiyo,MPEG-4/HD,781.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,20.0,Thai Chaiyo,MPEG-4/SD,3020.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,80.0,Mangorn,MPEG-4/SD,802.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,29.0,Mangorn,MPEG-4/SD,3029.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,81.0,Kaset Chumchon,MPEG-4/HD,812.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1023.0,Kaset Chumchon,MPEG-4/SD,223.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,82.0,Baan Baan TV 73,MPEG-4/SD,822.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,23.0,Baan Baan TV 73,MPEG-4/SD,3023.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,83.0,54 Unity TV,MPEG-4/SD,831.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,30.0,54 Unity TV,MPEG-4/SD,3030.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,84.0,GMM O Shopping 2,MPEG-4/HD,841.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+3800 Htp 3HSE Asia C,85.0,TV Direct 2,MPEG-4/SD,851.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+4120 Htp 11HSE Asia C,708.0,TV Direct 2,MPEG-4/SD,308.0,,,False,PSI,2/3,30000,DVB-S2,Tha,4120 H
+3800 Htp 3HSE Asia C,86.0,Boonma TV,MPEG-4/SD,861.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1017.0,Boonma TV,MPEG-4/SD,217.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,87.0,TV Direct 9,MPEG-4/HD,871.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+4120 Htp 11HSE Asia C,719.0,TV Direct 9,MPEG-4/HD,319.0,,,False,PSI,2/3,30000,DVB-S2,Tha,4120 H
+12343 VSE Asia Ku,1019.0,TV Direct 9,MPEG-4/SD,219.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,88.0,TV Direct 5,MPEG-4/SD,881.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+3800 Htp 3HSE Asia C,89.0,Star TV (Thailand),MPEG-4/SD,891.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+3800 Htp 3HSE Asia C,712.0,Banterng Thai,MPEG-4/SD,312.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+4120 Htp 11HSE Asia C,712.0,Banterng Thai,MPEG-4/HD,312.0,,,False,PSI,2/3,30000,DVB-S2,Tha,4120 H
+12343 VSE Asia Ku,1007.0,Banterng Thai,MPEG-4/SD,207.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,902.0,TV Direct 1,MPEG-4/HD,513.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1005.0,TV Direct 1,MPEG-4/HD,205.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,903.0,Zabb Channel,MPEG-4/SD,514.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,21.0,Zabb Channel,MPEG-4/SD,3021.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,904.0,Maya Hot News,MPEG-4/HD,515.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12728 VSE Asia Ku,26.0,Maya Hot News,MPEG-4/SD,3026.0,,,False,PSI,3/4,30000,DVB-S2,Tha,12728 V
+3800 Htp 3HSE Asia C,905.0,Kaset News Channel,MPEG-4/SD,516.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1014.0,Kaset News Channel,MPEG-4/SD,214.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,907.0,Media TV,MPEG-4/SD,518.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1028.0,Media TV,MPEG-4/HD,228.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,908.0,Topline TV,MPEG-4/SD,519.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1008.0,Topline TV,MPEG-4/SD,208.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3800 Htp 3HSE Asia C,909.0,M2 Maya Movies,MPEG-4/SD,520.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+3800 Htp 3HSE Asia C,921.0,TV Direct 7,MPEG-4/HD,532.0,,,False,PSI,2/3,30000,DVB-S2,Tha,3800 H
+12343 VSE Asia Ku,1003.0,TV Direct 7,MPEG-4/SD,203.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,803.0,Dharma TV,MPEG-2/SD,203.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,804.0,People TV (Thailand),MPEG-2/SD,204.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,806.0,News 1,MPEG-2/SD,206.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12687 VSE Asia Ku,134.0,News 1,MPEG-4/SD,334.0,,,False,PSI,5/6,30000,DVB-S3,Tha,12687 V
+3840 Htp 4HSE Asia C,808.0,[test card],MPEG-4/HD,208.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,,3840 H
+3920 Htp 6HSE Asia C,605.0,[test card],MPEG-2/SD,205.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,,3920 H
+4120 Htp 11HSE Asia C,726.0,[test card],MPEG-4/SD,326.0,,,False,PSI,2/3,30000,DVB-S2,,4120 H
+12343 VSE Asia Ku,1009.0,[test card],MPEG-4/SD,209.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,1012.0,[test card],MPEG-4/SD,212.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,1024.0,[test card],MPEG-4/SD,224.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,1025.0,[test card],MPEG-4/SD,225.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,809.0,Cool Channel,MPEG-2/SD,209.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12687 VSE Asia Ku,122.0,Cool Channel,MPEG-2/SD,322.0,BISS,,False,PSI,5/6,30000,DVB-S3,Tha,12687 V
+3840 Htp 4HSE Asia C,810.0,Police TV,MPEG-2/SD,210.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,811.0,Dopa Channel,MPEG-2/SD,211.0,BISS 1,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,1201.0,Major Channel Mix,MPEG-2/SD,1501.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5002.0,Major Channel Mix,MPEG-4/SD,7002.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1202.0,MV Mall Best,MPEG-4/HD,1502.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5004.0,MV Mall Best,MPEG-4/SD,7004.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1204.0,TVB Thai,MPEG-4/HD,1504.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5001.0,TVB Thai,MPEG-4/HD,7001.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1205.0,MV TV Channel,MPEG-4/HD,1505.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5003.0,MV TV Channel,MPEG-4/SD,7003.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1206.0,Rama Channel (2),MPEG-4/HD,1506.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5010.0,Rama Channel (2),MPEG-4/SD,7010.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1207.0,MV Mall Family,MPEG-2/SD,1507.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5015.0,MV Mall Family,MPEG-4/SD,7015.0,,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1208.0,Happy TV 65,MPEG-2/SD,1508.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5045.0,Happy TV 65,MPEG-2/SD,7045.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1209.0,MV Mall Home,MPEG-4/HD,1509.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,1210.0,Voice TV,MPEG-4/HD,1510.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5044.0,Voice TV,MPEG-4/SD,7044.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1211.0,France 24 English,MPEG-2/SD,1511.0,,,False,PSI,3/4,30000,DVB-S3,Eng,3840 H
+3840 Htp 4HSE Asia C,1212.0,MV Mall Trend,MPEG-2/SD,1512.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,1213.0,Thaiban 83,MPEG-2/SD,1513.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5043.0,Thaiban 83,MPEG-2/SD,7043.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,1214.0,Boomerang Thailand,MPEG-4/HD,1514.0,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+12343 VSE Asia Ku,5046.0,Boomerang Thailand,MPEG-4/HD,7046.0,BISS,,False,PSI,3/4,45000,DVB-S2,Tha,12343 V
+3840 Htp 4HSE Asia C,826.0,Naraithong Radio,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,827.0,Me Radio,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,828.0,Culture Wave FM,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,829.0,Thai Weather Radio,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,830.0,Thai Weather Radio Volmet,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,831.0,Thai Weather Radio Ship,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3840 Htp 4HSE Asia C,832.0,Thai Weather Radio Fax,,,,,False,PSI,3/4,30000,DVB-S3,Tha,3840 H
+3880 Htp 5HSE Asia C,,CAT Telecom,1-1,,BISS 1,https://www.lyngsat.com/providers/th/CAT-Telecom.html,True,CAT Telecom,3/4,30000,DVB-S3,,3880 H
+3880 Htp 5HSE Asia C,24.0,13 Siam Thai,MPEG-2/SD,514.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,26.0,STOU Channel,MPEG-4/HD,516.0,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,42.0,Suwannabhumi Channel,MPEG-2/SD,242.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,43.0,Boonniyom TV,MPEG-2/SD,243.0,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,44.0,Kuru TV,MPEG-2/SD,244.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+12728 VSE Asia Ku,38.0,Kuru TV,MPEG-4/SD,3038.0,BISS,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+3880 Htp 5HSE Asia C,45.0,E-San Banhouw,MPEG-2/SD,245.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+12728 VSE Asia Ku,28.0,E-San Banhouw,MPEG-4/SD,3028.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+3880 Htp 5HSE Asia C,46.0,Yateem TV,MPEG-2/SD,246.0,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,47.0,Chic Station,MPEG-2/SD,247.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,48.0,Anurak TV,MPEG-2/SD,248.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,49.0,Serng TV 97,MPEG-2/SD,249.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,50.0,New TM,MPEG-2/SD,250.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,52.0,Annas TV,MPEG-2/SD,252.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,53.0,White Channel,MPEG-2/SD,253.0,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,7.0,Police Radio,,,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,18.0,Siangdham Radio,,,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,20.0,MCOT Sukhothai FM,,,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3880 Htp 5HSE Asia C,31.0,Maxagro Radio,,,,,False,CAT Telecom,3/4,30000,DVB-S3,Tha,3880 H
+3920 Htp 6HSE Asia C,602.0,TNN 16,MPEG-2/SD,202.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,16.0,TNN 16,MPEG-4/SD,1161.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,603.0,True 4U,MPEG-2/SD,203.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,24.0,True 4U,MPEG-4/SD,1241.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,604.0,NBT 2,MPEG-2/SD,204.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4150 Htp 12HSE Asia C,2.0,NBT 2,8956-10MPEG-4/HD,1021.0,BISS 1,,False,CAT Telecom,3/4,12000,DVB-S2,Tha Qaa,4150 H
+3920 Htp 6HSE Asia C,606.0,Workpoint 23,MPEG-2/SD,206.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,23.0,Workpoint 23,MPEG-4/SD,1231.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,608.0,Nation TV,MPEG-2/SD,208.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,22.0,Nation TV,MPEG-4/SD,1221.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,613.0,One 31,MPEG-2/SD,213.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,31.0,One 31,MPEG-4/HD,1311.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,615.0,Channel 3 (Thailand),MPEG-2/SD,215.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4008 Htp 8HSE Asia C,33.0,Channel 3 (Thailand),MPEG-4/HD,1331.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,Tha Qaa,4008 H
+3920 Htp 6HSE Asia C,616.0,Amarin 34 HD,MPEG-2/SD,216.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,34.0,Amarin 34 HD,MPEG-4/HD,1341.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3920 Htp 6HSE Asia C,617.0,BBTV Channel 7,MPEG-2/SD,217.0,BISS 1,,False,CAT Telecom,3/4,30000,DVB-S3,Tha Qaa,3920 H
+4080 Htp 10HSE Asia C,35.0,BBTV Channel 7,MPEG-4/HD,1351.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+3923 HAfrica36-38,1.0,Somaliland National TV,?-?MPEG-2/SD,300.0,,,False,CAT Telecom,2/3,4166,DVB-S4,Som,3923 HA
+3923 HAfrica36-38,1.0,Radio Hargeisa,,,,,False,CAT Telecom,2/3,4166,DVB-S4,,3923 HA
+3923 HAfrica36-38,1.0,Quran Radio Hargeisa,,,,,False,CAT Telecom,2/3,4166,DVB-S4,,3923 HA
+3946 Htp 7HSE Asia C,,(feeds),,,,,False,CAT Telecom,3/4,4167,DVB-S2,,3946 H
+3985 Htp 8HSE Asia C,,(Thai PBS feeds),,,,,False,CAT Telecom,3/4,1800,DVB-S1,,3985 H
+4008 Htp 8HSE Asia C,3.0,Thai PBS 3,MPEG-4/HD,1031.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,Tha Qaa,4008 H
+4008 Htp 8HSE Asia C,4.0,ALTV 4,MPEG-4/SD,1041.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,Tha Qaa,4008 H
+4008 Htp 8HSE Asia C,18.0,JKN 18,MPEG-4/SD,1181.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,Tha Qaa,4008 H
+4008 Htp 8HSE Asia C,46.0,[DLTV 7 test card],MPEG-4/SD,1461.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,,4008 H
+4008 Htp 8HSE Asia C,47.0,[DLTV 8 test card],MPEG-4/SD,1471.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,,4008 H
+4008 Htp 8HSE Asia C,48.0,[DLTV 9 test card],MPEG-4/SD,1481.0,BISS 1,,False,CAT Telecom,4/5,15000,DVB-S2,,4008 H
+4053 Htp 5AAfrica36-38,1.0,Horn Cable TV,MPEG-2/SD,33.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,2.0,Universal TV (UK),MPEG-2/SD,65.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,3.0,Codka Bariga Afrika,MPEG-2/SD,97.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,4.0,KGS TV,MPEG-2/SD,130.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,5.0,SBC TV (Somalia),MPEG-2/SD,161.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,6.0,Banaadir TV,MPEG-2/SD,193.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,7.0,Somali Region TV,MPEG-2/SD,225.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Amh,4053 H
+4053 Htp 5AAfrica36-38,9.0,Sahan TV,MPEG-2/SD,289.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,10.0,Puntland TV,MPEG-2/SD,321.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,11.0,MM TV,MPEG-2/SD,353.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,12.0,Bulsho TV,MPEG-2/SD,385.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,13.0,Saab TV,MPEG-2/SD,417.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,15.0,Somali Cable,MPEG-2/SD,481.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,16.0,Five Somali TV,MPEG-2/SD,513.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,17.0,Jubbaland TV,MPEG-2/SD,257.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,19.0,Xafiiska Waxbarashada DDS,MPEG-2/SD,1901.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,701.0,Somali National TV,MPEG-2/SD,4001.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,702.0,SNTV Daljir,MPEG-2/SD,4002.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,703.0,Dacwa TV,MPEG-2/SD,4003.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,710.0,Hirshabelle TV,MPEG-2/SD,4010.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,713.0,Kalsan TV,MPEG-2/SD,4013.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,716.0,Shakaal TV,MPEG-2/SD,4016.0,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,18.0,SBC Radio,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,27.0,Radio Midnimo,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,29.0,Iganjo FM,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Eng,4053 H
+4053 Htp 5AAfrica36-38,34.0,MBCI Radio,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Eng,4053 H
+4053 Htp 5AAfrica36-38,35.0,Radio Kaya,,,,,False,CAT Telecom,3/4,21666,DVB-S2,,4053 H
+4053 Htp 5AAfrica36-38,36.0,Sauti Ya Pwani FM,,,,,False,CAT Telecom,3/4,21666,DVB-S2,,4053 H
+4053 Htp 5AAfrica36-38,38.0,Radio Muqdisho,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Som,4053 H
+4053 Htp 5AAfrica36-38,43.0,Mutongoi FM,,,,,False,CAT Telecom,3/4,21666,DVB-S2,Eng,4053 H
+4053 Htp 5AAfrica36-38,44.0,County FM,,,,,False,CAT Telecom,3/4,21666,DVB-S2,,4053 H
+4080 Htp 10HSE Asia C,5.0,Thai TV 5 HD,MPEG-4/HD,1051.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,Tha Qaa,4080 H
+4080 Htp 10HSE Asia C,37.0,[DLTV 10 test card],MPEG-4/SD,1371.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,,4080 H
+4080 Htp 10HSE Asia C,38.0,[DLTV 11 test card],MPEG-4/SD,1381.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,,4080 H
+4080 Htp 10HSE Asia C,39.0,[DLTV 12 test card],MPEG-4/SD,1391.0,BISS 1,,False,CAT Telecom,4/5,30000,DVB-S2,,4080 H
+4080 Htp 10HSE Asia C,55.0,[Thai TV Global Network test card],MPEG-4/SD,1551.0,,,False,CAT Telecom,4/5,30000,DVB-S2,,4080 H
+4080 Htp 10HSE Asia C,56.0,Royal Thai Army Radio,,,,,False,CAT Telecom,4/5,30000,DVB-S2,Tha,4080 H
+4120 Htp 11HSE Asia C,704.0,TNBC,MPEG-4/SD,304.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,22.0,TNBC,MPEG-4/SD,3022.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4120 Htp 11HSE Asia C,705.0,Ruktae TV 53,MPEG-4/SD,305.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+4120 Htp 11HSE Asia C,707.0,True Select,MPEG-4/SD,307.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+4120 Htp 11HSE Asia C,709.0,Top News,MPEG-4/SD,309.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+4120 Htp 11HSE Asia C,710.0,88 Good Luck TV,MPEG-4/SD,310.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,36.0,88 Good Luck TV,MPEG-4/SD,1361.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4120 Htp 11HSE Asia C,713.0,Shop Channel Thailand,MPEG-4/HD,313.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12343 VSE Asia Ku,1002.0,Shop Channel Thailand,MPEG-4/HD,202.0,,,False,CAT Telecom,3/4,45000,DVB-S2,Tha,12343 V
+4120 Htp 11HSE Asia C,714.0,MV Mall Living,MPEG-4/HD,314.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,37.0,MV Mall Living,MPEG-4/SD,3037.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4120 Htp 11HSE Asia C,715.0,Umm TV,MPEG-4/HD,315.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,25.0,Umm TV,MPEG-4/SD,3025.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4120 Htp 11HSE Asia C,716.0,True Shopping,MPEG-4/HD,316.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12343 VSE Asia Ku,1020.0,True Shopping,MPEG-4/SD,220.0,BISS,,False,CAT Telecom,3/4,45000,DVB-S2,Tha,12343 V
+4120 Htp 11HSE Asia C,717.0,Oto Shopping 3,MPEG-4/HD,317.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,39.0,Oto Shopping 3,MPEG-4/SD,3039.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4120 Htp 11HSE Asia C,718.0,Wisdom TV,MPEG-4/SD,318.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+4120 Htp 11HSE Asia C,720.0,Mirror Channel,MPEG-4/HD,320.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12343 VSE Asia Ku,1010.0,Mirror Channel,MPEG-4/SD,210.0,,,False,CAT Telecom,3/4,45000,DVB-S2,Tha,12343 V
+4120 Htp 11HSE Asia C,724.0,Lanthung TV,MPEG-4/SD,324.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+4120 Htp 11HSE Asia C,725.0,Chomyut Channel,MPEG-4/HD,325.0,,,False,CAT Telecom,2/3,30000,DVB-S2,Tha,4120 H
+12728 VSE Asia Ku,24.0,Chomyut Channel,MPEG-4/SD,3024.0,,,False,CAT Telecom,3/4,30000,DVB-S2,Tha,12728 V
+4163 Htp 12HSE Asia C,,NBT TV,0-10,,BISS 1,https://www.lyngsat.com/providers/th/NBT-TV.html,True,NBT TV,3/4,9600,DVB-S2,,4163 H
+4163 Htp 12HSE Asia C,110.0,NBT 11 Northeast,MPEG-4/SD,2111.0,BISS 1,,False,NBT TV,3/4,9600,DVB-S2,Tha Qaa,4163 H
+4163 Htp 12HSE Asia C,111.0,NBT 11 North,MPEG-4/SD,3111.0,BISS 1,,False,NBT TV,3/4,9600,DVB-S2,Tha Qaa,4163 H
+4163 Htp 12HSE Asia C,112.0,NBT 11 South,MPEG-4/SD,4111.0,BISS 1,,False,NBT TV,3/4,9600,DVB-S2,Tha Qaa,4163 H
+4163 Htp 12HSE Asia C,113.0,NBT 11 Central,MPEG-4/SD,5111.0,,,False,NBT TV,3/4,9600,DVB-S2,Tha Qaa,4163 H
+4176 Htp 12HSE Asia C,,Radio Thailand,,,,https://www.lyngsat.com/providers/th/Radio-Thailand.html,True,Radio Thailand,1/2,2592,DVB-S2,,4176 H
+4176 Htp 12HSE Asia C,2817.0,Radio Thailand AM 819,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2824.0,Radio Thailand AM 819,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2818.0,Radio Thailand AM 891,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2825.0,Radio Thailand AM 891,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2819.0,Radio Thailand Education,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2820.0,Radio Thailand World Service,,,,,False,Radio Thailand,1/2,2592,DVB-S2,,4176 H
+4176 Htp 12HSE Asia C,2821.0,Radio Thailand FM 88,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2822.0,Radio Thailand FM 92.5,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2826.0,Radio Thailand FM 92.5,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2823.0,Radio Thailand FM 105,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2827.0,Bangkok Radio Live,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+4176 Htp 12HSE Asia C,2828.0,Bangkok Radio Live,,,,,False,Radio Thailand,1/2,2592,DVB-S2,Tha,4176 H
+12343 VSE Asia Ku,1013.0,BJ Channel,MPEG-4/SD,213.0,,,False,Radio Thailand,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,1016.0,Hit station,MPEG-4/SD,216.0,,,False,Radio Thailand,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,1022.0,Top News (Thailand),MPEG-4/SD,222.0,,,False,Radio Thailand,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,5005.0,MV Lao,MPEG-4/SD,7005.0,BISS,,False,Radio Thailand,3/4,45000,DVB-S2,Lao,12343 V
+12343 VSE Asia Ku,5006.0,MV News,MPEG-4/SD,7006.0,BISS,,False,Radio Thailand,3/4,45000,DVB-S2,Tha,12343 V
+12343 VSE Asia Ku,5007.0,TV 3 (Cambodia),MPEG-4/SD,7007.0,BISS,,False,Radio Thailand,3/4,45000,DVB-S2,Khm,12343 V
+12343 VSE Asia Ku,5011.0,MVM,MPEG-4/SD,7011.0,,,False,Radio Thailand,3/4,45000,DVB-S2,Bur,12343 V
+12343 VSE Asia Ku,5041.0,MV TV Series,MPEG-4/SD,7041.0,BISS,,False,Radio Thailand,3/4,45000,DVB-S2,Tha,12343 V
+12521 VSE Asia Ku,,Canal + Myanmar,,,Conax,,False,Radio Thailand,3/4,30000,DVB-S2,,12521 V
+12604 VSE Asia Ku,,Canal + Myanmar,,,Conax,,False,Radio Thailand,3/4,30000,DVB-S2,,12604 V
+12604 VSE Asia Ku,201.0,Teen Radio,MPEG-4,,,,False,Radio Thailand,3/4,30000,DVB-S2,Bur,12604 V
+12604 VSE Asia Ku,202.0,Teen Radio,MPEG-4,,,,False,Radio Thailand,3/4,30000,DVB-S2,Bur,12604 V
+12604 VSE Asia Ku,911.0,Mandalay FM,MPEG-4,,,,False,Radio Thailand,3/4,30000,DVB-S2,Bur,12604 V
+12645 VSE Asia Ku,,DLTV,,,,https://www.lyngsat.com/providers/th/DLTV.html,True,DLTV,2/3,30000,DVB-S2,,12645 V
+12645 VSE Asia Ku,1501.0,DLTV 1,MPEG-4/HD,512.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1502.0,DLTV 2,MPEG-4/HD,513.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1503.0,DLTV 3,MPEG-4/HD,514.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1504.0,DLTV 4,MPEG-4/HD,515.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1505.0,DLTV 5,MPEG-4/HD,516.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1506.0,DLTV 6,MPEG-4/HD,517.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1507.0,DLTV 7,MPEG-4/HD,518.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1508.0,DLTV 8,MPEG-4/HD,519.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1509.0,DLTV 9,MPEG-4/HD,520.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1510.0,DLTV 10,MPEG-4/HD,521.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1511.0,DLTV 11,MPEG-4/HD,522.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1512.0,DLTV 12,MPEG-4/HD,523.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1513.0,DLTV 13,MPEG-4/HD,524.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1514.0,DLTV 14,MPEG-4/HD,525.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12645 VSE Asia Ku,1515.0,DLTV 15,MPEG-4/HD,526.0,,,False,DLTV,2/3,30000,DVB-S2,Tha Eng,12645 V
+12687 VSE Asia Ku,123.0,VoA/RFA News,MPEG-2/SD,323.0,,,False,DLTV,5/6,30000,DVB-S3,,12687 V
+12687 VSE Asia Ku,128.0,Sport 2 (Thailand),MPEG-4/HD,328.0,BISS,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,129.0,Toon Toon,MPEG-4/HD,329.0,BISS,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,131.0,Movies & sat Asia,MPEG-4/HD,331.0,BISS,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,132.0,IPM Kaseat,MPEG-4/SD,332.0,,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,135.0,TV Market (Thailand),MPEG-2/SD,335.0,,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,1121.0,ETV (Thailand),MPEG-4/HD,1321.0,BISS,,False,DLTV,5/6,30000,DVB-S3,,12687 V
+12687 VSE Asia Ku,136.0,Looktung Network,,,BISS,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,137.0,Big FM,,,BISS,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12687 VSE Asia Ku,138.0,Education FM 92,,,,,False,DLTV,5/6,30000,DVB-S3,Tha,12687 V
+12728 VSE Asia Ku,1.0,PSI AEC,MPEG-4/SD,3001.0,,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,2.0,Mizzima +,MPEG-4/SD,3002.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,8.0,Mahar TV,MPEG-2/SD,3008.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,12.0,Mahar Esports,MPEG-4/SD,3012.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,13.0,Mizzima TV,MPEG-4/SD,3013.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,14.0,MTTV,MPEG-4/SD,3014.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,17.0,Democratic Voice of Burma TV,MPEG-4/SD,3017.0,Neotion SHL,,False,DLTV,3/4,30000,DVB-S2,Bur,12728 V
+12728 VSE Asia Ku,27.0,Eakkaluk Thai TV,MPEG-4/SD,3027.0,,,False,DLTV,3/4,30000,DVB-S2,Tha,12728 V
+12728 VSE Asia Ku,32.0,SBB TV,MPEG-4/SD,3032.0,,,False,DLTV,3/4,30000,DVB-S2,Tha,12728 V
+12728 VSE Asia Ku,33.0,Shop Now,MPEG-4/SD,3033.0,,,False,DLTV,3/4,30000,DVB-S2,Tha,12728 V

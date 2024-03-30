@@ -1,0 +1,7 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3579 VC0,1.0,Madani TV,?-?MPEG-4/HD,119.0,,,False,,2/3,19786,DVB-S1,Ind,3579 VC
+4013 HC0,1004.0,Madani TV,MPEG-4/HD,42.0,,,False,,1/2,4090,DVB-S2,Ind,4013 HC
+3772 HC0,,,,,,,False,,,,,,3772 HC
+4013 HC0,,PSN,,,,https://www.lyngsat.com/providers/id/PSN.html,True,PSN,1/2,4090,DVB-S2,,4013 HC
+4013 HC0,1001.0,(PSN feeds),,33.0,,,False,PSN,1/2,4090,DVB-S2,,4013 HC
+4013 HC0,1002.0,Elshinta TV,MPEG-4/SD,36.0,,,False,PSN,1/2,4090,DVB-S2,Ind,4013 HC

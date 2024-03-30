@@ -1,0 +1,133 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3712 HEast hemi41,1.0,Tchad 24,?-?MPEG-4/HD,481.0,,,False,,2/3,5165,DVB-S2,Fre,3712 HE
+3942 VEast hemi41,1.0,Channels TV,?-?MPEG-2/HD,308.0,,,False,,3/4,1666,DVB-S2,Eng,3942 VE
+3954 VWest hemi,,Rede Brasil de Comunicação,MPEG-4/HD,264.0,,,False,,2/3,3413,DVB-S2,Por,3954 VW
+3954 VWest hemi,,RBC Rádio,,,,,False,,2/3,3413,DVB-S2,Por,3954 VW
+3960 VWest hemi,,TV Assembleia Legislativa do Tocantins,MPEG-4/HD,102.0,,,False,,2/3,3750,DVB-S2,Por,3960 VW
+3962 HWest hemi,,IMPD TV,,,,https://www.lyngsat.com/providers/br/IMPD-TV.html,True,IMPD TV,3/4,7200,DVB-S2,,3962 HW
+3962 HWest hemi,,IMPD TV,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/IMPD-TV.html,True,IMPD TV,3/4,7200,DVB-S2,Por,3962 HW
+3962 HWest hemi,,IMPD TV,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/IMPD-TV.html,True,IMPD TV,3/4,7200,DVB-S2,Por,3962 HW
+3970 HWest hemi,,IMPD TV,MPEG-4/HD,1110.0,,https://www.lyngsat.com/providers/br/IMPD-TV.html,True,IMPD TV,3/4,5000,DVB-S2,Por,3970 HW
+3972 VWest hemi,,TV Assembléia Minas Gerais,MPEG-2/SD,48.0,,,False,IMPD TV,3/4,3750,DVB-S3,Por,3972 VW
+3972 VWest hemi,,Rádio Assembléia Minas Gerais,,,,,False,IMPD TV,3/4,3750,DVB-S3,Por,3972 VW
+3982 HWest hemi,,IMPD TV Worldwide,,,,https://www.lyngsat.com/providers/br/IMPD-TV-Worldwide.html,True,IMPD TV Worldwide,3/4,5000,DVB-S2,,3982 HW
+3982 HWest hemi,,IMPD TV Worldwide,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/IMPD-TV-Worldwide.html,True,IMPD TV Worldwide,3/4,5000,DVB-S2,Por,3982 HW
+3982 HWest hemi,,IMPD TV Worldwide,MPEG-4/HD,1110.0,,https://www.lyngsat.com/providers/br/IMPD-TV-Worldwide.html,True,IMPD TV Worldwide,3/4,5000,DVB-S2,Por,3982 HW
+4114 VGlobal,1.0,IMPD TV Worldwide,0-1MPEG-4/SD,1110.0,,https://www.lyngsat.com/providers/br/IMPD-TV-Worldwide.html,True,IMPD TV Worldwide,3/5,3332,DVB-S2,Por,4114 VG
+3987 HWest hemi,,IMPD TV Rondônia,,,,https://www.lyngsat.com/providers/br/IMPD-TV-Rondonia.html,True,IMPD TV Rondônia,5/6,3333,DVB-S2,,3987 HW
+3987 HWest hemi,,IMPD TV Rondônia,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/IMPD-TV-Rondonia.html,True,IMPD TV Rondônia,5/6,3333,DVB-S2,Por,3987 HW
+3987 HWest hemi,,IMPD TV Rondônia,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/IMPD-TV-Rondonia.html,True,IMPD TV Rondônia,5/6,3333,DVB-S2,Por,3987 HW
+3991 HWest hemi,,IMPD TV Goiânia,MPEG-4/HD,1110.0,,,False,IMPD TV Rondônia,3/4,3250,DVB-S2,Por,3991 HW
+3995 HWest hemi,,IMPD TV Espírito Santo,MPEG-2/SD,33.0,,,False,IMPD TV Rondônia,3/4,3330,DVB-S2,Por,3995 HW
+4009 HWest hemi,,TV ALERJ,MPEG-4/HD,512.0,,,False,IMPD TV Rondônia,3/4,3350,DVB-S2,Por,4009 HW
+4014 HWest hemi,1.0,RBA TV,?-?MPEG-2/SD,308.0,,,False,IMPD TV Rondônia,3/4,4166,DVB-S2,Por,4014 HW
+4014 HWest hemi,1.0,Rádio Clube do Pará,,,,,False,IMPD TV Rondônia,3/4,4166,DVB-S2,Por,4014 HW
+4020 HWest hemi,,TV Norte Amazonas,MPEG-4/HD,481.0,,,False,IMPD TV Rondônia,3/4,1600,DVB-S2,Por,4020 HW
+4072 HWest hemi,,IMPD TV Belo Horizonte,MPEG-4/HD,101.0,,,False,IMPD TV Rondônia,2/3,3333,DVB-S2,Por,4072 HW
+4130 VGlobal,,CruiseSat,,,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html,True,CruiseSat,3/5,22080,DVB-S2,,4130 VG
+4130 VGlobal,9200.0,ESPN 2 US,HEVC/HD,7680.0,Xcrypt,,False,CruiseSat,3/5,22080,DVB-S2,Eng,4130 VG
+4130 VGlobal,9201.0,ESPNU,HEVC/HD,912.0,Xcrypt,,False,CruiseSat,3/5,22080,DVB-S2,Eng,4130 VG
+4130 VGlobal,9203.0,(ESPN feeds),,56.0,Xcrypt,,False,CruiseSat,3/5,22080,DVB-S2,,4130 VG
+4130 VGlobal,9301.0,CNN USA,HEVC/SD,700.0,Xcrypt,,False,CruiseSat,3/5,22080,DVB-S2,Eng,4130 VG
+4130 VGlobal,9302.0,CruiseSat promo,HEVC/SD,256.0,,,False,CruiseSat,3/5,22080,DVB-S2,Eng,4130 VG
+4130 VGlobal,9303.0,Rai 1,HEVC,811.0,Xcrypt,,False,CruiseSat,3/5,22080,DVB-S2,Ita,4130 VG
+10956 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10956 V
+10962 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10962 V
+10969 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10969 V
+10975 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10975 V
+10981 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10981 V
+10993 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10993 V
+10999 VEurope,,(feeds),,,,,False,CruiseSat,3/5,5000,DVB-S2,,10999 V
+11009 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11009 V
+11019 VEurope,,(feeds),,,,,False,CruiseSat,3/5,12500,DVB-S2,,11019 V
+11037 VEurope,,(feeds),,,,,False,CruiseSat,3/4,5000,DVB-S2,,11037 V
+11050 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11050 V
+11062 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11062 V
+11074 VEurope,,(feeds),,,,,False,CruiseSat,3/4,7500,DVB-S2,,11074 V
+11086 VEurope,,(feeds),,,,,False,CruiseSat,3/4,7500,DVB-S2,,11086 V
+11098 VEurope,,(feeds),,,,,False,CruiseSat,3/5,12500,DVB-S2,,11098 V
+11125 VSAF,,(feeds),,,,,False,CruiseSat,332,3,DVB-S2,,11125 V
+11506 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11506 V
+11518 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11518 V
+11530 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,11530 V
+12678 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,12678 V
+12690 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,12690 V
+12702 VEurope,,(feeds),,,,,False,CruiseSat,3/5,10000,DVB-S2,,12702 V
+10972 VSAF0,,WiTV Africa,,,,https://www.lyngsat.com/providers/us/WiTV-Africa.html,True,WiTV Africa,000,30,DVB-S2,,10972 V
+10972 VSAF0,,Preach TV,MPEG-4/SD,33.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Rave TV,MPEG-4/SD,36.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Bonanza Ballz,MPEG-4/SD,39.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Live Keno Deluxe,MPEG-4/SD,45.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,BetBonanza EPL,MPEG-4/SD,48.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,BetBonanza Colour,MPEG-4/SD,51.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Kids Zone (1),MPEG-4/SD,57.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Zee TV Africa,MPEG-4/SD,60.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Aljazeera English,MPEG-4/SD,63.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Tara HD,MPEG-4/SD,84.0,,,False,WiTV Africa,000,30,DVB-S2,Yor,10972 V
+10972 VSAF0,,Fox Sports News Australia,MPEG-4/SD,90.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Beats Plus,MPEG-4/SD,92.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,3ABN Kids Network,MPEG-4/SD,96.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,MBC 2 (Saudi Arabia),MPEG-4/SD,98.0,,,False,WiTV Africa,000,30,DVB-S2,Ara,10972 V
+10972 VSAF0,,LuckyBet EPL,MPEG-4/SD,111.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,LuckyBet LaLiga,MPEG-4/SD,114.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,Romedy Now,MPEG-4/SD,117.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,France 24 English,MPEG-4/SD,119.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+10972 VSAF0,,DW English,MPEG-4/SD,128.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+11084 VSAF0,2.0,DW English,MPEG-4/SD,56.0,,,False,WiTV Africa,500,22,DVB-S2,Eng,11084 V
+10972 VSAF0,,MBC Action,MPEG-4/SD,131.0,,,False,WiTV Africa,000,30,DVB-S2,Eng,10972 V
+11052 HAmericas,700.0,E-Networks Channel 1,0-1HEVC/HD,256.0,,,False,WiTV Africa,4/5,30000,DVB-S2,Eng,11052 H
+11168 HAmericas,1.0,E-Networks Channel 1,MPEG-2/SD,52.0,,,False,WiTV Africa,3/4,30000,DVB-S2,Eng,11168 H
+11058 VSAF0,,BT Media Group,,,,https://www.lyngsat.com/providers/cm/BT-Media-Group.html,True,BT Media Group,3/5,16667,DVB-S2,,11058 V
+11058 VSAF0,,Afrique Média,MPEG-4/SD,138.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,,Star 21 TV,MPEG-4/SD,161.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,1.0,My Media Prime,MPEG-4/SD,402.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,2.0,My Music Africa,MPEG-4/SD,202.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,3.0,Notre TV,MPEG-4/SD,1001.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,4.0,My Movie English,MPEG-4/SD,502.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,5.0,My Movie French,MPEG-4/SD,602.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,6.0,My Gospel,MPEG-4/SD,302.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,8.0,Transfiguration TV,MPEG-4/SD,85.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,9.0,Kingship TV,MPEG-4/SD,116.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,10.0,West Africa TV,MPEG-4/HD,52.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,14.0,The Temple TV,MPEG-4/SD,149.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,15.0,Afric 7 TV,MPEG-4/SD,147.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,16.0,Equinoxe TV,MPEG-4/SD,4112.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,17.0,NG TV,MPEG-4/SD,280.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,18.0,Glory Christ Channel,MPEG-4/SD,164.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,19.0,Real Black TV,MPEG-4/SD,702.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11058 VSAF0,20.0,Galaxie TV,MPEG-4/SD,162.0,,,False,BT Media Group,3/5,16667,DVB-S2,Fre,11058 V
+11058 VSAF0,21.0,Hi TV,MPEG-4/SD,71.0,,,False,BT Media Group,3/5,16667,DVB-S2,Eng,11058 V
+11084 VSAF0,,PSTV,,,,https://www.lyngsat.com/providers/cg/PSTV.html,True,PSTV,500,22,DVB-S2,,11084 V
+11084 VSAF0,3.0,TV5Monde Afrique,MPEG-4/SD,63.0,,,False,PSTV,500,22,DVB-S2,Fre,11084 V
+11084 VSAF0,4.0,France 24 Français,MPEG-4/SD,256.0,,,False,PSTV,500,22,DVB-S2,Fre,11084 V
+11132 HAmericas,,Dream TV Satellite,,,,https://www.lyngsat.com/providers/gy/Dream-TV-Satellite.html,True,Dream TV Satellite,3/4,30000,DVB-S2,,11132 H
+11132 HAmericas,,Dream TV Satellite,,,,https://www.lyngsat.com/providers/gy/Dream-TV-Satellite.html,True,Dream TV Satellite,3/4,30000,DVB-S2,,11132 H
+11168 HAmericas,,Dream TV Satellite,,,,https://www.lyngsat.com/providers/gy/Dream-TV-Satellite.html,True,Dream TV Satellite,3/4,30000,DVB-S2,,11168 H
+11168 HAmericas,,Dream TV Satellite,,,,https://www.lyngsat.com/providers/gy/Dream-TV-Satellite.html,True,Dream TV Satellite,3/4,30000,DVB-S2,,11168 H
+11132 HAmericas,7.0,NCN TV,MPEG-4/SD,453.0,,,False,Dream TV Satellite,3/4,30000,DVB-S2,Eng,11132 H
+11132 HAmericas,13.0,Guyana Learning Channel Ah We,MPEG-4/SD,458.0,,,False,Dream TV Satellite,3/4,30000,DVB-S2,Eng,11132 H
+11132 HAmericas,14.0,Guyana Learning Channel Discover,MPEG-4/SD,471.0,,,False,Dream TV Satellite,3/4,30000,DVB-S2,Eng,11132 H
+11132 HAmericas,15.0,Guyana Learning Channel Elevate,MPEG-4/SD,446.0,,,False,Dream TV Satellite,3/4,30000,DVB-S2,Eng,11132 H
+11132 HAmericas,100.0,Bravo East,MPEG-4/SD,256.0,,,False,Dream TV Satellite,3/4,30000,DVB-S2,Eng,11132 H
+11168 HSAF0,,SkyVision,,,,https://www.lyngsat.com/providers/uk/SkyVision.html,True,SkyVision,2/3,30000,DVB-S2,,11168 H
+11168 HSAF0,,AccessBet League,MPEG-4/SD,501.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,,AccessBet,MPEG-4/SD,1001.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,,BetKing Live League,MPEG-4/SD,1601.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,,BetKing Italiano,MPEG-4/SD,1901.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,1.0,SkyVision promo,MPEG-2/SD,256.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,2.0,DBS TV (Cameroon),MPEG-4/SD,513.0,,,False,SkyVision,2/3,30000,DVB-S2,Fre,11168 H
+11168 HSAF0,4.0,Gloire TV,MPEG-4/SD,401.0,,,False,SkyVision,2/3,30000,DVB-S2,Fre,11168 H
+11168 HSAF0,16.0,Divine TV,MPEG-4/SD,258.0,,,False,SkyVision,2/3,30000,DVB-S2,Eng,11168 H
+11168 HSAF0,18.0,Ciel TV,MPEG-4/SD,1801.0,,,False,SkyVision,2/3,30000,DVB-S2,Fre,11168 H
+11168 HSAF0,25.0,Diaspora 24,MPEG-2/SD,301.0,,,False,SkyVision,2/3,30000,DVB-S2,Fre,11168 H
+11168 HSAF0,39.0,New Frontiers TV,MPEG-4/SD,3901.0,,,False,SkyVision,2/3,30000,DVB-S2,,11168 H
+11168 HAmericas,2.0,E-Networks Channel 2,MPEG-2/SD,59.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,3.0,E-Networks Channel 3,MPEG-2/SD,162.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,6.0,NTN,MPEG-2/SD,421.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,9.0,Guyana Learning Channel,MPEG-4/SD,428.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,10.0,Guyana Learning Channel Junior,MPEG-4/SD,435.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,11.0,Guyana Learning Channel Elementary,MPEG-4/SD,442.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11168 HAmericas,12.0,Guyana Learning Channel Teen,MPEG-4/SD,449.0,,,False,SkyVision,3/4,30000,DVB-S2,Eng,11168 H
+11468 HMENA,1.0,RASD TV,1-1MPEG-2/SD,512.0,,,False,SkyVision,3/4,1666,DVB-S1,Ara,11468 H
+11614 HMENA,4.0,Alikhbaria Syria,65535-1MPEG-4/SD,1025.0,,,False,SkyVision,3/4,2916,DVB-S2,Ara,11614 H
+11617 HMENA,1.0,Sama TV,65535-1MPEG-2/SD,512.0,,,False,SkyVision,5/6,1666,DVB-S2,Ara,11617 H

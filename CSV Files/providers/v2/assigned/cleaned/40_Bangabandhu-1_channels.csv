@@ -1,0 +1,106 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4520 HBeam 5,,,,,,,False,,2/3,30000,DVB-S2,,4520 HB
+4552 VBeam 5,,,,,Videoguard,,False,,4/5,10000,DVB-S2,,4552 VB
+4600 HBeam 5,,,1001-1001,,,,False,,2/3,30000,DVB-S2,,4600 HB
+4680 HBeam 5,,,,,,,False,,2/3,30000,DVB-S2,,4680 HB
+4720 HBeam 5,,,,,,,False,,3/4,30000,DVB-S2,,4720 HB
+4520 HBeam 5,301.0,Desh TV,MPEG-4/SD,827.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,302.0,Mohona TV,MPEG-4/HD,833.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,303.0,ATN News (Bangladesh),MPEG-4/HD,308.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,304.0,Ananda TV (Bangladesh),MPEG-2/SD,824.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,306.0,Nagorik TV,MPEG-4/HD,808.0,Cryptoguard 1,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,307.0,Ekushey TV,MPEG-2/SD,828.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,310.0,Jamuna TV,MPEG-2/SD,831.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4520 HBeam 5,311.0,My TV (Bangladesh),MPEG-4/HD,834.0,,,False,,2/3,30000,DVB-S2,Ben,4520 HB
+4525 VBeam 5,,Bangladesh Betar,,,,https://www.lyngsat.com/providers/bd/Bangladesh-Betar.html,True,Bangladesh Betar,6/7,2400,DVB-S2,,4525 VB
+4525 VBeam 5,1000.0,Bangladesh Betar Home,,,,,False,Bangladesh Betar,6/7,2400,DVB-S2,Ben,4525 VB
+4680 HBeam 5,1000.0,Bangladesh Betar Home,,,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4680 HB
+4525 VBeam 5,2000.0,Bangladesh Betar External,,,,,False,Bangladesh Betar,6/7,2400,DVB-S2,Ben,4525 VB
+4680 HBeam 5,2000.0,Bangladesh Betar External,,,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4680 HB
+4525 VBeam 5,3000.0,Bangladesh Betar Traffic,,,,,False,Bangladesh Betar,6/7,2400,DVB-S2,Ben,4525 VB
+4680 HBeam 5,3000.0,Bangladesh Betar Traffic,,,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4680 HB
+4525 VBeam 5,4000.0,Bangladesh Betar Commercial,,,,,False,Bangladesh Betar,6/7,2400,DVB-S2,Ben,4525 VB
+4680 HBeam 5,4000.0,Bangladesh Betar Commercial,,,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4680 HB
+4533 VBeam 5,1001.0,[test card],?-?MPEG-4/HD,1004.0,,,False,Bangladesh Betar,2/3,8000,DVB-S2,,4533 VB
+4545 HBeam 5,1.0,Independent TV,2-1MPEG-4/SD,200.0,,,False,Bangladesh Betar,2/3,4160,DVB-S2,Ben,4545 HB
+4550 HBeam 5,210.0,Duronto TV,?-?MPEG-4/HD,518.0,BISS,,False,Bangladesh Betar,2/3,4158,DVB-S2,Ben,4550 HB
+4552 VBeam 5,1890.0,Star Plus India,MPEG-4/SD,450.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Hin,4552 VB
+4552 VBeam 5,1891.0,Star Gold India,MPEG-4/SD,452.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Hin,4552 VB
+4552 VBeam 5,1892.0,Star Bharat India,MPEG-4/SD,454.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Hin,4552 VB
+4552 VBeam 5,1893.0,Star Jalsha,MPEG-4/SD,456.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Ben,4552 VB
+4552 VBeam 5,1894.0,Jalsha Movies,MPEG-4/SD,458.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Ben,4552 VB
+4552 VBeam 5,1895.0,National Geographic India,MPEG-4/SD,460.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Ben,4552 VB
+4552 VBeam 5,1896.0,National Geographic Wild India,MPEG-4/SD,462.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Eng,4552 VB
+4552 VBeam 5,1897.0,Star Life India,MPEG-4/SD,464.0,Videoguard,,False,Bangladesh Betar,4/5,10000,DVB-S2,Ben,4552 VB
+4555 HBeam 5,1.0,Maasranga TV,1-1MPEG-4/HD,33.0,,,False,Bangladesh Betar,2/3,4800,DVB-S2,Ben,4555 HB
+4561 HBeam 5,1.0,Somoy News TV,?-?MPEG-4/HD,512.0,,,False,Bangladesh Betar,2/3,4800,DVB-S2,Ben,4561 HB
+4567 HBeam 5,1.0,Channel 9,?-?MPEG-4/HD,101.0,,,False,Bangladesh Betar,2/3,4785,DVB-S2,Ben,4567 HB
+4575 HBeam 5,1.0,Deepto TV,?-?MPEG-4/HD,817.0,,,False,Bangladesh Betar,2/3,4800,DVB-S2,Ben,4575 HB
+4600 HBeam 5,101.0,ATN Bangla,MPEG-4/HD,308.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,102.0,Bangla TV (Bangladesh),MPEG-4/HD,802.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,103.0,Bangla Vision,MPEG-4/HD,803.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,104.0,Channel I (Bangladesh),MPEG-4/HD,804.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,105.0,Ekattor TV,MPEG-4/HD,805.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,106.0,Gaan Bangla,MPEG-4/HD,806.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,107.0,NTV (Bangladesh),MPEG-2/SD,807.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,108.0,DBC News,MPEG-4/HD,826.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4600 HBeam 5,109.0,News 24 (Bangladesh),MPEG-4/HD,809.0,,,False,Bangladesh Betar,2/3,30000,DVB-S2,Ben,4600 HB
+4625 HBeam 5,11.0,Gazi TV,1-1MPEG-4/HD,201.0,ABV,,False,Bangladesh Betar,2/3,4800,DVB-S2,Ben Ben,4625 HB
+4646 VBeam 5,11.0,Gazi TV,?-?MPEG-4/HD,201.0,ABV,,False,Bangladesh Betar,2/3,4800,DVB-S2,Ben,4646 VB
+4660 VBeam 5,,Bangladesh TV,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,True,Bangladesh TV,4/5,17500,DVB-S2,,4660 VB
+4660 VBeam 5,,Bangladesh TV,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,True,Bangladesh TV,4/5,17500,DVB-S2,,4660 VB
+11725 VBeam 1,,Bangladesh TV,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,True,Bangladesh TV,3/4,17500,DVB-S2,,11725 V
+11725 VBeam 1,,Bangladesh TV,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,True,Bangladesh TV,3/4,17500,DVB-S2,,11725 V
+4660 VBeam 5,201.0,BTV Chattogram,MPEG-4/SD,501.0,,,False,Bangladesh TV,4/5,17500,DVB-S2,Ben,4660 VB
+4720 HBeam 5,201.0,BTV Chattogram,MPEG-2/SD,512.0,,,False,Bangladesh TV,3/4,30000,DVB-S2,Ben,4720 HB
+11725 VBeam 1,201.0,BTV Chattogram,MPEG-4/SD,512.0,,,False,Bangladesh TV,3/4,17500,DVB-S2,Ben,11725 V
+4660 VBeam 5,204.0,BTV National,MPEG-4/HD,308.0,,,False,Bangladesh TV,4/5,17500,DVB-S2,Ben,4660 VB
+4720 HBeam 5,204.0,BTV National,MPEG-4/HD,812.0,,,False,Bangladesh TV,3/4,30000,DVB-S2,Ben,4720 HB
+11725 VBeam 1,204.0,BTV National,MPEG-4/HD,308.0,,,False,Bangladesh TV,3/4,17500,DVB-S2,Ben,11725 V
+4660 VBeam 5,205.0,BTV World,MPEG-4/SD,301.0,,,False,Bangladesh TV,4/5,17500,DVB-S2,Ben,4660 VB
+4720 HBeam 5,205.0,BTV World,MPEG-2/SD,301.0,,,False,Bangladesh TV,3/4,30000,DVB-S2,Ben,4720 HB
+11725 VBeam 1,205.0,BTV World,MPEG-2/SD,301.0,,,False,Bangladesh TV,3/4,17500,DVB-S2,Ben,11725 V
+4660 VBeam 5,212.0,Sangshad TV,MPEG-4/SD,401.0,,,False,Bangladesh TV,4/5,17500,DVB-S2,Ben,4660 VB
+4720 HBeam 5,212.0,Sangshad TV,MPEG-2/SD,401.0,,,False,Bangladesh TV,3/4,30000,DVB-S2,Ben,4720 HB
+11725 VBeam 1,212.0,Sangshad TV,MPEG-2/SD,401.0,,,False,Bangladesh TV,3/4,17500,DVB-S2,Ben,11725 V
+4680 HBeam 5,401.0,T Sports,MPEG-4/HD,835.0,ABV,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,402.0,Nexus TV,MPEG-4/HD,836.0,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,404.0,Channel 24 (Bangladesh),MPEG-4/HD,838.0,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,405.0,Ekhon TV,HEVC/HD,839.0,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,406.0,Global TV (Bangladesh),MPEG-4/HD,840.0,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,407.0,Madani Channel Bangla,MPEG-4/HD,841.0,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,408.0,Green TV (Bangladesh),HEVC/HD,842.0,BISS,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4680 HBeam 5,1.0,Bangladesh Betar Chittagong,,,,,False,Bangladesh TV,2/3,30000,DVB-S2,Ben,4680 HB
+4690 VBeam 5,,Sony Pictures Networks India,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,2/3,15000,DVB-S2,,4690 VB
+4690 VBeam 5,,Sony Pictures Networks India,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,2/3,15000,DVB-S2,,4690 VB
+4780 VBeam 5,,Sony Pictures Networks India,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,2/3,30000,DVB-S2,,4780 VB
+4780 VBeam 5,,Sony Pictures Networks India,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,2/3,30000,DVB-S2,,4780 VB
+4690 VBeam 5,227.0,Sony Aath,MPEG-4/SD,4580.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Ben,4690 VB
+4690 VBeam 5,228.0,Sony Sports Ten 2,MPEG-4/HD,4590.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Eng,4690 VB
+4690 VBeam 5,229.0,Sony Sports Ten 3,MPEG-4/HD,3910.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Hin,4690 VB
+4690 VBeam 5,230.0,Sony Sports Ten 5,MPEG-4/HD,3920.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Eng,4690 VB
+4690 VBeam 5,231.0,Sony Max 2,MPEG-4/SD,3930.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Hin,4690 VB
+4690 VBeam 5,232.0,Sony Wah,MPEG-4/SD,3940.0,Videoguard,,False,Sony Pictures Networks India,2/3,15000,DVB-S2,Hin,4690 VB
+4712 VBeam 5,,Zee Network,,,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,2/3,10000,DVB-S2,,4712 VB
+4712 VBeam 5,23014.0,Zee Bangla Cinema International,MPEG-4/SD,3742.0,Conax,,False,Zee Network,2/3,10000,DVB-S2,Ben,4712 VB
+4712 VBeam 5,23015.0,Zee Bangla International,MPEG-4/SD,3752.0,Conax,,False,Zee Network,2/3,10000,DVB-S2,Ben,4712 VB
+4720 HBeam 5,202.0,SA TV,MPEG-4/HD,820.0,,,False,Zee Network,3/4,30000,DVB-S2,Ben,4720 HB
+4720 HBeam 5,203.0,Asian TV,MPEG-4/HD,810.0,,,False,Zee Network,3/4,30000,DVB-S2,Ben,4720 HB
+4720 HBeam 5,206.0,Bijoy TV,MPEG-4/HD,814.0,,,False,Zee Network,3/4,30000,DVB-S2,Ben,4720 HB
+4720 HBeam 5,207.0,Boishakhi TV,MPEG-4/HD,815.0,,,False,Zee Network,3/4,30000,DVB-S2,Ben,4720 HB
+4720 HBeam 5,211.0,RTV (Bangladesh),MPEG-4/HD,819.0,,,False,Zee Network,3/4,30000,DVB-S2,Ben,4720 HB
+4780 VBeam 5,220.0,Sony Max Asia,MPEG-4/HD,4510.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Hin,4780 VB
+4780 VBeam 5,221.0,Sony Sports Ten 1,MPEG-4/HD,4520.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Eng,4780 VB
+4780 VBeam 5,222.0,SET Asia,MPEG-4/HD,4530.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Hin,4780 VB
+4780 VBeam 5,223.0,Sony Yay!,MPEG-4/SD,4540.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Ben Hin,4780 VB
+4780 VBeam 5,224.0,Sony Pix,MPEG-4/HD,4550.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Eng,4780 VB
+4780 VBeam 5,225.0,Sony SAB Asia,MPEG-4/HD,4560.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Hin,4780 VB
+4780 VBeam 5,226.0,Sony BBC Earth,MPEG-4/HD,4570.0,Videoguard,,False,Zee Network,2/3,30000,DVB-S2,Eng,4780 VB
+10725 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,2/3,30000,DVB-S2,,10725 V
+10805 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,2/3,30000,DVB-S2,,10805 V
+10845 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,2/3,30000,DVB-S2,,10845 V
+10885 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,2/3,30000,DVB-S2,,10885 V
+10925 HBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,4/5,8000,DVB-S2,,10925 H
+10925 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,4/5,8000,DVB-S2,,10925 V
+11265 VBeam 1,,Akash DTH,,,Irdeto,,False,Zee Network,2/3,30000,DVB-S2,,11265 V
+10845 VBeam 1,1199.0,Akash Plus promo,MPEG-4/HD,101.0,,,False,Zee Network,2/3,30000,DVB-S2,Ben,10845 V

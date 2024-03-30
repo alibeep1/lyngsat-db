@@ -1,0 +1,223 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3719 Htp A25CHAmericas C0,,Color Visión 9,MPEG-4/HD,512.0,,,False,,5/6,3333,DVB-S2,Spa,3719 H
+3733 Vtp A26CVAmericas C0,,TV Tarobá Cascavel,,,,https://www.lyngsat.com/providers/br/TV-Taroba-Cascavel.html,True,TV Tarobá Cascavel,5/6,4812,DVB-S2,,3733 V
+3733 Vtp A26CVAmericas C0,,TV Tarobá Cascavel,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Taroba-Cascavel.html,True,TV Tarobá Cascavel,5/6,4812,DVB-S2,Por,3733 V
+3733 Vtp A26CVAmericas C0,,TV Tarobá Cascavel,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/TV-Taroba-Cascavel.html,True,TV Tarobá Cascavel,5/6,4812,DVB-S2,Por,3733 V
+3744 Htp A25CHAmericas C0,,Cholusat Sur 36,MPEG-2/SD,4131.0,,,False,TV Tarobá Cascavel,546,1,DVB-S1,Spa,3744 H
+3745 Vtp A26CVAmericas C0,,TV Gazeta Rio Branco,MPEG-4/SD,257.0,,,False,TV Tarobá Cascavel,3/4,3750,DVB-S2,Por,3745 V
+3745 Vtp A26CVAmericas C0,,Rádio Cidade 107.1 FM,,,,,False,TV Tarobá Cascavel,3/4,3750,DVB-S2,Por,3745 V
+3748 Htp A25CHAmericas C0,,TeleAmazonas,MPEG-2/SD,308.0,BISS,,False,TV Tarobá Cascavel,5/6,1924,DVB-S1,Spa,3748 H
+3752 Htp A25CHAmericas C0,,TeleAmazonas,MPEG-4/HD,404.0,BISS,,False,TV Tarobá Cascavel,5/6,4500,DVB-S2,Spa,3752 H
+3750 Vtp A26CVAmericas C0,,TV Guararapes,,,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,,3750 V
+3750 Vtp A26CVAmericas C0,,TV Guararapes,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,Por,3750 V
+3750 Vtp A26CVAmericas C0,,TV Guararapes,MPEG-4/1seg,641.0,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,Por,3750 V
+3761 Vtp A28CVAmericas C0,,Sertel,,,,https://www.lyngsat.com/providers/do/Sertel.html,True,Sertel,3/4,8332,DVB-S2,,3761 V
+3761 Vtp A28CVAmericas C0,,Canal del Sol,MPEG-4/SD,210.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,Colimdo TV,MPEG-4/SD,881.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,Sport Visión 35,MPEG-4/SD,980.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,VTV 32,MPEG-4/SD,1001.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,Carivisión,MPEG-4/SD,4224.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,TNI Canal 51,MPEG-4/SD,6110.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,Catorce TV,MPEG-4/SD,7545.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,2.0,TRA Noticias,MPEG-2/SD,100.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,4.0,RTVD 4,MPEG-2/SD,98.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,17.0,En TV,MPEG-4/SD,6106.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,26.0,Cinevisión Canal 19,MPEG-4/SD,130.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,37.0,CDN,MPEG-2/SD,110.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,41.0,Televida,MPEG-4/SD,90.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,67.0,CDN Deportes,MPEG-4/SD,55.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,100.0,Cielo TV,MPEG-4/SD,4304.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,220.0,Teleimpacto,MPEG-4/SD,128.0,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3761 Vtp A28CVAmericas C0,,Dominicana FM,,,,,False,Sertel,3/4,8332,DVB-S2,Spa,3761 V
+3768 Htp A27CHAmericas C0,,BM&C News,MPEG-4/HD,257.0,,,False,Sertel,2/3,1832,DVB-S2,Por,3768 H
+3768 Vtp A28CVAmericas C0,,Rede TV! Rondônia,MPEG-2/SD,4194.0,,,False,Sertel,3/4,2222,DVB-S2,Por,3768 V
+3780 Vtp EF4CEurope & Africa,,(feeds),,,,,False,Sertel,3/4,9000,DVB-S9,,3780 V
+11638 Htp UF9KUS & Europe & Africa,,(feeds),,,,,False,Sertel,3/4,5632,DVB-S5,,11638 H
+11647 Htp UF9KUS & Europe & Africa,,(feeds),,,,,False,Sertel,2/3,6620,DVB-S6,,11647 H
+11654 Htp UF9KUS & Europe & Africa,,(feeds),,,,,False,Sertel,3/4,4131,DVB-S2,,11654 H
+11767 Htp AM13KAmericas Ku,,(feeds),,,,,False,Sertel,500,22,DVB-S2,,11767 H
+11798 Htp AM11KSouth America,,(feeds),,,,,False,Sertel,500,22,DVB-S2,,11798 H
+11803 Htp AM15KAmericas Ku,,(feeds),,,,,False,Sertel,500,22,DVB-S2,,11803 H
+11815 Htp AM15KAmericas Ku,,(feeds),,,,,False,Sertel,400,26,DVB-S2,,11815 H
+3780 Vtp A28CVAmericas C0,2.0,TEN TV Canal 10,?-?MPEG-2/SD,33.0,,,False,Sertel,3/4,2941,DVB-S2,Spa,3780 V
+3780 Vtp A28CVAmericas C0,,ABC Radio,,,,,False,Sertel,3/4,2941,DVB-S2,Spa,3780 V
+3782 Htp A27CHAmericas C0,,Box Brazil,,,,https://www.lyngsat.com/providers/br/Box-Brazil.html,True,Box Brazil,3/4,20084,DVB-S2,,3782 H
+3782 Htp A27CHAmericas C0,,Prime Box Brazil,MPEG-4/HD,120.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Prime Box Brazil,MPEG-2/SD,220.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Music Box Brazil,MPEG-4/HD,320.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Music Box Brazil,MPEG-2/SD,420.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,FashionTV Brazil,MPEG-4/HD,520.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Travel Box Brazil,MPEG-4/HD,720.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Markket,MPEG-4/HD,920.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Box Kids TV,MPEG-4/HD,1101.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Box Brazil Play,MPEG-4/HD,1202.0,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3782 Htp A27CHAmericas C0,,Grêmio Rádio,,,,,False,Box Brazil,3/4,20084,DVB-S2,Por,3782 H
+3784 Vtp A28CVAmericas C0,,Suyapa TV,,,,https://www.lyngsat.com/providers/hn/Suyapa-TV.html,True,Suyapa TV,3/4,2400,DVB-S2,,3784 V
+3784 Vtp A28CVAmericas C0,,Suyapa TV,MPEG-4/SD,33.0,,https://www.lyngsat.com/providers/hn/Suyapa-TV.html,True,Suyapa TV,3/4,2400,DVB-S2,Spa,3784 V
+3784 Vtp A28CVAmericas C0,,STVE Telebásica,MPEG-4/SD,201.0,,,False,Suyapa TV,3/4,2400,DVB-S2,Spa,3784 V
+3789 Vtp A28CVAmericas C0,1.0,TC TV,?-?,201.0,,,False,Suyapa TV,667,21,DVB-S2,Spa,3789 V
+3804 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,10832,DVB-S2,,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,10832,DVB-S2,,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,10832,DVB-S2,,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,10832,DVB-S2,,3804 H
+3806 Vtp A30CVAmericas C0,,Rede Amazônica,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,15000,DVB-S2,,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,15000,DVB-S2,,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,15000,DVB-S2,,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,15000,DVB-S2,,3806 V
+3815 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,11000,DVB-S2,,3815 H
+3815 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,11000,DVB-S2,,3815 H
+3815 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,11000,DVB-S2,,3815 H
+3815 Htp A29CHAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,3/4,11000,DVB-S2,,3815 H
+3825 Vtp A30CVAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,15000,DVB-S2,,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,15000,DVB-S2,,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,15000,DVB-S2,,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica,,,,https://www.lyngsat.com/providers/br/Rede-Amazonica.html,True,Rede Amazônica,5/6,15000,DVB-S2,,3825 V
+3804 Htp A29CHAmericas C0,,Rede Amazônica Rio Branco,MPEG-4/HD,873.0,,,False,Rede Amazônica,5/6,10832,DVB-S2,Por,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica Macapá,MPEG-4/HD,1073.0,,,False,Rede Amazônica,5/6,10832,DVB-S2,Por,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica Porto Velho,MPEG-4/HD,1173.0,,,False,Rede Amazônica,5/6,10832,DVB-S2,Por,3804 H
+3804 Htp A29CHAmericas C0,,Rede Amazônica Boa Vista,MPEG-4/HD,1673.0,,,False,Rede Amazônica,5/6,10832,DVB-S2,Por,3804 H
+3815 Htp A29CHAmericas C0,,Rede Amazônica Boa Vista,MPEG-4/HD,1673.0,,,False,Rede Amazônica,3/4,11000,DVB-S2,Por,3815 H
+3806 Vtp A30CVAmericas C0,,Rede Amazônica Parinitins,MPEG-4/HD,373.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica Itacoatiara,MPEG-4/HD,473.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica Ariquemes,MPEG-4/HD,1273.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica Ji-Paraná,MPEG-4/HD,1373.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3806 Vtp A30CVAmericas C0,,Rede Amazônica Vilhena,MPEG-4/HD,1573.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3806 Vtp A30CVAmericas C0,,Amazon Sat,MPEG-4/HD,1873.0,Irdeto,,False,Rede Amazônica,3/4,15000,DVB-S2,Por,3806 V
+3815 Htp A29CHAmericas C0,,Rede Amazônica Manaus,MPEG-4/HD,273.0,,,False,Rede Amazônica,3/4,11000,DVB-S2,Por,3815 H
+3815 Htp A29CHAmericas C0,,Rede Amazônica Manacapuru,MPEG-4/HD,773.0,,,False,Rede Amazônica,3/4,11000,DVB-S2,Por,3815 H
+3815 Htp A29CHAmericas C0,,CBN Amazônia,,,,,False,Rede Amazônica,3/4,11000,DVB-S2,Por,3815 H
+3824 Htp A29CHAmericas C0,1.0,Telesur (Venezuela),?-?MPEG-4/SD,33.0,,,False,Rede Amazônica,3/4,2960,DVB-S2,Spa,3824 H
+4059 Htp A37CHAmericas C0,203.0,Telesur (Venezuela),MPEG-2/SD,2503.0,,,False,Rede Amazônica,3/4,26666,DVB-S2,Spa,4059 H
+11735 Vtp AM12KAmericas Ku,1.0,Telesur (Venezuela),MPEG-4/HD,1021.0,,,False,Rede Amazônica,5/6,7500,DVB-S2,Spa,11735 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica Carauari,MPEG-4/HD,573.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica Humaitá,MPEG-4/HD,673.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica Cruzeiro do Sul,MPEG-4/HD,973.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica Coari,MPEG-4/HD,1473.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3825 Vtp A30CVAmericas C0,,Rede Amazônica Rorainópolis,MPEG-4/HD,1773.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3825 Vtp A30CVAmericas C0,,Amazon Sat Ácre,MPEG-4/HD,1973.0,,,False,Rede Amazônica,5/6,15000,DVB-S2,Por,3825 V
+3834 Vtp A30CVAmericas C0,,,,,,,False,Rede Amazônica,480,2,DVB-S2,,3834 V
+3840 Vtp A32CVAmericas C0,,,,,,,False,Rede Amazônica,,,,,3840 V
+3843 Htp A29CHAmericas C0,,,,,,,False,Rede Amazônica,,,,,3843 H
+3982 Vtp A36CVAmericas C0,,,,,,,False,Rede Amazônica,3/5,8750,DVB-S2,,3982 V
+4186 Htp A39CHAmericas C0,,,,,BISS,,False,Rede Amazônica,2/3,4960,DVB-S2,,4186 H
+3834 Vtp A30CVAmericas C0,,Jovem Pan FM,,,,,False,Rede Amazônica,480,2,DVB-S2,Por,3834 V
+3834 Vtp A30CVAmericas C0,,Jovem Pan News,,,,,False,Rede Amazônica,480,2,DVB-S2,Por,3834 V
+3834 Vtp A30CVAmericas C0,,Jovem Plan Classic Pan,,,,,False,Rede Amazônica,480,2,DVB-S2,Por,3834 V
+3844 Vtp A32CVAmericas C0,,Willax TV,MPEG-4/SD,257.0,,,False,Rede Amazônica,500,8,DVB-S2,Spa,3844 V
+3852 Vtp A32CVAmericas C0,,TV Pai Eterno,,,,https://www.lyngsat.com/providers/br/TV-Pai-Eterno.html,True,TV Pai Eterno,2/3,10000,DVB-S2,,3852 V
+3852 Vtp A32CVAmericas C0,,TV Pai Eterno,MPEG-4/HD,711.0,,https://www.lyngsat.com/providers/br/TV-Pai-Eterno.html,True,TV Pai Eterno,2/3,10000,DVB-S2,Eng,3852 V
+3865 Htp A31CHAmericas C0,,Rede Mais,,,,https://www.lyngsat.com/providers/br/Rede-Mais.html,True,Rede Mais,3/4,3910,DVB-S2,,3865 H
+3865 Htp A31CHAmericas C0,,Rede Mais,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/Rede-Mais.html,True,Rede Mais,3/4,3910,DVB-S2,Por,3865 H
+3865 Htp A31CHAmericas C0,,Rede Mais,MPEG-4/1seg,641.0,,https://www.lyngsat.com/providers/br/Rede-Mais.html,True,Rede Mais,3/4,3910,DVB-S2,Por,3865 H
+3869 Htp A31CHAmericas C0,,Woohoo,,,,https://www.lyngsat.com/providers/br/Woohoo.html,True,Woohoo,3/4,5417,DVB-S2,,3869 H
+3869 Htp A31CHAmericas C0,1.0,Woohoo,MPEG-4/HD,100.0,,https://www.lyngsat.com/providers/br/Woohoo.html,True,Woohoo,3/4,5417,DVB-S2,Por,3869 H
+3869 Htp A31CHAmericas C0,2.0,Woohoo,MPEG-2/SD,200.0,,https://www.lyngsat.com/providers/br/Woohoo.html,True,Woohoo,3/4,5417,DVB-S2,Por,3869 H
+3945 Vtp A34CVAmericas C0,,Grupo ATV,1-6,,Irdeto,https://www.lyngsat.com/providers/pe/Grupo-ATV.html,True,Grupo ATV,2/3,13332,DVB-S2,,3945 V
+3945 Vtp A34CVAmericas C0,501.0,ATV (Peru),MPEG-4/SD,110.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,601.0,ATV (Peru),MPEG-4/1seg,4129.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,603.0,ATV (Peru),MPEG-4/HD,4641.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,502.0,Global TV,MPEG-4/SD,120.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,611.0,Global TV,MPEG-4/1seg,5153.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,633.0,Global TV,MPEG-4/HD,6433.0,Irdeto,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,605.0,ATV Sur,MPEG-4/HD,6177.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,607.0,ATV Sur,MPEG-4/1seg,6257.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,613.0,ATV+,MPEG-4/HD,5665.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,631.0,ATV+,MPEG-4/1seg,5921.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,621.0,Latele (Peru),MPEG-4/1seg,5409.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3945 Vtp A34CVAmericas C0,623.0,Latele (Peru),MPEG-4/HD,4385.0,,,False,Grupo ATV,2/3,13332,DVB-S2,Spa,3945 V
+3971 Vtp A36CVAmericas C0,,Antena 7,,,Irdeto,https://www.lyngsat.com/providers/do/Antena-7.html,True,Antena 7,3/5,2400,DVB-S2,,3971 V
+3971 Vtp A36CVAmericas C0,,Antena 7,MPEG-4/SD,103.0,Irdeto,https://www.lyngsat.com/providers/do/Antena-7.html,True,Antena 7,3/5,2400,DVB-S2,Spa,3971 V
+3971 Vtp A36CVAmericas C0,,Antena 21,MPEG-4/SD,1230.0,Irdeto,,False,Antena 7,3/5,2400,DVB-S2,Spa,3971 V
+3982 Vtp A36CVAmericas C0,,Picosa TV,MPEG-4/SD,3030.0,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Canal 12 TV,MPEG-4/SD,4384.0,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,2.0,VTV (Honduras),MPEG-4/SD,103.0,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,200.0,Canal 12 (El Salvador),,514.0,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,2200.0,Canal 11 TuTV,,517.0,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Acción 92.5 FM,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Joya FM,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Radio Universal Honduras,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Picosa 93.7 FM,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Radio Hit 99.7 FM,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,,Mia FM,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+3982 Vtp A36CVAmericas C0,200.0,Sonora 104.5,,,,,False,Antena 7,3/5,8750,DVB-S2,Spa,3982 V
+4059 Htp A37CHAmericas C0,,SiBCI,,,,https://www.lyngsat.com/providers/ve/SiBCI.html,True,SiBCI,3/4,26666,DVB-S2,,4059 H
+4059 Htp A37CHAmericas C0,2.0,Venezolana de TV,MPEG-2/SD,1160.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,11.0,ViVe,MPEG-2/SD,1105.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,17.0,Globovisión,MPEG-2/SD,1705.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,19.0,Colombeia TV,MPEG-2/SD,1905.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,20.0,Asamblea Nacional TV,MPEG-2/SD,2005.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,22.0,Conciencia TV,MPEG-2/SD,2205.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,23.0,TV FANB,MPEG-2/SD,2325.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,29.0,Canal I,MPEG-2/SD,2905.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,30.0,Venevisión,MPEG-2/SD,3005.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,31.0,Meridiano TV,MPEG-2/SD,3105.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,32.0,Televen,MPEG-2/SD,3205.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,33.0,TLT,MPEG-2/SD,3305.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,40.0,TVes,MPEG-2/SD,136.0,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,6.0,RNV Musical,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,9.0,RNV Informativa,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,18.0,La Radio del Sur,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,111.0,Radio Miraflores,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,112.0,ShowVen Radio,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,1912.0,RNV Clásica,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,1913.0,Tiuna FM,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,2013.0,YVKE Radio Mundial,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,2112.0,RNV Juvenil,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4059 Htp A37CHAmericas C0,2113.0,Salsa Caribe 102.3 FM,,,,,False,SiBCI,3/4,26666,DVB-S2,Spa,4059 H
+4080 Htp A37CHAmericas C0,,CRP Radios,,,,https://www.lyngsat.com/providers/pe/CRP-Radios.html,True,CRP Radios,666,2,DVB-S2,,4080 H
+4080 Htp A37CHAmericas C0,,Radio Ritmo Romántica,,,,,False,CRP Radios,666,2,DVB-S2,Spa,4080 H
+4080 Htp A37CHAmericas C0,,Radio Moda,,,,,False,CRP Radios,666,2,DVB-S2,Spa,4080 H
+4080 Htp A37CHAmericas C0,,La Inolvidable,,,,,False,CRP Radios,666,2,DVB-S2,Spa,4080 H
+4080 Htp A37CHAmericas C0,,Radiomar,,,,,False,CRP Radios,666,2,DVB-S2,Spa,4080 H
+4080 Htp A37CHAmericas C0,,Radio Nueva Q,,,,,False,CRP Radios,666,2,DVB-S2,Spa,4080 H
+4088 Htp A37CHAmericas C0,,Latina,,,Irdeto,https://www.lyngsat.com/providers/pe/Latina.html,True,Latina,3/4,5000,DVB-S2,,4088 H
+4088 Htp A37CHAmericas C0,,Latina,MPEG-4/HD,4112.0,Irdeto,https://www.lyngsat.com/providers/pe/Latina.html,True,Latina,3/4,5000,DVB-S2,Spa,4088 H
+4088 Htp A37CHAmericas C0,,Latina,MPEG-4/1seg,4128.0,Irdeto,https://www.lyngsat.com/providers/pe/Latina.html,True,Latina,3/4,5000,DVB-S2,Spa,4088 H
+4088 Htp A37CHAmericas C0,,Latina,MPEG-4/SD,4144.0,Irdeto,https://www.lyngsat.com/providers/pe/Latina.html,True,Latina,3/4,5000,DVB-S2,Spa,4088 H
+4102 Htp A37CHAmericas C0,,IRTP,,,,https://www.lyngsat.com/providers/pe/IRTP.html,True,IRTP,3/4,9115,DVB-S2,,4102 H
+4102 Htp A37CHAmericas C0,,TV Perú,MPEG-4/HD,273.0,,,False,IRTP,3/4,9115,DVB-S2,Spa,4102 H
+4102 Htp A37CHAmericas C0,,TV Perú,MPEG-4/SD,289.0,,,False,IRTP,3/4,9115,DVB-S2,Spa,4102 H
+4102 Htp A37CHAmericas C0,,TV Perú,MPEG-4/1seg,529.0,,,False,IRTP,3/4,9115,DVB-S2,Spa,4102 H
+4110 Htp A37CHAmericas C0,1.0,TV Perú,?-?MPEG-2/SD,54.0,,,False,IRTP,3/4,4444,DVB-S4,Spa,4110 H
+4102 Htp A37CHAmericas C0,,TV Perú Noticias,MPEG-4/SD,305.0,,,False,IRTP,3/4,9115,DVB-S2,Spa,4102 H
+4102 Htp A37CHAmericas C0,,Canal IPe,MPEG-4/SD,337.0,,,False,IRTP,3/4,9115,DVB-S2,Spa,4102 H
+4110 Htp A37CHAmericas C0,,Radio Nacional,,,,,False,IRTP,3/4,4444,DVB-S4,Spa,4110 H
+4148 Vtp A40CVAmericas C0,,Televicentro,,,Irdeto,https://www.lyngsat.com/providers/hn/Televicentro.html,True,Televicentro,3/4,6400,DVB-S2,,4148 V
+4148 Vtp A40CVAmericas C0,,TSi,MPEG-4/SD,3333.0,,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4148 Vtp A40CVAmericas C0,,Mega Clásicos,MPEG-4/SD,4747.0,Irdeto,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4148 Vtp A40CVAmericas C0,,Canal 5 El Lider,MPEG-4/SD,5555.0,Irdeto,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4148 Vtp A40CVAmericas C0,,Telecadena 7 y 4,MPEG-4/SD,7777.0,Irdeto,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4148 Vtp A40CVAmericas C0,,Radio Nacional de Honduras,,,,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4148 Vtp A40CVAmericas C0,,Radio Satélite,,,,,False,Televicentro,3/4,6400,DVB-S2,Spa,4148 V
+4176 Vtp A40CVAmericas C,,(MSR TV feeds),,,,,False,Televicentro,888,3,DVB-S3,,4176 V
+4178 Htp A39CHAmericas C0,,Grupo RPP,,,,https://www.lyngsat.com/providers/pe/Grupo-RPP.html,True,Grupo RPP,3/4,1666,DVB-S2,,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias National,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,La Zona,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Arequipa,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Cusco,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,Studio 92,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Ica,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,Radio Felicidad 88.9 FM,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Huancayo,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,Oxigeno,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,Radio MegaMix,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Lima,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Piura,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Trujillo,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4178 Htp A39CHAmericas C0,,RPP Noticias Cajamarca,,,,,False,Grupo RPP,3/4,1666,DVB-S2,Spa,4178 H
+4186 Htp A39CHAmericas C0,1.0,SNT,MPEG-4/SD,4128.0,BISS,,False,Grupo RPP,2/3,4960,DVB-S2,Spa,4186 H
+4186 Htp A39CHAmericas C0,2.0,Paravision,MPEG-4/SD,4384.0,BISS,,False,Grupo RPP,2/3,4960,DVB-S2,Spa,4186 H
+4186 Htp A39CHAmericas C0,3.0,C9N,MPEG-4/SD,258.0,BISS,,False,Grupo RPP,2/3,4960,DVB-S2,Spa,4186 H
+4186 Htp A39CHAmericas C0,4.0,Sur TV,MPEG-4/SD,4896.0,BISS,,False,Grupo RPP,2/3,4960,DVB-S2,Spa,4186 H
+4186 Htp A39CHAmericas C0,,RQP Paraguay,,,BISS,,False,Grupo RPP,2/3,4960,DVB-S2,Spa,4186 H
+4192 Htp A39CHAmericas C0,1.0,Rádio Pentecostal Deus é Amor,?-?,,,,False,Grupo RPP,3/4,2075,DVB-S2,Por,4192 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,,China Radio International,1-2,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,35.0,China Radio International,,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,36.0,China Radio International,,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,50.0,China Radio International,,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,51.0,China Radio International,,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11605 Htp UF7KUS & Europe & Africa49.5-51.5,52.0,China Radio International,,,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,2/3,990,DVB-S9,,11605 H
+11735 Vtp AM12KAmericas Ku,,Telesur English,,,,https://www.lyngsat.com/providers/ve/Telesur-English.html,True,Telesur English,5/6,7500,DVB-S2,,11735 V
+11735 Vtp AM12KAmericas Ku,3.0,Telesur English,MPEG-4/HD,1041.0,,https://www.lyngsat.com/providers/ve/Telesur-English.html,True,Telesur English,5/6,7500,DVB-S2,Eng,11735 V
+11810 Htp AM15KAmericas Ku,1.0,TN,?-?MPEG-2/SD,308.0,,,False,Telesur English,5/6,2200,DVB-S2,Spa,11810 H

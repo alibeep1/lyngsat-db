@@ -1,0 +1,52 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4010 Htp 15North America,,MASN,,,PowerVu,https://www.lyngsat.com/providers/us/MASN.html,True,MASN,8/9,14400,DVB-S2,,4010 H
+4010 Htp 15North America,100,MASN Baltimore,MPEG-4/HD,100.0,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng,4010 H
+4010 Htp 15North America,110,MASN Washington,MPEG-4/HD,110.0,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng,4010 H
+4010 Htp 15North America,120,MASN 2 Baltimore,MPEG-4/HD,120.0,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng,4010 H
+4010 Htp 15North America,130,MASN 2 Washington,MPEG-4/HD,130.0,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng,4010 H
+4020 Vtp 16North America,,Fox Corporation,,,Irdeto,https://www.lyngsat.com/providers/us/Fox-Corporation.html,True,Fox Corporation,3/4,31250,DVB-S2,,4020 V
+4020 Vtp 16North America,551,Fox News Channel,HEVC/HD,101.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4020 Vtp 16North America,552,FS1,HEVC/HD,201.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4020 Vtp 16North America,553,FS2,HEVC/HD,301.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4020 Vtp 16North America,554,Fox Business,HEVC/HD,401.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng,4020 V
+4020 Vtp 16North America,555,Fox Deportes,HEVC/HD,501.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4020 Vtp 16North America,556,FS1 Alternate,HEVC/HD,601.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4020 Vtp 16North America,561,(Fox Business feeds),,1101.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng,4020 V
+4020 Vtp 16North America,562,Fox Sports Racing,HEVC/HD,1201.0,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa,4020 V
+4030 Htp 17North America,,,,,,,False,Fox Corporation,5/6,15000,DVB-S2,,4030 H
+4160 Htp 23North America,,,,,PowerVu,,False,Fox Corporation,5/6,30000,DVB-S2,,4160 H
+4030 Htp 17North America,101,Root Sports Northwest,MPEG-4/HD,1011.0,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng Spa,4030 H
+4030 Htp 17North America,104,Root Sports Northwest Alternate,MPEG-4/HD,1041.0,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng,4030 H
+4030 Htp 17North America,107,AT&T SportsNet Southwest,MPEG-4/HD,1071.0,,,False,Fox Corporation,5/6,15000,DVB-S2,Eng Spa,4030 H
+4030 Htp 17North America,108,AT&T SportsNet Southwest Alternate,MPEG-4/HD,1081.0,,,False,Fox Corporation,5/6,15000,DVB-S2,Eng,4030 H
+4030 Htp 17North America,111,Root Sports Northwest Plus,MPEG-4/HD,1111.0,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng,4030 H
+4051 Vtp 18North America,,NHL Network,,,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,True,NHL Network,7/8,13333,DVB-S1,,4051 V
+4051 Vtp 18North America,7,NHL Network,MPEG-4/HD,710.0,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,True,NHL Network,7/8,13333,DVB-S1,Eng Spa,4051 V
+4051 Vtp 18North America,8,NHL Network Alternate,MPEG-4/HD,810.0,PowerVu,,False,NHL Network,7/8,13333,DVB-S1,Eng Spa,4051 V
+4062 Vtp 18North America,1,Jewelry TV,?-?MPEG-4/SD,4130.0,,,False,NHL Network,3/4,3255,DVB-S3,Eng Eng,4062 V
+4066 Htp 19North America,?,The Word Network,?-1MPEG-4/SD,1160.0,,,False,NHL Network,1/2,6620,DVB-S6,Eng,4066 H
+4068 Vtp 18North America,1,BYU TV,?-?MPEG-4/HD,81.0,,,False,NHL Network,2/3,4250,DVB-S2,Eng Spa,4068 V
+4068 Vtp 18North America,2,BYU Radio,,,,,False,NHL Network,2/3,4250,DVB-S2,Eng,4068 V
+4074 Vtp 18North America,,TCT,65535-1,,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,,4074 V
+4074 Vtp 18North America,1,TCT,MPEG-4/HD,49.0,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,Eng,4074 V
+4074 Vtp 18North America,2,TCT,MPEG-4/SD,81.0,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,Eng,4074 V
+4074 Vtp 18North America,4,SBN Domestic,MPEG-4/SD,97.0,,,False,TCT,3/4,5600,DVB-S2,Eng,4074 V
+4084 Htp 19North America,,The CW Plus,,,Verimatrix,https://www.lyngsat.com/providers/us/The-CW-Plus.html,True,The CW Plus,5/6,21600,DVB-S2,,4084 H
+4084 Htp 19North America,1,The CW Plus East,MPEG-4/HD,257.0,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng,4084 H
+4084 Htp 19North America,2,The CW Plus Central,MPEG-4/HD,513.0,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng,4084 H
+4084 Htp 19North America,3,The CW Plus Mountain,MPEG-4/HD,769.0,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng,4084 H
+4084 Htp 19North America,4,The CW Plus Pacific,MPEG-4/HD,1025.0,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng,4084 H
+4084 Htp 19North America,6,The CW,MPEG-4/HD,1537.0,,,False,The CW Plus,5/6,21600,DVB-S2,Eng,4084 H
+4100 Vtp 20North America,,(Fox feeds),,,,,False,The CW Plus,3/4,31250,DVB-S2,,4100 V
+4142 Vtp 22North America,,Roberts Communications Network,,,Digicipher,https://www.lyngsat.com/providers/us/Roberts-Communications-Network.html,True,Roberts Communications Network,5/6,18333,DVB-S2,,4142 V
+4142 Vtp 22North America,1,Gem Shopping Network,MPEG-2/SD,101.0,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng,4142 V
+4142 Vtp 22North America,5,Gem Shopping Network,MPEG-4/HD,257.0,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng,4142 V
+4142 Vtp 22North America,2,FanDuel Racing,MPEG-2/SD,513.0,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng,4142 V
+4142 Vtp 22North America,3,FanDuel TV,MPEG-4/HD,1281.0,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng,4142 V
+4142 Vtp 22North America,4,FanDuel TV,MPEG-2/SD,1025.0,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng,4142 V
+4156 Vtp 22North America,1,KLUZ-TV (Univisión - Albuquerque),?-?MPEG-2/SD,3601.0,,,False,Roberts Communications Network,3/4,2480,DVB-S2,,4156 V
+4160 Htp 23North America,1,Altitude Sports,MPEG-4/HD,100.0,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng,4160 H
+4160 Htp 23North America,2,Altitude 2,MPEG-4/HD,200.0,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng,4160 H
+4160 Htp 23North America,3,World Fishing Network,MPEG-4/HD,300.0,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng,4160 H
+4160 Htp 23North America,4,Outdoor Channel,MPEG-4/HD,400.0,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng,4160 H
+4160 Htp 23North America,5,Sportsman Channel,MPEG-4/HD,500.0,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng,4160 H

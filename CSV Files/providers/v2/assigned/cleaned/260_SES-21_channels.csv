@@ -1,0 +1,34 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4009 Vtp 15North America0,,Managed Satellite Distribution,,,Nagravision,,False,,3/4,16365,DVB-S2,,4009 V
+4020 Htp 16North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4020 H
+4040 Vtp 17North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4040 V
+4060 Htp 18North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4060 H
+4080 Vtp 19North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4080 V
+4120 Vtp 21North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4120 V
+4140 Htp 22North America0,,Managed Satellite Distribution,,,Nagravision,,False,,5/6,34280,DVB-S2,,4140 H
+4020 Htp 16North America0,50000.0,[test card],MPEG-4/SD,7937.0,,,False,,5/6,34280,DVB-S2,,4020 H
+4080 Vtp 19North America0,50000.0,[test card],MPEG-4/SD,7937.0,,,False,,5/6,34280,DVB-S2,,4080 V
+4100 Htp 20North America0,,,,,PowerVu,,False,,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America0,2.0,Military History US,MPEG-4/SD,200.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,3.0,Lifetime Real Women,MPEG-4/SD,300.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,10.0,Vice TV West,MPEG-4/HD,1010.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,11.0,Lifetime West,MPEG-4/HD,1110.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,12.0,A&E West,MPEG-4/HD,1210.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,14.0,History West,MPEG-4/HD,1410.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,15.0,FYI West,MPEG-4/HD,1510.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,16.0,Lifetime Movies West,MPEG-4/HD,1610.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,100.0,Crime + Investigation USA,MPEG-4/HD,610.0,PowerVu,,False,,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America0,101.0,History en Español,MPEG-4/HD,710.0,PowerVu,,False,,5/6,30000,DVB-S2,Spa,4100 H
+4180 Htp 24North America0,,SES,,,BISSPowerVuViaccess,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,,4180 H
+4180 Htp 24North America0,4.0,Fight Network,MPEG-4/HD,2004.0,PowerVu,,False,SES,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America0,10.0,BabyFirst TV,MPEG-4/HD,2010.0,Viaccess,,False,SES,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America0,13.0,Baby TV Latin America,MPEG-4/SD,2013.0,Viaccess,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,14.0,AXS TV,MPEG-4/HD,2014.0,BISS,,False,SES,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America0,15.0,HDNet Movies,MPEG-4/HD,2015.0,BISS,,False,SES,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America0,20.0,TVE Internacional América,MPEG-4/HD,2025.0,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,21.0,TVE Internacional América,MPEG-2/SD,2026.0,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,22.0,Canal 24 Horas,MPEG-2/SD,2020.0,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,23.0,Star HD,MPEG-4/HD,2024.0,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,24.0,Clan,MPEG-4/HD,2021.0,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,201.0,RNE Radio Nacional,,,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America0,204.0,Radio Exterior,,,,,False,SES,5/6,30000,DVB-S2,Spa,4180 H

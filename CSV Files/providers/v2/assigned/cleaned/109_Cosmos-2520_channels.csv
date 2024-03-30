@@ -1,0 +1,27 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3720 L,,RTRS 1,8835-1,,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,,3720 L
+3720 L,1010.0,Perviy kanal,MPEG-4/SD,1011.0,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1030.0,Match!,MPEG-4/SD,1031.0,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1040.0,NTV,MPEG-4/SD,1041.0,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1050.0,5 Kanal,MPEG-4/SD,1051.0,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1060.0,Rossiya K,MPEG-4/SD,1061.0,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1080.0,Karusel,MPEG-4/SD,1081.0,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1100.0,TV Centr,MPEG-4/SD,1101.0,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1110.0,Vesti FM,,,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,1120.0,Radio Mayak,,,,,False,RTRS 1,P 0,,DVB-S2,Rus,3720 L
+3720 L,,RTRS,8835-1,,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,,3720 L
+3720 L,1020.0,Rossiya 1,MPEG-4/SD,1021.0,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus,3720 L
+3720 L,1070.0,Rossiya 24,MPEG-4/SD,1071.0,,,False,RTRS,P 1,,DVB-S2,Rus,3720 L
+3720 L,1090.0,OTR,MPEG-4/SD,1091.0,,,False,RTRS,P 1,,DVB-S2,Rus,3720 L
+3720 L,1130.0,Radio Rossii,,,,,False,RTRS,P 1,,DVB-S2,Rus,3720 L
+3760 L,,RTRS 2,8835-11,,,https://www.lyngsat.com/providers/ru/RTRS-2.html,True,RTRS 2,P 0,,DVB-S2,,3760 L
+3760 L,2010.0,REN TV,MPEG-4/SD,2011.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2020.0,Telekanal Spas,MPEG-4/SD,2021.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2030.0,STS,MPEG-4/SD,2031.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2040.0,Domashniy,MPEG-4/SD,2041.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2050.0,TV 3,MPEG-4/SD,2051.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2060.0,Pyatnitsa!,MPEG-4/SD,2061.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2070.0,Telekanal Zvezda,MPEG-4/SD,2071.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2080.0,Mir,MPEG-4/SD,2081.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2090.0,TNT,MPEG-4/SD,2091.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L
+3760 L,2100.0,Muz TV,MPEG-4/SD,2101.0,,,False,RTRS 2,P 0,,DVB-S2,Rus,3760 L

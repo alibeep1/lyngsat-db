@@ -1,0 +1,255 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3712 Vtp 1CAmericas & Europe,,(feeds),,,,,False,,2/3,25000,DVB-S2,,3712 V
+3721 Vtp 1CAmericas & Europe,,(feeds),,,,,False,,3/4,27120,DVB-S2,,3721 V
+3730 Vtp 1CAmericas & Europe,,(feeds),,,,,False,,3/4,24420,DVB-S2,,3730 V
+3739 Htp 2CAmericas & Europe0,10,(feeds),,1001.0,,,False,,3/4,30000,DVB-S2,,3739 H
+3739 Htp 2CAmericas & Europe0,500,(feeds),,5001.0,,,False,,3/4,30000,DVB-S2,,3739 H
+3758 Htp 2CAmericas & Europe,,(feeds),,,,,False,,2/3,27500,DVB-S2,,3758 H
+3768 Htp 2CAmericas & Europe,,(feeds),,,,,False,,2/3,27500,DVB-S2,,3768 H
+3777 Vtp 1CAmericas & Europe,,(feeds),,,,,False,,3/4,27500,DVB-S2,,3777 V
+3810 Vtp 3CAmericas & Europe,,(feeds),,,,,False,,1/2,2200,DVB-S2,,3810 V
+3822 Vtp 3CAmericas & Europe,,(feeds),,,,,False,,2/3,2800,DVB-S2,,3822 V
+3959 Htp 12CAmericas & Europe,,(feeds),,,,,False,,3/4,3750,DVB-S2,,3959 H
+3969 Htp 12CAmericas & Europe0,104,(feeds),,145.0,,,False,,3/4,7500,DVB-S2,,3969 H
+3979 Htp 12CAmericas & Europe,,(feeds),,,,,False,,3/4,27500,DVB-S2,,3979 H
+3988 Htp 12CAmericas & Europe,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3988 H
+4041 Vtp 15CAmericas & Europe,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4041 V
+4050 Vtp 15CAmericas & Europe,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4050 V
+4060 Vtp 15CAmericas & Europe,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4060 V
+4069 Vtp 15CAmericas & Europe,,(feeds),,,,,False,,2/3,7500,DVB-S2,,4069 V
+4132 Vtp 19CAmericas & Europe,,(feeds),,,,,False,,2/3,2961,DVB-S2,,4132 V
+4139 Vtp 19CAmericas & Europe0,300,(feeds),,300.0,,,False,,3/4,10000,DVB-S2,,4139 V
+4149 Htp 20CAmericas & Europe,,(feeds),,,,,False,,2/5,7230,DVB-S2,,4149 H
+4151 Vtp 19CAmericas & Europe,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4151 V
+3739 Htp 2CAmericas & Europe0,,,,,,,False,,3/4,30000,DVB-S2,,3739 H
+3797 Htp 4CAmericas & Europe0,,,3-?,,PowerVu,,False,,5/6,3330,DVB-S2,,3797 H
+3810 Htp 4CAmericas & Europe0,,,,,Digicipher,,False,,5/6,17500,DVB-S2,,3810 H
+3845 Vtp 5CAmericas & Europe0,,,1-101,,PowerVu,,False,,5/6,30000,DVB-S2,,3845 V
+3910 Htp 10CAmericas & Europe0,,,1-5,,,,False,,3/5,4632,DVB-S2,,3910 H
+3940 Htp 10CAmericas & Europe0,,,,,,,False,,,,,,3940 H
+3983 Htp 12CAmericas & Europe0,,,1-1,,Irdeto,,False,,3/4,16415,DVB-S2,,3983 H
+3985 Vtp 11CAmericas & Europe0,,,,,Digicipher,,False,,3/4,15570,DVB-S2,,3985 V
+4120 Htp 20CAmericas & Europe0,,,8193-945,,,,False,,3/5,4167,DVB-S2,,4120 H
+4126 Vtp 19CAmericas & Europe0,,,19-101,,PowerVu,,False,,3/4,15237,DVB-S2,,4126 V
+4126 Htp 20CAmericas & Europe0,,,,,,,False,,,,,,4126 H
+3739 Htp 2CAmericas & Europe0,1,Love Nature,MPEG-4/HD,101.0,Viaccess,,False,,3/4,30000,DVB-S2,Eng Spa,3739 H
+3739 Htp 2CAmericas & Europe0,3,ZooMoo Latinoamérica,MPEG-4/HD,301.0,,,False,,3/4,30000,DVB-S2,Spa Eng,3739 H
+3739 Htp 2CAmericas & Europe0,4,BabyFirst TV,MPEG-4/SD,401.0,Viaccess,,False,,3/4,30000,DVB-S2,Eng Spa,3739 H
+3739 Htp 2CAmericas & Europe0,5,EuroNews Español,MPEG-4/HD,501.0,,,False,,3/4,30000,DVB-S2,Spa,3739 H
+3739 Htp 2CAmericas & Europe0,6,Eurochannel,MPEG-4/HD,601.0,,,False,,3/4,30000,DVB-S2,,3739 H
+3739 Htp 2CAmericas & Europe0,7,Trace Sport Stars,MPEG-4/HD,701.0,,,False,,3/4,30000,DVB-S2,Eng,3739 H
+3739 Htp 2CAmericas & Europe0,8,Trace Brasil,MPEG-4/HD,801.0,BISS 1,,False,,3/4,30000,DVB-S2,Por,3739 H
+3739 Htp 2CAmericas & Europe0,9,The Israeli Network,MPEG-4/HD,901.0,,,False,,3/4,30000,DVB-S2,Heb,3739 H
+3768 Vtp 1CAmericas & Europe0,,Win Sports,MPEG-4/HD,513.0,Irdeto,,False,,2/3,8330,DVB-S2,,3768 V
+3774 Htp 2CAmericas & Europe0,,Guatemalan mux,1-7,,Irdeto,,False,,3/5,10560,DVB-S2,,3774 H
+3774 Htp 2CAmericas & Europe0,1,Canal 3 (Guatemala),MPEG-4/SD,111.0,Irdeto,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,2,Televisiete,MPEG-4/SD,121.0,Irdeto,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,3,TeleOnce,MPEG-4/SD,131.0,Irdeto,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,4,TreceVision,MPEG-4/SD,141.0,Irdeto,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,5,[Radio Sonora info card] (Guatemala),MPEG-4/SD,151.0,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,6,TN 23,MPEG-4/SD,161.0,Irdeto,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,7,TeleCentro,MPEG-4/SD,171.0,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,5,Radio Sonora (Guatemala),,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,7,Radio Sonora (Guatemala),,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,21,Fiesta,,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,22,Radio Ranchera,,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,23,Tropicálida,,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,24,Galaxia (Guatemala),,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,25,Alfa,,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3774 Htp 2CAmericas & Europe0,26,Joya,,,,,False,,3/5,10560,DVB-S2,Spa,3774 H
+3797 Htp 4CAmericas & Europe0,226,Canal DHE,MPEG-4/HD,2860.0,PowerVu,,False,,5/6,3330,DVB-S2,Spa Eng,3797 H
+3797 Htp 4CAmericas & Europe0,270,Fox News Channel,MPEG-4/SD,2610.0,PowerVu,,False,,5/6,3330,DVB-S2,Eng,3797 H
+3805 Vtp 3CAmericas & Europe0,,Televisa Networks,,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,True,Televisa Networks,5/6,23330,DVB-S2,,3805 V
+3805 Vtp 3CAmericas & Europe0,,Televisa Networks,,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,True,Televisa Networks,5/6,23330,DVB-S2,,3805 V
+4180 Vtp 21CAmericas & Europe0,,Televisa Networks,,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,True,Televisa Networks,5/6,30000,DVB-S2,,4180 V
+4180 Vtp 21CAmericas & Europe0,,Televisa Networks,,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,True,Televisa Networks,5/6,30000,DVB-S2,,4180 V
+3805 Vtp 3CAmericas & Europe0,1,Las Estrellas Latinoamérica,MPEG-4/HD,65.0,Digicipher,,False,Televisa Networks,5/6,23330,DVB-S2,Spa,3805 V
+4180 Vtp 21CAmericas & Europe0,23,Las Estrellas Latinoamérica,MPEG-4/HD,,Digicipher,,False,Televisa Networks,5/6,30000,DVB-S2,Spa,4180 V
+3805 Vtp 3CAmericas & Europe0,2,Univisión Latinoamérica,MPEG-4/HD,81.0,Digicipher,,False,Televisa Networks,5/6,23330,DVB-S2,Spa,3805 V
+3805 Vtp 3CAmericas & Europe0,3,TUDN Centro,MPEG-4/HD,97.0,Digicipher,,False,Televisa Networks,5/6,23330,DVB-S2,Spa,3805 V
+3805 Vtp 3CAmericas & Europe0,4,TLN Network,MPEG-4/HD,113.0,Digicipher,,False,Televisa Networks,5/6,23330,DVB-S2,Spa,3805 V
+4180 Vtp 21CAmericas & Europe0,12,TLN Network,MPEG-2/SD,848.0,Digicipher,,False,Televisa Networks,5/6,30000,DVB-S2,Por Eng,4180 V
+3805 Vtp 3CAmericas & Europe0,9,Golden Latinoamérica,MPEG-4/HD,193.0,Digicipher,,False,Televisa Networks,5/6,23330,DVB-S2,Spa,3805 V
+3810 Htp 4CAmericas & Europe0,1,E! México,MPEG-4/HD,101.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa Eng,3810 H
+3810 Htp 4CAmericas & Europe0,2,Telemundo Internacional Venezuela,MPEG-4/HD,201.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa,3810 H
+3810 Htp 4CAmericas & Europe0,3,Telemundo Internacional,MPEG-4/HD,301.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa,3810 H
+3810 Htp 4CAmericas & Europe0,4,Telemundo Internacional Centroamérica,MPEG-4/HD,401.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa,3810 H
+3810 Htp 4CAmericas & Europe0,5,Telemundo Internacional Sur,MPEG-4/HD,501.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa,3810 H
+3810 Htp 4CAmericas & Europe0,6,E! Andes,MPEG-4/HD,601.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa Eng,3810 H
+3810 Htp 4CAmericas & Europe0,7,E! Sur,MPEG-4/HD,701.0,Digicipher,,False,Televisa Networks,5/6,17500,DVB-S2,Spa Eng,3810 H
+3845 Vtp 5CAmericas & Europe0,1,Cinecanal Este,MPEG-4/HD,100.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Eng Spa,3845 V
+3845 Vtp 5CAmericas & Europe0,4,Star Channel Central,MPEG-4/HD,400.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3845 Vtp 5CAmericas & Europe0,5,Star Channel Perú,MPEG-4/HD,500.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3845 Vtp 5CAmericas & Europe0,6,Cinecanal Oeste,MPEG-4/HD,600.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Eng Spa,3845 V
+3845 Vtp 5CAmericas & Europe0,8,FX Andina,MPEG-4/HD,800.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3845 Vtp 5CAmericas & Europe0,9,Star Channel Chile,MPEG-4/HD,900.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3845 Vtp 5CAmericas & Europe0,10,Star Channel Andino,MPEG-4/HD,1000.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3845 Vtp 5CAmericas & Europe0,11,National Geographic Panregional,MPEG-4/HD,1100.0,PowerVu,,False,Televisa Networks,5/6,30000,DVB-S2,Spa Eng,3845 V
+3846 Htp 6CAmericas & Europe,,(Roberts Communications Network feeds),,,,,False,Televisa Networks,3/4,30000,DVB-S2,,3846 H
+3885 Vtp 7CAmericas & Europe0,,HBO Network Latinoamérica,.-.,,Digicipher,https://www.lyngsat.com/providers/us/HBO-Network-Latinoamerica.html,True,HBO Network Latinoamérica,5/6,30000,DVB-S2,,3885 V
+3885 Vtp 7CAmericas & Europe0,1,HBO HD Latinoamérica,MPEG-4/HD,17.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,2,HBO Pop Latinoamérica,MPEG-4/HD,33.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,4,HBO Latinoamérica,MPEG-4/HD,65.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,5,HBO 2 Latinoamérica,MPEG-4/HD,81.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,6,HBO + Latinoamérica,MPEG-4/HD,97.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,8,HBO Family Latinoamérica,MPEG-4/HD,129.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,9,HBO Signature Latinoamérica,MPEG-4/HD,145.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,11,HBO Mundi Latinoamérica,MPEG-4/HD,177.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,12,HBO Xtreme Latinoamérica,MPEG-4/HD,193.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Vtp 7CAmericas & Europe0,14,Cinemax Latinoamérica,MPEG-4/HD,225.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng Spa,3885 V
+3885 Htp 8CAmericas & Europe0,,Artear,,,PowerVu,https://www.lyngsat.com/providers/ar/Artear.html,True,Artear,5/6,30000,DVB-S2,,3885 H
+3885 Htp 8CAmericas & Europe0,,Artear,,,PowerVu,https://www.lyngsat.com/providers/ar/Artear.html,True,Artear,5/6,30000,DVB-S2,,3885 H
+4086 Htp 18CAmericas & Europe0,,Artear,1-101,,PowerVu,https://www.lyngsat.com/providers/ar/Artear.html,True,Artear,3/4,15000,DVB-S2,,4086 H
+4086 Htp 18CAmericas & Europe0,,Artear,1-101,,PowerVu,https://www.lyngsat.com/providers/ar/Artear.html,True,Artear,3/4,15000,DVB-S2,,4086 H
+3885 Htp 8CAmericas & Europe0,33,El Trece Internacional,MPEG-4/HD,4000.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+4086 Htp 18CAmericas & Europe0,32,El Trece Internacional,MPEG-4/HD,200.0,PowerVu,,False,Artear,3/4,15000,DVB-S2,Spa Eng,4086 H
+3885 Htp 8CAmericas & Europe0,34,Metro,MPEG-4/SD,400.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,35,Ciudad Magazine,MPEG-4/SD,500.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,38,Volver,MPEG-4/HD,4002.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,39,Canal (á),MPEG-4/SD,950.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,40,Quiero Musica en mi Idioma,MPEG-4/HD,4010.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,48,Canal Rural (Argentina),MPEG-4/SD,4006.0,,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,49,America Sports,MPEG-4/SD,4008.0,,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,52,[TyC Sports info card],MPEG-4/HD,800.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,53,TyC Sports Latinoamérica,MPEG-4/HD,900.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3885 Htp 8CAmericas & Europe0,54,TyC Sports Estados Unidos,MPEG-4/HD,4004.0,PowerVu,,False,Artear,5/6,30000,DVB-S2,Spa,3885 H
+3910 Htp 10CAmericas & Europe0,1,Canal 13 Tabasco,MPEG-4/HD,59.0,,,False,Artear,3/5,4632,DVB-S2,Spa,3910 H
+3910 Htp 10CAmericas & Europe0,2,Canal 13 Chiapas,MPEG-4/HD,69.0,,,False,Artear,3/5,4632,DVB-S2,Spa,3910 H
+3918 Htp 10CAmericas & Europe0,,Albavisión,1-3,,,https://www.lyngsat.com/providers/ni/Albavision.html,True,Albavisión,3/5,7915,DVB-S2,,3918 H
+3918 Htp 10CAmericas & Europe0,1,Canal 4 (Nicaragua),MPEG-4/SD,35.0,,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3918 Htp 10CAmericas & Europe0,2,Canal 10 (Nicaragua),MPEG-4/SD,103.0,Irdeto,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3918 Htp 10CAmericas & Europe0,3,Canal 9 (Nicaragua),MPEG-4/SD,512.0,,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3918 Htp 10CAmericas & Europe0,4,TN8,MPEG-4/SD,4897.0,,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3918 Htp 10CAmericas & Europe0,5,Canal 2 (Nicaragua),MPEG-4/SD,5152.0,,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3918 Htp 10CAmericas & Europe0,6,Canal 11 (Nicaragua),MPEG-4/SD,513.0,Irdeto,,False,Albavisión,3/5,7915,DVB-S2,Spa,3918 H
+3924 Htp 10CAmericas & Europe0,1,TVC (Ecuador),8192-4096MPEG-4/SD,404.0,,,False,Albavisión,3/5,2080,DVB-S2,Spa,3924 H
+3942 Htp 10CAmericas & Europe0,1,TVC (Ecuador),0-0MPEG-4/SD,160.0,,,False,Albavisión,3/5,1300,DVB-S2,Spa,3942 H
+3925 Vtp 9CAmericas & Europe0,,Walt Disney TV,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Walt-Disney-TV.html,True,Walt Disney TV,5/6,30000,DVB-S2,,3925 V
+3925 Vtp 9CAmericas & Europe0,,Walt Disney TV,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Walt-Disney-TV.html,True,Walt Disney TV,5/6,30000,DVB-S2,,3925 V
+4086 Vtp 17CAmericas & Europe0,,Walt Disney TV,,,PowerVu,https://www.lyngsat.com/providers/us/Walt-Disney-TV.html,True,Walt Disney TV,3/4,15000,DVB-S2,,4086 V
+4086 Vtp 17CAmericas & Europe0,,Walt Disney TV,,,PowerVu,https://www.lyngsat.com/providers/us/Walt-Disney-TV.html,True,Walt Disney TV,3/4,15000,DVB-S2,,4086 V
+3925 Vtp 9CAmericas & Europe0,1,Disney Channel Sur,MPEG-4/HD,1160.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa Eng,3925 V
+3925 Vtp 9CAmericas & Europe0,2,Disney Junior Sur,MPEG-4/HD,1260.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa Eng,3925 V
+3925 Vtp 9CAmericas & Europe0,3,ESPN 5 Chile,MPEG-4/HD,1360.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa,3925 V
+3925 Vtp 9CAmericas & Europe0,4,Disney Channel Latinoamérica,MPEG-4/HD,1460.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa Eng,3925 V
+3925 Vtp 9CAmericas & Europe0,7,ESPN 5 América Latina,MPEG-4/HD,1210.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa,3925 V
+3925 Vtp 9CAmericas & Europe0,9,Fox Sports 3 Argentina,MPEG-4/HD,1960.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa Eng,3925 V
+3925 Vtp 9CAmericas & Europe0,10,Fox Sports 2 Argentina,MPEG-4/HD,2060.0,PowerVu,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa,3925 V
+3925 Vtp 9CAmericas & Europe0,241,ESPN Argentina,MPEG-4/HD,4140.0,,,False,Walt Disney TV,5/6,30000,DVB-S2,Spa,3925 V
+3927 Htp 10CAmericas & Europe0,1,RTS,1-2MPEG-4/SD,110.0,Irdeto,,False,Walt Disney TV,3/5,2000,DVB-S2,Spa,3927 H
+3927 Htp 10CAmericas & Europe0,2,Galaxia,,,,,False,Walt Disney TV,3/5,2000,DVB-S2,Spa,3927 H
+3930 Htp 10CAmericas & Europe0,,Repretel,,,,https://www.lyngsat.com/providers/cr/Repretel.html,True,Repretel,3/5,4000,DVB-S2,,3930 H
+3930 Htp 10CAmericas & Europe0,401,Canal 4 (Costa Rica),MPEG-4/SD,257.0,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,402,Canal 6 (Costa Rica),MPEG-4/SD,120.0,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,403,Canal 11 (Costa Rica),MPEG-4/SD,259.0,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,404,Monumental,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,405,Zeta FM,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,406,Momentos Reloj,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,407,Radio Disney 101.1,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,408,La Mejor FM Costa Rica,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3930 Htp 10CAmericas & Europe0,409,Exa FM Costa Rica,,,,,False,Repretel,3/5,4000,DVB-S2,Spa,3930 H
+3934 Htp 10CAmericas & Europe0,401,BYU TV Latin America,1-15MPEG-4/SD,5120.0,,,False,Repretel,2/3,2067,DVB-S2,Eng Spa,3934 H
+3966 Vtp 11CAmericas & Europe0,,Turner,,,Digicipher,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,3/4,15000,DVB-S2,,3966 V
+3966 Vtp 11CAmericas & Europe0,,Turner,,,Digicipher,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,3/4,15000,DVB-S2,,3966 V
+4015 Vtp 13CAmericas & Europe0,,Turner,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,5/6,30000,DVB-S2,,4015 V
+4015 Vtp 13CAmericas & Europe0,,Turner,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,5/6,30000,DVB-S2,,4015 V
+3966 Vtp 11CAmericas & Europe0,53,TNT Venezuela,MPEG-4/HD,1710.0,Digicipher,,False,Turner,3/4,15000,DVB-S2,Eng Spa Eng Spa,3966 V
+3966 Vtp 11CAmericas & Europe0,66,Cartoon Network Latinoamérica,MPEG-4/HD,2210.0,Digicipher,,False,Turner,3/4,15000,DVB-S2,Eng Spa Eng Spa,3966 V
+3966 Vtp 11CAmericas & Europe0,68,Space Sur,MPEG-4/HD,2410.0,Digicipher,,False,Turner,3/4,15000,DVB-S2,Eng Spa Eng Spa,3966 V
+4015 Vtp 13CAmericas & Europe0,109*,Space Sur,MPEG-4/HD,3310.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4015 V
+3969 Htp 12CAmericas & Europe0,,Paraguayan mux,65280-10,,Conax,,False,Turner,3/4,7500,DVB-S2,,3969 H
+3969 Htp 12CAmericas & Europe0,100,Tigo Sports,MPEG-4/SD,3005.0,Conax,,False,Turner,3/4,7500,DVB-S2,Spa,3969 H
+3969 Htp 12CAmericas & Europe0,101,Tigo Sports +,MPEG-4/SD,289.0,Conax,,False,Turner,3/4,7500,DVB-S2,Spa,3969 H
+3969 Htp 12CAmericas & Europe0,102,Paraguay TV,MPEG-4/SD,3001.0,,,False,Turner,3/4,7500,DVB-S2,Spa,3969 H
+3969 Htp 12CAmericas & Europe0,103,TV Cámara,MPEG-4/SD,3003.0,,,False,Turner,3/4,7500,DVB-S2,Spa,3969 H
+3983 Htp 12CAmericas & Europe0,5,El Nueve,MPEG-4/HD,71.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,6,IP Noticias,MPEG-4/HD,83.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,101,América Repetidora Interior,MPEG-4/SD,105.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,201,América Internacional,MPEG-4/HD,205.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,501,Canal 10 de Junin,MPEG-4/HD,505.0,,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,801,América TV,MPEG-4/HD,805.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,901,A24,MPEG-4/HD,915.0,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,1,Aspen 102.3,,,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,2,Aspen 101.5,,,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3983 Htp 12CAmericas & Europe0,601,La Red AM 910,,,Irdeto,,False,Turner,3/4,16415,DVB-S2,Spa,3983 H
+3985 Vtp 11CAmericas & Europe0,55,Space Brasil,MPEG-4/HD,1910.0,Digicipher,,False,Turner,3/4,15570,DVB-S2,,3985 V
+3985 Vtp 11CAmericas & Europe0,56,Adult Swim Brasil,MPEG-4/HD,2010.0,Digicipher,,False,Turner,3/4,15570,DVB-S2,,3985 V
+3985 Vtp 11CAmericas & Europe0,57,Cartoon Network Brasil,MPEG-4/HD,2110.0,Digicipher,,False,Turner,3/4,15570,DVB-S2,,3985 V
+3985 Vtp 11CAmericas & Europe0,67,TNT Brasil,MPEG-4/HD,2310.0,Digicipher,,False,Turner,3/4,15570,DVB-S2,,3985 V
+4015 Vtp 13CAmericas & Europe0,16*,HTV (USA),MPEG-4/HD,2710.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,56*,Cartoon Network Argentina,MPEG-4/HD,2610.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,62*,Space Latinoamérica,MPEG-4/HD,2310.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4015 V
+4015 Vtp 13CAmericas & Europe0,64*,TNT Sports Argentina,MPEG-4/HD,2510.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,70*,TNT Sports Argentina,MPEG-4/HD,3210.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,67*,Cartoonito Latinoamérica,MPEG-4/HD,2210.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,72*,TNT Argentina,MPEG-4/HD,2910.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,81*,TCM Argentina,MPEG-4/HD,2110.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,84*,TCM América Latina,MPEG-4/HD,3110.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,87*,Tooncast,MPEG-4/HD,2410.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Vtp 13CAmericas & Europe0,142*,Cartoonito Argentina,MPEG-4/HD,2810.0,PowerVu,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4015 V
+4015 Htp 14CAmericas & Europe0,,ESPN,1-311,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,30000,DVB-S2,,4015 H
+4015 Htp 14CAmericas & Europe0,150,ESPN 2 Argentina,MPEG-4/HD,101.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4015 Htp 14CAmericas & Europe0,250,ESPN 2 Colombia,MPEG-4/HD,201.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4015 Htp 14CAmericas & Europe0,350,ESPN 4 Argentina,MPEG-4/HD,301.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4015 Htp 14CAmericas & Europe0,450,ESPN 2 Chile,MPEG-4/HD,401.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4015 Htp 14CAmericas & Europe0,550,ESPN 4 América Latina,MPEG-4/HD,65.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4015 Htp 14CAmericas & Europe0,650,ESPN 2 Sur,MPEG-4/HD,601.0,Digicipher,,False,ESPN,5/6,30000,DVB-S2,Spa Eng Spa Eng,4015 H
+4055 Htp 16CAmericas & Europe0,,CNN,,,Digicipher,https://www.lyngsat.com/providers/us/CNN.html,True,CNN,3/4,32700,DVB-S2,,4055 H
+4055 Htp 16CAmericas & Europe0,,HLN International,HEVC/HD,305.0,Digicipher,,False,CNN,3/4,32700,DVB-S2,Eng,4055 H
+4055 Htp 16CAmericas & Europe0,,CNN International Latin America,HEVC/HD,321.0,Digicipher,,False,CNN,3/4,32700,DVB-S2,Eng,4055 H
+4055 Htp 16CAmericas & Europe0,,CNN en Español,HEVC/HD,337.0,Digicipher,,False,CNN,3/4,32700,DVB-S2,Spa,4055 H
+4055 Htp 16CAmericas & Europe0,,CNN México,HEVC/HD,353.0,Digicipher,,False,CNN,3/4,32700,DVB-S2,Spa,4055 H
+4055 Htp 16CAmericas & Europe0,,CNN USA,HEVC/HD,369.0,Digicipher,,False,CNN,3/4,32700,DVB-S2,Eng,4055 H
+4086 Vtp 17CAmericas & Europe0,210,Star Channel Argentina,MPEG-4/HD,2110.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa Eng,4086 V
+4086 Vtp 17CAmericas & Europe0,220,FX Sur,MPEG-4/HD,2120.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa Eng,4086 V
+4086 Vtp 17CAmericas & Europe0,230,National Geographic Sur,MPEG-4/HD,2130.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa Eng,4086 V
+4086 Vtp 17CAmericas & Europe0,240,ESPN Premium Argentina,MPEG-4/HD,2140.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa Eng,4086 V
+4086 Htp 18CAmericas & Europe0,31,El Trece Satelital,MPEG-4/HD,100.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa Eng,4086 H
+4086 Htp 18CAmericas & Europe0,37,TN,MPEG-4/HD,300.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa,4086 H
+4086 Htp 18CAmericas & Europe0,51,TyC Sports,MPEG-4/HD,700.0,PowerVu,,False,CNN,3/4,15000,DVB-S2,Spa,4086 H
+4099 Vtp 17CAmericas & Europe0,105,Aljazeera English,?-?MPEG-4/HD,2601.0,Viaccess,,False,CNN,5/6,4953,DVB-S2,Eng Eng,4099 V
+4099 Htp 18CAmericas & Europe0,,Bloomberg TV,1113-201,,PowerVu,https://www.lyngsat.com/providers/us/Bloomberg-TV.html,True,Bloomberg TV,3/4,7500,DVB-S2,,4099 H
+4099 Htp 18CAmericas & Europe0,11,Bloomberg TV Brazil,MPEG-4/HD,100.0,PowerVu,,False,Bloomberg TV,3/4,7500,DVB-S2,Por,4099 H
+4099 Htp 18CAmericas & Europe0,12,Bloomberg TV Latin America,MPEG-4/HD,200.0,,,False,Bloomberg TV,3/4,7500,DVB-S2,Spa,4099 H
+4105 Vtp 17CAmericas & Europe0,,Igreja Cristã Maranata,177-177,,,https://www.lyngsat.com/providers/br/Igreja-Crista-Maranata.html,True,Igreja Cristã Maranata,3/5,4000,DVB-S2,,4105 V
+4105 Vtp 17CAmericas & Europe0,1,Igreja Cristã Maranata,MPEG-4/HD,1110.0,,https://www.lyngsat.com/providers/br/Igreja-Crista-Maranata.html,True,Igreja Cristã Maranata,3/5,4000,DVB-S2,Por,4105 V
+4105 Vtp 17CAmericas & Europe0,2,Igreja Cristã Maranata,MPEG-4/HD,1210.0,,https://www.lyngsat.com/providers/br/Igreja-Crista-Maranata.html,True,Igreja Cristã Maranata,3/5,4000,DVB-S2,Por,4105 V
+4107 Htp 18CAmericas & Europe0,15,PFC Internacional,?-?MPEG-2/SD,2560.0,PowerVu,,False,Igreja Cristã Maranata,5/6,3333,DVB-S3,Por,4107 H
+4124 Htp 20CAmericas & Europe0,15,PFC Internacional,34-20MPEG-4/HD,2560.0,PowerVu,,False,Igreja Cristã Maranata,3/4,3333,DVB-S2,Por,4124 H
+4109 Vtp 17CAmericas & Europe0,10,Globo Internacional,1-0MPEG-4/HD,850.0,Conax,,False,Igreja Cristã Maranata,3/4,3333,DVB-S2,Por,4109 V
+4111 Htp 18CAmericas & Europe0,1,Telesur (Venezuela),1-1MPEG-4/HD,33.0,,,False,Igreja Cristã Maranata,5/6,3750,DVB-S2,Spa,4111 H
+4112 Vtp 17CAmericas & Europe0,3,RTP Internacional América,1-102MPEG-4/SD,103.0,,,False,Igreja Cristã Maranata,8/9,2222,DVB-S2,Por,4112 V
+4112 Vtp 17CAmericas & Europe0,13,RDP Internacional,,,,,False,Igreja Cristã Maranata,8/9,2222,DVB-S2,Por,4112 V
+4120 Htp 20CAmericas & Europe0,1,Canal Um Europa,MPEG-4/HD,902.0,,,False,Igreja Cristã Maranata,3/5,4167,DVB-S2,Por,4120 H
+4120 Htp 20CAmericas & Europe0,5,Rede Internacional de TV,MPEG-2/SD,152.0,,,False,Igreja Cristã Maranata,3/5,4167,DVB-S2,Por,4120 H
+4120 Htp 20CAmericas & Europe0,7,Nossa Rádio,,,,,False,Igreja Cristã Maranata,3/5,4167,DVB-S2,Por,4120 H
+4120 Htp 20CAmericas & Europe0,9,Rádio Relógio,,,,,False,Igreja Cristã Maranata,3/5,4167,DVB-S2,Por,4120 H
+4126 Vtp 19CAmericas & Europe0,11,C Sport,MPEG-4/HD,101.0,PowerVu,,False,Igreja Cristã Maranata,3/4,15237,DVB-S2,Eng,4126 V
+4126 Vtp 19CAmericas & Europe0,12,C Sport,MPEG-4/HD,102.0,PowerVu,,False,Igreja Cristã Maranata,3/4,15237,DVB-S2,Eng,4126 V
+4126 Vtp 19CAmericas & Europe0,13,C Sport 2,MPEG-4/HD,103.0,PowerVu,,False,Igreja Cristã Maranata,3/4,15237,DVB-S2,Eng,4126 V
+4126 Vtp 19CAmericas & Europe0,14,C Sport+,MPEG-4/HD,104.0,PowerVu,,False,Igreja Cristã Maranata,3/4,15237,DVB-S2,Eng,4126 V
+4126 Vtp 19CAmericas & Europe0,15,CVM TV,MPEG-4/HD,105.0,PowerVu,,False,Igreja Cristã Maranata,3/4,15237,DVB-S2,Eng,4126 V
+4131 Htp 20CAmericas & Europe0,,BBC World Service,1-317,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,2/3,5422,DVB-S2,,4131 H
+4131 Htp 20CAmericas & Europe0,13903,BBC World Service English Americas,,,,,False,BBC World Service,2/3,5422,DVB-S2,Eng,4131 H
+4131 Htp 20CAmericas & Europe0,13910,BBC World Service English News,,,,,False,BBC World Service,2/3,5422,DVB-S2,Eng,4131 H
+4131 Htp 20CAmericas & Europe0,13916,BBC World Service Arabic,,,,,False,BBC World Service,2/3,5422,DVB-S2,Ara,4131 H
+4135 Htp 20CAmericas & Europe0,,Angel TV Português,MPEG-4/SD,8001.0,,,False,BBC World Service,3/4,1000,DVB-S2,Por,4135 H
+4137 Htp 20CAmericas & Europe0,1,Bolivisión,1-8MPEG-4/HD,258.0,,,False,BBC World Service,2/3,2000,DVB-S2,Spa,4137 H
+4137 Htp 20CAmericas & Europe0,2,RQP Bolivia,,,,,False,BBC World Service,2/3,2000,DVB-S2,Spa,4137 H
+4139 Vtp 19CAmericas & Europe0,,SportsMax,1-1,,PowerVu,https://www.lyngsat.com/providers/jm/SportsMax.html,True,SportsMax,3/4,10000,DVB-S2,,4139 V
+4139 Vtp 19CAmericas & Europe0,100,SportsMax,MPEG-4/HD,100.0,PowerVu,https://www.lyngsat.com/providers/jm/SportsMax.html,True,SportsMax,3/4,10000,DVB-S2,Eng,4139 V
+4139 Vtp 19CAmericas & Europe0,200,SportsMax 2 Norte,MPEG-4/HD,200.0,PowerVu,,False,SportsMax,3/4,10000,DVB-S2,Eng,4139 V
+4175 Htp 22CAmericas & Europe0,,CCTV,2184-28,,,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,30000,DVB-S2,,4175 H
+4175 Htp 22CAmericas & Europe0,882,CCTV 4 America,MPEG-4/HD,513.0,,,False,CCTV,3/4,30000,DVB-S2,Chi,4175 H
+4175 Htp 22CAmericas & Europe0,883,CGTN,MPEG-4/HD,514.0,,,False,CCTV,3/4,30000,DVB-S2,Eng,4175 H
+4175 Htp 22CAmericas & Europe0,884,CGTN Documentary,MPEG-4/HD,515.0,,,False,CCTV,3/4,30000,DVB-S2,Eng,4175 H
+4175 Htp 22CAmericas & Europe0,885,CGTN Español,MPEG-4/HD,516.0,,,False,CCTV,3/4,30000,DVB-S2,Spa,4175 H
+4175 Htp 22CAmericas & Europe0,886,CGTN Français,MPEG-4/HD,517.0,,,False,CCTV,3/4,30000,DVB-S2,Fre,4175 H
+4180 Vtp 21CAmericas & Europe0,15,Tlnovelas América,MPEG-4/HD,1040.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Eng Por,4180 V
+4180 Vtp 21CAmericas & Europe0,16,De Película,MPEG-4/HD,1600.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa Eng,4180 V
+4180 Vtp 21CAmericas & Europe0,17,TeleHit,MPEG-4/HD,1700.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa Eng,4180 V
+4180 Vtp 21CAmericas & Europe0,18,Golden Edge,MPEG-4/HD,1800.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa Spa Eng,4180 V
+4180 Vtp 21CAmericas & Europe0,19,Distrito Comedia,MPEG-4/HD,1900.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa Eng,4180 V
+4180 Vtp 21CAmericas & Europe0,20,Telehit Música,MPEG-4/HD,2000.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa,4180 V
+4180 Vtp 21CAmericas & Europe0,21,Bandamax,MPEG-4/HD,7680.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa,4180 V
+4180 Vtp 21CAmericas & Europe0,22,BitMe,MPEG-4/HD,2300.0,Digicipher,,False,CCTV,5/6,30000,DVB-S2,Spa,4180 V

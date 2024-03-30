@@ -1,0 +1,85 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11727 Ltp 1Wide0,,Trikolor,254-1,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11727 L
+11766 Ltp 3Wide0,,Trikolor,254-3,,ExsetDREGuard,,False,,3/4,27500,DVB-S2,,11766 L
+11804 Ltp 5Wide0,,Trikolor,254-5,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11804 L
+11843 Ltp 7Wide0,,Trikolor,254-7,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11843 L
+11881 Ltp 9Wide0,,Trikolor,254-9,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11881 L
+11919 Ltp 11Wide0,,Trikolor,254-11,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11919 L
+11958 Ltp 13Wide0,,Trikolor,254-13,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11958 L
+11996 Ltp 15Wide0,,Trikolor,254-15,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11996 L
+12034 Ltp 17Wide0,,Trikolor,254-17,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12034 L
+12073 Ltp 19Wide0,,Trikolor,254-19,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12073 L
+12111 Ltp 21Wide0,,Trikolor,254-21,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12111 L
+12149 Ltp 23Wide0,,Trikolor,254-23,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12149 L
+12188 Ltp 25Wide0,,Trikolor,254-25,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12188 L
+12226 Ltp 27Wide0,,Trikolor,254-27,,ExsetDREGuard,,False,,3/4,27500,DVB-S2,,12226 L
+12265 Ltp 29Wide0,,Trikolor,254-29,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12265 L
+12303 Ltp 31Wide0,,Trikolor,254-31,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12303 L
+12341 Ltp 33Wide0,,Trikolor,254-33,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12341 L
+12380 Ltp 35Wide0,,Trikolor,,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12380 L
+12418 Ltp 37Wide0,,Trikolor,254-37,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12418 L
+12456 Ltp 39Wide0,,Trikolor,254-39,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12456 L
+11919 Ltp 11Wide0,11042.0,[Trikolor info card],MPEG-4/SD,4321.0,,,False,,3/4,27500,DVB-S2,Rus,11919 L
+12226 Ltp 27Wide0,59096.0,[Trikolor info card],MPEG-4/SD,5761.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12226 Ltp 27Wide0,59097.0,[Trikolor info card],MPEG-4/SD,5771.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12341 Ltp 33Wide0,33007.0,[Trikolor info card],MPEG-4/SD,3371.0,,,False,,3/4,27500,DVB-S2,Rus,12341 L
+12054 Rtp 18Wide0,,NTV Plus Vostok,112-566,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12054 R
+12092 Rtp 20Wide0,,NTV Plus Vostok,112-564,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12092 R
+12322 Rtp 32East0,,NTV Plus Vostok,112-563,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12322 R
+12360 Rtp 34Wide0,,NTV Plus Vostok,,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12360 R
+12399 Rtp 36East0,,NTV Plus Vostok,112-567,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12399 R
+12437 Rtp 38East0,,NTV Plus Vostok,112-565,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12437 R
+12476 Rtp 40East0,,NTV Plus Vostok,112-562,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12476 R
+12054 Rtp 18Wide0,56607.0,JWL,MPEG-4/SD,207.0,,,False,,3/4,27500,DVB-S2,Rus,12054 R
+12207 Rtp 26Wide0,4.0,JWL,MPEG-4/SD,204.0,,,False,,3/4,27500,DVB-S2,Rus,12207 R
+12111 Ltp 21Wide0,21008.0,Soyuz,MPEG-4/SD,2181.0,,,False,,3/4,27500,DVB-S2,Rus,12111 L
+12169 Rtp 24Wide0,,Russkiy Mir,3-19,,DRECrypt,,False,,3/4,27500,DVB-S2,,12169 R
+12245 Rtp 28Wide0,,Russkiy Mir,3-21,,DRECrypt,,False,,3/4,27500,DVB-S2,,12245 R
+12169 Rtp 24Wide0,2441.0,Vesti FM,,,,,False,,3/4,27500,DVB-S2,Rus,12169 R
+12360 Rtp 34Wide0,56841.0,Vesti FM,,,,,False,,3/4,27500,DVB-S2,Rus,12360 R
+12399 Rtp 36East0,,Vesti FM,,,,,False,,3/4,27500,DVB-S2,Rus,12399 R
+12169 Rtp 24Wide0,2442.0,Radio Mayak,,,,,False,,3/4,27500,DVB-S2,Rus,12169 R
+12360 Rtp 34Wide0,56842.0,Radio Mayak,,,,,False,,3/4,27500,DVB-S2,Rus,12360 R
+12399 Rtp 36East0,,Radio Mayak,,,,,False,,3/4,27500,DVB-S2,Rus,12399 R
+12169 Rtp 24Wide0,2443.0,Radio Rossii,,,,,False,,3/4,27500,DVB-S2,Rus,12169 R
+12360 Rtp 34Wide0,56843.0,Radio Rossii,,,,,False,,3/4,27500,DVB-S2,Rus,12360 R
+12399 Rtp 36East0,,Radio Rossii,,,,,False,,3/4,27500,DVB-S2,Rus,12399 R
+12188 Ltp 25Wide0,25012.0,Promo TV,MPEG-4/SD,2621.0,,,False,,3/4,27500,DVB-S2,Rus,12188 L
+12207 Rtp 26Wide0,,STV,4369-1,,,https://www.lyngsat.com/providers/ru/STV.html,True,STV,3/4,27500,DVB-S2,,12207 R
+12207 Rtp 26Wide0,1.0,Novoe Radio,,,,,False,STV,3/4,27500,DVB-S2,Rus,12207 R
+12207 Rtp 26Wide0,2.0,Nashe Radio (Russia),,,,,False,STV,3/4,27500,DVB-S2,Rus,12207 R
+12207 Rtp 26Wide0,5.0,Love Radio (Russia),,,,,False,STV,3/4,27500,DVB-S2,Rus,12207 R
+12399 Rtp 36East0,,Love Radio (Russia),,,,,False,STV,3/4,27500,DVB-S2,Rus,12399 R
+12207 Rtp 26Wide0,15.0,Radio Dacha,,,,,False,STV,3/4,27500,DVB-S2,Rus,12207 R
+12207 Rtp 26Wide0,21.0,Kalina Krasnaya,,,,,False,STV,3/4,27500,DVB-S2,Rus,12207 R
+12226 Ltp 27Wide0,27000.0,Trikolor Infokanal,HEVC/HD,2701.0,,,False,STV,3/4,27500,DVB-S2,Rus,12226 L
+12226 Ltp 27Wide0,27007.0,Trikolor Infokanal,MPEG-4/HD,2771.0,,,False,STV,3/4,27500,DVB-S2,Rus,12226 L
+12265 Ltp 29Wide0,26900.0,[Telepoisk info card],MPEG-4/SD,1201.0,,,False,STV,3/4,27500,DVB-S2,Rus,12265 L
+12284 Rtp 30Wide0,,RSCC,112-2,,,https://www.lyngsat.com/providers/ru/RSCC.html,True,RSCC,3/4,27500,DVB-S2,,12284 R
+12284 Rtp 30Wide0,1.0,Krik TV,MPEG-4/SD,500.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12284 Rtp 30Wide0,3.0,Oblastnoe TV,MPEG-4/SD,502.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12284 Rtp 30Wide0,5.0,Taina Telekanal,MPEG-4/SD,503.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12284 Rtp 30Wide0,2.0,Serebryany Dozhd,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12284 Rtp 30Wide0,30.0,NRJ Russia,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12399 Rtp 36East0,,NRJ Russia,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12284 Rtp 30Wide0,32.0,Avtoradio,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12399 Rtp 36East0,,Avtoradio,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12284 Rtp 30Wide0,57.0,Humor FM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12284 R
+12399 Rtp 36East0,,Humor FM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,56718.0,TNT 4 (+4h),MPEG-4/SD,218.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,56729.0,Subbota! (+4h),MPEG-4/SD,229.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,56730.0,Telekanal 2x2,MPEG-4/SD,230.0,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Radio Romantika,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Radio Vanya,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,DFM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Russkoe Radio,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Hit FM (Russia),,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Maximum 103.7 FM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Business FM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Militseyskaya Volna,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Comedy Radio,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Radio Komsomolskaya Pravda,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Relax FM,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Radio Mir (0h),,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Detskoe Radio Moskva,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R
+12399 Rtp 36East0,,Radio Sibir,,,,,False,RSCC,3/4,27500,DVB-S2,Rus,12399 R

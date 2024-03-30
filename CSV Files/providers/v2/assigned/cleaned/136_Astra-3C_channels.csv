@@ -1,0 +1,86 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+12032 Htp 217West,,SES,3-3217,,ConaxCryptoworksIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/lu/SES.html,True,SES,/10,75009,DVB-S2,,12032 H
+12032 Htp 217West,,SES,3-3217,,ConaxCryptoworksIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/lu/SES.html,True,SES,/10,75009,DVB-S2,,12032 H
+12168 Vtp 224West,,SES,3-3224,,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,,12168 V
+12168 Vtp 224West,,SES,3-3224,,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,,12168 V
+12032 Htp 217West,6101.0,Stingray Classica,MPEG-4/HD,511.0,ConaxCryptoworksIrdetoNagravisionViaccess,,False,SES,/10,75009,DVB-S2,Ger,12032 H
+12363 Vtp 234East,5172.0,Stingray Classica,MPEG-4/HD,511.0,ConaxCryptoworksIrdetoNagravisionViaccess,,False,SES,3/4,29500,DVB-S2,Ger,12363 V
+12032 Htp 217West,6102.0,Stingray IConcerts,MPEG-4/HD,767.0,ConaxIrdetoNagravisionViaccess,,False,SES,/10,75009,DVB-S2,Eng,12032 H
+12363 Vtp 234East,5171.0,Stingray IConcerts,MPEG-4/HD,767.0,ConaxIrdetoNagravisionViaccess,,False,SES,3/4,29500,DVB-S2,Eng,12363 V
+12032 Htp 217West,6103.0,Auto Motor und Sport,MPEG-4/HD,1023.0,ConaxCryptoworksIrdetoNagravisionViaccess,,False,SES,/10,75009,DVB-S2,Ger Bul Cze Hun,12032 H
+12363 Vtp 234East,5170.0,Auto Motor und Sport,MPEG-4/HD,1023.0,ConaxCryptoworksIrdetoNagravisionViaccess,,False,SES,3/4,29500,DVB-S2,Ger Bul Cze Hun,12363 V
+12032 Htp 217West,6121.0,RTS Nauka,MPEG-4/SD,2815.0,Conax,,False,SES,/10,75009,DVB-S2,Srp,12032 H
+12363 Vtp 234East,5001.0,RTS Nauka,MPEG-4/SD,2815.0,ConaxNagravision,,False,SES,3/4,29500,DVB-S2,Srp,12363 V
+12032 Htp 217West,6122.0,RTS Poletarac 2,MPEG-4/SD,3071.0,Conax,,False,SES,/10,75009,DVB-S2,Srp,12032 H
+12363 Vtp 234East,5002.0,RTS Poletarac 2,MPEG-4/SD,3071.0,ConaxNagravision,,False,SES,3/4,29500,DVB-S2,Srp,12363 V
+12032 Htp 217West,6190.0,@ Astra Connect,,,Nagravision,,False,SES,/10,75009,DVB-S2,,12032 H
+12051 Vtp 218West,,M7 Group,3-3218,,ConaxCryptoworksIrdetoMediaguardNagravisionViaccess,https://www.lyngsat.com/providers/lu/M7-Group.html,True,M7 Group,2/3,29900,DVB-S2,,12051 V
+12051 Vtp 218West,7010.0,DreamWorks TV Netherlands,MPEG-4/HD,510.0,NagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7020.0,RTL 4,MPEG-4/HD,514.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7023.0,RTL 5,MPEG-4/HD,523.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7027.0,RTL 7,MPEG-4/HD,527.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7030.0,VTM,MPEG-4/HD,516.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7036.0,RTL 8,MPEG-4/HD,518.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7056.0,VTM 2,MPEG-4/HD,556.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7057.0,Play 4,MPEG-4/HD,557.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7058.0,RTL Z,MPEG-4/SD,558.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7061.0,Play 6,MPEG-4/SD,561.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7063.0,Crime + Investigation Nederland,MPEG-4/SD,563.0,NagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7164.0,ESPN 2 Nederland,MPEG-4/HD,564.0,MediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Dut,12051 V
+12051 Vtp 218West,7165.0,Nautical Channel,MPEG-4/HD,585.0,ConaxCryptoworksIrdetoMediaguardNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Eng Fre,12051 V
+12051 Vtp 218West,7170.0,Doma,MPEG-4/HD,590.0,ConaxCryptoworksIrdetoNagravisionViaccess,,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,12051 V
+12168 Vtp 224West,5225.0,Chamber TV,MPEG-4/HD,51.0,,,False,M7 Group,3/4,27500,DVB-S2,Ltz Fre,12168 V
+12168 Vtp 224West,5240.0,RTL,MPEG-2/SD,1141.0,,,False,M7 Group,3/4,27500,DVB-S2,Ltz,12168 V
+12168 Vtp 224West,5245.0,RTL Radio Lëtzebuerg,,,,,False,M7 Group,3/4,27500,DVB-S2,Ltz,12168 V
+12168 Vtp 224West,5246.0,Radio 100.7,,,,,False,M7 Group,3/4,27500,DVB-S2,Ltz,12168 V
+12168 Vtp 224West,0.0,EuroSpar Music,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12168 Vtp 224West,0.0,Radio POS AC,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12168 Vtp 224West,0.0,Radio POS Easy Listening,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12168 Vtp 224West,0.0,Radio POS Soft AC,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12168 Vtp 224West,0.0,Radio POS AC International,,,,,False,M7 Group,3/4,27500,DVB-S2,Bul,12168 V
+12168 Vtp 224West,0.0,Radio POS CHR,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12168 Vtp 224West,0.0,Radio POS Easy,,,,,False,M7 Group,3/4,27500,DVB-S2,Ger,12168 V
+12266 Htp 229East,,Skylink,3-3229,,ConaxCryptoworksIrdetoNagravisionViaccess,,False,M7 Group,3/4,29900,DVB-S2,,12266 H
+12363 Vtp 234East,,Towercom,3-3234,,ConaxCryptoworksIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/sk/Towercom.html,True,Towercom,3/4,29500,DVB-S2,,12363 V
+12363 Vtp 234East,4904.0,TA 3,MPEG-4/HD,5014.0,ConaxIrdetoNagravisionViaccess,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4910.0,TV Noe,MPEG-4/SD,5020.0,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4921.0,Rádio Slovensko,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4922.0,Rádio Regina Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4923.0,Rádio Regina Stred,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4924.0,Rádio Regina Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4925.0,Rádio Devín,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4926.0,Rádio _FM,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4927.0,Rádio Pyramída,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4928.0,Rádio Litera,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4929.0,Rádio Junior (Slovakia),,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4930.0,Rádio Patria (06-18),,,,,False,Towercom,3/4,29500,DVB-S2,Hun,12363 V
+12363 Vtp 234East,4931.0,Rádio Patria (06-18),,,,,False,Towercom,3/4,29500,DVB-S2,Hun,12363 V
+12363 Vtp 234East,4930.0,Rádio _FM (18-06),,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4931.0,Rádio Devín (18-06),,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4932.0,Rádio Slovakia International,,,,,False,Towercom,3/4,29500,DVB-S2,,12363 V
+12363 Vtp 234East,4933.0,Rádio Melody Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4934.0,Rádio Melody Sever,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4935.0,Rádio Melody Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4936.0,Rádio Lumen,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4939.0,Radio Prostor,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4940.0,Rádio Beat Cechy,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4941.0,Rádio Beat Jizní Morava,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4942.0,Rádio Beat Severní Morava,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4943.0,Rádio Beat Jihozápad,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4944.0,Rádio Beat Severovýchod,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4945.0,Country Radio Jizní Morava,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4946.0,Country Radio Jihozápad,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4947.0,Country Radio Severovýchod,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4950.0,Rádio Beat Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Cze,12363 V
+12363 Vtp 234East,4951.0,Rádio Expres Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4952.0,Rádio Expres Stred,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4953.0,Rádio Expres Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4954.0,Europa 2 Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4955.0,Europa 2 Stred,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4956.0,Europa 2 Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4957.0,Fun rádio Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4958.0,Fun rádio Stred,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,4959.0,Fun rádio Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,5159.0,Rádio Vlna Západ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,5160.0,Rádio Vlna Stred,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V
+12363 Vtp 234East,5161.0,Rádio Vlna Východ,,,,,False,Towercom,3/4,29500,DVB-S2,Slo,12363 V

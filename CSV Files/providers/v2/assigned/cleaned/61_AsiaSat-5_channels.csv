@@ -1,0 +1,167 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3635 Htp C1HC,,(feeds),,,,,False,,000,8,DVB-S2,,3635 H
+3645 Htp C1HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3645 H
+3654 Htp C1HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3654 H
+3666 Htp C2HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3666 H
+3690 Vtp C2VC,,(feeds),,,,,False,,3/4,9874,DVB-S2,,3690 V
+3693 Htp C2HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3693 H
+3702 Vtp C2VC,,(feeds),,,,,False,,3/4,3255,DVB-S3,,3702 V
+3707 Htp C3HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3707 H
+3712 Vtp C2VC,,(feeds),,,,,False,,3/4,9874,DVB-S2,,3712 V
+3735 Vtp C3VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3735 V
+3747 Vtp C3VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3747 V
+3765 Htp C4HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3765 H
+3795 Htp C5HC,,(feeds),,,,,False,,3/4,7120,DVB-S2,,3795 H
+3805 Htp C5HC,,(feeds),,,,,False,,3/4,7000,DVB-S2,,3805 H
+3814 Htp C5HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3814 H
+3840 Htp C6HC,,(feeds),,,,,False,,5/6,29720,DVB-S2,,3840 H
+3867 Htp C7HC,,(feeds),,,,,False,,443,8,DVB-S2,,3867 H
+3876 Htp C7HC,,(feeds),,,,,False,,3/4,7120,DVB-S2,,3876 H
+3909 Htp C8HC,,(feeds),,,,,False,,3/4,7120,DVB-S2,,3909 H
+3914 Vtp C7VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3914 V
+3918 Htp C8HC,,(feeds),,,,,False,,2/3,7120,DVB-S2,,3918 H
+3925 Htp C8HC,,(feeds),,,,,False,,2/3,7120,DVB-S2,,3925 H
+3927 Vtp C8VC,,(feeds),,,,,False,,3/4,9875,DVB-S2,,3927 V
+3939 Vtp C8VC,,(feeds),,,,,False,,3/4,9875,DVB-S2,,3939 V
+3953 Vtp C8VC,,(feeds),,,,,False,,200,27,DVB-S2,,3953 V
+3975 Vtp C9VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3975 V
+3984 Vtp C9VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3984 V
+3992 Vtp C9VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3992 V
+4013 Htp C10HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4013 H
+4147 Htp C14HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4147 H
+4148 Vtp C12VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4148 V
+4156 Vtp C12VC,,(feeds),,,,,False,,3/4,7120,DVB-S2,,4156 V
+4173 Htp C14HC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4173 H
+4180 Vtp C12VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4180 V
+4185 Vtp C12VC,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4185 V
+4192 Vtp C12VC,,(feeds),,,,,False,,3/4,4936,DVB-S2,,4192 V
+12377 Vtp 6South Asia,,(feeds),,,,,False,,3/4,2000,DVB-S2,,12377 V
+12381 Vtp 6South Asia,,(feeds),,,,,False,,3/4,2000,DVB-S2,,12381 V
+12386 Vtp 6South Asia,,(feeds),,,,,False,,3/4,2000,DVB-S2,,12386 V
+12403 Htp 7East Asia,,(feeds),,,,,False,,5/6,2300,DVB-S2,,12403 H
+12494 Htp 9East Asia,,(feeds),,,,,False,,3/4,13300,DVB-S1,,12494 H
+12542 Htp 11East Asia,,(feeds),,,,,False,,3/4,6111,DVB-S6,,12542 H
+12579 Htp 13East Asia,,(feeds),,,,,False,,3/4,1460,DVB-S2,,12579 H
+12591 Htp 13East Asia,,(feeds),,,,,False,,3/4,5632,DVB-S5,,12591 H
+12602 Htp 13East Asia,,(feeds),,,,,False,,3/4,5632,DVB-S5,,12602 H
+12635 Htp 15East Asia,,(feeds),,,,,False,,3/4,8880,DVB-S8,,12635 H
+12678 Htp 15East Asia,,(feeds),,,,,False,,3/4,7120,DVB-S2,,12678 H
+12701 Vtp 16East Asia,,(feeds),,,,,False,,3/4,7200,DVB-S2,,12701 V
+3726 Vtp C3VC38-40,,Macau Satellite TV,,,,https://www.lyngsat.com/providers/mo/Macau-Satellite-TV.html,True,Macau Satellite TV,3/4,6666,DVB-S2,,3726 V
+3726 Vtp C3VC38-40,1,Macau Satellite TV,MPEG-2/SD,250.0,,https://www.lyngsat.com/providers/mo/Macau-Satellite-TV.html,True,Macau Satellite TV,3/4,6666,DVB-S2,Chi,3726 V
+3726 Vtp C3VC38-40,2,Macau Satellite TV,MPEG-4/HD,350.0,,https://www.lyngsat.com/providers/mo/Macau-Satellite-TV.html,True,Macau Satellite TV,3/4,6666,DVB-S2,Chi,3726 V
+3726 Vtp C3VC38-40,3,Macau Asia Satellite TV,MPEG-2/SD,652.0,,,False,Macau Satellite TV,3/4,6666,DVB-S2,Chi,3726 V
+3726 Vtp C3VC38-40,4,Macau Asia Satellite TV,MPEG-4/HD,752.0,,,False,Macau Satellite TV,3/4,6666,DVB-S2,Chi,3726 V
+3784 Htp C5HC38-40,,,,,,,False,Macau Satellite TV,3/5,3600,DVB-S2,,3784 H
+3784 Htp C5HC38-40,1,TDM Macau Satélite,MPEG-4/HD,33.0,,,False,Macau Satellite TV,3/5,3600,DVB-S2,,3784 H
+3784 Htp C5HC38-40,2,TDM Ou Mun,MPEG-4/HD,101.0,BISS,,False,Macau Satellite TV,3/5,3600,DVB-S2,Yue,3784 H
+3794 Vtp C4VC,,(Mathrubhumi News feeds),,,,,False,Macau Satellite TV,2/3,1200,DVB-S2,,3794 V
+3860 Vtp C6VC38-40,,EBU,,,,https://www.lyngsat.com/providers/ch/EBU.html,True,EBU,3/4,30000,DVB-S2,,3860 V
+3860 Vtp C6VC38-40,1,(IMG feeds),,401.0,,,False,EBU,3/4,30000,DVB-S2,,3860 V
+3895 Vtp C7VC,,(IMG feeds),,,,,False,EBU,3/4,7200,DVB-S2,,3895 V
+3860 Vtp C6VC38-40,2,Premier League TV,HEVC/HD,402.0,Director,,False,EBU,3/4,30000,DVB-S2,Eng,3860 V
+3860 Vtp C6VC38-40,4,Rai Italia Asia,MPEG-4/SD,404.0,,,False,EBU,3/4,30000,DVB-S2,Ita,3860 V
+3860 Vtp C6VC38-40,5,Vatican Media,MPEG-4/HD,33.0,,,False,EBU,3/4,30000,DVB-S2,Ita,3860 V
+3860 Vtp C6VC38-40,6,(EBU feeds),,406.0,,,False,EBU,3/4,30000,DVB-S2,,3860 V
+3860 Vtp C6VC38-40,7,(EBU feeds),,407.0,,,False,EBU,3/4,30000,DVB-S2,,3860 V
+4166 Vtp C12VC,,(EBU feeds),,,,,False,EBU,5/6,7200,DVB-S2,,4166 V
+3860 Vtp C6VC38-40,76,RTP Internacional Ásia,MPEG-4/SD,2076.0,,,False,EBU,3/4,30000,DVB-S2,Por,3860 V
+3860 Vtp C6VC38-40,85,RDP Antena 1,,,,,False,EBU,3/4,30000,DVB-S2,Por,3860 V
+3860 Vtp C6VC38-40,86,RDP Internacional Timor,,,,,False,EBU,3/4,30000,DVB-S2,Por,3860 V
+3895 Htp C7HC,,(SES feeds),,,,,False,EBU,5/6,7500,DVB-S2,,3895 H
+3960 Htp C9HC38-40,60,(SES feeds),,2060.0,,,False,EBU,5/6,30000,DVB-S2,,3960 H
+3960 Htp C9HC38-40,,AsiaSat,4-4,,,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,30000,DVB-S2,,3960 H
+3960 Htp C9HC38-40,,AsiaSat,4-4,,,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,30000,DVB-S2,,3960 H
+4040 Htp C11HC38-40,,AsiaSat,65535-3,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4040 H
+4040 Htp C11HC38-40,,AsiaSat,65535-3,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4040 H
+3960 Htp C9HC38-40,2,The Word Network,MPEG-2/SD,2002.0,,,False,AsiaSat,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp C9HC38-40,5,Cubavisión Internacional,MPEG-4/HD,105.0,,,False,AsiaSat,5/6,30000,DVB-S2,Spa,3960 H
+3960 Htp C9HC38-40,9,Reuters Live,MPEG-4/HD,3551.0,,,False,AsiaSat,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp C9HC38-40,10,GEB Asia,MPEG-4/SD,2010.0,,,False,AsiaSat,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp C9HC38-40,11,Angel TV Australia,MPEG-4/SD,2011.0,,,False,AsiaSat,5/6,30000,DVB-S2,Tam,3960 H
+3960 Htp C9HC38-40,12,Daystar TV,MPEG-2/SD,2012.0,,,False,AsiaSat,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp C9HC38-40,13,TVRI World,MPEG-4/HD,2013.0,,,False,AsiaSat,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp C9HC38-40,75,Yemen TV,MPEG-2/SD,2075.0,,,False,AsiaSat,5/6,30000,DVB-S2,Ara,3960 H
+3960 Htp C9HC38-40,88,Radio Sana'a,,,,,False,AsiaSat,5/6,30000,DVB-S2,Ara,3960 H
+4020 Vtp C10VC38-40,,STAR TV,,,Videoguard,https://www.lyngsat.com/providers/hk/STAR-TV.html,True,STAR TV,3/4,28100,DVB-S2,,4020 V
+4020 Vtp C10VC38-40,1512*,Star Gold HD India,MPEG-4/HD,805.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Hin Mar,4020 V
+4020 Vtp C10VC38-40,1515*,Star Plus HD India,MPEG-4/HD,801.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Hin,4020 V
+4020 Vtp C10VC38-40,1518*,Star Bharat India,MPEG-4/HD,803.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Hin,4020 V
+4020 Vtp C10VC38-40,1524*,Star World HD India,MPEG-4/HD,807.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Eng,4020 V
+4020 Vtp C10VC38-40,1527*,Star Movies HD India,MPEG-4/HD,809.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Eng,4020 V
+4020 Vtp C10VC38-40,1530*,Star Sports 1,MPEG-4/HD,811.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Eng,4020 V
+4020 Vtp C10VC38-40,1536*,Star Sports 2,MPEG-4/HD,813.0,Videoguard,,False,STAR TV,3/4,28100,DVB-S2,Eng Hin Eng Tam Kan Ben,4020 V
+4040 Htp C11HC38-40,1,Dubai TV International,MPEG-4/HD,3081.0,,,False,STAR TV,5/6,29720,DVB-S2,Ara,4040 H
+4040 Htp C11HC38-40,5,France 24 English,MPEG-4/HD,3071.0,,,False,STAR TV,5/6,29720,DVB-S2,Eng Eng,4040 H
+4040 Htp C11HC38-40,9,France 24 English,MPEG-2/SD,3001.0,,,False,STAR TV,5/6,29720,DVB-S2,Eng,4040 H
+4040 Htp C11HC38-40,10,France 24 Français,MPEG-2/SD,3011.0,,,False,STAR TV,5/6,29720,DVB-S2,Fre,4040 H
+4040 Htp C11HC38-40,12,TV5Monde Style,MPEG-4/HD,3041.0,Irdeto,,False,STAR TV,5/6,29720,DVB-S2,Fre,4040 H
+4040 Htp C11HC38-40,13,TV5Monde Asie,MPEG-4/HD,3051.0,Irdeto,,False,STAR TV,5/6,29720,DVB-S2,Fre,4040 H
+4040 Htp C11HC38-40,22,TV5Monde Pacifique,MPEG-4/HD,3061.0,Irdeto,,False,STAR TV,5/6,29720,DVB-S2,Fre,4040 H
+4040 Htp C11HC38-40,56,TVE Internacional Asia,MPEG-4/HD,3121.0,,,False,STAR TV,5/6,29720,DVB-S2,Spa,4040 H
+4040 Htp C11HC38-40,40,RFI Français,,,,,False,STAR TV,5/6,29720,DVB-S2,Fre,4040 H
+4040 Htp C11HC38-40,54,Radio Exterior,,,,,False,STAR TV,5/6,29720,DVB-S2,Spa,4040 H
+4080 Htp C12HC38-40,,Globecast,?-1,,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,5/6,30000,DVB-S2,,4080 H
+4080 Htp C12HC38-40,3,Alarabiya,MPEG-4/HD,103.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,4,Saudi TV,MPEG-4/HD,104.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,5,Oman TV,MPEG-4/HD,501.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,80,Ekhbariya TV,MPEG-2/SD,460.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,81,KTV 1 (Kuwait),MPEG-2/SD,461.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,82,Sunna TV (Saudi Arabia),MPEG-2/SD,462.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,83,Sudan TV,MPEG-2/SD,463.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,84,Sharjah TV,MPEG-2/SD,464.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,85,Quran TV (Saudi Arabia),MPEG-2/SD,465.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,86,Alwatania TV,MPEG-2/SD,466.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,100,Qatar TV,MPEG-4/HD,101.0,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,406,EuroNews English,MPEG-4/HD,216.0,Viaccess,,False,Globecast,5/6,30000,DVB-S2,Eng,4080 H
+4080 Htp C12HC38-40,408,EuroNews English,MPEG-2/SD,2221.0,,,False,Globecast,5/6,30000,DVB-S2,Eng,4080 H
+4080 Htp C12HC38-40,409,RTS 1 (Senegal),MPEG-4/SD,35.0,,,False,Globecast,5/6,30000,DVB-S2,Fre,4080 H
+4080 Htp C12HC38-40,6,Holy Quran Radio (Oman),,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,7,Radio Oman,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,87,Riyadh Radio,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,88,Quran Radio (Saudi Arabia),,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,89,Sharjah Radio,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,93,Kuwait Radio One,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,94,AlQuran Alkarem,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,95,Jeddah Radio,,,,,False,Globecast,5/6,30000,DVB-S2,Ara,4080 H
+4080 Htp C12HC38-40,96,Saudia Radio,,,,,False,Globecast,5/6,30000,DVB-S2,,4080 H
+4114 Htp C13HC38-40,,{},,,,,False,Globecast,3/4,18400,DVB-S1,,4114 H
+4132 Htp C13HC38-40,,BBC World Service,1-316,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13915,(BBC feeds),,6741.0,,,False,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13918,(BBC feeds),,6771.0,,,False,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13925,[BBC World Service test card],MPEG-4/SD,6841.0,,,False,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13901,BBC World Service English East Africa,,,,,False,BBC World Service,2/3,10587,DVB-S2,Eng,4132 H
+4132 Htp C13HC38-40,13904,BBC World Service English East Asia,,,,,False,BBC World Service,2/3,10587,DVB-S2,Eng,4132 H
+4132 Htp C13HC38-40,13905,BBC World Service English South Asia,,,,,False,BBC World Service,2/3,10587,DVB-S2,Eng,4132 H
+4132 Htp C13HC38-40,13907,BBC World Service English Europe,,,,,False,BBC World Service,2/3,10587,DVB-S2,Eng,4132 H
+4132 Htp C13HC38-40,13910,BBC World Service English News,,,,,False,BBC World Service,2/3,10587,DVB-S2,Eng,4132 H
+4132 Htp C13HC38-40,13916,BBC World Service Arabic,,,,,False,BBC World Service,2/3,10587,DVB-S2,Ara,4132 H
+4132 Htp C13HC38-40,13924,BBC World Service Bangla,,,,,False,BBC World Service,2/3,10587,DVB-S2,Ben,4132 H
+4132 Htp C13HC38-40,13926,BBC World Service Burmese,,,,,False,BBC World Service,2/3,10587,DVB-S2,Bur,4132 H
+4132 Htp C13HC38-40,13927,BBC World Service Cantonese,,,,,False,BBC World Service,2/3,10587,DVB-S2,Yue,4132 H
+4132 Htp C13HC38-40,13928,BBC World Service Dari,,,,,False,BBC World Service,2/3,10587,DVB-S2,Prs,4132 H
+4132 Htp C13HC38-40,13929,BBC World Service Persian,,,,,False,BBC World Service,2/3,10587,DVB-S2,Per,4132 H
+4132 Htp C13HC38-40,13930,BBC World Service Afrique,,,,,False,BBC World Service,2/3,10587,DVB-S2,Fre,4132 H
+4132 Htp C13HC38-40,13931,BBC Gahuza,,,,,False,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13933,BBC World Service Hindi,,,,,False,BBC World Service,2/3,10587,DVB-S2,Hin,4132 H
+4132 Htp C13HC38-40,13934,BBC World Service Indonesian,,,,,False,BBC World Service,2/3,10587,DVB-S2,Ind,4132 H
+4132 Htp C13HC38-40,13936,BBC World Service Kyrgyz,,,,,False,BBC World Service,2/3,10587,DVB-S2,Kir,4132 H
+4132 Htp C13HC38-40,13941,BBC World Service Nepali,,,,,False,BBC World Service,2/3,10587,DVB-S2,Nep,4132 H
+4132 Htp C13HC38-40,13942,BBC World Service Pashto,,,,,False,BBC World Service,2/3,10587,DVB-S2,Pus,4132 H
+4132 Htp C13HC38-40,13943,BBC World Service Afghanistan,,,,,False,BBC World Service,2/3,10587,DVB-S2,,4132 H
+4132 Htp C13HC38-40,13948,BBC World Service Russian,,,,,False,BBC World Service,2/3,10587,DVB-S2,Rus,4132 H
+4132 Htp C13HC38-40,13954,BBC World Service Sinhala,,,,,False,BBC World Service,2/3,10587,DVB-S2,Sin,4132 H
+4132 Htp C13HC38-40,13955,BBC World Service Somali,,,,,False,BBC World Service,2/3,10587,DVB-S2,Som,4132 H
+4132 Htp C13HC38-40,13961,BBC World Service Tajik,,,,,False,BBC World Service,2/3,10587,DVB-S2,Tgk,4132 H
+4132 Htp C13HC38-40,13962,BBC World Service Tamil,,,,,False,BBC World Service,2/3,10587,DVB-S2,Tam,4132 H
+4132 Htp C13HC38-40,13967,BBC World Service Urdu,,,,,False,BBC World Service,2/3,10587,DVB-S2,Urd,4132 H
+4132 Htp C13HC38-40,13968,BBC World Service Uzbek,,,,,False,BBC World Service,2/3,10587,DVB-S2,Uzb,4132 H
+12301 Vtp 2South Asia48-50,,Madani Channel Urdu,MPEG-4/SD,257.0,,,False,BBC World Service,3/4,2916,DVB-S2,Urd,12301 V
+12320 Vtp 4East Asia,,(Xinhua TV feeds),,,,,False,BBC World Service,4/5,8000,DVB-S2,,12320 V
+12621 Vtp 14East Asia0,,SETN,,,,https://www.lyngsat.com/providers/tw/SETN.html,True,SETN,3/4,4166,DVB-S4,,12621 V
+12621 Vtp 14East Asia0,110,SET News,MPEG-2/SD,110.0,,,False,SETN,3/4,4166,DVB-S4,Chi,12621 V
+12621 Vtp 14East Asia0,120,SET I News,MPEG-2/SD,120.0,,,False,SETN,3/4,4166,DVB-S4,Chi,12621 V
+12645 Vtp 14East Asia0,1,TTV News,?-?MPEG-4/SD,4010.0,,,False,SETN,3/4,1250,DVB-S2,Chi,12645 V
+12656 Vtp 14East Asia0,,TVBS News,,,BISS,https://www.lyngsat.com/providers/tw/TVBS-News.html,True,TVBS News,5/6,4000,DVB-S2,,12656 V
+12656 Vtp 14East Asia0,1,TVBS News,MPEG-4/HD,513.0,BISS,https://www.lyngsat.com/providers/tw/TVBS-News.html,True,TVBS News,5/6,4000,DVB-S2,Chi,12656 V
+12656 Vtp 14East Asia0,2,TVBS News,MPEG-2/SD,100.0,,https://www.lyngsat.com/providers/tw/TVBS-News.html,True,TVBS News,5/6,4000,DVB-S2,Chi,12656 V

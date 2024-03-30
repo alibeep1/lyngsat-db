@@ -1,0 +1,13 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11804 Rtp 5,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11804 R
+11843 Rtp 7,,BS Digital,,,ACAS,,False,,56.,337,ISDB-S,,11843 R
+11843 Rtp 7,45168.0,BS Asahi 4K,HEVC/UHD,,ACAS,,False,,56.,337,ISDB-S,Jpn,11843 R
+11843 Rtp 7,45169.0,BS TV Tokyo 4K,HEVC/UHD,,ACAS,,False,,56.,337,ISDB-S,Jpn,11843 R
+11843 Rtp 7,45170.0,BS Nippon TV 4K,HEVC/UHD,,ACAS,,False,,56.,337,ISDB-S,Jpn,11843 R
+11919 Rtp 11,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11919 R
+11919 Rtp 11,231.0,BS Campus ex,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11919 R
+11919 Rtp 11,232.0,BS Campus on,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11919 R
+11919 Rtp 11,531.0,The Open University of Japan Radio,,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11919 R
+12073 Rtp 19,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,12073 R
+12111 Rtp 21,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,12111 R
+12149 Rtp 23,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,12149 R

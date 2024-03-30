@@ -1,0 +1,37 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4038 Htp 9Hemi0,1.0,Ecuavisa Quito,?-?MPEG-2/SD,101.0,BISSDirector,,False,,600,1,DVB-S1,Spa,4038 H
+4109 Htp 11Hemi0,,,,,,,False,,3/4,9600,DVB-S2,,4109 H
+4155 Vtp 12Hemi0,,,,,,,False,,3/4,14400,DVB-S2,,4155 V
+4172 Vtp 12Hemi0,,,,,,,False,,3/4,13330,DVB-S2,,4172 V
+11968 Htp 26North America,,,,,,,False,,,,,,11968 H
+4109 Htp 11Hemi0,8.0,Once México,MPEG-4/HD,319.0,,,False,,3/4,9600,DVB-S2,Spa,4109 H
+4155 Vtp 12Hemi0,4.0,Once México,MPEG-2/SD,97.0,,,False,,3/4,14400,DVB-S2,Spa,4155 V
+4109 Htp 11Hemi0,9.0,Once niñas y niños,MPEG-4/SD,49.0,,,False,,3/4,9600,DVB-S2,Spa,4109 H
+4118 Htp 11Hemi0,,Grupo Radio Centro,,,,https://www.lyngsat.com/providers/mx/Grupo-Radio-Centro.html,True,Grupo Radio Centro,550,1,DVB-S1,,4118 H
+4118 Htp 11Hemi0,,Universal Guadalajara,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Universal Monterrey,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Alfa 91.3 FM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,El Fonógrafo 690 FM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Radio Centro 1030 AM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Radio Red 1110 AM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,La Z 107.3 FM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Joya 93.7 FM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Universal 88.1 FM,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4118 Htp 11Hemi0,,Universal Stereo Online,,,,,False,Grupo Radio Centro,550,1,DVB-S1,Spa,4118 H
+4124 Htp 11Hemi0,,Canal 10 Chiapas,,,,https://www.lyngsat.com/providers/mx/Canal-10-Chiapas.html,True,Canal 10 Chiapas,3/4,3609,DVB-S2,,4124 H
+4124 Htp 11Hemi0,,Canal 10 Chiapas,MPEG-4/HD,257.0,,https://www.lyngsat.com/providers/mx/Canal-10-Chiapas.html,True,Canal 10 Chiapas,3/4,3609,DVB-S2,Spa,4124 H
+4124 Htp 11Hemi0,,Prende y Aprende,MPEG-4/HD,261.0,,,False,Canal 10 Chiapas,3/4,3609,DVB-S2,Spa,4124 H
+4132 Vtp 12Hemi0,,Justicia TV (Mexico),MPEG-4/HD,512.0,,,False,Canal 10 Chiapas,3/4,6400,DVB-S2,Spa,4132 V
+4141 Vtp 12Hemi0,,Canal del Congreso 45.1,,,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,3/4,6666,DVB-S2,,4141 V
+4141 Vtp 12Hemi0,,Canal del Congreso 45.1,MPEG-4/HD,49.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,3/4,6666,DVB-S2,Spa,4141 V
+4141 Vtp 12Hemi0,,Canal del Congreso 45.1,MPEG-4/SD,65.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,3/4,6666,DVB-S2,Spa,4141 V
+4155 Vtp 12Hemi0,1.0,Canal Catorce,MPEG-2/HD,49.0,,,False,Canal del Congreso 45.1,3/4,14400,DVB-S2,Spa,4155 V
+4155 Vtp 12Hemi0,9.0,Canal Catorce,MPEG-4/HD,161.0,,,False,Canal del Congreso 45.1,3/4,14400,DVB-S2,Spa,4155 V
+4155 Vtp 12Hemi0,2.0,Canal 22 Nacional,MPEG-2/SD,65.0,,,False,Canal del Congreso 45.1,3/4,14400,DVB-S2,Spa,4155 V
+4172 Vtp 12Hemi0,1.0,Canal 22 Nacional,MPEG-4/HD,49.0,,,False,Canal del Congreso 45.1,3/4,13330,DVB-S2,Spa,4172 V
+4155 Vtp 12Hemi0,3.0,TV UNAM,MPEG-2/SD,81.0,,,False,Canal del Congreso 45.1,3/4,14400,DVB-S2,Spa,4155 V
+4155 Vtp 12Hemi0,5.0,(feeds),,113.0,,,False,Canal del Congreso 45.1,3/4,14400,DVB-S2,,4155 V
+4172 Vtp 12Hemi0,2.0,Canal 22.2,MPEG-4/HD,65.0,,,False,Canal del Congreso 45.1,3/4,13330,DVB-S2,Spa,4172 V
+4172 Vtp 12Hemi0,4.0,Canal 22 Internacional,MPEG-4/HD,97.0,,,False,Canal del Congreso 45.1,3/4,13330,DVB-S2,Spa,4172 V
+11978 Htp 26North America,,(CBC feeds),,,,,False,Canal del Congreso 45.1,5/6,8200,DVB-S2,,11978 H
+11988 Htp 26North America,,(CBC feeds),,,,,False,Canal del Congreso 45.1,5/6,8200,DVB-S2,,11988 H

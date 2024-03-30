@@ -1,0 +1,182 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4126 Ltp CG1Global,,American Forces Network,18-101,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,1/2,11000,DVB-S2,,4126 L
+4126 Ltp CG1Global,302.0,AFN Prime Atlantic,MPEG-4/SD,2160.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,303.0,AFN News,MPEG-4/SD,2260.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,304.0,AFN Sports,MPEG-4/SD,2360.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,305.0,AFN Sports 2,MPEG-4/SD,2370.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,320.0,AFN The Eagle Atlantic,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,321.0,AFN The Voice,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,322.0,AFN Music Service 1,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4126 Ltp CG1Global,323.0,AFN Music Service 2,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4126 L
+4132 Rtp CG2Global,,Anuvu,100-1,,PowerVu,https://www.lyngsat.com/providers/us/Anuvu.html,True,Anuvu,3/4,30000,DVB-S2,,4132 R
+4132 Rtp CG2Global,100.0,[MTN info card],MPEG-4/SD,6177.0,,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,101.0,MTN Special Events,MPEG-4/HD,4897.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,200.0,MTN Special Events,MPEG-4/SD,4401.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,102.0,MSNBC International,MPEG-4/SD,4129.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,103.0,Fox News Channel,MPEG-4/SD,4385.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,104.0,CNBC US,MPEG-4/SD,4641.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,105.0,Sky News International,MPEG-4/SD,5153.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,106.0,BBC News,MPEG-4/SD,5409.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,107.0,Prime Journey,MPEG-4/SD,5665.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,108.0,Sky Sports News UK,MPEG-4/SD,5921.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,109.0,Sport 24,MPEG-4/HD,6433.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,110.0,Prime One,MPEG-4/SD,6945.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,111.0,Sport 24 Extra,MPEG-4/SD,7201.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4132 R
+4132 Rtp CG2Global,112.0,RTL Deutschland,MPEG-4/SD,6689.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Ger,4132 R
+4132 Rtp CG2Global,113.0,Sky News Australia,MPEG-4/SD,7457.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,115.0,TFC Asia-Pacific,MPEG-4/SD,7969.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4132 R
+4132 Rtp CG2Global,116.0,Prime Favorites,MPEG-4/SD,4145.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4132 R
+4132 Rtp CG2Global,117.0,BBC HD,MPEG-4/HD,4657.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,118.0,TVE Internacional Asia,MPEG-4/SD,4913.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,119.0,Canal 24 Horas,MPEG-4/SD,5169.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,120.0,Australian Comedy & Drama Channel,MPEG-4/SD,5425.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,121.0,ABC News,MPEG-4/SD,5681.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,124.0,Food Network East,MPEG-4/SD,6961.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,125.0,HGTV East,MPEG-4/SD,6705.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,126.0,Travel Channel East,MPEG-4/SD,5937.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,131.0,France 24 Français,MPEG-4/SD,4161.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Fre,4132 R
+4132 Rtp CG2Global,132.0,Mediaset Italia,MPEG-4/SD,4417.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Ita,4132 R
+4132 Rtp CG2Global,145.0,CCTV 4 Europe,MPEG-4/SD,7729.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Chi,4132 R
+4132 Rtp CG2Global,161.0,National Geographic UK,MPEG-4/SD,5649.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+4132 Rtp CG2Global,201.0,The Weather Channel,MPEG-4/SD,7473.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4132 R
+10980 Htp KC1Caribbean,,Orange Caraïbes,,,,,False,Anuvu,1/2,45000,DVB-S2,,10980 H
+11100 Htp KC5Caribbean,,Canal + Caraïbes,,,Mediaguard,,False,Anuvu,5/6,45000,DVB-S2,,11100 H
+11485 Htp KC9Caribbean,,Canal + Caraïbes,,,Mediaguard,,False,Anuvu,2/3,45000,DVB-S2,,11485 H
+11545 Htp KC11Caribbean,,Canal + Caraïbes,,,Mediaguard,,False,Anuvu,5/6,45000,DVB-S2,,11545 H
+11635 Htp KC15Caribbean,,Canal + Caraïbes,,,Mediaguard,,False,Anuvu,2/3,30000,DVB-S2,,11635 H
+11675 Htp KC17Caribbean,,Canal + Caraïbes,,,Mediaguard,,False,Anuvu,2/3,30000,DVB-S2,,11675 H
+11100 Htp KC5Caribbean,,RCI Guadeloupe,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,RCI Martinique,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,Radio Transat,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,M Radio,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,Bel Radio Guadeloupe,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,NRJ Antilles,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Htp KC5Caribbean,,Trace FM Guadeloupe,,,,,False,Anuvu,5/6,45000,DVB-S2,Fre,11100 H
+11100 Vtp KC6Caribbean,,SiBCI,,,,https://www.lyngsat.com/providers/ve/SiBCI.html,True,SiBCI,3/4,45000,DVB-S2,,11100 V
+11100 Vtp KC6Caribbean,,SiBCI,,,,https://www.lyngsat.com/providers/ve/SiBCI.html,True,SiBCI,3/4,45000,DVB-S2,,11100 V
+11646 Vtp KC16Caribbean,,SiBCI,,,,https://www.lyngsat.com/providers/ve/SiBCI.html,True,SiBCI,2/3,10000,DVB-S2,,11646 V
+11646 Vtp KC16Caribbean,,SiBCI,,,,https://www.lyngsat.com/providers/ve/SiBCI.html,True,SiBCI,2/3,10000,DVB-S2,,11646 V
+11100 Vtp KC6Caribbean,,Plim Plim,MPEG-4/SD,56.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Oromar TV,MPEG-4/SD,101.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal Habana,MPEG-4/SD,263.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Unitel La Paz,MPEG-4/HD,353.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TV Culturas,MPEG-4/SD,385.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Bolivia TV 7.1,MPEG-4/SD,523.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,CCI Channel,MPEG-4/SD,711.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Venezolana de TV,MPEG-4/SD,1005.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,ViVe,MPEG-4/SD,1105.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TVes,MPEG-4/SD,1205.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Telesur (Venezuela),MPEG-4/SD,1305.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Asamblea Nacional TV,MPEG-4/SD,1405.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Colombeia TV,MPEG-4/SD,1505.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,123 TV,MPEG-4/SD,1605.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Alba TV,MPEG-4/SD,1705.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Conciencia TV,MPEG-4/SD,1805.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Hispan TV,MPEG-4/SD,2005.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TV FANB,MPEG-4/SD,2305.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,ShowVen TV,MPEG-4/SD,2505.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,CGTN Español,MPEG-4/SD,2605.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Ávila TV,MPEG-4/SD,2705.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Globovisión,MPEG-4/SD,2805.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Venevisión,MPEG-4/SD,3005.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Meridiano TV,MPEG-4/SD,3105.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Televen,MPEG-4/SD,3205.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TLT,MPEG-4/SD,3305.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TLT,MPEG-4/HD,3905.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TV Pública,MPEG-4/SD,3505.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,[test card],MPEG-4/SD,3605.0,,,False,SiBCI,3/4,45000,DVB-S2,,11100 V
+11100 Vtp KC6Caribbean,,TV de Galicia,MPEG-4/SD,3705.0,,,False,SiBCI,3/4,45000,DVB-S2,Glg,11100 V
+11100 Vtp KC6Caribbean,,Vepaco TV,MPEG-2/SD,3805.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,DTV,MPEG-4/SD,4098.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,JBN TV,MPEG-4/SD,4128.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal 11 (Honduras),MPEG-4/SD,4134.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal I,MPEG-4/SD,4205.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,TV Perú,MPEG-4/SD,5005.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Zoom (Colombia),MPEG-2/SD,5105.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal Clave,MPEG-4/SD,5205.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Seo TV Novelas,MPEG-4/HD,5305.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,EWTN España - Latinoamérica,MPEG-4/SD,5405.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Cubavisión Internacional,MPEG-4/SD,5605.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal 25 (Dominican Republic),MPEG-4/SD,5905.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Color Visión 9,MPEG-4/SD,6205.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,HCH,MPEG-4/SD,6401.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Ecuavisa,MPEG-4/SD,6505.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Red AD Venir,MPEG-4/SD,7305.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Canal 9 (Nicaragua),MPEG-4/SD,7405.0,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,RNV Musical,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,RNV Musical,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,RNV Musical,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,RNV Musical,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Tiuna FM,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,RNV Informativa,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Salsa Caribe 102.3 FM,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,La Radio del Sur,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,ShowVen Radio,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Radio Miraflores,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11100 Vtp KC6Caribbean,,Vepaco FM,,,,,False,SiBCI,3/4,45000,DVB-S2,Spa,11100 V
+11485 Htp KC9Caribbean,,Voir + Caraïbes,MPEG-4/SD,2910.0,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11485 Htp KC9Caribbean,,RFM (France),,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11485 Htp KC9Caribbean,,Rire & Chansons,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11485 Htp KC9Caribbean,,RMC,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,RMC,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11485 Htp KC9Caribbean,,Radio Nova,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,Radio Nova,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11485 Htp KC9Caribbean,,NRJ France,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,NRJ France,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11485 Htp KC9Caribbean,,Nostalgie,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,Nostalgie,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11485 Htp KC9Caribbean,,Chérie FM,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,Chérie FM,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11485 Htp KC9Caribbean,,Jazz Radio,,,,,False,SiBCI,2/3,45000,DVB-S2,Fre,11485 H
+11545 Htp KC11Caribbean,,Jazz Radio,,,,,False,SiBCI,5/6,45000,DVB-S2,Fre,11545 H
+11525 Vtp KA12Africa & Europe,,SMTD,8080-1,,,https://www.lyngsat.com/providers/ml/SMTD.html,True,SMTD,3/4,12333,DVB-S2,,11525 V
+11525 Vtp KA12Africa & Europe,1.0,ORTM 1,MPEG-4/SD,310.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,10.0,ORTM 1,MPEG-4/SD,1210.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,2.0,ORTM 2,MPEG-4/SD,410.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,3.0,Balanzan TV,MPEG-4/SD,1410.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,4.0,Tivi5Monde,MPEG-4/SD,810.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,5.0,TM1 TV,MPEG-4/SD,510.0,BISS 1,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,6.0,Bèlèdougou TV,MPEG-4/SD,710.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,7.0,ECF TV,MPEG-4/SD,1110.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,8.0,Segou TV,MPEG-4/SD,2010.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,9.0,Zahra TV,MPEG-4/SD,1710.0,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,11.0,[SMTD test card],MPEG-4/SD,1310.0,,,False,SMTD,3/4,12333,DVB-S2,,11525 V
+11525 Vtp KA12Africa & Europe,12.0,[SMTD test card],MPEG-4/SD,1910.0,,,False,SMTD,3/4,12333,DVB-S2,,11525 V
+11525 Vtp KA12Africa & Europe,13.0,[SMTD test card],MPEG-4/SD,1510.0,,,False,SMTD,3/4,12333,DVB-S2,,11525 V
+11525 Vtp KA12Africa & Europe,14.0,ORTM Radio Mali,,,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,15.0,ORTM Chaîne 2,,,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11525 Vtp KA12Africa & Europe,20.0,Joliba FM,,,,,False,SMTD,3/4,12333,DVB-S2,Fre,11525 V
+11543 Vtp KA12Africa & Europe,1.0,Cherifla TV,8192-4096MPEG-2/SD,205.0,,,False,SMTD,2/3,1500,DVB-S2,Fre,11543 V
+11545 Htp KC11Caribbean,,Europe 1,,,,,False,SMTD,5/6,45000,DVB-S2,Fre,11545 H
+11545 Htp KC11Caribbean,,BFM Business Radio,,,,,False,SMTD,5/6,45000,DVB-S2,Fre,11545 H
+11595 Htp KE41Europe & Mediterranean,,(feeds),,,,,False,SMTD,3/4,29994,DVB-S2,,11595 H
+11595 Htp KC13Caribbean,,France TV,,,MediaguardViaccess,https://www.lyngsat.com/providers/fr/France-TV.html,True,France TV,3/4,30000,DVB-S2,,11595 H
+11595 Htp KC13Caribbean,,Guadeloupe 1ère,MPEG-4/SD,301.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Guyane 1ère,MPEG-4/SD,302.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Martinique 1ère,MPEG-4/SD,303.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Franceinfo:,MPEG-4/HD,341.0,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Franceinfo:,MPEG-4/SD,342.0,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,France 2,MPEG-4/SD,370.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,France 3,MPEG-4/SD,371.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,France 4,MPEG-4/SD,372.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,France 5,MPEG-4/SD,373.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,ARTE Français,MPEG-4/SD,374.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Culturebox promo,MPEG-4/SD,376.0,MediaguardViaccess,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Outre-mer 1ère,,,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Guadeloupe 1ère Radio,,,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Guyane 1ère Radio,,,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,Martinique 1ère Radio,,,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11595 Htp KC13Caribbean,,France Inter,,,,,False,France TV,3/4,30000,DVB-S2,Fre,11595 H
+11635 Htp KC15Caribbean,,C News,MPEG-4/SD,210.0,,,False,France TV,2/3,30000,DVB-S2,Fre,11635 H
+11635 Htp KC15Caribbean,,Radio Notre Dame,,,,,False,France TV,2/3,30000,DVB-S2,Fre,11635 H
+11635 Htp KC15Caribbean,,Radio France Internationale,,,,,False,France TV,2/3,30000,DVB-S2,Fre,11635 H
+11646 Vtp KC16Caribbean,,Tele Antillas,MPEG-4/SD,34.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Canal 22 Nacional,MPEG-4/SD,39.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Canal Iberoamericano,MPEG-4/SD,40.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Telesistema,MPEG-4/SD,58.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,RTV (Honduras),MPEG-4/SD,130.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Amé 47,MPEG-2/SD,1211.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Gamavisión,MPEG-4/SD,4605.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11646 Vtp KC16Caribbean,,Su Mundo TV,MPEG-4/SD,6305.0,,,False,France TV,2/3,10000,DVB-S2,Spa,11646 V
+11675 Htp KC17Caribbean,,Radio Classique,,,,,False,France TV,2/3,30000,DVB-S2,Fre,11675 H
+11675 Htp KC17Caribbean,,Latina,,,,,False,France TV,2/3,30000,DVB-S2,Fre,11675 H

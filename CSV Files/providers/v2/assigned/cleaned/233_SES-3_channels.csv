@@ -1,0 +1,138 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11728 Htp 1North America Ku,,(CNN feeds),,,,,False,,250,24,DVB-S2,,11728 H
+11734 Htp 1North America Ku,,(CNN feeds),,,,,False,,250,24,DVB-S2,,11734 H
+12020 Vtp 16North America Ku,,(CNN feeds),,,,,False,,250,24,DVB-S2,,12020 V
+12035 Vtp 16North America Ku,,(CNN feeds),,,,,False,,250,24,DVB-S2,,12035 V
+11815 Htp 5North America Ku,,(feeds),,,,,False,,500,24,DVB-S2,,11815 H
+11904 Htp 11North America Ku,,(feeds),,,,,False,,3/4,4600,DVB-S2,,11904 H
+11917 Htp 11North America Ku,,(feeds),,,,,False,,600,24,DVB-S2,,11917 H
+11923 Htp 11North America Ku,,(feeds),,,,,False,,600,24,DVB-S2,,11923 H
+11929 Htp 11North America Ku,,(feeds),,,,,False,,600,24,DVB-S2,,11929 H
+11935 Htp 11North America Ku,,(feeds),,,,,False,,600,24,DVB-S2,,11935 H
+11995 Vtp 14North America Ku,,(feeds),,,,,False,,540,23,DVB-S2,,11995 V
+12025 Vtp 16North America Ku,,(feeds),,,,,False,,250,24,DVB-S2,,12025 V
+12053 Vtp 18North America Ku,,(feeds),,,,,False,,540,23,DVB-S2,,12053 V
+12057 Vtp 18North America Ku,,(feeds),,,,,False,,540,23,DVB-S2,,12057 V
+12067 Vtp 18North America Ku,,(feeds),,,,,False,,540,23,DVB-S2,,12067 V
+12075 Vtp 18North America Ku,,(feeds),,,,,False,,540,23,DVB-S2,,12075 V
+11910 Htp 11North America Ku0,,,,,,,False,,,,,,11910 H
+12080 Htp 19North America Ku0,,,,,,,False,,3/4,29970,DVB-S2,,12080 H
+12145 Vtp 22North America Ku0,,,?-1,,,,False,,3/4,20000,DVB-S2,,12145 V
+12151 Htp 23North America Ku0,,,,,,,False,,,,,,12151 H
+12157 Htp 23North America Ku0,,,,,,,False,,,,,,12157 H
+12163 Htp 23North America Ku0,,,,,,,False,,,,,,12163 H
+12175 Htp 23North America Ku0,,,,,,,False,,,,,,12175 H
+12182 Vtp 24North America Ku0,,,,,,,False,,,,,,12182 V
+11950 Htp 13North America Ku,,(NBC feeds),,,,,False,,600,24,DVB-S2,,11950 H
+11956 Htp 13North America Ku,,(NBC feeds),,,,,False,,600,24,DVB-S2,,11956 H
+11962 Htp 13North America Ku,,(NBC feeds),,,,,False,,600,24,DVB-S2,,11962 H
+11969 Htp 13North America Ku,,(NBC feeds),,,,,False,,600,24,DVB-S2,,11969 H
+12025 Htp 17North America Ku,,(NBC feeds),,,,,False,,3/4,4600,DVB-S2,,12025 H
+12054 Htp 17North America Ku,,(NBC feeds),,,,,False,,600,24,DVB-S2,,12054 H
+12120 Htp 21North America Ku0,65.0,(NBC feeds),,650.0,BISS,,False,,5/6,30000,DVB-S2,,12120 H
+12120 Htp 21North America Ku0,66.0,(NBC feeds),,660.0,BISS,,False,,5/6,30000,DVB-S2,,12120 H
+12120 Htp 21North America Ku0,67.0,(NBC feeds),,670.0,BISS,,False,,5/6,30000,DVB-S2,,12120 H
+12005 Vtp 16North America Ku,,(WFXT-TV feeds),,,,,False,,250,24,DVB-S2,,12005 V
+12010 Vtp 16North America Ku,,(WHDH-TV feeds),,,,,False,,250,24,DVB-S2,,12010 V
+12015 Vtp 16North America Ku,,(WHDH-TV feeds),,,,,False,,250,24,DVB-S2,,12015 V
+12030 Vtp 16North America Ku,,(Vyvx feeds),,,,,False,,250,24,DVB-S2,,12030 V
+12080 Htp 19North America Ku0,1.0,DW English,MPEG-4/HD,2001.0,,,False,,3/4,29970,DVB-S2,Eng,12080 H
+12080 Htp 19North America Ku0,3.0,NTA International,MPEG-4/HD,2003.0,,,False,,3/4,29970,DVB-S2,Eng,12080 H
+12120 Htp 21North America Ku0,,NBC,1-1,,BISS,https://www.lyngsat.com/providers/us/NBC.html,True,NBC,5/6,30000,DVB-S2,,12120 H
+12120 Htp 21North America Ku0,28.0,Cozi TV,MPEG-2/SD,281.0,,,False,NBC,5/6,30000,DVB-S2,Eng,12120 H
+12120 Htp 21North America Ku0,61.0,NBC East,MPEG-4/HD,610.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,12120 H
+12120 Htp 21North America Ku0,62.0,NBC Central,MPEG-4/HD,620.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,12120 H
+12120 Htp 21North America Ku0,63.0,NBC Mountain,MPEG-4/HD,630.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,12120 H
+12120 Htp 21North America Ku0,64.0,NBC West,MPEG-4/HD,640.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,12120 H
+12145 Vtp 22North America Ku0,1.0,NewsNation,MPEG-4/HD,101.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,2.0,NHK World Japan,MPEG-4/HD,102.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,3.0,SBN Domestic,MPEG-4/HD,103.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,6.0,Reach TV,MPEG-4/HD,106.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,7.0,Taiwan +,MPEG-4/HD,107.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,44.0,Microspace promo,MPEG-4/HD,5185.0,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,61.0,North Carolina Reading Service,,,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,81.0,The Classical Station,,,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,1015.0,Mix 101.5,,,,,False,NBC,3/4,20000,DVB-S2,Eng,12145 V
+12145 Vtp 22North America Ku0,0.0,50s & 60s Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,70s Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Songbook,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,80s Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,60s Pop Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Adult Alternative,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Cashmere,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Unforgettable,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,City Lights,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The Beach,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Swing Kings,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Lucille,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,7890,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Ensemble,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Summer Fun,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Summer Fun,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Fiesta Tropical,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Rock Show,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Roadhouse,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Country Gold,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Nashville USA,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Country Music 1,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Belissimo,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The Light,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Plaza,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Impressions,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Renegade Country,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Easy Instrumentals,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Environmental,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Frequency,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Expressions,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Ambrosia,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,FM-1,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Hitline,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Hot FM,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Strobe,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Little Italy,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Jazz Traditions,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Classic Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Kidtunes,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,La Musica,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Intermezzo,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Love Songs,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Feedback,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Metro,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Mojito,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Moodscapes,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Aura,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Shine,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The Party Playlist,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Latin Jazz,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Piano & Guitar,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The Cafe,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Mo Soul,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Reflections,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Kingston,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Kinetic,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Tropical Breezes,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The Blvd,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Concrete Beats,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Viva Mariachi,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,NuLounge,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Mood Overhead,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Chilltopia,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Quebecois,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Christmas Message,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Toned,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Perimeter,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,The New Wave,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Varsity,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Stylus,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Food Lion,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Mens Wearhouse,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Holiday Favourites,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,FM Dos,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,90s Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Sheetz,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Uptown,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Moes SW Grill,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,McDonalds,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Latin Hits,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Bed Bath Beyond,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V
+12145 Vtp 22North America Ku0,0.0,Ultra,,,,,False,NBC,3/4,20000,DVB-S2,,12145 V

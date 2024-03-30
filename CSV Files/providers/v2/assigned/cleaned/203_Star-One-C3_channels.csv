@@ -1,0 +1,224 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3723 Htp 1ANCSouth America0,,TV A Crítica,,,,https://www.lyngsat.com/providers/br/TV-A-Critica.html,True,TV A Crítica,3/4,3750,DVB-S2,,3723 H
+3723 Htp 1ANCSouth America0,,TV A Crítica,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/TV-A-Critica.html,True,TV A Crítica,3/4,3750,DVB-S2,Por,3723 H
+3723 Htp 1ANCSouth America0,,TV A Crítica,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/TV-A-Critica.html,True,TV A Crítica,3/4,3750,DVB-S2,Por,3723 H
+3723 Htp 1ANCSouth America0,1.0,FM O Dia,,,,,False,TV A Crítica,3/4,3750,DVB-S2,Por,3723 H
+3747 Htp 2ANCSouth America0,,Rede Bahia,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Bahia.html,True,Rede Bahia,8/9,7726,DVB-S2,,3747 H
+3747 Htp 2ANCSouth America0,,Rede Bahia,,,Irdeto,https://www.lyngsat.com/providers/br/Rede-Bahia.html,True,Rede Bahia,8/9,7726,DVB-S2,,3747 H
+3758 Htp 2ANCSouth America0,,Rede Bahia,,,,https://www.lyngsat.com/providers/br/Rede-Bahia.html,True,Rede Bahia,8/9,11275,DVB-S2,,3758 H
+3758 Htp 2ANCSouth America0,,Rede Bahia,,,,https://www.lyngsat.com/providers/br/Rede-Bahia.html,True,Rede Bahia,8/9,11275,DVB-S2,,3758 H
+3747 Htp 2ANCSouth America0,7648.0,TV Oeste,MPEG-4/HD,373.0,Irdeto,,False,Rede Bahia,8/9,7726,DVB-S2,Por,3747 H
+3747 Htp 2ANCSouth America0,0.0,TV Oeste,MPEG-4/1seg,629.0,Irdeto,,False,Rede Bahia,8/9,7726,DVB-S2,Por,3747 H
+3747 Htp 2ANCSouth America0,56096.0,TV São Francisco,MPEG-4/HD,273.0,Irdeto,,False,Rede Bahia,8/9,7726,DVB-S2,Por,3747 H
+3747 Htp 2ANCSouth America0,0.0,TV São Francisco,MPEG-4/1seg,529.0,Irdeto,,False,Rede Bahia,8/9,7726,DVB-S2,Por,3747 H
+3758 Htp 2ANCSouth America0,101.0,TV Sudoeste,MPEG-4/HD,273.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,0.0,TV Sudoeste,MPEG-4/1seg,529.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,102.0,TV Santa Cruz,MPEG-4/HD,373.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,0.0,TV Santa Cruz,MPEG-4/1seg,629.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,103.0,TV Subaé,MPEG-4/HD,473.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,0.0,TV Subaé,MPEG-4/1seg,829.0,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,110.0,Bahia FM,,,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,111.0,CBN Salvador,,,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3758 Htp 2ANCSouth America0,112.0,GFM 90.1,,,,,False,Rede Bahia,8/9,11275,DVB-S2,Por,3758 H
+3764 Vtp 2BNCSouth America0,,TV Jangadeiro,,,,https://www.lyngsat.com/providers/br/TV-Jangadeiro.html,True,TV Jangadeiro,5/6,4165,DVB-S2,,3764 V
+3764 Vtp 2BNCSouth America0,,TV Jangadeiro,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Jangadeiro.html,True,TV Jangadeiro,5/6,4165,DVB-S2,Por,3764 V
+3764 Vtp 2BNCSouth America0,,TV Jangadeiro,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/TV-Jangadeiro.html,True,TV Jangadeiro,5/6,4165,DVB-S2,Por,3764 V
+3764 Vtp 2BNCSouth America0,,Jangadeiro FM,,,,,False,TV Jangadeiro,5/6,4165,DVB-S2,Por,3764 V
+3767 Htp 2ANCSouth America0,1.0,Fonte TV,?-?MPEG-2/HD,258.0,,,False,TV Jangadeiro,3/4,2080,DVB-S2,Por,3767 H
+3770 Htp 2ANCSouth America,,(feeds),,,,,False,TV Jangadeiro,750,8,DVB-S2,,3770 H
+3915 Vtp 5BNCSouth America,,(feeds),,,,,False,TV Jangadeiro,5/6,5000,DVB-S2,,3915 V
+3770 Vtp 2BNCSouth America0,1.0,TV Vila Real,?-?MPEG-4/HD,512.0,,,False,TV Jangadeiro,3/4,4166,DVB-S2,Por,3770 V
+3770 Vtp 2BNCSouth America0,2.0,Gazeta FM,,,,,False,TV Jangadeiro,3/4,4166,DVB-S2,Por,3770 V
+3770 Vtp 2BNCSouth America0,3.0,Vila Real FM,,,,,False,TV Jangadeiro,3/4,4166,DVB-S2,Por,3770 V
+3770 Vtp 2BNCSouth America0,4.0,Cultura 90.7,,,,,False,TV Jangadeiro,3/4,4166,DVB-S2,Por,3770 V
+3775 Htp 2ANCSouth America0,,TV Mais Família,,,,https://www.lyngsat.com/providers/br/TV-Mais-Familia.html,True,TV Mais Família,3/4,4686,DVB-S2,,3775 H
+3775 Htp 2ANCSouth America0,32000.0,TV Mais Família,MPEG-4/HD,256.0,,https://www.lyngsat.com/providers/br/TV-Mais-Familia.html,True,TV Mais Família,3/4,4686,DVB-S2,Por,3775 H
+3775 Htp 2ANCSouth America0,32024.0,TV Mais Família,MPEG-4/1seg,510.0,,https://www.lyngsat.com/providers/br/TV-Mais-Familia.html,True,TV Mais Família,3/4,4686,DVB-S2,Por,3775 H
+3787 Vtp 2BNCSouth America0,,TV Alterosa,,,,https://www.lyngsat.com/providers/br/TV-Alterosa.html,True,TV Alterosa,3/4,7500,DVB-S2,,3787 V
+3787 Vtp 2BNCSouth America0,1.0,TV Alterosa Leste,MPEG-4/HD,3585.0,,,False,TV Alterosa,3/4,7500,DVB-S2,Por,3787 V
+3787 Vtp 2BNCSouth America0,2.0,TV Alterosa Zona da Mata,MPEG-4/HD,1160.0,,,False,TV Alterosa,3/4,7500,DVB-S2,Por,3787 V
+3787 Vtp 2BNCSouth America0,3.0,TV Alterosa Centro-Oeste,MPEG-4/HD,1060.0,,,False,TV Alterosa,3/4,7500,DVB-S2,Por,3787 V
+3787 Vtp 2BNCSouth America0,4.0,TV Alterosa Interior,MPEG-4/HD,1260.0,,,False,TV Alterosa,3/4,7500,DVB-S2,Por,3787 V
+3794 Htp 3ANCSouth America0,1.0,TV Cidade Verde Cuiabá,?-?MPEG-2/SD,273.0,,,False,TV Alterosa,333,3,DVB-S3,Por,3794 H
+3794 Htp 3ANCSouth America0,1.0,Baixada FM,,,,,False,TV Alterosa,333,3,DVB-S3,Por,3794 H
+3798 Htp 3ANCSouth America0,1.0,TV Turfe,?-?MPEG-2/SD,1110.0,,,False,TV Alterosa,3/4,3600,DVB-S3,Por,3798 H
+3805 Htp 3ANCSouth America0,1.0,Jockey Club de São Paulo,?-?MPEG-2/SD,4194.0,,,False,TV Alterosa,3/4,4340,DVB-S4,Por,3805 H
+3815 Htp 3ANCSouth America0,,TV Serra Dourada,,,BISS,https://www.lyngsat.com/providers/br/TV-Serra-Dourada.html,True,TV Serra Dourada,3/4,23600,DVB-S2,,3815 H
+3815 Htp 3ANCSouth America0,1.0,TV Serra Dourada,MPEG-4/HD,289.0,BISS,https://www.lyngsat.com/providers/br/TV-Serra-Dourada.html,True,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3815 Htp 3ANCSouth America0,2.0,TV Serra Dourada,MPEG-4/1seg,401.0,,https://www.lyngsat.com/providers/br/TV-Serra-Dourada.html,True,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3815 Htp 3ANCSouth America0,3.0,Rede Serra Dourada,,,,,False,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3815 Htp 3ANCSouth America0,4.0,99.5 FM,,,,,False,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3815 Htp 3ANCSouth America0,5.0,Rede Serra Dourada São Simão,,,,,False,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3815 Htp 3ANCSouth America0,6.0,Rede Serra Dourada Itapaci,,,,,False,TV Serra Dourada,3/4,23600,DVB-S2,Por,3815 H
+3820 Vtp 3BNCSouth America0,,,,,,,False,TV Serra Dourada,5/6,30000,DVB-S2,,3820 V
+3927 Htp 6ANCSouth America0,,,,,Irdeto,,False,TV Serra Dourada,2/3,17500,DVB-S2,,3927 H
+4153 Vtp 11BNCSouth America0,,,,,,,False,TV Serra Dourada,2/3,7500,DVB-S2,,4153 V
+3820 Vtp 3BNCSouth America0,,Canal Rural (Brazil),MPEG-4/HD,201.0,,,False,TV Serra Dourada,5/6,30000,DVB-S2,Por,3820 V
+3820 Vtp 3BNCSouth America0,1.0,CineBrasil TV,MPEG-4/HD,4112.0,,,False,TV Serra Dourada,5/6,30000,DVB-S2,Por,3820 V
+3820 Vtp 3BNCSouth America0,,CBN São Paulo,,,,,False,TV Serra Dourada,5/6,30000,DVB-S2,Por,3820 V
+4012 Vtp 8BNCSouth America0,,CBN São Paulo,,,,,False,TV Serra Dourada,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,CBN São Paulo,,,,,False,TV Serra Dourada,4/5,22860,DVB-S2,Por,4012 V
+3824 Htp 3ANCSouth America0,,TV Sergipe,MPEG-2/HD,256.0,Irdeto,,False,TV Serra Dourada,3/4,4580,DVB-S2,Por,3824 H
+3835 Htp 4ANCSouth America0,1.0,Curta!,?-?MPEG-4/HD,1110.0,Xcrypt,,False,TV Serra Dourada,3/4,4166,DVB-S2,Por,3835 H
+3840 Htp 4ANCSouth America0,1.0,Curta!,?-?MPEG-2/SD,1110.0,PowerVu,,False,TV Serra Dourada,3/4,3333,DVB-S3,Por,3840 H
+3846 Vtp 3BNCSouth America0,,RBI TV,,,,https://www.lyngsat.com/providers/br/RBI-TV.html,True,RBI TV,3/4,5000,DVB-S2,,3846 V
+3846 Vtp 3BNCSouth America0,,RBI TV,/HD,101.0,,https://www.lyngsat.com/providers/br/RBI-TV.html,True,RBI TV,3/4,5000,DVB-S2,Por,3846 V
+3846 Vtp 3BNCSouth America0,,RBI TV,/1seg,201.0,,https://www.lyngsat.com/providers/br/RBI-TV.html,True,RBI TV,3/4,5000,DVB-S2,Por,3846 V
+3854 Htp 4ANCSouth America0,,Rede 21,,,,https://www.lyngsat.com/providers/br/Rede-21.html,True,Rede 21,3/4,7500,DVB-S2,,3854 H
+3854 Htp 4ANCSouth America0,60416.0,Rede 21,MPEG-4/HD,269.0,,https://www.lyngsat.com/providers/br/Rede-21.html,True,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,60440.0,Rede 21,MPEG-4/1seg,283.0,,https://www.lyngsat.com/providers/br/Rede-21.html,True,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,1.0,Band Alternativo,MPEG-4/HD,1002.0,Conax,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Band FM São Paulo,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+4120 Htp 11ANCSouth America0,,Band FM São Paulo,,,,,False,Rede 21,5/6,30000,DVB-S2,Por,4120 H
+3854 Htp 4ANCSouth America0,,Rádio Bandeirantes AM,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Rádio Bandeirantes AM,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Rádio Bandeirantes AM,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+4120 Htp 11ANCSouth America0,,Rádio Bandeirantes AM,,,,,False,Rede 21,5/6,30000,DVB-S2,Por,4120 H
+3854 Htp 4ANCSouth America0,,Play FM,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Nativa FM São Paulo,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+4120 Htp 11ANCSouth America0,,Nativa FM São Paulo,,,,,False,Rede 21,5/6,30000,DVB-S2,Por,4120 H
+3854 Htp 4ANCSouth America0,,Rádio Band News FM São Paulo,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+4120 Htp 11ANCSouth America0,,Rádio Band News FM São Paulo,,,,,False,Rede 21,5/6,30000,DVB-S2,Por,4120 H
+3854 Htp 4ANCSouth America0,,Rede Nativa,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Rede Nativa,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Htp 4ANCSouth America0,,Band FM,,,,,False,Rede 21,3/4,7500,DVB-S2,Por,3854 H
+3854 Vtp 4BNCSouth America0,,TV Gazeta Alagoas,,,Irdeto,https://www.lyngsat.com/providers/br/TV-Gazeta-Alagoas.html,True,TV Gazeta Alagoas,3/4,24583,DVB-S2,,3854 V
+3854 Vtp 4BNCSouth America0,7072.0,TV Gazeta Alagoas,MPEG-4/HD,273.0,Irdeto,https://www.lyngsat.com/providers/br/TV-Gazeta-Alagoas.html,True,TV Gazeta Alagoas,3/4,24583,DVB-S2,Por,3854 V
+3854 Vtp 4BNCSouth America0,7073.0,98.3 Gazeta FM,,,,,False,TV Gazeta Alagoas,3/4,24583,DVB-S2,Por,3854 V
+3854 Vtp 4BNCSouth America0,7073.0,Gazeta FM 94.1,,,,,False,TV Gazeta Alagoas,3/4,24583,DVB-S2,Por,3854 V
+3858 Vtp 4BNCSouth America0,,TV Thathi Vale,,,BISS,https://www.lyngsat.com/providers/br/TV-Thathi-Vale.html,True,TV Thathi Vale,750,23,DVB-S2,,3858 V
+3858 Vtp 4BNCSouth America0,58112.0,TV Thathi Vale,/HD,513.0,BISS,https://www.lyngsat.com/providers/br/TV-Thathi-Vale.html,True,TV Thathi Vale,750,23,DVB-S2,Por,3858 V
+3858 Vtp 4BNCSouth America0,58136.0,TV Thathi Vale,/1seg,257.0,,https://www.lyngsat.com/providers/br/TV-Thathi-Vale.html,True,TV Thathi Vale,750,23,DVB-S2,Por,3858 V
+3865 Htp 5ANCSouth America0,1.0,SBT Pará,?-?MPEG-4/HD,513.0,BISS,,False,TV Thathi Vale,3/4,5000,DVB-S2,Por Qaa,3865 H
+3868 Vtp 4BNCSouth America0,,Boa Vontade TV,,,,https://www.lyngsat.com/providers/br/Boa-Vontade-TV.html,True,Boa Vontade TV,5/6,4833,DVB-S2,,3868 V
+3868 Vtp 4BNCSouth America0,,Boa Vontade TV,MPEG-4/HD,100.0,,https://www.lyngsat.com/providers/br/Boa-Vontade-TV.html,True,Boa Vontade TV,5/6,4833,DVB-S2,Por,3868 V
+3868 Vtp 4BNCSouth America0,,Boa Vontade TV,MPEG-4/1seg,601.0,,https://www.lyngsat.com/providers/br/Boa-Vontade-TV.html,True,Boa Vontade TV,5/6,4833,DVB-S2,Por,3868 V
+3868 Vtp 4BNCSouth America0,,Super Rede Boa Vontade 1230 AM,,,,,False,Boa Vontade TV,5/6,4833,DVB-S2,Por,3868 V
+3871 Htp 5ANCSouth America0,,Rede CNT Rio de Janeiro,,,,https://www.lyngsat.com/providers/br/Rede-CNT-Rio-de-Janeiro.html,True,Rede CNT Rio de Janeiro,5/6,5000,DVB-S2,,3871 H
+3871 Htp 5ANCSouth America0,48576.0,Rede CNT Rio de Janeiro,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/Rede-CNT-Rio-de-Janeiro.html,True,Rede CNT Rio de Janeiro,5/6,5000,DVB-S2,Por,3871 H
+3871 Htp 5ANCSouth America0,48600.0,Rede CNT Rio de Janeiro,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/Rede-CNT-Rio-de-Janeiro.html,True,Rede CNT Rio de Janeiro,5/6,5000,DVB-S2,Por,3871 H
+3873 Vtp 4BNCSouth America0,1.0,TV Tribuna PE,?-?MPEG-4/SD,273.0,,,False,Rede CNT Rio de Janeiro,5/6,2083,DVB-S2,Por,3873 V
+3876 Vtp 4BNCSouth America0,,SIC TV,,,,https://www.lyngsat.com/providers/br/SIC-TV.html,True,SIC TV,3/4,2500,DVB-S2,,3876 V
+3876 Vtp 4BNCSouth America0,50144.0,SIC TV,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/SIC-TV.html,True,SIC TV,3/4,2500,DVB-S2,Por,3876 V
+3876 Vtp 4BNCSouth America0,50168.0,SIC TV,MPEG-4/1seg,641.0,,https://www.lyngsat.com/providers/br/SIC-TV.html,True,SIC TV,3/4,2500,DVB-S2,Por,3876 V
+3876 Vtp 4BNCSouth America0,50144.0,Parecis FM 99,,,,,False,SIC TV,3/4,2500,DVB-S2,Por,3876 V
+3883 Htp 5ANCSouth America0,,TV Gazeta São Paulo,,,,https://www.lyngsat.com/providers/br/TV-Gazeta-Sao-Paulo.html,True,TV Gazeta São Paulo,3/4,25833,DVB-S2,,3883 H
+3883 Htp 5ANCSouth America0,,TV Gazeta São Paulo,/1seg,768.0,,https://www.lyngsat.com/providers/br/TV-Gazeta-Sao-Paulo.html,True,TV Gazeta São Paulo,3/4,25833,DVB-S2,Por,3883 H
+3883 Htp 5ANCSouth America0,,TV Gazeta São Paulo,/HD,770.0,,https://www.lyngsat.com/providers/br/TV-Gazeta-Sao-Paulo.html,True,TV Gazeta São Paulo,3/4,25833,DVB-S2,Por,3883 H
+3887 Htp 5ANCSouth America0,,Fundação Cultural Riograndense,,,,https://www.lyngsat.com/providers/br/Fundacao-Cultural-Riograndense.html,True,Fundação Cultural Riograndense,3/4,740,DVB-S7,,3887 H
+3887 Htp 5ANCSouth America0,,Maisnova FM,,,,,False,Fundação Cultural Riograndense,3/4,740,DVB-S7,Por,3887 H
+3887 Htp 5ANCSouth America0,,Tua Rádio,,,,,False,Fundação Cultural Riograndense,3/4,740,DVB-S7,Por,3887 H
+3894 Htp 5ANCSouth America0,,SBT Rio,,,BISS,https://www.lyngsat.com/providers/br/SBT-Rio.html,True,SBT Rio,3/4,25000,DVB-S2,,3894 H
+3894 Htp 5ANCSouth America0,48544.0,SBT Rio,MPEG-4/HD,356.0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio.html,True,SBT Rio,3/4,25000,DVB-S2,Por,3894 H
+3894 Htp 5ANCSouth America0,48568.0,SBT Rio,/1seg,256.0,,https://www.lyngsat.com/providers/br/SBT-Rio.html,True,SBT Rio,3/4,25000,DVB-S2,Por,3894 H
+3905 Htp 6ANCSouth America0,49984.0,Inter TV Costa Branca,?-?MPEG-4/HD,49.0,Irdeto,,False,SBT Rio,5/6,4166,DVB-S2,Por,3905 H
+3910 Vtp 5BNCSouth America0,,TV Thathi Campinas,,,,https://www.lyngsat.com/providers/br/TV-Thathi-Campinas.html,True,TV Thathi Campinas,3/4,3750,DVB-S2,,3910 V
+3910 Vtp 5BNCSouth America0,59680.0,TV Thathi Campinas,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Thathi-Campinas.html,True,TV Thathi Campinas,3/4,3750,DVB-S2,Por,3910 V
+3910 Vtp 5BNCSouth America0,59704.0,TV Thathi Campinas,MPEG-4/1seg,641.0,,https://www.lyngsat.com/providers/br/TV-Thathi-Campinas.html,True,TV Thathi Campinas,3/4,3750,DVB-S2,Por,3910 V
+3912 Htp 6ANCSouth America0,,Band Ceará,MPEG-4/HD,49.0,,,False,TV Thathi Campinas,5/6,2915,DVB-S2,Por,3912 H
+4087 Htp 10ANCSouth America0,1.0,Band Ceará,?-?MPEG-4/HD,49.0,,,False,TV Thathi Campinas,5/6,2915,DVB-S2,Por,4087 H
+3927 Htp 6ANCSouth America0,30112.0,TV Centro América Sinop,MPEG-4/HD,404.0,Irdeto,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3927 Htp 6ANCSouth America0,0.0,TV Centro América Sinop,MPEG-4/1seg,501.0,,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3927 Htp 6ANCSouth America0,30113.0,TV Centro América Rondonópolis,MPEG-4/HD,604.0,Irdeto,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3927 Htp 6ANCSouth America0,0.0,TV Centro América Rondonópolis,MPEG-4/1seg,701.0,,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3927 Htp 6ANCSouth America0,30304.0,TV Morena Ponta Porã,MPEG-4/HD,201.0,Irdeto,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3927 Htp 6ANCSouth America0,0.0,TV Morena Ponta Porã,MPEG-4/1seg,301.0,,,False,TV Thathi Campinas,2/3,17500,DVB-S2,Por,3927 H
+3932 Vtp 6BNCSouth America0,1.0,SESC TV,?-?MPEG-4/HD,1110.0,,,False,TV Thathi Campinas,3/4,7500,DVB-S7,Por,3932 V
+3943 Vtp 6BNCSouth America0,,Aratu On,/HD,33.0,,,False,TV Thathi Campinas,3/4,23750,DVB-S2,Por,3943 V
+3949 Vtp 6BNCSouth America0,,Band Vale,,,,https://www.lyngsat.com/providers/br/Band-Vale.html,True,Band Vale,3/4,23750,DVB-S2,,3949 V
+3949 Vtp 6BNCSouth America0,,Band Vale,MPEG-4/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-Vale.html,True,Band Vale,3/4,23750,DVB-S2,Por,3949 V
+3949 Vtp 6BNCSouth America0,,Band Vale,,273.0,,https://www.lyngsat.com/providers/br/Band-Vale.html,True,Band Vale,3/4,23750,DVB-S2,Por,3949 V
+3954 Vtp 6BNCSouth America0,,TV Aparecida,,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,True,TV Aparecida,3/4,26666,DVB-S2,,3954 V
+3954 Vtp 6BNCSouth America0,,TV Aparecida,MPEG-4/HD,33.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,True,TV Aparecida,3/4,26666,DVB-S2,Por,3954 V
+3954 Vtp 6BNCSouth America0,,TV Aparecida,,43.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,True,TV Aparecida,3/4,26666,DVB-S2,Por,3954 V
+3954 Vtp 6BNCSouth America0,,Rádio Aparecida,,,,,False,TV Aparecida,3/4,26666,DVB-S2,Por,3954 V
+3954 Vtp 6BNCSouth America0,,Pop 90.9 FM,,,,,False,TV Aparecida,3/4,26666,DVB-S2,Por,3954 V
+3984 Vtp 7BNCSouth America0,,Band Amazonas,,,Conax,https://www.lyngsat.com/providers/br/Band-Amazonas.html,True,Band Amazonas,3/4,3750,DVB-S2,,3984 V
+3984 Vtp 7BNCSouth America0,1.0,Band Amazonas,MPEG-4/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-Amazonas.html,True,Band Amazonas,3/4,3750,DVB-S2,Por,3984 V
+3984 Vtp 7BNCSouth America0,2.0,Band Amazonas,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-Amazonas.html,True,Band Amazonas,3/4,3750,DVB-S2,Por,3984 V
+3988 Vtp 7BNCSouth America0,,Band Bahia,,,Conax,https://www.lyngsat.com/providers/br/Band-Bahia.html,True,Band Bahia,5/6,3750,DVB-S2,,3988 V
+3988 Vtp 7BNCSouth America0,1.0,Band Bahia,MPEG-4/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-Bahia.html,True,Band Bahia,5/6,3750,DVB-S2,Por,3988 V
+3988 Vtp 7BNCSouth America0,2.0,Band Bahia,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-Bahia.html,True,Band Bahia,5/6,3750,DVB-S2,Por,3988 V
+4012 Vtp 8BNCSouth America0,,Canais Globo,,,PowerVu,https://www.lyngsat.com/providers/br/Canais-Globo.html,True,Canais Globo,4/5,22860,DVB-S2,,4012 V
+4012 Vtp 8BNCSouth America0,1001.0,SporTV,MPEG-4/HD,1010.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1002.0,SporTV 2,MPEG-4/HD,1020.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1003.0,SporTV 3,MPEG-4/HD,1030.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1004.0,[Globosat test card],MPEG-4/HD,1040.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,,4012 V
+4012 Vtp 8BNCSouth America0,1005.0,Premiere FC 3,MPEG-4/HD,1050.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1006.0,Combate,MPEG-4/HD,1060.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1007.0,Viva,MPEG-4/HD,1070.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,1008.0,Canal Brasil,MPEG-4/HD,1080.0,PowerVu,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,CBN Rio de Janeiro,,,,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,CBN Brasilia,,,,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,CBN Belo Horizonte,,,,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,Rádio Globo Rio de Janeiro,,,,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4012 Vtp 8BNCSouth America0,,BH FM,,,,,False,Canais Globo,4/5,22860,DVB-S2,Por,4012 V
+4032 Vtp 8BNCSouth America0,1.0,Rede Globo,?-?HEVC/HD,111.0,Verimatrix (B)Irdeto,,False,Canais Globo,3/4,10000,DVB-S2,Por,4032 V
+4045 Vtp 9BNCSouth America0,,CCR FM,,,,,False,Canais Globo,3/4,651,DVB-S6,Por,4045 V
+4062 Vtp 9BNCSouth America0,,TV Canção Nova,,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova.html,True,TV Canção Nova,5/6,17000,DVB-S2,,4062 V
+4062 Vtp 9BNCSouth America0,1.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,4.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,3.0,TV Canção Nova Internacional,MPEG-4/HD,4898.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,23776.0,TV Canção Nova Minas Gerais,MPEG-4/HD,4286.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,23800.0,TV Canção Nova Minas Gerais,MPEG-4/1seg,5054.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,52288.0,TV Canção Nova Rio Grande do Sul,MPEG-4/HD,4486.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,52312.0,TV Canção Nova Rio Grande do Sul,MPEG-4/1seg,5254.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,60576.0,TV Canção Nova Cachoeira Paulista,MPEG-4/HD,4386.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,60600.0,TV Canção Nova Cachoeira Paulista,MPEG-4/1seg,5154.0,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,2.0,Rádio Canção Nova São José dos Campos,,,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,5.0,Rádio América,,,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,6.0,Rádio Canção Nova Cachoeira Paulista 96.3,,,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4062 Vtp 9BNCSouth America0,7.0,Rádio Canção Nova Cachoeira Paulista 89.1,,,,,False,TV Canção Nova,5/6,17000,DVB-S2,Por,4062 V
+4065 Htp 10ANCSouth America0,,Band SP Interior,,,Conax,https://www.lyngsat.com/providers/br/Band-SP-Interior.html,True,Band SP Interior,3/4,3750,DVB-S2,,4065 H
+4065 Htp 10ANCSouth America0,1.0,Band SP Interior,/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-SP-Interior.html,True,Band SP Interior,3/4,3750,DVB-S2,Por,4065 H
+4065 Htp 10ANCSouth America0,2.0,Band SP Interior,,273.0,,https://www.lyngsat.com/providers/br/Band-SP-Interior.html,True,Band SP Interior,3/4,3750,DVB-S2,Por,4065 H
+4069 Htp 10ANCSouth America0,,Band Minas,,,Conax,https://www.lyngsat.com/providers/br/Band-Minas.html,True,Band Minas,3/4,24170,DVB-S2,,4069 H
+4069 Htp 10ANCSouth America0,,Band Minas,MPEG-4/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-Minas.html,True,Band Minas,3/4,24170,DVB-S2,Por,4069 H
+4069 Htp 10ANCSouth America0,,Band Minas,,273.0,,https://www.lyngsat.com/providers/br/Band-Minas.html,True,Band Minas,3/4,24170,DVB-S2,Por,4069 H
+4073 Htp 10ANCSouth America0,,Band Rio Interior,,,,https://www.lyngsat.com/providers/br/Band-Rio-Interior.html,True,Band Rio Interior,3/4,3750,DVB-S2,,4073 H
+4073 Htp 10ANCSouth America0,1.0,Band Rio Interior,MPEG-4/HD,269.0,,https://www.lyngsat.com/providers/br/Band-Rio-Interior.html,True,Band Rio Interior,3/4,3750,DVB-S2,Por,4073 H
+4073 Htp 10ANCSouth America0,2.0,Band Rio Interior,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-Rio-Interior.html,True,Band Rio Interior,3/4,3750,DVB-S2,Por,4073 H
+4078 Htp 10ANCSouth America0,,Band Paraná,,,,https://www.lyngsat.com/providers/br/Band-Parana.html,True,Band Paraná,3/4,3750,DVB-S2,,4078 H
+4078 Htp 10ANCSouth America0,,Band Paraná,MPEG-4/HD,269.0,,https://www.lyngsat.com/providers/br/Band-Parana.html,True,Band Paraná,3/4,3750,DVB-S2,Por,4078 H
+4078 Htp 10ANCSouth America0,,Band Paraná,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-Parana.html,True,Band Paraná,3/4,3750,DVB-S2,Por,4078 H
+4083 Htp 10ANCSouth America0,,Band Campinas,,,BISS,https://www.lyngsat.com/providers/br/Band-Campinas.html,True,Band Campinas,3/4,23633,DVB-S2,,4083 H
+4083 Htp 10ANCSouth America0,60448.0,Band Campinas,MPEG-4/HD,269.0,BISS,https://www.lyngsat.com/providers/br/Band-Campinas.html,True,Band Campinas,3/4,23633,DVB-S2,Por,4083 H
+4083 Htp 10ANCSouth America0,60472.0,Band Campinas,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-Campinas.html,True,Band Campinas,3/4,23633,DVB-S2,Por,4083 H
+4083 Htp 10ANCSouth America0,,Nativa FM 89.3,,,BISS,,False,Band Campinas,3/4,23633,DVB-S2,Por,4083 H
+4083 Htp 10ANCSouth America0,,Rádio Bandeirantes Campinas,,,BISS,,False,Band Campinas,3/4,23633,DVB-S2,Por,4083 H
+4091 Vtp 10BNCSouth America0,,Big Brother Brasil,,,PowerVu,https://www.lyngsat.com/providers/br/Big-Brother-Brasil.html,True,Big Brother Brasil,000,17,DVB-S2,,4091 V
+4091 Vtp 10BNCSouth America0,3001.0,Big Brother Brasil 1,MPEG-4/HD,3010.0,PowerVu,,False,Big Brother Brasil,000,17,DVB-S2,Por Por,4091 V
+4091 Vtp 10BNCSouth America0,3002.0,Big Brother Brasil 2,MPEG-4/HD,3020.0,PowerVu,,False,Big Brother Brasil,000,17,DVB-S2,Por Por,4091 V
+4091 Vtp 10BNCSouth America0,3003.0,Mosaico Big Brother Brasil,MPEG-4/SD,3030.0,PowerVu,,False,Big Brother Brasil,000,17,DVB-S2,Por,4091 V
+4120 Htp 11ANCSouth America0,,Grupo Bandeirantes,,,Conax,https://www.lyngsat.com/providers/br/Grupo-Bandeirantes.html,True,Grupo Bandeirantes,5/6,30000,DVB-S2,,4120 H
+4120 Htp 11ANCSouth America0,,Band Sports,MPEG-4/HD,200.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Band Sports,,1001.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Arte 1,,300.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Arte 1,/HD,400.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Band News,/HD,500.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Band News,MPEG-2/SD,1000.0,,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Terraviva,/SD,600.0,,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,New Brasil,MPEG-4/HD,700.0,,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Sexprivé,,1112.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Sabor & Arte,MPEG-4/HD,2100.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Canal Empreender,MPEG-4/HD,2200.0,,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,3.0,Agro+,MPEG-4/HD,800.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,4.0,Agro+,MPEG-2/SD,900.0,Conax,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4120 Htp 11ANCSouth America0,,Play FM (Brazil),,,,,False,Grupo Bandeirantes,5/6,30000,DVB-S2,Por,4120 H
+4125 Vtp 11BNCSouth America0,,Band RS,,,Conax,https://www.lyngsat.com/providers/br/Band-RS.html,True,Band RS,3/4,3750,DVB-S2,,4125 V
+4125 Vtp 11BNCSouth America0,1.0,Band RS,MPEG-4/HD,269.0,Conax,https://www.lyngsat.com/providers/br/Band-RS.html,True,Band RS,3/4,3750,DVB-S2,Por,4125 V
+4125 Vtp 11BNCSouth America0,60440.0,Band RS,MPEG-4/1seg,273.0,,https://www.lyngsat.com/providers/br/Band-RS.html,True,Band RS,3/4,3750,DVB-S2,Por,4125 V
+4134 Vtp 11BNCSouth America0,,Inter TV,,,,https://www.lyngsat.com/providers/br/Inter-TV.html,True,Inter TV,5/6,12500,DVB-S2,,4134 V
+4134 Vtp 11BNCSouth America0,23296.0,Inter TV Grande Minas,MPEG-4/HD,373.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4134 Vtp 11BNCSouth America0,0.0,Inter TV Grande Minas,MPEG-4/1seg,629.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4134 Vtp 11BNCSouth America0,23904.0,Inter TV Vales de Minas Gerais,MPEG-4/HD,473.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4134 Vtp 11BNCSouth America0,0.0,Inter TV Vales de Minas Gerais,MPEG-4/1seg,729.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4134 Vtp 11BNCSouth America0,48704.0,Inter TV Serra+Mar,MPEG-4/HD,273.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4134 Vtp 11BNCSouth America0,0.0,Inter TV Serra+Mar,MPEG-4/1seg,529.0,,,False,Inter TV,5/6,12500,DVB-S2,Por,4134 V
+4153 Vtp 11BNCSouth America0,,Canal Educação Brasilia,/SD,,,,False,Inter TV,2/3,7500,DVB-S2,Por,4153 V
+4153 Vtp 11BNCSouth America0,,TV Brasil,/SD,201.0,,,False,Inter TV,2/3,7500,DVB-S2,Por,4153 V
+4153 Vtp 11BNCSouth America0,1.0,TV Brasil,MPEG-4/HD,101.0,,,False,Inter TV,2/3,7500,DVB-S2,Por,4153 V
+4153 Vtp 11BNCSouth America0,,Canal Libras,/SD,401.0,,,False,Inter TV,2/3,7500,DVB-S2,Por,4153 V
+4158 Htp 12ANCSouth America0,,Fish TV,,,,https://www.lyngsat.com/providers/br/Fish-TV.html,True,Fish TV,5/6,4583,DVB-S2,,4158 H
+4158 Htp 12ANCSouth America0,1.0,Fish TV,MPEG-2/SD,528.0,,https://www.lyngsat.com/providers/br/Fish-TV.html,True,Fish TV,5/6,4583,DVB-S2,Por,4158 H
+4158 Htp 12ANCSouth America0,2.0,Fish TV,MPEG-4/HD,552.0,,https://www.lyngsat.com/providers/br/Fish-TV.html,True,Fish TV,5/6,4583,DVB-S2,Por,4158 H

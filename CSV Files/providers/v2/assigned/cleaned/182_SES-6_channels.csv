@@ -1,0 +1,364 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3641 Ltp 52Hemi0,,,,,,,False,,,,,,3641 L
+3675 Rtp 53Hemi0,,,,,,,False,,,,,,3675 R
+3679 Rtp 53Hemi0,,,,,,,False,,,,,,3679 R
+3710 Ltp 56Hemi0,,,3-1,,,,False,,3/4,8330,DVB-S2,,3710 L
+3763 Rtp 57Hemi0,,,,,,,False,,,,,,3763 R
+3803 Ltp 60Hemi0,,,100-100,,Cryptoguard 1IrdetoVisionCrypt,,False,,5/6,30000,DVB-S2,,3803 L
+3830 Rtp 61Hemi0,,,513-513,,,,False,,2/3,6666,DVB-S2,,3830 R
+3834 Ltp 62Hemi0,,,1-101,,PowerVu,,False,,5/6,15000,DVB-S2,,3834 L
+3847 Ltp 62Hemi0,,,3-101,,PowerVu,,False,,3/4,6670,DVB-S6,,3847 L
+3858 Rtp 61Hemi0,,,1-0,,,,False,,3/4,5714,DVB-S2,,3858 R
+3874 Rtp 63Hemi0,,,,,,,False,,,,,,3874 R
+3878 Ltp 64Hemi0,,,,,,,False,,,,,,3878 L
+3884 Rtp 63Hemi0,,,,,,,False,,,,,,3884 R
+3887 Ltp 64Hemi0,,,,,,,False,,,,,,3887 L
+4004 Ltp 70Hemi0,,,,,,,False,,,,,,4004 L
+4043 Rtp 71Hemi0,,,,,,,False,,,,,,4043 R
+4061 Ltp 72Hemi0,,,8362-3031,,,,False,,3/4,4285,DVB-S2,,4061 L
+4135 Ltp 76Hemi0,,,33-1,,PowerVu,,False,,5/6,30000,DVB-S2,,4135 L
+4151 Rtp 75Hemi0,,,,,,,False,,,,,,4151 R
+4191 Ltp 78Hemi0,,,1-1,,PowerVuViaccess,,False,,2/3,7332,DVB-S2,,4191 L
+3710 Ltp 56Hemi0,1,Canal Antigua,MPEG-4/SD,34.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,2,Conectados con Dios TV,MPEG-4/SD,36.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,6,Gallero Soy,MPEG-4/SD,41.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,9,LTV,MPEG-4/SD,769.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,10,TV Canal Sur,MPEG-4/SD,43.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,11,Megavisión,MPEG-4/SD,48.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,12,Teleunion,MPEG-4/SD,4128.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,14,TNH Canal 8,MPEG-4/SD,51.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,15,Congreso TV (Honduras),MPEG-4/SD,54.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,16,Une TV,MPEG-4/HD,62.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,3011,Canal 6 (Honduras),HEVC,47.0,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3710 Ltp 56Hemi0,7,Radio Nacional de Honduras,,,,,False,,3/4,8330,DVB-S2,Spa,3710 L
+3725 Ltp 56Hemi,,(feeds),,,,,False,,3/4,3750,DVB-S2,,3725 L
+3870 Rtp 63Hemi,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3870 R
+3905 Ltp 66Hemi,,(feeds),,,,,False,,3/4,3680,DVB-S2,,3905 L
+3935 Ltp 66Hemi0,903,(feeds),,904.0,Irdeto,,False,,2/3,9600,DVB-S2,,3935 L
+3938 Rtp 65Hemi,,(feeds),,,,,False,,2/3,4700,DVB-S4,,3938 R
+11340 Htp AEH70East Atlantic,,(feeds),,,,,False,,3/4,14400,DVB-S2,,11340 H
+3763 Ltp 58Hemi,,(ESPN feeds),,,,,False,,5/6,30000,DVB-S2,,3763 L
+3803 Ltp 60Hemi0,1,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),MPEG-2/SD,2001.0,,,False,,5/6,30000,DVB-S2,Hun,3803 L
+3803 Ltp 60Hemi0,1,M4 Sport + (Sat-Sun 14-22),MPEG-2/SD,2001.0,,,False,,5/6,30000,DVB-S2,Hun,3803 L
+3803 Ltp 60Hemi0,3,TV Agro,MPEG-4/SD,101.0,Cryptoguard 1Irdeto,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,4,Primetime (USA),MPEG-4/SD,253.0,VisionCrypt,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,5,Hogar TV (Colombia),MPEG-4/SD,201.0,Cryptoguard 1Irdeto,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,6,Rumba TV,MPEG-4/SD,301.0,Cryptoguard 1Irdeto,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,7,Tele Nostalgia,MPEG-4/SD,501.0,Cryptoguard 1Irdeto,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,8,Mórbido TV,MPEG-4/HD,500.0,,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,9,Aliento Vision,MPEG-4/SD,481.0,,,False,,5/6,30000,DVB-S2,Spa,3803 L
+3803 Ltp 60Hemi0,1613,ZooMoo Kids,MPEG-4/HD,3538.0,,,False,,5/6,30000,DVB-S2,Por,3803 L
+3803 Ltp 60Hemi0,1614,ZooMoo Kids,MPEG-2/SD,3839.0,,,False,,5/6,30000,DVB-S2,Por,3803 L
+3803 Ltp 60Hemi0,2,Duna World Rádió,,,,,False,,5/6,30000,DVB-S2,Hun,3803 L
+3830 Rtp 61Hemi0,1,Rede Gênesis,MPEG-4/HD,530.0,,,False,,2/3,6666,DVB-S2,Por Por,3830 R
+3830 Rtp 61Hemi0,4,Rede Gênesis,MPEG-2/1seg,337.0,,,False,,2/3,6666,DVB-S2,Por,3830 R
+3830 Rtp 61Hemi0,3,Sara Brasil FM,,,,,False,,2/3,6666,DVB-S2,Por,3830 R
+3834 Ltp 62Hemi0,111,LN+,MPEG-4/HD,1110.0,PowerVu,,False,,5/6,15000,DVB-S2,Spa,3834 L
+3834 Ltp 62Hemi0,112,Plim Plim,MPEG-4/HD,1620.0,,,False,,5/6,15000,DVB-S2,Spa,3834 L
+3834 Ltp 62Hemi0,113,Unife,MPEG-4/HD,1130.0,PowerVu,,False,,5/6,15000,DVB-S2,Spa,3834 L
+3834 Ltp 62Hemi0,115,PX Sports,HEVC,1630.0,PowerVu,,False,,5/6,15000,DVB-S2,Spa,3834 L
+3834 Ltp 62Hemi0,160,Playboy TV Latin America,MPEG-4/HD,1710.0,PowerVu,,False,,5/6,15000,DVB-S2,Spa Por,3834 L
+3847 Ltp 62Hemi0,260*,Playboy TV Latin America,MPEG-2/SD,1210.0,PowerVu,,False,,3/4,6670,DVB-S6,Spa Spa,3847 L
+3834 Ltp 62Hemi0,161,Sexy Hot,MPEG-4/HD,1720.0,PowerVu,,False,,5/6,15000,DVB-S2,Por,3834 L
+3835 Rtp 61Hemi0,1,Zoom (Colombia),1-4096MPEG-4/SD,513.0,,,False,,3/4,2082,DVB-S2,Spa,3835 R
+3847 Ltp 62Hemi0,270*,Venus (Argentina),MPEG-2/SD,1230.0,PowerVu,,False,,3/4,6670,DVB-S6,Spa Spa,3847 L
+3847 Ltp 62Hemi0,301,WOBI TV,MPEG-2/SD,1560.0,PowerVu,,False,,3/4,6670,DVB-S6,Spa Eng Spa,3847 L
+3848 Rtp 61Hemi0,,Liga 1,34-1,,PowerVu,https://www.lyngsat.com/providers/pe/Liga-1.html,True,Liga 1,5/6,7500,DVB-S2,,3848 R
+3848 Rtp 61Hemi0,101,Liga 1 Max,MPEG-4/HD,2200.0,PowerVu,,False,Liga 1,5/6,7500,DVB-S2,Spa,3848 R
+3848 Rtp 61Hemi0,102,Liga 1 Básico,MPEG-4/HD,2100.0,PowerVu,,False,Liga 1,5/6,7500,DVB-S2,Spa,3848 R
+3853 Rtp 61Hemi0,,Daystar TV Español,MPEG-4/HD,1648.0,,,False,Liga 1,3/4,2387,DVB-S2,Spa,3853 R
+3858 Rtp 61Hemi0,3,Sun Channel (Venezuela),MPEG-4/HD,4451.0,Xcrypt,,False,Liga 1,3/4,5714,DVB-S2,Spa Spa,3858 R
+3858 Rtp 61Hemi0,4,Avivamiento TV,MPEG-4/HD,201.0,,,False,Liga 1,3/4,5714,DVB-S2,Spa,3858 R
+3858 Rtp 61Hemi0,6,Cristovisión,MPEG-4/SD,4194.0,,,False,Liga 1,3/4,5714,DVB-S2,Spa,3858 R
+3860 Ltp 64Hemi0,1,Tele Vid,0-1MPEG-4/HD,481.0,,,False,Liga 1,3/4,2083,DVB-S2,Spa,3860 L
+3867 Ltp 64Hemi0,1,TVMS,65535-1MPEG-2/SD,1110.0,,,False,Liga 1,3/4,3255,DVB-S3,Por,3867 L
+3867 Ltp 64Hemi0,1,FM Cidade 97,,,,,False,Liga 1,3/4,3255,DVB-S3,Por,3867 L
+3891 Ltp 64Hemi0,1,Cablenoticias,0-224MPEG-4/HD,33.0,Irdeto,,False,Liga 1,5/6,3000,DVB-S2,Spa,3891 L
+3894 Ltp 64Hemi0,1,AgroBrasil TV,0-1MPEG-2/SD,256.0,,,False,Liga 1,3/5,2787,DVB-S2,Por,3894 L
+3898 Ltp 64Hemi0,,TV Nazaré,1206-1,,,https://www.lyngsat.com/providers/br/TV-Nazare.html,True,TV Nazaré,3/4,3920,DVB-S2,,3898 L
+3898 Ltp 64Hemi0,1,TV Nazaré,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,True,TV Nazaré,3/4,3920,DVB-S2,Por,3898 L
+3898 Ltp 64Hemi0,1000,TV Nazaré,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,True,TV Nazaré,3/4,3920,DVB-S2,Por,3898 L
+3910 Ltp 66Hemi0,1,Exitosa TV,1-1MPEG-4/SD,308.0,,,False,TV Nazaré,3/4,2455,DVB-S2,Spa,3910 L
+3910 Ltp 66Hemi0,1,Radio Karibeña,,,,,False,TV Nazaré,3/4,2455,DVB-S2,Spa,3910 L
+3910 Ltp 66Hemi0,1,Exitosa,,,,,False,TV Nazaré,3/4,2455,DVB-S2,Spa,3910 L
+3910 Ltp 66Hemi0,1,Radio La Kalle,,,,,False,TV Nazaré,3/4,2455,DVB-S2,Spa,3910 L
+3910 Ltp 66Hemi0,1,Z Rock & Pop,,,,,False,TV Nazaré,3/4,2455,DVB-S2,Spa,3910 L
+3923 Rtp 65Hemi0,,AMC Networks International Latin America,853-201,,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,True,AMC Networks International Latin America,5/6,30000,DVB-S2,,3923 R
+3923 Rtp 65Hemi0,,AMC Networks International Latin America,853-201,,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,True,AMC Networks International Latin America,5/6,30000,DVB-S2,,3923 R
+4095 Rtp 73Hemi0,,AMC Networks International Latin America,1-4,,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,True,AMC Networks International Latin America,5/6,30000,DVB-S2,,4095 R
+4095 Rtp 73Hemi0,,AMC Networks International Latin America,1-4,,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,True,AMC Networks International Latin America,5/6,30000,DVB-S2,,4095 R
+3923 Rtp 65Hemi0,101,Film & Arts Brasil,MPEG-4/HD,100.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Por Eng Por,3923 R
+3923 Rtp 65Hemi0,102,Más Chic Estados Unidos,MPEG-4/HD,200.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Spa Eng Spa,3923 R
+3923 Rtp 65Hemi0,103,Film & Arts México,MPEG-4/HD,300.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Spa Eng Spa,3923 R
+3923 Rtp 65Hemi0,104,AMC Colombia,MPEG-4/HD,400.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Spa Eng Spa Eng,3923 R
+3923 Rtp 65Hemi0,105,[AMC Networks International test card],MPEG-4/HD,501.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Por,3923 R
+3923 Rtp 65Hemi0,108,[AMC Networks International test card],MPEG-4/SD,1660.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,,3923 R
+3923 Rtp 65Hemi0,106,AMC Brasil,MPEG-4/HD,601.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Por Eng Por,3923 R
+3923 Rtp 65Hemi0,107,AMC México,MPEG-4/HD,701.0,PowerVu,,False,AMC Networks International Latin America,5/6,30000,DVB-S2,Spa Eng Spa,3923 R
+3923 Ltp 66Hemi0,,América (Peru),1-1,,Director,https://www.lyngsat.com/providers/pe/America.html,True,América (Peru),3/4,7000,DVB-S2,,3923 L
+3923 Ltp 66Hemi0,1,América (Peru),MPEG-4/HD,101.0,Director,https://www.lyngsat.com/providers/pe/America.html,True,América (Peru),3/4,7000,DVB-S2,Spa,3923 L
+3923 Ltp 66Hemi0,2,América (Peru),MPEG-4/HD,201.0,Director,https://www.lyngsat.com/providers/pe/America.html,True,América (Peru),3/4,7000,DVB-S2,Spa,3923 L
+3923 Ltp 66Hemi0,3,América (Peru),MPEG-4/HD,301.0,Director,https://www.lyngsat.com/providers/pe/America.html,True,América (Peru),3/4,7000,DVB-S2,Spa,3923 L
+3935 Ltp 66Hemi0,,Uruguayan mux,100-1000,,,,False,América (Peru),2/3,9600,DVB-S2,,3935 L
+3935 Ltp 66Hemi0,500,Canal 4 (Uruguay),MPEG-4/SD,502.0,,,False,América (Peru),2/3,9600,DVB-S2,Spa,3935 L
+3935 Ltp 66Hemi0,1300,Canal 4 (Uruguay),MPEG-4/HD,529.0,,,False,América (Peru),2/3,9600,DVB-S2,Spa,3935 L
+3935 Ltp 66Hemi0,504,Teledoce,MPEG-4/HD,505.0,,,False,América (Peru),2/3,9600,DVB-S2,Spa,3935 L
+3935 Ltp 66Hemi0,900,Teledoce,MPEG-4/SD,901.0,,,False,América (Peru),2/3,9600,DVB-S2,Spa,3935 L
+3962 Rtp 67Hemi0,,City TV (Colombia),0-3,,,https://www.lyngsat.com/providers/co/City-TV.html,True,City TV (Colombia),2/3,4332,DVB-S2,,3962 R
+3962 Rtp 67Hemi0,1,City TV (Colombia),MPEG-4/HD,257.0,,https://www.lyngsat.com/providers/co/City-TV.html,True,City TV (Colombia),2/3,4332,DVB-S2,Spa,3962 R
+3962 Rtp 67Hemi0,2,El Tiempo TV,MPEG-4/HD,513.0,BISS 1,,False,City TV (Colombia),2/3,4332,DVB-S2,Spa,3962 R
+3962 Ltp 68Hemi0,,Canal Capital,.-.,,,https://www.lyngsat.com/providers/co/Canal-Capital.html,True,Canal Capital,102,,DVB-S2,,3962 L
+3962 Ltp 68Hemi0,6141,Canal Capital,MPEG-4/HD,1071.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,True,Canal Capital,102,,DVB-S2,Spa,3962 L
+4025 Ltp 70Hemi0,5,Canal Capital,MPEG-4/SD,1051.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,True,Canal Capital,3/4,12832,DVB-S2,Spa,4025 L
+3962 Ltp 68Hemi0,6142,Canal Capital Eureka,MPEG-4/HD,3021.0,,,False,Canal Capital,102,,DVB-S2,Spa,3962 L
+3974 Rtp 67Hemi0,1,Telemedellín,65535-1HEVC/HD,513.0,,,False,Canal Capital,2/3,1920,DVB-S2,Spa,3974 R
+3980 Ltp 68Hemi0,,ESPN Brasil,1-101,,PowerVu,https://www.lyngsat.com/providers/us/ESPN-Brasil.html,True,ESPN Brasil,3/4,21600,DVB-S2,,3980 L
+3980 Ltp 68Hemi0,111,ESPN Brasil,MPEG-4/HD,100.0,PowerVu,https://www.lyngsat.com/providers/us/ESPN-Brasil.html,True,ESPN Brasil,3/4,21600,DVB-S2,Por Eng,3980 L
+3980 Ltp 68Hemi0,112,ESPN 2 Brasil,MPEG-4/HD,200.0,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Por Eng,3980 L
+3980 Ltp 68Hemi0,113,ESPN 6 Brasil,MPEG-4/HD,400.0,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Por Eng,3980 L
+3980 Ltp 68Hemi0,114,ESPN 4 Brasil,MPEG-4/HD,500.0,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Por Eng Por,3980 L
+3980 Ltp 68Hemi0,115,ESPN 5 Brasil,MPEG-4/HD,600.0,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Por Por,3980 L
+3980 Ltp 68Hemi0,201,ESPN 3 Brasil,MPEG-4/HD,300.0,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Por Eng,3980 L
+3980 Ltp 68Hemi0,555,Rádio Disney Brasil,,,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Eng,3980 L
+3980 Ltp 68Hemi0,555,Rádio Disney Brasil,,,PowerVu,,False,ESPN Brasil,3/4,21600,DVB-S2,Eng,3980 L
+4000 Ltp 70Hemi0,,Trece (Colombia),8362-3001,,,https://www.lyngsat.com/providers/co/Trece.html,True,Trece (Colombia),103,,DVB-S2,,4000 L
+4000 Ltp 70Hemi0,6001,Trece (Colombia),MPEG-4/HD,5011.0,,https://www.lyngsat.com/providers/co/Trece.html,True,Trece (Colombia),103,,DVB-S2,Spa,4000 L
+4025 Ltp 70Hemi0,6,Trece (Colombia),MPEG-4/SD,1061.0,,https://www.lyngsat.com/providers/co/Trece.html,True,Trece (Colombia),3/4,12832,DVB-S2,Spa,4025 L
+4000 Ltp 70Hemi0,6002,Trece+,MPEG-4/HD,5021.0,,,False,Trece (Colombia),103,,DVB-S2,Spa,4000 L
+4012 Ltp 70Hemi0,,RTVC,8362-30,,,https://www.lyngsat.com/providers/co/RTVC.html,True,RTVC,101,,DVB-S2,,4012 L
+4012 Ltp 70Hemi0,,RTVC,8362-30,,,https://www.lyngsat.com/providers/co/RTVC.html,True,RTVC,101,,DVB-S2,,4012 L
+4025 Ltp 70Hemi0,,RTVC,8362-1,,,https://www.lyngsat.com/providers/co/RTVC.html,True,RTVC,3/4,12832,DVB-S2,,4025 L
+4025 Ltp 70Hemi0,,RTVC,8362-1,,,https://www.lyngsat.com/providers/co/RTVC.html,True,RTVC,3/4,12832,DVB-S2,,4025 L
+4012 Ltp 70Hemi0,41,Señal Colombia,MPEG-4/HD,2011.0,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4025 Ltp 70Hemi0,3,Señal Colombia,MPEG-4/SD,1031.0,,,False,RTVC,3/4,12832,DVB-S2,Spa,4025 L
+4012 Ltp 70Hemi0,42,Canal Institucional TV,MPEG-4/HD,2021.0,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4025 Ltp 70Hemi0,2,Canal Institucional TV,MPEG-4/SD,1021.0,,,False,RTVC,3/4,12832,DVB-S2,Spa,4025 L
+4012 Ltp 70Hemi0,43,Canal 1 (Colombia),MPEG-4/HD,2031.0,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4025 Ltp 70Hemi0,1,Canal 1 (Colombia),MPEG-4/SD,1011.0,,,False,RTVC,3/4,12832,DVB-S2,Spa,4025 L
+4012 Ltp 70Hemi0,46,[Exploremos test card],MPEG-4/SD,2062.0,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4012 Ltp 70Hemi0,44,Radiónica,,,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4025 Ltp 70Hemi0,14,Radiónica,,,,,False,RTVC,3/4,12832,DVB-S2,Spa,4025 L
+4012 Ltp 70Hemi0,45,Radio Nacional de Colombia,,,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4025 Ltp 70Hemi0,13,Radio Nacional de Colombia,,,,,False,RTVC,3/4,12832,DVB-S2,Spa,4025 L
+4012 Ltp 70Hemi0,46,Exploremos,,,,,False,RTVC,101,,DVB-S2,Spa,4012 L
+4019 Rtp 69Hemi0,,RCN,12289-10,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 0,,DVB-S2,,4019 R
+4019 Rtp 69Hemi0,,RCN,12289-10,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 0,,DVB-S2,,4019 R
+4019 Rtp 69Hemi0,,RCN,12289-10,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 0,,DVB-S2,,4019 R
+4019 Rtp 69Hemi0,,RCN,12289-11,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 1,,DVB-S2,,4019 R
+4019 Rtp 69Hemi0,,RCN,12289-11,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 1,,DVB-S2,,4019 R
+4019 Rtp 69Hemi0,,RCN,12289-11,,Director,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,P 1,,DVB-S2,,4019 R
+4028 Rtp 69Hemi0,,RCN,1-1,,DirectorIrdeto,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,3/4,8000,DVB-S2,,4028 R
+4028 Rtp 69Hemi0,,RCN,1-1,,DirectorIrdeto,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,3/4,8000,DVB-S2,,4028 R
+4028 Rtp 69Hemi0,,RCN,1-1,,DirectorIrdeto,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,3/4,8000,DVB-S2,,4028 R
+4019 Rtp 69Hemi0,2,RCN TV,MPEG-4/HD,101.0,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4019 Rtp 69Hemi0,1,RCN TV,MPEG-4/SD,1101.0,Director,,False,RCN,P 1,,DVB-S2,Spa,4019 R
+4028 Rtp 69Hemi0,1,RCN TV,MPEG-4/HD,101.0,Director,,False,RCN,3/4,8000,DVB-S2,Spa,4028 R
+4019 Rtp 69Hemi0,3,RCN HD2,MPEG-4/HD,301.0,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4019 Rtp 69Hemi0,5,RCN Radio,,,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4019 Rtp 69Hemi0,6,La FM,,,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4019 Rtp 69Hemi0,7,Radio 1 (Colombia),,,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4019 Rtp 69Hemi0,8,La Mega (Colombia),,,Director,,False,RCN,P 0,,DVB-S2,Spa,4019 R
+4025 Ltp 70Hemi0,4,Canal Congreso,MPEG-4/HD,1041.0,,,False,RCN,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,7,Teleantioquia,MPEG-4/SD,1071.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,True,Teleantioquia,3/4,12832,DVB-S2,Spa,4025 L
+4104 Ltp 74Hemi0,,Teleantioquia,.-.,,,https://www.lyngsat.com/providers/co/Teleantioquia.html,True,Teleantioquia,104,,DVB-S2,,4104 L
+4104 Ltp 74Hemi0,6081,Teleantioquia,MPEG-4/HD,512.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,True,Teleantioquia,104,,DVB-S2,Spa,4104 L
+4025 Ltp 70Hemi0,8,Telecaribe,MPEG-4/SD,1081.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,True,Telecaribe,3/4,12832,DVB-S2,Spa,4025 L
+4183 Ltp 78Hemi0,,Telecaribe,8362-3011,,,https://www.lyngsat.com/providers/co/Telecaribe.html,True,Telecaribe,106,,DVB-S2,,4183 L
+4183 Ltp 78Hemi0,6021,Telecaribe,MPEG-4/HD,512.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,True,Telecaribe,106,,DVB-S2,Spa,4183 L
+4025 Ltp 70Hemi0,9,Telepacífico,MPEG-4/SD,1091.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,True,Telepacífico,3/4,12832,DVB-S2,Spa,4025 L
+4110 Ltp 74Hemi0,,Telepacífico,.-.,,,https://www.lyngsat.com/providers/co/Telepacifico.html,True,Telepacífico,P 0,,DVB-S2,,4110 L
+4110 Ltp 74Hemi0,6121,Telepacífico,MPEG-4/HD,512.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,True,Telepacífico,P 0,,DVB-S2,Spa,4110 L
+4025 Ltp 70Hemi0,10,Telecafé (Colombia),MPEG-4/SD,1101.0,,https://www.lyngsat.com/providers/co/Telecafe.html,True,Telecafé (Colombia),3/4,12832,DVB-S2,Spa,4025 L
+4098 Ltp 74Hemi0,,Telecafé (Colombia),.-.,,,https://www.lyngsat.com/providers/co/Telecafe.html,True,Telecafé (Colombia),107,,DVB-S2,,4098 L
+4098 Ltp 74Hemi0,6041,Telecafé (Colombia),MPEG-4/HD,512.0,,https://www.lyngsat.com/providers/co/Telecafe.html,True,Telecafé (Colombia),107,,DVB-S2,Spa,4098 L
+4025 Ltp 70Hemi0,11,Canal TRO,MPEG-4/SD,1111.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,True,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4066 Ltp 72Hemi0,,Canal TRO,.-.,,,https://www.lyngsat.com/providers/co/Canal-TRO.html,True,Canal TRO,108,,DVB-S2,,4066 L
+4066 Ltp 72Hemi0,6101,Canal TRO,MPEG-4/HD,512.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,True,Canal TRO,108,,DVB-S2,Spa,4066 L
+4025 Ltp 70Hemi0,17,Radio Nacional Barranquilla,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,18,Radio Nacional Quibdo,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,19,Radio Nacional Villavicencio,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,21,Radio Nacional Fonseca,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,22,Radio Nacional Convención,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,23,Radio Nacional San Jacinto,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4025 Ltp 70Hemi0,24,Radio Nacional Chaparral,,,,,False,Canal TRO,3/4,12832,DVB-S2,Spa,4025 L
+4028 Rtp 69Hemi0,2,RCN Nuestra Tele Internacional,MPEG-4/SD,201.0,DirectorIrdeto,,False,Canal TRO,3/4,8000,DVB-S2,Spa,4028 R
+4028 Rtp 69Hemi0,3,NTN 24 Internacional,MPEG-4/SD,301.0,DirectorIrdeto,,False,Canal TRO,3/4,8000,DVB-S2,Spa,4028 R
+4028 Rtp 69Hemi0,4,RCN Novelas,MPEG-4/SD,401.0,DirectorIrdeto,,False,Canal TRO,3/4,8000,DVB-S2,Spa,4028 R
+4028 Rtp 69Hemi0,5,RCN Nuestra Tele,MPEG-4/SD,701.0,DirectorIrdeto,,False,Canal TRO,3/4,8000,DVB-S2,Spa,4028 R
+4038 Rtp 71Hemi0,356,Studio Universal Chile,1-401MPEG-4/HD,4340.0,,,False,Canal TRO,5/6,2500,DVB-S2,Spa Eng,4038 R
+4042 Ltp 72Hemi0,1,Tele Amiga,65535-1MPEG-2/SD,1160.0,,,False,Canal TRO,7/8,2570,DVB-S2,Spa,4042 L
+4054 Ltp 72Hemi,,(Racetrack TV Network feeds),,,,,False,Canal TRO,3/4,7500,DVB-S2,,4054 L
+4061 Rtp 71Hemi0,,VTV,1-201,,PowerVu,https://www.lyngsat.com/providers/uy/VTV.html,True,VTV,5/6,20000,DVB-S2,,4061 R
+4061 Rtp 71Hemi0,11,VTV (Uruguay),MPEG-4/HD,110.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,Spa Spa,4061 R
+4061 Rtp 71Hemi0,13,Gol TV,MPEG-4/HD,210.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,Spa Spa,4061 R
+4061 Rtp 71Hemi0,15,VTV Plus,MPEG-4/HD,310.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,Spa Spa,4061 R
+4061 Rtp 71Hemi0,17,Gol TV Ecuador,MPEG-4/HD,410.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,Spa Spa,4061 R
+4061 Rtp 71Hemi0,19,Gol TV Uruguay,MPEG-4/HD,510.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,Spa Spa,4061 R
+4061 Rtp 71Hemi0,21,(Gol TV feeds),,610.0,PowerVu,,False,VTV,5/6,20000,DVB-S2,,4061 R
+4061 Ltp 72Hemi0,6061,Teleislas Channel,MPEG-4/HD,512.0,,,False,VTV,3/4,4285,DVB-S2,Spa,4061 L
+4061 Ltp 72Hemi0,6062,Raizal TV,MPEG-4/HD,522.0,,,False,VTV,3/4,4285,DVB-S2,Eng,4061 L
+4066 Ltp 72Hemi0,6102,Canal TRO +,MPEG-4/HD,513.0,,,False,VTV,108,,DVB-S2,Spa,4066 L
+4071 Ltp 72Hemi0,311,TV Pública,1-301MPEG-4/HD,3110.0,,,False,VTV,5/6,3300,DVB-S2,Spa,4071 L
+4071 Ltp 72Hemi0,311,Radio Nacional Folklórica,,,,,False,VTV,5/6,3300,DVB-S2,Spa,4071 L
+4086 Ltp 74Hemi0,,Novo Tempo,1-1,,,https://www.lyngsat.com/providers/us/Novo-Tempo.html,True,Novo Tempo,2/3,15000,DVB-S2,,4086 L
+4086 Ltp 74Hemi0,1,TV Novo Tempo Brasil,MPEG-4/HD,100.0,,,False,Novo Tempo,2/3,15000,DVB-S2,Por,4086 L
+4086 Ltp 74Hemi0,4,TV Novo Tempo Brasil,MPEG-2/SD,400.0,,,False,Novo Tempo,2/3,15000,DVB-S2,Por,4086 L
+4086 Ltp 74Hemi0,2,TV Nuevo Tiempo,MPEG-4/HD,200.0,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa Spa,4086 L
+4086 Ltp 74Hemi0,3,Hope Channel Inter-America,MPEG-4/HD,300.0,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa Por,4086 L
+4086 Ltp 74Hemi0,5,Rádio Novo Tempo,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Por,4086 L
+4086 Ltp 74Hemi0,6,Radio Nuevo Tiempo,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,7,Radio Nuevo Tiempo Bolivia,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,8,Radio Nuevo Tiempo Argentina,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,9,Radio Nuevo Tiempo Perú,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,10,Radio Nuevo Tiempo Chile,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,11,Radio Nuevo Tiempo Paraguay,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,12,Radio Nuevo Tiempo Uruguay,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4086 Ltp 74Hemi0,13,Radio Nuevo Tiempo Ecuador,,,,,False,Novo Tempo,2/3,15000,DVB-S2,Spa,4086 L
+4095 Rtp 73Hemi0,2,Film & Arts América Latina,MPEG-4/HD,513.0,PowerVu,,False,Novo Tempo,5/6,30000,DVB-S2,Spa Eng Spa,4095 R
+4095 Rtp 73Hemi0,5,Europa Europa,MPEG-4/HD,516.0,PowerVu,,False,Novo Tempo,5/6,30000,DVB-S2,Spa Eng Spa,4095 R
+4095 Rtp 73Hemi0,7,El Gourmet Sur,MPEG-4/HD,518.0,PowerVu,,False,Novo Tempo,5/6,30000,DVB-S2,Spa Eng Ger,4095 R
+4095 Rtp 73Hemi0,14,AMC Andina,MPEG-4/HD,120.0,PowerVu,,False,Novo Tempo,5/6,30000,DVB-S2,Eng Ger Spa,4095 R
+4095 Rtp 73Hemi0,17,Más Chic Lationamérica,MPEG-4/HD,1660.0,PowerVu,,False,Novo Tempo,5/6,30000,DVB-S2,Eng Ger Spa,4095 R
+4098 Ltp 74Hemi0,6042,Telecafé 2,MPEG-4/SD,513.0,,,False,Novo Tempo,107,,DVB-S2,Spa,4098 L
+4104 Ltp 74Hemi0,6083,Teleantioquia Go,MPEG-4/HD,513.0,,,False,Novo Tempo,104,,DVB-S2,Spa,4104 L
+4110 Ltp 74Hemi0,6122,Origen Channel,MPEG-4/HD,513.0,,,False,Novo Tempo,P 0,,DVB-S2,Spa,4110 L
+4133 Rtp 75Hemi0,,BFBS,18-4,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,3/5,22500,DVB-S2,,4133 R
+4133 Rtp 75Hemi0,8201,BBC One,MPEG-4/SD,101.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8202,CBBC (07-18),MPEG-4/SD,102.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8202,BBC Two (18-07),MPEG-4/SD,102.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8203,ITV 1 London,MPEG-4/SD,103.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8205,Sky Sports Main Event UK,MPEG-4/SD,105.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8206,TNT Sports 1,MPEG-4/SD,106.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8207,BFBS Sport,MPEG-4/SD,107.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8208,Sky News UK,MPEG-4/SD,108.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8209,Channel 4 London Delay,MPEG-4/SD,109.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8210,Channel 5 Delay,MPEG-4/SD,110.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8211,BBC One Delay,MPEG-4/SD,111.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8212,BBC Two Delay,MPEG-4/SD,112.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8213,ITV 1 Delay,MPEG-4/SD,113.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8214,BFBS Extra Delay,MPEG-4/SD,114.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8217,Sky Cinema Delay,MPEG-4/SD,117.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8218,NTV National,MPEG-4/SD,118.0,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Nep,4133 R
+4133 Rtp 75Hemi0,8223,BFBS UK Bases,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8224,BFBS Radio 2,,,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8226,BFBS Best of British,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8227,BFBS UK National,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8231,BFBS Germany,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8232,BFBS Beats,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8233,BFBS Gurkha Network,,,,,False,BFBS,3/5,22500,DVB-S2,,4133 R
+4133 Rtp 75Hemi0,8234,BFBS Edge,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8235,BFBS Rewind,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8236,BFBS Canada,,,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8237,BFBS Shamishran,,,,,False,BFBS,3/5,22500,DVB-S2,,4133 R
+4133 Rtp 75Hemi0,8238,BFBS Falklands,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8239,Falklands Radio,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8240,BBC World Service English,,,Irdeto,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4133 Rtp 75Hemi0,8246,BFBS Belize,,,,,False,BFBS,3/5,22500,DVB-S2,Eng,4133 R
+4135 Ltp 76Hemi0,100,Fox Sports Argentina,MPEG-4/HD,110.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Eng Spa,4135 L
+4135 Ltp 76Hemi0,200,Fox Sports 2 Argentina,MPEG-4/HD,210.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Eng Spa,4135 L
+4135 Ltp 76Hemi0,300,Fox Sports 3 Argentina,MPEG-4/HD,310.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Eng Spa,4135 L
+4135 Ltp 76Hemi0,401,USA Network Brasil,MPEG-4/HD,1110.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por Eng Por Eng,4135 L
+4135 Ltp 76Hemi0,402,Studio Universal Brasil,MPEG-4/HD,1120.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por Eng Por Eng,4135 L
+4135 Ltp 76Hemi0,403,DreamWorks TV Latin America,MPEG-4/HD,1130.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por,4135 L
+4135 Ltp 76Hemi0,404,E! Brasil,MPEG-4/HD,1140.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por,4135 L
+4135 Ltp 76Hemi0,405,Universal Premiere,MPEG-4/SD,1150.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por Eng,4135 L
+4135 Ltp 76Hemi0,406,Universal Reality,MPEG-4/SD,1160.0,PowerVu,,False,BFBS,5/6,30000,DVB-S2,Por Eng,4135 L
+4135 Ltp 76Hemi0,701,Cocktail Lounge,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,702,Opéra Plus,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,703,The Chill Lounge,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,704,Jazz Masters,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,705,Rock Alternative,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,706,Nothin' but '90s,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,707,Hard Rock,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,708,Soho 70s,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,709,Everything 80s,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,710,Silk,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,711,Latino Tropical,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,712,Solo para Peques,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,713,Total Hits Brazil,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,714,Rock Anthems,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,715,Jammin',,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,716,Hit List,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,717,Dancefloor Fillers,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,718,Classic R&B,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,719,Popcorn,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,720,Jazz Latino,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,722,Brazilian Pop,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,723,Samba & Pagode,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,724,Rock do Brasil,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,725,New Age,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,726,Rock en Español,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,727,Regional Mexican,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,728,Dance Clubbin',,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,729,Mariachi para Siempre,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,730,Big Band,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,731,Swinging Standards,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,732,Tango,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,733,Around the World,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,734,Classic Masters,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,735,Total Hits Italy,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,736,Jukebox Oldies,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,737,Dancehall Sessions,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,738,The Americas,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,739,Latin Lounge,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,740,The Blues,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,741,Pop Classics,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,742,Pop Adult,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,743,Reggaeton,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,744,Indie Classics,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,745,Salsa y Merengue,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,746,Dance Classics,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,747,Today's Latin Pop,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,748,Euro Hits,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,749,Easy Listening,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4135 Ltp 76Hemi0,750,Romance Latino,,,,,False,BFBS,5/6,30000,DVB-S2,,4135 L
+4161 Ltp 78Hemi0,,Ideal TV,1875-1875,,,https://www.lyngsat.com/providers/br/Ideal-TV.html,True,Ideal TV,2/3,7500,DVB-S2,,4161 L
+4161 Ltp 78Hemi0,60000,Ideal TV,MPEG-4/HD,258.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,True,Ideal TV,2/3,7500,DVB-S2,Por,4161 L
+4161 Ltp 78Hemi0,60024,Ideal TV,MPEG-4/1seg,514.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,True,Ideal TV,2/3,7500,DVB-S2,Por,4161 L
+4177 Ltp 78Hemi0,,United Teleports,0-0,,CompunicatePowerVu,https://www.lyngsat.com/providers/us/United-Teleports.html,True,United Teleports,5/6,5416,DVB-S2,,4177 L
+4177 Ltp 78Hemi0,1,Angel TV Español,MPEG-4/SD,102.0,,,False,United Teleports,5/6,5416,DVB-S2,Spa,4177 L
+4177 Ltp 78Hemi0,4,Ve Plus Venezuela,MPEG-4/SD,132.0,PowerVu,,False,United Teleports,5/6,5416,DVB-S2,Spa,4177 L
+4177 Ltp 78Hemi0,5,Ve Plus Panregional,MPEG-4/SD,142.0,PowerVu,,False,United Teleports,5/6,5416,DVB-S2,Spa,4177 L
+4177 Ltp 78Hemi0,6,Cine Premium,MPEG-4/SD,151.0,Compunicate,,False,United Teleports,5/6,5416,DVB-S2,Spa,4177 L
+4177 Ltp 78Hemi0,7,Cine Familiar,MPEG-4/SD,161.0,Compunicate,,False,United Teleports,5/6,5416,DVB-S2,Spa,4177 L
+4183 Ltp 78Hemi0,6023,Telecaribe Plus,MPEG-4/HD,522.0,,,False,United Teleports,106,,DVB-S2,Spa,4183 L
+4183 Ltp 78Hemi0,6025,Radio Sistema Cardenal,,,,,False,United Teleports,106,,DVB-S2,Spa,4183 L
+4191 Ltp 78Hemi0,2,Pasiones Latinoamérica,MPEG-4/HD,821.0,PowerVuViaccess,,False,United Teleports,2/3,7332,DVB-S2,Spa Spa,4191 L
+4191 Ltp 78Hemi0,16,SIC Internacional,MPEG-2/SD,161.0,PowerVu,,False,United Teleports,2/3,7332,DVB-S2,Por,4191 L
+4196 Ltp 78Hemi0,2,TV La Verdad,509-148MPEG-2/SD,1250.0,,,False,United Teleports,5/6,2400,DVB-S2,Spa,4196 L
+11480 Htp ANH25Andean,,Oi TV,92-23,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11480 H
+11480 Vtp SCV31South Cone,,Oi TV,92-1,,Videoguard,,False,United Teleports,1/2,30000,DVB-S2,,11480 V
+11520 Htp ANH26Andean,,Oi TV,92-24,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11520 H
+11520 Vtp SCV32South Cone,,Oi TV,92-2,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11520 V
+11560 Htp ANH27Andean,,Oi TV,92-25,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11560 H
+11560 Vtp SCV33South Cone,,Oi TV,92-3,,Videoguard,,False,United Teleports,2/3,30000,DVB-S2,,11560 V
+11600 Htp ANH28Andean,,Oi TV,92-26,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11600 H
+11600 Vtp SCV34South Cone,,Oi TV,92-4,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11600 V
+11640 Htp ANH29Andean,,Oi TV,92-27,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11640 H
+11640 Vtp SCV35South Cone,,Oi TV,92-5,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11640 V
+11680 Htp ANH30Andean,,Oi TV,92-27,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11680 H
+11680 Vtp SCV36South Cone,,Oi TV,92-7,,Videoguard,,False,United Teleports,3/4,30000,DVB-S2,,11680 V
+11736 Vtp BRV9LBrazil0,,Oi TV,92-13,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11736 V
+11764 Vtp BRV9UBrazil0,,Oi TV,92-8,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11764 V
+11796 Vtp BRV10LBrazil0,,Oi TV,92-9,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11796 V
+11824 Vtp BRV10UBrazil0,,Oi TV,92-10,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11824 V
+11856 Vtp BRV11LBrazil0,,Oi TV,92-11,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11856 V
+11884 Vtp BRV11UBrazil0,,Oi TV,92-6,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11884 V
+11916 Vtp BRV12LBrazil0,,Oi TV,92-14,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11916 V
+11944 Vtp BRV12UBrazil0,,Oi TV,92-15,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11944 V
+11976 Htp BRH13LBrazil0,,Oi TV,92-12,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11976 H
+11976 Vtp SCV21LSouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,11976 V
+12004 Htp BRH13UBrazil0,,Oi TV,92-16,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12004 H
+12004 Vtp SCV21USouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12004 V
+12036 Htp BRH14LBrazil0,,Oi TV,92-17,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12036 H
+12036 Vtp SCV22LSouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12036 V
+12064 Htp BRH14UBrazil0,,Oi TV,92-18,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12064 H
+12064 Vtp SCV22USouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12064 V
+12096 Htp BRH15LBrazil0,,Oi TV,92-19,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12096 H
+12096 Vtp SCV23LSouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12096 V
+12124 Htp BRH15UBrazil0,,Oi TV,92-20,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12124 H
+12124 Vtp SCV23USouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12124 V
+12156 Htp BRH16LBrazil0,,Oi TV,92-21,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12156 H
+12156 Vtp SCV24LSouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12156 V
+12184 Htp BRH16UBrazil0,,Oi TV,92-22,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12184 H
+12184 Vtp SCV24USouth Cone,,Oi TV,92-?,,Videoguard,,False,United Teleports,3/4,22500,DVB-S2,,12184 V

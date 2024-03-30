@@ -1,0 +1,12 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3792 Rtp WHR3West hemi0,,@ Oceanic Broadband,,,,,False,,2/3,2048,DVB-S2,,3792 R
+4055 Ltp GLL7Global34-35,,American Forces Network,,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,1/2,11000,DVB-S2,,4055 L
+4055 Ltp GLL7Global34-35,202.0,AFN Prime Pacific,MPEG-4/SD,1260.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,203.0,AFN News,MPEG-4/SD,1360.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,204.0,AFN Sports,MPEG-4/SD,2060.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,220.0,AFN The Eagle Japan,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,221.0,AFN The Voice,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,222.0,AFN Music Service 1,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4055 Ltp GLL7Global34-35,223.0,AFN Music Service 2,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4055 L
+4152 Rtp GLR10Global34-35,11.0,KGTF (PBS - Agana),?-?MPEG-4/SD,177.0,,,False,American Forces Network,127,2,DVB-S2,Eng,4152 R
+4192 Rtp GLR10Global34-35,301.0,BYU TV Global,?-?MPEG-4/SD,4864.0,,,False,American Forces Network,3/4,2644,DVB-S2,Eng Chi,4192 R

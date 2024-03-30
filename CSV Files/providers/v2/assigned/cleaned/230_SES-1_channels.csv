@@ -1,0 +1,176 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4005 Vtp 15North America C0,1,Daystar TV,?-?MPEG-2/SD,257.0,,,False,,3/4,4442,DVB-S4,Eng,4005 V
+4011 Vtp 15North America C0,,RCN,,,RAS,https://www.lyngsat.com/providers/co/RCN.html,True,RCN,5/6,3333,DVB-S2,,4011 V
+4011 Vtp 15North America C0,5,RCN Nuestra Tele,MPEG-4/SD,101.0,RAS,,False,RCN,5/6,3333,DVB-S2,Spa,4011 V
+4011 Vtp 15North America C0,6,NTN 24,MPEG-4/SD,201.0,RAS,,False,RCN,5/6,3333,DVB-S2,Spa,4011 V
+4011 Vtp 15North America C0,7,RCN Novelas,MPEG-4/SD,301.0,RAS,,False,RCN,5/6,3333,DVB-S2,Spa,4011 V
+4020 Htp 16North America C0,,Warner Bros. Discovery,815-101,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,5/6,30000,DVB-S2,,4020 H
+4020 Htp 16North America C0,31,HGTV East,MPEG-4/HD,110.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,32,Food Network East,MPEG-4/HD,210.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,33,Magnolia Network East,MPEG-4/HD,310.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,34,Cooking Channel,MPEG-4/HD,410.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,35,Travel Channel East,MPEG-4/HD,510.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,36,HGTV West,MPEG-4/HD,610.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,37,Food Network West,MPEG-4/HD,710.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,38,Travel Channel West,MPEG-4/HD,810.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,39,GAC Family,MPEG-4/HD,910.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,40,Magnolia Network West,MPEG-4/HD,1010.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C0,41,[test card],,1110.0,PowerVu,,False,Warner Bros. Discovery,5/6,30000,DVB-S2,,4020 H
+4030 Vtp 17North America C0,,Hallmark,,,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,True,Hallmark,7/8,12400,DVB-S1,,4030 V
+4030 Vtp 17North America C0,,Hallmark,,,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,True,Hallmark,7/8,12400,DVB-S1,,4030 V
+4048 Vtp 17North America C0,,Hallmark,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,True,Hallmark,5/6,15800,DVB-S2,,4048 V
+4048 Vtp 17North America C0,,Hallmark,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,True,Hallmark,5/6,15800,DVB-S2,,4048 V
+4030 Vtp 17North America C0,11*,Hallmark Channel East,MPEG-2/SD,1260.0,PowerVu,,False,Hallmark,7/8,12400,DVB-S1,Eng,4030 V
+4048 Vtp 17North America C0,201,Hallmark Channel East,MPEG-4/HD,111.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4030 Vtp 17North America C0,21*,Hallmark Channel West,MPEG-2/SD,1160.0,PowerVu,,False,Hallmark,7/8,12400,DVB-S1,Eng,4030 V
+4048 Vtp 17North America C0,202,Hallmark Channel West,MPEG-4/HD,211.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4030 Vtp 17North America C0,31*,Hallmark Movies & Mysteries East,MPEG-2/SD,1360.0,PowerVu,,False,Hallmark,7/8,12400,DVB-S1,Eng,4030 V
+4048 Vtp 17North America C0,203,Hallmark Movies & Mysteries East,MPEG-4/HD,311.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4030 Vtp 17North America C0,41*,Hallmark Movies & Mysteries West,MPEG-2/SD,1460.0,PowerVu,,False,Hallmark,7/8,12400,DVB-S1,Eng,4030 V
+4048 Vtp 17North America C0,204,Hallmark Movies & Mysteries West,MPEG-4/HD,411.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4030 Vtp 17North America C0,151,Game Show Network East,MPEG-2/SD,1560.0,PowerVu,,False,Hallmark,7/8,12400,DVB-S1,Eng,4030 V
+4048 Vtp 17North America C0,205,Hallmark Drama,MPEG-4/HD,511.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4048 Vtp 17North America C0,211,MavTV,MPEG-4/HD,1111.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4048 Vtp 17North America C0,212,Gol TV,MPEG-4/HD,1211.0,PowerVu,,False,Hallmark,5/6,15800,DVB-S2,Eng,4048 V
+4060 Htp 18North America C0,,Paramount Domestic Media Networks HD Plex 4,,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex-4.html,True,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,,4060 H
+4060 Htp 18North America C0,301,MGM+ East,MPEG-4/HD,110.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,351,MGM+ East,MPEG-4/SD,710.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,302,MGM+ West,MPEG-4/HD,210.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,352,MGM+ West,MPEG-4/SD,810.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,303,MGM+ Hits,MPEG-4/HD,310.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,354,MGM+ Hits,MPEG-4/SD,1010.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,304,MGM+ Marquee,MPEG-4/HD,410.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,305,MGM+ Drive-In,MPEG-4/HD,510.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C0,353,MGM+ Drive-In,MPEG-4/SD,910.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4060 H
+4080 Vtp 19North America C0,,,,,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,,4080 V
+4180 Htp 24North America C0,,,?-1,,,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S3,,4180 H
+12000 Vtp 15North America Ku0,,,,,,,False,Paramount Domestic Media Networks HD Plex 4,1/2,20000,DVB-S2,,12000 V
+4080 Vtp 19North America C0,,BET East,MPEG-4/HD,501.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET West,MPEG-4/HD,502.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Canada,MPEG-4/HD,503.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Caribbean,MPEG-4/SD,505.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Her Caribbean,MPEG-4/SD,506.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Gospel,MPEG-4/SD,507.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Jams,MPEG-4/SD,509.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Soul,MPEG-4/SD,510.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,BET Hip-Hop,MPEG-4/SD,511.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,MTV Classic East,MPEG-4/SD,513.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,MTV Tr3s West,MPEG-4/SD,514.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,CMT Music,MPEG-4/SD,515.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,MTV Tr3s East,MPEG-4/SD,517.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C0,,MTV Classic West,MPEG-4/SD,518.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 4,5/6,30000,DVB-S2,Eng,4080 V
+4100 Htp 20North America C0,,Paramount Domestic Media Networks HD Plex 2,?-360,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex-2.html,True,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America C0,201,CMT East,MPEG-4/HD,111.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,202,MTV East,MPEG-4/HD,211.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,203,Nickelodeon West,MPEG-4/HD,311.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,204,VH1 West,MPEG-4/HD,411.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,205,MTV Live USA,MPEG-4/HD,511.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,206,Paramount Network East,MPEG-4/HD,611.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,207,Comedy Central West,MPEG-4/HD,711.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,208,MTV 00s,MPEG-4/HD,811.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,209,Paramount Network Caribbean,MPEG-4/HD,911.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,210,Comedy Central Caribbean,MPEG-4/HD,1011.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,211,Logo East,MPEG-4/HD,1111.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C0,212,Pop TV East,MPEG-4/HD,1211.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 2,5/6,30000,DVB-S2,Eng,4100 H
+4120 Vtp 21North America C0,,Paramount Domestic Media Networks HD Plex,,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex.html,True,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,,4120 V
+4120 Vtp 21North America C0,401,TV Land East,MPEG-4/HD,110.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,402,TV Land West,MPEG-4/HD,210.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,403,MTV 2 East,MPEG-4/HD,310.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,404,MTV 2 West,MPEG-4/HD,410.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,405,Nick Jr East,MPEG-4/HD,510.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,406,Nicktoons East,MPEG-4/HD,610.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,407,Nicktoons West,MPEG-4/HD,710.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,408,Nick Jr West,MPEG-4/HD,810.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,409,BET Her East,MPEG-4/HD,910.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,410,BET Her West,MPEG-4/HD,1010.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,411,TeenNick East,MPEG-4/HD,1110.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21North America C0,412,TeenNick West,MPEG-4/HD,1210.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex,5/6,30000,DVB-S2,Eng,4120 V
+4140 Htp 22North America C0,,Jewelry TV,,,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,True,Jewelry TV,3/4,29268,DVB-S2,,4140 H
+4140 Htp 22North America C0,,Jewelry TV,MPEG-2/HD,49.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,True,Jewelry TV,3/4,29268,DVB-S2,Eng,4140 H
+4140 Htp 22North America C0,,Jewelry TV,MPEG-2/SD,65.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,True,Jewelry TV,3/4,29268,DVB-S2,Eng,4140 H
+4140 Htp 22North America C0,,Jewelry TV,MPEG-4/HD,113.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,True,Jewelry TV,3/4,29268,DVB-S2,Eng,4140 H
+4140 Htp 22North America C0,,Jewelry TV Extra,MPEG-2/SD,81.0,,,False,Jewelry TV,3/4,29268,DVB-S2,Eng,4140 H
+4160 Vtp 23North America C0,,NBC Universal,,,PowerVu,https://www.lyngsat.com/providers/us/NBC-Universal.html,True,NBC Universal,5/6,30000,DVB-S2,,4160 V
+4160 Vtp 23North America C0,39,Altitude Sports,MPEG-2/SD,390.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,48,Altitude Sports,MPEG-4/HD,480.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,40,USA Network East,MPEG-4/HD,400.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,49,USA Network East,MPEG-2/SD,490.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,41,Syfy East,MPEG-4/HD,410.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,42,Bravo East,MPEG-4/HD,420.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,43,Oxygen True Crime East,MPEG-4/HD,430.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,44,Oxygen True Crime West,MPEG-4/HD,440.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Eng,4160 V
+4160 Vtp 23North America C0,46,Universo Este,MPEG-4/HD,460.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Spa,4160 V
+4160 Vtp 23North America C0,47,Universo Oeste,MPEG-4/HD,470.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Spa,4160 V
+4160 Vtp 23North America C0,66,Telemundo Este,MPEG-2/SD,660.0,PowerVu,,False,NBC Universal,5/6,30000,DVB-S2,Spa,4160 V
+4180 Htp 24North America C0,1,Me TV,MPEG-4/SD,111.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,2,Heroes & Icons East,MPEG-4/SD,121.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,3,Start TV East,MPEG-4/SD,131.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,4,Story TV,MPEG-4/HD,141.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,5,Movies!,MPEG-4/SD,151.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,6,Catchy Comedy,MPEG-4/SD,161.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,112,Heroes & Icons West,MPEG-4/SD,1121.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+4180 Htp 24North America C0,113,Start TV West,MPEG-4/SD,1131.0,,,False,NBC Universal,5/6,30000,DVB-S3,Eng,4180 H
+11704 Vtp 1North America Ku0,,Educational Media Foundation,,,,https://www.lyngsat.com/providers/us/Educational-Media-Foundation.html,True,Educational Media Foundation,3/4,3650,DVB-S2,,11704 V
+11704 Vtp 1North America Ku0,1,Radio Nueva Vida,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Spa,11704 V
+11704 Vtp 1North America Ku0,2,K-Love,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,9,K-Love,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,3,Air 1 Worship Now,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,7,Air 1 Worship Now,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,8,K-Love Music,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,12,K-Love Birthday Blend,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,13,K-Love 90s,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,14,Boost Radio,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11704 Vtp 1North America Ku0,21,K-Love 2000s,,,,,False,Educational Media Foundation,3/4,3650,DVB-S2,Eng,11704 V
+11710 Vtp 1North America Ku0,,American Family Radio,29-1,,,https://www.lyngsat.com/providers/us/American-Family-Radio.html,True,American Family Radio,2/3,1107,DVB-S1,,11710 V
+11710 Vtp 1North America Ku0,1,AFR Talk,,,,,False,American Family Radio,2/3,1107,DVB-S1,Eng,11710 V
+11710 Vtp 1North America Ku0,3,AFR Talk,,,,,False,American Family Radio,2/3,1107,DVB-S1,Eng,11710 V
+11710 Vtp 1North America Ku0,2,AFR Music,,,,,False,American Family Radio,2/3,1107,DVB-S1,Eng,11710 V
+12000 Vtp 15North America Ku0,1,NewsNation,MPEG-4/HD,101.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,2,NHK World Japan,MPEG-4/HD,102.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,3,SBN Domestic,MPEG-4/HD,103.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,5,CGTN,MPEG-4/HD,105.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,6,Reach TV,MPEG-4/HD,106.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,7,Taiwan +,MPEG-4/HD,107.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,44,Microspace promo,MPEG-4/HD,5185.0,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,62,North Carolina Reading Service,,,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,1015,Mix 101.5,,,,,False,American Family Radio,1/2,20000,DVB-S2,Eng,12000 V
+12000 Vtp 15North America Ku0,0,50s & 60s Hits,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,70s Hits,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Songbook,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,80s Hits,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Adult Alternative,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Unforgettable,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,City Lights,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,The Beach,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Swing Kings,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Lucille,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,7890,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Ensemble,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Summer Fun,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Summer Fun,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Rock Show,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Roadhouse,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Country Gold,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Nashville USA,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Country Music 1,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Belissimo,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,The Light,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Plaza,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Impressions,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Easy Instrumentals,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Environmental,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Frequency,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Expressions,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Ambrosia,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,FM-1,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Hitline,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Hot FM,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Strobe,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Little Italy,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Jazz Traditions,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,La Musica,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Intermezzo,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Love Songs,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Feedback,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12000 Vtp 15North America Ku0,0,Metro,,,,,False,American Family Radio,1/2,20000,DVB-S2,,12000 V
+12172 Htp 24North America Ku,,(feeds),,,,,False,American Family Radio,000,15,DVB-S1,,12172 H

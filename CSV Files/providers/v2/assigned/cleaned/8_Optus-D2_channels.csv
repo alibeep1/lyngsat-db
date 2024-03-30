@@ -1,0 +1,349 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+12267 Htp NZ9LNZB,,Sky New Zealand,169-9,,Videoguard,,False,,2/3,22500,DVB-S2,,12267 H
+12295 Htp NZ9UNZB,,Sky New Zealand,169-10,,Videoguard,,False,,3/4,22500,DVB-S2,,12295 H
+12331 Htp NZ10LNZB,,Sky New Zealand,169-7,,Videoguard,,False,,2/3,22500,DVB-S2,,12331 H
+12358 Htp NZ10UNZB,,Sky New Zealand,169-8,,Videoguard,,False,,2/3,22500,DVB-S2,,12358 H
+12394 Htp NZ11LNZB,,Sky New Zealand,169-13,,IrdetoVideoguard,,False,,3/4,22500,DVB-S2,,12394 H
+12421 Htp NZ11UNZB,,Sky New Zealand,169-14,,Videoguard,,False,,3/4,22500,DVB-S2,,12421 H
+12519 Htp NZ13LNZB,,Sky New Zealand,169-89,,,,False,,3/4,22500,DVB-S2,,12519 H
+12546 Htp NZ13UNZB,,Sky New Zealand,169-4,,Videoguard,,False,,2/3,22500,DVB-S2,,12546 H
+12581 Htp NZ14LNZB,,Sky New Zealand,169-1,,Videoguard,,False,,2/3,22500,DVB-S2,,12581 H
+12608 Htp NZ14UNZB,,Sky New Zealand,169-2,,Videoguard,,False,,2/3,22500,DVB-S2,,12608 H
+12707 Htp NZ16LNZB,,Sky New Zealand,169-11,,Videoguard,,False,,3/4,22500,DVB-S2,,12707 H
+12734 Htp NZ16UNZB,,Sky New Zealand,169-12,,Videoguard,,False,,3/4,22500,DVB-S2,,12734 H
+12358 Htp NZ10UNZB,1011.0,TVNZ Duke,MPEG-4/SD,1006.0,,,False,,2/3,22500,DVB-S2,Eng,12358 H
+12483 Htp NZ12UNZB,1904.0,TVNZ Duke,MPEG-2/SD,520.0,,,False,,3/4,22500,DVB-S2,Eng,12483 H
+12392 Htp 11NB,,(feeds),,,,,False,,500,22,DVB-S2,,12392 H
+12430 Vtp 3NANZ,,(feeds),,,,,False,,111,6,DVB-S6,,12430 V
+12643 Vtp 7NANZ,,(feeds),,,,,False,,3/4,7200,DVB-S7,,12643 V
+12661 Vtp 7NANZ,,(feeds),,,,,False,,200,7,DVB-S7,,12661 V
+12670 Vtp 7NANZ,,(feeds),,,,,False,,200,7,DVB-S7,,12670 V
+12679 Vtp 7NANZ,,(feeds),,,,,False,,200,7,DVB-S7,,12679 V
+12709 Htp 16NB,,(feeds),,,,,False,,000,30,DVB-S2,,12709 H
+12732 Htp 16NB,,(feeds),,,,,False,,500,8,DVB-S2,,12732 H
+12394 Htp NZ11LNZB,1212.0,Aljazeera English,MPEG-4/SD,1002.0,,,False,,3/4,22500,DVB-S2,Eng,12394 H
+12443 Vtp 4NANZ,,ABC Sydney,,,,https://www.lyngsat.com/providers/au/ABC-Sydney.html,True,ABC Sydney,3/4,1644,DVB-S2,,12443 V
+12443 Vtp 4NANZ,1200.0,ABC Radio Sydney,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12443 Vtp 4NANZ,1400.0,ABC Radio Sydney,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12443 Vtp 4NANZ,1600.0,ABC Radio Sydney,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12470 Htp 12NB,685.0,ABC Radio Sydney,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,685.0,ABC Radio Sydney,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12658 H
+12443 Vtp 4NANZ,1300.0,ABC Double J,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12470 Htp 12NB,678.0,ABC Double J,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,726.0,ABC Double J,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,758.0,ABC Double J,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,742.0,ABC Double J,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,694.0,ABC Double J,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,710.0,ABC Double J,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,678.0,ABC Double J,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,726.0,ABC Double J,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,758.0,ABC Double J,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,742.0,ABC Double J,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,694.0,ABC Double J,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,710.0,ABC Double J,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12658 H
+12443 Vtp 4NANZ,1400.0,ABC Classic,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12470 Htp 12NB,683.0,ABC Classic,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,731.0,ABC Classic,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,763.0,ABC Classic,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,747.0,ABC Classic,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,699.0,ABC Classic,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,715.0,ABC Classic,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,683.0,ABC Classic,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,731.0,ABC Classic,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,763.0,ABC Classic,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,747.0,ABC Classic,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,699.0,ABC Classic,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,715.0,ABC Classic,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12658 H
+12443 Vtp 4NANZ,1500.0,ABC Sport,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12445 Vtp 4NANZ,2600.0,ABC Sport,,,,,False,ABC Sydney,3/4,835,DVB-S2,Eng,12445 V
+12443 Vtp 4NANZ,1700.0,ABC NewsRadio,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12470 Htp 12NB,687.0,ABC NewsRadio,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,735.0,ABC NewsRadio,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,767.0,ABC NewsRadio,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,751.0,ABC NewsRadio,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,703.0,ABC NewsRadio,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,719.0,ABC NewsRadio,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,687.0,ABC NewsRadio,,,,,False,ABC Sydney,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,735.0,ABC NewsRadio,,,,,False,ABC Sydney,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,767.0,ABC NewsRadio,,,,,False,ABC Sydney,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,751.0,ABC NewsRadio,,,,,False,ABC Sydney,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,703.0,ABC NewsRadio,,,,,False,ABC Sydney,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,719.0,ABC NewsRadio,,,,,False,ABC Sydney,126,,DVB-S2,Eng,12658 H
+12443 Vtp 4NANZ,1800.0,ABC Radio National Queensland,,,,,False,ABC Sydney,3/4,1644,DVB-S2,Eng,12443 V
+12445 Vtp 4NANZ,,ABC Melbourne,,,,https://www.lyngsat.com/providers/au/ABC-Melbourne.html,True,ABC Melbourne,3/4,835,DVB-S2,,12445 V
+12445 Vtp 4NANZ,2500.0,ABC Triple J,,,,,False,ABC Melbourne,3/4,835,DVB-S2,Eng,12445 V
+12470 Htp 12NB,681.0,ABC Triple J,,,,,False,ABC Melbourne,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,729.0,ABC Triple J,,,,,False,ABC Melbourne,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,761.0,ABC Triple J,,,,,False,ABC Melbourne,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,745.0,ABC Triple J,,,,,False,ABC Melbourne,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,697.0,ABC Triple J,,,,,False,ABC Melbourne,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,713.0,ABC Triple J,,,,,False,ABC Melbourne,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,681.0,ABC Triple J,,,,,False,ABC Melbourne,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,729.0,ABC Triple J,,,,,False,ABC Melbourne,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,761.0,ABC Triple J,,,,,False,ABC Melbourne,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,745.0,ABC Triple J,,,,,False,ABC Melbourne,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,697.0,ABC Triple J,,,,,False,ABC Melbourne,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,713.0,ABC Triple J,,,,,False,ABC Melbourne,126,,DVB-S2,Eng,12658 H
+12445 Vtp 4NANZ,2600.0,ABC Radio Melbourne,,,,,False,ABC Melbourne,3/4,835,DVB-S2,Eng,12445 V
+12470 Htp 12NB,701.0,ABC Radio Melbourne,,,,,False,ABC Melbourne,125,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,701.0,ABC Radio Melbourne,,,,,False,ABC Melbourne,125,,DVB-S2,Eng,12658 H
+12445 Vtp 4NANZ,2800.0,Radio Australia English for Asia,,,,,False,ABC Melbourne,3/4,835,DVB-S2,Eng,12445 V
+12456 Htp NZ12LNZB,,Freeview,47-21,,,https://www.lyngsat.com/providers/nz/Freeview.html,True,Freeview,3/4,22500,DVB-S2,,12456 H
+12456 Htp NZ12LNZB,,Freeview,47-21,,,https://www.lyngsat.com/providers/nz/Freeview.html,True,Freeview,3/4,22500,DVB-S2,,12456 H
+12483 Htp NZ12UNZB,,Freeview,47-22,,,https://www.lyngsat.com/providers/nz/Freeview.html,True,Freeview,3/4,22500,DVB-S2,,12483 H
+12483 Htp NZ12UNZB,,Freeview,47-22,,,https://www.lyngsat.com/providers/nz/Freeview.html,True,Freeview,3/4,22500,DVB-S2,,12483 H
+12456 Htp NZ12LNZB,1913.0,Firstlight,MPEG-2/SD,511.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1915.0,Eden (New Zealand),MPEG-2/SD,514.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1916.0,Hope Channel New Zealand,MPEG-2/SD,516.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1918.0,Rush,MPEG-2/SD,509.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1920.0,Three,MPEG-2/SD,512.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1921.0,Bravo New Zealand,MPEG-2/SD,513.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1923.0,Parliament TV (New Zealand),MPEG-2/SD,515.0,,,False,Freeview,3/4,22500,DVB-S2,Eng Qaa,12456 H
+12456 Htp NZ12LNZB,1925.0,Te Reo,MPEG-2/SD,517.0,,,False,Freeview,3/4,22500,DVB-S2,,12456 H
+12456 Htp NZ12LNZB,1926.0,Three +1,MPEG-2/SD,518.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1927.0,Shine TV,MPEG-2/SD,530.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1928.0,HGTV New Zealand,MPEG-2/SD,520.0,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1929.0,RNZ National,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12519 Htp NZ13LNZB,1101.0,RNZ National,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12519 H
+12456 Htp NZ12LNZB,1930.0,RNZ Concert,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12519 Htp NZ13LNZB,1102.0,RNZ Concert,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12519 H
+12456 Htp NZ12LNZB,1935.0,George FM,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12456 Htp NZ12LNZB,1936.0,Base FM,,,,,False,Freeview,3/4,22500,DVB-S2,Eng,12456 H
+12470 Htp 12NB,,ABC NSW,,,,https://www.lyngsat.com/providers/au/ABC-NSW.html,True,ABC NSW,121,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC NSW,,,,https://www.lyngsat.com/providers/au/ABC-NSW.html,True,ABC NSW,121,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC NSW,,,,https://www.lyngsat.com/providers/au/ABC-NSW.html,True,ABC NSW,121,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC NSW,,,,https://www.lyngsat.com/providers/au/ABC-NSW.html,True,ABC NSW,121,,DVB-S2,,12658 H
+12470 Htp 12NB,672.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,720.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,752.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,736.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,688.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,704.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,672.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,720.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,752.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,736.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,688.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,704.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,673.0,ABC TV NSW,MPEG-2/SD,512.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,677.0,ABC TV NSW,MPEG-4/HD,515.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,673.0,ABC TV NSW,MPEG-2/SD,512.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,677.0,ABC TV NSW,MPEG-4/HD,515.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,674.0,ABC Kids NSW (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,674.0,ABC Kids NSW (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,674.0,ABC TV Plus NSW (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,674.0,ABC TV Plus NSW (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,676.0,ABC Me NSW,MPEG-2/SD,514.0,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,676.0,ABC Me NSW,MPEG-2/SD,514.0,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,679.0,ABC Jazz,,,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,727.0,ABC Jazz,,,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,759.0,ABC Jazz,,,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,743.0,ABC Jazz,,,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,695.0,ABC Jazz,,,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,711.0,ABC Jazz,,,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,679.0,ABC Jazz,,,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,727.0,ABC Jazz,,,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,759.0,ABC Jazz,,,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,743.0,ABC Jazz,,,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,695.0,ABC Jazz,,,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,711.0,ABC Jazz,,,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,680.0,ABC Kids listen,,,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,728.0,ABC Kids listen,,,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,760.0,ABC Kids listen,,,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,744.0,ABC Kids listen,,,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,696.0,ABC Kids listen,,,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,712.0,ABC Kids listen,,,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,680.0,ABC Kids listen,,,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,728.0,ABC Kids listen,,,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,760.0,ABC Kids listen,,,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,744.0,ABC Kids listen,,,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,696.0,ABC Kids listen,,,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,712.0,ABC Kids listen,,,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,682.0,ABC Triple J Unearthed,,,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,730.0,ABC Triple J Unearthed,,,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,762.0,ABC Triple J Unearthed,,,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,746.0,ABC Triple J Unearthed,,,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,698.0,ABC Triple J Unearthed,,,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,714.0,ABC Triple J Unearthed,,,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,682.0,ABC Triple J Unearthed,,,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,730.0,ABC Triple J Unearthed,,,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,762.0,ABC Triple J Unearthed,,,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,746.0,ABC Triple J Unearthed,,,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,698.0,ABC Triple J Unearthed,,,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,714.0,ABC Triple J Unearthed,,,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,684.0,ABC Country,,,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,732.0,ABC Country,,,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,764.0,ABC Country,,,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,748.0,ABC Country,,,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,700.0,ABC Country,,,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,716.0,ABC Country,,,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,684.0,ABC Country,,,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,732.0,ABC Country,,,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,764.0,ABC Country,,,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,748.0,ABC Country,,,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,700.0,ABC Country,,,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,716.0,ABC Country,,,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,686.0,ABC Radio National NSW,,,,,False,ABC NSW,121,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,734.0,ABC Radio National NSW,,,,,False,ABC NSW,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,766.0,ABC Radio National NSW,,,,,False,ABC NSW,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,750.0,ABC Radio National NSW,,,,,False,ABC NSW,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,702.0,ABC Radio National NSW,,,,,False,ABC NSW,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,718.0,ABC Radio National NSW,,,,,False,ABC NSW,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,686.0,ABC Radio National NSW,,,,,False,ABC NSW,121,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,734.0,ABC Radio National NSW,,,,,False,ABC NSW,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,766.0,ABC Radio National NSW,,,,,False,ABC NSW,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,750.0,ABC Radio National NSW,,,,,False,ABC NSW,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,702.0,ABC Radio National NSW,,,,,False,ABC NSW,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,718.0,ABC Radio National NSW,,,,,False,ABC NSW,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,,ABC SA,,,,https://www.lyngsat.com/providers/au/ABC-SA.html,True,ABC SA,122,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC SA,,,,https://www.lyngsat.com/providers/au/ABC-SA.html,True,ABC SA,122,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC SA,,,,https://www.lyngsat.com/providers/au/ABC-SA.html,True,ABC SA,122,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC SA,,,,https://www.lyngsat.com/providers/au/ABC-SA.html,True,ABC SA,122,,DVB-S2,,12658 H
+12470 Htp 12NB,721.0,ABC TV SA,MPEG-2/SD,512.0,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,725.0,ABC TV SA,MPEG-4/HD,515.0,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,721.0,ABC TV SA,MPEG-2/SD,512.0,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,725.0,ABC TV SA,MPEG-4/HD,515.0,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,722.0,ABC Kids SA (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,722.0,ABC Kids SA (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,722.0,ABC TV Plus SA (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,722.0,ABC TV Plus SA (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,724.0,ABC Me SA,MPEG-2/SD,514.0,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,724.0,ABC Me SA,MPEG-2/SD,514.0,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,733.0,ABC Radio Adelaide,,,,,False,ABC SA,122,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,733.0,ABC Radio Adelaide,,,,,False,ABC SA,122,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,,ABC NT,,,,https://www.lyngsat.com/providers/au/ABC-NT.html,True,ABC NT,123,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC NT,,,,https://www.lyngsat.com/providers/au/ABC-NT.html,True,ABC NT,123,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC NT,,,,https://www.lyngsat.com/providers/au/ABC-NT.html,True,ABC NT,123,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC NT,,,,https://www.lyngsat.com/providers/au/ABC-NT.html,True,ABC NT,123,,DVB-S2,,12658 H
+12470 Htp 12NB,753.0,ABC TV NT,MPEG-2/SD,512.0,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,757.0,ABC TV NT,MPEG-4/HD,515.0,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,753.0,ABC TV NT,MPEG-2/SD,512.0,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,757.0,ABC TV NT,MPEG-4/HD,515.0,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,754.0,ABC Kids NT (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,754.0,ABC Kids NT (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,754.0,ABC TV Plus NT (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,754.0,ABC TV Plus NT (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,756.0,ABC Me NT,MPEG-2/SD,514.0,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,756.0,ABC Me NT,MPEG-2/SD,514.0,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,765.0,ABC Radio Darwin,,,,,False,ABC NT,123,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,765.0,ABC Radio Darwin,,,,,False,ABC NT,123,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,,ABC WA,,,,https://www.lyngsat.com/providers/au/ABC-WA.html,True,ABC WA,124,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC WA,,,,https://www.lyngsat.com/providers/au/ABC-WA.html,True,ABC WA,124,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC WA,,,,https://www.lyngsat.com/providers/au/ABC-WA.html,True,ABC WA,124,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC WA,,,,https://www.lyngsat.com/providers/au/ABC-WA.html,True,ABC WA,124,,DVB-S2,,12658 H
+12470 Htp 12NB,737.0,ABC TV WA,MPEG-2/SD,512.0,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,741.0,ABC TV WA,MPEG-4/HD,515.0,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,737.0,ABC TV WA,MPEG-2/SD,512.0,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,741.0,ABC TV WA,MPEG-4/HD,515.0,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,738.0,ABC Kids WA (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,738.0,ABC Kids WA (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,738.0,ABC TV Plus WA (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,738.0,ABC TV Plus WA (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,740.0,ABC Me WA,MPEG-2/SD,514.0,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,740.0,ABC Me WA,MPEG-2/SD,514.0,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,749.0,ABC Radio Perth,,,,,False,ABC WA,124,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,749.0,ABC Radio Perth,,,,,False,ABC WA,124,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,,ABC Victoria,,,,https://www.lyngsat.com/providers/au/ABC-Victoria.html,True,ABC Victoria,125,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC Victoria,,,,https://www.lyngsat.com/providers/au/ABC-Victoria.html,True,ABC Victoria,125,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC Victoria,,,,https://www.lyngsat.com/providers/au/ABC-Victoria.html,True,ABC Victoria,125,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC Victoria,,,,https://www.lyngsat.com/providers/au/ABC-Victoria.html,True,ABC Victoria,125,,DVB-S2,,12658 H
+12470 Htp 12NB,689.0,ABC TV Victoria,MPEG-2/SD,512.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,693.0,ABC TV Victoria,MPEG-4/HD,515.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,689.0,ABC TV Victoria,MPEG-2/SD,512.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,693.0,ABC TV Victoria,MPEG-4/HD,515.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,690.0,ABC Kids Victoria (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,690.0,ABC Kids Victoria (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,690.0,ABC TV Plus Victoria (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,690.0,ABC TV Plus Victoria (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,692.0,ABC Me Victoria,MPEG-2/SD,514.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,692.0,ABC Me Victoria,MPEG-2/SD,514.0,,,False,ABC Victoria,125,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,,ABC Queensland,,,,https://www.lyngsat.com/providers/au/ABC-Queensland.html,True,ABC Queensland,126,,DVB-S2,,12470 H
+12470 Htp 12NB,,ABC Queensland,,,,https://www.lyngsat.com/providers/au/ABC-Queensland.html,True,ABC Queensland,126,,DVB-S2,,12470 H
+12658 Htp 15NB,,ABC Queensland,,,,https://www.lyngsat.com/providers/au/ABC-Queensland.html,True,ABC Queensland,126,,DVB-S2,,12658 H
+12658 Htp 15NB,,ABC Queensland,,,,https://www.lyngsat.com/providers/au/ABC-Queensland.html,True,ABC Queensland,126,,DVB-S2,,12658 H
+12470 Htp 12NB,705.0,ABC TV Queensland,MPEG-2/SD,512.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12470 Htp 12NB,709.0,ABC TV Queensland,MPEG-4/HD,515.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,705.0,ABC TV Queensland,MPEG-2/SD,512.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12658 Htp 15NB,709.0,ABC TV Queensland,MPEG-4/HD,515.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,706.0,ABC Kids Queensland (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,706.0,ABC Kids Queensland (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,706.0,ABC TV Plus Queensland (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,706.0,ABC TV Plus Queensland (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,708.0,ABC Me Queensland,MPEG-2/SD,514.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,708.0,ABC Me Queensland,MPEG-2/SD,514.0,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12470 Htp 12NB,717.0,ABC Radio Brisbane,,,,,False,ABC Queensland,126,,DVB-S2,Eng,12470 H
+12658 Htp 15NB,717.0,ABC Radio Brisbane,,,,,False,ABC Queensland,126,,DVB-S2,Eng,12658 H
+12483 Htp NZ12UNZB,1025.0,Maori TV,MPEG-2/SD,514.0,,,False,ABC Queensland,3/4,22500,DVB-S2,,12483 H
+12483 Htp NZ12UNZB,1035.0,TVNZ 1 Auckland,MPEG-2/SD,515.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1036.0,TVNZ 2,MPEG-2/SD,516.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1037.0,TVNZ 1 Auckland +1,MPEG-2/SD,518.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1038.0,TVNZ 2 +1,MPEG-2/SD,512.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1908.0,TVNZ 1 Hamilton,MPEG-2/SD,519.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1909.0,TVNZ 1 Wellington,MPEG-2/SD,513.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12483 Htp NZ12UNZB,1910.0,TVNZ 1 Christchurch,MPEG-2/SD,517.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12483 H
+12519 Htp NZ13LNZB,1002.0,TVNZ Duke +1,MPEG-2/SD,1001.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12519 H
+12519 Htp NZ13LNZB,1227.0,Sky Open +1,MPEG-2/SD,1002.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12519 H
+12519 Htp NZ13LNZB,1510.0,Bravo New Zealand +1,MPEG-2/SD,1014.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12519 H
+12519 Htp NZ13LNZB,1511.0,Eden +1 (New Zealand),MPEG-2/SD,1016.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12519 H
+12519 Htp NZ13LNZB,1530.0,Sky Open,MPEG-2/SD,1013.0,,,False,ABC Queensland,3/4,22500,DVB-S2,Eng,12519 H
+12519 Htp NZ13LNZB,1105.0,Tahu FM,,,,,False,ABC Queensland,3/4,22500,DVB-S2,,12519 H
+12532 Htp 13NB,,SBS Victoria,,,,https://www.lyngsat.com/providers/au/SBS-Victoria.html,True,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Victoria,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-Victoria.html,True,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Victoria,,161.0,,https://www.lyngsat.com/providers/au/SBS-Victoria.html,True,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland Victoria,/HD,162.0,,,False,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food Victoria,,163.0,,,False,SBS Victoria,131,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,131,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,132,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,133,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,134,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,135,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,NITV,,164.0,,,False,SBS Victoria,136,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,888.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,936.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,132,,DVB-S2,,12532 H
+12532 Htp 13NB,904.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,133,,DVB-S2,,12532 H
+12532 Htp 13NB,856.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,134,,DVB-S2,,12532 H
+12532 Htp 13NB,952.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,135,,DVB-S2,,12532 H
+12532 Htp 13NB,920.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS Victoria,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 1 Victoria,,,,,False,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 Victoria,,,,,False,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,131,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 3,,,,,False,SBS Victoria,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS WA,,,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS WA,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS WA,,161.0,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland WA,/HD,162.0,,,False,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food WA,,163.0,,,False,SBS WA,132,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,SBS Radio 1 WA,,,,,False,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 WA,,,,,False,SBS WA,132,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Tasmania,,,,https://www.lyngsat.com/providers/au/SBS-Tasmania.html,True,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Tasmania,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-Tasmania.html,True,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Tasmania,,161.0,,https://www.lyngsat.com/providers/au/SBS-Tasmania.html,True,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland Tasmania,/HD,162.0,,,False,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food Tasmania,,163.0,,,False,SBS Tasmania,133,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,SBS Radio 1 Tasmania,,,,,False,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 Tasmania,,,,,False,SBS Tasmania,133,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS NSW,,,,https://www.lyngsat.com/providers/au/SBS-NSW.html,True,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS NSW,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-NSW.html,True,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS NSW,,161.0,,https://www.lyngsat.com/providers/au/SBS-NSW.html,True,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland NSW,/HD,162.0,,,False,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food NSW,,163.0,,,False,SBS NSW,134,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,SBS Radio 1 NSW,,,,,False,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 NSW,,,,,False,SBS NSW,134,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Queensland,,,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Queensland,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Queensland,,161.0,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland Queensland,/HD,162.0,,,False,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food Queensland,,163.0,,,False,SBS Queensland,135,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,SBS Radio 1 Queensland,,,,,False,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 Queensland,,,,,False,SBS Queensland,135,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS SA,,,,https://www.lyngsat.com/providers/au/SBS-SA.html,True,SBS SA,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS SA,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-SA.html,True,SBS SA,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS SA,,161.0,,https://www.lyngsat.com/providers/au/SBS-SA.html,True,SBS SA,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Viceland SA,/HD,162.0,,,False,SBS SA,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Food SA,,163.0,,,False,SBS SA,136,,DVB-S2,Eng,12532 H
+12532 Htp 13NB,,SBS Radio 1 SA,,,,,False,SBS SA,136,,DVB-S2,,12532 H
+12532 Htp 13NB,,SBS Radio 2 SA,,,,,False,SBS SA,136,,DVB-S2,,12532 H

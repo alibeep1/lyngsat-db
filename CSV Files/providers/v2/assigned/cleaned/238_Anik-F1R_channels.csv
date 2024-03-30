@@ -1,0 +1,22 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3927 Vtp 6BNorth America C,,(APTN feeds),,,,,False,,3/4,7500,DVB-S7,,3927 V
+4120 Htp 11ASouth America C,,CruiseSat,1-1,,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html,True,CruiseSat,3/4,22000,DVB-S2,,4120 H
+4120 Htp 11ASouth America C,10.0,TCM US,HEVC/HD,110.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,11.0,Cartoon Network Canada East,HEVC/HD,910.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,12.0,CBS News,HEVC/SD,481.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,13.0,HGTV East,HEVC/HD,1001.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,14.0,Food Network East,HEVC/HD,38.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,15.0,Travel Channel East,HEVC/HD,52.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,16.0,Discovery Channel East,HEVC/HD,49.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,17.0,Nickelodeon East,HEVC/HD,63.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,21.0,ESPNU,HEVC/HD,7680.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,22.0,ESPN US,HEVC/HD,55.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,210.0,ESPN US,HEVC/HD,400.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,23.0,ESPN 2 US,HEVC/HD,48.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,211.0,ESPN 2 US,HEVC/HD,72.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,24.0,SEC Network,HEVC/HD,43.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,25.0,CNN USA,HEVC/HD,710.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng,4120 H
+4120 Htp 11ASouth America C,300.0,Rai Italia Nord America,HEVC/HD,811.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Ita,4120 H
+4120 Htp 11ASouth America C,301.0,RTL Deutschland,HEVC/HD,105.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Ger,4120 H
+4120 Htp 11ASouth America C,350.0,TVE Internacional América,HEVC/HD,3304.0,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Spa,4120 H
+4164 Vtp 12BNorth America C0,1.0,Legislative Assembly TV Nunavut,?-?MPEG-2/SD,100.0,,,False,CruiseSat,1/2,1936,DVB-S1,Eng,4164 V

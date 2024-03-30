@@ -1,0 +1,52 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,Provider_URL
+4010 Htp 15North America,DVB-S28PSK144008/9,,MASN,,,,10.7,PowerVu,Mike 4230108,https://www.lyngsat.com/providers/us/MASN.html
+4010 Htp 15North America,DVB-S28PSK144008/9,100,MASN Baltimore,,MPEG-4/HD,100,101 Eng,PowerVu,,
+4010 Htp 15North America,DVB-S28PSK144008/9,110,MASN Washington,,MPEG-4/HD,110,111 Eng,PowerVu,,
+4010 Htp 15North America,DVB-S28PSK144008/9,120,MASN 2 Baltimore,,MPEG-4/HD,120,121 Eng,PowerVu,,
+4010 Htp 15North America,DVB-S28PSK144008/9,130,MASN 2 Washington,,MPEG-4/HD,130,131 Eng,PowerVu,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,,Fox Corporation,,,,7.9,Irdeto,T Bohnet220728,https://www.lyngsat.com/providers/us/Fox-Corporation.html
+4020 Vtp 16North America,DVB-S28PSK312503/4,551,Fox News Channel,,HEVC/HD,101,102 Eng 103 Spa,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,552,FS1,,HEVC/HD,201,202 Eng 203 Spa,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,553,FS2,,HEVC/HD,301,302 Eng 303 Spa,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,554,Fox Business,,HEVC/HD,401,402 Eng,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,555,Fox Deportes,,HEVC/HD,501,502 Eng 503 Spa,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,556,FS1 Alternate,,HEVC/HD,601,602 Eng 603 Spa,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,561,(Fox Business feeds),,,1101,1102 Eng,Irdeto,,
+4020 Vtp 16North America,DVB-S28PSK312503/4,562,Fox Sports Racing,,HEVC/HD,1201,1202 Eng1203 Spa,Irdeto,,
+4020 Vtp 16North America,4030 Htp 17North America,DVB-S28PSK150005/6,,,,,,9.4,,ML240227
+4020 Vtp 16North America,4030 Htp 17North America,101,Root Sports Northwest,,MPEG-4/HD,1011,1012 Eng1013 Spa,Nagravision,,
+4020 Vtp 16North America,4030 Htp 17North America,104,Root Sports Northwest Alternate,,MPEG-4/HD,1041,1042 Eng,Nagravision,,
+4020 Vtp 16North America,4030 Htp 17North America,107,AT&T SportsNet Southwest,,MPEG-4/HD,1071,1072 Eng1073 Spa,,,
+4020 Vtp 16North America,4030 Htp 17North America,108,AT&T SportsNet Southwest Alternate,,MPEG-4/HD,1081,1082 Eng,,,
+4020 Vtp 16North America,4030 Htp 17North America,111,Root Sports Northwest Plus,,MPEG-4/HD,1111,1112 Eng,Nagravision,,
+4051 Vtp 18North America,DVB-S133337/8,,NHL Network,,,,7.2,PowerVu,Mike 4221009,https://www.lyngsat.com/providers/us/NHL-Network.html
+4051 Vtp 18North America,DVB-S133337/8,7,NHL Network,,MPEG-4/HD,710,700 Eng 702 Spa,PowerVu,,
+4051 Vtp 18North America,DVB-S133337/8,8,NHL Network Alternate,,MPEG-4/HD,810,800 Eng 802 Spa,PowerVu,,
+4051 Vtp 18North America,4062 Vtp 18North America,DVB-S32553/4,1,Jewelry TV,,?-?MPEG-4/SD,4130,5.54131 Eng4133 Eng,,Mike 4230116
+4051 Vtp 18North America,4066 Htp 19North America,DVB-S66201/2,?,The Word Network,,?-1MPEG-4/SD,1160,2.71130 Eng,,J Nation210418
+4051 Vtp 18North America,4068 Vtp 18North America,DVB-S28PSK42502/3,1,BYU TV,,?-?MPEG-4/HD,81,6.6  84 Eng  85 Spa,,M Grover221115
+4051 Vtp 18North America,4068 Vtp 18North America,2,BYU Radio,,,,153 Eng,,,
+4074 Vtp 18North America,DVB-S28PSK56003/4,,TCT,,65535-1,,7.9,,ML231027,https://www.lyngsat.com/providers/us/TCT.html
+4074 Vtp 18North America,DVB-S28PSK56003/4,1,TCT,,MPEG-4/HD,49,52 Eng,,,
+4074 Vtp 18North America,DVB-S28PSK56003/4,2,TCT,,MPEG-4/SD,81,84 Eng,,,
+4074 Vtp 18North America,DVB-S28PSK56003/4,4,SBN Domestic,,MPEG-4/SD,97,100 Eng,,,
+4084 Htp 19North America,DVB-S28PSK216005/6,,The CW Plus,,,,9.4,Verimatrix,Mike 4230615,https://www.lyngsat.com/providers/us/The-CW-Plus.html
+4084 Htp 19North America,DVB-S28PSK216005/6,1,The CW Plus East,,MPEG-4/HD,257,258 Eng,Verimatrix,,
+4084 Htp 19North America,DVB-S28PSK216005/6,2,The CW Plus Central,,MPEG-4/HD,513,514 Eng,Verimatrix,,
+4084 Htp 19North America,DVB-S28PSK216005/6,3,The CW Plus Mountain,,MPEG-4/HD,769,770 Eng,Verimatrix,,
+4084 Htp 19North America,DVB-S28PSK216005/6,4,The CW Plus Pacific,,MPEG-4/HD,1025,1026 Eng,Verimatrix,,
+4084 Htp 19North America,DVB-S28PSK216005/6,6,The CW,,MPEG-4/HD,1537,1538 Eng,,,
+4084 Htp 19North America,4100 Vtp 20North America,DVB-S28PSK312503/4,,(Fox feeds),,,,,,Mike 4230116
+4142 Vtp 22North America,DVB-S28PSK183335/6,,Roberts Communications Network,,,,9.4,Digicipher,Mike 4230124,https://www.lyngsat.com/providers/us/Roberts-Communications-Network.html
+4142 Vtp 22North America,DVB-S28PSK183335/6,1,Gem Shopping Network,,MPEG-2/SD,101,102 Eng,Digicipher,,
+4142 Vtp 22North America,DVB-S28PSK183335/6,2,FanDuel Racing,,MPEG-2/SD,513,514 Eng,Digicipher,,
+4142 Vtp 22North America,DVB-S28PSK183335/6,3,FanDuel TV,,MPEG-4/HD,1281,1282 Eng,Digicipher,,
+4142 Vtp 22North America,DVB-S28PSK183335/6,4,FanDuel TV,,MPEG-2/SD,1025,1026 Eng,Digicipher,,
+4142 Vtp 22North America,DVB-S28PSK183335/6,5,Gem Shopping Network,,MPEG-4/HD,257,258 Eng,Digicipher,,
+4142 Vtp 22North America,4156 Vtp 22North America,DVB-S24803/4,1,KLUZ-TV (Univisión - Albuquerque),,?-?MPEG-2/SD,3601,5.53604,,Mike 4230108
+4142 Vtp 22North America,4160 Htp 23North America,DVB-S28PSK300005/6,,,,,,9.4,PowerVu,Mike 4230207
+4142 Vtp 22North America,4160 Htp 23North America,1,Altitude Sports,,MPEG-4/HD,100,110 Eng,PowerVu,,
+4142 Vtp 22North America,4160 Htp 23North America,2,Altitude 2,,MPEG-4/HD,200,210 Eng,PowerVu,,
+4142 Vtp 22North America,4160 Htp 23North America,3,World Fishing Network,,MPEG-4/HD,300,310 Eng,PowerVu,,
+4142 Vtp 22North America,4160 Htp 23North America,4,Outdoor Channel,,MPEG-4/HD,400,410 Eng,PowerVu,,
+4142 Vtp 22North America,4160 Htp 23North America,5,Sportsman Channel,,MPEG-4/HD,500,510 Eng,PowerVu,,

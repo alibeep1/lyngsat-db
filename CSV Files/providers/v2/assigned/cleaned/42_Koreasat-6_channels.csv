@@ -1,0 +1,63 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11747 Ltp 2Ku0,,SkyLife,173-10,,Nagravision,,False,,5/6,23800,DVB-S2,,11747 L
+11785 Ltp 4Ku0,,SkyLife,173-1,,NagravisionVideoguard,,False,,800,23,DVB-S2,,11785 L
+11823 Ltp 6Ku0,,SkyLife,173-2,,NagravisionVideoguard,,False,,5/6,23800,DVB-S2,,11823 L
+11862 Ltp 8Ku0,,SkyLife,173-3,,NagravisionVideoguard,,False,,5/6,23800,DVB-S2,,11862 L
+11900 Ltp 10Ku0,,SkyLife,173-4,,NagravisionVideoguard,,False,,3/4,23800,DVB-S2,,11900 L
+11938 Ltp 12Ku0,,SkyLife,173-5,,Nagravision,,False,,5/6,23800,DVB-S2,,11938 L
+12290 Htp CS2Ku0,,SkyLife,173-16,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12290 H
+12330 Htp CS4Ku0,,SkyLife,173-13,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12330 H
+12370 Htp CS6Ku0,,SkyLife,173-18,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12370 H
+12410 Htp CS8Ku0,,SkyLife,173-6,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12410 H
+12450 Htp CS10Ku0,,SkyLife,173-7,,NagravisionVideoguard,,False,,3/4,27489,DVB-S2,,12450 H
+12490 Htp CS12Ku0,,SkyLife,173-8,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12490 H
+12530 Htp CS14Ku0,,SkyLife,173-9,,NagravisionVideoguard,,False,,3/4,27489,DVB-S2,,12530 H
+12570 Htp CS16Ku0,,SkyLife,173-11,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12570 H
+12610 Htp CS18Ku0,,SkyLife,,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12610 H
+12650 Htp CS20Ku0,,SkyLife,173-15,,Nagravision,,False,,3/4,29500,DVB-S2,,12650 H
+12690 Htp CS22Ku0,,SkyLife,173-17,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12690 H
+12730 Htp CS24Ku0,,SkyLife,173-12,,NagravisionVideoguard,,False,,3/4,29500,DVB-S2,,12730 H
+11900 Ltp 10Ku0,403.0,KBS 1 TV,MPEG-4/HD,1072.0,,,False,,3/4,23800,DVB-S2,Kor,11900 L
+12523 Vtp CS13Ku0,1.0,KBS 1 TV,MPEG-4/HD,101.0,,,False,,5/6,7900,DVB-S2,Kor,12523 V
+12670 Vtp CS21Ku0,10.0,KBS 1 TV,MPEG-2/SD,1391.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12670 V
+11938 Ltp 12Ku0,521.0,Latest popular song,,,,,False,,5/6,23800,DVB-S2,Kor,11938 L
+11938 Ltp 12Ku0,522.0,Is it popular?,,,,,False,,5/6,23800,DVB-S2,Kor,11938 L
+11938 Ltp 12Ku0,523.0,Old Pop Song of Memories,,,,,False,,5/6,23800,DVB-S2,Eng,11938 L
+11938 Ltp 12Ku0,524.0,EQ songs with mom,,,,,False,,5/6,23800,DVB-S2,Kor,11938 L
+12390 Vtp CS7Ku0,,,4369-1,,Codicrypt,,False,,7/8,26700,DVB-S2,,12390 V
+12670 Vtp CS21Ku0,,,4369-1,,Codicrypt,,False,,7/8,26700,DVB-S2,,12670 V
+12390 Vtp CS7Ku0,508.0,Ch W,MPEG-2/SD,1871.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,801.0,JEI Talent TV,MPEG-2/SD,784.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,803.0,MTN,MPEG-2/SD,912.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,805.0,JTBC Golf,MPEG-2/SD,1040.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,806.0,Arirang Korea,MPEG-2/SD,1168.0,Codicrypt,,False,,7/8,26700,DVB-S2,Eng,12390 V
+12390 Vtp CS7Ku0,807.0,K Shopping,MPEG-2/SD,1232.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,808.0,SBS Plus,MPEG-2/SD,1296.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12390 Vtp CS7Ku0,809.0,SBS Biz,MPEG-2/SD,1360.0,Codicrypt,,False,,7/8,26700,DVB-S2,Kor,12390 V
+12406 Vtp CS7Ku0,,MBN,MPEG-4/SD,308.0,,,False,,400,2,DVB-S2,Kor,12406 V
+12467 Vtp CS11Ku,,(feeds),,,,,False,,3/4,12300,DVB-S2,,12467 V
+12506 Vtp CS13Ku,,(feeds),,,,,False,,3/4,3515,DVB-S3,,12506 V
+12511 Vtp CS13Ku,,(feeds),,,,,False,,3/4,3515,DVB-S3,,12511 V
+12517 Vtp CS13Ku,,(feeds),,,,,False,,3/4,3515,DVB-S3,,12517 V
+12695 Vtp CS23Ku,,(feeds),,,,,False,,3/4,3515,DVB-S3,,12695 V
+12706 Vtp CS23Ku,,(feeds),,,,,False,,3/4,6000,DVB-S6,,12706 V
+12724 Vtp CS23Ku,,(feeds),,,,,False,,3/4,5330,DVB-S2,,12724 V
+12498 Vtp CS13Ku0,1.0,Kkachi TV,?-?MPEG-2/SD,1001.0,,,False,,7/8,8866,DVB-S8,Eng,12498 V
+12523 Vtp CS13Ku0,,KBS,4369-1,,,https://www.lyngsat.com/providers/kr/KBS.html,True,KBS,5/6,7900,DVB-S2,,12523 V
+12523 Vtp CS13Ku0,2.0,KBS 2 TV,MPEG-4/HD,201.0,,,False,KBS,5/6,7900,DVB-S2,Kor,12523 V
+12523 Vtp CS13Ku0,1.0,KBS 1 Radio,,,,,False,KBS,5/6,7900,DVB-S2,Kor,12523 V
+12523 Vtp CS13Ku0,1.0,KBS Classic FM,,,,,False,KBS,5/6,7900,DVB-S2,Kor,12523 V
+12523 Vtp CS13Ku0,2.0,KBS Happy FM,,,,,False,KBS,5/6,7900,DVB-S2,Kor,12523 V
+12523 Vtp CS13Ku0,2.0,KBS 3 Radio,,,,,False,KBS,5/6,7900,DVB-S2,Kor,12523 V
+12545 Vtp CS15Ku0,1.0,SBS (South Korea),?-?MPEG-4/HD,33.0,,,False,KBS,5/6,2500,DVB-S2,Kor,12545 V
+12560 Vtp CS15Ku0,1.0,MBC (South Korea),8192-4096MPEG-4/HD,513.0,,,False,KBS,3/4,3818,DVB-S2,Kor,12560 V
+12560 Vtp CS15Ku0,1.0,MBC Standard FM,,,,,False,KBS,3/4,3818,DVB-S2,Kor,12560 V
+12560 Vtp CS15Ku0,1.0,MBC FM4U,,,,,False,KBS,3/4,3818,DVB-S2,Kor,12560 V
+12670 Vtp CS21Ku0,1.0,Ching,MPEG-2/SD,1301.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Chi,12670 V
+12670 Vtp CS21Ku0,2.0,ENA Story,MPEG-2/SD,1311.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V
+12670 Vtp CS21Ku0,3.0,Indie Film,MPEG-2/SD,1321.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V
+12670 Vtp CS21Ku0,4.0,Baduk TV,MPEG-2/SD,1331.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V
+12670 Vtp CS21Ku0,5.0,China TV,MPEG-2/SD,1341.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Chi,12670 V
+12670 Vtp CS21Ku0,6.0,Fashion N,MPEG-2/SD,1351.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V
+12670 Vtp CS21Ku0,7.0,Screen,MPEG-2/SD,1361.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V
+12670 Vtp CS21Ku0,8.0,View,MPEG-2/SD,1371.0,Codicrypt,,False,KBS,7/8,26700,DVB-S2,Kor,12670 V

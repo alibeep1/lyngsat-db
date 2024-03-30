@@ -1,0 +1,300 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3706 Htp 2CWest hemi,,(feeds),,,,,False,,3/4,27500,DVB-S2,,3706 H
+3736 Htp 2CWest hemi,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3736 H
+3808 Htp 6CWest hemi,,(feeds),,,,,False,,3/4,26000,DVB-S2,,3808 H
+3812 Htp 6CWest hemi,,(feeds),,,,,False,,3/4,2000,DVB-S2,,3812 H
+3817 Htp 6CWest hemi,,(feeds),,,,,False,,3/4,2000,DVB-S2,,3817 H
+4000 Vtp 15CWest hemi0,,(feeds),,225.0,Digicipher,,False,,5/6,30000,DVB-S2,,4000 V
+4000 Vtp 15CWest hemi0,,(feeds),,241.0,Digicipher,,False,,5/6,30000,DVB-S2,,4000 V
+4080 Vtp 19CWest hemi0,1001.0,(feeds),,1000.0,Irdeto,,False,,5/6,30000,DVB-S2,,4080 V
+3720 Vtp 1CWest hemi0,,,1-301,,PowerVu,,False,,8/9,30000,DVB-S2,,3720 V
+3760 Htp 4CWest hemi0,,,,,Digicipher,,False,,5/6,30000,DVB-S2,,3760 H
+3791 Htp 6CWest hemi0,,,,,,,False,,,,,,3791 H
+3798 Htp 6CWest hemi0,,,,,,,False,,,,,,3798 H
+3924 Vtp 11CWest hemi0,,,,,,,False,,,,,,3924 V
+3952 Htp 14CWest hemi0,,,,,,,False,,,,,,3952 H
+3963 Htp 14CWest hemi0,,,,,,,False,,,,,,3963 H
+4000 Vtp 15CWest hemi0,,,?-4,,Digicipher,,False,,5/6,30000,DVB-S2,,4000 V
+4040 Htp 18CWest hemi0,,,1-101,,PowerVu,,False,,5/6,30000,DVB-S2,,4040 H
+4080 Vtp 19CWest hemi0,,,5003-102,,,,False,,5/6,30000,DVB-S2,,4080 V
+3720 Vtp 1CWest hemi0,121.0,Cinecanal Oeste,MPEG-4/HD,1120.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa,3720 V
+3720 Vtp 1CWest hemi0,122.0,Star Channel Brasil,MPEG-4/HD,1110.0,PowerVu,,False,,8/9,30000,DVB-S2,Por,3720 V
+3720 Vtp 1CWest hemi0,123.0,Cinecanal Brasil,MPEG-4/HD,4130.0,PowerVu,,False,,8/9,30000,DVB-S2,Por,3720 V
+3720 Vtp 1CWest hemi0,124.0,FX Brasil,MPEG-4/HD,1230.0,PowerVu,,False,,8/9,30000,DVB-S2,Por,3720 V
+3720 Vtp 1CWest hemi0,125.0,National Geographic Brasil,MPEG-4/HD,4930.0,PowerVu,,False,,8/9,30000,DVB-S2,Por,3720 V
+3720 Vtp 1CWest hemi0,300.0,Baby TV Latin America,MPEG-4/SD,3260.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Por Spa Por,3720 V
+3720 Vtp 1CWest hemi0,370.0,Disney Channel México,MPEG-4/HD,1240.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3720 Vtp 1CWest hemi0,520.0,Disney Junior México,MPEG-4/HD,3560.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3720 Vtp 1CWest hemi0,530.0,FX Norte,MPEG-4/HD,3660.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3720 Vtp 1CWest hemi0,540.0,Star Channel México,MPEG-4/HD,4910.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3720 Vtp 1CWest hemi0,550.0,National Geographic México,MPEG-4/HD,4920.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3720 Vtp 1CWest hemi0,570.0,FX Chile,MPEG-4/HD,4940.0,PowerVu,,False,,8/9,30000,DVB-S2,Spa Eng,3720 V
+3760 Vtp 3CWest hemi0,,Turner,1-101,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,7/8,27690,DVB-S2,,3760 V
+3760 Vtp 3CWest hemi0,,Turner,1-101,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,7/8,27690,DVB-S2,,3760 V
+3920 Htp 12CWest hemi0,,Turner,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,/10,00009,DVB-S2,,3920 H
+3920 Htp 12CWest hemi0,,Turner,1-201,,PowerVu,https://www.lyngsat.com/providers/us/Turner.html,True,Turner,/10,00009,DVB-S2,,3920 H
+3760 Vtp 3CWest hemi0,4.0,Much Argentina,MPEG-2/SD,410.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Spa Spa,3760 V
+3760 Vtp 3CWest hemi0,9.0,I-Sat,MPEG-2/SD,910.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Spa Spa Eng,3760 V
+3760 Vtp 3CWest hemi0,30.0,Glitz Latinoamérica,MPEG-2/SD,110.0,,,False,Turner,7/8,27690,DVB-S2,Spa,3760 V
+3760 Vtp 3CWest hemi0,87.0,Glitz Latinoamérica,MPEG-2/SD,1310.0,,,False,Turner,7/8,27690,DVB-S2,Spa,3760 V
+3760 Vtp 3CWest hemi0,84.0,I-Sat Brasil,MPEG-2/SD,710.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Por Eng Por Eng,3760 V
+3760 Vtp 3CWest hemi0,190.0,TCM América Latina,MPEG-2/SD,1110.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Spa Eng,3760 V
+3760 Vtp 3CWest hemi0,192.0,TCM Argentina,MPEG-2/SD,210.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Spa Eng Spa,3760 V
+3760 Vtp 3CWest hemi0,253.0,Tooncast,MPEG-2/SD,1610.0,PowerVu,,False,Turner,7/8,27690,DVB-S2,Spa Spa Eng,3760 V
+3760 Htp 4CWest hemi0,1.0,IVC Internacional,MPEG-4/HD,17.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+4000 Vtp 15CWest hemi0,7.0,IVC Internacional,MPEG-4/HD,161.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+3760 Htp 4CWest hemi0,3.0,History Latinoamérica,MPEG-4/HD,49.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+4000 Vtp 15CWest hemi0,2.0,History Latinoamérica,MPEG-4/HD,81.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+4040 Vtp 17CWest hemi0,2.0,History Latinoamérica,MPEG-4/HD,81.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,8.0,History Latinoamérica,MPEG-4/HD,177.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+3760 Htp 4CWest hemi0,9.0,A&E Latinoamérica,MPEG-4/HD,145.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+4000 Vtp 15CWest hemi0,1.0,A&E Latinoamérica,MPEG-4/HD,65.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+4040 Vtp 17CWest hemi0,1.0,A&E Latinoamérica,MPEG-4/HD,65.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,7.0,A&E Latinoamérica,MPEG-4/HD,161.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+3760 Htp 4CWest hemi0,10.0,Warner Channel México,MPEG-4/HD,161.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+3760 Htp 4CWest hemi0,11.0,AXN Latinoamérica,MPEG-4/HD,177.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+4000 Vtp 15CWest hemi0,4.0,AXN Latinoamérica,MPEG-4/HD,113.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+4040 Vtp 17CWest hemi0,4.0,AXN Latinoamérica,MPEG-4/HD,113.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,10.0,AXN Latinoamérica,MPEG-4/HD,209.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,4040 V
+3760 Htp 4CWest hemi0,12.0,Sony Channel Centro,MPEG-4/HD,193.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+3760 Htp 4CWest hemi0,13.0,E! Latinoamérica,MPEG-4/HD,209.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,3760 H
+3760 Htp 4CWest hemi0,14.0,Lifetime Latinoamérica,MPEG-4/HD,225.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,3760 H
+4000 Vtp 15CWest hemi0,9.0,Lifetime Latinoamérica,MPEG-4/HD,193.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+3760 Htp 4CWest hemi0,16.0,Telemundo Internacional,MPEG-4/HD,257.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa,3760 H
+3760 Htp 4CWest hemi0,17.0,A&E Chile,MPEG-4/HD,273.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+3760 Htp 4CWest hemi0,18.0,History Atlántico Sur,MPEG-4/HD,289.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,3760 H
+3760 Htp 4CWest hemi0,25.0,History 2 Latinoamérica,MPEG-4/HD,401.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Spa Eng,3760 H
+4000 Vtp 15CWest hemi0,8.0,History 2 Latinoamérica,MPEG-4/HD,177.0,Digicipher,,False,Turner,5/6,30000,DVB-S2,Eng Spa,4000 V
+3789 Htp 6CWest hemi0,,Caracol TV,?-20,,ConaxDirector,https://www.lyngsat.com/providers/co/Caracol-TV.html,True,Caracol TV,8/9,5825,DVB-S2,,3789 H
+3789 Htp 6CWest hemi0,2.0,Caracol TV,MPEG-4/SD,201.0,,https://www.lyngsat.com/providers/co/Caracol-TV.html,True,Caracol TV,8/9,5825,DVB-S2,Spa,3789 H
+3894 Htp 10CWest hemi0,1.0,Caracol TV,?-?MPEG-4/HD,201.0,Director,https://www.lyngsat.com/providers/co/Caracol-TV.html,True,Caracol TV,P 0,,DVB-S2,Spa,3894 H
+3789 Htp 6CWest hemi0,1.0,Caracol TV Internacional,MPEG-4/HD,100.0,Conax,,False,Caracol TV,8/9,5825,DVB-S2,Spa,3789 H
+3885 Htp 10CWest hemi0,1.0,Caracol TV Internacional,?-?/HD,4096.0,Conax,,False,Caracol TV,5/6,3750,DVB-S2,Spa,3885 H
+3789 Htp 6CWest hemi0,3.0,Caracol TV Alterno,MPEG-4/SD,700.0,Director,,False,Caracol TV,8/9,5825,DVB-S2,Spa,3789 H
+3790 Vtp 4CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,13463,DVB-S2,,3790 V
+3790 Vtp 4CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,13463,DVB-S2,,3790 V
+3790 Vtp 4CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,13463,DVB-S2,,3790 V
+3809 Vtp 5CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,16760,DVB-S2,,3809 V
+3809 Vtp 5CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,16760,DVB-S2,,3809 V
+3809 Vtp 5CWest hemi0,,ESPN,,,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,16760,DVB-S2,,3809 V
+3910 Vtp 11CWest hemi0,,ESPN,,,PowerVu,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,15000,DVB-S2,,3910 V
+3910 Vtp 11CWest hemi0,,ESPN,,,PowerVu,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,15000,DVB-S2,,3910 V
+3910 Vtp 11CWest hemi0,,ESPN,,,PowerVu,https://www.lyngsat.com/providers/us/ESPN.html,True,ESPN,5/6,15000,DVB-S2,,3910 V
+3790 Vtp 4CWest hemi0,73.0,ESPN Caribbean,MPEG-4/HD,97.0,Digicipher,,False,ESPN,5/6,13463,DVB-S2,Spa Eng Spa Eng,3790 V
+3790 Vtp 4CWest hemi0,77.0,ESPN 2 Caribbean,MPEG-4/HD,161.0,Digicipher,,False,ESPN,5/6,13463,DVB-S2,Spa Eng Spa Eng,3790 V
+3790 Vtp 4CWest hemi0,78.0,(ESPN feeds),,177.0,Digicipher,,False,ESPN,5/6,13463,DVB-S2,,3790 V
+3790 Vtp 4CWest hemi0,79.0,(ESPN feeds),,193.0,Digicipher,,False,ESPN,5/6,13463,DVB-S2,,3790 V
+3809 Vtp 5CWest hemi0,75.0,(ESPN feeds),,129.0,Digicipher,,False,ESPN,5/6,16760,DVB-S2,,3809 V
+3809 Vtp 5CWest hemi0,71.0,ESPN 3 Norte,MPEG-4/HD,65.0,Digicipher,,False,ESPN,5/6,16760,DVB-S2,Spa Eng Spa Eng,3809 V
+3809 Vtp 5CWest hemi0,72.0,ESPN América Latina,MPEG-4/HD,81.0,Digicipher,,False,ESPN,5/6,16760,DVB-S2,Spa Eng Spa Eng,3809 V
+3809 Vtp 5CWest hemi0,74.0,ESPN Dos,MPEG-4/HD,113.0,Digicipher,,False,ESPN,5/6,16760,DVB-S2,Spa Eng Spa Eng,3809 V
+3809 Vtp 5CWest hemi0,76.0,ESPN Dos México,MPEG-4/HD,145.0,Digicipher,,False,ESPN,5/6,16760,DVB-S2,Spa Eng Spa Eng,3809 V
+3840 Vtp 7CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3840 V
+3840 Vtp 7CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3840 V
+3840 Vtp 7CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3840 V
+3840 Vtp 7CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3840 V
+3880 Vtp 9CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3880 V
+3880 Vtp 9CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3880 V
+3880 Vtp 9CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3880 V
+3880 Vtp 9CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3880 V
+3960 Vtp 13CWest hemi0,,Warner Bros. Discovery,?-201,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3960 V
+3960 Vtp 13CWest hemi0,,Warner Bros. Discovery,?-201,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3960 V
+3960 Vtp 13CWest hemi0,,Warner Bros. Discovery,?-201,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3960 V
+3960 Vtp 13CWest hemi0,,Warner Bros. Discovery,?-201,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,3960 V
+4120 Htp 22CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,4120 H
+4120 Htp 22CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,4120 H
+4120 Htp 22CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,4120 H
+4120 Htp 22CWest hemi0,,Warner Bros. Discovery,,,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,8/9,30000,DVB-S2,,4120 H
+3840 Vtp 7CWest hemi0,201.0,Discovery Channel Latinoamérica,MPEG-4/HD,2010.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,211.0,Discovery Home & Health Latinoamérica,MPEG-4/HD,2110.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,221.0,Animal Planet Latinoamérica,MPEG-4/HD,2210.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3880 Vtp 9CWest hemi0,140.0,Animal Planet Latinoamérica,MPEG-4/HD,1460.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3880 V
+3840 Vtp 7CWest hemi0,231.0,Discovery Kids América Latina,MPEG-4/HD,2310.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,241.0,Investigation Discovery Latinoamérica,MPEG-4/HD,2410.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,251.0,Discovery Theater,MPEG-4/HD,2510.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,261.0,Discovery HD World Latinoamérica,MPEG-4/HD,2610.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,271.0,Discovery Home & Health Sur,MPEG-4/HD,2710.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+4120 Htp 22CWest hemi0,160.0,Discovery Home & Health Sur,MPEG-4/HD,1610.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,4120 H
+3840 Vtp 7CWest hemi0,281.0,Investigation Discovery Sur,MPEG-4/HD,2810.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,291.0,Animal Planet Argentina,MPEG-4/HD,2910.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Vtp 7CWest hemi0,301.0,Discovery Kids Argentina,MPEG-4/HD,3010.0,PowerVu,,False,Warner Bros. Discovery,8/9,30000,DVB-S2,Spa Eng,3840 V
+3840 Htp 8CWest hemi0,,Intelsat,1-101,,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,7/8,27690,DVB-S2,,3840 H
+3840 Htp 8CWest hemi0,1.0,BBC News Americas,MPEG-2/SD,1260.0,PowerVu,,False,Intelsat,7/8,27690,DVB-S2,Eng Eng,3840 H
+4080 Vtp 19CWest hemi0,12.0,BBC News Americas,MPEG-4/HD,2260.0,PowerVu,,False,Intelsat,5/6,30000,DVB-S2,Eng,4080 V
+3840 Htp 8CWest hemi0,3.0,CGTN Français,MPEG-2/HD,514.0,,,False,Intelsat,7/8,27690,DVB-S2,Fre,3840 H
+3840 Htp 8CWest hemi0,4.0,EWTN España - Latinoamérica,MPEG-2/SD,1460.0,,,False,Intelsat,7/8,27690,DVB-S2,Spa Spa,3840 H
+3840 Htp 8CWest hemi0,5.0,CCTV 4 America,MPEG-2/SD,512.0,,,False,Intelsat,7/8,27690,DVB-S2,Eng,3840 H
+3840 Htp 8CWest hemi0,6.0,CGTN,MPEG-2/SD,513.0,,,False,Intelsat,7/8,27690,DVB-S2,Eng,3840 H
+3840 Htp 8CWest hemi0,7.0,CGTN Español,MPEG-2/SD,518.0,,,False,Intelsat,7/8,27690,DVB-S2,Spa,3840 H
+3840 Htp 8CWest hemi0,8.0,CGTN Documentary,MPEG-2/SD,1860.0,,,False,Intelsat,7/8,27690,DVB-S2,Eng,3840 H
+3840 Htp 8CWest hemi0,11.0,YTN World,MPEG-2/SD,1560.0,,,False,Intelsat,7/8,27690,DVB-S2,Kor,3840 H
+3840 Htp 8CWest hemi0,12.0,TV5Monde Amérique Latine,MPEG-2/SD,1760.0,PowerVu,,False,Intelsat,7/8,27690,DVB-S2,Fre,3840 H
+3840 Htp 8CWest hemi0,180.0,Hispan TV,MPEG-2/SD,772.0,,,False,Intelsat,7/8,27690,DVB-S2,Spa,3840 H
+3880 Vtp 9CWest hemi0,100.0,Investigation Discovery México,MPEG-4/HD,1060.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,110.0,TLC México,MPEG-4/HD,1160.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,120.0,Discovery Kids México,MPEG-4/HD,1260.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,130.0,Discovery Channel México,MPEG-4/HD,1360.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,150.0,Discovery Home & Health México,MPEG-4/HD,1560.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,160.0,Food Network Latinoamérica,MPEG-4/HD,1660.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,170.0,Discovery Kids Colombia,MPEG-4/HD,1760.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,180.0,Oprah Winfrey Network East,MPEG-4/HD,1860.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,190.0,TNT Novelas América Latina,MPEG-4/HD,1960.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng,3880 V
+3880 Vtp 9CWest hemi0,200.0,Adult Swim América Latina,MPEG-4/HD,2060.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Spa Eng Spa Eng,3880 V
+3910 Vtp 11CWest hemi0,133.0,ESPN 5 América Latina,MPEG-4/HD,1120.0,PowerVu,,False,Intelsat,5/6,15000,DVB-S2,Spa Eng,3910 V
+3910 Vtp 11CWest hemi0,134.0,ESPN 4 América Latina,MPEG-4/HD,1130.0,PowerVu,,False,Intelsat,5/6,15000,DVB-S2,Eng Spa,3910 V
+3910 Vtp 11CWest hemi0,135.0,ESPN 5 Chile,MPEG-4/HD,1140.0,PowerVu,,False,Intelsat,5/6,15000,DVB-S2,Spa Eng,3910 V
+3920 Htp 12CWest hemi0,39.0,TNT Series Brasil,MPEG-4/HD,3510.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Por,3920 H
+3920 Htp 12CWest hemi0,41.0,Cartoon Network México,MPEG-4/HD,3910.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,51.0,TNT Colombia,MPEG-4/HD,3010.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,61.0,Cartoonito Brasil,MPEG-4/HD,3410.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Por,3920 H
+3920 Htp 12CWest hemi0,101.0,Space México,MPEG-4/HD,3310.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,103.0,TNT México,MPEG-4/HD,4110.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+12000 Htp 15Mexico,,TNT México,MPEG-4/SD,531.0,,,False,Intelsat,2/3,30000,DVB-S2,Spa,12000 H
+3920 Htp 12CWest hemi0,106.0,Cartoonito México,MPEG-4/HD,4210.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,121.0,Cartoon Network Latinoamérica,MPEG-4/HD,4010.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,158.0,TNT Series México,MPEG-4/HD,3110.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,159.0,TCM Brasil,MPEG-4/SD,3210.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Por,3920 H
+3920 Htp 12CWest hemi0,163.0,TNT Series Colombia,MPEG-4/HD,3610.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,164.0,TNT Series Argentina,MPEG-4/HD,3710.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,165.0,TNT Chile,MPEG-4/HD,3810.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Eng Spa,3920 H
+3920 Htp 12CWest hemi0,204.0,TNT Sports 3 Chile,MPEG-4/HD,2010.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Spa,3920 H
+3920 Htp 12CWest hemi0,205.0,TNT Sports 2 Chile,MPEG-4/HD,2110.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Spa,3920 H
+3920 Htp 12CWest hemi0,206.0,TNT Sports Chile,MPEG-4/HD,2210.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Spa,3920 H
+3920 Htp 12CWest hemi0,207.0,CNN Chile,MPEG-4/HD,2310.0,PowerVu,,False,Intelsat,/10,00009,DVB-S2,Spa,3920 H
+3960 Vtp 13CWest hemi0,211.0,Discovery Channel Brasil,MPEG-4/HD,1110.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng Por Eng,3960 V
+3960 Vtp 13CWest hemi0,221.0,Discovery Turbo Brasil,MPEG-4/HD,1210.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng Por Eng,3960 V
+3960 Vtp 13CWest hemi0,231.0,Discovery Kids Brasil,MPEG-4/HD,1310.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng Por Eng,3960 V
+3960 Vtp 13CWest hemi0,241.0,Discovery Home & Health Brasil,MPEG-4/HD,1410.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng Por Eng,3960 V
+3960 Vtp 13CWest hemi0,251.0,TLC Brasil,MPEG-4/HD,1510.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng,3960 V
+3960 Vtp 13CWest hemi0,261.0,Investigação Discovery Brasil,MPEG-4/HD,1610.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng,3960 V
+3960 Vtp 13CWest hemi0,271.0,Animal Planet Brasil,MPEG-4/HD,1760.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng,3960 V
+3960 Vtp 13CWest hemi0,281.0,Food Network Brasil,MPEG-4/HD,1810.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng,3960 V
+3960 Vtp 13CWest hemi0,291.0,HGTV Brasil,MPEG-4/HD,1910.0,PowerVu,,False,Intelsat,8/9,30000,DVB-S2,Por Eng,3960 V
+3975 Htp 14CWest hemi0,,TV Nacional de Chile,1-2,,Irdeto,https://www.lyngsat.com/providers/cl/TV-Nacional-de-Chile.html,True,TV Nacional de Chile,2/3,4500,DVB-S2,,3975 H
+3975 Htp 14CWest hemi0,1.0,TV Chile,MPEG-4/HD,111.0,Irdeto,,False,TV Nacional de Chile,2/3,4500,DVB-S2,Spa,3975 H
+3975 Htp 14CWest hemi0,2.0,TVN (Chile),MPEG-4/SD,772.0,Irdeto,,False,TV Nacional de Chile,2/3,4500,DVB-S2,Spa,3975 H
+3975 Htp 14CWest hemi0,3.0,24 Horas,MPEG-4/SD,769.0,Irdeto,,False,TV Nacional de Chile,2/3,4500,DVB-S2,Spa,3975 H
+4000 Vtp 15CWest hemi0,3.0,Warner Channel Panregional,MPEG-4/HD,97.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4000 V
+4000 Vtp 15CWest hemi0,10.0,Warner Channel Panregional,MPEG-4/HD,209.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4000 V
+4000 Vtp 15CWest hemi0,5.0,Sony Channel Andes,MPEG-4/HD,129.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4000 V
+4000 Vtp 15CWest hemi0,6.0,Warner Channel Atlántico Sur,MPEG-4/HD,145.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4000 V
+4040 Vtp 17CWest hemi0,3.0,Warner Channel Atlántico Sur,MPEG-4/HD,97.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4040 V
+4040 Vtp 17CWest hemi0,9.0,Warner Channel Atlántico Sur,MPEG-4/HD,193.0,Digicipher,,False,TV Nacional de Chile,5/6,30000,DVB-S2,Eng Spa,4040 V
+4040 Vtp 17CWest hemi0,,HBO Network Latinoamérica,?-8,,Digicipher,https://www.lyngsat.com/providers/us/HBO-Network-Latinoamerica.html,True,HBO Network Latinoamérica,5/6,30000,DVB-S2,,4040 V
+4040 Vtp 17CWest hemi0,,HBO Network Latinoamérica,?-8,,Digicipher,https://www.lyngsat.com/providers/us/HBO-Network-Latinoamerica.html,True,HBO Network Latinoamérica,5/6,30000,DVB-S2,,4040 V
+4080 Htp 20CWest hemi0,,HBO Network Latinoamérica,,,Digicipher,https://www.lyngsat.com/providers/us/HBO-Network-Latinoamerica.html,True,HBO Network Latinoamérica,3/4,32700,DVB-S2,,4080 H
+4080 Htp 20CWest hemi0,,HBO Network Latinoamérica,,,Digicipher,https://www.lyngsat.com/providers/us/HBO-Network-Latinoamerica.html,True,HBO Network Latinoamérica,3/4,32700,DVB-S2,,4080 H
+4040 Vtp 17CWest hemi0,5.0,Sony Channel Sur,MPEG-4/HD,129.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,11.0,Sony Channel Sur,MPEG-4/HD,225.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,6.0,E! Andes,MPEG-4/HD,145.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Vtp 17CWest hemi0,12.0,E! Sur,MPEG-4/HD,241.0,Digicipher,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 V
+4040 Htp 18CWest hemi0,180.0,CNBC US,MPEG-4/HD,4110.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng,4040 H
+4040 Htp 18CWest hemi0,186.0,Studio Universal América Latina,MPEG-4/HD,1320.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,196.0,Studio Universal América Latina,MPEG-4/HD,1120.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,188.0,Universal TV América Latina,MPEG-4/HD,1330.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,198.0,Universal TV América Latina,MPEG-4/HD,1310.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,190.0,USA Network Latin,MPEG-4/HD,1210.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4040 H
+4040 Htp 18CWest hemi0,191.0,Universal TV México,MPEG-4/HD,1230.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,192.0,Studio Universal México,MPEG-4/HD,1240.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4040 H
+4040 Htp 18CWest hemi0,195.0,DreamWorks TV Latin America,MPEG-4/HD,1110.0,PowerVu,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4040 H
+4080 Vtp 19CWest hemi0,1.0,Arirang World,MPEG-2/SD,1860.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19CWest hemi0,3.0,SBN Global,MPEG-2/SD,2460.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa Eng,4080 V
+4080 Vtp 19CWest hemi0,4.0,Red AD Venir Internacional,MPEG-2/SD,2001.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,6.0,Aliento Vision,MPEG-4/SD,2006.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,11.0,3ABN Latino,MPEG-2/SD,2360.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,19.0,MC,MPEG-4/HD,47.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,25.0,Korean Central TV,MPEG-4/SD,2560.0,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Kor,4080 V
+4080 Vtp 19CWest hemi0,50.0,MVS TV México,MPEG-4/SD,368.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,52.0,MVS TV Estados Unidos,MPEG-4/HD,38.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,85.0,CineLatino,MPEG-4/HD,288.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,307.0,Exa TV,MPEG-4/SD,336.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,762.0,Antena 3 Internacional,MPEG-4/SD,400.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,763.0,MultiPremier,MPEG-4/HD,48.0,Irdeto,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,2.0,Radio AD Venir,,,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19CWest hemi0,13.0,3ABN Radio Network,,,,,False,HBO Network Latinoamérica,5/6,30000,DVB-S2,Eng,4080 V
+4080 Htp 20CWest hemi0,,HBO Mundi Latinoamérica,HEVC/SD,17.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Mundi Latinoamérica,HEVC/HD,161.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Latinoamérica,HEVC/SD,65.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Latinoamérica,HEVC/HD,209.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO 2 Latinoamérica,HEVC/SD,81.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO 2 Latinoamérica,HEVC/HD,225.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO + Latinoamérica,HEVC/SD,97.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO + Latinoamérica,HEVC/HD,241.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Family Latinoamérica,HEVC/SD,113.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Family Latinoamérica,HEVC/HD,257.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Signature Latinoamérica,HEVC/SD,129.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Signature Latinoamérica,HEVC/HD,273.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Pop Latinoamérica,HEVC/SD,145.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Pop Latinoamérica,HEVC/HD,305.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Xtreme Latinoamérica,HEVC/SD,177.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,HBO Xtreme Latinoamérica,HEVC/HD,321.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,Cinemax Latinoamérica,HEVC/SD,193.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4080 Htp 20CWest hemi0,,Cinemax Latinoamérica,HEVC/HD,337.0,Digicipher,,False,HBO Network Latinoamérica,3/4,32700,DVB-S2,Eng Spa,4080 H
+4120 Vtp 21CWest hemi0,,Paramount Networks Americas,3-?,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Networks-Americas.html,True,Paramount Networks Americas,5/6,30000,DVB-S2,,4120 V
+4120 Vtp 21CWest hemi0,14.0,Comedy Central Latinoamérica Norte,MPEG-4/HD,3910.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,220.0,Comedy Central Latinoamérica Norte,MPEG-2/SD,2210.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4120 V
+4120 Vtp 21CWest hemi0,56.0,Paramount Network Latin America,MPEG-4/HD,4010.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,200.0,Paramount Network Latin America,MPEG-2/SD,1060.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,,4120 V
+4120 Vtp 21CWest hemi0,92.0,Telefe,MPEG-4/HD,4110.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa,4120 V
+4120 Vtp 21CWest hemi0,95.0,MTV 00s,MPEG-2/SD,1760.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21CWest hemi0,240.0,MTV 00s,MPEG-2/SD,1260.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21CWest hemi0,100.0,MTV Latino Norte,MPEG-2/SD,1160.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa,4120 V
+4120 Vtp 21CWest hemi0,120.0,MTV Latino Sud,MPEG-2/SD,1560.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa,4120 V
+4120 Vtp 21CWest hemi0,150.0,Nickelodeon Norte,MPEG-2/SD,1360.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,155.0,Nickelodeon Centro,MPEG-2/SD,2110.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa,4120 V
+4120 Vtp 21CWest hemi0,170.0,Nickelodeon Sur,MPEG-2/SD,1460.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,210.0,Club MTV,MPEG-2/SD,2810.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,230.0,MTV Hits Europe,MPEG-2/SD,,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21CWest hemi0,251.0,Nick Jr Latin America,MPEG-2/SD,2510.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa,4120 V
+4120 Vtp 21CWest hemi0,252.0,MTV 80s,MPEG-2/SD,2610.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng Spa,4120 V
+4120 Vtp 21CWest hemi0,253.0,NickMusic,MPEG-2/SD,2710.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Eng,4120 V
+4120 Vtp 21CWest hemi0,255.0,Comedy Central Latinoamérica Sur,MPEG-2/SD,2410.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4120 V
+4120 Htp 22CWest hemi0,100.0,HGTV Latinoamérica,MPEG-4/HD,1010.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,110.0,Discovery Turbo América Latina,MPEG-4/HD,1110.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,120.0,Golf Channel Latin America,MPEG-4/HD,1210.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,130.0,TLC Latinoamérica,MPEG-4/HD,1310.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,140.0,Discovery Science Latinoamérica,MPEG-4/HD,1410.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,150.0,Discovery Kids Chile,MPEG-4/HD,1510.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,170.0,Discovery Channel Chile,MPEG-4/HD,1710.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4120 Htp 22CWest hemi0,180.0,Discovery Channel Atlántico Sur,MPEG-4/HD,1810.0,PowerVu,,False,Paramount Networks Americas,8/9,30000,DVB-S2,Spa Eng,4120 H
+4144 Vtp 23CWest hemi0,1.0,TRT World,22-44MPEG-4/HD,110.0,,,False,Paramount Networks Americas,7/8,3720,DVB-S3,Eng,4144 V
+4144 Htp 24CWest hemi0,,Enlace,35-?,,,https://www.lyngsat.com/providers/cr/Enlace.html,True,Enlace,3/4,3750,DVB-S2,,4144 H
+4144 Htp 24CWest hemi0,1.0,Enlace,MPEG-4/HD,200.0,,https://www.lyngsat.com/providers/cr/Enlace.html,True,Enlace,3/4,3750,DVB-S2,Spa,4144 H
+4144 Htp 24CWest hemi0,2.0,Enlace Juvenil,MPEG-4/HD,300.0,,,False,Enlace,3/4,3750,DVB-S2,Spa,4144 H
+4151 Vtp 23CWest hemi0,4.0,ESNE TV,?-1MPEG-2/SD,69.0,,,False,Enlace,7/8,3000,DVB-S3,Spa,4151 V
+4151 Vtp 23CWest hemi0,4.0,ESNE Radio,,,,,False,Enlace,7/8,3000,DVB-S3,Spa,4151 V
+4156 Vtp 23CWest hemi0,5.0,Record TV Américas,1-1MPEG-4/HD,96.0,,,False,Enlace,3/4,3333,DVB-S2,Por,4156 V
+4159 Vtp 23CWest hemi0,,CTN (USA),,,,https://www.lyngsat.com/providers/us/CTN.html,True,CTN (USA),3/4,3750,DVB-S2,,4159 V
+4159 Vtp 23CWest hemi0,3.0,CTN (USA),MPEG-4/HD,49.0,,https://www.lyngsat.com/providers/us/CTN.html,True,CTN (USA),3/4,3750,DVB-S2,Eng,4159 V
+4159 Vtp 23CWest hemi0,4.0,CTN Lifestyle,MPEG-4/SD,65.0,,,False,CTN (USA),3/4,3750,DVB-S2,Eng,4159 V
+4159 Vtp 23CWest hemi0,5.0,CTN International (USA),MPEG-4/HD,81.0,,,False,CTN (USA),3/4,3750,DVB-S2,Spa,4159 V
+4166 Htp 24CWest hemi0,,NHK World Network,301-1,,,https://www.lyngsat.com/providers/jp/NHK-World-Network.html,True,NHK World Network,1/2,19910,DVB-S2,,4166 H
+4166 Htp 24CWest hemi0,21.0,NHK World Japan,MPEG-4/HD,1260.0,,,False,NHK World Network,1/2,19910,DVB-S2,Eng,4166 H
+4166 Htp 24CWest hemi0,41.0,NHK World Premium,MPEG-4/HD,1460.0,Conax,,False,NHK World Network,1/2,19910,DVB-S2,,4166 H
+4166 Htp 24CWest hemi0,51.0,NHK World Japan Radio,,,,,False,NHK World Network,1/2,19910,DVB-S2,,4166 H
+4166 Htp 24CWest hemi0,61.0,NHK World Japan Radio,,,,,False,NHK World Network,1/2,19910,DVB-S2,,4166 H
+4166 Htp 24CWest hemi0,71.0,NHK World Japan Radio,,,,,False,NHK World Network,1/2,19910,DVB-S2,,4166 H
+4169 Vtp 23CWest hemi0,1.0,CDM TV,0-1MPEG-2/SD,32.0,,,False,NHK World Network,3/4,3000,DVB-S3,Spa Eng,4169 V
+4174 Vtp 23CWest hemi0,,María+Visión,177-176,,,https://www.lyngsat.com/providers/mx/Maria-Vision.html,True,María+Visión,3/4,3333,DVB-S2,,4174 V
+4174 Vtp 23CWest hemi0,11.0,María+Visión,MPEG-4/HD,113.0,,https://www.lyngsat.com/providers/mx/Maria-Vision.html,True,María+Visión,3/4,3333,DVB-S2,Spa,4174 V
+4174 Vtp 23CWest hemi0,12.0,María+Visión USA,MPEG-4/HD,123.0,,,False,María+Visión,3/4,3333,DVB-S2,Eng,4174 V
+4174 Vtp 23CWest hemi0,21.0,María+Visión Radio,,,,,False,María+Visión,3/4,3333,DVB-S2,Spa,4174 V
+4174 Vtp 23CWest hemi0,22.0,María+Visión Radio USA,,,,,False,María+Visión,3/4,3333,DVB-S2,Eng,4174 V
+11720 Htp 1Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,3/5,30000,DVB-S2,,11720 H
+11740 Vtp 2Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,3/5,30000,DVB-S2,,11740 V
+11840 Htp 7Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,5/6,30000,DVB-S3,,11840 H
+11860 Vtp 8Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,3/5,30000,DVB-S2,,11860 V
+11960 Htp 13Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,11960 H
+11980 Vtp 14Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,11980 V
+12000 Htp 15Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,2/3,30000,DVB-S2,,12000 H
+12020 Vtp 16Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12020 V
+12040 Htp 17Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12040 H
+12060 Vtp 18Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12060 V
+12080 Htp 19Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12080 H
+12100 Vtp 20Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12100 V
+12120 Htp 21Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12120 H
+12140 Vtp 22Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12140 V
+12160 Htp 23Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12160 H
+12180 Vtp 24Mexico,,Sky México,,,Videoguard,https://www.lyngsat.com/providers/mx/Sky-Mexico.html,True,Sky México,000,30,DVB-S3,,12180 V
+Ku,,Sky View,,,Videoguard,,False,Sky México,B-S,,DVB-S,Spa,K
+Ku,,Blues,,,Videoguard,,False,Sky México,B-S,,DVB-S,,K

@@ -1,0 +1,100 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3614 RAfrica C,,OBN Gaammee,MPEG-4/HD,512.0,,,False,,5/6,2607,DVB-S2,Orm,3614 RA
+3617 RAfrica C,,(feeds),,,,,False,,3/4,2260,DVB-S2,,3617 RA
+3624 RAfrica C,,(feeds),,,,,False,,3/4,2607,DVB-S2,,3624 RA
+3642 RAfrica C,,(feeds),,,,,False,,3/4,1777,DVB-S2,,3642 RA
+3634 RAfrica C,1.0,OBN (Ethiopia),?-?MPEG-4/HD,512.0,,,False,,5/6,4810,DVB-S4,Orm,3634 RA
+3645 RAfrica C,1.0,Debub TV,?-?MPEG-2/SD,308.0,,,False,,5/6,4915,DVB-S4,Amh,3645 RA
+3718 RAfrica C,,EBC,?-1,,,https://www.lyngsat.com/providers/et/EBC.html,True,EBC,3/4,17950,DVB-S2,,3718 RA
+3718 RAfrica C,1.0,ETV News,MPEG-4/HD,512.0,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+3718 RAfrica C,2.0,ETV Entertainment,MPEG-4/HD,513.0,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+3718 RAfrica C,3.0,ETV Languages,MPEG-4/HD,514.0,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+3718 RAfrica C,4.0,ETV Afaan Oromoo,MPEG-4/HD,515.0,,,False,EBC,3/4,17950,DVB-S2,Orm,3718 RA
+3718 RAfrica C,5.0,ETV Yelijochalem,MPEG-4/HD,516.0,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+3718 RAfrica C,6.0,ETV Parlama,MPEG-4/HD,517.0,,,False,EBC,3/4,17950,DVB-S2,,3718 RA
+3718 RAfrica C,7.0,[Radio Ethiopia National Radio info card],MPEG-4/SD,503.0,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+3718 RAfrica C,8.0,EBC FM 97.1,,,,,False,EBC,3/4,17950,DVB-S2,Amh,3718 RA
+10973 HAfrica Ku,,Metro Digital TV,0-1,,Cryptoguard 2,,False,EBC,000,25,DVB-S2,,10973 H
+11010 HAfrica Ku,,Panbetting,222-4248,,,https://www.lyngsat.com/providers/de/Panbetting.html,True,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40101.0,Panbetting promo,MPEG-4/HD,1011.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40303.0,Voice of One TV,HEVC/SD,3031.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40305.0,Altar of Divine Mercy TV,MPEG-4/SD,3051.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40306.0,FAPM TV,MPEG-4/SD,3061.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40501.0,[Bet test card],MPEG-4/HD,5011.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40502.0,[Bet test card],MPEG-4/HD,5021.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40503.0,[Bet test card],MPEG-4/HD,5031.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40504.0,[Bet test card],MPEG-4/HD,5041.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40505.0,[Bet test card],MPEG-4/HD,5051.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40519.0,[Bet test card],MPEG-4/HD,5191.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40520.0,[Bet test card],MPEG-4/HD,5201.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40610.0,[Bet test card],MPEG-4/HD,6101.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40611.0,[Bet test card],MPEG-4/HD,6111.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40620.0,[Bet test card],MPEG-4/HD,6201.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40624.0,[Bet test card],MPEG-4/HD,6241.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40650.0,[Bet test card],MPEG-4/HD,6501.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40651.0,[Bet test card],MPEG-4/HD,6511.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40652.0,[Bet test card],MPEG-4/HD,6521.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40721.0,[Bet test card],MPEG-4/HD,7211.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40722.0,[Bet test card],MPEG-4/HD,7221.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40723.0,[Bet test card],MPEG-4/HD,7231.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40724.0,[Bet test card],MPEG-4/HD,7241.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40725.0,[Bet test card],MPEG-4/HD,7251.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40740.0,[Bet test card],MPEG-4/HD,7401.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40741.0,[Bet test card],MPEG-4/HD,7411.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40742.0,[Bet test card],MPEG-4/HD,7421.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40743.0,[Bet test card],MPEG-4/HD,7431.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40768.0,[Bet test card],MPEG-4/HD,7681.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40779.0,[Bet test card],MPEG-4/HD,7791.0,,,False,Panbetting,3/4,28775,DVB-S2,,11010 H
+11010 HAfrica Ku,40625.0,StarBet Sports,MPEG-4/HD,6251.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40626.0,StarBet Lobby,MPEG-4/HD,6261.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40627.0,StarBet Casino,MPEG-4/HD,6271.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40633.0,Inbet Spin,MPEG-4/HD,4331.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40634.0,Inbet League,MPEG-4/HD,4341.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40635.0,Inbet Racing,MPEG-4/HD,4351.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40656.0,LuckyBet LaLiga,MPEG-4/HD,6561.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40657.0,LuckyBet EPL,MPEG-4/HD,6571.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40658.0,LuckyBet Serie A,MPEG-4/HD,6581.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40660.0,Betika! Soccer,MPEG-4/HD,6601.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40661.0,Betika! Jackpots,MPEG-4/HD,6611.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40662.0,Betika! Palm,MPEG-4/HD,6621.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40663.0,BetBonanza Colour,MPEG-4/HD,6631.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40670.0,Bonanza Ballz,MPEG-4/HD,6701.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40671.0,BetBonanza EPL,MPEG-4/HD,6711.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40672.0,BetBonanza LaLiga,MPEG-4/HD,6721.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40674.0,Yangawin,MPEG-4/HD,6741.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40675.0,Yangawin TotoBet,MPEG-4/HD,6751.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40676.0,Yangawin Lottery,MPEG-4/HD,6761.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40769.0,Dafabet,MPEG-4/HD,7691.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40770.0,Dafabet Casino,MPEG-4/HD,7701.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40771.0,Dafabet Lottery,MPEG-4/HD,7711.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40772.0,Dafabet Arcade,MPEG-4/HD,7721.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40775.0,Surebet 247,MPEG-4/HD,7751.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40776.0,Surebet 247 Virtual Game,MPEG-4/HD,7761.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40777.0,Surebet 247 Number Games,MPEG-4/HD,7771.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40780.0,BetAfriq,MPEG-4/HD,7801.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40781.0,BetAfriq Casino,MPEG-4/HD,7811.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40786.0,Best Bet Games,MPEG-4/HD,7861.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40790.0,Jarabet EPL,MPEG-4/HD,7901.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40791.0,Jarabet Game,MPEG-4/HD,7911.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40795.0,DeevBet,MPEG-4/HD,7951.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40796.0,DeevBet League,MPEG-4/HD,7961.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40800.0,AccessBet Game,MPEG-4/HD,8001.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40801.0,AccessBet VFL,MPEG-4/HD,8011.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40802.0,AccessBet League,MPEG-4/HD,8021.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11010 HAfrica Ku,40803.0,AccessBet,MPEG-4/HD,8031.0,,,False,Panbetting,3/4,28775,DVB-S2,Eng,11010 H
+11075 HAfrica Ku,,,,,,,False,Panbetting,3/4,2500,DVB-S2,,11075 H
+11230 HEurope,,,,,,,False,Panbetting,,,,,11230 H
+11075 HAfrica Ku,512.0,24h Sport 1,MPEG-4/HD,513.0,,,False,Panbetting,3/4,2500,DVB-S2,Eng,11075 H
+11075 HAfrica Ku,768.0,24h Sport 2,MPEG-4/HD,769.0,,,False,Panbetting,3/4,2500,DVB-S2,Eng,11075 H
+11290 HEurope,,{},,,,,False,Panbetting,8/9,45000,DVB-S2,,11290 H
+11350 HEurope,,Belarus mux,65280-3,,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,,11350 H
+11350 HEurope,3101.0,Belarus 1,MPEG-4/HD,111.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3102.0,ONT,MPEG-4/HD,211.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3103.0,Stolicnoe TV,MPEG-4/HD,311.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3104.0,Mir,MPEG-4/HD,411.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3105.0,RTR Belarus,MPEG-4/HD,511.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3106.0,NTV Belarus,MPEG-4/HD,611.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3107.0,Belarus 2,MPEG-4/HD,711.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3108.0,Belarus 3,MPEG-4/HD,811.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3109.0,Belarus 5,MPEG-4/HD,911.0,DRECrypt,,False,Panbetting,3/4,45000,DVB-S2,Rus,11350 H
+11350 HEurope,3113.0,Belintersat tests,MPEG-4/HD,1311.0,,,False,Panbetting,3/4,45000,DVB-S2,,11350 H

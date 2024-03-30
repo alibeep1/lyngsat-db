@@ -1,0 +1,65 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11747 Rtp ER2Fixed 10,,Trikolor,253-2,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,11747 R
+12073 Ltp ER19Fixed 10,,Trikolor,253-19,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12073 L
+12092 Htp EA20Fixed 20,,DSTV Africa,878-65432,,Irdeto,,False,,2/3,27500,DVB-S2,,12092 H
+12111 Vtp EA21Fixed 20,,DSTV Africa,878-65440,,Irdeto,,False,,2/3,27500,DVB-S2,,12111 V
+12111 Ltp ER21Fixed 10,,Trikolor,253-21,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12111 L
+12130 Htp EA22Fixed 20,,DSTV Africa,878-65428,,Irdeto,,False,,3/4,27500,DVB-S2,,12130 H
+12149 Vtp EA23Fixed 20,,DSTV Africa,878-65441,,Irdeto,,False,,3/4,27500,DVB-S2,,12149 V
+12169 Htp EA24Fixed 20,,DSTV Africa,878-65429,,Irdeto,,False,,2/3,27500,DVB-S2,,12169 H
+12174 Ltp ER25Fixed 10,1.0,TNV Tatarstan,1-1MPEG-2/SD,320.0,,,False,,3/4,4340,DVB-S4,Rus,12174 L
+12174 Ltp ER25Fixed 10,1.0,Bolgar Radiosi,,,,,False,,3/4,4340,DVB-S4,Rus,12174 L
+12188 Vtp EA25Fixed 20,,DSTV Africa,878-65442,,Irdeto,,False,,3/4,27500,DVB-S2,,12188 V
+12190 Ltp ER25Fixed 10,,Trikolor,253-25,,ExsetDRECryptDREGuard,,False,,3/4,22500,DVB-S2,,12190 L
+12190 Ltp ER25Fixed 10,40.0,Radio 1 (Russia),,,,,False,,3/4,22500,DVB-S2,Rus,12190 L
+12207 Htp EA26Fixed 20,,DSTV Africa,878-65425,,Irdeto,,False,,3/4,27500,DVB-S2,,12207 H
+12207 Rtp ER26Fixed 10,,NTV Plus,,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12207 R
+12226 Vtp EA27Fixed 20,,DSTV Africa,878-65443,,Irdeto,,False,,2/3,27500,DVB-S2,,12226 V
+12226 Ltp ER27Fixed 10,,Trikolor,253-27,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12226 L
+12226 Ltp ER27Fixed 10,27000.0,Trikolor Infokanal,MPEG-4/SD,271.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12226 Ltp ER27Fixed 10,27105.0,Promo TV,MPEG-4/SD,1051.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12226 Ltp ER27Fixed 10,50000.0,[Trikolor info card],MPEG-4/SD,5892.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12226 Ltp ER27Fixed 10,50001.0,[Trikolor info card],MPEG-4/SD,5899.0,,,False,,3/4,27500,DVB-S2,Rus,12226 L
+12265 Vtp EA29Fixed 20,,GoTV Africa,,,Irdeto,,False,,P 1,,DVB-S2,,12265 V
+12265 Vtp EA29Fixed 20,194.0,UBC TV,MPEG-4/SD,2194.0,,,False,,P 1,,DVB-S2,,12265 V
+12265 Vtp EA29Fixed 20,215.0,K24,MPEG-4/SD,2215.0,,,False,,P 1,,DVB-S2,Eng,12265 V
+12265 Vtp EA29Fixed 20,218.0,KBC Channel 1,MPEG-4/SD,2218.0,,,False,,P 1,,DVB-S2,Eng,12265 V
+12265 Vtp EA29Fixed 20,286.0,NTA International,MPEG-4/SD,2286.0,,,False,,P 1,,DVB-S2,Eng,12265 V
+12265 Vtp EA29Fixed 20,291.0,MBC (Malawi),MPEG-4/SD,2291.0,,,False,,P 1,,DVB-S2,Eng,12265 V
+12265 Ltp ER29Fixed 10,,NTV Plus,112-10,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12265 L
+12284 Htp EA30Fixed 20,,DSTV Africa,878-65430,,Irdeto,,False,,2/3,27500,DVB-S2,,12284 H
+12284 Rtp ER30Fixed 10,,NTV Plus,112-8,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12284 R
+12284 Rtp ER30Fixed 10,817.0,Leomax 24,MPEG-4/SD,217.0,,,False,,3/4,27500,DVB-S2,Rus,12284 R
+12284 Rtp ER30Fixed 10,826.0,Shopping Live,MPEG-4/SD,226.0,,,False,,3/4,27500,DVB-S2,Rus,12284 R
+12303 Vtp EA31Fixed 20,,DSTV Africa,878-65420,,Irdeto,,False,,3/4,27500,DVB-S2,,12303 V
+12303 Ltp ER31Fixed 10,,Trikolor,253-31,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12303 L
+12303 Ltp ER31Fixed 10,3.0,Soyuz,MPEG-4/SD,303.0,,,False,,3/4,27500,DVB-S2,Rus,12303 L
+12303 Ltp ER31Fixed 10,4.0,Radio Voskresenie,,,,,False,,3/4,27500,DVB-S2,Rus,12303 L
+12322 Htp EA32Fixed 20,,DSTV Africa,878-65431,,,,False,,2/3,27500,DVB-S2,,12322 H
+12322 Htp EA32Fixed 20,3110.0,[ODS VOD Nano test card],MPEG-4/HD,3050.0,,,False,,2/3,27500,DVB-S2,,12322 H
+12322 Rtp ER32Fixed 10,,NTV Plus,112-1,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12322 R
+12341 Vtp EA33Fixed 20,,DSTV Africa,878-65433,,Irdeto,,False,,2/3,27500,DVB-S2,,12341 V
+12341 Ltp ER33Fixed 10,,NTV Plus,112-11,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12341 L
+12341 Ltp ER33Fixed 10,361.0,Vesti FM,,,,,False,,3/4,27500,DVB-S2,Rus,12341 L
+12341 Ltp ER33Fixed 10,362.0,Radio Mayak,,,,,False,,3/4,27500,DVB-S2,Rus,12341 L
+12341 Ltp ER33Fixed 10,363.0,Radio Rossii,,,,,False,,3/4,27500,DVB-S2,Rus,12341 L
+12360 Htp EA34Fixed 20,,DSTV Africa,878-65427,,Irdeto,,False,,3/4,27500,DVB-S2,,12360 H
+12360 Rtp ER34Fixed 10,,Trikolor,253-34,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12360 R
+12380 Vtp EA35Fixed 20,,GoTV Africa,,,Irdeto,,False,,P 1,,DVB-S2,,12380 V
+12380 Vtp EA35Fixed 20,272.0,Lagos TV,MPEG-4/SD,2272.0,,,False,,P 1,,DVB-S2,Eng,12380 V
+12380 Ltp ER35Fixed 10,,Trikolor,,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12380 L
+12399 Htp EA36Fixed 20,,DSTV Africa,878-65426,,Irdeto,,False,,3/4,27500,DVB-S2,,12399 H
+12399 Rtp ER36Fixed 10,,NTV Plus,112-12,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12399 R
+12418 Vtp EA37Fixed 20,,GoTV Africa,,,Irdeto,,False,,P 1,,DVB-S2,,12418 V
+12418 Vtp EA37Fixed 20,4.0,GoTV Guide,MPEG-4/SD,2004.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Vtp EA37Fixed 20,198.0,Ghana Learning TV,MPEG-4/SD,2198.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Vtp EA37Fixed 20,214.0,Ghana TV,MPEG-4/SD,2214.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Vtp EA37Fixed 20,282.0,ZNBC TV 1,MPEG-4/SD,2282.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Vtp EA37Fixed 20,283.0,ZNBC TV 2,MPEG-4/SD,2283.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Vtp EA37Fixed 20,290.0,ENews Channel Africa,MPEG-4/SD,2290.0,,,False,,P 1,,DVB-S2,Eng,12418 V
+12418 Ltp ER37Fixed 10,,Trikolor,253-37,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12418 L
+12437 Rtp ER38Fixed 10,,NTV Plus,112-4,,CompunicateViaccess,,False,,3/4,27500,DVB-S2,,12437 R
+12440 Htp EA38Fixed 20,,DSTV Africa,878-65503,,Irdeto,,False,,3/4,27500,DVB-S2,,12440 H
+12456 Ltp ER39Fixed 10,,Trikolor,253-39,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12456 L
+12476 Htp EA40Fixed 20,,DSTV Africa,878-65501,,Irdeto,,False,,3/4,27500,DVB-S2,,12476 H
+12476 Rtp ER40Fixed 10,,Trikolor,253-40,,ExsetDRECryptDREGuard,,False,,3/4,27500,DVB-S2,,12476 R

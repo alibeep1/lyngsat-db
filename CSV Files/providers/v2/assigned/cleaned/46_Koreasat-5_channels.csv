@@ -1,0 +1,7 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+12347 VSouth Korea,,CGN TV,1-1,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,True,CGN TV,2/3,10740,DVB-S1,,12347 V
+12347 VSouth Korea,1.0,CGN TV,MPEG-2/SD,512.0,,https://www.lyngsat.com/providers/kr/CGN-TV.html,True,CGN TV,2/3,10740,DVB-S1,Kor,12347 V
+12347 VSouth Korea,2.0,CGN TV Japan,MPEG-2/SD,513.0,,,False,CGN TV,2/3,10740,DVB-S1,Jpn,12347 V
+12347 VSouth Korea,3.0,CGN TV Chinese,MPEG-2/SD,514.0,,,False,CGN TV,2/3,10740,DVB-S1,Chi,12347 V
+12363 VNE Asia,1.0,NTD TV China,?-?MPEG-2/SD,512.0,,,False,CGN TV,3/4,3900,DVB-S2,Chi,12363 V
+12363 VNE Asia,2.0,Sound of Hope,,,,,False,CGN TV,3/4,3900,DVB-S2,Chi,12363 V

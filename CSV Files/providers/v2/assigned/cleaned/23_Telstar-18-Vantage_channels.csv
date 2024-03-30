@@ -1,0 +1,138 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3704 Htp 3AAsia & Australia & Pacific,,(feeds),,,,,False,,2/3,2240,DVB-S2,,3704 H
+3763 Htp 4AAsia & Australia & Pacific,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3763 H
+3872 Htp 7AAsia & Australia & Pacific0,3.0,(feeds),,769.0,BISS,,False,,5/6,3750,DVB-S2,,3872 H
+3905 Vtp 7BAsia & Australia & Pacific,,(feeds),,,,,False,,3/4,7500,DVB-S2,,3905 V
+3914 Vtp 7BAsia & Australia & Pacific,,(feeds),,,,,False,,3/4,5600,DVB-S2,,3914 V
+3707 Htp 3AAsia & Australia & Pacific,,(GMA feeds),,,,,False,,2/3,2240,DVB-S2,,3707 H
+3710 Htp 3AAsia & Australia & Pacific,,(GMA feeds),,,,,False,,2/3,2240,DVB-S2,,3710 H
+3745 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,4583,DVB-S2,,3745 H
+3745 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,4583,DVB-S2,,3745 H
+3745 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,4583,DVB-S2,,3745 H
+3751 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,2/3,4444,DVB-S2,,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,2/3,4444,DVB-S2,,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,,GMA Network,,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,2/3,4444,DVB-S2,,3751 H
+3847 Htp 6AAsia & Australia & Pacific0,,GMA Network,0-700,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,8000,DVB-S2,,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,,GMA Network,0-700,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,8000,DVB-S2,,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,,GMA Network,0-700,,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,3/4,8000,DVB-S2,,3847 H
+3745 Htp 4AAsia & Australia & Pacific0,12.0,GMA TV,MPEG-4/SD,110.0,PowerVu,,False,GMA Network,3/4,4583,DVB-S2,Tgl,3745 H
+3847 Htp 6AAsia & Australia & Pacific0,96.0,GMA TV,MPEG-4/SD,463.0,PowerVu,,False,GMA Network,3/4,8000,DVB-S2,Tgl,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,112.0,GMA TV,MPEG-4/1seg,3187.0,PowerVu,,False,GMA Network,3/4,8000,DVB-S2,Tgl,3847 H
+3745 Htp 4AAsia & Australia & Pacific0,14.0,GTV (Philippines),MPEG-4/SD,210.0,PowerVu,,False,GMA Network,3/4,4583,DVB-S2,Tgl,3745 H
+3847 Htp 6AAsia & Australia & Pacific0,97.0,GTV (Philippines),MPEG-4/SD,479.0,PowerVu,,False,GMA Network,3/4,8000,DVB-S2,Tgl,3847 H
+3751 Htp 4AAsia & Australia & Pacific0,1.0,GMA Life TV,MPEG-4/SD,1160.0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,2.0,GMA Pinoy TV USA & Canada,MPEG-4/SD,1260.0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,9.0,GMA News TV,MPEG-4/SD,1460.0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,7.0,DZBB 594 Super Radyo,,,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl,3751 H
+3751 Htp 4AAsia & Australia & Pacific0,100.0,Barangay LS 97.1,,,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl,3751 H
+3768 Htp 4AAsia & Australia & Pacific,,(GMA TV feeds),,,,,False,GMA Network,2/3,1600,DVB-S2,,3768 H
+3774 Htp 4AAsia & Australia & Pacific,,(GMA TV feeds),,,,,False,GMA Network,2/3,4800,DVB-S2,,3774 H
+3824 Htp 6AAsia & Australia & Pacific0,1.0,SMNI News Channel,?-?MPEG-4/SD,33.0,,,False,GMA Network,3/4,3333,DVB-S2,Tgl,3824 H
+3827 Htp 6AAsia & Australia & Pacific0,36.0,SMNI,8192-4096MPEG-4/SD,512.0,,,False,GMA Network,3/4,1660,DVB-S2,Tgl,3827 H
+3827 Htp 6AAsia & Australia & Pacific0,54.0,DZAR Sonshine Radio 1026,,,,,False,GMA Network,3/4,1660,DVB-S2,,3827 H
+3831 Htp 6AAsia & Australia & Pacific0,,,,,,,False,GMA Network,3/4,5000,DVB-S2,,3831 H
+3884 Htp 7AAsia & Australia & Pacific0,,,,,,,False,GMA Network,,,,,3884 H
+4020 Vtp 10BAsia & Australia & Pacific0,,,,,,,False,GMA Network,,,,,4020 V
+3831 Htp 6AAsia & Australia & Pacific0,1.0,INC TV,MPEG-4/HD,611.0,,,False,GMA Network,3/4,5000,DVB-S2,Tgl,3831 H
+3831 Htp 6AAsia & Australia & Pacific0,2.0,Net 25,MPEG-4/HD,711.0,,,False,GMA Network,3/4,5000,DVB-S2,Tgl,3831 H
+3831 Htp 6AAsia & Australia & Pacific0,3.0,INC Radio DZEM 954,,,,,False,GMA Network,3/4,5000,DVB-S2,,3831 H
+3831 Htp 6AAsia & Australia & Pacific0,6.0,Radyo Agila,,,,,False,GMA Network,3/4,5000,DVB-S2,Tgl,3831 H
+3831 Htp 6AAsia & Australia & Pacific0,7.0,Eagle FM,,,,,False,GMA Network,3/4,5000,DVB-S2,,3831 H
+3835 Htp 6AAsia & Australia & Pacific0,,Solar Entertainment,0-1,,VisionCrypt,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,True,Solar Entertainment,3/4,2500,DVB-S2,,3835 H
+3835 Htp 6AAsia & Australia & Pacific0,,Solar Entertainment,0-1,,VisionCrypt,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,True,Solar Entertainment,3/4,2500,DVB-S2,,3835 H
+3867 Htp 7AAsia & Australia & Pacific0,,Solar Entertainment,,,PowerVu,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,True,Solar Entertainment,3/4,3750,DVB-S2,,3867 H
+3867 Htp 7AAsia & Australia & Pacific0,,Solar Entertainment,,,PowerVu,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,True,Solar Entertainment,3/4,3750,DVB-S2,,3867 H
+3835 Htp 6AAsia & Australia & Pacific0,1.0,Jungo Pinoy,MPEG-4/SD,310.0,VisionCrypt,,False,Solar Entertainment,3/4,2500,DVB-S2,Tgl,3835 H
+3835 Htp 6AAsia & Australia & Pacific0,4.0,Scream Flix,MPEG-4/SD,710.0,VisionCrypt,,False,Solar Entertainment,3/4,2500,DVB-S2,Eng,3835 H
+3847 Htp 6AAsia & Australia & Pacific0,98.0,Heart of Asia,MPEG-4/SD,1744.0,PowerVu,,False,Solar Entertainment,3/4,8000,DVB-S2,Tgl,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,101.0,Hallypop,MPEG-4/SD,1760.0,PowerVu,,False,Solar Entertainment,3/4,8000,DVB-S2,Eng,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,102.0,I Heart Movies,MPEG-4/SD,1776.0,PowerVu,,False,Solar Entertainment,3/4,8000,DVB-S2,Tgl,3847 H
+3847 Htp 6AAsia & Australia & Pacific0,103.0,Pinoy Hits,MPEG-4/SD,1792.0,PowerVu,,False,Solar Entertainment,3/4,8000,DVB-S2,Tgl,3847 H
+3856 Htp 6AAsia & Australia & Pacific0,1.0,IBC 13,?-?MPEG-4/SD,210.0,,,False,Solar Entertainment,2/3,2500,DVB-S2,Tgl,3856 H
+3867 Htp 7AAsia & Australia & Pacific0,402.0,Solar Sports,MPEG-4/SD,1410.0,PowerVu,,False,Solar Entertainment,3/4,3750,DVB-S2,Eng,3867 H
+3867 Htp 7AAsia & Australia & Pacific0,405.0,Front Row Channel,MPEG-4/SD,1110.0,PowerVu,,False,Solar Entertainment,3/4,3750,DVB-S2,Eng,3867 H
+3867 Htp 7AAsia & Australia & Pacific0,417.0,Solar Flix,MPEG-4/SD,1810.0,PowerVu,,False,Solar Entertainment,3/4,3750,DVB-S2,Eng,3867 H
+3872 Htp 7AAsia & Australia & Pacific0,,Zoe Broadcasting Network,,,,https://www.lyngsat.com/providers/ph/Zoe-Broadcasting-Network.html,True,Zoe Broadcasting Network,5/6,3750,DVB-S2,,3872 H
+3872 Htp 7AAsia & Australia & Pacific0,1.0,Light TV,MPEG-4/SD,257.0,,,False,Zoe Broadcasting Network,5/6,3750,DVB-S2,Tgl,3872 H
+3872 Htp 7AAsia & Australia & Pacific0,2.0,A2Z Channel 11,MPEG-4/SD,513.0,,,False,Zoe Broadcasting Network,5/6,3750,DVB-S2,Tgl,3872 H
+3876 Htp 7AAsia & Australia & Pacific0,,Viva Entertainment,,,PowerVu,https://www.lyngsat.com/providers/ph/Viva-Entertainment.html,True,Viva Entertainment,3/4,3750,DVB-S2,,3876 H
+3876 Htp 7AAsia & Australia & Pacific0,1.0,Pinoy Box Office,MPEG-4/SD,110.0,PowerVu,,False,Viva Entertainment,3/4,3750,DVB-S2,Tgl,3876 H
+3876 Htp 7AAsia & Australia & Pacific0,2.0,Viva Cinema,MPEG-4/SD,210.0,PowerVu,,False,Viva Entertainment,3/4,3750,DVB-S2,Tgl,3876 H
+3876 Htp 7AAsia & Australia & Pacific0,4.0,Tagalized Movie Channnel,MPEG-4/SD,410.0,PowerVu,,False,Viva Entertainment,3/4,3750,DVB-S2,Tgl,3876 H
+3897 Htp 7AAsia & Australia & Pacific0,64.0,AllTV,2-2MPEG-4/HD,101.0,,,False,Viva Entertainment,3/4,3140,DVB-S2,Tgl,3897 H
+3930 Vtp 8BAsia & Australia & Pacific0,,People's TV,2-2,,,https://www.lyngsat.com/providers/ph/Peoples-TV.html,True,People's TV,5/6,3500,DVB-S2,,3930 V
+3930 Vtp 8BAsia & Australia & Pacific0,1.0,People's TV,MPEG-4/SD,200.0,,https://www.lyngsat.com/providers/ph/Peoples-TV.html,True,People's TV,5/6,3500,DVB-S2,Tgl,3930 V
+3930 Vtp 8BAsia & Australia & Pacific0,2.0,Congress TV,MPEG-4/SD,513.0,,,False,People's TV,5/6,3500,DVB-S2,Tgl,3930 V
+3946 Vtp 8BAsia & Australia & Pacific0,,SpeedCast,,,ABV,https://www.lyngsat.com/providers/hk/SpeedCast.html,True,SpeedCast,3/4,17600,DVB-S2,,3946 V
+3946 Vtp 8BAsia & Australia & Pacific0,1.0,AniPlus HD,MPEG-4/HD,101.0,ABV,,False,SpeedCast,3/4,17600,DVB-S2,Kor,3946 V
+3946 Vtp 8BAsia & Australia & Pacific0,2.0,CinemaWorld,MPEG-4/HD,201.0,ABV,,False,SpeedCast,3/4,17600,DVB-S2,Eng,3946 V
+3946 Vtp 8BAsia & Australia & Pacific0,3.0,K+,MPEG-4/HD,301.0,ABV,,False,SpeedCast,3/4,17600,DVB-S2,Kor,3946 V
+4056 Htp 11AAsia & Australia & Pacific0,1.0,Radio Maria Philippines,?-?,,,,False,SpeedCast,1/2,256,DVB-S2,Tgl,4056 H
+4081 Htp 12AAsia & Australia & Pacific0,,TV 5 Network,,,,https://www.lyngsat.com/providers/ph/TV-5-Network.html,True,TV 5 Network,3/5,10000,DVB-S2,,4081 H
+4081 Htp 12AAsia & Australia & Pacific0,2380.0,TV 5 (Philippines),MPEG-4/SD,2382.0,,,False,TV 5 Network,3/5,10000,DVB-S2,Tgl,4081 H
+4081 Htp 12AAsia & Australia & Pacific0,2880.0,TV 5 (Philippines),MPEG-4/1seg,2882.0,,,False,TV 5 Network,3/5,10000,DVB-S2,Tgl,4081 H
+4081 Htp 12AAsia & Australia & Pacific0,2430.0,RPTV,MPEG-4/SD,2432.0,,,False,TV 5 Network,3/5,10000,DVB-S2,Tgl,4081 H
+4095 Htp 12AAsia & Australia & Pacific0,9.0,RPTV,?-?MPEG-4/HD,110.0,PowerVu,,False,TV 5 Network,3/4,5000,DVB-S2,Tgl,4095 H
+4081 Htp 12AAsia & Australia & Pacific0,2720.0,One Sports,MPEG-4/SD,2722.0,,,False,TV 5 Network,3/5,10000,DVB-S2,Eng,4081 H
+4095 Htp 12AAsia & Australia & Pacific0,11.0,DWIZ 882 AM,,,PowerVu,,False,TV 5 Network,3/4,5000,DVB-S2,Tgl,4095 H
+12294 VChina0,,D-Sky,?-6,,Viaccess,,False,TV 5 Network,3/4,45000,DVB-S2,,12294 V
+12416 Vtp 3BChina0,,D-Sky,1-4,,Topreal,,False,TV 5 Network,3/4,45000,DVB-S2,,12416 V
+12660 Vtp 7BChina0,,D-Sky,1-10,,ToprealViaccess,,False,TV 5 Network,3/4,45000,DVB-S2,,12660 V
+12416 Vtp 3BChina0,201.0,CCTV 13,MPEG-4/SD,2001.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12416 V
+12477 HMongolia0,,Mongolsat,,,TongfangVerimatrix,,False,TV 5 Network,2/3,45000,DVB-S2,,12477 H
+12598 HMongolia0,,Mongolsat,,,Tongfang,,False,TV 5 Network,2/3,45000,DVB-S2,,12598 H
+12477 HMongolia0,101.0,MNB,MPEG-4/HD,1311.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,102.0,TV 25 (Mongolia),MPEG-4/HD,1321.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,103.0,TV 5 (Mongolia),MPEG-4/SD,1061.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,104.0,9 TV (Mongolia),MPEG-4/SD,1361.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,105.0,TenGer TV,MPEG-4/HD,1081.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,106.0,Mongol TV,MPEG-4/SD,1181.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,107.0,Edu TV,MPEG-4/SD,1291.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,108.0,UBS,MPEG-4/SD,1121.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,109.0,Eagle News,MPEG-4/SD,1021.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,112.0,SBN TV (Mongolia),MPEG-4/SD,1031.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,113.0,MNB Sport,MPEG-4/SD,1331.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,114.0,NTV (Mongolia),MPEG-4/HD,1351.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,115.0,ETV HD,MPEG-4/SD,1171.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,116.0,TV 8 (Mongolia),MPEG-4/SD,1141.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,117.0,Star TV (Mongolia),MPEG-4/SD,1051.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,118.0,Malchin TV,MPEG-4/SD,1071.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,119.0,C1,MPEG-4/SD,1191.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,121.0,Suld TV,MPEG-4/SD,1211.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,125.0,Eco TV (Mongolia),MPEG-4/SD,1251.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,128.0,Central TV,MPEG-4/SD,1281.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,129.0,Royal HD,MPEG-4/SD,1161.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12477 HMongolia0,131.0,Ekh Oron TV,MPEG-4/SD,1041.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12477 H
+12598 HMongolia0,174.0,Mongolsat promo,MPEG-4/HD,1741.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12598 H
+12598 HMongolia0,203.0,TV Kino Teatr,MPEG-4/HD,2031.0,,,False,TV 5 Network,2/3,45000,DVB-S2,Mon,12598 H
+12660 Vtp 7BChina0,718.0,SJTV,MPEG-4/HD,1086.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12660 V
+12660 Vtp 7BChina0,719.0,Sinda TV,MPEG-4/HD,1091.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12660 V
+12660 Vtp 7BChina0,721.0,Good 2,MPEG-4/HD,1101.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12660 V
+12660 Vtp 7BChina0,722.0,Hope Channel Chinese,MPEG-4/HD,1106.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12660 V
+12660 Vtp 7BChina0,723.0,UCTV,MPEG-4/SD,1111.0,,,False,TV 5 Network,3/4,45000,DVB-S2,Chi,12660 V
+12721 Vtp 8BChina0,,Great Wall,,,,https://www.lyngsat.com/providers/cn/Great-Wall.html,True,Great Wall,2/3,43200,DVB-S2,,12721 V
+12721 Vtp 8BChina0,1.0,CCTV 4 Asia,MPEG-4/SD,512.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,2.0,CGTN,MPEG-4/SD,513.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,3.0,CCTV Opera,MPEG-4/SD,514.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,4.0,CCTV 6,MPEG-4/SD,515.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,5.0,CCTV Entertainment,MPEG-4/SD,516.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,6.0,CGTN Documentary,MPEG-4/SD,517.0,,,False,Great Wall,2/3,43200,DVB-S2,Eng,12721 V
+12721 Vtp 8BChina0,8.0,Dragon TV International,MPEG-4/SD,519.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,9.0,Jiangsu TV International,MPEG-4/SD,520.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,10.0,Hunan TV International,MPEG-4/SD,521.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,11.0,Fujian Straits TV,MPEG-4/SD,522.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,12.0,Xiamen Star TV International,MPEG-4/SD,523.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,13.0,The Greater Bay Satellite TV,MPEG-4/SD,524.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,14.0,Shenzhen Satellite TV International,MPEG-4/HD,595.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,16.0,Chongqing TV International,MPEG-4/SD,527.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,19.0,Henan TV International Channel,MPEG-4/SD,530.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,20.0,Anhui International Channel,MPEG-4/SD,531.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,21.0,Zhejiang Satellite TV International,MPEG-4/SD,532.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12721 Vtp 8BChina0,22.0,Yunnan Lancang-Mekong International Channel,MPEG-4/SD,533.0,,,False,Great Wall,2/3,43200,DVB-S2,,12721 V
+12721 Vtp 8BChina0,30.0,BRTV International Channel,MPEG-4/HD,592.0,,,False,Great Wall,2/3,43200,DVB-S2,Chi,12721 V
+12739 Htp 8AChina0,,APT,1337-8,,,https://www.lyngsat.com/providers/hk/APT.html,True,APT,2/3,9600,DVB-S2,,12739 H
+12739 Htp 8AChina0,1.0,Angel TV Chinese,MPEG-4/SD,2801.0,,,False,APT,2/3,9600,DVB-S2,Chi,12739 H
+12739 Htp 8AChina0,4.0,GCN Korea,MPEG-4/SD,48.0,,,False,APT,2/3,9600,DVB-S2,,12739 H
+12739 Htp 8AChina0,12.0,One TV,MPEG-4/SD,36.0,,,False,APT,2/3,9600,DVB-S2,Chi,12739 H
+12739 Htp 8AChina0,13.0,One TV Discover,MPEG-4/SD,110.0,,,False,APT,2/3,9600,DVB-S2,Chi,12739 H
+12739 Htp 8AChina0,,NHK World Japan Radio,,,,,False,APT,2/3,9600,DVB-S2,,12739 H

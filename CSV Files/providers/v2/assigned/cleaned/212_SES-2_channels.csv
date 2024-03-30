@@ -1,0 +1,24 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4100 Vtp 20North America C,,(WWE feeds),,,,,False,,5/6,30000,DVB-S2,,4100 V
+4105 Htp 21North America C,,(feeds),,,,,False,,3/4,7500,DVB-S2,,4105 H
+4138 Vtp 22North America C,,(feeds),,,,,False,,3/4,17000,DVB-S2,,4138 V
+11940 Vtp 12North America Ku,,(feeds),,,,,False,,TSC,,NTSC,,11940 V
+12050 Vtp 18North America Ku,,(feeds),,,,,False,,800,8,DVB-S2,,12050 V
+12064 Vtp 18North America Ku,,(feeds),,,,,False,,5/6,6510,DVB-S6,,12064 V
+12152 Htp 23North America Ku,,(feeds),,,,,False,,000,15,DVB-S2,,12152 H
+12165 Htp 23North America Ku,,(feeds),,,,,False,,3/4,6110,DVB-S6,,12165 H
+4177 Htp 23North America C0,2.0,Point of View,?-3,,,,False,,3/4,2894,DVB-S2,Eng,4177 H
+11744 Htp 3North America Ku,,(Sinclair feeds),,,,,False,,3/4,4250,DVB-S2,,11744 H
+11749 Htp 3North America Ku,,(Sinclair feeds),,,,,False,,3/4,4250,DVB-S2,,11749 H
+11754 Htp 3North America Ku,,(Sinclair feeds),,,,,False,,3/4,4250,DVB-S2,,11754 H
+11760 Htp 3North America Ku,,(CNN Newsource feeds),,,,,False,,3/4,3978,DVB-S3,,11760 H
+11960 Htp 13North America Ku,,(CNN Newsource feeds),,,,,False,,3/4,30000,DVB-S2,,11960 H
+11800 Htp 5North America Ku0,,,,,,,False,,,,,,11800 H
+11804 Htp 5North America Ku,,(LPB feeds),,,,,False,,3/5,1250,DVB-S2,,11804 H
+11811 Htp 5North America Ku0,,LPB,,,,https://www.lyngsat.com/providers/us/LPB.html,True,LPB,3/5,11150,DVB-S2,,11811 H
+11811 Htp 5North America Ku0,6.0,LPB,MPEG-2/HD,97.0,,https://www.lyngsat.com/providers/us/LPB.html,True,LPB,3/5,11150,DVB-S2,Eng,11811 H
+11811 Htp 5North America Ku0,4.0,LPB Kids,MPEG-2/SD,65.0,,,False,LPB,3/5,11150,DVB-S2,Eng,11811 H
+11811 Htp 5North America Ku0,5.0,LPB 3,MPEG-2/SD,81.0,,,False,LPB,3/5,11150,DVB-S2,Eng,11811 H
+12044 Vtp 18North America Ku0,3.0,The Florida Channel,1-4MPEG-2/SD,49.0,,,False,LPB,2/3,3200,DVB-S2,Eng,12044 V
+12137 Htp 21North America Ku0,1.0,[NYS Media test card],1-1,69.0,,,False,LPB,3/4,3978,DVB-S2,,12137 H
+12184 Vtp 24North America Ku,,(Unreliable Sources feeds),,,,,False,LPB,3/4,3500,DVB-S3,,12184 V

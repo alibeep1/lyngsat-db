@@ -1,0 +1,117 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3888 Htp 8C0,,,,,,,False,,P 0,,DVB-S2,,3888 H
+3926 Vtp 7C0,,,,,,,False,,,,,,3926 V
+4198 Htp 14C0,,,,,,,False,,5/6,520,DVB-S2,,4198 H
+3888 Htp 8C0,101.0,NBC TV (Papua New Guinea),HEVC/HD,1011.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,103.0,NBC TV (Papua New Guinea),HEVC/SD,1031.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,104.0,NBC TV (Papua New Guinea),HEVC/SD,1061.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,105.0,NBC TV (Papua New Guinea),HEVC/SD,1081.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,102.0,EM TV (Papua New Guinea),HEVC/HD,1091.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,106.0,CGTN,HEVC/SD,1111.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,107.0,Pasifika TV,HEVC/SD,1141.0,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,108.0,CGTN Arabic,HEVC/SD,1151.0,,,False,,P 0,,DVB-S2,Ara,3888 H
+3888 Htp 8C0,201.0,NBC National Radio,,,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,202.0,Tribe 92 FM,,,,,False,,P 0,,DVB-S2,Eng,3888 H
+3888 Htp 8C0,203.0,Lalokau FM,,,,,False,,P 0,,DVB-S2,Eng,3888 H
+3916 Htp 8C0,10.0,Hope Channel Australia,0-1MPEG-2/SD,1160.0,,,False,,3/4,3330,DVB-S2,Eng,3916 H
+3916 Htp 8C0,11.0,LifeTalk Radio,,,,,False,,3/4,3330,DVB-S2,Eng,3916 H
+3916 Htp 8C0,12.0,Hope FM 88.1,,,,,False,,3/4,3330,DVB-S2,Eng,3916 H
+3916 Htp 8C0,13.0,Hope FM 107.5,,,,,False,,3/4,3330,DVB-S2,Eng,3916 H
+3916 Htp 8C0,14.0,Radio Nuevo Tiempo (Brazil),,,,,False,,3/4,3330,DVB-S2,Por,3916 H
+3947 Htp 8C0,,Walesi,,,Verimatrix,https://www.lyngsat.com/providers/fj/Walesi.html,True,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,110.0,FBC TV,MPEG-4/SD,113.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,120.0,FBC Sports,MPEG-4/HD,123.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,130.0,FBC 2,MPEG-4/SD,133.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,140.0,Parliament of Fiji,MPEG-4/SD,4096.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,Eng Eng,3947 H
+3947 Htp 8C0,210.0,Fiji One,MPEG-4/SD,213.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,Eng,3947 H
+3947 Htp 8C0,220.0,Channel 2 (Fiji),MPEG-4/SD,2101.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,Eng Eng,3947 H
+3947 Htp 8C0,310.0,Mai TV,MPEG-4/SD,313.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,Eng,3947 H
+3947 Htp 8C0,410.0,Hope Channel Fiji,MPEG-4/SD,3005.0,Verimatrix,,False,Walesi,3/5,15000,DVB-S2,Eng Eng,3947 H
+3947 Htp 8C0,620.0,Education Channel,MPEG-4/SD,622.0,,,False,Walesi,3/5,15000,DVB-S2,Eng,3947 H
+3947 Htp 8C0,151.0,Radio Fiji Two,,,,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,152.0,Bula FM,,,,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3947 Htp 8C0,153.0,Gold FM,,,,,False,Walesi,3/5,15000,DVB-S2,Eng,3947 H
+3947 Htp 8C0,154.0,Mirchi FM,,,,,False,Walesi,3/5,15000,DVB-S2,Hin,3947 H
+3947 Htp 8C0,155.0,2day FM,,,,,False,Walesi,3/5,15000,DVB-S2,Eng,3947 H
+3947 Htp 8C0,156.0,Radio Fiji One,,,,,False,Walesi,3/5,15000,DVB-S2,,3947 H
+3978 Vtp 9C,,(feeds),,,,,False,Walesi,3/4,2755,DVB-S2,,3978 V
+12518 Htp F1South Pacific,,(feeds),,,,,False,Walesi,5/6,7500,DVB-S2,,12518 H
+12527 Htp F1South Pacific,,(feeds),,,,,False,Walesi,3/4,7500,DVB-S2,,12527 H
+4196 Htp 14C0,1.0,NBC TV,?-?MPEG-4/SD,101.0,,,False,Walesi,3/4,1415,DVB-S2,Eng,4196 H
+4198 Htp 14C0,1.0,K-Love,,,,,False,Walesi,5/6,520,DVB-S2,Eng,4198 H
+4198 Htp 14C0,2.0,Air 1 Radio,,,,,False,Walesi,5/6,520,DVB-S2,Eng,4198 H
+11044 Vtp B4South Pacific,,ABC NT,,,,https://www.lyngsat.com/providers/au/ABC-NT.html,True,ABC NT,123,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,752.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,736.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,704.0,ABC News (Australia),MPEG-2/SD,516.0,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,753.0,ABC TV NT,MPEG-2/SD,512.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,757.0,ABC TV NT,MPEG-4/HD,515.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,754.0,ABC Kids NT (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,754.0,ABC TV Plus NT (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,756.0,ABC Me NT,MPEG-2/SD,514.0,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,758.0,ABC Double J,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,742.0,ABC Double J,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,710.0,ABC Double J,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,759.0,ABC Jazz,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,743.0,ABC Jazz,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,711.0,ABC Jazz,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,760.0,ABC Kids listen,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,744.0,ABC Kids listen,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,712.0,ABC Kids listen,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,761.0,ABC Triple J,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,745.0,ABC Triple J,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,713.0,ABC Triple J,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,762.0,ABC Triple J Unearthed,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,746.0,ABC Triple J Unearthed,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,714.0,ABC Triple J Unearthed,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,763.0,ABC Classic,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,747.0,ABC Classic,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,715.0,ABC Classic,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,764.0,ABC Country,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,748.0,ABC Country,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,716.0,ABC Country,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,765.0,ABC Radio Darwin,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,766.0,ABC Radio National NSW,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,750.0,ABC Radio National NSW,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,718.0,ABC Radio National NSW,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,767.0,ABC NewsRadio,,,,,False,ABC NT,123,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,751.0,ABC NewsRadio,,,,,False,ABC NT,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,719.0,ABC NewsRadio,,,,,False,ABC NT,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,ABC WA,,,,https://www.lyngsat.com/providers/au/ABC-WA.html,True,ABC WA,124,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,737.0,ABC TV WA,MPEG-2/SD,512.0,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,741.0,ABC TV WA,MPEG-4/HD,515.0,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,738.0,ABC Kids WA (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,738.0,ABC TV Plus WA (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,740.0,ABC Me WA,MPEG-2/SD,514.0,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,749.0,ABC Radio Perth,,,,,False,ABC WA,124,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,ABC Queensland,,,,https://www.lyngsat.com/providers/au/ABC-Queensland.html,True,ABC Queensland,126,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,705.0,ABC TV Queensland,MPEG-2/SD,512.0,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,709.0,ABC TV Queensland,MPEG-4/HD,515.0,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,706.0,ABC Kids Queensland (05.00-19.30),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,706.0,ABC TV Plus Queensland (19.30-05.00),MPEG-2/SD,513.0,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,708.0,ABC Me Queensland,MPEG-2/SD,514.0,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,717.0,ABC Radio Brisbane,,,,,False,ABC Queensland,126,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,SBS WA,,,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS WA,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS WA,,161.0,,https://www.lyngsat.com/providers/au/SBS-WA.html,True,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Viceland WA,/HD,162.0,,,False,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Food WA,,163.0,,,False,SBS WA,132,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,NITV,,164.0,,,False,SBS WA,132,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,NITV,,164.0,,,False,SBS WA,135,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,936.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,952.0,SBS WorldWatch,MPEG-4/SD,165.0,,,False,SBS WA,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 1 WA,,,,,False,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 2 WA,,,,,False,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 3,,,,,False,SBS WA,132,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 3,,,,,False,SBS WA,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Queensland,,,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Queensland,/HD,102.0,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Queensland,,161.0,,https://www.lyngsat.com/providers/au/SBS-Queensland.html,True,SBS Queensland,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Viceland Queensland,/HD,162.0,,,False,SBS Queensland,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Food Queensland,,163.0,,,False,SBS Queensland,135,,DVB-S2,Eng,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 1 Queensland,,,,,False,SBS Queensland,135,,DVB-S2,,11044 V
+11044 Vtp B4South Pacific,,SBS Radio 2 Queensland,,,,,False,SBS Queensland,135,,DVB-S2,,11044 V
+11537 Vtp G3SW Pacific,,@ SpeedCast,,,,,False,SBS Queensland,500,2,DVB-S2,,11537 V
+11646 Vtp G7SE Pacific,,@ SpeedCast,,,,,False,SBS Queensland,200,2,DVB-S2,,11646 V
+11623 Vtp G6North Pacific,,@ Altegro Sky,,,,,False,SBS Queensland,8/9,3500,DVB-S2,,11623 V
+12720 Htp F5NE Asia,1.0,IBC 13,?-?MPEG-4/SD,210.0,,,False,SBS Queensland,1/2,3000,DVB-S2,Tgl,12720 H

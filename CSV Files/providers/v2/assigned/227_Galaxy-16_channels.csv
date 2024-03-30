@@ -1,0 +1,93 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,Provider_URL,is_Provider,Provider
+3793 Vtp 4C,DVB-S270301/2,,(feeds),,,,,,Abbie100910,,False,
+3980 Vtp 14C,DVB-S264705/6,,(feeds),,,,,,Abbie100910,,False,
+4091 Vtp 20C,DVB-S132353/4,,(feeds),,,,,,EnoSat240210,,False,
+4194 Vtp 24C,DVB-S28PSK75003/4,,(feeds),,,,,,EnoSat240210,,False,
+3855 Vtp 8C0,DVB-S28PSK16675/6,1.0,CV Shopping,,65535-1MPEG-4/SD,33.0,9.4  34 Spa,,Mike 4230325,,False,
+3866 Vtp 8C0,DVB-S216APSK171405/6,,,,,,,PowerVu,ML240123,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,,,,,,,Director,NOS482220827,,False,
+3866 Vtp 8C0,DVB-S216APSK171405/6,1.0,Las Estrellas México,,HEVC/HD,2001.0,4011 Spa,PowerVu,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,1.0,Las Estrellas México,,HEVC/HD,2001.0,4011 Spa,Director,,,False,
+3866 Vtp 8C0,DVB-S216APSK171405/6,2.0,Canal 5 (Mexico City),,HEVC/HD,2002.0,4021 Spa,PowerVu,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,2.0,Canal 5 (Mexico City),,HEVC/HD,2002.0,4021 Spa,Director,,,False,
+3866 Vtp 8C0,DVB-S216APSK171405/6,3.0,Nu9ve,,HEVC/HD,2003.0,4031 Spa,PowerVu,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,3.0,Nu9ve,,HEVC/HD,2003.0,4031 Spa,Director,,,False,
+3866 Vtp 8C0,DVB-S216APSK171405/6,4.0,Foro TV (Mexico),,HEVC/HD,2004.0,4041 Spa,PowerVu,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,10.0,Foro TV (Mexico),,HEVC/HD,2010.0,4102 Spa,Director,,,False,
+3928 Htp 11C,DVB-S31257/8,,(Televisa feeds),,,,,,Voyager101005,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,4.0,Las Estrellas México +1,,HEVC/HD,2004.0,4041 Spa,Director,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,5.0,Las Estrellas México +2,,HEVC/HD,2005.0,4051 Spa,Director,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,6.0,Canal 5 +1,,HEVC/HD,2006.0,4062 Spa,Director,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,7.0,Canal 5 +2,,HEVC/HD,2007.0,4072 Spa,Director,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,8.0,Nu9ve +1,,HEVC/HD,2008.0,4082 Spa,Director,,,False,
+3940 Vtp 12C0,DVB-S216APSK342865/6,9.0,Nu9ve +2,,HEVC/HD,2009.0,4092 Spa,Director,,,False,
+4007 Vtp 16C,DVB-S216APSK24825/6,,(Roberts Communications Network feeds),,,,,,EnoSat240210,,False,
+4022 Vtp 16C,DVB-S216APSK24835/6,,(Roberts Communications Network feeds),,,,,,Mike 4230325,,False,
+4060 Vtp 18C,DVB-S216APSK24825/6,,(Roberts Communications Network feeds),,,,,,EnoSat240210,,False,
+4037 Vtp 16C0,DVB-S216APSK12668/9,1.0,Gem Shopping Network,,65535-1MPEG-4/HD,257.0,259 Eng,,Mike 4230703,,False,
+4040 Htp 17C0,DVB-S264003/4,,Family Broadcasting Corporation,,65535-1,,5.5,,EnoSat240210,https://www.lyngsat.com/providers/us/Family-Broadcasting-Corporation.html,True,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,1.0,Family Entertainment TV,,MPEG-2/SD,100.0,101 Eng 121 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,19.0,Family Entertainment TV,,MPEG-2/HD,400.0,401 Eng 402 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,2.0,WHME-TV (South Bend),,MPEG-4/HD,200.0,201 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,3.0,World Harvest TV,,MPEG-2/SD,300.0,301 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,20.0,KWHE-TV (Honolulu),,MPEG-4/HD,500.0,501 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,22.0,Family Movie Classics,,MPEG-4/SD,700.0,701 Eng 721 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,23.0,Family Movie Classics,,MPEG-4/HD,800.0,801 Eng 821 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,4.0,Angel 1,,,,102 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,4.0,Angel 2,,,,102 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,5.0,Angel 3,,,,103 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,5.0,Angel 4,,,,103 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,7.0,Angel 5,,,,105 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,7.0,Angel 6,,,,105 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,8.0,T8WH,,,,106 Eng,,,,False,Family Broadcasting Corporation
+4040 Htp 17C0,DVB-S264003/4,9.0,Pulse FM,,,,107 Eng,,,,False,Family Broadcasting Corporation
+4080 Htp 19C,DVB-S28PSK312503/4,,(Fox feeds),,,,,,EnoSat240210,,False,Family Broadcasting Corporation
+11851 Htp 7Ku,DVB-S28PSK69003/4,,(Fox feeds),,,,,,E Okada211009,,False,Family Broadcasting Corporation
+4120 Htp 21C,DVB-S28PSK300009/10,,(ABC feeds),,,,,,Abbie100910,,False,Family Broadcasting Corporation
+4140 Vtp 22C0,DVB-S28PSK314503/4,,Azteca,,1-1,,7.9,,EnoSat240210,https://www.lyngsat.com/providers/mx/Azteca.html,True,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,1.0,Azteca Uno,,MPEG-2/HD,49.0,52 Spa,,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,2.0,Azteca 7 Mexico City,,MPEG-2/HD,65.0,68 Spa,HRT,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,3.0,ADN 40,,MPEG-2/SD,81.0,83 Spa,,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,5.0,ADN 40,,MPEG-4/HD,113.0,115 Spa,,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,4.0,Azteca America Pacífico,,MPEG-4/HD,97.0,100 Spa,,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,6.0,Azteca America Este,,MPEG-4/HD,129.0,13. Spa,,,,False,Azteca
+4140 Vtp 22C0,DVB-S28PSK314503/4,9.0,A Más +,,MPEG-2/SD,177.0,179 Spa,,,,False,Azteca
+4144 Htp 23C0,DVB-S2QPSK24003/4,1.0,Victory Channel (USA),,1-0MPEG-4/SD,512.0,4.04112 Eng,,Mike 4221123,,False,Azteca
+4151 Htp 23C0,DVB-S37753/4,2.0,WAPA America (San Juan),,1-1MPEG-2/SD,33.0,5.5  36 Spa  38 Spa,,EnoSat240210,,False,Azteca
+11718 Htp 1Ku0,DVB-S28PSK23902/3,1.0,Montana PBS,,65535-1MPEG-4/SD,101.0,6.6 256 Eng,,Mike 4230518,,False,Azteca
+11760 Htp 3Ku0,DVB-S28PSK300005/6,,NBC,,,,9.4,BISS,C K240224,https://www.lyngsat.com/providers/us/NBC.html,True,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,28.0,Cozi TV,,MPEG-2/SD,280.0,281 Eng,,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,61.0,NBC East,,MPEG-4/HD,610.0,611 Eng,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,62.0,NBC Central,,MPEG-4/HD,620.0,621 Eng,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,63.0,NBC Mountain,,MPEG-4/HD,630.0,631 Eng,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,64.0,NBC West,,MPEG-4/HD,640.0,641 Eng,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,65.0,(NBC feeds),,,650.0,651,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,66.0,(NBC feeds),,,660.0,661,BISS,,,False,NBC
+11760 Htp 3Ku0,DVB-S28PSK300005/6,67.0,(NBC feeds),,,670.0,671,BISS,,,False,NBC
+11768 Vtp 4Ku,DVB-S2QPSK8750,,(Nexstar feeds),,,,,,B Nyob231202,,False,NBC
+11825 Htp 7Ku,DVB-S39793/4,,(Fox feeds) (1),,,,,,A Cooper080630,,False,NBC
+11865 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (1),,,,,,A Cooper080630,,False,NBC
+11905 Htp 11Ku,DVB-S39793/4,,(Fox feeds) (1),,,,,,A Cooper080630,,False,NBC
+11830 Htp 7Ku,DVB-S39793/4,,(Fox feeds) (2),,,,,,A Cooper080630,,False,NBC
+11871 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (2),,,,,,A Cooper080630,,False,NBC
+11911 Htp 11Ku,DVB-S39793/4,,(Fox feeds) (2),,,,,,A Cooper080630,,False,NBC
+11836 Htp 7Ku,DVB-S39793/4,,(Fox feeds) (3),,,,,,A Cooper080630,,False,NBC
+11876 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (3),,,,,,A Cooper080630,,False,NBC
+11917 Htp 11Ku,DVB-S39793/4,,(Fox feeds) (3),,,,,,A Cooper080630,,False,NBC
+11842 Htp 7Ku,DVB-S39793/4,,(Fox feeds) (4),,,,,,A Cooper080630,,False,NBC
+11882 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (4),,,,,,A Cooper080630,,False,NBC
+11888 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (5),,,,,,A Cooper080630,,False,NBC
+11894 Htp 9Ku,DVB-S39793/4,,(Fox feeds) (6),,,,,,A Cooper080630,,False,NBC
+11993 Vtp 14Ku0,DVB-S2QPSK10752/3,,Family Radio (USA),,,,3.1,,E Okada211009,https://www.lyngsat.com/providers/us/Family-Radio.html,True,Family Radio (USA)
+11993 Vtp 14Ku0,DVB-S2QPSK10752/3,1.0,Family Radio East,,,,4096 Eng,,,,False,Family Radio (USA)
+11993 Vtp 14Ku0,DVB-S2QPSK10752/3,2.0,Family Radio West,,,,4097 Eng,,,,False,Family Radio (USA)
+11993 Vtp 14Ku0,DVB-S2QPSK10752/3,3.0,Family Radio New York,,,,4098 Eng,,,,False,Family Radio (USA)
+12095 Htp 19Ku0,DVB-S2QPSK36764/5,,InfoWars,,MPEG-4/SD,4642.0,4.7 256 Eng,,Amperson X200330,,False,Family Radio (USA)
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,,PBS,,,,7.9,,Mike 4230122,https://www.lyngsat.com/providers/us/PBS.html,True,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,3.0,PBS East,,MPEG-4/HD,49.0,52 Eng,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,4.0,PBS West,,MPEG-4/HD,65.0,68 Eng,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,5.0,(PBS feeds),,,81.0,84,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,6.0,PBS Kids,,MPEG-4/HD,97.0,100 Eng,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,12.0,Create,,MPEG-4/SD,193.0,196 Eng 197 Spa,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,14.0,World,,MPEG-4/SD,225.0,228 Eng,,,,False,PBS
+12140 Vtp 22Ku0,DVB-S28PSK300003/4,15.0,First Nations Experience,,MPEG-4/SD,241.0,244 Eng,,,,False,PBS

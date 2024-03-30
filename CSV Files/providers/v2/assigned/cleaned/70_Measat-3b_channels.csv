@@ -1,0 +1,47 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10732 Vtp 1VBMalaysia0,,Astro,2176-501,,Videoguard,,False,,5/6,30000,DVB-S2,,10732 V
+10772 Vtp 2VBMalaysia0,,Astro,2176-502,,Videoguard,,False,,5/6,30000,DVB-S2,,10772 V
+10812 Vtp 3VBMalaysia0,,Astro,2176-503,,Videoguard,,False,,5/6,30000,DVB-S2,,10812 V
+10852 Vtp 4VBMalaysia0,,Astro,2176-504,,Videoguard,,False,,5/6,30000,DVB-S2,,10852 V
+10892 Vtp 5VBMalaysia0,,Astro,2176-505,,Videoguard,,False,,5/6,30000,DVB-S2,,10892 V
+10932 Vtp 6VBMalaysia0,,Astro,2176-506,,Videoguard,,False,,5/6,30000,DVB-S2,,10932 V
+11775 Vtp 8VBMalaysia0,,Astro,2176-302,,Videoguard,,False,,3/4,30000,DVB-S2,,11775 V
+11895 Vtp 11VBMalaysia0,,Astro,2176-305,,Videoguard,,False,,3/4,30000,DVB-S2,,11895 V
+12276 Htp 13KHSouth Asia,,Sun Direct,18-21,,Irdeto,,False,,3/4,34000,DVB-S2,,12276 H
+12316 Htp 14KHSouth Asia,,Sun Direct,18-11,,Irdeto,,False,,5/6,30000,DVB-S3,,12316 H
+12316 Htp 14KHSouth Asia,21.0,Sun Direct promo,MPEG-4/SD,94.0,,,False,,5/6,30000,DVB-S3,,12316 H
+12436 Htp 17KHSouth Asia,,Sun Direct,,,Irdeto,,False,,3/4,32000,DVB-S3,,12436 H
+12476 Htp 18KHSouth Asia,,Sun Direct,,,Irdeto,,False,,5/6,32000,DVB-S3,,12476 H
+12523 Vtp 7KVSouth Asia,,Sun Direct,,,Irdeto,,False,,3/4,32000,DVB-S2,,12523 V
+12563 Vtp 8KVSouth Asia,,Sun Direct,,,Irdeto,,False,,5/6,32000,DVB-S3,,12563 V
+12563 HIndonesia,,K Vision,,,ConaxNeotion SHL,,False,,2/3,31000,DVB-S2,,12563 H
+12563 HIndonesia,44.0,On Channel,MPEG-4/SD,1794.0,,,False,,2/3,31000,DVB-S2,Ind,12563 H
+12603 Vtp 9KVSouth Asia,,Sun Direct,,,Irdeto,,False,,5/6,32000,DVB-S3,,12603 V
+12603 VIndonesia,,Transvision,1-9,,IrdetoStreamGuard,,False,,3/5,30000,DVB-S2,,12603 V
+12603 VIndonesia,1204.0,Dunia Lain,MPEG-4/SD,211.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1205.0,Eat N Go,MPEG-4/HD,215.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1211.0,Bioskop Indonesia,MPEG-4/SD,232.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1212.0,!nsert,MPEG-4/SD,235.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1214.0,Khazanah,MPEG-4/SD,241.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1215.0,Dunia Anak,MPEG-4/SD,244.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1240.0,Lingua Channel,MPEG-4/SD,482.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1404.0,Al-Bahjah TV,MPEG-4/HD,705.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 VIndonesia,1406.0,Riau TV,MPEG-4/SD,702.0,,,False,,3/5,30000,DVB-S2,Ind,12603 V
+12603 HIndonesia,,Transvision,1-13,,IrdetoStreamGuard,,False,,3/5,30000,DVB-S2,,12603 H
+12603 HIndonesia,1405.0,Nabawi TV,MPEG-4/HD,714.0,,,False,,3/5,30000,DVB-S2,Ind,12603 H
+12603 HIndonesia,1407.0,Al Wafa Tarim,MPEG-4/SD,762.0,,,False,,3/5,30000,DVB-S2,Ind,12603 H
+12603 HIndonesia,1605.0,Musik Indonesia,MPEG-4/HD,614.0,,,False,,3/5,30000,DVB-S2,Ind,12603 H
+12643 Vtp 10KVSouth Asia,,Sun Direct,,,Irdeto,,False,,5/6,32000,DVB-S3,,12643 V
+12643 VIndonesia,,Transvision,1-10,,IrdetoStreamGuard,,False,,3/5,30000,DVB-S2,,12643 V
+12643 VIndonesia,1340.0,Maleo,MPEG-4/SD,882.0,,,False,,3/5,30000,DVB-S2,Ind,12643 V
+12643 VIndonesia,1410.0,GPR TV,MPEG-4/SD,773.0,,,False,,3/5,30000,DVB-S2,Ind,12643 V
+12643 HIndonesia,,K Vision,,,ConaxNeotion SHL,,False,,2/3,31000,DVB-S2,,12643 H
+12643 HIndonesia,307.0,Rajawali TV,MPEG-4/SD,5383.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,312.0,TVRI Nasional,MPEG-4/SD,5394.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,314.0,Bali TV,MPEG-4/SD,5396.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,315.0,JTV (Indonesia),MPEG-4/SD,5397.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,316.0,Da Ai TV Indonesia,MPEG-4/SD,5398.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,319.0,TV Mu,MPEG-4/SD,5401.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,320.0,TV 9 Nusantara,MPEG-4/SD,5408.0,,,False,,2/3,31000,DVB-S2,Ind,12643 H
+12643 HIndonesia,325.0,Quran TV (Saudi Arabia),MPEG-4/SD,5413.0,,,False,,2/3,31000,DVB-S2,Ara,12643 H
+12683 Htp 23KHSouth Asia,,Sun Direct,,,Irdeto,,False,,3/4,32000,DVB-S2,,12683 H

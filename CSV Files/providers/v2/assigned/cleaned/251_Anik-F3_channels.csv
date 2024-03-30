@@ -1,0 +1,54 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4030 Vtp 8BNorth America C0,,CTV,,,,https://www.lyngsat.com/providers/ca/CTV.html,True,CTV,3/4,15000,DVB-S2,,4030 V
+4030 Vtp 8BNorth America C0,1.0,CTV British Columbia,MPEG-4/HD,4097.0,,,False,CTV,3/4,15000,DVB-S2,Eng,4030 V
+4030 Vtp 8BNorth America C0,2.0,CTV 2 Vancouver Island,MPEG-4/HD,1793.0,,,False,CTV,3/4,15000,DVB-S2,Eng,4030 V
+4030 Vtp 8BNorth America C0,3.0,(CTV feeds),,2049.0,,,False,CTV,3/4,15000,DVB-S2,,4030 V
+4096 Vtp 10BNorth America C0,,,3-301,,,,False,CTV,3/4,23800,DVB-S2,,4096 V
+4144 Vtp 11BNorth America C0,,,0-1148,,Digicipher,,False,CTV,1/2,21000,DVB-S2,,4144 V
+4096 Vtp 10BNorth America C0,2.0,[test card],MPEG-2/SD,110.0,,,False,CTV,3/4,23800,DVB-S2,,4096 V
+4096 Vtp 10BNorth America C0,500.0,Legislative Assembly TV Nunavut,MPEG-2/SD,200.0,,,False,CTV,3/4,23800,DVB-S2,Eng,4096 V
+4096 Vtp 10BNorth America C0,510.0,Canal M (Canada),,,,,False,CTV,3/4,23800,DVB-S2,Fre,4096 V
+4096 Vtp 10BNorth America C0,520.0,Radio France Internationale,,,,,False,CTV,3/4,23800,DVB-S2,Fre,4096 V
+4116 Vtp 10BNorth America C0,,Legislative Assembly of Ontario,MPEG-4/HD,95.0,,,False,CTV,4/5,3399,DVB-S2,Eng Fre,4116 V
+4144 Vtp 11BNorth America C0,904.0,Legislative Assembly of Ontario,MPEG-4/SD,131.0,Digicipher,,False,CTV,1/2,21000,DVB-S2,Eng,4144 V
+4144 Vtp 11BNorth America C0,901.0,APTN E,MPEG-4/SD,101.0,Digicipher,,False,CTV,1/2,21000,DVB-S2,Eng,4144 V
+4144 Vtp 11BNorth America C0,902.0,APTN W,MPEG-4/SD,111.0,Digicipher,,False,CTV,1/2,21000,DVB-S2,Eng,4144 V
+4144 Vtp 11BNorth America C0,903.0,APTN N,MPEG-4/SD,121.0,Digicipher,,False,CTV,1/2,21000,DVB-S2,Eng,4144 V
+4196 Vtp 12BNorth America C0,,Educational Media Foundation,1-1,,,https://www.lyngsat.com/providers/us/Educational-Media-Foundation.html,True,Educational Media Foundation,3/4,2800,DVB-S2,,4196 V
+4196 Vtp 12BNorth America C0,1.0,Radio Nueva Vida,,,,,False,Educational Media Foundation,3/4,2800,DVB-S2,Spa,4196 V
+4196 Vtp 12BNorth America C0,2.0,K-Love,,,,,False,Educational Media Foundation,3/4,2800,DVB-S2,Eng,4196 V
+4196 Vtp 12BNorth America C0,3.0,Air 1 Worship Now,,,,,False,Educational Media Foundation,3/4,2800,DVB-S2,Eng,4196 V
+4196 Vtp 12BNorth America C0,13.0,K-Love 90s,,,,,False,Educational Media Foundation,3/4,2800,DVB-S2,Eng,4196 V
+4196 Vtp 12BNorth America C0,21.0,K-Love 2000s,,,,,False,Educational Media Foundation,3/4,2800,DVB-S2,Eng,4196 V
+11715 Rtp 1North America Ku0,,Dish USA,4097-701,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11715 R
+11728 Ltp 2North America Ku0,,Dish USA,4097-702,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11728 L
+11745 Rtp 3North America Ku0,,Dish USA,4097-703,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11745 R
+11758 Ltp 4North America Ku0,,Dish USA,4097-704,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11758 L
+11776 Rtp 5North America Ku0,,Dish USA,4097-705,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11776 R
+11789 Ltp 6North America Ku0,,Dish USA,4097-706,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11789 L
+11806 Rtp 7North America Ku0,,Dish USA,4097-707,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11806 R
+11819 Ltp 8North America Ku0,,Dish USA,4097-708,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11819 L
+11837 Rtp 9North America Ku0,,Dish USA,4097-709,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11837 R
+11850 Ltp 10North America Ku0,,Dish USA,4097-710,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11850 L
+11867 Rtp 11North America Ku0,,Dish USA,4097-711,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11867 R
+11880 Ltp 12North America Ku0,,Dish USA,4097-712,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11880 L
+11898 Rtp 13North America Ku0,,Dish USA,4097-713,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11898 R
+11911 Ltp 14North America Ku0,,Dish USA,4097-714,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11911 L
+11928 Rtp 15North America Ku0,,Dish USA,4097-715,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11928 R
+11941 Ltp 16North America Ku0,,Dish USA,4097-716,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11941 L
+11959 Rtp 17North America Ku0,,Dish USA,4097-717,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11959 R
+11972 Ltp 18North America Ku0,,Dish USA,4097-718,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11972 L
+11989 Rtp 19North America Ku0,,Dish USA,4097-719,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,11989 R
+12002 Ltp 20North America Ku0,,Dish USA,4097-720,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12002 L
+12020 Rtp 21North America Ku0,,Dish USA,4097-721,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12020 R
+12033 Ltp 22North America Ku0,,Dish USA,4097-722,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12033 L
+12050 Rtp 23North America Ku0,,Dish USA,4097-723,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12050 R
+12063 Ltp 24North America Ku0,,Dish USA,4097-724,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12063 L
+12081 Rtp 25North America Ku0,,Dish USA,4097-725,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12081 R
+12094 Ltp 26North America Ku0,,Dish USA,4097-726,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12094 L
+12111 Rtp 27North America Ku0,,Dish USA,4097-727,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12111 R
+12124 Ltp 28North America Ku0,,Dish USA,4097-728,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12124 L
+12142 Rtp 29North America Ku0,,Dish USA,4097-729,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12142 R
+12155 Ltp 30North America Ku0,,Dish USA,4097-730,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12155 L
+12172 Rtp 31North America Ku0,,Dish USA,4097-731,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12172 R
+12185 Ltp 32North America Ku0,,Dish USA,4097-732,,Nagravision,,False,Educational Media Foundation,3/4,20000,DVB-S2,,12185 L

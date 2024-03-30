@@ -1,0 +1,14 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3868 Vtp 9North America0,,Unitel (Greece),,,BISS,https://www.lyngsat.com/providers/gr/Unitel.html,True,Unitel (Greece),3/4,6666,DVB-S6,,3868 V
+3868 Vtp 9North America0,,Mega Cosmos,MPEG-2/SD,513.0,BISS,,False,Unitel (Greece),3/4,6666,DVB-S6,Gre,3868 V
+3868 Vtp 9North America0,,[test card],MPEG-2/SD,514.0,,,False,Unitel (Greece),3/4,6666,DVB-S6,,3868 V
+3888 Htp 9Europe & Africa,,(feeds),,,,,False,Unitel (Greece),3/4,3250,DVB-S3,,3888 H
+3955 Htp 12South America0,,Encadena TV,,256.0,,,False,Unitel (Greece),3/4,2400,DVB-S2,Spa,3955 H
+3955 Htp 12South America0,,Radio Chetumal,,,,,False,Unitel (Greece),3/4,2400,DVB-S2,Spa,3955 H
+3958 Htp 12South America0,,SQCS Canal 4,MPEG-2/SD,4194.0,,,False,Unitel (Greece),3/4,2222,DVB-S2,Spa,3958 H
+3958 Htp 12South America0,,Caribe FM,,,,,False,Unitel (Greece),3/4,2222,DVB-S2,Spa,3958 H
+4068 Vtp 18Europe & Africa41-43,,@ SkyVision,,,,,False,Unitel (Greece),7/8,2540,DVB-S2,,4068 V
+4083 Htp 19Europe & Africa41-43,,@ Xicom,,,,,False,Unitel (Greece),2/3,10000,DVB-S2,,4083 H
+4176 Vtp 24North America0,,Antenna Group,,,BISS,https://www.lyngsat.com/providers/gr/Antenna-Group.html,True,Antenna Group,3/4,4411,DVB-S4,,4176 V
+4176 Vtp 24North America0,,Ant1 Satellite,MPEG-2/SD,516.0,BISS,,False,Antenna Group,3/4,4411,DVB-S4,Gre,4176 V
+4176 Vtp 24North America0,,Easy 97.2,,,BISS,,False,Antenna Group,3/4,4411,DVB-S4,Gre,4176 V

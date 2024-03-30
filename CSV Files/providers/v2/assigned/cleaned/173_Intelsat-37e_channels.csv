@@ -1,0 +1,74 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3760 Rtp LAMRDLatin America,,,,,,,False,,5/6,7567,DVB-S2,,3760 R
+3768 Rtp LAMRDLatin America,,,,,,,False,,5/6,5980,DVB-S2,,3768 R
+3760 Rtp LAMRDLatin America,,Rede Internacional de TV,MPEG-4/HD,102.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,Rede Internacional de TV,MPEG-4/SD,152.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,Rede Internacional de TV,MPEG-4/1seg,602.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,RIT Notícias,MPEG-4/SD,202.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,(feeds),,252.0,,,False,,5/6,7567,DVB-S2,,3760 R
+11474 H,,(feeds),,,,,False,,3/4,7500,DVB-S2,,11474 H
+12616 H,,(feeds),,,,,False,,3/4,26900,DVB-S2,,12616 H
+3760 Rtp LAMRDLatin America,,Igreja Internacional da Graça de Deus,MPEG-4/SD,302.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,SOS Espiritual,MPEG-4/SD,402.0,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,Nossa Rádio,,,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3760 Rtp LAMRDLatin America,,Rádio Relógio,,,,,False,,5/6,7567,DVB-S2,Por,3760 R
+3768 Rtp LAMRDLatin America,,TV Farol RS,MPEG-4/1seg,51.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3768 Rtp LAMRDLatin America,,TV Farol RS,MPEG-4/HD,102.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3768 Rtp LAMRDLatin America,,TV Nova Conexão,MPEG-4/HD,54.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3768 Rtp LAMRDLatin America,,TV Nova Conexão,MPEG-4/1seg,59.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3768 Rtp LAMRDLatin America,,TV Primavera,MPEG-4/SD,273.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3768 Rtp LAMRDLatin America,,TV Primavera,MPEG-4/1seg,527.0,,,False,,5/6,5980,DVB-S2,Por,3768 R
+3773 Rtp LAMRDLatin America,,TV Sul Bahia,,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,,3773 R
+3773 Rtp LAMRDLatin America,,TV Sul Bahia,MPEG-4/HD,102.0,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,Por,3773 R
+3773 Rtp LAMRDLatin America,,TV Sul Bahia,MPEG-4/1seg,602.0,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,Por,3773 R
+3778 Ltp LAMLDLatin America,,TV Barriga Verde,,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,,3778 L
+3778 Ltp LAMLDLatin America,,TV Barriga Verde,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,Por,3778 L
+3778 Ltp LAMLDLatin America,,TV Barriga Verde,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,Por,3778 L
+3778 Rtp LAMRDLatin America,,Rede Centro Oeste,,,,https://www.lyngsat.com/providers/br/Rede-Centro-Oeste.html,True,Rede Centro Oeste,5/6,6333,DVB-S2,,3778 R
+3778 Rtp LAMRDLatin America,,TV Guanandi,MPEG-4/HD,102.0,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por,3778 R
+3778 Rtp LAMRDLatin America,,TV Guanandi,MPEG-4/1seg,602.0,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por,3778 R
+3778 Rtp LAMRDLatin America,,SBT MS,MPEG-4/1seg,272.0,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por,3778 R
+3778 Rtp LAMRDLatin America,,SBT MS,MPEG-4/HD,529.0,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por,3778 R
+3990 Rtp AFCRDAfrica & Europe38.1,,Ghanian mux,,,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,301.0,GBC News,MPEG-4/SD,111.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,303.0,GH One TV,MPEG-4/SD,131.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,304.0,TV 3 (Ghana),MPEG-4/SD,141.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,305.0,Metro TV (Ghana),MPEG-4/SD,151.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,307.0,Pent TV,MPEG-4/SD,171.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,308.0,Kessben TV,MPEG-4/SD,181.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,316.0,[Joy Prime test card],MPEG-4/SD,261.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,317.0,[Joy News test card],MPEG-4/SD,271.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,318.0,[Adom TV test card],MPEG-4/SD,281.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,320.0,United TV,MPEG-4/SD,301.0,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,304.0,Peace FM,,,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,308.0,YFM,,,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+3990 Rtp AFCRDAfrica & Europe38.1,317.0,Joy FM,,,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng,3990 R
+4000 Rtp AFCRDAfrica & Europe38.1,,Mozambican mux,1-6,,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,601.0,Strong Live,MPEG-4/SD,111.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,602.0,Media Mais TV,MPEG-4/SD,121.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,603.0,Gloom Channel,MPEG-4/SD,131.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,604.0,Mega TV (Mozambique),MPEG-4/SD,141.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,605.0,Top TV (Mozambique),MPEG-4/SD,151.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,606.0,TV Miramar,MPEG-4/SD,161.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,607.0,Soico TV,MPEG-4/SD,171.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4000 Rtp AFCRDAfrica & Europe38.1,608.0,TV Sucesso (Mozambique),MPEG-4/SD,181.0,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por,4000 R
+4008 Rtp AFCRDAfrica & Europe38.1,,TPA,1-5,,,https://www.lyngsat.com/providers/ao/TPA.html,True,TPA,3/4,6730,DVB-S2,,4008 R
+4008 Rtp AFCRDAfrica & Europe38.1,1.0,TPA 1,MPEG-4/SD,101.0,,,False,TPA,3/4,6730,DVB-S2,Por,4008 R
+4008 Rtp AFCRDAfrica & Europe38.1,2.0,TPA 2,MPEG-4/SD,111.0,,,False,TPA,3/4,6730,DVB-S2,Por,4008 R
+4016 Rtp AFCRDAfrica & Europe38.1,1.0,ZBC TV (Zimbabwe),1-1MPEG-2/SD,33.0,BISS,,False,TPA,2/3,4445,DVB-S4,Eng,4016 R
+4016 Rtp AFCRDAfrica & Europe38.1,1.0,Radio Zimbabwe,,,BISS,,False,TPA,2/3,4445,DVB-S4,Eng,4016 R
+4016 Rtp AFCRDAfrica & Europe38.1,1.0,Power FM (Zimbabwe),,,BISS,,False,TPA,2/3,4445,DVB-S4,Eng,4016 R
+4030 Rtp AFCRDAfrica & Europe38.1,1.0,Emmanuel TV,65535-1MPEG-4/SD,33.0,,,False,TPA,3/4,2500,DVB-S2,Eng,4030 R
+4095 Ltp AFCLDAfrica & Europe38.1,,ORTM,,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,P 0,,DVB-S2,,4095 L
+4095 Ltp AFCLDAfrica & Europe38.1,,ORTM,,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,P 0,,DVB-S2,,4095 L
+4129 Ltp GCLDGlobal,,ORTM,1-1,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,3/4,2060,DVB-S2,,4129 L
+4129 Ltp GCLDGlobal,,ORTM,1-1,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,3/4,2060,DVB-S2,,4129 L
+4095 Ltp AFCLDAfrica & Europe38.1,1.0,ORTM 1,MPEG-4/HD,110.0,,,False,ORTM,P 0,,DVB-S2,Fre,4095 L
+4129 Ltp GCLDGlobal,1.0,ORTM 1,MPEG-4/SD,611.0,,,False,ORTM,3/4,2060,DVB-S2,Fre,4129 L
+4095 Ltp AFCLDAfrica & Europe38.1,2.0,ORTM 2,MPEG-4/HD,210.0,,,False,ORTM,P 0,,DVB-S2,Fre,4095 L
+4129 Ltp GCLDGlobal,2.0,ORTM 2,MPEG-4/SD,711.0,,,False,ORTM,3/4,2060,DVB-S2,Fre,4129 L
+4095 Ltp AFCLDAfrica & Europe38.1,3.0,TM1 TV,MPEG-4/SD,520.0,,,False,ORTM,P 0,,DVB-S2,Fre,4095 L
+4095 Ltp AFCLDAfrica & Europe38.1,4.0,Segou TV,MPEG-4/SD,2010.0,,,False,ORTM,P 0,,DVB-S2,Fre,4095 L
+4095 Ltp AFCLDAfrica & Europe38.1,5.0,Cherifla TV,MPEG-4/SD,1010.0,,,False,ORTM,P 0,,DVB-S2,Fre,4095 L
+4129 Ltp GCLDGlobal,3.0,ORTM Radio Mali,,,,,False,ORTM,3/4,2060,DVB-S2,Fre,4129 L
+4129 Ltp GCLDGlobal,4.0,ORTM Chaîne 2,,,,,False,ORTM,3/4,2060,DVB-S2,Fre,4129 L

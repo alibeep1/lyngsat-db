@@ -1,0 +1,28 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11003 H,,MySat,,,,https://www.lyngsat.com/providers/au/MySat.html,True,MySat,2/3,28800,DVB-S2,,11003 H
+11003 H,1.0,Rai Italia Australia,MPEG-4/SD,412.0,,,False,MySat,2/3,28800,DVB-S2,Ita,11003 H
+11003 H,4.0,Mediaset Italia,MPEG-4/SD,427.0,,,False,MySat,2/3,28800,DVB-S2,Ita,11003 H
+11003 H,15.0,Alpha Sat,MPEG-4/SD,457.0,,,False,MySat,2/3,28800,DVB-S2,Gre,11003 H
+11003 H,16.0,ERT World,MPEG-4/SD,462.0,,,False,MySat,2/3,28800,DVB-S2,Gre,11003 H
+11003 H,18.0,Ant1 Pacific,MPEG-4/SD,442.0,,,False,MySat,2/3,28800,DVB-S2,Gre,11003 H
+11003 H,19.0,Greek Cinema,MPEG-4/SD,447.0,,,False,MySat,2/3,28800,DVB-S2,Gre,11003 H
+11003 H,20.0,SportPlus (Greece),MPEG-4/SD,452.0,,,False,MySat,2/3,28800,DVB-S2,Gre,11003 H
+11003 H,140.0,Al Jadeed,MPEG-4/SD,516.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11003 H,197.0,LBC International,MPEG-4/SD,525.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11003 H,204.0,NourSat,MPEG-4/SD,530.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11003 H,206.0,MBC Maser,MPEG-4/SD,532.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11003 H,300.0,MTV (Lebanon),MPEG-4/SD,302.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11003 H,389.0,Aljazeera Channel,MPEG-4/SD,562.0,,,False,MySat,2/3,28800,DVB-S2,Ara,11003 H
+11061 H,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,11061 H
+11061 V,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,11061 V
+11078 H,,(feeds),,,,,False,MySat,500,8,DVB-S2,,11078 H
+11079 V,,(feeds),,,,,False,MySat,500,27,DVB-S2,,11079 V
+11087 H,,(feeds),,,,,False,MySat,500,8,DVB-S2,,11087 H
+11131 V,,(feeds),,,,,False,MySat,500,8,DVB-S2,,11131 V
+11251 V,,(feeds),,,,,False,MySat,000,230,DVB-S2,,11251 V
+11274 H,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,11274 H
+11283 H,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,11283 H
+11292 H,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,11292 H
+11301 H,,(feeds),,,,,False,MySat,3/4,7500,DVB-S2,,11301 H
+11340 H,,(feeds),,,,,False,MySat,3/4,7500,DVB-S2,,11340 H
+12274 H,,(feeds),,,,,False,MySat,5/6,7500,DVB-S2,,12274 H

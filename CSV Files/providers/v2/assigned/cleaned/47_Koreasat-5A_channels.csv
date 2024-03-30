@@ -1,0 +1,123 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11493 V,,Ddish TV,511-2,,NagravisionTongfang,,False,,5/6,43200,DVB-S2,,11493 V
+11553 V,,Ddish TV,,,NagravisionTongfang,,False,,5/6,43200,DVB-S2,,11553 V
+11613 V,,Ddish TV,511-3,,NagravisionTongfang,,False,,5/6,43200,DVB-S2,,11613 V
+11654 V,,Ddish TV,512-4,,NagravisionTongfang,,False,,3/5,14000,DVB-S2,,11654 V
+11493 V,1001.0,MNB,MPEG-4/HD,1001.0,,,False,,5/6,43200,DVB-S2,Mon,11493 V
+11493 V,1036.0,BBS TV (Mongolia),MPEG-4/SD,4220.0,,,False,,5/6,43200,DVB-S2,Mon,11493 V
+12270 VNE Asia0,,G Sat,,,Conax,,False,,3/4,30000,DVB-S2,,12270 V
+12310 VNE Asia0,,G Sat,,,Conax,,False,,3/4,30000,DVB-S2,,12310 V
+12303 HSouth Asia,,(feeds),,,,,False,,3/5,1020,DVB-S2,,12303 H
+12306 HSouth Asia,,(feeds),,,,,False,,5/6,1100,DVB-S2,,12306 H
+12311 HSouth Asia,,(feeds),,,,,False,,5/6,1000,DVB-S2,,12311 H
+12312 HSouth Asia,,(feeds),,,,,False,,5/6,1030,DVB-S2,,12312 H
+12315 HSouth Asia,,(feeds),,,,,False,,5/6,1060,DVB-S2,,12315 H
+12317 HSouth Asia,,(feeds),,,,,False,,3/4,2000,DVB-S2,,12317 H
+12383 HNE Asia,,(feeds),,,BISS,,False,,5/6,4500,DVB-S2,,12383 H
+12310 VNE Asia0,1.0,G Sat promo,MPEG-4/SD,1001.0,,,False,,3/4,30000,DVB-S2,Tgl,12310 V
+12310 VNE Asia0,2.0,One Media Network,MPEG-4/SD,1006.0,,,False,,3/4,30000,DVB-S2,Eng,12310 V
+12354 HNE Asia,,(LG feeds),,,BISS,,False,,5/6,3333,DVB-S3,,12354 H
+12359 HNE Asia,,(MBN feeds),,,,,False,,3/4,4400,DVB-S2,,12359 H
+12623 HSouth Korea,,(MBN feeds),,,,,False,,3/4,4400,DVB-S2,,12623 H
+12470 VNE Asia0,,American Forces Network,,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,2/3,30000,DVB-S2,,12470 V
+12470 VNE Asia0,,American Forces Network,,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,2/3,30000,DVB-S2,,12470 V
+12590 VNE Asia0,,American Forces Network,18-101,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,2/3,30000,DVB-S2,,12590 V
+12590 VNE Asia0,,American Forces Network,18-101,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,2/3,30000,DVB-S2,,12590 V
+12470 VNE Asia0,2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,3.0,AFN News,MPEG-4/HD,1560.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,3.0,AFN News,MPEG-4/HD,1560.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,4.0,AFN Sports,MPEG-4/HD,1160.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,4.0,AFN Sports,MPEG-4/HD,1160.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,6.0,AFN Spectrum,MPEG-4/HD,1360.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,6.0,AFN Spectrum,MPEG-4/HD,1360.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,7.0,AFN Sports 2,MPEG-4/HD,1660.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,7.0,AFN Sports 2,MPEG-4/HD,1660.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,8.0,AFN Family,MPEG-4/HD,1960.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,8.0,AFN Family,MPEG-4/HD,1960.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,9.0,AFN Movie,MPEG-4/HD,1060.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,9.0,AFN Movie,MPEG-4/HD,1060.0,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,401.0,[test card],MPEG-2/SD,1760.0,,,False,American Forces Network,2/3,30000,DVB-S2,,12470 V
+12590 VNE Asia0,401.0,[test card],MPEG-2/SD,1760.0,,,False,American Forces Network,2/3,30000,DVB-S2,,12590 V
+12470 VNE Asia0,402.0,[American Forces Network test card],MPEG-4/HD,1860.0,,,False,American Forces Network,2/3,30000,DVB-S2,,12470 V
+12590 VNE Asia0,402.0,[American Forces Network test card],MPEG-4/HD,1860.0,,,False,American Forces Network,2/3,30000,DVB-S2,,12590 V
+12470 VNE Asia0,20.0,AFN The Eagle Pacific,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,20.0,AFN The Eagle Pacific,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,21.0,AFN The Voice,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,21.0,AFN The Voice,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,22.0,AFN PowerTalk,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,22.0,AFN PowerTalk,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,23.0,AFN Clutch,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,23.0,AFN Clutch,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,24.0,AFN Fans,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12470 VNE Asia0,401.0,AFN Fans,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,24.0,AFN Fans,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12590 VNE Asia0,401.0,AFN Fans,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,25.0,AFN The Blend,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,25.0,AFN The Blend,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,26.0,AFN Legacy,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,26.0,AFN Legacy,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,27.0,AFN's Joe Radio,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,27.0,AFN's Joe Radio,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,28.0,AFN Gravity,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,28.0,AFN Gravity,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,29.0,AFN Country,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,29.0,AFN Country,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,30.0,NPR AFN,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,30.0,NPR AFN,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,31.0,AFN Seasonal,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,31.0,AFN Seasonal,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,32.0,AFN Contingency,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,32.0,AFN Contingency,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,33.0,AFN Freedom Rock,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,33.0,AFN Freedom Rock,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,35.0,AFN The Eagle Iwakuni,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,35.0,AFN The Eagle Iwakuni,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,36.0,AFN The Eagle Daegu,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,36.0,AFN The Eagle Daegu,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,37.0,AFN The Eagle Humphreys,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,37.0,AFN The Eagle Humphreys,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,38.0,AFN The Eagle Kunsan,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,38.0,AFN The Eagle Kunsan,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,39.0,AFN The Eagle Misawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,39.0,AFN The Eagle Misawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,40.0,AFN The Eagle Okinawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12470 VNE Asia0,43.0,AFN The Eagle Okinawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,40.0,AFN The Eagle Okinawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12590 VNE Asia0,43.0,AFN The Eagle Okinawa,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,41.0,AFN The Eagle Tokyo,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,41.0,AFN The Eagle Tokyo,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12470 VNE Asia0,42.0,AFN The Eagle Sasebo,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12470 V
+12590 VNE Asia0,42.0,AFN The Eagle Sasebo,,,PowerVuVerimatrix,,False,American Forces Network,2/3,30000,DVB-S2,Eng,12590 V
+12520 HNE Asia,,(SBS feeds),,,,,False,American Forces Network,3/4,5500,DVB-S2,,12520 H
+12527 HNE Asia,,(SBS feeds),,,,,False,American Forces Network,3/4,5500,DVB-S2,,12527 H
+12536 HNE Asia0,166.0,SkyGuide,?-?HEVC/HD,481.0,,,False,American Forces Network,5/6,8181,DVB-S2,Kor,12536 H
+12554 HNE Asia0,2.0,NHTV (Mon-Fri 08:45-17:15),0-1HEVC/HD,1000.0,,,False,American Forces Network,7/8,3720,DVB-S3,Kor,12554 H
+12577 HNE Asia0,,MediaCan,,,,https://www.lyngsat.com/providers/kr/MediaCan.html,True,MediaCan,5/6,8800,DVB-S2,,12577 H
+12577 HNE Asia0,,MediaCan,,,,https://www.lyngsat.com/providers/kr/MediaCan.html,True,MediaCan,5/6,8800,DVB-S2,,12577 H
+12602 HNE Asia0,,MediaCan,2-1,,,https://www.lyngsat.com/providers/kr/MediaCan.html,True,MediaCan,5/6,17500,DVB-S1,,12602 H
+12602 HNE Asia0,,MediaCan,2-1,,,https://www.lyngsat.com/providers/kr/MediaCan.html,True,MediaCan,5/6,17500,DVB-S1,,12602 H
+12577 HNE Asia0,5.0,OUN,MPEG-2/SD,185.0,,,False,MediaCan,5/6,8800,DVB-S2,Kor Kor,12577 H
+12602 HNE Asia0,5.0,OUN,MPEG-2/SD,185.0,,,False,MediaCan,5/6,17500,DVB-S1,Kor Kor,12602 H
+12577 HNE Asia0,6.0,National Assembly TV,MPEG-2/SD,195.0,,,False,MediaCan,5/6,8800,DVB-S2,Kor,12577 H
+12602 HNE Asia0,6.0,National Assembly TV,MPEG-2/SD,195.0,,,False,MediaCan,5/6,17500,DVB-S1,Kor,12602 H
+12577 HNE Asia0,8.0,EBS Plus 1,MPEG-2/SD,225.0,,,False,MediaCan,5/6,8800,DVB-S2,Kor Kor,12577 H
+12602 HNE Asia0,8.0,EBS Plus 1,MPEG-2/SD,225.0,,,False,MediaCan,5/6,17500,DVB-S1,Kor Kor,12602 H
+12577 HNE Asia0,9.0,EBS Plus 2,MPEG-2/SD,230.0,,,False,MediaCan,5/6,8800,DVB-S2,Kor Kor,12577 H
+12602 HNE Asia0,9.0,EBS Plus 2,MPEG-2/SD,230.0,,,False,MediaCan,5/6,17500,DVB-S1,Kor Kor,12602 H
+12577 HNE Asia0,10.0,EBS English,MPEG-2/SD,235.0,,,False,MediaCan,5/6,8800,DVB-S2,Kor Kor,12577 H
+12602 HNE Asia0,10.0,EBS English,MPEG-2/SD,235.0,,,False,MediaCan,5/6,17500,DVB-S1,Kor Kor,12602 H
+12624 VNE Asia,,(Korea Telecom feeds),,,,,False,MediaCan,3/4,5000,DVB-S2,,12624 V
+12639 VNE Asia,,(Korea Telecom feeds),,,,,False,MediaCan,3/4,7200,DVB-S2,,12639 V
+12644 HNE Asia,,(Korea Telecom feeds),,,,,False,MediaCan,3/4,3200,DVB-S2,,12644 H
+12655 HNE Asia,,(MBC feeds),,,,,False,MediaCan,4/5,3474,DVB-S2,,12655 H
+12660 HNE Asia,,(MBC feeds),,,,,False,MediaCan,4/5,3474,DVB-S2,,12660 H
+12665 HNE Asia0,1.0,MBC (South Korea),?-?MPEG-4/HD,513.0,,,False,MediaCan,3/4,3818,DVB-S2,Kor,12665 H
+12665 HNE Asia0,1.0,MBC Standard FM,,,,,False,MediaCan,3/4,3818,DVB-S2,Kor,12665 H
+12665 HNE Asia0,1.0,MBC FM4U,,,,,False,MediaCan,3/4,3818,DVB-S2,Kor,12665 H
+12710 VMaritime,,,,,,,False,MediaCan,2/3,11666,DVB-S2,,12710 V
+12710 VMaritime,1.0,KBS Korea,MPEG-4/HD,2051.0,,,False,MediaCan,2/3,11666,DVB-S2,Kor,12710 V
+12710 VMaritime,2.0,YTN,MPEG-4/HD,33.0,,,False,MediaCan,2/3,11666,DVB-S2,Kor,12710 V
+12710 VMaritime,3.0,KBS World,MPEG-4/HD,81.0,,,False,MediaCan,2/3,11666,DVB-S2,Kor,12710 V

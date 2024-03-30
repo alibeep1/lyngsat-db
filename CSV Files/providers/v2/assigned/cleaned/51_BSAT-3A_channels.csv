@@ -1,0 +1,18 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11727 Rtp 1Japan,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11727 R
+11727 Rtp 1Japan,151.0,BS Asahi,/HD,320.0,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11727 R
+11727 Rtp 1Japan,161.0,BS-TBS,/HD,273.0,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11727 R
+11727 Rtp 1Japan,171.0,BS TV Tokyo,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11727 R
+11766 Rtp 3Japan,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11766 R
+11766 Rtp 3Japan,103.0,NHK BS Premium,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11766 R
+11881 Rtp 9Japan,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11881 R
+11881 Rtp 9Japan,211.0,BS 11,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11881 R
+11881 Rtp 9Japan,222.0,BS 12,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11881 R
+11958 Rtp 13Japan,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11958 R
+11958 Rtp 13Japan,141.0,BS Nippon TV,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11958 R
+11958 Rtp 13Japan,181.0,BS Fuji,/HD,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11958 R
+11996 Rtp 15Japan,,BS Digital,,,B-CAS,,False,,2/3,28860,ISDB-S,,11996 R
+11996 Rtp 15Japan,101.0,NHK BS 1,,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn,11996 R
+12034 Rtp 17Japan,,BS Digital,,,ACAS,,False,,56.,337,ISDB-S,,12034 R
+12034 Rtp 17Japan,45329.0,BS-TBS 4K,HEVC/UHD,,ACAS,,False,,56.,337,ISDB-S,Jpn,12034 R
+12034 Rtp 17Japan,45330.0,BS Fuji 4K,HEVC/UHD,,ACAS,,False,,56.,337,ISDB-S,Jpn,12034 R

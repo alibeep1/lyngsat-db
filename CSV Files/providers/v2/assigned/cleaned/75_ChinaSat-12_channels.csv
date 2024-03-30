@@ -1,0 +1,54 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3728 Htp 1AC,,(feeds),,,,,False,,3/4,2400,DVB-S2,,3728 H
+3730 Vtp 1BC,,(feeds),,,,,False,,5/6,1650,DVB-S2,,3730 V
+3763 Htp 2AC,,(feeds),,,,,False,,3/4,1200,DVB-S2,,3763 H
+3770 Htp 2AC,,(feeds),,,,,False,,3/4,1600,DVB-S2,,3770 H
+3811 Vtp 3BC,,(feeds),,,,,False,,3/4,4600,DVB-S2,,3811 V
+3817 Vtp 3BC,,(feeds),,,,,False,,3/4,4600,DVB-S2,,3817 V
+3828 Vtp 3BC,,(feeds),,,,,False,,5/6,7500,DVB-S2,,3828 V
+3858 HC,,(feeds),,,,,False,,3/4,6920,DVB-S2,,3858 HC
+3983 VC,,(feeds),,,,,False,,3/4,3600,DVB-S3,,3983 VC
+3995 VC,,(feeds),,,,,False,,200,7,DVB-S7,,3995 VC
+4005 HC,,(feeds),,,,,False,,/10,37509,DVB-S2,,4005 HC
+4025 Htp 8AC,,(feeds),,,,,False,,3/4,1200,DVB-S1,,4025 H
+4028 Htp 8AC,,(feeds),,,,,False,,3/4,1200,DVB-S1,,4028 H
+4040 Htp 8AC,,(feeds),,,,,False,,3/4,2080,DVB-S2,,4040 H
+4043 Htp 8AC,,(feeds),,,,,False,,5/6,1500,DVB-S1,,4043 H
+4067 Htp 8AC,,(feeds),,,,,False,,5/6,1500,DVB-S2,,4067 H
+4094 Htp 8AC,,(feeds),,,,,False,,3/4,1080,DVB-S2,,4094 H
+4096 Htp 8AC,,(feeds),,,,,False,,3/4,1600,DVB-S2,,4096 H
+4098 Htp 8AC,,(feeds),,,,,False,,5/6,1600,DVB-S2,,4098 H
+3774 Htp 2AC,1.0,Yunnan Lancang-Mekong International Channel,1-1MPEG-4/SD,256.0,,,False,,3/4,1800,DVB-S2,,3774 H
+3836 Vtp 3BC,,(BBTV Channel 7 feeds),,,,,False,,5/6,2300,DVB-S2,,3836 V
+4020 Vtp 7BC,,,,,,,False,,3/4,7200,DVB-S2,,4020 V
+4020 Vtp 7BC,1.0,Polimer,MPEG-4/SD,1001.0,,,False,,3/4,7200,DVB-S2,Tam,4020 V
+4020 Vtp 7BC,2.0,Polimer News,MPEG-4/SD,1002.0,,,False,,3/4,7200,DVB-S2,Tam,4020 V
+4020 Vtp 7BC,3.0,Jothi TV,MPEG-4/SD,1003.0,,,False,,3/4,7200,DVB-S2,Tam,4020 V
+4020 Vtp 7BC,4.0,Polimer Samachar,MPEG-4/SD,1004.0,,,False,,3/4,7200,DVB-S2,Hin,4020 V
+4027 Vtp 7BC,,(NBT TV feeds),,,,,False,,3/4,3750,DVB-S2,,4027 V
+4032 Vtp 7BC,,(NBT TV feeds),,,,,False,,3/4,3750,DVB-S3,,4032 V
+4035 Htp 8AC,,Voice of Strait,65535-1,,,https://www.lyngsat.com/providers/cn/Voice-of-Strait.html,True,Voice of Strait,3/4,1073,DVB-S2,,4035 H
+4035 Htp 8AC,1.0,VOS Auto and Life FM 90.6,,,,,False,Voice of Strait,3/4,1073,DVB-S2,Chi,4035 H
+4035 Htp 8AC,1.0,CHBC 107.1 FM,,,,,False,Voice of Strait,3/4,1073,DVB-S2,Chi,4035 H
+4035 Htp 8AC,1.0,VOS News AM 666,,,,,False,Voice of Strait,3/4,1073,DVB-S2,Chi,4035 H
+4035 Htp 8AC,1.0,VOS Minnan Dialect AM 783,,,,,False,Voice of Strait,3/4,1073,DVB-S2,Chi,4035 H
+4035 Htp 8AC,1.0,VOS Sunshine FM 99.6,,,,,False,Voice of Strait,3/4,1073,DVB-S2,Chi,4035 H
+4140 VC,,Raj TV Network,1-1,,,https://www.lyngsat.com/providers/in/Raj-TV-Network.html,True,Raj TV Network,3/4,28800,DVB-S2,,4140 VC
+4140 VC,1.0,Raj TV,MPEG-4/SD,601.0,Irdeto,,False,Raj TV Network,3/4,28800,DVB-S2,Tam,4140 VC
+4140 VC,2.0,Raj Digital Plus,MPEG-4/SD,602.0,Irdeto,,False,Raj TV Network,3/4,28800,DVB-S2,Tam,4140 VC
+4140 VC,3.0,Raj News,MPEG-4/SD,603.0,Irdeto,,False,Raj TV Network,3/4,28800,DVB-S2,Tam,4140 VC
+4140 VC,4.0,Raj Musix Tamil,MPEG-4/SD,604.0,Irdeto,,False,Raj TV Network,3/4,28800,DVB-S2,Tam,4140 VC
+4140 VC,5.0,Vissa,MPEG-4/SD,605.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Tel,4140 VC
+4140 VC,6.0,Raj Musix Kannada,MPEG-4/SD,606.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Kan,4140 VC
+4140 VC,7.0,Raj News Kannada,MPEG-4/SD,607.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Kan,4140 VC
+4140 VC,8.0,Raj Musix Telugu,MPEG-4/SD,608.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Tel,4140 VC
+4140 VC,9.0,Raj News Telugu,MPEG-4/SD,609.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Tel,4140 VC
+4140 VC,10.0,Raj News Malayalam,MPEG-4/SD,610.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Mal,4140 VC
+4140 VC,11.0,Raj Musix Malayalam,MPEG-4/SD,611.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Mal,4140 VC
+4140 VC,12.0,Raj Pariwar,MPEG-4/SD,612.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Hin,4140 VC
+4140 VC,13.0,Raj Nagaichuvai,MPEG-4/SD,613.0,,,False,Raj TV Network,3/4,28800,DVB-S2,Tam,4140 VC
+4180 VC,1.0,Korean Central TV,65281-1MPEG-4/HD,101.0,,,False,Raj TV Network,3/5,4167,DVB-S2,Kor,4180 VC
+4180 VC,2.0,Voice of Korea,,,,,False,Raj TV Network,3/5,4167,DVB-S2,,4180 VC
+4180 VC,3.0,KCBS,,,,,False,Raj TV Network,3/5,4167,DVB-S2,Kor,4180 VC
+11148 VChina,1.0,Zhejiang Satellite TV,?-?MPEG-4/SD,69.0,,,False,Raj TV Network,1/4,10831,DVB-S2,Chi,11148 V
+11191 VChina,1.0,CCTV 13,?-?MPEG-4/SD,256.0,,,False,Raj TV Network,3/4,8332,DVB-S2,Chi,11191 V

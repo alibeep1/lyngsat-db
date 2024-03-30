@@ -1,0 +1,23 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10992 VWest,1.0,Türksat promo,65281-1MPEG-2/SD,1001.0,,,False,,3/4,2220,DVB-S2,,10992 V
+11515 HMENA51,50450.0,Türksat promo,MPEG-4/HD,5450.0,,,False,,2/3,30000,DVB-S2,Tur,11515 H
+11037 HWest,,(feeds),,,,,False,,5/6,2500,DVB-S2,,11037 H
+11041 HWest,,(feeds),,,,,False,,5/6,2500,DVB-S2,,11041 H
+11041 VWest,,(feeds),,,,,False,,5/6,2490,DVB-S2,,11041 V
+11046 HWest,,(feeds),,,,,False,,5/6,2500,DVB-S2,,11046 H
+11048 VWest,,(feeds),,,,,False,,3/4,10000,DVB-S2,,11048 V
+11066 HWest,,(feeds),,,,,False,,5/6,7500,DVB-S2,,11066 H
+11067 VWest,,(feeds),,,,,False,,3/4,10000,DVB-S2,,11067 V
+11072 HWest,,(feeds),,,,,False,,5/6,2500,DVB-S2,,11072 H
+11503 V,,,,,,,False,,,,,,11503 V
+11508 V,,,,,,,False,,,,,,11508 V
+11514 V,,,,,,,False,,,,,,11514 V
+11525 V,,,,,,,False,,,,,,11525 V
+11572 V,,,,,,,False,,,,,,11572 V
+11600 V,,,,,,,False,,,,,,11600 V
+11603 V,,,,,,,False,,,,,,11603 V
+11618 H,,,,,,,False,,,,,,11618 H
+11515 HMENA51,,Türksat,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,,11515 H
+11515 HMENA51,50451.0,TRT Arabi,MPEG-4/HD,5451.0,,,False,Türksat,2/3,30000,DVB-S2,Ara,11515 H
+11515 HMENA51,50452.0,TRT World,MPEG-4/HD,5452.0,,,False,Türksat,2/3,30000,DVB-S2,Eng,11515 H
+11515 HMENA51,50453.0,Alkarma TV Middle East,MPEG-4/SD,5453.0,,,False,Türksat,2/3,30000,DVB-S2,Ara,11515 H

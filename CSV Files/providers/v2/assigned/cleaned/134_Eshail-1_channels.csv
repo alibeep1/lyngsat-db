@@ -1,0 +1,28 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11046 Htp B5MENA Ku51,,Aljazeera,224-1010,,,https://www.lyngsat.com/providers/qa/Aljazeera.html,True,Aljazeera,2/3,27500,DVB-S2,,11046 H
+11604 Htp D7MENA Ku51,,Aljazeera,224-1050,,,https://www.lyngsat.com/providers/qa/Aljazeera.html,True,Aljazeera,3/4,27500,DVB-S2,,11604 H
+11046 Htp B5MENA Ku51,10101.0,Aljazeera Channel,MPEG-4/HD,601.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara,11046 H
+11604 Htp D7MENA Ku51,10501.0,Aljazeera Channel,MPEG-2/SD,512.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara,11604 H
+11046 Htp B5MENA Ku51,10102.0,Aljazeera Mubasher,MPEG-4/HD,602.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara,11046 H
+11046 Htp B5MENA Ku51,10105.0,Aljazeera Mubasher,MPEG-4/HD,605.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara,11046 H
+11604 Htp D7MENA Ku51,10502.0,Aljazeera Mubasher,MPEG-2/SD,513.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara,11604 H
+11604 Htp D7MENA Ku51,10505.0,Aljazeera Mubasher,MPEG-2/SD,520.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara,11604 H
+11046 Htp B5MENA Ku51,10103.0,Aljazeera English,MPEG-4/HD,603.0,,,False,Aljazeera,2/3,27500,DVB-S2,Eng Eng,11046 H
+11604 Htp D7MENA Ku51,10503.0,Aljazeera English,MPEG-2/SD,514.0,,,False,Aljazeera,3/4,27500,DVB-S2,Eng,11604 H
+11046 Htp B5MENA Ku51,10104.0,Aljazeera Documentary,MPEG-4/HD,604.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara,11046 H
+11604 Htp D7MENA Ku51,10504.0,Aljazeera Documentary,MPEG-2/SD,517.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara,11604 H
+11068 Htp B7MENA Ku,,(feeds),,,,,False,Aljazeera,3/4,1666,DVB-S2,,11068 H
+11071 Htp B7MENA Ku,,(feeds),,,,,False,Aljazeera,3/4,1666,DVB-S2,,11071 H
+11670 Htp D11MENA Ku,,(feeds),,,,,False,Aljazeera,2/3,3333,DVB-S2,,11670 H
+11674 Htp D11MENA Ku,,(feeds),,,,,False,Aljazeera,2/3,3333,DVB-S2,,11674 H
+11678 Htp D11MENA Ku,,(feeds),,,,,False,Aljazeera,2/3,3333,DVB-S2,,11678 H
+11682 Htp D11MENA Ku,,(feeds),,,,,False,Aljazeera,5/6,3200,DVB-S3,,11682 H
+11686 Htp D11MENA Ku,,(feeds),,,,,False,Aljazeera,3/4,3750,DVB-S3,,11686 H
+11180 Vtp B12MENA Ku51,,,,,,,False,Aljazeera,,,,,11180 V
+21420 Vtp KQ2MENA Ka,,,622-20000,,,,False,Aljazeera,2/3,27500,DVB-S2,,21420 V
+11604 Htp D7MENA Ku51,10506.0,[test card],MPEG-2/SD,521.0,,,False,Aljazeera,3/4,27500,DVB-S2,,11604 H
+11649 Vtp D12MENA Ku51,1.0,Bedaya TV,?-?MPEG-4/HD,512.0,,,False,Aljazeera,3/4,2244,DVB-S2,Ara,11649 V
+21420 Vtp KQ2MENA Ka,102.0,Sorec TV,MPEG-4/HD,102.0,,,False,Aljazeera,2/3,27500,DVB-S2,,21420 V
+21420 Vtp KQ2MENA Ka,104.0,Sloog,MPEG-4/HD,1041.0,,,False,Aljazeera,2/3,27500,DVB-S2,Fre,21420 V
+21420 Vtp KQ2MENA Ka,105.0,L'Match,MPEG-4/HD,1051.0,,,False,Aljazeera,2/3,27500,DVB-S2,Fre,21420 V
+21420 Vtp KQ2MENA Ka,106.0,Sisal Loterie Nationale,MPEG-4/HD,1061.0,,,False,Aljazeera,2/3,27500,DVB-S2,Fre,21420 V

@@ -1,0 +1,34 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10722 Vtp 11LMiddle East52-55,,Yes,,,Videoguard,,False,,5/6,27500,DVB-S2,,10722 V
+10758 Vtp 11UMiddle East52-55,,Yes,171-14,,Videoguard,,False,,5/6,27500,DVB-S2,,10758 V
+10806 VMiddle East52-55,,Yes,,,Videoguard,,False,,5/6,27500,DVB-S2,,10806 V
+10842 VMiddle East52-55,,Yes,,,Videoguard,,False,,2/3,30000,DVB-S2,,10842 V
+10890 VMiddle East52-55,,Yes,,,Videoguard,,False,,5/6,27500,DVB-S2,,10890 V
+10926 VMiddle East52-55,,Yes,171-12,,Videoguard,,False,,5/6,27500,DVB-S2,,10926 V
+10722 VEurope0,,T-Home,100-1,,Conax,,False,,3/4,30000,DVB-S2,,10722 V
+10758 VEurope0,,T-Home,100-2,,Conax,,False,,3/4,30000,DVB-S2,,10758 V
+10806 VEurope0,,T-Home,100-5,,Conax,,False,,3/4,30000,DVB-S2,,10806 V
+10842 VEurope0,,T-Home,100-6,,Conax,,False,,3/4,30000,DVB-S2,,10842 V
+11222 Htp 8LUkraine0,,T-Home,100-3,,Conax,,False,,3/4,30000,DVB-S2,,11222 H
+11258 Htp 8UUkraine0,,T-Home,100-4,,Conax,,False,,3/4,30000,DVB-S2,,11258 H
+10758 VEurope0,1212.0,[test card],MPEG-4/SD,481.0,,,False,,3/4,30000,DVB-S2,,10758 V
+11258 Htp 8UUkraine0,1414.0,[test card],MPEG-4/SD,481.0,,,False,,3/4,30000,DVB-S2,,11258 H
+10926 VMiddle East52-55,1202.0,The Shopping Channel (Israel),MPEG-2/SD,513.0,,,False,,5/6,27500,DVB-S2,Heb,10926 V
+10926 VMiddle East52-55,1205.0,Knesset Channel,MPEG-2/SD,516.0,,,False,,5/6,27500,DVB-S2,Heb,10926 V
+10926 VMiddle East52-55,1215.0,Hala TV (Israel),MPEG-2/SD,526.0,,,False,,5/6,27500,DVB-S2,Ara,10926 V
+11140 Htp 7Ukraine0,,,,,,,False,,,,,,11140 H
+11175 Htp 7Ukraine0,,,,,,,False,,,,,,11175 H
+11414 Htp 10UUkraine0,,,,,,,False,,2/3,1250,DVB-S2,,11414 H
+11291 Htp 9Ukraine,,(feeds),,,,,False,,2/3,5454,DVB-S2,,11291 H
+11304 Htp 9Ukraine0,,Antenna Hungária,1-1,,ConaxVerimatrix,https://www.lyngsat.com/providers/hu/Antenna-Hungaria.html,True,Antenna Hungária,3/4,8889,DVB-S8,,11304 H
+11304 Htp 9Ukraine0,2.0,Hír TV,MPEG-2/SD,200.0,Conax,,False,Antenna Hungária,3/4,8889,DVB-S8,Hun,11304 H
+11304 Htp 9Ukraine0,9.0,Da Vinci,MPEG-4/HD,900.0,ConaxVerimatrix,,False,Antenna Hungária,3/4,8889,DVB-S8,Pol Qaa Hun Ukr Rus Bul Gre,11304 H
+11304 Htp 9Ukraine0,10.0,Hír FM,,,Conax,,False,Antenna Hungária,3/4,8889,DVB-S8,Hun,11304 H
+11350 Htp 9Ukraine0,,Tippmix,1-1,,Conax,https://www.lyngsat.com/providers/hu/Tippmix.html,True,Tippmix,2/3,17333,DVB-S2,,11350 H
+11350 Htp 9Ukraine0,1.0,Tippmix élo 1,MPEG-4/HD,101.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,2.0,Tippmix élo 2,MPEG-4/HD,201.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,3.0,Tippmix élo 3,MPEG-4/HD,301.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,4.0,Tippmix élo 4,MPEG-4/HD,401.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,5.0,Tippmix élo 5,MPEG-4/HD,501.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,6.0,Tippmix élo 6,MPEG-4/HD,601.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H
+11350 Htp 9Ukraine0,7.0,Tippmix élo 7,MPEG-4/HD,701.0,Conax,,False,Tippmix,2/3,17333,DVB-S2,Hun,11350 H

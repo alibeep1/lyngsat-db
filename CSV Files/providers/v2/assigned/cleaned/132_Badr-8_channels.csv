@@ -1,0 +1,427 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+4080 LGlobal,,(feeds),,,,,False,,3/4,3600,DVB-S2,,4080 LG
+12667 HEMENA FSS,,(feeds),,,,,False,,3/4,4444,DVB-S2,,12667 H
+12676 HEMENA FSS,,(feeds),,,,,False,,3/4,4444,DVB-S2,,12676 H
+12708 HEMENA FSS,,(feeds),,,,,False,,3/4,2220,DVB-S2,,12708 H
+12714 HEMENA FSS,,(feeds),,,,,False,,3/4,7200,DVB-S2,,12714 H
+12723 HEMENA FSS,,(feeds),,,,,False,,3/4,2220,DVB-S2,,12723 H
+12731 HEMENA FSS,,(feeds),,,,,False,,3/4,3330,DVB-S2,,12731 H
+12736 HEMENA FSS,,(feeds),,,,,False,,5/6,3600,DVB-S2,,12736 H
+4085 LGlobal,1.0,Télé Sahel,0-1MPEG-2/SD,768.0,,,False,,3/4,3330,DVB-S3,Fre,4085 LG
+4099 LGlobal,1.0,Télé Sahel,MPEG-4/SD,101.0,,,False,,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,19.0,Télé Sahel,MPEG-4/SD,119.0,,,False,,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,20.0,Télé Sahel,MPEG-4/SD,120.0,,,False,,2/3,20000,DVB-S2,Fre,4099 LG
+4085 LGlobal,1.0,Voix du Sahel,,,,,False,,3/4,3330,DVB-S3,Fre,4085 LG
+4099 LGlobal,21.0,Voix du Sahel,,,,,False,,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,,TNT Niger,111-100,,,https://www.lyngsat.com/providers/ne/TNT-Niger.html,True,TNT Niger,2/3,20000,DVB-S2,,4099 LG
+4099 LGlobal,2.0,Tal TV,MPEG-4/SD,102.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,3.0,Espérance TV,MPEG-4/SD,103.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,4.0,Liptako TV,MPEG-4/SD,104.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,5.0,Ténéré TV,MPEG-4/SD,105.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,6.0,Dounia TV,MPEG-4/SD,106.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,7.0,Canal 3 Niger,MPEG-4/SD,107.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,8.0,Canal 3 Monde,MPEG-4/SD,108.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,9.0,Saraounia TV,MPEG-4/SD,109.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,10.0,Bonferey,MPEG-4/SD,110.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,11.0,Tambara TV,MPEG-4/SD,111.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,12.0,Anfani TV,MPEG-4/SD,112.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,13.0,[test card],MPEG-4/SD,113.0,,,False,TNT Niger,2/3,20000,DVB-S2,,4099 LG
+4099 LGlobal,16.0,[test card],MPEG-4/SD,116.0,,,False,TNT Niger,2/3,20000,DVB-S2,,4099 LG
+11785 Vtp 4MENA BSS48,14.0,[test card],MPEG-4/SD,4001.0,,,False,TNT Niger,3/4,27500,DVB-S2,,11785 V
+11785 Vtp 4MENA BSS48,1000.0,[test card],MPEG-4/SD,2001.0,,,False,TNT Niger,3/4,27500,DVB-S2,,11785 V
+12073 Htp 19EMENA BSS,310.0,[test card],MPEG-4/HD,3010.0,,,False,TNT Niger,3/4,27500,DVB-S2,,12073 H
+12303 Htp 31SNW Africa0,12.0,[test card],MPEG-4/SD,57.0,,,False,TNT Niger,5/6,27500,DVB-S2,,12303 H
+12303 Htp 31SNW Africa0,13.0,[test card],MPEG-4/SD,54.0,,,False,TNT Niger,5/6,27500,DVB-S2,,12303 H
+12303 Htp 31SNW Africa0,28.0,[test card],MPEG-4/SD,2001.0,,,False,TNT Niger,5/6,27500,DVB-S2,,12303 H
+12303 Htp 31SNW Africa0,30.0,[test card],MPEG-4/SD,51.0,,,False,TNT Niger,5/6,27500,DVB-S2,,12303 H
+12476 Vtp 40MENA BSS48,14.0,[test card],MPEG-4/SD,737.0,,,False,TNT Niger,3/4,27500,DVB-S2,,12476 V
+12563 VEMENA FSS48,16.0,[test card],MPEG-4/HD,2014.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,18.0,[test card],MPEG-4/HD,2017.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,19.0,[test card],MPEG-4/SD,2009.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,20.0,[test card],MPEG-4/SD,2010.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,21.0,[test card],MPEG-4/SD,2011.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,22.0,[test card],MPEG-4/SD,2022.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,23.0,[test card],MPEG-4/HD,2019.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,24.0,[test card],MPEG-4/HD,2020.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,25.0,[test card],MPEG-4/HD,2021.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,26.0,[test card],MPEG-4/SD,2026.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,27.0,[test card],MPEG-4/SD,2027.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,28.0,[test card],MPEG-4/SD,2028.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,29.0,[test card],MPEG-4/SD,2029.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,30.0,[test card],MPEG-4/SD,2030.0,,,False,TNT Niger,2/3,27500,DVB-S2,,12563 V
+4099 LGlobal,14.0,Labari TV,MPEG-4/SD,114.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,15.0,TV Fidelité,MPEG-4/SD,115.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+4099 LGlobal,17.0,Niger 24,MPEG-4/SD,117.0,,,False,TNT Niger,2/3,20000,DVB-S2,Fre,4099 LG
+11747 Vtp 2MENA BSS48,,Arabsat,702-301,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11747 V
+11747 Vtp 2MENA BSS48,,Arabsat,702-301,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11747 V
+11747 Vtp 2MENA BSS48,,Arabsat,702-301,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11747 V
+11747 Vtp 2MENA BSS48,,Arabsat,702-301,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11747 V
+11785 Vtp 4MENA BSS48,,Arabsat,702-505,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11785 V
+11785 Vtp 4MENA BSS48,,Arabsat,702-505,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11785 V
+11785 Vtp 4MENA BSS48,,Arabsat,702-505,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11785 V
+11785 Vtp 4MENA BSS48,,Arabsat,702-505,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11785 V
+11996 Htp 15EMENA BSS,,Arabsat,702-509,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11996 H
+11996 Htp 15EMENA BSS,,Arabsat,702-509,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11996 H
+11996 Htp 15EMENA BSS,,Arabsat,702-509,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11996 H
+11996 Htp 15EMENA BSS,,Arabsat,702-509,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,11996 H
+12073 Htp 19EMENA BSS,,Arabsat,702-510,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,12073 H
+12073 Htp 19EMENA BSS,,Arabsat,702-510,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,12073 H
+12073 Htp 19EMENA BSS,,Arabsat,702-510,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,12073 H
+12073 Htp 19EMENA BSS,,Arabsat,702-510,,,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat,3/4,27500,DVB-S2,,12073 H
+11747 Vtp 2MENA BSS48,403.0,Alkawthar TV,MPEG-2/SD,4360.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11747 V
+11747 Vtp 2MENA BSS48,478.0,Alwesam TV,MPEG-4/SD,2001.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11747 V
+11747 Vtp 2MENA BSS48,1703.0,RT Arabic,MPEG-4/HD,703.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara Ara,11747 V
+12054 Vtp 18EMENA BSS,1843.0,RT Arabic,MPEG-2/SD,2127.0,,,False,Arabsat,5/6,27500,DVB-S2,Ara,12054 V
+11747 Vtp 2MENA BSS48,263.0,Mdlbeast Radio,,,,,False,Arabsat,3/4,27500,DVB-S2,Eng,11747 V
+11785 Vtp 4MENA BSS48,2.0,Iran International,MPEG-4/HD,210.0,,,False,Arabsat,3/4,27500,DVB-S2,Per,11785 V
+11785 Vtp 4MENA BSS48,3.0,Tivi5Monde,MPEG-2/SD,310.0,,,False,Arabsat,3/4,27500,DVB-S2,Fre,11785 V
+12073 Htp 19EMENA BSS,300.0,Tivi5Monde,MPEG-4/HD,3000.0,,,False,Arabsat,3/4,27500,DVB-S2,Fre,12073 H
+11785 Vtp 4MENA BSS48,11.0,CGTN Arabic,MPEG-4/HD,1110.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+11785 Vtp 4MENA BSS48,18.0,Alwatania TV,MPEG-4/HD,1810.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+12360 Vtp 34MENA BSS48,524.0,Alwatania TV,MPEG-4/HD,1023.0,,,False,Arabsat,5/6,27500,DVB-S2,Ara,12360 V
+11785 Vtp 4MENA BSS48,23.0,Thalitha A3,MPEG-2/SD,2310.0,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+11785 Vtp 4MENA BSS48,601.0,CNN International Europe,MPEG-4/SD,211.0,,,False,Arabsat,3/4,27500,DVB-S2,Eng Eng,11785 V
+11785 Vtp 4MENA BSS48,33.0,Chaîne 1,,,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+11785 Vtp 4MENA BSS48,43.0,Radio Algérie Internationale,,,,,False,Arabsat,3/4,27500,DVB-S2,,11785 V
+11785 Vtp 4MENA BSS48,53.0,Chaîne 3,,,,,False,Arabsat,3/4,27500,DVB-S2,Fre,11785 V
+11785 Vtp 4MENA BSS48,63.0,Radio Coran (Algeria),,,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+11785 Vtp 4MENA BSS48,63.0,Radio Culture,,,,,False,Arabsat,3/4,27500,DVB-S2,Ara,11785 V
+11862 Vtp 8MENA BSS48,,Etisalat,702-503,,,https://www.lyngsat.com/providers/ae/Etisalat.html,True,Etisalat,3/4,27500,DVB-S2,,11862 V
+11862 Vtp 8MENA BSS48,1.0,Sharjah TV,MPEG-2/SD,35.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,3.0,MBC Iraq,MPEG-2/SD,41.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,12.0,MBC Iraq,MPEG-4/HD,401.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,6.0,Sharqiya TV,MPEG-2/SD,66.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,13.0,Al Thaqafeya,MPEG-4/HD,431.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,14.0,Zee Alwan,MPEG-2/SD,411.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,19.0,Dubai International Holy Quran Award TV,MPEG-2/SD,1101.0,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,11.0,Sharjah Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,22.0,Abu Dhabi Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,23.0,Al Ain Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,24.0,Fujairah Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,25.0,Ajman Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,26.0,UAQ Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,27.0,RAK Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,28.0,Ghayathi Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,29.0,Liwa Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,30.0,Sila Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,31.0,Dubai Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11862 Vtp 8MENA BSS48,32.0,Sharjah Athan Radio,,,,,False,Etisalat,3/4,27500,DVB-S2,Ara,11862 V
+11919 Htp 11EMENA BSS,,Asharq,702-5111,,,https://www.lyngsat.com/providers/sa/Asharq.html,True,Asharq,3/4,27500,DVB-S2,,11919 H
+11919 Htp 11EMENA BSS,101.0,Asharq News,MPEG-4/HD,3411.0,,,False,Asharq,3/4,27500,DVB-S2,Ara,11919 H
+11919 Htp 11EMENA BSS,104.0,Asharq News,MPEG-2/SD,3441.0,,,False,Asharq,3/4,27500,DVB-S2,Ara,11919 H
+11919 Htp 11EMENA BSS,102.0,Asharq Documentary,MPEG-4/HD,3421.0,,,False,Asharq,3/4,27500,DVB-S2,Ara,11919 H
+11919 Htp 11EMENA BSS,105.0,Asharq Documentary,MPEG-2/SD,3451.0,,,False,Asharq,3/4,27500,DVB-S2,Ara,11919 H
+11919 Htp 11EMENA BSS,103.0,Asharq Discovery,MPEG-4/HD,3431.0,,,False,Asharq,3/4,27500,DVB-S2,Ara Eng,11919 H
+11919 Htp 11EMENA BSS,106.0,Asharq Discovery,MPEG-2/SD,3461.0,,,False,Asharq,3/4,27500,DVB-S2,Ara Eng,11919 H
+11938 Vtp 12EMENA BSS,,Jordan Media City,702-502,,,https://www.lyngsat.com/providers/jo/Jordan-Media-City.html,True,Jordan Media City,5/6,27500,DVB-S2,,11938 V
+11938 Vtp 12EMENA BSS,25.0,Alhurra TV Iraq,MPEG-2/SD,2560.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,500.0,Alhurra TV Iraq,MPEG-4/HD,560.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,28.0,Alhurra TV,MPEG-2/SD,2860.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,591.0,Alhurra TV,MPEG-4/HD,2870.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,592.0,Alarabiya,MPEG-2/SD,102.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+12284 Vtp 30SNW Africa0,2.0,Alarabiya,MPEG-4/HD,201.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,12284 V
+11938 Vtp 12EMENA BSS,593.0,ERI TV 1,MPEG-2/SD,998.0,,,False,Jordan Media City,5/6,27500,DVB-S2,,11938 V
+11938 Vtp 12EMENA BSS,595.0,Al-Mashhad,MPEG-4/HD,2871.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,597.0,Alarabiya Business,MPEG-4/HD,895.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,600.0,Sad Satellite Channel,MPEG-4/SD,897.0,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,410.0,Radio Zara FM,,,,,False,Jordan Media City,5/6,27500,DVB-S2,Tir,11938 V
+11938 Vtp 12EMENA BSS,412.0,Radio Zara FM,,,,,False,Jordan Media City,5/6,27500,DVB-S2,Tir,11938 V
+11938 Vtp 12EMENA BSS,411.0,Dimtsi Hafash,,,,,False,Jordan Media City,5/6,27500,DVB-S2,,11938 V
+11938 Vtp 12EMENA BSS,413.0,Dimtsi Hafash,,,,,False,Jordan Media City,5/6,27500,DVB-S2,,11938 V
+11938 Vtp 12EMENA BSS,533.0,VoA Iraq,,,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,534.0,Radio Sawa Sudan,,,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11938 Vtp 12EMENA BSS,537.0,VoA Libya,,,,,False,Jordan Media City,5/6,27500,DVB-S2,Ara,11938 V
+11958 Htp 13EMENA BSS,,Palsat,26-26,,,https://www.lyngsat.com/providers/ps/Palsat.html,True,Palsat,3/4,27500,DVB-S2,,11958 H
+11958 Htp 13EMENA BSS,1160.0,Palestine TV,MPEG-4/HD,1162.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,1190.0,Palestine TV,MPEG-4/HD,1192.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,2990.0,Palestine TV,MPEG-2/SD,2992.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,3350.0,Palestine TV,MPEG-2/SD,3352.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,1170.0,Musawa,MPEG-4/HD,1172.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,2980.0,Musawa,MPEG-2/SD,2982.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,1180.0,Palestine Mobasher,MPEG-4/HD,1182.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,3330.0,Palestine Mobasher,MPEG-2/SD,3332.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,1200.0,Palestine Edu,MPEG-4/HD,1202.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,3360.0,Awdeh,MPEG-4/HD,3362.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,3370.0,Awdeh,MPEG-2/SD,3372.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,3430.0,Palestine Sport,MPEG-4/HD,3432.0,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,4400.0,(Palestine TV feeds),,4402.0,,,False,Palsat,3/4,27500,DVB-S2,,11958 H
+11958 Htp 13EMENA BSS,5001.0,Voice of Palestine,,,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11958 Htp 13EMENA BSS,5007.0,Radio Mawtiny,,,,,False,Palsat,3/4,27500,DVB-S2,Ara,11958 H
+11977 Vtp 14EMENA BSS,,Twofour54,702-1,,,https://www.lyngsat.com/providers/ae/Twofour54.html,True,Twofour54,3/4,27500,DVB-S2,,11977 V
+11977 Vtp 14EMENA BSS,21.0,MTV (Lebanon),MPEG-4/HD,121.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,22.0,One,MPEG-4/HD,122.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,23.0,LBC International,MPEG-4/HD,123.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,24.0,Al Jadeed,MPEG-4/HD,124.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,26.0,OTV (Lebanon),MPEG-4/HD,126.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,27.0,NBN,MPEG-4/HD,127.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,28.0,Arabica TV,MPEG-4/HD,128.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,29.0,Aghani Aghani TV,MPEG-4/HD,129.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+11977 Vtp 14EMENA BSS,30.0,Télé Liban,MPEG-4/HD,130.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11977 V
+12054 Vtp 18EMENA BSS,1835.0,Télé Liban,MPEG-2/SD,2125.0,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+11996 Htp 15EMENA BSS,22.0,France 24 Arabic,MPEG-2/SD,2260.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+12073 Htp 19EMENA BSS,305.0,France 24 Arabic,MPEG-4/HD,3005.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara Ara,12073 H
+11996 Htp 15EMENA BSS,23.0,BBC Arabic,MPEG-2/SD,2360.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,30.0,BBC Arabic,MPEG-4/HD,3060.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,25.0,Sky News Arabia,MPEG-2/SD,2560.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,26.0,Sky News Arabia,MPEG-4/HD,2660.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,31.0,France 24 Français,MPEG-2/SD,3160.0,,,False,Twofour54,3/4,27500,DVB-S2,Fre,11996 H
+12073 Htp 19EMENA BSS,303.0,France 24 Français,MPEG-4/HD,3003.0,,,False,Twofour54,3/4,27500,DVB-S2,Fre Fre,12073 H
+11996 Htp 15EMENA BSS,52.0,EuroNews English,MPEG-2/SD,5201.0,,,False,Twofour54,3/4,27500,DVB-S2,Eng,11996 H
+11996 Htp 15EMENA BSS,54.0,RTI 1,MPEG-4/SD,5401.0,,,False,Twofour54,3/4,27500,DVB-S2,Fre,11996 H
+11996 Htp 15EMENA BSS,20.0,Radio France Internationale,,,,,False,Twofour54,3/4,27500,DVB-S2,Fre,11996 H
+12073 Htp 19EMENA BSS,322.0,Radio France Internationale,,,,,False,Twofour54,3/4,27500,DVB-S2,Fre,12073 H
+11996 Htp 15EMENA BSS,35.0,Sky News Arabia 90.3 FM,,,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,42.0,Sawt Al Alam,,,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+11996 Htp 15EMENA BSS,46.0,BBC World Service English,,,,,False,Twofour54,3/4,27500,DVB-S2,Eng,11996 H
+11996 Htp 15EMENA BSS,47.0,BBC World Service Horn of Africa,,,,,False,Twofour54,3/4,27500,DVB-S2,,11996 H
+11996 Htp 15EMENA BSS,51.0,Monte Carlo Doualiya,,,,,False,Twofour54,3/4,27500,DVB-S2,Ara,11996 H
+12073 Htp 19EMENA BSS,321.0,Monte Carlo Doualiya,,,,,False,Twofour54,3/4,27500,DVB-S2,Ara,12073 H
+12054 Vtp 18EMENA BSS,,,702-506,,,,False,Twofour54,5/6,27500,DVB-S2,,12054 V
+12303 Htp 31SNW Africa0,,,702-5231,,,,False,Twofour54,5/6,27500,DVB-S2,,12303 H
+12054 Vtp 18EMENA BSS,1802.0,Jordan TV,MPEG-2/SD,2102.0,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+12054 Vtp 18EMENA BSS,1833.0,RTD 4,MPEG-2/SD,2123.0,,,False,Twofour54,5/6,27500,DVB-S2,Fre,12054 V
+12054 Vtp 18EMENA BSS,1834.0,SSBC TV,MPEG-2/SD,2124.0,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+12054 Vtp 18EMENA BSS,1850.0,RT News,MPEG-4/SD,2140.0,,,False,Twofour54,5/6,27500,DVB-S2,Eng,12054 V
+12054 Vtp 18EMENA BSS,1812.0,Radio Amman,,,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+12054 Vtp 18EMENA BSS,1816.0,Jordan Radio,,,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+12054 Vtp 18EMENA BSS,1837.0,Radio Djibouti 1,,,,,False,Twofour54,5/6,27500,DVB-S2,Fre,12054 V
+12054 Vtp 18EMENA BSS,1838.0,Radio Djibouti 2,,,,,False,Twofour54,5/6,27500,DVB-S2,Fre,12054 V
+12054 Vtp 18EMENA BSS,1839.0,Radio Djibouti 3,,,,,False,Twofour54,5/6,27500,DVB-S2,Fre,12054 V
+12054 Vtp 18EMENA BSS,1842.0,SSBC Radio,,,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12054 V
+12073 Htp 19EMENA BSS,301.0,TV5Monde Maghreb-Orient,MPEG-4/HD,3001.0,,,False,Twofour54,3/4,27500,DVB-S2,Fre,12073 H
+12073 Htp 19EMENA BSS,302.0,TV5Monde Style,MPEG-4/HD,3002.0,,,False,Twofour54,3/4,27500,DVB-S2,Fre,12073 H
+12073 Htp 19EMENA BSS,304.0,France 24 English,MPEG-4/HD,3004.0,,,False,Twofour54,3/4,27500,DVB-S2,Eng Eng,12073 H
+12073 Htp 19EMENA BSS,307.0,BBC News Middle East,MPEG-4/HD,3007.0,,,False,Twofour54,3/4,27500,DVB-S2,Eng,12073 H
+12073 Htp 19EMENA BSS,308.0,TRT World,MPEG-4/HD,3008.0,,,False,Twofour54,3/4,27500,DVB-S2,Eng,12073 H
+12073 Htp 19EMENA BSS,309.0,TRT Arabi,MPEG-4/HD,3009.0,,,False,Twofour54,3/4,27500,DVB-S2,Ara,12073 H
+12092 Vtp 20EMENA BSS,24.0,TRT Arabi,MPEG-2/SD,247.0,,,False,Twofour54,5/6,27500,DVB-S2,Ara,12092 V
+12092 Vtp 20EMENA BSS,,Profen,702-520,,,https://www.lyngsat.com/providers/tr/Profen.html,True,Profen,5/6,27500,DVB-S2,,12092 V
+12092 Vtp 20EMENA BSS,27.0,Al Hadath,MPEG-2/SD,127.0,,,False,Profen,5/6,27500,DVB-S2,Ara,12092 V
+12284 Vtp 30SNW Africa0,1.0,Al Hadath,MPEG-2/SD,101.0,,,False,Profen,5/6,27500,DVB-S2,Ara,12284 V
+12111 Htp 21EMENA BSS,,Du,702-511,,,https://www.lyngsat.com/providers/ae/Du.html,True,Du,5/6,27500,DVB-S2,,12111 H
+12111 Htp 21EMENA BSS,3.0,CNBC Arabiya,MPEG-4/HD,404.0,,,False,Du,5/6,27500,DVB-S2,Ara,12111 H
+12111 Htp 21EMENA BSS,16.0,Peace TV English,MPEG-4/HD,501.0,,,False,Du,5/6,27500,DVB-S2,Eng,12111 H
+12111 Htp 21EMENA BSS,2002.0,DW Arabia,MPEG-4/HD,202.0,,,False,Du,5/6,27500,DVB-S2,Ara,12111 H
+12111 Htp 21EMENA BSS,2010.0,DW-Radio A2,,,,,False,Du,5/6,27500,DVB-S2,,12111 H
+12111 Htp 21EMENA BSS,2011.0,DW-Radio 5,,,,,False,Du,5/6,27500,DVB-S2,Ara,12111 H
+12130 Vtp 22EMENA BSS,,Dubai Media,702-508,,,https://www.lyngsat.com/providers/ae/Dubai-Media.html,True,Dubai Media,3/4,30000,DVB-S2,,12130 V
+12130 Vtp 22EMENA BSS,1.0,Dubai TV,MPEG-4/HD,201.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,2.0,Sama Dubai,MPEG-4/HD,202.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,3.0,Dubai One,MPEG-4/HD,203.0,,,False,Dubai Media,3/4,30000,DVB-S2,Eng,12130 V
+12130 Vtp 22EMENA BSS,5.0,Dubai Sports,MPEG-4/HD,205.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,6.0,Dubai Sports 2,MPEG-4/HD,206.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,7.0,Dubai Racing,MPEG-4/HD,207.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,8.0,Dubai Racing 2,MPEG-4/HD,208.0,,,False,Dubai Media,3/4,30000,DVB-S2,Ara Eng,12130 V
+12130 Vtp 22EMENA BSS,11.0,Noor Dubai Radio,,,,,False,Dubai Media,3/4,30000,DVB-S2,Ara,12130 V
+12149 Htp 23EMENA BSS,,Saudi Broadcasting Authority,702-26,,,https://www.lyngsat.com/providers/sa/Saudi-Broadcasting-Authority.html,True,Saudi Broadcasting Authority,5/6,27500,DVB-S2,,12149 H
+12149 Htp 23EMENA BSS,2601.0,Saudi TV,MPEG-4/HD,512.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2602.0,Thikrayat TV,MPEG-4/HD,513.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2603.0,SBC,MPEG-4/HD,514.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2604.0,Ekhbariya TV,MPEG-4/HD,515.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2605.0,Saudia Alaan TV,MPEG-4/HD,516.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,5601.0,Quran TV (Saudi Arabia),MPEG-4/HD,2308.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,5602.0,Sunna TV (Saudi Arabia),MPEG-4/HD,2310.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,5603.0,KSA Sports 1,MPEG-4/HD,2312.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,5604.0,KSA Sports 2,MPEG-4/HD,2314.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,5605.0,KSA Sports 3,MPEG-4/HD,2316.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2620.0,Quran Radio (Saudi Arabia),,,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2621.0,Riyadh Radio,,,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2622.0,Jeddah Radio,,,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12149 Htp 23EMENA BSS,2623.0,Saudia Radio,,,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,,12149 H
+12149 Htp 23EMENA BSS,2624.0,Neda Radio,,,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12149 H
+12169 Vtp 24EMENA BSS,,Qatar TV,1-1,,,https://www.lyngsat.com/providers/qa/Qatar-TV.html,True,Qatar TV,3/4,22000,DVB-S2,,12169 V
+12169 Vtp 24EMENA BSS,4.0,Qatar TV,MPEG-4/HD,401.0,,https://www.lyngsat.com/providers/qa/Qatar-TV.html,True,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,2.0,Qatar TV 2,MPEG-4/HD,201.0,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,10.0,Sout al Khaleej 2,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,11.0,Sout al Khaleej 3,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,12.0,Sout al Khaleej 4,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,13.0,Sout al Khaleej Europe,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,21.0,Qatar Radio,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,22.0,Holy Quran Radio 1,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,23.0,Oryx FM,,,,,False,Qatar TV,3/4,22000,DVB-S2,Fre,12169 V
+12169 Vtp 24EMENA BSS,24.0,QBS Radio,,,,,False,Qatar TV,3/4,22000,DVB-S2,Eng,12169 V
+12169 Vtp 24EMENA BSS,25.0,Urdu Radio,,,,,False,Qatar TV,3/4,22000,DVB-S2,Urd,12169 V
+12169 Vtp 24EMENA BSS,26.0,Holy Quran Radio 2,,,,,False,Qatar TV,3/4,22000,DVB-S2,Ara,12169 V
+12169 Vtp 24EMENA BSS,27.0,Hola Qatar Radio,,,,,False,Qatar TV,3/4,22000,DVB-S2,Spa,12169 V
+12182 Htp 25EMENA BSS,100.0,Yemen TV,65535-1MPEG-2/SD,120.0,,,False,Qatar TV,3/4,16200,DVB-S1,Ara,12182 H
+12226 Htp 27EMENA BSS,,Bahrain TV,702-514,,,https://www.lyngsat.com/providers/bh/Bahrain-TV.html,True,Bahrain TV,5/6,27500,DVB-S2,,12226 H
+12226 Htp 27EMENA BSS,1.0,Bahrain TV,MPEG-4/HD,100.0,,https://www.lyngsat.com/providers/bh/Bahrain-TV.html,True,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,2.0,Bahrain International,MPEG-4/HD,500.0,,,False,Bahrain TV,5/6,27500,DVB-S2,Eng,12226 H
+12226 Htp 27EMENA BSS,3.0,Bahrain Sport 1,MPEG-4/HD,300.0,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,4.0,Bahrain Sport 2,MPEG-4/HD,400.0,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,6.0,Bahrain The Holy Quran,MPEG-4/HD,600.0,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,11.0,Radio Bahrain 102.3,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,12.0,Bahrain FM 93.3,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,13.0,Radio Bahrain 96.5,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Eng,12226 H
+12226 Htp 27EMENA BSS,14.0,Arab Classical Radio 96.0,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,15.0,Arabian Gulf Radio,,,,,False,Bahrain TV,5/6,27500,DVB-S2,,12226 H
+12226 Htp 27EMENA BSS,17.0,Quran Kareem 106.1,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12226 Htp 27EMENA BSS,18.0,Traditional Radio 95.0,,,,,False,Bahrain TV,5/6,27500,DVB-S2,Ara,12226 H
+12245 Vtp 28EMENA BSS,,Al Kass,702-555,,,https://www.lyngsat.com/providers/qa/Al-Kass.html,True,Al Kass,3/4,27500,DVB-S2,,12245 V
+12245 Vtp 28EMENA BSS,1.0,Al Kass Three,MPEG-4/HD,201.0,,,False,Al Kass,3/4,27500,DVB-S2,Ara Eng,12245 V
+12245 Vtp 28EMENA BSS,3.0,Al Kass One,MPEG-4/HD,210.0,,,False,Al Kass,3/4,27500,DVB-S2,Ara Eng,12245 V
+12245 Vtp 28EMENA BSS,4.0,Al Kass Two,MPEG-4/HD,204.0,,,False,Al Kass,3/4,27500,DVB-S2,Ara Eng,12245 V
+12245 Vtp 28EMENA BSS,5.0,Al Kass Four,MPEG-4/HD,205.0,,,False,Al Kass,3/4,27500,DVB-S2,Ara Eng,12245 V
+12284 Vtp 30SNW Africa0,,MBC,702-5230,,,https://www.lyngsat.com/providers/sa/MBC.html,True,MBC,5/6,27500,DVB-S2,,12284 V
+12284 Vtp 30SNW Africa0,3.0,MBC 5,MPEG-2/SD,301.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,4.0,MBC 4,MPEG-2/SD,401.0,,,False,MBC,5/6,27500,DVB-S2,Eng,12284 V
+12284 Vtp 30SNW Africa0,5.0,MBC 3 (Saudi Arabia),MPEG-2/SD,501.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,6.0,MBC Action,MPEG-2/SD,601.0,,,False,MBC,5/6,27500,DVB-S2,Eng,12284 V
+12284 Vtp 30SNW Africa0,7.0,MBC 2 (Saudi Arabia),MPEG-2/SD,701.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,8.0,MBC Max,MPEG-2/SD,801.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,9.0,MBC Bollywood,MPEG-2/SD,901.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,10.0,MBC Drama (Saudi Arabia),MPEG-2/SD,1001.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12284 Vtp 30SNW Africa0,12.0,Wanasah,MPEG-2/SD,1201.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12284 V
+12303 Htp 31SNW Africa0,11.0,Canal Atlas,MPEG-2/SD,3111.0,,,False,MBC,5/6,27500,DVB-S2,Fre,12303 H
+12303 Htp 31SNW Africa0,14.0,Ennahar TV,MPEG-4/HD,3141.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12303 H
+12303 Htp 31SNW Africa0,16.0,2M National,MPEG-2/SD,3161.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12303 H
+12303 Htp 31SNW Africa0,18.0,Medi 1 TV Arabic,MPEG-4/HD,3181.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12303 H
+12303 Htp 31SNW Africa0,17.0,Radio 2M,,,,,False,MBC,5/6,27500,DVB-S2,,12303 H
+12303 Htp 31SNW Africa0,19.0,Medi 1 Radio,,,,,False,MBC,5/6,27500,DVB-S2,Ara,12303 H
+12360 Vtp 34MENA BSS48,,Libyan mux,702-2,,,,False,MBC,5/6,27500,DVB-S2,,12360 V
+12360 Vtp 34MENA BSS48,525.0,Libya Sport HD1,MPEG-4/HD,3085.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12360 V
+12360 Vtp 34MENA BSS48,1304.0,Libya Alrasmia Channel,MPEG-2/SD,1013.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12360 V
+12360 Vtp 34MENA BSS48,2302.0,Libya Sport HD2,MPEG-4/HD,2304.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12360 V
+12360 Vtp 34MENA BSS48,2303.0,Libya Education TV,MPEG-2/SD,2307.0,,,False,MBC,5/6,27500,DVB-S2,Ara,12360 V
+12380 Htp 35MENA BSS48,,GOBX,702-6135,,Irdeto,,False,MBC,3/4,27500,DVB-S2,,12380 H
+12399 Vtp 36MENA BSS48,,GOBX,702-6136,,Irdeto,,False,MBC,3/4,27500,DVB-S2,,12399 V
+12418 Htp 37MENA BSS48,,GOBX,702-6137,,,,False,MBC,3/4,27500,DVB-S2,,12418 H
+12380 Htp 35MENA BSS48,4.0,SSC 4,MPEG-4/HD,401.0,,,False,MBC,3/4,27500,DVB-S2,Ara,12380 H
+12418 Htp 37MENA BSS48,1.0,SSC 1,MPEG-2/SD,101.0,,,False,MBC,3/4,27500,DVB-S2,,12418 H
+12418 Htp 37MENA BSS48,6.0,SSC 5,MPEG-2/SD,601.0,,,False,MBC,3/4,27500,DVB-S2,Ara,12418 H
+12418 Htp 37MENA BSS48,8.0,SSC Extra 1,MPEG-2/SD,801.0,,,False,MBC,3/4,27500,DVB-S2,Ara,12418 H
+12418 Htp 37MENA BSS48,10.0,SSC Extra 2,MPEG-2/SD,1001.0,,,False,MBC,3/4,27500,DVB-S2,Ara,12418 H
+12418 Htp 37MENA BSS48,11.0,SSC News,MPEG-4/HD,1101.0,,,False,MBC,3/4,27500,DVB-S2,Ara,12418 H
+12437 Vtp 38MENA BSS48,,IEN Doros,702-610,,,https://www.lyngsat.com/providers/sa/IEN-Doros.html,True,IEN Doros,3/4,27500,DVB-S2,,12437 V
+12437 Vtp 38MENA BSS48,1.0,IEN Doros 1,MPEG-2/SD,230.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,2.0,IEN Doros 2,MPEG-2/SD,204.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,3.0,IEN Doros 3,MPEG-2/SD,205.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,4.0,IEN Doros 4,MPEG-2/SD,206.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,5.0,IEN Doros 5,MPEG-2/SD,207.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,6.0,IEN Doros 6,MPEG-2/SD,208.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,7.0,IEN Doros 7,MPEG-2/SD,209.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,8.0,IEN Doros 8,MPEG-2/SD,210.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,9.0,IEN Doros 9,MPEG-2/SD,211.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,10.0,IEN Doros 10,MPEG-2/SD,212.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,11.0,IEN Doros 11,MPEG-2/SD,213.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,12.0,IEN Doros 12,MPEG-2/SD,214.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,13.0,IEN Doros TV,MPEG-4/HD,4121.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,15.0,IEN Doros 13,MPEG-2/SD,216.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,16.0,IEN Doros 14,MPEG-2/SD,217.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,17.0,IEN Doros 15,MPEG-2/SD,218.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,18.0,IEN Doros 16,MPEG-2/SD,219.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,19.0,IEN Doros 17,MPEG-2/SD,220.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,20.0,IEN Doros 18,MPEG-2/SD,221.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,21.0,IEN Doros 19,MPEG-2/SD,222.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,22.0,IEN Doros 20,MPEG-2/SD,2020.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,23.0,IEN Doros 21,MPEG-2/SD,224.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,24.0,IEN Doros 22,MPEG-2/SD,225.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,25.0,IEN Doros 23,MPEG-2/SD,226.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12437 Vtp 38MENA BSS48,26.0,IEN Rawdati,MPEG-4/HD,2045.0,,,False,IEN Doros,3/4,27500,DVB-S2,Ara,12437 V
+12456 Htp 39MENA BSS48,,Oman TV,702-556,,,https://www.lyngsat.com/providers/om/Oman-TV.html,True,Oman TV,3/4,27500,DVB-S2,,12456 H
+12456 Htp 39MENA BSS48,10.0,Oman TV,MPEG-2/SD,110.0,,https://www.lyngsat.com/providers/om/Oman-TV.html,True,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,30.0,Oman TV,MPEG-4/HD,310.0,,https://www.lyngsat.com/providers/om/Oman-TV.html,True,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,70.0,Oman TV Sport,MPEG-4/HD,710.0,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,80.0,Oman TV Mubashir,MPEG-4/HD,810.0,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,90.0,Oman TV Cultural,MPEG-4/HD,910.0,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,11.0,Radio Oman,,,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,22.0,Holy Quran Radio (Oman),,,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,33.0,Sawt Oman 2,,,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,111.0,Al-Shabab,,,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12456 Htp 39MENA BSS48,222.0,Oman Classic Radio,,,,,False,Oman TV,3/4,27500,DVB-S2,Eng,12456 H
+12456 Htp 39MENA BSS48,1111.0,Radio Oman FM,,,,,False,Oman TV,3/4,27500,DVB-S2,Eng,12456 H
+12456 Htp 39MENA BSS48,2222.0,Sawt Oman 1,,,,,False,Oman TV,3/4,27500,DVB-S2,Ara,12456 H
+12476 Vtp 40MENA BSS48,,Al-Majd Network,1296-559,,Irdeto,https://www.lyngsat.com/providers/sa/Al-Majd-Network.html,True,Al-Majd Network,3/4,27500,DVB-S2,,12476 V
+12476 Vtp 40MENA BSS48,1.0,Al-Majd Channel,MPEG-4/HD,275.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,16.0,Al-Majd Channel,MPEG-4/SD,273.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,2.0,Holy Quran Channel,MPEG-4/SD,289.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,3.0,Prophet's Al Hadeth Channel,MPEG-4/SD,305.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,4.0,Elmia Channel,MPEG-4/SD,321.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,5.0,Al-Majd News,MPEG-4/SD,337.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,6.0,Wathaqya Channel,MPEG-4/SD,353.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,7.0,Taabeaa Channel,MPEG-4/SD,369.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,8.0,[Radio Daal info card],MPEG-4/SD,385.0,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,9.0,Al-Majd Kids,MPEG-4/SD,401.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,10.0,Basma Channel,MPEG-4/SD,417.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,11.0,Roda Channel,MPEG-4/SD,433.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,12.0,Fakir wa Ela'ab,MPEG-4/SD,449.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,13.0,Masa Channel,MPEG-4/HD,467.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,29.0,Masa Channel,MPEG-4/SD,465.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,15.0,Al-Ajaweed,MPEG-4/SD,497.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12476 Vtp 40MENA BSS48,31.0,(Almajd feeds),,753.0,Irdeto,,False,Al-Majd Network,3/4,27500,DVB-S2,,12476 V
+12476 Vtp 40MENA BSS48,8.0,Radio Daal,,,,,False,Al-Majd Network,3/4,27500,DVB-S2,Ara,12476 V
+12523 Htp 1EMENA FSS48,,Kuwait TV,1918-30100,,,https://www.lyngsat.com/providers/kw/Kuwait-TV.html,True,Kuwait TV,2/3,27500,DVB-S2,,12523 H
+12523 Htp 1EMENA FSS48,1101.0,KTV 1,MPEG-4/HD,102.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1102.0,KTV 2 (Kuwait),MPEG-4/HD,34.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Eng,12523 H
+12523 Htp 1EMENA FSS48,1103.0,KTV Sport,MPEG-4/HD,112.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Eng,12523 H
+12523 Htp 1EMENA FSS48,1104.0,KTV Sport 2,MPEG-4/HD,43.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1105.0,KTV Ethraa,MPEG-4/HD,41.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1106.0,KTV Arabe,MPEG-4/HD,46.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1107.0,Al-Majlis TV,MPEG-4/HD,53.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1108.0,KTV Al Qurain,MPEG-4/HD,50.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,1110.0,KTV Drama,MPEG-4/HD,1112.0,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,11.0,Kuwait Radio One,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,20.0,Kuwait Radio One,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,12.0,Kuwait Radio Two,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,13.0,AlQuran Alkarem,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,14.0,Easy FM,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Eng,12523 H
+12523 Htp 1EMENA FSS48,15.0,Kuwait FM,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,16.0,Super Station,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,17.0,The Old Arabic Singing,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,18.0,Traditional Station,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Htp 1EMENA FSS48,19.0,OFM,,,,,False,Kuwait TV,2/3,27500,DVB-S2,Ara,12523 H
+12523 Vtp 2EMENA FSS48,,Sudan TV,702-2,,,https://www.lyngsat.com/providers/sd/Sudan-TV.html,True,Sudan TV,5/6,27500,DVB-S2,,12523 V
+12523 Vtp 2EMENA FSS48,2010.0,Sudan TV,MPEG-2/SD,37.0,,https://www.lyngsat.com/providers/sd/Sudan-TV.html,True,Sudan TV,5/6,27500,DVB-S2,Ara,12523 V
+12563 VEMENA FSS48,,TDM,136-26,,,https://www.lyngsat.com/providers/mr/TDM.html,True,TDM,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,1.0,Elmouritaniya,MPEG-4/HD,2001.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,2.0,Elmouritaniya,MPEG-4/SD,2002.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,3.0,Elmouritaniya 2,MPEG-4/SD,2003.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,4.0,El Mahadra,MPEG-4/SD,2004.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,5.0,Athagavia,MPEG-4/SD,2005.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,6.0,Arriadia,MPEG-4/SD,2006.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,7.0,Al Barlemania,MPEG-4/SD,2007.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,8.0,TDM promo,MPEG-4/SD,2008.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,9.0,Sahel TV,MPEG-4/SD,2023.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,10.0,Elwataniya TV,MPEG-4/SD,2024.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,11.0,Elmourabiton TV,MPEG-4/SD,2025.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,12.0,Chinguit TV,MPEG-4/SD,2012.0,,,False,TDM,2/3,27500,DVB-S2,Fre,12563 V
+12563 VEMENA FSS48,13.0,Dava TV,MPEG-4/SD,2013.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,14.0,El Oussra TV,MPEG-4/SD,2015.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,17.0,El Oussra TV,MPEG-4/HD,2016.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,15.0,El Medina TV,MPEG-4/HD,2018.0,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,130.0,Radio Mauritanie,,,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,131.0,Radio Coran (Mauritania),,,,,False,TDM,2/3,27500,DVB-S2,Ara,12563 V
+12563 VEMENA FSS48,132.0,Radio Jeunesse,,,,,False,TDM,2/3,27500,DVB-S2,,12563 V
+12563 VEMENA FSS48,133.0,Radio Mauritanie Culturelle,,,,,False,TDM,2/3,27500,DVB-S2,,12563 V
+12643 Htp 7EMENA FSS48,,Tunisian mux,8620-4407,,,,False,TDM,5/6,27500,DVB-S2,,12643 H
+12643 Htp 7EMENA FSS48,11.0,Watania 1,MPEG-2/SD,2111.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,1100.0,Watania 1,MPEG-4/HD,1110.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,12.0,Watania 2,MPEG-2/SD,2121.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,1200.0,Watania 2,MPEG-4/HD,1210.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,13.0,Carthage+,MPEG-2/SD,2131.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,14.0,Nessma,MPEG-2/SD,2141.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,15.0,Jawhara FM TV,MPEG-2/SD,2151.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,16.0,Watania Educative,MPEG-2/SD,2161.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,17.0,Tunisna TV,MPEG-2/SD,2171.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,18.0,Telvza TV,MPEG-2/SD,2181.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,19.0,Radio Nationale Visuelle,MPEG-2/SD,2191.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,20.0,Attessia TV,MPEG-2/SD,2201.0,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,24.0,Radio Jeunes,,,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,25.0,Radio Tunisienne,,,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,26.0,Radio Tunis Chaîne Internationale,,,,,False,TDM,5/6,27500,DVB-S2,,12643 H
+12643 Htp 7EMENA FSS48,27.0,Radio Culturelle,,,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12643 Htp 7EMENA FSS48,28.0,Radio Nationale,,,,,False,TDM,5/6,27500,DVB-S2,Ara,12643 H
+12683 Vtp 10EMENA FSS48,,SNRT,702-800,,,https://www.lyngsat.com/providers/ma/SNRT.html,True,SNRT,3/4,27500,DVB-S2,,12683 V
+12683 Vtp 10EMENA FSS48,1.0,Al Aoula Inter,MPEG-4/HD,101.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,11.0,Al Aoula Inter,MPEG-2/SD,1101.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,12.0,Laayoune TV,MPEG-2/SD,1201.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,30.0,Arryadia,MPEG-2/SD,3002.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,31.0,Arryadia,MPEG-4/HD,3102.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,40.0,Athaqafia,MPEG-2/SD,4001.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,50.0,Al Maghribia,MPEG-2/SD,5001.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,60.0,Assadissa,MPEG-2/SD,6001.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,80.0,Tamazight,MPEG-2/SD,8001.0,,,False,SNRT,3/4,27500,DVB-S2,Ber,12683 V
+12683 Vtp 10EMENA FSS48,90.0,Idaa al Watania,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,91.0,Chaîne Inter,,,,,False,SNRT,3/4,27500,DVB-S2,,12683 V
+12683 Vtp 10EMENA FSS48,92.0,Idaa al Amazighia,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V
+12683 Vtp 10EMENA FSS48,93.0,Idaa Mohammed Assadiss,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,12683 V

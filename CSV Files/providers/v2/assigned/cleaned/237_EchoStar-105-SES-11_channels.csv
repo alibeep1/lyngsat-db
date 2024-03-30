@@ -1,0 +1,82 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3712 Vtp 1North America C,1,TRC TV,?-?MPEG-4/HD,256.0,,,False,,5/6,3000,DVB-S2,Spa,3712 V
+3991 Vtp 15North America C,,VA+,,,,https://www.lyngsat.com/providers/mx/VA-.html,True,VA+,3/4,5833,DVB-S2,,3991 V
+3991 Vtp 15North America C,1,VA+ TV,MPEG-2/HD,49.0,,,False,VA+,3/4,5833,DVB-S2,Spa,3991 V
+3991 Vtp 15North America C,2,UAA TV,MPEG-2/SD,65.0,,,False,VA+,3/4,5833,DVB-S2,Spa,3991 V
+3991 Vtp 15North America C,3,Once niñas y niños,MPEG-2/SD,81.0,,,False,VA+,3/4,5833,DVB-S2,Spa,3991 V
+3997 Vtp 15North America C,,,,,,,False,VA+,,,,,3997 V
+4020 Htp 16North America C,,,120-303,,PowerVu,,False,VA+,5/6,30000,DVB-S2,,4020 H
+4060 Htp 18North America C,,,,,Digicipher,,False,VA+,5/6,30000,DVB-S2,,4060 H
+4080 Vtp 19North America C,,,,,Digicipher,,False,VA+,5/6,30000,DVB-S2,,4080 V
+4147 Vtp 23North America C,,,,,,,False,VA+,5/6,7960,DVB-S2,,4147 V
+4020 Htp 16North America C,10,Golf Channel US,MPEG-4/HD,110.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Eng Spa,4020 H
+4020 Htp 16North America C,13,Golf Channel US Alternate,MPEG-4/HD,410.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Eng Spa,4020 H
+4020 Htp 16North America C,15,Universal Kids West,MPEG-4/HD,610.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C,16,(NBC feeds),,710.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,,4020 H
+4020 Htp 16North America C,17,Telemundo Oeste,MPEG-4/SD,170.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Spa,4020 H
+4140 Htp 22North America C,21,Telemundo Oeste,MPEG-4/HD,210.0,BISS,,False,VA+,5/6,30000,DVB-S2,Spa,4140 H
+4020 Htp 16North America C,18,TV One (USA),MPEG-4/HD,180.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C,31,E! West,MPEG-4/HD,310.0,PowerVu,,False,VA+,5/6,30000,DVB-S2,Eng,4020 H
+4020 Htp 16North America C,81,Oxygen True Crime East,MPEG-4/HD,810.0,,,False,VA+,5/6,30000,DVB-S2,Eng,4020 H
+4025 Vtp 16North America C,,A Más +,?-1,,,https://www.lyngsat.com/providers/mx/A-Mas--.html,True,A Más +,5/6,5000,DVB-S2,,4025 V
+4025 Vtp 16North America C,1*,A Más +,HEVC/HD,1131.0,,https://www.lyngsat.com/providers/mx/A-Mas--.html,True,A Más +,5/6,5000,DVB-S2,Spa,4025 V
+4025 Vtp 16North America C,2,A Más +,HEVC/HD,65.0,,https://www.lyngsat.com/providers/mx/A-Mas--.html,True,A Más +,5/6,5000,DVB-S2,Spa,4025 V
+4025 Vtp 16North America C,9,A Más +,HEVC/SD,177.0,,https://www.lyngsat.com/providers/mx/A-Mas--.html,True,A Más +,5/6,5000,DVB-S2,Spa,4025 V
+4060 Htp 18North America C,2,The Weather Channel,MPEG-4/SD,16.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,8,The Weather Channel,MPEG-4/HD,336.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,11,Justice Central TV,MPEG-4/HD,450.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,12,Comedy TV (USA),MPEG-4/HD,500.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,13,Recipe TV,MPEG-4/HD,550.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,14,Cars TV,MPEG-4/HD,600.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,15,Pets TV,MPEG-4/HD,650.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,16,My Destination TV,MPEG-4/HD,700.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4060 Htp 18North America C,17,Es TV,MPEG-4/HD,750.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4060 H
+4080 Vtp 19North America C,1,Discovery Channel East,MPEG-4/HD,17.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,2,TLC East,MPEG-4/HD,33.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,3,Destination America,MPEG-4/HD,49.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,4,TLC Canada,MPEG-4/HD,65.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,5,American Heroes Channel USA,MPEG-4/HD,81.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,6,Discovery en Español,MPEG-4/HD,97.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19North America C,7,Discovery Familia,MPEG-4/HD,113.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Spa,4080 V
+4080 Vtp 19North America C,8,Investigation Discovery East,MPEG-4/HD,129.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,9,Animal Planet East,MPEG-4/HD,145.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4080 Vtp 19North America C,10,Science,MPEG-4/HD,161.0,Digicipher,,False,A Más +,5/6,30000,DVB-S2,Eng,4080 V
+4100 Htp 20North America C,,Paramount Domestic Media Networks HD Plex 1,20-?,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex-1.html,True,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America C,101,CMT West,MPEG-4/HD,111.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,102,MTV West,MPEG-4/HD,211.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,103,Nickelodeon East,MPEG-4/HD,311.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,104,VH1 East,MPEG-4/HD,411.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,105,Comedy Central East,MPEG-4/HD,511.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,106,Paramount Network West,MPEG-4/HD,611.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,107,Paramount Network Canada,MPEG-4/HD,711.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,108,[test card],MPEG-4/HD,811.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America C,111,[test card],MPEG-4/HD,1111.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America C,112,[test card],MPEG-4/HD,1211.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,,4100 H
+4100 Htp 20North America C,109,Logo East,MPEG-4/HD,911.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4100 Htp 20North America C,110,Logo West,MPEG-4/HD,1011.0,PowerVu,,False,Paramount Domestic Media Networks HD Plex 1,5/6,30000,DVB-S2,Eng,4100 H
+4122 Vtp 21North America C,,SQCS Canal 4,MPEG-2/SD,256.0,,,False,Paramount Domestic Media Networks HD Plex 1,5/6,2500,DVB-S2,Spa Spa,4122 V
+4140 Htp 22North America C,,NBC,,,BISS,https://www.lyngsat.com/providers/us/NBC.html,True,NBC,5/6,30000,DVB-S2,,4140 H
+4140 Htp 22North America C,11,NBC East,MPEG-4/HD,110.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,4140 H
+4140 Htp 22North America C,12,NBC Central,MPEG-4/HD,120.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,4140 H
+4140 Htp 22North America C,13,NBC Mountain,MPEG-4/HD,130.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,4140 H
+4140 Htp 22North America C,14,NBC West,MPEG-4/HD,140.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng,4140 H
+4140 Htp 22North America C,20,Telemundo Este,MPEG-4/HD,200.0,BISS,,False,NBC,5/6,30000,DVB-S2,Spa,4140 H
+4140 Htp 22North America C,22,Telemundo Mountain,MPEG-4/HD,220.0,BISS,,False,NBC,5/6,30000,DVB-S2,Spa,4140 H
+4140 Htp 22North America C,24,(Telemundo feeds),,240.0,BISS,,False,NBC,5/6,30000,DVB-S2,,4140 H
+4140 Htp 22North America C,51,Cozi TV,MPEG-2/SD,510.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4140 H
+4140 Htp 22North America C,52,TeleXitos,MPEG-2/SD,520.0,BISS,,False,NBC,5/6,30000,DVB-S2,Spa,4140 H
+4147 Vtp 23North America C,1,YTA,MPEG-4/HD,101.0,,,False,NBC,5/6,7960,DVB-S2,Eng,4147 V
+4147 Vtp 23North America C,2,Pursuit Channel,MPEG-4/HD,111.0,,,False,NBC,5/6,7960,DVB-S2,Eng,4147 V
+4162 Vtp 23North America C,1,Pursuit Channel,?-?/HD,2000.0,,,False,NBC,3/4,2500,DVB-S2,Eng,4162 V
+4180 Htp 24North America C,,Olympusat,,,Digicipher,,False,NBC,5/6,30000,DVB-S2,,4180 H
+4180 Htp 24North America C,6,Daystar TV,MPEG-4/HD,600.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America C,11,TBN USA,MPEG-4/SD,400.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America C,12,TBN Inspire USA,MPEG-4/SD,464.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America C,13,Positiv,MPEG-4/SD,800.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America C,18,EarthxTV United States,MPEG-4/HD,128.0,,,False,NBC,5/6,30000,DVB-S2,Eng,4180 H
+4180 Htp 24North America C,21,TBN Enlace USA,MPEG-4/SD,1321.0,,,False,NBC,5/6,30000,DVB-S2,Spa,4180 H
+4180 Htp 24North America C,27,Daystar TV Español,MPEG-4/SD,1648.0,,,False,NBC,5/6,30000,DVB-S2,Spa,4180 H
+12109 VNorth America Ku,,Veterans Affairs Knowledge Network,,,,https://www.lyngsat.com/providers/us/Veterans-Affairs-Knowledge-Network.html,True,Veterans Affairs Knowledge Network,2/3,9500,DVB-S2,,12109 V
+12109 VNorth America Ku,1,Veterans Affairs Knowledge Network 1,MPEG-4/HD,100.0,PowerVu,,False,Veterans Affairs Knowledge Network,2/3,9500,DVB-S2,Eng,12109 V
+12109 VNorth America Ku,2,Veterans Affairs Knowledge Network 2,MPEG-4/HD,800.0,,,False,Veterans Affairs Knowledge Network,2/3,9500,DVB-S2,Eng,12109 V
+12109 VNorth America Ku,3,Veterans Affairs Knowledge Network 3,MPEG-4/HD,300.0,,,False,Veterans Affairs Knowledge Network,2/3,9500,DVB-S2,Eng,12109 V

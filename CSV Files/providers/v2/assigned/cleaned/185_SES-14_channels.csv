@@ -1,0 +1,75 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3688 Ltp EA2Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3688 L
+3693 Rtp EA1Europe & America,,(feeds),,,,,False,,3/4,27120,DVB-S2,,3693 R
+3694 Ltp EA2Europe & America,,(feeds),,,,,False,,3/4,23700,DVB-S2,,3694 L
+3746 Rtp EA3Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3746 R
+3750 Ltp EA4Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3750 L
+3758 Rtp EA3Europe & America,,(feeds),,,,,False,,5/6,7500,DVB-S2,,3758 R
+3767 Rtp EA3Europe & America,,(feeds),,,,,False,,3/4,27120,DVB-S2,,3767 R
+3776 Rtp EA3Europe & America,,(feeds),,,,,False,,3/4,27120,DVB-S2,,3776 R
+3777 Ltp EA4Europe & America,,(feeds),,,,,False,,2/3,3750,DVB-S2,,3777 L
+3788 Ltp EA4Europe & America,,(feeds),,,,,False,,3/4,5000,DVB-S2,,3788 L
+3790 Rtp EA5Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3790 R
+3799 Rtp EA5Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3799 R
+3808 Ltp EA4Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3808 L
+3808 Rtp EA5Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3808 R
+3817 Ltp EA4Europe & America,,(feeds),,,,,False,,2/3,7120,DVB-S2,,3817 L
+3817 Rtp EA5Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3817 R
+3830 Ltp EA6Europe & America,,(feeds),,,,,False,,3/4,27500,DVB-S2,,3830 L
+3839 Ltp EA8Europe & America,,(feeds),,,,,False,,5/6,7500,DVB-S2,,3839 L
+3847 Ltp EA8Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3847 L
+3848 Rtp EA7Europe & America,,(feeds),,,,,False,,2/3,6666,DVB-S2,,3848 R
+3856 Ltp EA8Europe & America,,(feeds),,,,,False,,3/4,9875,DVB-S2,,3856 L
+3857 Rtp EA7Europe & America,,(feeds),,,,,False,,2/3,6666,DVB-S2,,3857 R
+3868 Rtp EA9Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3868 R
+3869 Ltp EA10Europe & America,,(feeds),,,,,False,,2/3,7200,DVB-S2,,3869 L
+3878 Ltp EA10Europe & America,,(feeds),,,,,False,,2/3,7200,DVB-S2,,3878 L
+3886 Rtp EA9Europe & America,,(feeds),,,,,False,,3/4,4937,DVB-S2,,3886 R
+3892 Rtp EA9Europe & America,,(feeds),,,,,False,,3/4,4937,DVB-S2,,3892 R
+3898 Rtp EA9Europe & America,,(feeds),,,,,False,,3/4,4937,DVB-S2,,3898 R
+3908 Ltp EA12Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,3908 L
+3909 Rtp EA11Europe & America,,(feeds),,,,,False,,3/4,4800,DVB-S2,,3909 R
+3911 Ltp EA12Europe & America,,(feeds),,,,,False,,5/6,7500,DVB-S2,,3911 L
+3917 Rtp EA11Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3917 R
+3927 Rtp EA11Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3927 R
+3936 Ltp EA12Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3936 L
+4025 Rtp EA13Europe & America,,(feeds),,,,,False,,3/4,5000,DVB-S2,,4025 R
+4122 Ltp EA20Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,4122 L
+4126 Rtp EA19Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4126 R
+4130 Ltp EA20Europe & America,,(feeds),,,,,False,,3/4,27200,DVB-S2,,4130 L
+4135 Rtp EA19Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4135 R
+4140 Ltp EA20Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4140 L
+4158 Ltp EA20Europe & America,,(feeds),,,,,False,,5/6,7200,DVB-S2,,4158 L
+4160 Rtp EA19Europe & America,,(feeds),,,,,False,,3/4,29874,DVB-S2,,4160 R
+4167 Ltp EA20Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4167 L
+4176 Ltp EA20Europe & America,,(feeds),,,,,False,,3/4,7200,DVB-S2,,4176 L
+3834 Rtp EA7Europe & America36-38,,Sersat,1-1,,IrdetoVerimatrix,https://www.lyngsat.com/providers/ar/Sersat.html,True,Sersat,2/3,15000,DVB-S2,,3834 R
+3834 Rtp EA7Europe & America36-38,1.0,Garage TV,MPEG-4/HD,1160.0,Irdeto,,False,Sersat,2/3,15000,DVB-S2,Spa,3834 R
+3834 Rtp EA7Europe & America36-38,2.0,Chacra TV,MPEG-4/HD,2160.0,,,False,Sersat,2/3,15000,DVB-S2,Spa,3834 R
+3834 Rtp EA7Europe & America36-38,3.0,Argentinísima Satelital,MPEG-4/HD,3160.0,,,False,Sersat,2/3,15000,DVB-S2,Spa,3834 R
+3834 Rtp EA7Europe & America36-38,5.0,Canal 26,MPEG-4/HD,5160.0,Verimatrix,,False,Sersat,2/3,15000,DVB-S2,Spa,3834 R
+3898 Ltp EA10Europe & America36-38,,,,,,,False,Sersat,,,,,3898 L
+3965 Rtp EA13Europe & America36-38,,,,,,,False,Sersat,,,,,3965 R
+4055 Rtp EA15Europe & America36-38,,Paramount Networks Americas,5-301,,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Networks-Americas.html,True,Paramount Networks Americas,5/6,30000,DVB-S2,,4055 R
+4055 Rtp EA15Europe & America36-38,611.0,Comedy Central Latinoamérica Sur,MPEG-4/HD,110.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,621.0,Nickelodeon Brasil,MPEG-4/HD,210.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng,4055 R
+4055 Rtp EA15Europe & America36-38,631.0,Nickelodeon Centro,MPEG-4/HD,310.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,641.0,MTV Latino Norte,MPEG-4/HD,410.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,651.0,Paramount Network Brasil,MPEG-4/HD,510.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng,4055 R
+4055 Rtp EA15Europe & America36-38,661.0,MTV Latino Sud,MPEG-4/HD,610.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,671.0,Nickelodeon Norte,MPEG-4/HD,710.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,681.0,Nick Jr Latin America,MPEG-4/HD,810.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,711.0,Nick Jr Brasil,MPEG-4/HD,910.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng,4055 R
+4055 Rtp EA15Europe & America36-38,721.0,Nickelodeon Sur,MPEG-4/HD,1010.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng,4055 R
+4055 Rtp EA15Europe & America36-38,731.0,Comedy Central Brasil,MPEG-4/HD,1110.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng,4055 R
+4055 Rtp EA15Europe & America36-38,741.0,MTV Brasil,MPEG-4/HD,1210.0,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng,4055 R
+4095 Ltp EA18Europe & America36-38,,SES,1-6,,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,30000,DVB-S2,,4095 L
+4095 Ltp EA18Europe & America36-38,7002.0,Rai Italia Sud America,MPEG-4/HD,712.0,Irdeto,,False,SES,2/3,30000,DVB-S2,Ita Ita,4095 L
+4095 Ltp EA18Europe & America36-38,7015.0,CNN Brasil,MPEG-4/HD,2015.0,Viaccess,,False,SES,2/3,30000,DVB-S2,Por,4095 L
+4095 Ltp EA18Europe & America36-38,7016.0,CNN Brasil,MPEG-2/SD,36.0,Viaccess,,False,SES,2/3,30000,DVB-S2,Por,4095 L
+4095 Ltp EA18Europe & America36-38,7030.0,France 24 English,MPEG-4/HD,1304.0,,,False,SES,2/3,30000,DVB-S2,Eng Eng,4095 L
+4095 Ltp EA18Europe & America36-38,7031.0,France 24 Español,MPEG-4/HD,1311.0,,,False,SES,2/3,30000,DVB-S2,Spa Spa,4095 L
+4095 Ltp EA18Europe & America36-38,7032.0,France 24 Français,MPEG-2/SD,303.0,,,False,SES,2/3,30000,DVB-S2,Fre Fre,4095 L
+4095 Ltp EA18Europe & America36-38,7035.0,RFI Latine,,,,,False,SES,2/3,30000,DVB-S2,Spa,4095 L
+4095 Ltp EA18Europe & America36-38,7036.0,RFI Français,,,,,False,SES,2/3,30000,DVB-S2,Fre,4095 L
+4095 Ltp EA18Europe & America36-38,7037.0,RFI Langues,,,,,False,SES,2/3,30000,DVB-S2,,4095 L

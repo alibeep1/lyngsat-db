@@ -1,0 +1,57 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,Provider_URL,is_Provider,Provider
+3818 Rtp 3EMEA,DVB-S28PSK16003/4,1.0,SSBC TV,,65535-1MPEG-2/SD,308.0,7.9 256 Ara,,DX Bozóth240306,,False,
+3934 Ltp 8EMEA,DVB-S275007/8,3002.0,SSBC TV,,MPEG-2/SD,3022.0,3032 Ara,,,,False,
+3827 Ltp 4EMEA,,,,,,,,,N Stanislav240102,,False,
+3964 Rtp 9EMEA,,,,,,,,,N Stanislav240201,,False,
+3851 Ltp 4EMEA,DVB-S28PSK12612/3,1.0,Vision 4,,0-1MPEG-4/HD,258.0,6.6 257 Fre,,F Dibba230922,,False,
+3857 Ltp 4EMEA,DVB-S42703/4,,DalSat Global,,103-103,,5.5,,F Dibba240208,https://www.lyngsat.com/providers/so/DalSat-Global.html,True,DalSat Global
+3857 Ltp 4EMEA,DVB-S42703/4,102.0,Ebru TV,,MPEG-4/SD,211.0,221 Eng,,,,False,DalSat Global
+3857 Ltp 4EMEA,DVB-S42703/4,104.0,Shabelle TV,,MPEG-4/SD,1042.0,1043 Som,,,,False,DalSat Global
+3857 Ltp 4EMEA,DVB-S42703/4,107.0,Rejo Sports,,MPEG-4/SD,44.0,43 Som,,,,False,DalSat Global
+3857 Ltp 4EMEA,DVB-S42703/4,106.0,Ebru Radio,,,,41 Som,,,,False,DalSat Global
+3860 Ltp 4EMEA,DVB-S4003/4,1000.0,Eye Radio,,?-?,,5.5 101 Eng,,Onacila201216,,False,DalSat Global
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,,Hit Radio,,1-1,,4.0,,N Stanislav240102,https://www.lyngsat.com/providers/ma/Hit-Radio.html,True,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,1000.0,Hit Radio Côte d'Ivoire,,,,101 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,3000.0,Hit Radio Congo,,,,301 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,4000.0,Hit Radio Gabon,,,,401 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,5000.0,Hit Radio Togo,,,,501 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,8000.0,Radio Azawan,,,,801 Ara,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,9000.0,Hit Radio Burkina Faso,,,,901 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,10000.0,Hit Radio (Morocco),,,,1001 Fre,,,,False,Hit Radio
+3866 Ltp 4EMEA,DVB-S2QPSK11503/4,12000.0,Hit Radio Niger,,,,1201 Fre,,,,False,Hit Radio
+3884 Rtp 5EMEA,DVB-S275005/6,,Arabsat,,702-621,,6.5,,Lexzie240209,https://www.lyngsat.com/providers/sa/Arabsat.html,True,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5052.0,ERI TV 1,,MPEG-2/SD,525.0,5644,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5064.0,Ekhbariya TV,,MPEG-2/SD,440.0,460 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5065.0,Thikrayat TV,,MPEG-2/SD,441.0,461 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5075.0,Elmouritaniya,,MPEG-4/SD,39.0,4114 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5080.0,Canal Algérie 2,,MPEG-2/SD,1200.0,1202 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5645.0,Al Maghribia,,MPEG-2/SD,526.0,5645 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,2.0,Dimtsi Hafash,,,,421,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,6.0,Dimtsi Hafash,,,,422 Tir,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,3.0,Radio Zara FM,,,,420 Tir,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,7.0,Radio Zara FM,,,,423,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5068.0,Radio Coran (Mauritania),,,,464 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5077.0,Radio Mauritanie,,,,41 Ara,,,,False,Arabsat
+3884 Rtp 5EMEA,DVB-S275005/6,5646.0,Ifrikya FM,,,,740 Ara,,,,False,Arabsat
+3934 Ltp 8EMEA,DVB-S275007/8,,ASBU Bouquet,,702-2600,,7.2,,BBC MonitoringWellikan230419,https://www.lyngsat.com/providers/tn/ASBU-Bouquet.html,True,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3004.0,Oman TV,,MPEG-2/SD,3024.0,3034 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3005.0,KTV 1,,MPEG-2/SD,3025.0,3035 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3008.0,Saudi TV,,MPEG-2/SD,3028.0,3038 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3010.0,Sharjah TV,,MPEG-2/SD,3083.0,3073 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3011.0,Quran TV (Saudi Arabia),,MPEG-2/SD,3121.0,3131 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3051.0,Sudan TV,,MPEG-2/SD,3071.0,3081 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3111.0,Sunna TV (Saudi Arabia),,MPEG-2/SD,3221.0,3231 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3518.0,Alwatania TV,,MPEG-2/SD,3041.0,3047 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3007.0,Holy Quran Radio (Oman),,,,3037 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3012.0,Radio Al Bayane,,,,3042 Fre,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3412.0,Neda Radio,,,,413 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3504.0,Riyadh Radio,,,,3534 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3505.0,Quran Radio (Saudi Arabia),,,,3535 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3507.0,Jeddah Radio,,,,3537 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3510.0,Radio Oman,,,,3540 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3512.0,Sharjah Radio,,,,3542 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3514.0,Saudia Radio,,,,3544,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3515.0,Kuwait Radio One,,,,3635 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3516.0,Kuwait Radio Two,,,,3636 Ara,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3517.0,Radio Oman FM,,,,3040 Eng,,,,False,ASBU Bouquet
+3934 Ltp 8EMEA,DVB-S275007/8,3530.0,SSBC Radio,,,,2217 Ara,,,,False,ASBU Bouquet

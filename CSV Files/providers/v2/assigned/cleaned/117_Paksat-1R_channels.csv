@@ -1,0 +1,240 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3718 VC37-39,,Dunya Media Group,,,,https://www.lyngsat.com/providers/pk/Dunya-Media-Group.html,True,Dunya Media Group,3/5,12000,DVB-S2,,3718 VC
+3718 VC37-39,1,Dunya News,MPEG-4/HD,101.0,,,False,Dunya Media Group,3/5,12000,DVB-S2,Urd,3718 VC
+3718 VC37-39,2,Lahore News,MPEG-4/HD,201.0,,,False,Dunya Media Group,3/5,12000,DVB-S2,,3718 VC
+3718 VC37-39,4,Dunya Entertainment,MPEG-4/SD,401.0,,,False,Dunya Media Group,3/5,12000,DVB-S2,,3718 VC
+3730 VC37-39,,,,,,,False,Dunya Media Group,,,,,3730 VC
+3740 VC37-39,,,,,,,False,Dunya Media Group,3/5,7200,DVB-S2,,3740 VC
+3770 VC37-39,,,1-1,,,,False,Dunya Media Group,3/4,7700,DVB-S2,,3770 VC
+3792 VC37-39,,,,,BISS 1,,False,Dunya Media Group,3/4,4000,DVB-S2,,3792 VC
+3834 HC37-39,,,,,,,False,Dunya Media Group,3/4,6500,DVB-S2,,3834 HC
+4024 HC37-39,,,,,,,False,Dunya Media Group,,,,,4024 HC
+4047 VC37-39,,,,,,,False,Dunya Media Group,,,,,4047 VC
+4064 VC37-39,,,,,,,False,Dunya Media Group,5/6,3200,DVB-S2,,4064 VC
+4074 VC37-39,,,0-0,,,,False,Dunya Media Group,3/4,6150,DVB-S2,,4074 VC
+4101 VC37-39,,,.-.,,,,False,Dunya Media Group,3/4,2800,DVB-S2,,4101 VC
+4115 VC37-39,,,1-1,,,,False,Dunya Media Group,5/6,4800,DVB-S2,,4115 VC
+4120 VC37-39,,,65535-0,,,,False,Dunya Media Group,3/5,2490,DVB-S2,,4120 VC
+4181 VC37-39,,,65535-1,,,,False,Dunya Media Group,3/4,5000,DVB-S2,,4181 VC
+4186 VC37-39,,,,,,,False,Dunya Media Group,,,,,4186 VC
+3740 VC37-39,1,92 News,MPEG-4/HD,92.0,,,False,Dunya Media Group,3/5,7200,DVB-S2,,3740 VC
+3740 VC37-39,2,11 News,MPEG-4/SD,93.0,,,False,Dunya Media Group,3/5,7200,DVB-S2,,3740 VC
+3740 VC37-39,3,92 Entertainment,MPEG-2/SD,94.0,,,False,Dunya Media Group,3/5,7200,DVB-S2,,3740 VC
+3745 VC37-39,1,9 News HD,?-?MPEG-4/HD,33.0,,,False,Dunya Media Group,5/6,1500,DVB-S2,,3745 VC
+3754 VC37-39,,VU TV Network,,,,https://www.lyngsat.com/providers/pk/VU-TV-Network.html,True,VU TV Network,3/4,7500,DVB-S2,,3754 VC
+3754 VC37-39,1,VU TV Network 1,MPEG-4/SD,33.0,,,False,VU TV Network,3/4,7500,DVB-S2,Urd,3754 VC
+3754 VC37-39,2,VU TV Network 2,MPEG-4/SD,35.0,,,False,VU TV Network,3/4,7500,DVB-S2,Urd,3754 VC
+3754 VC37-39,3,VU TV Network 3,MPEG-4/SD,40.0,,,False,VU TV Network,3/4,7500,DVB-S2,Urd,3754 VC
+3754 VC37-39,4,VU TV Network 4,MPEG-4/SD,66.0,,,False,VU TV Network,3/4,7500,DVB-S2,Urd,3754 VC
+3760 HC37-39,,Suno FM,1-1,,,https://www.lyngsat.com/providers/pk/Suno-FM.html,True,Suno FM,1/2,1003,DVB-S1,,3760 HC
+3760 HC37-39,257,Suno FM,,,,https://www.lyngsat.com/providers/pk/Suno-FM.html,True,Suno FM,1/2,1003,DVB-S1,,3760 HC
+3760 HC37-39,258,Suno FM GB,,,,,False,Suno FM,1/2,1003,DVB-S1,,3760 HC
+3762 VC37-39,1,Suno News HD,?-?MPEG-4/HD,33.0,,,False,Suno FM,3/5,4100,DVB-S2,Urd,3762 VC
+3770 VC37-39,1,24 News HD,MPEG-4/SD,257.0,,,False,Suno FM,3/4,7700,DVB-S2,,3770 VC
+3770 VC37-39,2,City 42,MPEG-4/SD,261.0,,,False,Suno FM,3/4,7700,DVB-S2,Urd,3770 VC
+3770 VC37-39,3,City 41,MPEG-4/SD,266.0,,,False,Suno FM,3/4,7700,DVB-S2,Urd,3770 VC
+3770 VC37-39,4,Rohi TV,MPEG-4/SD,271.0,,,False,Suno FM,3/4,7700,DVB-S2,Lah,3770 VC
+3770 VC37-39,6,City 21,MPEG-4/SD,281.0,,,False,Suno FM,3/4,7700,DVB-S2,,3770 VC
+3778 VC37-39,,AJK TV,MPEG-2/SD,308.0,,,False,Suno FM,3/4,2600,DVB-S2,,3778 VC
+3783 VC37-39,1,Green Entertainment,?-1MPEG-4/HD,101.0,,,False,Suno FM,3/5,6348,DVB-S2,,3783 VC
+3792 VC37-39,1,Aan TV,MPEG-4/HD,106.0,,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3792 VC37-39,2,Planet 6 tests,MPEG-4/SD,36.0,BISS 1,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3792 VC37-39,3,M-News,MPEG-4/SD,33.0,,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3792 VC37-39,4,M-Life,HEVC/SD,39.0,BISS 1,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3792 VC37-39,5,M-Sports,HEVC/SD,42.0,BISS 1,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3792 VC37-39,6,Me TV,HEVC/SD,45.0,BISS 1,,False,Suno FM,3/4,4000,DVB-S2,,3792 VC
+3799 VC37-39,,TeleNest,1-1,,,https://www.lyngsat.com/providers/pk/TeleNest.html,True,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,,TeleNest,1-1,,,https://www.lyngsat.com/providers/pk/TeleNest.html,True,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3969 VC37-39,,TeleNest,,,,https://www.lyngsat.com/providers/pk/TeleNest.html,True,TeleNest,3/4,6944,DVB-S2,,3969 VC
+3969 VC37-39,,TeleNest,,,,https://www.lyngsat.com/providers/pk/TeleNest.html,True,TeleNest,3/4,6944,DVB-S2,,3969 VC
+3799 VC37-39,15,Kohenoor News,MPEG-4/SD,156.0,,,False,TeleNest,3/4,5500,DVB-S2,Urd,3799 VC
+3799 VC37-39,20,V Entertainment,MPEG-4/SD,261.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,25,Filmazia Punjabi,MPEG-4/SD,266.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,30,Filmazia Pashto,MPEG-4/SD,271.0,,,False,TeleNest,3/4,5500,DVB-S2,Pus,3799 VC
+3799 VC37-39,35,Filmazia,MPEG-4/SD,276.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,40,Filmazia Gaane,MPEG-4/SD,281.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,50,Pakistan 1,MPEG-4/SD,291.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3799 VC37-39,55,South Asia Global TV,MPEG-4/SD,296.0,,,False,TeleNest,3/4,5500,DVB-S2,Eng,3799 VC
+3799 VC37-39,60,[Hadi TV 1 info card],MPEG-4/SD,302.0,,,False,TeleNest,3/4,5500,DVB-S2,,3799 VC
+3813 VC37-39,,Geo TV Network,,,Conax,https://www.lyngsat.com/providers/pk/Geo-TV-Network.html,True,Geo TV Network,3/5,16855,DVB-S2,,3813 VC
+3813 VC37-39,1050,Geo News,MPEG-4/HD,101.0,,,False,Geo TV Network,3/5,16855,DVB-S2,Urd,3813 VC
+3813 VC37-39,1060,Geo TV,MPEG-4/HD,102.0,Conax,,False,Geo TV Network,3/5,16855,DVB-S2,Urd,3813 VC
+3813 VC37-39,1070,Geo Kahani,MPEG-4/HD,103.0,Conax,,False,Geo TV Network,3/5,16855,DVB-S2,,3813 VC
+3813 VC37-39,1080,Geo Super,MPEG-4/HD,104.0,Conax,,False,Geo TV Network,3/5,16855,DVB-S2,Urd,3813 VC
+3813 VC37-39,1090,Geo Tez,MPEG-4/HD,105.0,,,False,Geo TV Network,3/5,16855,DVB-S2,Urd,3813 VC
+3813 VC37-39,1100,Geo Middle East,MPEG-4/HD,106.0,Conax,,False,Geo TV Network,3/5,16855,DVB-S2,Urd,3813 VC
+3832 VC37-39,,Gourmet News Network,MPEG-4/HD,33.0,,,False,Geo TV Network,3/5,4000,DVB-S2,Urd,3832 VC
+3834 HC37-39,16,Apna Channel,MPEG-4/HD,33.0,,,False,Geo TV Network,3/4,6500,DVB-S2,,3834 HC
+3834 HC37-39,32,8XM,MPEG-4/HD,49.0,,,False,Geo TV Network,3/4,6500,DVB-S2,,3834 HC
+3834 HC37-39,48,Abb Takk,MPEG-4/HD,65.0,,,False,Geo TV Network,3/4,6500,DVB-S2,,3834 HC
+3834 HC37-39,64,Jalwa,MPEG-4/HD,81.0,,,False,Geo TV Network,3/4,6500,DVB-S2,,3834 HC
+3838 VC37-39,,Express,,,,https://www.lyngsat.com/providers/pk/Express.html,True,Express,3/4,4800,DVB-S2,,3838 VC
+3838 VC37-39,2,Express Entertainment,MPEG-4/HD,513.0,,,False,Express,3/4,4800,DVB-S2,Urd,3838 VC
+3838 VC37-39,3,Express News,MPEG-4/HD,514.0,,,False,Express,3/4,4800,DVB-S2,Urd,3838 VC
+3846 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+4023 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4023 VC
+4023 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4023 VC
+4023 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4023 VC
+4023 VC37-39,,SS Creative Solutions,,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,,SS Creative Solutions,65535-0,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4037 VC
+4037 VC37-39,,SS Creative Solutions,65535-0,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4037 VC
+4037 VC37-39,,SS Creative Solutions,65535-0,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4037 VC
+4037 VC37-39,,SS Creative Solutions,65535-0,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,4800,DVB-S2,,4037 VC
+4060 VC37-39,,SS Creative Solutions,65535-2,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,5000,DVB-S2,,4060 VC
+4060 VC37-39,,SS Creative Solutions,65535-2,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,5000,DVB-S2,,4060 VC
+4060 VC37-39,,SS Creative Solutions,65535-2,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,5000,DVB-S2,,4060 VC
+4060 VC37-39,,SS Creative Solutions,65535-2,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/4,5000,DVB-S2,,4060 VC
+3846 VC37-39,1,Hulchul TV,MPEG-4/SD,1101.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,3,Press TV,MPEG-4/SD,1103.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+4145 VC37-39,131,Press TV,?-?MPEG-4/HD,1310.0,,,False,SS Creative Solutions,3/4,2400,DVB-S2,Eng,4145 VC
+3846 VC37-39,5,Starlite TV,MPEG-4/SD,1105.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,6,Paigham TV Pashto,MPEG-4/SD,1106.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,Pus,3846 VC
+3846 VC37-39,8,Super Screen,MPEG-4/SD,1108.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,16,Channel 4 News,MPEG-4/SD,1116.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,19,Hidayat TV,MPEG-4/SD,1119.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,Urd,3846 VC
+3846 VC37-39,20,Bethat TV,MPEG-4/SD,1120.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,Urd,3846 VC
+3846 VC37-39,21,Voice News,MPEG-4/SD,1121.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,22,Hadi TV 1,MPEG-4/SD,1122.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,25,Sahar Urdu,MPEG-4/SD,1125.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,Urd,3846 VC
+3846 VC37-39,26,Muntazar TV,MPEG-4/SD,1126.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3846 VC37-39,27,IFilm English,MPEG-4/SD,1127.0,,,False,SS Creative Solutions,3/4,6600,DVB-S2,,3846 VC
+3847 HC37-39,,Radio Pakistan,0-0,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,257,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,513,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,769,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,1025,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,1281,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+3847 HC37-39,1537,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,1081,DVB-S1,,3847 HC
+4001 VC37-39,7,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,13333,DVB-S2,,4001 VC
+4001 VC37-39,9,Radio Pakistan,,,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,True,Radio Pakistan,3/4,13333,DVB-S2,,4001 VC
+3856 VC37-39,1,PTV Bolan,65535-1MPEG-2/SD,308.0,,,False,Radio Pakistan,3/4,2590,DVB-S2,Urd,3856 VC
+3859 VC,,(feeds),,,,,False,Radio Pakistan,2/3,2833,DVB-S2,,3859 VC
+10990 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,1650,DVB-S1,,10990 V
+10992 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,1500,DVB-S1,,10992 V
+11103 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,3012,DVB-S3,,11103 V
+11122 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,1808,DVB-S1,,11122 V
+11124 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,1300,DVB-S1,,11124 V
+11150 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,3760,DVB-S3,,11150 V
+11167 VKu,,(feeds),,,,,False,Radio Pakistan,7/8,3000,DVB-S3,,11167 V
+11184 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,2000,DVB-S2,,11184 V
+11188 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,2000,DVB-S2,,11188 V
+11191 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,2000,DVB-S2,,11191 V
+12652 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,2050,DVB-S2,,12652 V
+12691 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,3333,DVB-S3,,12691 V
+12696 VKu,,(feeds),,,,,False,Radio Pakistan,3/4,3333,DVB-S3,,12696 V
+3862 VC37-39,257,Dharti TV,?-?MPEG-4/HD,599.0,,,False,Radio Pakistan,3/5,1850,DVB-S2,,3862 VC
+3952 VC37-39,,Madani Channel Urdu,MPEG-4/SD,33.0,,,False,Radio Pakistan,3/5,2960,DVB-S2,Urd,3952 VC
+3964 VC37-39,1,7 News HD,?-?MPEG-4/HD,101.0,,,False,Radio Pakistan,3/5,2356,DVB-S2,Urd,3964 VC
+3969 VC37-39,2,Discover Pakistan,MPEG-4/HD,102.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,,3969 VC
+3969 VC37-39,4,Sindh TV,MPEG-4/HD,115.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,,3969 VC
+3969 VC37-39,5,Sindh TV News,MPEG-4/HD,120.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,,3969 VC
+3969 VC37-39,6,See TV,MPEG-4/SD,126.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,Urd,3969 VC
+3969 VC37-39,7,Hoora TV,,506.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,,3969 VC
+3969 VC37-39,9,Star Asia,MPEG-4/SD,144.0,,,False,Radio Pakistan,3/4,6944,DVB-S2,,3969 VC
+3979 VC37-39,,Public News,MPEG-4/HD,881.0,,,False,Radio Pakistan,3/5,3650,DVB-S2,,3979 VC
+3983 VC37-39,,A Plus,MPEG-2/SD,33.0,,,False,Radio Pakistan,3/4,3255,DVB-S2,Urd,3983 VC
+3992 VC37-39,1,ATV (Pakistan),?-?MPEG-4/SD,220.0,,,False,Radio Pakistan,3/4,2900,DVB-S2,Urd,3992 VC
+4001 VC37-39,,PTV Network,1-1,,,https://www.lyngsat.com/providers/pk/PTV-Network.html,True,PTV Network,3/4,13333,DVB-S2,,4001 VC
+4001 VC37-39,,PTV Network,1-1,,,https://www.lyngsat.com/providers/pk/PTV-Network.html,True,PTV Network,3/4,13333,DVB-S2,,4001 VC
+4052 VC37-39,,PTV Network,65535-1,,,https://www.lyngsat.com/providers/pk/PTV-Network.html,True,PTV Network,3/5,5800,DVB-S2,,4052 VC
+4052 VC37-39,,PTV Network,65535-1,,,https://www.lyngsat.com/providers/pk/PTV-Network.html,True,PTV Network,3/5,5800,DVB-S2,,4052 VC
+4001 VC37-39,1,PTV Home,MPEG-4/HD,512.0,,,False,PTV Network,3/4,13333,DVB-S2,Urd,4001 VC
+4052 VC37-39,3,PTV Home,MPEG-4/SD,681.0,,,False,PTV Network,3/5,5800,DVB-S2,Urd,4052 VC
+4001 VC37-39,2,PTV News,MPEG-4/HD,513.0,,,False,PTV Network,3/4,13333,DVB-S2,Urd,4001 VC
+4001 VC37-39,3,PTV Global,MPEG-4/SD,514.0,,,False,PTV Network,3/4,13333,DVB-S2,Urd,4001 VC
+4001 VC37-39,4,PTV Sports,MPEG-4/HD,515.0,,,False,PTV Network,3/4,13333,DVB-S2,Urd,4001 VC
+4001 VC37-39,5,PTV World,MPEG-4/HD,516.0,,,False,PTV Network,3/4,13333,DVB-S2,Eng,4001 VC
+4001 VC37-39,8,FM Radio Sawat,,,,,False,PTV Network,3/4,13333,DVB-S2,,4001 VC
+4001 VC37-39,10,Radio Apna & Nori,,,,,False,PTV Network,3/4,13333,DVB-S2,,4001 VC
+4013 VC37-39,,PTV National Multan,MPEG-4/SD,308.0,,,False,PTV Network,3/4,1850,DVB-S1,,4013 VC
+4016 VC37-39,,PTV National Peshawar,MPEG-4/SD,481.0,,,False,PTV Network,3/5,2400,DVB-S2,,4016 VC
+4023 VC37-39,1,Noor TV (UK),MPEG-4/SD,101.0,,,False,PTV Network,3/4,4800,DVB-S2,Eng,4023 VC
+4037 VC37-39,1,Noor TV (UK),MPEG-4/SD,101.0,,,False,PTV Network,3/4,4800,DVB-S2,Eng,4037 VC
+4023 VC37-39,2,Minimax Pakistan,MPEG-4/SD,201.0,,,False,PTV Network,3/4,4800,DVB-S2,Urd,4023 VC
+4037 VC37-39,2,Minimax Pakistan,MPEG-4/SD,201.0,,,False,PTV Network,3/4,4800,DVB-S2,Urd,4037 VC
+4023 VC37-39,3,Eye TV,MPEG-4/SD,1000.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,3,Eye TV,MPEG-4/SD,1000.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,4,Mega (Pakistan),MPEG-4/SD,301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,4,Mega (Pakistan),MPEG-4/SD,301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,5,CineMax,MPEG-4/SD,501.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,5,CineMax,MPEG-4/SD,501.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,6,Prime Asia TV HD,MPEG-4/SD,601.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,6,Prime Asia TV HD,MPEG-4/SD,601.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,7,Global News (Pakistan),MPEG-4/SD,701.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,7,Global News (Pakistan),MPEG-4/SD,701.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,8,Dhanak TV,MPEG-4/SD,720.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,8,Dhanak TV,MPEG-4/SD,720.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,9,A1 Entertainment TV,MPEG-4/SD,901.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,9,A1 Entertainment TV,MPEG-4/SD,901.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,10,Cinemax 2,MPEG-4/SD,1001.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,10,Cinemax 2,MPEG-4/SD,1001.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,11,Champion TV (Pakistan),MPEG-4/SD,1101.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,11,Champion TV (Pakistan),MPEG-4/SD,1101.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,12,B Cinema,MPEG-4/SD,1201.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4023 VC37-39,13,Movie One,MPEG-4/SD,1301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,13,Movie One,MPEG-4/SD,1301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,14,Silver Screen,MPEG-4/SD,1401.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,14,Silver Screen,MPEG-4/SD,1401.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,16,On News HD,MPEG-4/SD,1601.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,16,On News HD,MPEG-4/SD,1601.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,17,Quran TV (Pakistan),MPEG-4/SD,1701.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,17,Quran TV (Pakistan),MPEG-4/SD,1701.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4023 VC37-39,23,Al Ehsaan TV,MPEG-4/SD,2301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4023 VC
+4037 VC37-39,23,Al Ehsaan TV,MPEG-4/SD,2301.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4029 HC37-39,1,Samaa TV,8192-4096MPEG-4/SD,512.0,,,False,PTV Network,3/4,3600,DVB-S2,Urd,4029 HC
+4032 VC37-39,1,ABN News (Pakistan),?-?MPEG-4/HD,33.0,,,False,PTV Network,3/5,3200,DVB-S2,,4032 VC
+4037 VC37-39,12,Starmax,MPEG-4/SD,1201.0,,,False,PTV Network,3/4,4800,DVB-S2,,4037 VC
+4042 HC37-39,1,AIK News,?-?MPEG-4/SD,258.0,,,False,PTV Network,3/4,4100,DVB-S2,,4042 HC
+4042 VC37-39,65535-?,AIK News,65535-?MPEG-4/SD,258.0,,,False,PTV Network,3/4,3232,DVB-S2,,4042 VC
+4052 VC37-39,1,PTV National Karachi,MPEG-4/HD,481.0,,,False,PTV Network,3/5,5800,DVB-S2,Urd,4052 VC
+4052 VC37-39,2,(PTV feeds),,581.0,,,False,PTV Network,3/5,5800,DVB-S2,,4052 VC
+4060 VC37-39,1,Peace TV English,MPEG-4/HD,500.0,,,False,PTV Network,3/4,5000,DVB-S2,,4060 VC
+4060 VC37-39,2,Peace TV Urdu,MPEG-4/HD,503.0,,,False,PTV Network,3/4,5000,DVB-S2,,4060 VC
+4060 VC37-39,3,Quran TV (Saudi Arabia),MPEG-4/SD,506.0,,,False,PTV Network,3/4,5000,DVB-S2,Ara,4060 VC
+4064 VC37-39,1,Mun TV,MPEG-4/HD,34.0,,,False,PTV Network,5/6,3200,DVB-S2,,4064 VC
+4064 VC37-39,2,Time News,MPEG-4/HD,36.0,,,False,PTV Network,5/6,3200,DVB-S2,,4064 VC
+4074 VC37-39,1,Aaj News,MPEG-4/SD,34.0,,,False,PTV Network,3/4,6150,DVB-S2,Urd,4074 VC
+4074 VC37-39,257,Play Entertainment,MPEG-4/SD,37.0,,,False,PTV Network,3/4,6150,DVB-S2,Urd,4074 VC
+4074 VC37-39,513,Aaj Entertainment,MPEG-4/SD,40.0,,,False,PTV Network,3/4,6150,DVB-S2,Urd,4074 VC
+4081 VC37-39,1,Talon News,?-?MPEG-4/SD,101.0,,,False,PTV Network,3/5,3195,DVB-S2,,4081 VC
+4085 VC37-39,257,GTV Network,1-1MPEG-4/HD,257.0,,,False,PTV Network,3/5,3463,DVB-S2,,4085 VC
+4090 VC37-39,1,Dawn News,0-0MPEG-4/SD,308.0,,,False,PTV Network,3/4,2035,DVB-S2,Urd,4090 VC
+4092 VC37-39,1,Paigham TV Urdu,1-1MPEG-4/SD,240.0,,,False,PTV Network,3/5,2400,DVB-S2,Urd,4092 VC
+4096 VC37-39,257,Such News,?-?MPEG-4/HD,257.0,,,False,PTV Network,3/4,3231,DVB-S2,Urd,4096 VC
+4101 HC37-39,3,Raavi TV,0-0MPEG-2/SD,5129.0,,,False,PTV Network,3/4,4340,DVB-S4,Urd,4101 HC
+4101 VC37-39,1,Roze News,MPEG-4/SD,49.0,,,False,PTV Network,3/4,2800,DVB-S2,,4101 VC
+4101 VC37-39,2,Roze Excel HD,MPEG-4/SD,101.0,,,False,PTV Network,3/4,2800,DVB-S2,,4101 VC
+4104 VC37-39,1,Mehran TV,65535-1MPEG-2/SD,49.0,,,False,PTV Network,5/6,1600,DVB-S2,,4104 VC
+4111 VC37-39,2,Awaz TV Network,?-?MPEG-4/SD,36.0,,,False,PTV Network,3/4,1538,DVB-S2,,4111 VC
+4115 VC37-39,1,TV One Global,MPEG-4/SD,101.0,,,False,PTV Network,5/6,4800,DVB-S2,Urd,4115 VC
+4115 VC37-39,2,News One (Pakistan),MPEG-4/SD,201.0,,,False,PTV Network,5/6,4800,DVB-S2,Eng,4115 VC
+4115 VC37-39,3,Waseb TV,MPEG-4/SD,301.0,,,False,PTV Network,5/6,4800,DVB-S2,Lah,4115 VC
+4120 VC37-39,1,TV Today (Pakistan),MPEG-4/HD,1000.0,,,False,PTV Network,3/5,2490,DVB-S2,,4120 VC
+4120 VC37-39,2,Film World,MPEG-4/SD,1001.0,,,False,PTV Network,3/5,2490,DVB-S2,,4120 VC
+4125 VC37-39,,AVT Channels,4-0,,,https://www.lyngsat.com/providers/pk/AVT-Channels.html,True,AVT Channels,2/3,6400,DVB-S2,,4125 VC
+4125 VC37-39,1,Khyber TV,MPEG-4/HD,103.0,,,False,AVT Channels,2/3,6400,DVB-S2,Pus,4125 VC
+4125 VC37-39,2,Khyber News,MPEG-4/HD,105.0,,,False,AVT Channels,2/3,6400,DVB-S2,Pus,4125 VC
+4125 VC37-39,3,Kay 2,MPEG-4/HD,107.0,,,False,AVT Channels,2/3,6400,DVB-S2,,4125 VC
+4125 VC37-39,4,Khyber Middle East TV,MPEG-4/SD,109.0,,,False,AVT Channels,2/3,6400,DVB-S2,,4125 VC
+4131 VC37-39,12,A Sports,?-?MPEG-4/HD,32.0,,,False,AVT Channels,3/5,4166,DVB-S2,,4131 VC
+4135 VC37-39,,KTN Network,,,,https://www.lyngsat.com/providers/pk/KTN-Network.html,True,KTN Network,5/6,2400,DVB-S2,,4135 VC
+4135 VC37-39,257,KTN,MPEG-4/SD,257.0,,,False,KTN Network,5/6,2400,DVB-S2,,4135 VC
+4135 VC37-39,258,Kashish,MPEG-4/SD,261.0,,,False,KTN Network,5/6,2400,DVB-S2,,4135 VC
+4135 VC37-39,513,KTN News,MPEG-4/SD,513.0,,,False,KTN Network,5/6,2400,DVB-S2,,4135 VC
+4138 VC37-39,1,Mashriq TV,65535-1MPEG-4/SD,33.0,,,False,KTN Network,3/5,1600,DVB-S2,Pus,4138 VC
+4141 VC37-39,1,Fast Sports,65535-1MPEG-4/HD,33.0,,,False,KTN Network,3/5,3333,DVB-S2,,4141 VC
+4160 VC37-39,,Hum Network,0-0,,,https://www.lyngsat.com/providers/pk/Hum-Network.html,True,Hum Network,3/4,16100,DVB-S2,,4160 VC
+4160 VC37-39,101,Hum News,MPEG-4/HD,201.0,,,False,Hum Network,3/4,16100,DVB-S2,Urd,4160 VC
+4160 VC37-39,102,Hum Masala,MPEG-4/SD,202.0,,,False,Hum Network,3/4,16100,DVB-S2,Urd,4160 VC
+4160 VC37-39,103,Hum Sitaray,MPEG-4/SD,203.0,,,False,Hum Network,3/4,16100,DVB-S2,Urd,4160 VC
+4160 VC37-39,104,Hum TV MENA,MPEG-4/SD,204.0,Conax,,False,Hum Network,3/4,16100,DVB-S2,Urd,4160 VC
+4160 VC37-39,105,Hum TV,MPEG-4/HD,205.0,Conax,,False,Hum Network,3/4,16100,DVB-S2,Urd,4160 VC
+4160 VC37-39,106,Pashto 1,MPEG-4/SD,206.0,,,False,Hum Network,3/4,16100,DVB-S2,Pus,4160 VC
+4174 VC37-39,1,Aur Life HD,65535-1MPEG-4/HD,33.0,,,False,Hum Network,3/4,3148,DVB-S2,,4174 VC
+4181 VC37-39,1,Neo TV,MPEG-4/HD,33.0,,,False,Hum Network,3/4,5000,DVB-S2,Urd,4181 VC
+4181 VC37-39,2,Lahore Rang,MPEG-4/HD,37.0,,,False,Hum Network,3/4,5000,DVB-S2,Urd,4181 VC

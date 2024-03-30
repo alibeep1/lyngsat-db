@@ -1,0 +1,40 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10975 Htp 1Europe & North Africa,,(feeds),,,,,False,,250,23,DVB-S2,,10975 H
+10978 Htp 1Europe & North Africa,,(feeds),,,,,False,,3/4,3124,DVB-S3,,10978 H
+10989 Vtp 2Europe & North Africa,,(feeds),,,,,False,,3/4,5632,DVB-S5,,10989 V
+10991 Htp 1Europe & North Africa,,(feeds),,,,,False,,3/4,6111,DVB-S6,,10991 H
+11032 Vtp 4Europe & North Africa,,(feeds),,,,,False,,3/4,6111,DVB-S6,,11032 V
+11043 Vtp 4Europe & North Africa,,(feeds),,,,,False,,7/8,6666,DVB-S6,,11043 V
+11455 Vtp 10Europe & North Africa,,(feeds),,,,,False,,3/4,24800,DVB-S2,,11455 V
+11492 Vtp 10Europe & North Africa,,(feeds),,,,,False,,3/4,4800,DVB-S2,,11492 V
+11639 Vtp 16AEurope & North Africa,,(feeds),,,,,False,,3/5,7500,DVB-S2,,11639 V
+11676 Vtp 16AEurope & North Africa,,(feeds),,,,,False,,3/4,23700,DVB-S2,,11676 V
+11680 Vtp 16AEurope & North Africa,,(feeds),,,,,False,,3/4,23700,DVB-S2,,11680 V
+11839 Vtp 34North & Central America,,(feeds),,,,,False,,125,3,DVB-S3,,11839 V
+11875 Vtp 34North & Central America,,(feeds),,,,,False,,632,5,DVB-S5,,11875 V
+12504 Vtp 18Europe & North Africa,,(feeds),,,,,False,,7/8,3400,DVB-S3,,12504 V
+12510 Vtp 28ASub-Saharan Africa,,(feeds),,,,,False,,3/4,25833,DVB-S2,,12510 V
+12524 Vtp 18Europe & North Africa,,(feeds),,,,,False,,600,3,DVB-S3,,12524 V
+12533 Vtp 18Europe & North Africa,,(feeds),,,,,False,,3/4,6111,DVB-S6,,12533 V
+12542 Vtp 18Europe & North Africa,,(feeds),,,,,False,,3/4,6111,DVB-S6,,12542 V
+12543 Vtp 28ASub-Saharan Africa,,(feeds),,,,,False,,3/4,3500,DVB-S3,,12543 V
+12584 Vtp 20Europe & North Africa,,(feeds),,,,,False,,3/4,6111,DVB-S6,,12584 V
+12595 Vtp 20Europe & North Africa,,(feeds),,,,,False,,3/4,3750,DVB-S3,,12595 V
+12614 Vtp 20Europe & North Africa,,(feeds),,,,,False,,5/6,3750,DVB-S3,,12614 V
+12674 Vtp 22Europe & North Africa,,(feeds),,,,,False,,5/6,7500,DVB-S7,,12674 V
+12692 Vtp 24Europe & North Africa,,(feeds),,,,,False,,3/4,3124,DVB-S2,,12692 V
+12701 Vtp 24Europe & North Africa,,(feeds),,,,,False,,500,7,DVB-S7,,12701 V
+12710 Vtp 24Europe & North Africa,,(feeds),,,,,False,,5/6,7500,DVB-S2,,12710 V
+12717 Vtp 24Europe & North Africa,,(feeds),,,,,False,,3/4,6620,DVB-S6,,12717 V
+12731 HEurope & North Africa,,(feeds),,,,,False,,3/4,29230,DVB-S2,,12731 H
+11482 Htp 9ASub-Saharan Africa0,,SES,,,BISS,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,11970,DVB-S1,,11482 H
+11482 Htp 9ASub-Saharan Africa0,1.0,RR Media promo,MPEG-2/SD,2001.0,,,False,SES,5/6,11970,DVB-S1,Eng,11482 H
+11482 Htp 9ASub-Saharan Africa0,2.0,Record News,MPEG-2/SD,2002.0,BISS,,False,SES,5/6,11970,DVB-S1,Por,11482 H
+11482 Htp 9ASub-Saharan Africa0,3.0,(Telemedia feeds),,2003.0,,,False,SES,5/6,11970,DVB-S1,,11482 H
+11482 Htp 9ASub-Saharan Africa0,4.0,Band Internacional,MPEG-2/SD,2004.0,,,False,SES,5/6,11970,DVB-S1,Por,11482 H
+11482 Htp 9ASub-Saharan Africa0,5.0,Band News,MPEG-2/SD,2005.0,,,False,SES,5/6,11970,DVB-S1,Por,11482 H
+11482 Htp 9ASub-Saharan Africa0,6.0,Woohoo,MPEG-2/SD,2006.0,,,False,SES,5/6,11970,DVB-S1,Por,11482 H
+11482 Htp 9ASub-Saharan Africa0,10.0,[Telemedia test card],MPEG-2/SD,2010.0,,,False,SES,5/6,11970,DVB-S1,,11482 H
+11482 Htp 9ASub-Saharan Africa0,11.0,Apostolic Oneness Network,MPEG-2/SD,2011.0,,,False,SES,5/6,11970,DVB-S1,Eng,11482 H
+12515 Htp 17AEurope & North Africa,,@ TeleSkies,,,,,False,SES,7/8,3460,DVB-S3,,12515 H
+12517 Vtp 18Europe & North Africa,1302.0,@ STM,65281-801,,,,False,SES,800,10,DVB-S2,,12517 V

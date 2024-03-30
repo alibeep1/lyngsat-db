@@ -1,0 +1,13 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3834 Vtp 6AA Even,,(feeds),,,,,False,,2/3,2924,DVB-S2,,3834 V
+3888 Vtp 10AA Even,,(feeds),,,,,False,,3/4,6666,DVB-S6,,3888 V
+3897 Vtp 10AA Even,,(feeds),,,,,False,,3/4,4444,DVB-S4,,3897 V
+3913 Vtp 10AA Even,,,,,Irdeto,,False,,3/4,8550,DVB-S2,,3913 V
+3913 Vtp 10AA Even,8050.0,Fix & Foxi,MPEG-4/SD,8052.0,Irdeto,,False,,3/4,8550,DVB-S2,Eng Ara Ger,3913 V
+3913 Vtp 10AA Even,8060.0,Rotana Music,MPEG-2/SD,8062.0,Irdeto,,False,,3/4,8550,DVB-S2,Ara,3913 V
+3913 Vtp 10AA Even,8070.0,Rotana Cinema KSA,MPEG-2/SD,8072.0,Irdeto,,False,,3/4,8550,DVB-S2,Ara,3913 V
+3913 Vtp 10AA Even,8080.0,Alresalah TV,MPEG-2/SD,8082.0,Irdeto,,False,,3/4,8550,DVB-S2,Ara,3913 V
+3965 VA Even,,(feeds),,,,,False,,3/4,4444,DVB-S4,,3965 VA
+3971 VA Even,,(feeds),,,,,False,,3/4,4444,DVB-S4,,3971 VA
+3977 VA Even,,(feeds),,,,,False,,3/4,4444,DVB-S4,,3977 VA
+12696 Vtp 7NNorthern,4010.0,Trace Sport Stars,100-2MPEG-4/HD,4013.0,,,False,,1/2,10000,DVB-S1,Eng Eng,12696 V

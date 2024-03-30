@@ -1,0 +1,87 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11216 Vtp C1T10,,Allente,70-27,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11216 V
+11229 Htp C2T10,,Allente,70-4,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11229 H
+11247 Vtp C3T10,,Allente,70-1,,ConaxNagravisionVideoguard,,False,,7/8,24500,DVB-S2,,11247 V
+11261 Htp C4T10,,Allente,70-33,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11261 H
+11278 Vtp C5T10,,Allente,70-3,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11278 V
+11293 Htp C6T10,,Allente,70-24,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11293 H
+11309 Vtp C7T10,,Allente,70-2,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11309 V
+11325 Htp C8T10,,Allente,70-25,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11325 H
+11341 Vtp C9T10,,Allente,70-43,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11341 V
+11372 Vtp C11T10,,Allente,70-35,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11372 V
+11389 Htp C12T10,,Allente,70-34,,,,False,,7/8,24500,DVB-S2,,11389 H
+11421 Htp C14T10,,Allente,70-44,,ConaxNagravisionVideoguard,,False,,3/4,25000,DVB-S2,,11421 H
+11278 Vtp C5T10,7471,SBN International,MPEG-2/SD,1187.0,,,False,,3/4,25000,DVB-S2,Eng,11278 V
+11278 Vtp C5T10,1721,DR P2,,,,,False,,3/4,25000,DVB-S2,Dan,11278 V
+11278 Vtp C5T10,1723,DR P1,,,,,False,,3/4,25000,DVB-S2,Dan,11278 V
+11278 Vtp C5T10,1738,Bandit Classics,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1739,Svenska Favoriter,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1740,Viasat Classic,,,,,False,,3/4,25000,DVB-S2,,11278 V
+11278 Vtp C5T10,1741,Power Hit Radio (Sweden),,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1742,Power Club,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1744,Star FM,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1746,Bandit Rock 106-3,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1751,Lugna Favoriter,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,1787,Rix FM,,,,,False,,3/4,25000,DVB-S2,Swe,11278 V
+11278 Vtp C5T10,7474,DR P3,,,,,False,,3/4,25000,DVB-S2,Dan,11278 V
+11325 Htp C8T10,7289,Freedom,MPEG-4/SD,1004.0,,,False,,3/4,25000,DVB-S2,Rus,11325 H
+11389 Htp C12T10,112,SverigeKanalen,MPEG-4/SD,1212.0,,,False,,7/8,24500,DVB-S2,Swe,11389 H
+11389 Htp C12T10,7267,Kanal 10 Sverige,MPEG-4/SD,1367.0,,,False,,7/8,24500,DVB-S2,Swe,11389 H
+11389 Htp C12T10,7453,TV Visjon Norge,MPEG-4/HD,1153.0,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,7546,Kanal 10 Norge,MPEG-4/HD,1411.0,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,7780,TV Vision Sverige,MPEG-4/SD,1180.0,,,False,,7/8,24500,DVB-S2,Swe,11389 H
+11389 Htp C12T10,7788,Bedehuskanalen,MPEG-4/HD,1688.0,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,1527,Radio Norge,,,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,2813,Rás 1,,,,,False,,7/8,24500,DVB-S2,Ice,11389 H
+11389 Htp C12T10,2814,Rás 2,,,,,False,,7/8,24500,DVB-S2,Ice,11389 H
+11389 Htp C12T10,6022,Radio Rock,,,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,6028,Radio Vinyl,,,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,6032,Radio Topp 40,,,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11389 Htp C12T10,7000,P4 Lyden av Norge,,,,,False,,7/8,24500,DVB-S2,Nor,11389 H
+11785 Htp 4T244,,Digi România,1-5,,ConaxCryptoworksIrdetoNagravision,,False,,7/8,28000,DVB-S2,,11785 H
+11862 Htp 8T244,,Digi România,1-7,,ConaxCryptoworksIrdetoNagravision,,False,,7/8,28000,DVB-S2,,11862 H
+12130 Htp 22T244,,Digi România,1-3,,ConaxCryptoworksIrdetoNagravision,,False,,7/8,28000,DVB-S2,,12130 H
+12188 Vtp 25T244,,Digi România,1-4,,ConaxCryptoworksIrdetoNagravision,,False,,7/8,28000,DVB-S2,,12188 V
+11785 Htp 4T244,3680,Petöfi Rádió,,,,,False,,7/8,28000,DVB-S2,Hun,11785 H
+11785 Htp 4T244,3690,Kossuth Rádió,,,,,False,,7/8,28000,DVB-S2,Hun,11785 H
+11785 Htp 4T244,3700,Bartók Rádió,,,,,False,,7/8,28000,DVB-S2,Hun,11785 H
+11862 Htp 8T244,1210,Speranta TV,MPEG-2/SD,1212.0,,,False,,7/8,28000,DVB-S2,Rum,11862 H
+11862 Htp 8T244,1250,Radio Vocea Sperantei,,,,,False,,7/8,28000,DVB-S2,Rum,11862 H
+11862 Htp 8T244,2520,Kiss FM (Romania),,,,,False,,7/8,28000,DVB-S2,Rum,11862 H
+11938 Htp 12T244,,Direct One,1536-707,,ConaxCryptoworksIrdetoNagravision,,False,,7/8,28000,DVB-S2,,11938 H
+12015 Htp 16T244,,,70-41,,ConaxCryptoworksIrdetoNagravisionVideoguard,,False,,3/4,30000,DVB-S2,,12015 H
+12015 Htp 16T244,4202*,History HD Europe,MPEG-4/HD,1307.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Eng Rus Cze Hun Tur,12015 H
+12015 Htp 16T244,7190*,History 2 Nordic,MPEG-4/HD,1317.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Eng Cze,12015 H
+12015 Htp 16T244,7393,History Sverige,MPEG-4/HD,1393.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Swe,12015 H
+12015 Htp 16T244,7976,BBC Nordic,MPEG-4/HD,1243.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Eng Eng,12015 H
+12015 Htp 16T244,13016,Animal Planet Europe,HEVC/HD,111.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Eng,12015 H
+12015 Htp 16T244,13018,TV 2 Sport,HEVC/HD,1726.0,ConaxNagravisionVideoguard,,False,,3/4,30000,DVB-S2,Dan,12015 H
+12130 Htp 22T244,2710,Galaxy 4,MPEG-2/SD,601.0,,,False,,7/8,28000,DVB-S2,Hun,12130 H
+12265 Vtp 29T244,,Slovak Telekom,1536-709,,ConaxCryptoworksIrdetoNagravision,https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,True,Slovak Telekom,7/8,28000,DVB-S2,,12265 V
+12265 Vtp 29T244,30901*,Sorozatklub,MPEG-2/SD,2351.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30902*,Moziklub,MPEG-2/SD,2401.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30906*,TV 2 Klub,MPEG-2/SD,351.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30907*,Super TV 2,MPEG-2/SD,401.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30908,National Geographic România,MPEG-2/SD,451.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Eng Rum,12265 V
+12265 Vtp 29T244,30909,Private TV,MPEG-2/SD,501.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Eng,12265 V
+12265 Vtp 29T244,30910,Pro TV,MPEG-2/SD,551.0,ConaxNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Rum,12265 V
+12265 Vtp 29T244,30911*,FilmBox Basic,MPEG-2/SD,601.0,ConaxIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Qaa,12265 V
+12265 Vtp 29T244,30912*,Prime (Hungary),MPEG-2/SD,651.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30913*,Viasat 2,MPEG-2/SD,1301.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Qaa,12265 V
+12265 Vtp 29T244,30914,Cinemax 2 Central Europe,MPEG-2/SD,751.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Cze Qaa Rum,12265 V
+12265 Vtp 29T244,30915,Blue Hustler Europe (23-05),MPEG-2/SD,251.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Eng,12265 V
+12265 Vtp 29T244,30916,Duna TV,MPEG-2/SD,801.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12265 Vtp 29T244,30918*,Viasat Film,MPEG-2/SD,1351.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Qaa,12265 V
+12265 Vtp 29T244,30920,Hustler TV Europe,MPEG-2/SD,1101.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Eng,12265 V
+12265 Vtp 29T244,30921*,Viasat Explore East,MPEG-2/SD,1151.0,ConaxIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Rum Hun,12265 V
+12265 Vtp 29T244,30925*,AXN Central Europe,MPEG-2/SD,1401.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Qaa,12265 V
+12265 Vtp 29T244,30927,TLC Pan Regional,MPEG-2/SD,151.0,Nagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun Eng,12265 V
+12265 Vtp 29T244,30931,Stingray IConcerts,MPEG-2/SD,1901.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Eng,12265 V
+12265 Vtp 29T244,30933*,Arena 4,MPEG-2/SD,2001.0,ConaxCryptoworksIrdetoNagravision,,False,Slovak Telekom,7/8,28000,DVB-S2,Hun,12265 V
+12418 Vtp 37T244,,Telenor,70-20,,,https://www.lyngsat.com/providers/no/Telenor.html,True,Telenor,7/8,28000,DVB-S2,,12418 V
+12418 Vtp 37T244,519,CGTN,MPEG-4/HD,1166.0,,,False,Telenor,7/8,28000,DVB-S2,Eng,12418 V
+12418 Vtp 37T244,2029,CGTN Documentary,MPEG-4/HD,1172.0,,,False,Telenor,7/8,28000,DVB-S2,Eng,12418 V
+12418 Vtp 37T244,2912,Aljazeera English,MPEG-2/SD,1239.0,,,False,Telenor,7/8,28000,DVB-S2,Eng,12418 V
+12418 Vtp 37T244,3837,Sky News International,MPEG-2/SD,1206.0,,,False,Telenor,7/8,28000,DVB-S2,Eng,12418 V
+12418 Vtp 37T244,13005,Telenor promo,MPEG-4/SD,1455.0,,,False,Telenor,7/8,28000,DVB-S2,Eng,12418 V
+12418 Vtp 37T244,7517,Best FM (Slovakia),,,,,False,Telenor,7/8,28000,DVB-S2,Slo,12418 V

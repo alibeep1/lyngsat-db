@@ -1,0 +1,180 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3639 Htp 1HC36-40,1000,Himalaya TV,?-?MPEG-4/HD,1001.0,,,False,,3/4,2915,DVB-S2,Nep,3639 H
+3652 Vtp 1VC36-40,,Sahara Samay,,,,https://www.lyngsat.com/providers/in/Sahara-Samay.html,True,Sahara Samay,3/4,14100,DVB-S1,,3652 V
+3652 Vtp 1VC36-40,1,Sahara One,MPEG-2/SD,512.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,2,Samay National,MPEG-2/SD,513.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,3,Samay Rajasthan,MPEG-2/SD,514.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,4,Samay Maharashtra/Gujarat,MPEG-2/SD,515.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,5,Samay UP/Uttarakhand,MPEG-2/SD,516.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,6,Samay Bihar/Jharkhand,MPEG-2/SD,517.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,7,Aalami Samay,MPEG-2/SD,518.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Urd,3652 V
+3652 Vtp 1VC36-40,8,Samay MP/Chhattisgarh,MPEG-2/SD,519.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,9,Filmy,MPEG-2/SD,520.0,,,False,Sahara Samay,3/4,14100,DVB-S1,Hin,3652 V
+3652 Vtp 1VC36-40,12,Firangi,MPEG-2/SD,523.0,,,False,Sahara Samay,3/4,14100,DVB-S1,,3652 V
+3656 Htp 1HC36-40,,,,,,,False,Sahara Samay,,,,,3656 H
+3663 Vtp 1VC36-40,,,,,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3709 Vtp 2VC36-40,,,,,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,,3709 V
+3760 Htp 4HC36-40,,,1-2,,,,False,Sahara Samay,7/8,26000,DVB-S2,,3760 H
+3860 Vtp 6VC36-40,,,,,,,False,Sahara Samay,,,,,3860 V
+3663 Vtp 1VC36-40,1,Afghan TV (Pakistan),MPEG-4/SD,51.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,2,Total Sports,MPEG-4/SD,109.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,3,Prime Movies HD,MPEG-4/SD,55.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,4,Movies2Day,MPEG-4/SD,65.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,5,Pitaara,MPEG-4/SD,70.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,7,Jan HD,MPEG-4/SD,77.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,9,Star Max,MPEG-4/SD,83.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,10,Look TV (Pakistan),MPEG-4/SD,86.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,12,FilmAsia,MPEG-4/SD,92.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3663 Vtp 1VC36-40,13,TV 99 News HD,MPEG-4/SD,100.0,,,False,Sahara Samay,3/4,3333,DVB-S2,,3663 V
+3668 Vtp 1VC36-40,1,Jesus Christ TV Pakistan,?-?MPEG-2/SD,257.0,,,False,Sahara Samay,3/4,2593,DVB-S2,,3668 V
+3675 Vtp 2VC36-40,1,Ritmu TV,?-?MPEG-4/SD,256.0,,,False,Sahara Samay,3/5,5000,DVB-S2,Ara,3675 V
+3709 Vtp 2VC36-40,1,Colors Bangla,MPEG-4/SD,1001.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Ben,3709 V
+3709 Vtp 2VC36-40,2,Colors Bangla Cinema,MPEG-4/SD,1021.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Ben,3709 V
+3709 Vtp 2VC36-40,3,MTV Beats,MPEG-4/SD,1041.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng,3709 V
+3709 Vtp 2VC36-40,4,VH1 India,MPEG-4/SD,1061.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng,3709 V
+3709 Vtp 2VC36-40,5,Colors Infinity,MPEG-4/SD,1081.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng,3709 V
+3709 Vtp 2VC36-40,6,Comedy Central India,MPEG-4/SD,1101.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng,3709 V
+3709 Vtp 2VC36-40,7,Colors,MPEG-4/SD,1121.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Hin,3709 V
+3709 Vtp 2VC36-40,8,Colors Rishtey Asia,MPEG-4/SD,1141.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Hin,3709 V
+3709 Vtp 2VC36-40,9,Nickelodeon India,MPEG-4/SD,1161.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Hin Ben,3709 V
+3709 Vtp 2VC36-40,10,Nick Jr Asia,MPEG-4/SD,1181.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng Hin,3709 V
+3709 Vtp 2VC36-40,11,History TV 18,MPEG-4/SD,1201.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,Eng Hin,3709 V
+3709 Vtp 2VC36-40,12,Sonic Nickelodeon,MPEG-4/SD,1221.0,Irdeto,,False,Sahara Samay,3/4,15000,DVB-S2,,3709 V
+3715 Htp 3HC36-40,,Shanghai Media Group,,,,https://www.lyngsat.com/providers/cn/Shanghai-Media-Group.html,True,Shanghai Media Group,3/4,8167,DVB-S8,,3715 H
+3715 Htp 3HC36-40,745,Xing Kong China,MPEG-2/SD,514.0,,,False,Shanghai Media Group,3/4,8167,DVB-S8,Chi,3715 H
+3715 Htp 3HC36-40,747,Channel V,MPEG-2/SD,515.0,,,False,Shanghai Media Group,3/4,8167,DVB-S8,Chi,3715 H
+3715 Htp 3HC36-40,748,Xing Kong International,MPEG-4/SD,513.0,Irdeto,,False,Shanghai Media Group,3/4,8167,DVB-S8,Chi,3715 H
+3725 Htp 3HC36-40,,ABP,,,,https://www.lyngsat.com/providers/in/ABP.html,True,ABP,2/3,8165,DVB-S2,,3725 H
+3725 Htp 3HC36-40,,ABP,,,,https://www.lyngsat.com/providers/in/ABP.html,True,ABP,2/3,8165,DVB-S2,,3725 H
+4156 Htp 14HC36-40,,ABP,,,Irdeto,https://www.lyngsat.com/providers/in/ABP.html,True,ABP,2/3,8165,DVB-S2,,4156 H
+4156 Htp 14HC36-40,,ABP,,,Irdeto,https://www.lyngsat.com/providers/in/ABP.html,True,ABP,2/3,8165,DVB-S2,,4156 H
+3725 Htp 3HC36-40,3,ABP Ananda,MPEG-4/SD,71.0,,,False,ABP,2/3,8165,DVB-S2,Ben,3725 H
+3725 Htp 3HC36-40,4,ABP Majha,MPEG-4/SD,81.0,,,False,ABP,2/3,8165,DVB-S2,Mar,3725 H
+3725 Htp 3HC36-40,5,ABP Asmita,MPEG-4/SD,91.0,,,False,ABP,2/3,8165,DVB-S2,Guj,3725 H
+3725 Htp 3HC36-40,6,ABP Sanjha,MPEG-4/SD,61.0,,,False,ABP,2/3,8165,DVB-S2,Pan,3725 H
+3734 Htp 3HC36-40,1,CNA,?-?MPEG-4/HD,1160.0,,,False,ABP,2/3,6500,DVB-S2,Eng,3734 H
+3736 Vtp 3VC36-40,1,NTV Itahari,?-?MPEG-4/HD,33.0,,,False,ABP,3/5,4166,DVB-S2,Nep,3736 V
+3740 Vtp 3VC36-40,1,NTV Kohalpur,?-?MPEG-4/HD,33.0,,,False,ABP,3/5,4166,DVB-S2,Nep,3740 V
+3750 Vtp 3VC36-40,,Nepal TV,1-1,,,https://www.lyngsat.com/providers/np/Nepal-TV.html,True,Nepal TV,3/5,12500,DVB-S2,,3750 V
+3750 Vtp 3VC36-40,1,NTV Plus,MPEG-4/HD,101.0,,,False,Nepal TV,3/5,12500,DVB-S2,Nep,3750 V
+3750 Vtp 3VC36-40,3,NTV News,MPEG-4/HD,301.0,,,False,Nepal TV,3/5,12500,DVB-S2,Nep,3750 V
+3750 Vtp 3VC36-40,11,NTV National,MPEG-4/HD,33.0,,,False,Nepal TV,3/5,12500,DVB-S2,Nep,3750 V
+3760 Htp 4HC36-40,7,MTA 6 Asia,MPEG-2/SD,1070.0,,,False,Nepal TV,7/8,26000,DVB-S2,Qaa Urd Eng Ind Tam Ara Ben,3760 H
+3760 Htp 4HC36-40,12,TV5Monde Asie,MPEG-2/SD,1120.0,,,False,Nepal TV,7/8,26000,DVB-S2,Fre,3760 H
+3760 Htp 4HC36-40,20,Ahlebait TV Networks,MPEG-2/SD,3212.0,,,False,Nepal TV,7/8,26000,DVB-S2,,3760 H
+3760 Htp 4HC36-40,55,TVN Asia,MPEG-4/SD,3331.0,Irdeto,,False,Nepal TV,7/8,26000,DVB-S2,,3760 H
+3820 Vtp 5VC36-40,,Zee Network,1-3,,Conax,,False,Nepal TV,3/4,27500,DVB-S2,,3820 V
+3890 Vtp 7VC36-40,,Zee Network,,,Conax,,False,Nepal TV,3/4,11837,DVB-S2,,3890 V
+4140 Vtp 13VC36-40,,Zee Network,1-2,,Conax,,False,Nepal TV,3/4,27500,DVB-S2,,4140 V
+3820 Vtp 5VC36-40,2101,Zee Rajasthan,MPEG-4/SD,2103.0,,,False,Nepal TV,3/4,27500,DVB-S2,Hin,3820 V
+3880 Htp 7HC36-40,,SS Creative Solutions,65535-20057,,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,True,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,4,Isaac TV,MPEG-2/SD,731.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,24,Pak 7 Kids,MPEG-4/SD,751.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,27,Revival TV (USA),MPEG-4/SD,701.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,28,Outdoor Channel International,MPEG-4/HD,3481.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng Tha Chi,3880 H
+3880 Htp 7HC36-40,32,Thrill,MPEG-4/SD,761.0,Irdeto,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,56,Pet Club TV,MPEG-4/HD,601.0,Irdeto,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,57,Gawahi TV,MPEG-4/SD,721.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,58,Barkat TV,MPEG-4/SD,791.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,59,PMI TV,MPEG-4/SD,801.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,70,Mission Asia,MPEG-4/SD,851.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,71,Lamp TV,MPEG-4/SD,861.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,72,Eternal Life TV Network,MPEG-4/SD,871.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,73,Joshua TV (Pakistan),MPEG-4/SD,881.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,74,Shine Star TV,MPEG-4/SD,891.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,75,King TV (Pakistan),MPEG-4/SD,901.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,76,Hoshanna TV,MPEG-4/SD,911.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,77,HK TV,MPEG-4/SD,921.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Urd,3880 H
+3880 Htp 7HC36-40,78,Good Shepherd TV,MPEG-4/SD,931.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,Eng,3880 H
+3880 Htp 7HC36-40,79,Joo Music (Pakistan),MPEG-4/SD,941.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,91,Grace Network,MPEG-4/SD,916.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,92,Zindagi TV,MPEG-4/SD,926.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3880 Htp 7HC36-40,93,Praise TV (Pakistan),MPEG-4/SD,936.0,,,False,SS Creative Solutions,3/5,29720,DVB-S2,,3880 H
+3920 Htp 8HC36-40,,STAR TV,164-24,,IrdetoNagravisionVideoguard,,False,SS Creative Solutions,3/4,29720,DVB-S2,,3920 H
+3940 Vtp 8VC36-40,,STAR TV,164-8,,IrdetoNagravisionVideoguard,,False,SS Creative Solutions,3/4,28100,DVB-S2,,3940 V
+3980 Vtp 9VC36-40,,STAR TV,164-9,,IrdetoNagravisionVideoguard,,False,SS Creative Solutions,3/4,28100,DVB-S2,,3980 V
+4000 Htp 10HC36-40,,STAR TV,164-26,,NagravisionVideoguard,,False,SS Creative Solutions,3/4,28100,DVB-S2,,4000 H
+4020 Vtp 10VC36-40,,STAR TV,164-19,,NagravisionVideoguard,,False,SS Creative Solutions,3/4,28100,DVB-S2,,4020 V
+4040 Htp 11HC36-40,,STAR TV,,,Nagravision,,False,SS Creative Solutions,3/4,29720,DVB-S2,,4040 H
+3960 Htp 9HC36-40,,Turner International Asia,1-1,,Digicipher,https://www.lyngsat.com/providers/us/Turner-International-Asia.html,True,Turner International Asia,5/6,30000,DVB-S2,,3960 H
+3960 Htp 9HC36-40,1,Cartoon Network Asia,MPEG-4/HD,101.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng Chi Vie Tha May Ind Yue,3960 H
+3960 Htp 9HC36-40,12,Cartoon Network Asia,HEVC/SD,1201.0,PowerVu,,False,Turner International Asia,5/6,30000,DVB-S2,Eng Chi Vie Tha May Ind Yue,3960 H
+3960 Htp 9HC36-40,2,Cartoonito South East Asia,MPEG-4/HD,201.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng Chi May Ind Vie,3960 H
+3960 Htp 9HC36-40,3,Warner TV Southeast Asia,MPEG-4/HD,301.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng Tha Vie,3960 H
+3960 Htp 9HC36-40,4,Warner TV Philippines,MPEG-4/HD,401.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp 9HC36-40,8,Cartoon Network India,MPEG-4/HD,801.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Hin Eng Tel Tam,3960 H
+3960 Htp 9HC36-40,11,CNN International Asia Pacific,HEVC/SD,1101.0,PowerVu,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp 9HC36-40,30,CNN International Asia Pacific,MPEG-4/HD,65.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp 9HC36-40,32,CNN International Asia Pacific,MPEG-4/HD,97.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp 9HC36-40,13,Cartoon Network Taiwan,HEVC/HD,1301.0,PowerVu,,False,Turner International Asia,5/6,30000,DVB-S2,Chi Eng,3960 H
+3960 Htp 9HC36-40,14,Cartoon Network Philippines,HEVC/SD,1401.0,PowerVu,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+3960 Htp 9HC36-40,15,Cartoon Network Pakistan,MPEG-4/SD,1501.0,PowerVu,,False,Turner International Asia,5/6,30000,DVB-S2,Eng Hin,3960 H
+3960 Htp 9HC36-40,31,(feeds),,81.0,,,False,Turner International Asia,5/6,30000,DVB-S2,,3960 H
+4060 Vtp 11VC36-40,14,(feeds),,47.0,Irdeto,,False,Turner International Asia,3/4,26666,DVB-S2,,4060 V
+3960 Htp 9HC36-40,34,HLN International,MPEG-4/SD,56.0,Digicipher,,False,Turner International Asia,5/6,30000,DVB-S2,Eng,3960 H
+4060 Vtp 11VC36-40,,ARY Digital Network,,,Irdeto,https://www.lyngsat.com/providers/pk/ARY-Digital-Network.html,True,ARY Digital Network,3/4,26666,DVB-S2,,4060 V
+4060 Vtp 11VC36-40,1,ARY Zindagi,MPEG-2/SD,80.0,,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,2,Nickelodeon Pakistan,MPEG-2/SD,40.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Eng,4060 V
+4060 Vtp 11VC36-40,3,ARY Digital UK,MPEG-2/SD,50.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,4,ARY Digital Asia,MPEG-4/HD,34.0,,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,5,(ARY QTV feeds),,54.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,,4060 V
+4060 Vtp 11VC36-40,6,ARY World,MPEG-2/SD,513.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,7,ARY QTV,MPEG-2/SD,514.0,,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,8,ARY Musik,MPEG-2/SD,515.0,,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,9,ARY Digital UAE,MPEG-4/SD,516.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,10,ARY News UK & Europe,MPEG-2/SD,517.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,11,ARY News Pakistan,MPEG-2/SD,518.0,,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4060 Vtp 11VC36-40,13,ARY Digital USA,MPEG-2/SD,520.0,Irdeto,,False,ARY Digital Network,3/4,26666,DVB-S2,Urd,4060 V
+4080 Htp 12HC36-40,,AsiaSat,65535-6,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4080 H
+4080 Htp 12HC36-40,,AsiaSat,65535-6,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4080 H
+4100 Vtp 12VC36-40,,AsiaSat,65535-4,,,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4100 V
+4100 Vtp 12VC36-40,,AsiaSat,65535-4,,,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4100 V
+4080 Htp 12HC36-40,6,Thainess TV,MPEG-4/HD,2002.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Tha,4080 H
+4080 Htp 12HC36-40,21,Aljazeera Channel,MPEG-2/SD,2021.0,,,False,AsiaSat,5/6,29720,DVB-S2,Ara,4080 H
+4080 Htp 12HC36-40,23,Fox Business,MPEG-4/HD,2071.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4080 Htp 12HC36-40,33,NHK World Premium,MPEG-4/HD,2051.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng Jpn,4080 H
+4080 Htp 12HC36-40,34,Thai PBS 3,MPEG-4/HD,2061.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Tha,4080 H
+4080 Htp 12HC36-40,41,YTN,MPEG-2/SD,2082.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Kor,4080 H
+4080 Htp 12HC36-40,104,Planet Fun,MPEG-4/SD,2241.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4080 Htp 12HC36-40,108,Cinemachi Docu,MPEG-4/SD,2281.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4080 Htp 12HC36-40,110,Party's,MPEG-4/SD,2301.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4080 Htp 12HC36-40,112,Cinemachi Max,MPEG-4/SD,2321.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4080 Htp 12HC36-40,120,Flame,MPEG-4/SD,2401.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4080 H
+4100 Vtp 12VC36-40,8,DW English,MPEG-4/HD,3571.0,,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4100 Vtp 12VC36-40,17,Bloomberg TV Asia,MPEG-4/HD,3511.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4100 Vtp 12VC36-40,19,Aljazeera English,MPEG-4/HD,3521.0,,,False,AsiaSat,5/6,29720,DVB-S2,Eng Eng,4100 V
+4100 Vtp 12VC36-40,26,NHK World Japan,MPEG-4/HD,1160.0,,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4100 Vtp 12VC36-40,29,TRT World,MPEG-4/HD,3581.0,,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4100 Vtp 12VC36-40,63,TVB Jade,MPEG-4/HD,3621.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Yue,4100 V
+4100 Vtp 12VC36-40,64,TVB News,MPEG-4/HD,3501.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Yue,4100 V
+4100 Vtp 12VC36-40,68,B4U Hitz,MPEG-4/HD,321.0,,,False,AsiaSat,5/6,29720,DVB-S2,,4100 V
+4100 Vtp 12VC36-40,69,Dhamaka Movies B4U,MPEG-4/SD,331.0,,,False,AsiaSat,5/6,29720,DVB-S2,,4100 V
+4100 Vtp 12VC36-40,100,B4U Movies India,MPEG-4/SD,302.0,,,False,AsiaSat,5/6,29720,DVB-S2,Hin,4100 V
+4100 Vtp 12VC36-40,500,B4U Music India,MPEG-4/SD,501.0,,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4100 Vtp 12VC36-40,1353,Fox News Channel,MPEG-4/HD,516.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4100 V
+4120 Htp 13HC36-40,,Phoenix New Media,,,,https://www.lyngsat.com/providers/hk/Phoenix-New-Media.html,True,Phoenix New Media,7/8,27500,DVB-S2,,4120 H
+4120 Htp 13HC36-40,1,Phoenix InfoNews Channel,MPEG-4/HD,33.0,,,False,Phoenix New Media,7/8,27500,DVB-S2,Chi,4120 H
+4120 Htp 13HC36-40,4,Phoenix InfoNews Channel,MPEG-2/SD,42.0,,,False,Phoenix New Media,7/8,27500,DVB-S2,Chi,4120 H
+4120 Htp 13HC36-40,2,Phoenix Chinese Channel,MPEG-4/HD,36.0,,,False,Phoenix New Media,7/8,27500,DVB-S2,Chi,4120 H
+4120 Htp 13HC36-40,5,Phoenix Chinese Channel,MPEG-2/SD,45.0,,,False,Phoenix New Media,7/8,27500,DVB-S2,Chi,4120 H
+4120 Htp 13HC36-40,3,Phoenix Hong Kong,MPEG-4/HD,39.0,,,False,Phoenix New Media,7/8,27500,DVB-S2,Yue,4120 H
+4120 Htp 13HC36-40,6,Phoenix Movies Channel,MPEG-2/SD,48.0,Irdeto,,False,Phoenix New Media,7/8,27500,DVB-S2,Chi,4120 H
+4140 Vtp 13VC36-40,12,Zee News,MPEG-4/SD,38.0,,,False,Phoenix New Media,3/4,27500,DVB-S2,Hin,4140 V
+4140 Vtp 13VC36-40,13,Zee Punjab Haryana Himachal,MPEG-4/SD,36.0,,,False,Phoenix New Media,3/4,27500,DVB-S2,Pan,4140 V
+4140 Vtp 13VC36-40,23003,Zee Madhya Pradesh Chhattisgarh,MPEG-4/SD,4202.0,,,False,Phoenix New Media,3/4,27500,DVB-S2,,4140 V
+4156 Htp 14HC36-40,2,ABP Ganga,MPEG-4/SD,41.0,,,False,Phoenix New Media,2/3,8165,DVB-S2,Hin,4156 H
+4156 Htp 14HC36-40,3,ABP News India,MPEG-4/HD,512.0,Irdeto,,False,Phoenix New Media,2/3,8165,DVB-S2,Hin,4156 H
+4176 Htp 14HC36-40,1,ABP News India,?-?MPEG-4/SD,51.0,,,False,Phoenix New Media,2/3,3167,DVB-S2,Hin,4176 H
+4156 Htp 14HC36-40,4,ABP Nadu,MPEG-4/SD,514.0,Irdeto,,False,Phoenix New Media,2/3,8165,DVB-S2,Tam,4156 H
+4156 Htp 14HC36-40,5,ABP Desam,MPEG-4/SD,513.0,Irdeto,,False,Phoenix New Media,2/3,8165,DVB-S2,Tel,4156 H
+4180 Vtp 14VC36-40,,Sony Pictures Networks India,1-101,,PowerVuVideoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,3/4,30000,DVB-S2,,4180 V
+4180 Vtp 14VC36-40,22,Sony Pix South Asia,MPEG-4/SD,3022.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Eng,4180 V
+4180 Vtp 14VC36-40,23*,Sony BBC Earth,MPEG-4/SD,3023.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Eng Hin Tam Tel,4180 V
+4180 Vtp 14VC36-40,73*,Sony BBC Earth,MPEG-4/HD,3073.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Eng Eng Hin Tam Tel,4180 V
+4180 Vtp 14VC36-40,24*,Sony Yay!,MPEG-4/SD,3024.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Hin Tam Tel Ben,4180 V
+4180 Vtp 14VC36-40,25,Ten Sports Pakistan,MPEG-4/SD,3025.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Eng,4180 V
+4180 Vtp 14VC36-40,51,SET India,MPEG-4/HD,2210.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Hin Hin,4180 V
+4180 Vtp 14VC36-40,52*,Sony Pix,MPEG-4/HD,2310.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Eng Eng Tam Tel Hin,4180 V
+4180 Vtp 14VC36-40,54,Sony Max India,MPEG-4/HD,2510.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Hin Hin,4180 V
+4180 Vtp 14VC36-40,72,Sony SAB India,MPEG-4/HD,3072.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Hin Hin,4180 V
+4180 Vtp 14VC36-40,75*,Sony Sports Ten 1,MPEG-4/HD,3075.0,PowerVuVideoguard,,False,Sony Pictures Networks India,3/4,30000,DVB-S2,Hin Eng Eng Ben Mal,4180 V

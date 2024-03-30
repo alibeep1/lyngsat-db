@@ -1,0 +1,54 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3830 Rtp 22East hemi,,RTP,1-101,,,https://www.lyngsat.com/providers/pt/RTP.html,True,RTP,1/2,8842,DVB-S2,,3830 R
+3830 Rtp 22East hemi,1.0,RTP Internacional Europa,MPEG-4/SD,101.0,,,False,RTP,1/2,8842,DVB-S2,Por,3830 R
+3830 Rtp 22East hemi,2.0,RTP África,MPEG-4/SD,102.0,,,False,RTP,1/2,8842,DVB-S2,Por,3830 R
+3830 Rtp 22East hemi,11.0,RDP Antena 1,,,,,False,RTP,1/2,8842,DVB-S2,Por,3830 R
+3830 Rtp 22East hemi,12.0,RDP África,,,,,False,RTP,1/2,8842,DVB-S2,Por,3830 R
+3830 Rtp 22East hemi,13.0,RDP Internacional,,,,,False,RTP,1/2,8842,DVB-S2,Por,3830 R
+3838 Rtp 22East hemi,,(RTP feeds),,,,,False,RTP,8/9,2953,DVB-S2,,3838 R
+3843 Rtp 22East hemi,1.0,RTG (Guinea),65535-1MPEG-2/SD,4096.0,,,False,RTP,1/2,4550,DVB-S4,Fre,3843 R
+3843 Rtp 22East hemi,1.0,Radio Guinée,,,,,False,RTP,1/2,4550,DVB-S4,Fre,3843 R
+11495 Vtp 74Spot 2,,Freeview,1-4096,,BISS,https://www.lyngsat.com/providers/uk/Freeview.html,True,Freeview,/10,41009,DVB-S2,,11495 V
+11495 Vtp 74Spot 2,0.0,BBC One North East & Cumbria,MPEG-2/SD,101.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC One North East & Cumbria,MPEG-4/HD,6601.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Two,MPEG-2/SD,201.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Two,MPEG-4/HD,6101.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,CBBC (07-19),MPEG-2/SD,301.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,CBBC (07-19),MPEG-4/HD,7001.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Three (19-04),MPEG-2/SD,301.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Three (19-04),MPEG-4/HD,7001.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,CBeebies UK (06-19),MPEG-2/SD,401.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,CBeebies UK (06-19),MPEG-4/HD,6701.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Four (19-04),MPEG-2/SD,401.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC News UK,MPEG-2/SD,501.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Parliament,MPEG-2/SD,601.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Red Button 1,MPEG-2/SD,901.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC One Wales,MPEG-2/SD,3101.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC One Scotland,MPEG-2/SD,4101.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC One Northern Ireland,MPEG-2/SD,5101.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,ITV 1 Granada,MPEG-4/HD,6201.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,Channel 4 London,MPEG-4/HD,6301.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,Channel 5 (UK),MPEG-4/HD,6401.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,5 Select,MPEG-4/SD,7501.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,TBN UK,MPEG-4/SD,7901.0,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 1,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 2,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 3,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 4 FM,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 5 Live,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 5 Live Sports Extra,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 6 Music,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 4 Extra,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio 1Xtra,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11495 Vtp 74Spot 2,0.0,BBC Radio Asian Network,,,BISS,,False,Freeview,/10,41009,DVB-S2,,11495 V
+11495 Vtp 74Spot 2,0.0,BBC World Service UK,,,BISS,,False,Freeview,/10,41009,DVB-S2,Eng,11495 V
+11591 Vtp 76Spot 2,,I Radio,,,,https://www.lyngsat.com/providers/ie/I-Radio.html,True,I Radio,8/9,250,DVB-S2,,11591 V
+11591 Vtp 76Spot 2,,I Radio Northeast,,,,,False,I Radio,8/9,250,DVB-S2,Eng,11591 V
+11591 Vtp 76Spot 2,,I Radio Northwest,,,,,False,I Radio,8/9,250,DVB-S2,Eng,11591 V
+11596 Vtp 76Spot 2,,Q Radio,.-.,,,https://www.lyngsat.com/providers/uk/Q-Radio.html,True,Q Radio,8/9,500,DVB-S2,,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio North West,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio Newry and Mourne,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio Tyrone and Fermanagh,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio Mid Ulster,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio Mid Antrim,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V
+11596 Vtp 76Spot 2,0.0,Q Radio North Coast,,,,,False,Q Radio,8/9,500,DVB-S2,Eng,11596 V

@@ -1,0 +1,323 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3775 Ltp EHL2East hemi,,BFBS,19-5,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,2/3,9583,DVB-S2,,3775 L
+3775 Ltp EHL2East hemi,,BFBS,19-5,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,2/3,9583,DVB-S2,,3775 L
+3798 Rtp WHR3West hemi39-40,,BFBS,17-3,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,3/5,19167,DVB-S2,,3798 R
+3798 Rtp WHR3West hemi39-40,,BFBS,17-3,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,3/5,19167,DVB-S2,,3798 R
+3775 Ltp EHL2East hemi,8305.0,Sky Sports Main Event UK,MPEG-4/SD,105.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8105.0,Sky Sports Main Event UK,MPEG-4/SD,105.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8306.0,TNT Sports 1,MPEG-4/SD,106.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8106.0,TNT Sports 1,MPEG-4/SD,106.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8307.0,BFBS Sport,MPEG-4/SD,107.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8107.0,BFBS Sport,MPEG-4/SD,107.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8308.0,Sky News UK,MPEG-4/SD,108.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8108.0,Sky News UK,MPEG-4/SD,108.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8311.0,BBC One Delay,MPEG-4/SD,111.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8312.0,BBC Two Delay,MPEG-4/SD,112.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8313.0,ITV 1 Delay,MPEG-4/SD,113.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8314.0,BFBS Extra Delay,MPEG-4/SD,114.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8317.0,Sky Cinema Delay,MPEG-4/SD,117.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8117.0,Sky Cinema Delay,MPEG-4/SD,117.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8318.0,NTV National,MPEG-4/SD,118.0,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Nep,3775 L
+3798 Rtp WHR3West hemi39-40,8118.0,NTV National,MPEG-4/SD,118.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Nep,3798 R
+3775 Ltp EHL2East hemi,8321.0,BFBS Ops,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8331.0,BFBS Ops,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8121.0,BFBS Ops,MPEG-4,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8324.0,BFBS Radio 2,,,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8124.0,BFBS Radio 2,,,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8326.0,BFBS Best of British,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8126.0,BFBS Best of British,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8327.0,BFBS UK National,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8127.0,BFBS UK National,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8329.0,BFBS Germany,,,Irdeto,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3775 Ltp EHL2East hemi,8332.0,BFBS Beats,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8132.0,BFBS Beats,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8333.0,BFBS Gurkha Network,,,,,False,BFBS,2/3,9583,DVB-S2,,3775 L
+3775 Ltp EHL2East hemi,8338.0,BFBS Gurkha Network,,,,,False,BFBS,2/3,9583,DVB-S2,,3775 L
+3798 Rtp WHR3West hemi39-40,8133.0,BFBS Gurkha Network,,,,,False,BFBS,3/5,19167,DVB-S2,,3798 R
+3775 Ltp EHL2East hemi,8334.0,BFBS Edge,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8134.0,BFBS Edge,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8335.0,BFBS Rewind,,,,,False,BFBS,2/3,9583,DVB-S2,Eng,3775 L
+3798 Rtp WHR3West hemi39-40,8135.0,BFBS Rewind,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3775 Ltp EHL2East hemi,8337.0,BFBS Shamishran,,,,,False,BFBS,2/3,9583,DVB-S2,,3775 L
+3798 Rtp WHR3West hemi39-40,8137.0,BFBS Shamishran,,,,,False,BFBS,3/5,19167,DVB-S2,,3798 R
+3798 Rtp WHR3West hemi39-40,8101.0,BBC One,MPEG-4/SD,101.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8102.0,CBBC (07-18),MPEG-4/SD,102.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8102.0,BBC Two (18-07),MPEG-4/SD,102.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8103.0,ITV 1 London,MPEG-4/SD,103.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8104.0,BFBS Extra,MPEG-4/SD,104.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8109.0,Channel 4 London,MPEG-4/SD,109.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8110.0,Channel 5 (UK),MPEG-4/SD,110.0,Irdeto,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8123.0,BFBS UK Bases,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3798 Rtp WHR3West hemi39-40,8138.0,BFBS Falklands,,,,,False,BFBS,3/5,19167,DVB-S2,Eng,3798 R
+3813 Rtp WHR3West hemi39-40,1.0,Benishangul Gumuz Media,1-1MPEG-4/HD,512.0,,,False,BFBS,5/6,2400,DVB-S2,,3813 R
+11105 Htp EAH3East Africa0-50,6136.0,Benishangul Gumuz Media,MPEG-4/SD,2036.0,,,False,BFBS,5/6,45000,DVB-S2,,11105 H
+3816 Rtp WHR3West hemi39-40,1.0,NBC Ethiopia,1-1MPEG-4/HD,404.0,,,False,BFBS,5/6,2400,DVB-S2,Amh,3816 R
+11105 Htp EAH3East Africa0-50,6189.0,NBC Ethiopia,MPEG-4/SD,90.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11105 H
+3833 Ltp WHL4West hemi39-40,1.0,Harari TV,8192-4096MPEG-4/HD,512.0,,,False,BFBS,3/4,2400,DVB-S2,Amh,3833 L
+11605 Htp EAH7East Africa0-50,6202.0,Harari TV,MPEG-4/SD,49.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11605 H
+3840 Ltp WHL4West hemi39-40,1.0,Dire TV,8192-4096MPEG-4/HD,512.0,,,False,BFBS,5/6,2400,DVB-S2,Amh,3840 L
+3855 Ltp WHL4West hemi39-40,1.0,Walta TV,.-1MPEG-4/HD,33.0,,,False,BFBS,2/3,4440,DVB-S2,Amh,3855 L
+11105 Htp EAH3East Africa0-50,6125.0,Walta TV,MPEG-4/SD,63.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11105 H
+11545 Htp EAH6East Africa0-50,6414.0,Walta TV,MPEG-2/SD,33.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11545 H
+3855 Rtp WHR4West hemi39-40,1.0,Addis Media Network,1-1MPEG-4/HD,512.0,,,False,BFBS,3/4,4034,DVB-S2,Amh,3855 R
+11105 Htp EAH3East Africa0-50,6187.0,Addis Media Network,MPEG-4/SD,56.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11105 H
+11165 Htp EAH4East Africa0-50,6313.0,Addis Media Network,MPEG-4/HD,54.0,,,False,BFBS,3/4,45000,DVB-S2,Amh,11165 H
+3855 Rtp WHR4West hemi39-40,5.0,Addis FM 96.3,,,,,False,BFBS,3/4,4034,DVB-S2,Amh,3855 R
+11105 Htp EAH3East Africa0-50,6190.0,Addis FM 96.3,,,,,False,BFBS,5/6,45000,DVB-S2,Amh,11105 H
+11165 Htp EAH4East Africa0-50,6355.0,Addis FM 96.3,,,,,False,BFBS,3/4,45000,DVB-S2,Amh,11165 H
+3861 Rtp WHR4West hemi,,(Addis Media Network feeds),,,,,False,BFBS,3/4,4034,DVB-S2,,3861 R
+3916 Rtp WHR6West hemi39-40,1.0,OBN Horn of Africa,1001-1002MPEG-4/HD,512.0,,,False,BFBS,2/3,4167,DVB-S2,Orm,3916 R
+11165 Htp EAH4East Africa0-50,6375.0,OBN Horn of Africa,MPEG-4/SD,51.0,,,False,BFBS,3/4,45000,DVB-S2,,11165 H
+3932 Ltp WHL6West hemi39-40,1.0,Amhara TV,65535-1MPEG-4/HD,33.0,,,False,BFBS,2/3,3920,DVB-S2,Amh,3932 L
+11165 Htp EAH4East Africa0-50,6306.0,Amhara TV,MPEG-4/HD,308.0,,,False,BFBS,3/4,45000,DVB-S2,Amh,11165 H
+11545 Htp EAH6East Africa0-50,6405.0,Amhara TV,MPEG-2/SD,308.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11545 H
+11605 Htp EAH7East Africa0-50,6215.0,Amhara TV,MPEG-4/SD,33.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11605 H
+3932 Ltp WHL6West hemi39-40,1.0,FM Bahir Dar 96.9,,,,,False,BFBS,2/3,3920,DVB-S2,,3932 L
+3941 Ltp WHL6West hemi39-40,,FM Bahir Dar 96.9,,,,,False,BFBS,2/3,3585,DVB-S2,,3941 L
+11165 Htp EAH4East Africa0-50,6354.0,FM Bahir Dar 96.9,,,,,False,BFBS,3/4,45000,DVB-S2,Amh,11165 H
+3941 Ltp WHL6West hemi39-40,1.0,Fana TV,65535-1MPEG-4/HD,33.0,,,False,BFBS,2/3,3585,DVB-S2,Amh,3941 L
+11105 Htp EAH3East Africa0-50,6150.0,Fana TV,MPEG-4/HD,34.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11105 H
+11545 Htp EAH6East Africa0-50,6413.0,Fana TV,MPEG-2/SD,50.0,,,False,BFBS,5/6,45000,DVB-S2,Amh,11545 H
+4044 Ltp GLL9West hemi,,(feeds),,,,,False,BFBS,1/2,3815,DVB-S3,,4044 L
+4065 Ltp GLL9Global,,(feeds),,,,,False,BFBS,5/6,1500,DVB-S2,,4065 L
+4069 Rtp GLR9Global,,(feeds),,,,,False,BFBS,1/2,3500,DVB-S3,,4069 R
+4079 Ltp GLL10Global,,(feeds),,,,,False,BFBS,7/8,2000,DVB-S2,,4079 L
+4082 Ltp GLL10Global,,(feeds),,,,,False,BFBS,1/2,2000,DVB-S2,,4082 L
+10976 Vtp MEV1Middle East,,(feeds),,,,,False,BFBS,3/4,4444,DVB-S4,,10976 V
+11039 Vtp MEV2Middle East,,(feeds),,,,,False,BFBS,3/4,3100,DVB-S3,,11039 V
+11069 Htp EAH2East Africa,,(feeds),,,,,False,BFBS,3/4,2500,DVB-S2,,11069 H
+11129 Vtp MEV4Middle East,,(feeds),,,,,False,BFBS,3/4,2200,DVB-S2,,11129 V
+11134 Vtp MEV4Middle East,,(feeds),,,,,False,BFBS,3/4,22200,DVB-S2,,11134 V
+11460 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,2/3,3500,DVB-S3,,11460 H
+11464 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,3/4,3100,DVB-S3,,11464 H
+11469 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,3/4,3100,DVB-S3,,11469 H
+11473 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,3/4,3100,DVB-S3,,11473 H
+11499 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,2/3,4090,DVB-S4,,11499 H
+11503 Htp CAH5Central Asia,,(feeds),,,,,False,BFBS,1/2,2880,DVB-S2,,11503 H
+11510 Htp EAH5East Africa,,(feeds),,,,,False,BFBS,330,3,DVB-S3,,11510 H
+11539 Htp CAH6Central Asia,,(feeds),,,,,False,BFBS,3/4,4580,DVB-S2,,11539 H
+11645 Vtp MEV8Middle East,,(feeds),,,,,False,BFBS,3/4,3333,DVB-S3,,11645 V
+12292 Vtp INV15South Asia,,(feeds),,,,,False,BFBS,3/4,2500,DVB-S2,,12292 V
+12306 Vtp INV16South Asia,,(feeds),,,,,False,BFBS,3/4,2000,DVB-S2,,12306 V
+12313 Vtp INV16South Asia,,(feeds),,,,,False,BFBS,5/6,2123,DVB-S2,,12313 V
+12316 Vtp INV16South Asia,,(feeds),,,,,False,BFBS,3/4,2123,DVB-S2,,12316 V
+12413 Vtp INV19South Asia,,(feeds),,,,,False,BFBS,3/4,1600,DVB-S1,,12413 V
+12429 Vtp INV19South Asia,,(feeds),,,,,False,BFBS,3/4,3500,DVB-S2,,12429 V
+12554 Vtp INV10South Asia,,(feeds),,,,,False,BFBS,3/4,1800,DVB-S1,,12554 V
+12556 Vtp INV10South Asia,,(feeds),,,,,False,BFBS,3/4,1600,DVB-S1,,12556 V
+12559 Vtp INV10South Asia,,(feeds),,,,,False,BFBS,3/4,1600,DVB-S1,,12559 V
+12571 Vtp INV10South Asia,,(feeds),,,,,False,BFBS,3/4,2500,DVB-S2,,12571 V
+12579 Vtp INV10South Asia,,(feeds),,,,,False,BFBS,3/4,4000,DVB-S4,,12579 V
+12621 Vtp INV11South Asia,,(feeds),,,,,False,BFBS,3/4,2000,DVB-S2,,12621 V
+12625 Vtp INV11South Asia,,(feeds),,,,,False,BFBS,3/4,2200,DVB-S2,,12625 V
+4060 Ltp GLL9Global34-36,,Alhurra TV,1-101,,,https://www.lyngsat.com/providers/us/Alhurra-TV.html,True,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+4060 Ltp GLL9Global34-36,200.0,Alhurra TV,MPEG-4/HD,1560.0,,https://www.lyngsat.com/providers/us/Alhurra-TV.html,True,Alhurra TV,3/4,7043,DVB-S2,Ara,4060 L
+4060 Ltp GLL9Global34-36,400.0,Alhurra TV Iraq,MPEG-4/HD,260.0,,,False,Alhurra TV,3/4,7043,DVB-S2,Ara,4060 L
+4060 Ltp GLL9Global34-36,421.0,VoA Djibouti MW,,,,,False,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+4060 Ltp GLL9Global34-36,434.0,Radio Sawa Iraq,,,,,False,Alhurra TV,3/4,7043,DVB-S2,Ara,4060 L
+4060 Ltp GLL9Global34-36,435.0,VoA Iraq,,,,,False,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+4060 Ltp GLL9Global34-36,441.0,Radio Sawa Levant,,,,,False,Alhurra TV,3/4,7043,DVB-S2,Ara,4060 L
+4060 Ltp GLL9Global34-36,446.0,VoA French to Africa,,,,,False,Alhurra TV,3/4,7043,DVB-S2,Fre,4060 L
+4060 Ltp GLL9Global34-36,447.0,VoA Djibouti FM,,,,,False,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+4060 Ltp GLL9Global34-36,454.0,VoA Ethiopia,,,,,False,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+11605 Htp EAH7East Africa0-50,6230.0,VoA Ethiopia,,,,,False,Alhurra TV,5/6,45000,DVB-S2,,11605 H
+4060 Ltp GLL9Global34-36,455.0,Radio Sawa Sudan,,,,,False,Alhurra TV,3/4,7043,DVB-S2,Ara,4060 L
+4060 Ltp GLL9Global34-36,457.0,VoA Libya,,,,,False,Alhurra TV,3/4,7043,DVB-S2,,4060 L
+4069 Ltp GLL9Global34-36,,VoA,1-1,,,https://www.lyngsat.com/providers/us/VoA.html,True,VoA,1/2,1040,DVB-S1,,4069 L
+4069 Ltp GLL9Global34-36,22.0,VoA Somali,,,,,False,VoA,1/2,1040,DVB-S1,Som,4069 L
+11605 Htp EAH7East Africa0-50,6231.0,VoA Somali,,,,,False,VoA,5/6,45000,DVB-S2,Som,11605 H
+4069 Ltp GLL9Global34-36,30.0,VoA Madagascar,,,,,False,VoA,1/2,1040,DVB-S1,,4069 L
+4069 Ltp GLL9Global34-36,38.0,VoA Kenya,,,,,False,VoA,1/2,1040,DVB-S1,,4069 L
+11605 Htp EAH7East Africa0-50,6232.0,VoA Kenya,,,,,False,VoA,5/6,45000,DVB-S2,,11605 H
+4069 Ltp GLL9Global34-36,100.0,VoA Congo DRC,,,,,False,VoA,1/2,1040,DVB-S1,,4069 L
+4069 Ltp GLL9Global34-36,101.0,VoA Southern Africa,,,,,False,VoA,1/2,1040,DVB-S1,,4069 L
+4071 Ltp GLL9Global34-36,1.0,VoA TV Africa,1-1MPEG-4/SD,100.0,,,False,VoA,1/2,2722,DVB-S2,Eng,4071 L
+11105 Htp EAH3East Africa0-50,6133.0,VoA TV Africa,MPEG-4/SD,2027.0,,,False,VoA,5/6,45000,DVB-S2,Eng,11105 H
+11605 Htp EAH7East Africa0-50,6229.0,VoA TV Africa,MPEG-4/HD,2026.0,,,False,VoA,5/6,45000,DVB-S2,Eng,11605 H
+4095 Ltp GLL10Global34-36,,American Forces Network,18-101,,PowerVuVerimatrix,https://www.lyngsat.com/providers/us/American-Forces-Network.html,True,American Forces Network,1/2,11000,DVB-S2,,4095 L
+4095 Ltp GLL10Global34-36,302.0,AFN Prime Atlantic,MPEG-4/SD,2160.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,303.0,AFN News,MPEG-4/SD,2260.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,304.0,AFN Sports,MPEG-4/SD,2360.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,305.0,AFN Sports 2,MPEG-4/SD,2370.0,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,320.0,AFN The Eagle Atlantic,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,321.0,AFN The Voice,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,322.0,AFN Music Service 1,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Ltp GLL10Global34-36,323.0,AFN Music Service 2,,,PowerVuVerimatrix,,False,American Forces Network,1/2,11000,DVB-S2,Eng,4095 L
+4095 Rtp GLR10Global34-36,,Anuvu,100-2,,PowerVu,https://www.lyngsat.com/providers/us/Anuvu.html,True,Anuvu,3/4,30000,DVB-S2,,4095 R
+4095 Rtp GLR10Global34-36,100.0,[MTN info card],MPEG-4/SD,6177.0,,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,101.0,MTN Special Events,MPEG-4/SD,4897.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,200.0,MTN Special Events,MPEG-4/SD,4401.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,102.0,MSNBC International,MPEG-4/SD,4129.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,103.0,Fox News Channel,MPEG-4/SD,4385.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,104.0,CNBC US,MPEG-4/SD,4641.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,105.0,Sky News International,MPEG-4/SD,5153.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,106.0,BBC News,MPEG-4/SD,5409.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,107.0,Prime Journey,MPEG-4/SD,5665.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,108.0,Sky Sports News UK,MPEG-4/SD,5921.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,109.0,Sport 24,MPEG-4/HD,6433.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,110.0,Prime One,MPEG-4/SD,6945.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,111.0,Sport 24 Extra,MPEG-4/SD,7201.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4095 R
+4095 Rtp GLR10Global34-36,112.0,RTL Deutschland,MPEG-4/SD,6689.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Ger,4095 R
+4095 Rtp GLR10Global34-36,113.0,Sky News Australia,MPEG-4/SD,7457.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,115.0,TFC Middle East,MPEG-4/SD,7969.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4095 R
+4095 Rtp GLR10Global34-36,116.0,Prime Favorites,MPEG-4/SD,4145.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,,4095 R
+4095 Rtp GLR10Global34-36,117.0,BBC HD,MPEG-4/HD,4657.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,118.0,TVE Internacional Europa,MPEG-4/SD,4913.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Spa,4095 R
+4095 Rtp GLR10Global34-36,119.0,Canal 24 Horas,MPEG-4/SD,5169.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Spa,4095 R
+4095 Rtp GLR10Global34-36,120.0,Australian Comedy & Drama Channel,MPEG-4/SD,5425.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,121.0,ABC News (Australia),MPEG-4/SD,5681.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,124.0,Food Network East,MPEG-4/SD,6961.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,125.0,HGTV East,MPEG-4/SD,6705.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,126.0,Travel Channel East,MPEG-4/SD,5937.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4095 Rtp GLR10Global34-36,131.0,France 24 Français,MPEG-4/SD,4161.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Fre,4095 R
+4095 Rtp GLR10Global34-36,132.0,Mediaset Italia,MPEG-4/SD,4417.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Ita,4095 R
+4095 Rtp GLR10Global34-36,140.0,Hunan TV,MPEG-4/SD,6465.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Chi,4095 R
+4095 Rtp GLR10Global34-36,143.0,CCTV 6,MPEG-4/SD,6449.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Chi,4095 R
+4095 Rtp GLR10Global34-36,144.0,CCTV Entertainment,MPEG-4/SD,6193.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Chi,4095 R
+4095 Rtp GLR10Global34-36,145.0,CCTV 4 America,MPEG-4/SD,7729.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Chi,4095 R
+4095 Rtp GLR10Global34-36,161.0,National Geographic UK,MPEG-4/SD,5649.0,PowerVu,,False,Anuvu,3/4,30000,DVB-S2,Eng,4095 R
+4159 Ltp GLL11Global34-36,4.0,VoA TV Asia,1-1MPEG-2/SD,210.0,,,False,Anuvu,3/4,2962,DVB-S2,,4159 L
+10985 Htp EAH1East Africa0-50,,Mediavision,,,,https://www.lyngsat.com/providers/ae/Mediavision.html,True,Mediavision,3/4,45000,DVB-S2,,10985 H
+10985 Htp EAH1East Africa0-50,6000.0,BBC News Africa,MPEG-4/SD,49.0,,,False,Mediavision,3/4,45000,DVB-S2,Eng,10985 H
+10985 Htp EAH1East Africa0-50,6001.0,CNN International Europe,MPEG-4/SD,481.0,,,False,Mediavision,3/4,45000,DVB-S2,Eng,10985 H
+10985 Htp EAH1East Africa0-50,6002.0,Aljazeera English,MPEG-4/SD,52.0,,,False,Mediavision,3/4,45000,DVB-S2,Eng,10985 H
+10985 Htp EAH1East Africa0-50,6003.0,Dubai One,MPEG-4/SD,55.0,,,False,Mediavision,3/4,45000,DVB-S2,Eng,10985 H
+11046 Htp EAH2East Africa0-50,,,,,,,False,Mediavision,3/5,4000,DVB-S2,,11046 H
+11605 Htp EAH7East Africa0-50,,,10-10107,,,,False,Mediavision,5/6,45000,DVB-S2,,11605 H
+11046 Htp EAH2East Africa0-50,1.0,Sky Sports Football UK,MPEG-4/SD,3011.0,,,False,Mediavision,3/5,4000,DVB-S2,Eng,11046 H
+11046 Htp EAH2East Africa0-50,2.0,Yayi TV Sport 2,MPEG-4/SD,3021.0,,,False,Mediavision,3/5,4000,DVB-S2,Eng,11046 H
+11105 Htp EAH3East Africa0-50,,EthioSat,10-10103,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11105 H
+11105 Htp EAH3East Africa0-50,,EthioSat,10-10103,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11105 H
+11105 Htp EAH3East Africa0-50,,EthioSat,10-10103,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11105 H
+11165 Htp EAH4East Africa0-50,,EthioSat,10-10104,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,,EthioSat,10-10104,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,,EthioSat,10-10104,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,3/4,45000,DVB-S2,,11165 H
+11545 Htp EAH6East Africa0-50,,EthioSat,,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11545 H
+11545 Htp EAH6East Africa0-50,,EthioSat,,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11545 H
+11545 Htp EAH6East Africa0-50,,EthioSat,,,,https://www.lyngsat.com/providers/et/EthioSat.html,True,EthioSat,5/6,45000,DVB-S2,,11545 H
+11105 Htp EAH3East Africa0-50,6101.0,EBS (USA),MPEG-4/HD,53.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11545 Htp EAH6East Africa0-50,6410.0,EBS (USA),MPEG-2/SD,53.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11105 Htp EAH3East Africa0-50,6102.0,EBS Cinema,MPEG-4/SD,49.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6103.0,EBS Musika,MPEG-4/SD,79.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6104.0,ETV Entertainment,MPEG-4/HD,2004.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6112.0,Black Max,MPEG-4/SD,637.0,,,False,EthioSat,5/6,45000,DVB-S2,,11105 H
+11105 Htp EAH3East Africa0-50,6113.0,Ya TV,MPEG-4/SD,2006.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6114.0,Brhan TV,MPEG-4/SD,62.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6119.0,Gohe TV promo,MPEG-4/HD,82.0,,,False,EthioSat,5/6,45000,DVB-S2,,11105 H
+11105 Htp EAH3East Africa0-50,6128.0,Balageru TV,MPEG-4/SD,32.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6132.0,France 24 English,MPEG-4/SD,606.0,,,False,EthioSat,5/6,45000,DVB-S2,Eng,11105 H
+11105 Htp EAH3East Africa0-50,6137.0,ETV Yelijochalem,MPEG-4/SD,44.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6138.0,Heywet TV,MPEG-4/SD,47.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6139.0,TV 9 Ethio,MPEG-4/SD,41.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6140.0,TV5Monde Afrique,MPEG-4/SD,723.0,,,False,EthioSat,5/6,45000,DVB-S2,Fre,11105 H
+11105 Htp EAH3East Africa0-50,6141.0,Tivi5Monde,MPEG-4/SD,1224.0,,,False,EthioSat,5/6,45000,DVB-S2,Fre,11105 H
+11105 Htp EAH3East Africa0-50,6142.0,Ethiopia Orthodox TV,MPEG-4/SD,2011.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11165 Htp EAH4East Africa0-50,6371.0,Ethiopia Orthodox TV,MPEG-4/SD,65.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11105 Htp EAH3East Africa0-50,6148.0,Evangelical TV,MPEG-4/SD,2001.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6149.0,Hadiya TV,MPEG-4/SD,38.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6157.0,Asham TV,MPEG-4/SD,2009.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6165.0,Presence TV Channel,MPEG-4/SD,103.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6185.0,Hagerie TV,MPEG-4/SD,2014.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6129.0,Fana FM,,,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11105 Htp EAH3East Africa0-50,6143.0,Fana FM,,,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11105 H
+11165 Htp EAH4East Africa0-50,6300.0,ETV News,MPEG-4/HD,515.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11545 Htp EAH6East Africa0-50,6401.0,ETV News,MPEG-2/SD,2001.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11165 Htp EAH4East Africa0-50,6304.0,OBN (Ethiopia),MPEG-4/HD,512.0,,,False,EthioSat,3/4,45000,DVB-S2,Orm,11165 H
+11545 Htp EAH6East Africa0-50,6404.0,OBN (Ethiopia),MPEG-2/SD,512.0,,,False,EthioSat,5/6,45000,DVB-S2,Orm,11545 H
+11165 Htp EAH4East Africa0-50,6312.0,Debub TV,MPEG-4/SD,59.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11545 Htp EAH6East Africa0-50,6406.0,Debub TV,MPEG-2/SD,56.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11165 Htp EAH4East Africa0-50,6319.0,Oromia Broadcasting Service,MPEG-4/HD,2011.0,,,False,EthioSat,3/4,45000,DVB-S2,Orm,11165 H
+11165 Htp EAH4East Africa0-50,6321.0,ARTS TV,MPEG-4/SD,1001.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11545 Htp EAH6East Africa0-50,6409.0,ARTS TV,MPEG-2/SD,62.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11165 Htp EAH4East Africa0-50,6338.0,Afar TV,MPEG-4/SD,2009.0,,,False,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,6339.0,ESat,MPEG-4/HD,1024.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6352.0,Abbay Media TV,MPEG-4/SD,95.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6365.0,Wolaita TV,MPEG-4/HD,77.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6367.0,Hope Channel Ethiopia,MPEG-4/SD,2001.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6368.0,Catholic TV Ethiopia,MPEG-4/SD,83.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6369.0,Prime Media,MPEG-4/SD,87.0,,,False,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,6373.0,GMM TV (Ethiopia),MPEG-4/SD,91.0,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6379.0,Sidaama Media Network,MPEG-4/SD,56.0,,,False,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,6381.0,Kaffa TV,MPEG-4/SD,32.0,,,False,EthioSat,3/4,45000,DVB-S2,,11165 H
+11165 Htp EAH4East Africa0-50,6358.0,Radio Ethiopia National Radio,,,,,False,EthioSat,3/4,45000,DVB-S2,Amh,11165 H
+11165 Htp EAH4East Africa0-50,6363.0,Oromiyaa Radio,,,,,False,EthioSat,3/4,45000,DVB-S2,Orm,11165 H
+11165 Htp EAH4East Africa0-50,6372.0,Debub FM,,,,,False,EthioSat,3/4,45000,DVB-S2,,11165 H
+11181 Vtp MEV4Middle East,,(Almada TV feeds),,,,,False,EthioSat,5/6,2400,DVB-S2,,11181 V
+11545 Htp EAH6East Africa0-50,6425.0,Kana TV,MPEG-2/SD,2012.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6426.0,Harima TV,MPEG-2/SD,93.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6427.0,As-Sunnah TV,MPEG-2/SD,77.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6429.0,Minber TV,MPEG-2/SD,74.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6431.0,Glory of God TV,MPEG-4/SD,80.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6432.0,OBN Gaammee,MPEG-4/SD,90.0,,,False,EthioSat,5/6,45000,DVB-S2,Orm,11545 H
+11545 Htp EAH6East Africa0-50,6440.0,A Plus TV,MPEG-4/SD,2440.0,,,False,EthioSat,5/6,45000,DVB-S2,,11545 H
+11545 Htp EAH6East Africa0-50,6441.0,Bisrat TV,MPEG-4/SD,2441.0,,,False,EthioSat,5/6,45000,DVB-S2,Amh,11545 H
+11545 Htp EAH6East Africa0-50,6442.0,KTV,MPEG-4/SD,36.0,,,False,EthioSat,5/6,45000,DVB-S2,,11545 H
+11545 Htp EAH6East Africa0-50,6443.0,Oromia Clergy Network,MPEG-4/SD,2443.0,,,False,EthioSat,5/6,45000,DVB-S2,Orm,11545 H
+11605 Htp EAH7East Africa0-50,6219.0,Oromia Clergy Network,MPEG-4/SD,79.0,,,False,EthioSat,5/6,45000,DVB-S2,Orm,11605 H
+11545 Htp EAH6East Africa0-50,6444.0,Mo'aa TV,MPEG-4/SD,2444.0,,,False,EthioSat,5/6,45000,DVB-S2,Orm,11545 H
+11585 Htp CAH7Central Asia0,,Teleradiokom,1-6,,,https://www.lyngsat.com/providers/tj/Teleradiokom.html,True,Teleradiokom,3/4,10750,DVB-S2,,11585 H
+11585 Htp CAH7Central Asia0,1.0,Tojikiston,MPEG-4/HD,612.0,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,2.0,TV Safina,MPEG-4/HD,721.0,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,3.0,TV Bahoriston,MPEG-4/HD,821.0,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,4.0,Jahonnamo,MPEG-4/HD,921.0,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,5.0,Varzish TV,MPEG-4/HD,4113.0,BISS,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,6.0,TV Sinamo,MPEG-4/HD,611.0,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,17.0,Radioi Tojikiston,,,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,18.0,Ovozi Tojik,,,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,19.0,Sadoi Dushanbe,,,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11585 Htp CAH7Central Asia0,20.0,Radioi Farhang,,,,,False,Teleradiokom,3/4,10750,DVB-S2,Tgk,11585 H
+11605 Htp EAH7East Africa0-50,6201.0,Elshaddai TV Network,MPEG-4/SD,792.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6203.0,Christ Army TV,MPEG-4/SD,52.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6204.0,Bethel TV (Ethiopia),MPEG-4/SD,58.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6206.0,Kale Awadi TV,MPEG-4/SD,55.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6207.0,Anointing TV Channel,MPEG-4/SD,61.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6208.0,Nesiha TV,MPEG-2/SD,102.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6209.0,JSL TV,MPEG-4/SD,97.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6210.0,Jesus Wonderful TV,MPEG-4/SD,67.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6211.0,Heaven TV,MPEG-4/SD,64.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6216.0,Shilo TV,MPEG-4/SD,2001.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6217.0,Christ Mission TV,MPEG-4/SD,82.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6218.0,Gospel TV (Ethiopia),MPEG-4/SD,109.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6220.0,SES promo,MPEG-4/SD,2064.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6221.0,7 Spirits TV,MPEG-4/SD,88.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6222.0,Winners Way TV,MPEG-4/SD,85.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6223.0,River TV,MPEG-4/SD,76.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6224.0,Jesus TV,MPEG-4/SD,70.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6225.0,ERI TV 1,MPEG-4/SD,525.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6227.0,JPS TV,MPEG-4/SD,92.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6228.0,Somali Region TV,MPEG-4/HD,2015.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6236.0,Marsil TV,MPEG-4/HD,2005.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6237.0,LJ TV Channel Worldwide,MPEG-4/SD,100.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6242.0,CGM TV,MPEG-4/SD,115.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6243.0,Africa TV 1 (Sudan),MPEG-4/SD,106.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6245.0,Ye Ethiopia Lijoch TV,MPEG-4/SD,73.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Amh,11605 H
+11605 Htp EAH7East Africa0-50,6246.0,Christ Jesus TV,MPEG-4/SD,112.0,,,False,Teleradiokom,5/6,45000,DVB-S2,Eng,11605 H
+11605 Htp EAH7East Africa0-50,6249.0,Holy Spirit TV Channel,MPEG-4/SD,120.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6254.0,Christian TV,MPEG-4/SD,124.0,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6240.0,Radio Zara FM,,,,,False,Teleradiokom,5/6,45000,DVB-S2,Tir,11605 H
+11605 Htp EAH7East Africa0-50,6241.0,Dimtsi Hafash,,,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11605 Htp EAH7East Africa0-50,6256.0,EBC FM 97.1,,,,,False,Teleradiokom,5/6,45000,DVB-S2,,11605 H
+11610 Htp CAH7Central Asia0,,RRTM,,,,https://www.lyngsat.com/providers/uz/RRTM.html,True,RRTM,3/4,20200,DVB-S2,,11610 H
+11610 Htp CAH7Central Asia0,1.0,O'zbekiston,MPEG-4/SD,201.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,2.0,Yoshlar,MPEG-4/SD,202.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,3.0,Toshkent,MPEG-4/SD,203.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,4.0,Sport (Uzbekistan),MPEG-4/SD,204.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,5.0,Madaniyat va ma'rifat,MPEG-4/SD,205.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,6.0,Dunyo bo'ylab,MPEG-4/SD,206.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,7.0,Bolajon,MPEG-4/SD,207.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,8.0,Navo,MPEG-4/SD,208.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,9.0,Mahalla,MPEG-4/SD,209.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,10.0,Kinoteatr,MPEG-4/SD,210.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,11.0,Foreign Languages,MPEG-4/SD,211.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,12.0,O'zbekiston 24,MPEG-4/SD,212.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,19.0,Zor TV,MPEG-4/SD,3213.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,20.0,MY 5,MPEG-4/SD,220.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,21.0,Sevimli TV,MPEG-4/SD,221.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,22.0,FTV Telekanali,MPEG-4/SD,222.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,23.0,Milliy TV,MPEG-4/SD,223.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,24.0,O'zbekiston Tarixi,MPEG-4/SD,224.0,Verimatrix (B),,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,25.0,Lux.TV,MPEG-4/HD,225.0,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,14.0,Mahalla FM 107.8,,,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,15.0,O'zbekiston FM 103.1,,,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,16.0,Radio O'zbekiston 24,,,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H
+11610 Htp CAH7Central Asia0,17.0,Yoshlar FM 104,,,,,False,RRTM,3/4,20200,DVB-S2,Uzb,11610 H

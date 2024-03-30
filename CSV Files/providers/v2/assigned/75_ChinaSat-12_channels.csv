@@ -1,0 +1,54 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,Provider_URL,is_Provider,Provider
+3728 Htp 1AC,DVB-S28PSK24003/4,,(feeds),,,,,,Albert I201126,,False,
+3730 Vtp 1BC,DVB-S28PSK16505/6,,(feeds),,,,,,Bulek Sps180509,,False,
+3763 Htp 2AC,DVB-S28PSK12003/4,,(feeds),,,,,,Albert I170502,,False,
+3770 Htp 2AC,DVB-S2QPSK16003/4,,(feeds),,,,,,Anonymous191219,,False,
+3811 Vtp 3BC,DVB-S28PSK46003/4,,(feeds),,,,,,DX Bozóth200229,,False,
+3817 Vtp 3BC,DVB-S28PSK46003/4,,(feeds),,,,,,N Stanislav220729,,False,
+3828 Vtp 3BC,DVB-S28PSK75005/6,,(feeds),,,,,,Anonymous200218,,False,
+3858 HC,DVB-S28PSK69203/4,,(feeds),,,,,,Bulek Sps181130,,False,
+3983 VC,DVB-S36003/4,,(feeds),,,,,,Anonymous191008,,False,
+3995 VC,DVB-S7200,,(feeds),,,,,,A Zapara210219,,False,
+4005 HC,DVB-S2QPSK37509/10,,(feeds),,,,,,DX Bozóth210207,,False,
+4025 Htp 8AC,DVB-S12003/4,,(feeds),,,,,,T Kameda170407,,False,
+4028 Htp 8AC,DVB-S12003/4,,(feeds),,,,,,DX Bozóth171123,,False,
+4040 Htp 8AC,DVB-S28PSK20803/4,,(feeds),,,,,,DX Bozóth200515,,False,
+4043 Htp 8AC,DVB-S15005/6,,(feeds),,,,,,DX Bozóth171123,,False,
+4067 Htp 8AC,DVB-S2QPSK15005/6,,(feeds),,,,,,DX Bozóth150811,,False,
+4094 Htp 8AC,DVB-S28PSK10803/4,,(feeds),,,,,,DX Bozóth200120,,False,
+4096 Htp 8AC,DVB-S28PSK16003/4,,(feeds),,,,,,Anonymous191008,,False,
+4098 Htp 8AC,DVB-S28PSK16005/6,,(feeds),,,,,,DX Bozóth171123,,False,
+3774 Htp 2AC,DVB-S2QPSK18003/4,1.0,Yunnan Lancang-Mekong International Channel,,1-1MPEG-4/SD,256.0,4.0 258,,T Kameda200918,,False,
+3836 Vtp 3BC,DVB-S28PSK23005/6,,(BBTV Channel 7 feeds),,,,,,Anonymous200209,,False,
+4020 Vtp 7BC,DVB-S28PSK72003/4,,,,,,7.9,,N Stanislav231024,,False,
+4020 Vtp 7BC,DVB-S28PSK72003/4,1.0,Polimer,,MPEG-4/SD,1001.0,2001 Tam,,,,False,
+4020 Vtp 7BC,DVB-S28PSK72003/4,2.0,Polimer News,,MPEG-4/SD,1002.0,2002 Tam,,,,False,
+4020 Vtp 7BC,DVB-S28PSK72003/4,3.0,Jothi TV,,MPEG-4/SD,1003.0,2003 Tam,,,,False,
+4020 Vtp 7BC,DVB-S28PSK72003/4,4.0,Polimer Samachar,,MPEG-4/SD,1004.0,2004 Hin,,,,False,
+4027 Vtp 7BC,DVB-S2QPSK37503/4,,(NBT TV feeds),,,,,,Albert I200213,,False,
+4032 Vtp 7BC,DVB-S37503/4,,(NBT TV feeds),,,,,,Anonymous200305,,False,
+4035 Htp 8AC,DVB-S2QPSK10733/4,,Voice of Strait,,65535-1,,4.0,,Onacila210319,https://www.lyngsat.com/providers/cn/Voice-of-Strait.html,True,Voice of Strait
+4035 Htp 8AC,DVB-S2QPSK10733/4,1.0,VOS Auto and Life FM 90.6,,,,30. Chi,,,,False,Voice of Strait
+4035 Htp 8AC,DVB-S2QPSK10733/4,1.0,CHBC 107.1 FM,,,,302 Chi,,,,False,Voice of Strait
+4035 Htp 8AC,DVB-S2QPSK10733/4,1.0,VOS News AM 666,,,,303 Chi,,,,False,Voice of Strait
+4035 Htp 8AC,DVB-S2QPSK10733/4,1.0,VOS Minnan Dialect AM 783,,,,304 Chi,,,,False,Voice of Strait
+4035 Htp 8AC,DVB-S2QPSK10733/4,1.0,VOS Sunshine FM 99.6,,,,305 Chi,,,,False,Voice of Strait
+4140 VC,DVB-S28PSK288003/4,,Raj TV Network,,1-1,,7.9,,C Sutton240130,https://www.lyngsat.com/providers/in/Raj-TV-Network.html,True,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,1.0,Raj TV,,MPEG-4/SD,601.0,701 Tam,Irdeto,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,2.0,Raj Digital Plus,,MPEG-4/SD,602.0,702 Tam,Irdeto,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,3.0,Raj News,,MPEG-4/SD,603.0,703 Tam,Irdeto,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,4.0,Raj Musix Tamil,,MPEG-4/SD,604.0,704 Tam,Irdeto,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,5.0,Vissa,,MPEG-4/SD,605.0,705 Tel,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,6.0,Raj Musix Kannada,,MPEG-4/SD,606.0,706 Kan,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,7.0,Raj News Kannada,,MPEG-4/SD,607.0,707 Kan,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,8.0,Raj Musix Telugu,,MPEG-4/SD,608.0,708 Tel,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,9.0,Raj News Telugu,,MPEG-4/SD,609.0,709 Tel,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,10.0,Raj News Malayalam,,MPEG-4/SD,610.0,710 Mal,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,11.0,Raj Musix Malayalam,,MPEG-4/SD,611.0,711 Mal,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,12.0,Raj Pariwar,,MPEG-4/SD,612.0,712 Hin,,,,False,Raj TV Network
+4140 VC,DVB-S28PSK288003/4,13.0,Raj Nagaichuvai,,MPEG-4/SD,613.0,713 Tam,,,,False,Raj TV Network
+4180 VC,DVB-S28PSK41673/5,1.0,Korean Central TV,,65281-1MPEG-4/HD,101.0,5.5 102 Kor,,T Kameda201010,,False,Raj TV Network
+4180 VC,DVB-S28PSK41673/5,2.0,Voice of Korea,,,,202,,,,False,Raj TV Network
+4180 VC,DVB-S28PSK41673/5,3.0,KCBS,,,,302 Kor,,,,False,Raj TV Network
+11148 VChina,DVB-S2QPSK108311/4,1.0,Zhejiang Satellite TV,,?-?MPEG-4/SD,69.0,-2.3  68 Chi,,T Kameda210205,,False,Raj TV Network
+11191 VChina,DVB-S2QPSK83323/4,1.0,CCTV 13,,?-?MPEG-4/SD,256.0,4.0 257 Chi,,T Kameda210205,,False,Raj TV Network

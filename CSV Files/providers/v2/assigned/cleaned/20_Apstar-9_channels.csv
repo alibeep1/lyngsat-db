@@ -1,0 +1,11 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3816 HSEA,,(Solar feeds),,,,,False,,3/4,3330,DVB-S2,,3816 HS
+4047 VAP,,(feeds),,,,,False,,2/5,4800,DVB-S2,,4047 VA
+4053 VAP,,(feeds),,,,,False,,2/5,4800,DVB-S2,,4053 VA
+4059 VAP,,(feeds),,,,,False,,2/5,4800,DVB-S2,,4059 VA
+11041 H,1.0,CCTV 13,?-?MPEG-4/HD,33.0,,,False,,3/4,7200,DVB-S2,Chi,11041 H
+11054 H,,(CCTV feeds),,,,,False,,3/5,15000,DVB-S2,,11054 H
+11118 H,1.0,CCTV 5,?-?MPEG-4/HD,273.0,,,False,,8/9,28000,DVB-S2,Chi,11118 H
+11536 H,,@ CIBN,,,,,False,,4/5,32500,DVB-S2,,11536 H
+11651 H,,(CCTV feeds),,,,,False,,3/4,15000,DVB-S2,,11651 H
+11672 H,1.0,CCTV 1,?-?MPEG-4/HD,33.0,,,False,,3/5,7200,DVB-S2,Chi,11672 H

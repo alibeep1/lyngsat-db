@@ -1,0 +1,17 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3915 VC,,(feeds),,,,,False,,3/4,4800,DVB-S2,,3915 VC
+12276 Htp 2Ku,,(TV Asahi feeds),,,,,False,,3/4,7082,DVB-S2,,12276 H
+12293 Htp 2Ku,,(TV Asahi feeds),,,,,False,,3/4,7082,DVB-S2,,12293 H
+12302 Htp 2Ku,,(TV Asahi feeds),,,,,False,,3/4,7082,DVB-S2,,12302 H
+12310 Htp 2Ku,,(feeds),,,,,False,,3/4,3516,DVB-S2,,12310 H
+12356 Htp 4Ku,,(TV Asahi feeds),,,,,False,,3/4,7082,DVB-S2,,12356 H
+12364 Htp 4Ku,200.0,TV Asahi,?-?HEVC/HD,513.0,,,False,,2/3,8058,DVB-S2,Jpn,12364 H
+12367 Vtp 3Ku,2.0,Sound of Hope,,,,,False,,PSK,2,DVB-S2,Chi,12367 V
+12367 Vtp 3Ku,2200.0,NTD TV China,?-?MPEG-4/SD,2202.0,,,False,,PSK,2,DVB-S2,Chi,12367 V
+12373 Htp 4Ku,,(TV Asahi feeds),,,,,False,,3/4,7082,DVB-S2,,12373 H
+12403 Htp 6Ku,1.0,Cable 4K,?-?HEVC/UHD,768.0,,,False,,3/4,12222,DVB-S2,Jpn,12403 H
+12436 Htp 6Ku,2.0,[JCSAT 2B test card],?-?MPEG-2/SD,32.0,,,False,,3/4,3096,DVB-S3,,12436 H
+12496 Htp 8Ku,10.0,Shinnyo-en (09-17),?-?MPEG-4/HD,258.0,,,False,,3/4,4821,DVB-S4,Jpn,12496 H
+12505 Htp 8Ku,42.0,Worldmate,1-1MPEG-4/HD,200.0,BISS,,False,,2/3,2856,DVB-S2,,12505 H
+12696 Htp 16Ku,,AOL Internet,,,,,False,,1/2,10000,DVB-S2,,12696 H
+12729 Vtp 15Ku,2.0,[JCSAT 2B test card],?-?MPEG-2/SD,32.0,,,False,,3/4,3096,DVB-S3,,12729 V

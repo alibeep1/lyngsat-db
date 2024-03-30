@@ -1,0 +1,296 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10721 Htp A1Europe B52,,IVG,100-20000,,,https://www.lyngsat.com/providers/tr/IVG.html,True,IVG,3/4,22000,DVB-S2,,10721 H
+10721 Htp A1Europe B52,1.0,BBC Persian,MPEG-2/SD,101.0,,,False,IVG,3/4,22000,DVB-S2,Per,10721 H
+10721 Htp A1Europe B52,2.0,Simay-Azadi Iran National TV,MPEG-2/SD,201.0,,,False,IVG,3/4,22000,DVB-S2,Per,10721 H
+12633 Htp F3Europe A47-48,1.0,Simay-Azadi Iran National TV,0-0MPEG-4/HD,512.0,BISS 1,,False,IVG,3/4,3750,DVB-S2,Per,12633 H
+10721 Htp A1Europe B52,9002.0,Channel One TV,MPEG-4/HD,921.0,,,False,IVG,3/4,22000,DVB-S2,Per,10721 H
+10721 Htp A1Europe B52,9008.0,Channel One TV,MPEG-2/SD,981.0,,,False,IVG,3/4,22000,DVB-S2,Per,10721 H
+10721 Htp A1Europe B52,9006.0,Pars TV,MPEG-4/SD,961.0,,,False,IVG,3/4,22000,DVB-S2,Per,10721 H
+10721 Htp K1Africa0,,Eutelsat,126-10100,,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10721 H
+10721 Htp K1Africa0,,Eutelsat,126-10100,,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10721 H
+10721 Htp K1Africa0,,Eutelsat,126-10100,,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10721 H
+10887 Htp K9Africa0,,Eutelsat,126-10900,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,,Eutelsat,126-10900,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,,Eutelsat,126-10900,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,10887 H
+12604 Htp H3Africa0,,Eutelsat,126-60300,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,,Eutelsat,126-60300,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,,Eutelsat,126-60300,,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat,2/3,30000,DVB-S2,,12604 H
+10721 Htp K1Africa0,2652.0,ENTV,MPEG-4/SD,513.0,,,False,Eutelsat,2/3,30000,DVB-S2,Ara,10721 H
+10762 Htp K3Africa0,,Chinese mux,126-10300,,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,,10762 H
+10762 Htp K3Africa0,2701.0,CCTV 1,HEVC/HD,7011.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2702.0,CCTV 2,HEVC/HD,7021.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2703.0,CCTV 3,HEVC/HD,7031.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2704.0,CCTV 4 Asia,HEVC/HD,7041.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2705.0,CCTV 5,HEVC/HD,7051.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2707.0,CCTV 5+,HEVC/HD,7071.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2708.0,CCTV 8,HEVC/HD,7081.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2709.0,CCTV 7,HEVC/HD,7091.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2710.0,CCTV 13,HEVC/HD,7101.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2711.0,Beijing TV Kaku,HEVC/HD,7111.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2713.0,Beijing TV,HEVC/HD,7131.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2714.0,Dragon TV International,HEVC/HD,7141.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2715.0,Hunan TV International,HEVC/HD,7151.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2716.0,Jiangsu Satellite TV,HEVC/HD,7161.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2717.0,Zhejiang Satellite TV,HEVC/HD,7171.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2718.0,Anhui Satellite TV,HEVC/HD,7181.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2719.0,Liaoning TV,HEVC/HD,7191.0,VisionCrypt,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2720.0,Phoenix Chinese Channel,HEVC/HD,7201.0,,,False,Eutelsat,2/3,30000,DVB-S2,Chi,10762 H
+10762 Htp K3Africa0,2799.0,[test card],MPEG-2/SD,7991.0,,,False,Eutelsat,2/3,30000,DVB-S2,,10762 H
+10887 Htp K9Africa0,2118.0,[test card],MPEG-4/HD,1181.0,,,False,Eutelsat,2/3,30000,DVB-S2,,10887 H
+10845 Htp K7Africa0,,Premium Free,126-10700,,,https://www.lyngsat.com/providers/za/Premium-Free.html,True,Premium Free,2/3,30000,DVB-S2,,10845 H
+10845 Htp K7Africa0,2801.0,True African,MPEG-4/SD,101.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2802.0,Afriwood Series,MPEG-4/SD,111.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2803.0,Pulse,MPEG-4/SD,121.0,,,False,Premium Free,2/3,30000,DVB-S2,,10845 H
+10845 Htp K7Africa0,2804.0,Kingdom Citizens TV,MPEG-4/SD,131.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2805.0,Life TV,MPEG-4/SD,141.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2806.0,Fresh,MPEG-4/SD,151.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2807.0,LOL Africa,MPEG-4/SD,161.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2808.0,Kiddiwinks,MPEG-4/SD,171.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2809.0,Sports Connect,MPEG-4/SD,181.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2810.0,Cinema Yoruba,MPEG-4/SD,191.0,,,False,Premium Free,2/3,30000,DVB-S2,Yor,10845 H
+10845 Htp K7Africa0,2811.0,Romanza+ Africa,MPEG-4/SD,201.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2812.0,Limelight,MPEG-4/SD,211.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2813.0,Afriwood Blockbuster,MPEG-4/SD,221.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2814.0,Cinema Hausa,MPEG-4/SD,231.0,,,False,Premium Free,2/3,30000,DVB-S2,Hau,10845 H
+10845 Htp K7Africa0,2815.0,Bongo TV (South Africa),MPEG-4/SD,241.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2816.0,Diva,MPEG-4/SD,251.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2817.0,Mindset Liberty Learn,MPEG-2/SD,261.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2818.0,RPM,MPEG-4/SD,271.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10845 Htp K7Africa0,2819.0,Crime & Evidence,MPEG-4/SD,281.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10845 H
+10887 Htp K9Africa0,2160.0,Nyota TV (Kenya),MPEG-4/SD,1601.0,,,False,Premium Free,2/3,30000,DVB-S2,Swa,10887 H
+10887 Htp K9Africa0,2166.0,GEB,MPEG-4/SD,1661.0,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10887 Htp K9Africa0,2150.0,Hope FM,,,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10887 Htp K9Africa0,2151.0,Radio Miraya,,,,,False,Premium Free,2/3,30000,DVB-S2,Ara,10887 H
+10887 Htp K9Africa0,2152.0,Biblia Husema Broadcasting,,,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10887 Htp K9Africa0,2153.0,Capital FM (Kenya),,,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10887 Htp K9Africa0,2154.0,Nam Lolwe FM,,,,,False,Premium Free,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,2156.0,Radio Ashe,,,,,False,Premium Free,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,2158.0,ATG Radio,,,,,False,Premium Free,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,2159.0,Kigooco FM,,,,,False,Premium Free,2/3,30000,DVB-S2,,10887 H
+10887 Htp K9Africa0,2163.0,One Love Radio FM,,,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10887 Htp K9Africa0,2164.0,Radio Christian Voice,,,,,False,Premium Free,2/3,30000,DVB-S2,Eng,10887 H
+10958 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4500,DVB-S2,,10958 H
+10961 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,9600,DVB-S2,,10961 V
+10964 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10964 H
+10970 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10970 V
+10971 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4200,DVB-S2,,10971 H
+10976 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10976 H
+10976 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10976 V
+10981 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10981 H
+10982 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10982 V
+10988 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10988 V
+10989 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4200,DVB-S2,,10989 H
+10994 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10994 H
+10994 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,10994 V
+11003 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11003 V
+11005 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,8000,DVB-S2,,11005 H
+11012 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11012 H
+11012 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11012 V
+11018 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11018 H
+11018 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11018 V
+11024 Htp B1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11024 H
+11024 Vtp B2Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11024 V
+11042 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11042 V
+11048 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11048 V
+11057 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11057 V
+11060 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11060 H
+11065 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11065 H
+11065 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11065 V
+11070 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11070 H
+11074 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,3000,DVB-S2,,11074 V
+11076 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11076 H
+11078 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11078 V
+11084 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11084 H
+11090 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11090 H
+11090 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11090 V
+11096 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11096 H
+11096 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11096 V
+11102 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11102 H
+11102 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11102 V
+11108 Htp B3Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11108 H
+11108 Vtp B4Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,11108 V
+11126 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,4821,DVB-S2,,11126 V
+11129 Htp B5Europe A,,(feeds),,,,,False,Premium Free,5/6,3750,DVB-S2,,11129 H
+11132 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,4821,DVB-S2,,11132 V
+11136 Htp B5Europe A,,(feeds),,,,,False,Premium Free,5/6,7500,DVB-S2,,11136 H
+11137 Htp G3Africa,,(feeds),,,,,False,Premium Free,111,6,DVB-S6,,11137 H
+11140 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,9600,DVB-S2,,11140 V
+11143 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,3750,DVB-S2,,11143 H
+11152 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,3600,DVB-S2,,11152 V
+11153 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,11153 H
+11160 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,3200,DVB-S2,,11160 H
+11165 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,9700,DVB-S2,,11165 V
+11169 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,2200,DVB-S2,,11169 H
+11172 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,8400,DVB-S2,,11172 V
+11174 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,4900,DVB-S2,,11174 H
+11180 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,4821,DVB-S2,,11180 V
+11181 Htp B5Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,11181 H
+11184 Htp G3Africa,,(feeds),,,,,False,Premium Free,714,5,DVB-S5,,11184 H
+11188 Htp B5Europe A,,(feeds),,,,,False,Premium Free,2/3,3666,DVB-S2,,11188 H
+11189 Vtp B6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,11189 V
+11212 Vtp C2Europe A,,(feeds),,,,,False,Premium Free,3/4,15168,DVB-S2,,11212 V
+11396 Htp N4Africa,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,11396 H
+12510 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,4937,DVB-S2,,12510 H
+12513 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,3/4,3600,DVB-S2,,12513 V
+12518 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12518 H
+12519 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,8/9,2500,DVB-S2,,12519 V
+12522 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,8/9,2500,DVB-S2,,12522 V
+12524 Htp F1Europe A,,(feeds),,,,,False,Premium Free,5/6,2400,DVB-S2,,12524 H
+12525 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,5/6,2500,DVB-S2,,12525 V
+12528 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,8/9,2500,DVB-S2,,12528 V
+12537 Htp F1Europe A,,(feeds),,,,,False,Premium Free,/36,00023,DVB-S2,,12537 H
+12537 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,5/6,3214,DVB-S2,,12537 V
+12545 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,5000,DVB-S2,,12545 H
+12554 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,5/6,22400,DVB-S2,,12554 V
+12557 Vtp F2Europe A,,(feeds),,,,,False,Premium Free,5/6,2400,DVB-S2,,12557 V
+12558 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,9700,DVB-S2,,12558 H
+12570 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,3600,DVB-S2,,12570 H
+12575 Htp F1Europe A,,(feeds),,,,,False,Premium Free,3/4,3600,DVB-S2,,12575 H
+12590 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,2/3,4800,DVB-S2,,12590 V
+12596 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,2/3,4800,DVB-S2,,12596 V
+12602 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,2/3,4800,DVB-S2,,12602 V
+12638 Htp F3Europe A,,(feeds),,,,,False,Premium Free,3/4,24937,DVB-S2,,12638 H
+12638 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,3/4,4800,DVB-S2,,12638 V
+12645 Htp F3Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12645 H
+12646 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,5/6,3214,DVB-S2,,12646 V
+12655 Vtp F4Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12655 V
+12660 Htp F3Europe A,,(feeds),,,,,False,Premium Free,3/4,2500,DVB-S2,,12660 H
+12675 Htp F5Europe A,,(feeds),,,,,False,Premium Free,3/4,4822,DVB-S2,,12675 H
+12677 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12677 V
+12681 Htp F5Europe A,,(feeds),,,,,False,Premium Free,3/4,4822,DVB-S2,,12681 H
+12685 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12685 V
+12687 Htp F5Europe A,,(feeds),,,,,False,Premium Free,3/4,4822,DVB-S2,,12687 H
+12694 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12694 V
+12703 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12703 V
+12704 Htp F5Europe A,,(feeds),,,,,False,Premium Free,3/4,4400,DVB-S2,,12704 H
+12709 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,2/3,3166,DVB-S2,,12709 V
+12718 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,4936,DVB-S2,,12718 V
+12726 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12726 V
+12736 Vtp F6Europe A,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,12736 V
+21547 Htp J2Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21547 H
+21662 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21662 H
+21672 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21672 H
+21681 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21681 H
+21689 Htp M1Europe C,,(feeds),,,,,False,Premium Free,5/6,9704,DVB-S2,,21689 H
+21701 Htp M1Europe C,,(feeds),,,,,False,Premium Free,5/6,9704,DVB-S2,,21701 H
+21709 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21709 H
+21717 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21717 H
+21727 Htp M1Europe C,,(feeds),,,,,False,Premium Free,2/3,4800,DVB-S2,,21727 H
+21746 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,4800,DVB-S2,,21746 H
+21753 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21753 H
+21762 Htp M1Europe C,,(feeds),,,,,False,Premium Free,3/4,7200,DVB-S2,,21762 H
+11043 Htp B3Europe A,,(EBU feeds),,,,,False,Premium Free,3/4,24937,DVB-S2,,11043 H
+11049 Htp B3Europe A,,(EBU feeds),,,,,False,Premium Free,3/4,24937,DVB-S2,,11049 H
+11055 Htp B3Europe A,,(EBU feeds),,,,,False,Premium Free,3/4,24937,DVB-S2,,11055 H
+11125 Htp B5Europe A47-48,,,,,,,False,Premium Free,,,,,11125 H
+11262 Htp C3Europe B52,,,126-30300,,,,False,Premium Free,2/3,27500,DVB-S2,,11262 H
+11304 Htp C5Europe B52,,,126-30300,,,,False,Premium Free,2/3,29700,DVB-S2,,11304 H
+11324 Vtp C6Europe B52,,,126-30600,,,,False,Premium Free,2/3,29700,DVB-S2,,11324 V
+11345 Htp C7Europe B52,,,126-40700,,,,False,Premium Free,5/6,27500,DVB-S2,,11345 H
+11387 Htp C9Europe B52,,,126-40900,,,,False,Premium Free,5/6,27500,DVB-S2,,11387 H
+11152 Htp G3Africa0,,Vivacom,1-81,,,https://www.lyngsat.com/providers/bg/Vivacom.html,True,Vivacom,2/3,4165,DVB-S2,,11152 H
+11152 Htp G3Africa0,1.0,WGB Lucky Balls,MPEG-4/SD,581.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,2.0,WGB Dog Racing,MPEG-4/SD,481.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,4.0,WGB LaLiga,MPEG-4/SD,781.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,5.0,Elbet Lucky Greek,MPEG-4/SD,881.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,6.0,WGB Champions League,MPEG-4/SD,981.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,7.0,WGB Global Football,MPEG-4/SD,381.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,8.0,Elbet Video Roulette,MPEG-4/SD,281.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11152 Htp G3Africa0,11.0,Elbet Lucky Color,MPEG-4/SD,81.0,,,False,Vivacom,2/3,4165,DVB-S2,Eng,11152 H
+11262 Htp C3Europe B52,302.0,Erfan Halgheh TV,MPEG-2/SD,3021.0,,,False,Vivacom,2/3,27500,DVB-S2,,11262 H
+11262 Htp C3Europe B52,311.0,Sun Music TV,MPEG-4/HD,3111.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,312.0,PMC,MPEG-4/HD,3121.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,313.0,Tapesh 2,MPEG-4/HD,3131.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,314.0,Oxir TV,MPEG-4/HD,3141.0,,,False,Vivacom,2/3,27500,DVB-S2,,11262 H
+11262 Htp C3Europe B52,315.0,YourTime TV,MPEG-4/HD,3151.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,316.0,Classic TV,MPEG-4/HD,3161.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,317.0,Persiana Cinema,MPEG-4/HD,3171.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,318.0,Persiana Junior,MPEG-4/HD,3181.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,319.0,Persiana Korea,MPEG-4/HD,3191.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,320.0,4 Music,MPEG-4/HD,3201.0,,,False,Vivacom,2/3,27500,DVB-S2,,11262 H
+11262 Htp C3Europe B52,321.0,Toronto Farsi Network promo,MPEG-4/HD,3211.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11262 Htp C3Europe B52,366.0,4U TV,MPEG-2/SD,3661.0,,,False,Vivacom,2/3,27500,DVB-S2,Per,11262 H
+11387 Htp C9Europe B52,1905.0,4U TV,MPEG-4/HD,510.0,,,False,Vivacom,5/6,27500,DVB-S2,Per,11387 H
+11304 Htp C5Europe B52,510.0,AVA Family,MPEG-4/HD,5101.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,512.0,DXB One,MPEG-4/HD,5121.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,514.0,Radio Javan TV,MPEG-4/HD,5141.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,515.0,Persiana HD,MPEG-4/HD,5151.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,517.0,Today TV,MPEG-4/HD,5171.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,518.0,PBC Tapesh,MPEG-4/HD,5181.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,519.0,FX 1,MPEG-4/HD,5191.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11304 Htp C5Europe B52,520.0,Eenak Farsi,MPEG-4/HD,5201.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11304 H
+11324 Vtp C6Europe B52,2063.0,TM TV (USA),MPEG-4/HD,631.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11324 V
+11324 Vtp C6Europe B52,2065.0,Avang TV,MPEG-4/HD,651.0,,,False,Vivacom,2/3,29700,DVB-S2,Per,11324 V
+11345 Htp C7Europe B52,303.0,Navahang TV,MPEG-2/SD,3031.0,,,False,Vivacom,5/6,27500,DVB-S2,Per,11345 H
+11356 Htp N3Africa0,,Zim Digital,1-3,,,https://www.lyngsat.com/providers/zw/Zim-Digital.html,True,Zim Digital,2/3,35000,DVB-S2,,11356 H
+11356 Htp N3Africa0,101.0,ZBC TV (Zimbabwe),MPEG-4/HD,800.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,102.0,ZBC News,MPEG-4/HD,801.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,103.0,Jive TV,MPEG-4/HD,802.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,106.0,Zimbabwe National TV,MPEG-4/HD,806.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,203.0,KeYona TV,MPEG-4/HD,822.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,204.0,3K TV,MPEG-4/HD,823.0,,,False,Zim Digital,2/3,35000,DVB-S2,,11356 H
+11356 Htp N3Africa0,205.0,Nkululeko Rusununguko TV,MPEG-4/HD,824.0,,,False,Zim Digital,2/3,35000,DVB-S2,,11356 H
+11356 Htp N3Africa0,206.0,ZTN Prime,MPEG-4/HD,256.0,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,107.0,National FM (Zimbabwe),,,,,False,Zim Digital,2/3,35000,DVB-S2,,11356 H
+11356 Htp N3Africa0,108.0,Radio Zimbabwe,,,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,109.0,Classic 263,,,,,False,Zim Digital,2/3,35000,DVB-S2,,11356 H
+11356 Htp N3Africa0,110.0,Power FM (Zimbabwe),,,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,111.0,Star FM (Zimbabwe),,,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11356 Htp N3Africa0,112.0,Zi FM,,,,,False,Zim Digital,2/3,35000,DVB-S2,Eng,11356 H
+11387 Htp C9Europe B52,1901.0,MBC Persia,MPEG-4/HD,110.0,,,False,Zim Digital,5/6,27500,DVB-S2,Per,11387 H
+11387 Htp C9Europe B52,1908.0,Kanal Jadid,MPEG-4/HD,810.0,,,False,Zim Digital,5/6,27500,DVB-S2,Per,11387 H
+11387 Htp C9Europe B52,1910.0,Iran TV Network,MPEG-4/HD,1010.0,,,False,Zim Digital,5/6,27500,DVB-S2,Per,11387 H
+11387 Htp C9Europe B52,1911.0,News of the World,MPEG-4/HD,1110.0,,,False,Zim Digital,5/6,27500,DVB-S2,Per,11387 H
+11387 Htp C9Europe B52,1912.0,ICC+,MPEG-4/HD,1210.0,,,False,Zim Digital,5/6,27500,DVB-S2,Per,11387 H
+11444 Htp N4Africa0,,MBC,65535-1,,CryptoworksIrdeto,https://www.lyngsat.com/providers/mu/MBC.html,True,MBC,3/4,3210,DVB-S3,,11444 H
+11444 Htp N4Africa0,1.0,MBC 1,MPEG-2/SD,308.0,CryptoworksIrdeto,,False,MBC,3/4,3210,DVB-S3,Fre,11444 H
+11444 Htp N4Africa0,3.0,MBC 2 (Mauritius),MPEG-2/SD,309.0,CryptoworksIrdeto,,False,MBC,3/4,3210,DVB-S3,,11444 H
+11444 Htp N4Africa0,3.0,Radio Maurice,,,CryptoworksIrdeto,,False,MBC,3/4,3210,DVB-S3,,11444 H
+11444 Htp N4Africa0,3.0,Kool FM,,,CryptoworksIrdeto,,False,MBC,3/4,3210,DVB-S3,,11444 H
+12530 Htp F1Europe A47-48,257.0,Or Hachaim (20-23),8192-4096MPEG-4/HD,257.0,,,False,MBC,1/2,1480,DVB-S2,Eng,12530 H
+12604 Htp H3Africa0,2.0,Peace TV English,MPEG-4/SD,61.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,3.0,Quran TV (Saudi Arabia),MPEG-4/SD,71.0,,,False,MBC,2/3,30000,DVB-S2,Ara,12604 H
+12604 Htp H3Africa0,4.0,Sunna TV (Saudi Arabia),MPEG-4/SD,81.0,,,False,MBC,2/3,30000,DVB-S2,Ara,12604 H
+12604 Htp H3Africa0,9.0,Emmanuel TV,MPEG-4/SD,131.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,10.0,Africa TV 2,MPEG-4/SD,4572.0,,,False,MBC,2/3,30000,DVB-S2,Swa,12604 H
+12604 Htp H3Africa0,11.0,Eagle TV (Ghana),MPEG-4/SD,151.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,154.0,IBN TV Africa,MPEG-4/SD,1541.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,187.0,JW Broadcasting,MPEG-4/SD,1871.0,,,False,MBC,2/3,30000,DVB-S2,Eng Fre Por Swa Nya Zul Bem Amh Ibo Kin Rum Lin Mlg Sna Twi,12604 H
+12604 Htp H3Africa0,195.0,JW Broadcasting,MPEG-4/SD,1951.0,,,False,MBC,2/3,30000,DVB-S2,Nya Efi Ewe Gaa Lub Kon Orm Sot Swa Lua Tso Umb Xho Yor,12604 H
+12604 Htp H3Africa0,196.0,Haleluya TV,MPEG-4/HD,1961.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,237.0,Bloomberg TV Africa,MPEG-2/SD,2372.0,NagravisionViaccess,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,375.0,Universal TV (UK),MPEG-2/SD,3752.0,NagravisionViaccess,,False,MBC,2/3,30000,DVB-S2,Som,12604 H
+12604 Htp H3Africa0,6101.0,Revival TV (USA),MPEG-2/SD,1011.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6102.0,ORTC TV,MPEG-4/SD,1021.0,,,False,MBC,2/3,30000,DVB-S2,Fre,12604 H
+12604 Htp H3Africa0,6105.0,Efatha TV,MPEG-4/SD,1051.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6108.0,2M Monde,MPEG-4/SD,1081.0,,,False,MBC,2/3,30000,DVB-S2,Ara,12604 H
+12604 Htp H3Africa0,6125.0,Joy Gospel TV,MPEG-4/SD,1251.0,,,False,MBC,2/3,30000,DVB-S2,Swa,12604 H
+12604 Htp H3Africa0,6126.0,Jehova Jire TV,MPEG-4/SD,1261.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6127.0,Top Plus,MPEG-4/SD,1271.0,,,False,MBC,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,6130.0,NTR TV,MPEG-4/SD,1301.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6132.0,Mzee Wa Upako TV,MPEG-4/SD,1320.0,,,False,MBC,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,6136.0,Urejesho TV,MPEG-4/SD,1361.0,,,False,MBC,2/3,30000,DVB-S2,Swa,12604 H
+12604 Htp H3Africa0,6138.0,Rabbi 1 TV,MPEG-4/SD,1381.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6139.0,Holiness TV,MPEG-4/SD,1391.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6141.0,Thunder TV,MPEG-4/SD,1411.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6142.0,Abood TV,MPEG-4/SD,1421.0,,,False,MBC,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,6143.0,JN Power TV,MPEG-4/SD,1431.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6144.0,ROC TV,MPEG-4/SD,1441.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6145.0,Habari Maalum TV,MPEG-4/HD,1451.0,,,False,MBC,2/3,30000,DVB-S2,Swa,12604 H
+12604 Htp H3Africa0,6146.0,Christ Mandate TV,MPEG-4/SD,1461.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6147.0,World Evangelism TV,MPEG-4/SD,1471.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,6148.0,Robert TV,MPEG-4/SD,1481.0,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,155.0,Radio Maarifa,,,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12604 Htp H3Africa0,156.0,Raga FM,,,,,False,MBC,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,6103.0,Radio Vaovao Mahasoa,,,,,False,MBC,2/3,30000,DVB-S2,,12604 H
+12604 Htp H3Africa0,6135.0,Radio 2M,,,BISS,,False,MBC,2/3,30000,DVB-S2,Ara,12604 H
+12604 Htp H3Africa0,6149.0,Radio Tumaini,,,,,False,MBC,2/3,30000,DVB-S2,Eng,12604 H
+12614 Vtp F4Europe A,,(APTN feeds),,,,,False,MBC,5/6,4600,DVB-S2,,12614 V
+12620 Vtp F4Europe A,,(APTN feeds),,,,,False,MBC,5/6,4600,DVB-S2,,12620 V
+12626 Vtp F4Europe A,,(APTN feeds),,,,,False,MBC,5/6,4600,DVB-S2,,12626 V
+12632 Vtp F4Europe A,,(APTN feeds),,,,,False,MBC,5/6,4600,DVB-S2,,12632 V
+12657 Htp F3Europe A47-48,1.0,Alforat TV,65535-1HEVC/HD,33.0,,,False,MBC,3/4,2475,DVB-S2,Ara,12657 H
+21595 Htp J2Europe C,101.0,URHC TV,1-1MPEG-4/SD,33.0,,,False,MBC,3/4,1100,DVB-S2,Fre,21595 H
+21620 Htp J2Europe C,1.0,2S TV,1-1MPEG-4/HD,256.0,,,False,MBC,2/3,2200,DVB-S2,Fre,21620 H
+21638 Htp J2Europe C,1.0,Bantamba TV,1-1MPEG-4/SD,906.0,,,False,MBC,2/3,1100,DVB-S2,Eng,21638 H
+21640 Htp J2Europe C,312.0,QTV (Gambia),65535-1MPEG-4/SD,312.0,,,False,MBC,2/3,1100,DVB-S2,Eng,21640 H

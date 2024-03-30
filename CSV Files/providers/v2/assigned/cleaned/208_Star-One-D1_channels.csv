@@ -1,0 +1,57 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3890 Vtp 5BNCBrazil C0,1.0,TV Tapajós,?-?MPEG-2/SD,256.0,,,False,,5/6,4000,DVB-S4,Por,3890 V
+3890 Vtp 5BNCBrazil C0,2.0,94 FM (Santarém),,,,,False,,5/6,4000,DVB-S4,Por,3890 V
+3908 Htp 6ANCBrazil C0,,TV Mirante,,,,https://www.lyngsat.com/providers/br/TV-Mirante.html,True,TV Mirante,3/4,8333,DVB-S2,,3908 H
+3908 Htp 6ANCBrazil C0,,TV Mirante Imperatriz,MPEG-4/1seg,101.0,,,False,TV Mirante,3/4,8333,DVB-S2,Por,3908 H
+3908 Htp 6ANCBrazil C0,,TV Mirante Imperatriz,MPEG-4/HD,1001.0,,,False,TV Mirante,3/4,8333,DVB-S2,Por,3908 H
+3908 Htp 6ANCBrazil C0,,TV Educação MA,MPEG-4/HD,265.0,,,False,TV Mirante,3/4,8333,DVB-S2,Por,3908 H
+3908 Htp 6ANCBrazil C0,,TV Mirante Cocais,MPEG-4/HD,273.0,,,False,TV Mirante,3/4,8333,DVB-S2,Por,3908 H
+3908 Htp 6ANCBrazil C0,,Mirante FM,,,,,False,TV Mirante,3/4,8333,DVB-S2,Por,3908 H
+3918 Htp 6ANCBrazil C0,,,,,,,False,TV Mirante,3/4,8232,DVB-S2,,3918 H
+3918 Htp 6ANCBrazil C0,,Rede Clube,MPEG-4/1seg,101.0,,,False,TV Mirante,3/4,8232,DVB-S2,Por,3918 H
+3918 Htp 6ANCBrazil C0,,Rede Clube,MPEG-4/HD,273.0,,,False,TV Mirante,3/4,8232,DVB-S2,Por,3918 H
+3918 Htp 6ANCBrazil C0,,Canal Educação Piauí,MPEG-4/HD,301.0,,,False,TV Mirante,3/4,8232,DVB-S2,Por,3918 H
+3918 Htp 6ANCBrazil C0,,TV Alvorada,MPEG-4/HD,1001.0,,,False,TV Mirante,3/4,8232,DVB-S2,Por,3918 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas,,,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665,DVB-S2,,3925 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas 2.2,MPEG-4/HD,2001.0,,,False,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas 2.3,MPEG-4/HD,3001.0,,,False,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3925 Htp 6ANCBrazil C0,,TV Encontro das Águas 2.4,MPEG-4/HD,4001.0,,,False,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3925 Htp 6ANCBrazil C0,,Rádio Encontro das Águas,,,,,False,TV Encontro das Águas,5/6,4665,DVB-S2,Por,3925 H
+3966 Htp 7ANCBrazil C0,,Rede Massa,,,BISS,https://www.lyngsat.com/providers/br/Rede-Massa.html,True,Rede Massa,3/4,14235,DVB-S2,,3966 H
+3966 Htp 7ANCBrazil C0,1.0,TV Iguaçu,MPEG-4/HD,110.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,2.0,TV Iguaçu,MPEG-4/1seg,160.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,3.0,TV Cidade Londrina,MPEG-4/HD,210.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,4.0,TV Cidade Londrina,MPEG-4/1seg,260.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,5.0,TV Tibagi,MPEG-4/HD,310.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,6.0,TV Tibagi,MPEG-4/1seg,360.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,7.0,TV Naipi,MPEG-4/HD,410.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,8.0,TV Naipi,MPEG-4/1seg,460.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,9.0,TV Guará,MPEG-4/HD,510.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,10.0,TV Guará,MPEG-4/1seg,560.0,BISS,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,11.0,Massa FM,,,,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Htp 7ANCBrazil C0,12.0,Massa FM Curitiba,,,,,False,Rede Massa,3/4,14235,DVB-S2,Por,3966 H
+3966 Vtp 7BNCBrazil C,,(feeds),,,,,False,Rede Massa,000,25,DVB-S2,,3966 V
+3974 Vtp 7BNCBrazil C,,(feeds),,,,,False,Rede Massa,570,8,DVB-S2,,3974 V
+3984 Htp 8ANCBrazil C0,,TV Cultura do Pará,,,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000,DVB-S2,,3984 H
+3984 Htp 8ANCBrazil C0,38464.0,TV Cultura do Pará,MPEG-4/HD,1001.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000,DVB-S2,Por,3984 H
+3984 Htp 8ANCBrazil C0,38488.0,TV Cultura do Pará,MPEG-4/1seg,101.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000,DVB-S2,Por,3984 H
+4020 Vtp 8BNCBrazil C0,,Canais Globo,,,PowerVu,,False,TV Cultura do Pará,4/5,34280,DVB-S2,,4020 V
+4100 Vtp 10BNCBrazil C0,,Canais Globo,,,PowerVu,,False,TV Cultura do Pará,4/5,34280,DVB-S2,,4100 V
+4045 Vtp 9BNCBrazil C0,,TV Assembléia Piauí,,,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000,DVB-S2,,4045 V
+4045 Vtp 9BNCBrazil C0,,TV Assembléia Piauí,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000,DVB-S2,Por,4045 V
+4045 Vtp 9BNCBrazil C0,,TV Assembléia Piauí,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000,DVB-S2,Por,4045 V
+4077 Vtp 9BNCBrazil C0,,Rádio Imaculada Conceição,,,,,False,TV Assembléia Piauí,3/4,800,DVB-S8,Por,4077 V
+4140 Vtp 11BNCBrazil C0,,NET,,,BISS,https://www.lyngsat.com/providers/br/NET.html,True,NET,5/6,30000,DVB-S2,,4140 V
+4140 Vtp 11BNCBrazil C0,,NET promo,MPEG-2/SD,1110.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4140 Vtp 11BNCBrazil C0,,NET promo,MPEG-4/HD,1210.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4140 Vtp 11BNCBrazil C0,,L!ke,MPEG-4/HD,1130.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4140 Vtp 11BNCBrazil C0,,Dog TV,MPEG-4/SD,1180.0,BISS,,False,NET,5/6,30000,DVB-S2,Eng,4140 V
+4140 Vtp 11BNCBrazil C0,,Copa do Nordeste 1,MPEG-4/HD,1260.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4140 Vtp 11BNCBrazil C0,,TV Executiva,MPEG-2/SD,1310.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4140 Vtp 11BNCBrazil C0,,Copa do Nordeste 2,MPEG-4/HD,1410.0,BISS,,False,NET,5/6,30000,DVB-S2,Por,4140 V
+4170 Vtp 12BNCBrazil C0,,TV PE,,,,https://www.lyngsat.com/providers/br/TV-PE.html,True,TV PE,2/3,5000,DVB-S2,,4170 V
+4170 Vtp 12BNCBrazil C0,41600.0,TV PE,MPEG-4/HD,273.0,,https://www.lyngsat.com/providers/br/TV-PE.html,True,TV PE,2/3,5000,DVB-S2,Por,4170 V
+4170 Vtp 12BNCBrazil C0,41624.0,TV PE,MPEG-4/1seg,529.0,,https://www.lyngsat.com/providers/br/TV-PE.html,True,TV PE,2/3,5000,DVB-S2,Por,4170 V
+4188 Vtp 12BNCBrazil C0,,TV Sagres,MPEG-4/HD,273.0,,,False,TV PE,3/4,2500,DVB-S2,Por,4188 V

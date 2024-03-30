@@ -1,0 +1,45 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10730 HEurope,,,702-1,,BISS 1,,False,,3/4,30000,DVB-S2,,10730 H
+10730 HEurope,1.0,RIK Sat,MPEG-2/SD,108.0,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,6.0,4E,MPEG-4/SD,1151.0,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,11.0,Eurobet Canale Arancione,HEVC,7201.0,BISS 1,,False,,3/4,30000,DVB-S2,Ita,10730 H
+10730 HEurope,12.0,Eurobet Canale Nero,HEVC,7301.0,BISS 1,,False,,3/4,30000,DVB-S2,Ita,10730 H
+10730 HEurope,13.0,Eurobet mosaic,HEVC,7401.0,BISS 1,,False,,3/4,30000,DVB-S2,Ita,10730 H
+10730 HEurope,14.0,Eurobet Canale Verde,HEVC,7501.0,BISS 1,,False,,3/4,30000,DVB-S2,Ita,10730 H
+10730 HEurope,15.0,Eurobet Canale Azzurro,HEVC,7601.0,BISS 1,,False,,3/4,30000,DVB-S2,Ita,10730 H
+10730 HEurope,101.0,Pame Stoichima Virtual Sports 1,HEVC/HD,2501.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,102.0,Pame Stoichima Virtual Sports 2,HEVC/HD,2502.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,103.0,Opap Powerspin,HEVC/HD,2503.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,104.0,Pame Stoichima Racing,HEVC/HD,2504.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,105.0,Pame Stoichima Lepto Pros Lepto,HEVC/HD,2505.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,106.0,Pame Stoichima Virtual Sports Mpasket tests,HEVC/HD,2506.0,BISS 1,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,353.0,ERT World,MPEG-4/HD,48.0,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,2.0,RIK 1 Proto,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,4.0,RIK 3 Trito,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,5.0,RIK 4 Classic,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,7.0,Ellada FM,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,32.0,I Foni tis Elladas,,,,,False,,3/4,30000,DVB-S2,,10730 H
+10730 HEurope,33.0,Capital Radio Cyprus,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10730 HEurope,36.0,Kanali 6,,,,,False,,3/4,30000,DVB-S2,Gre,10730 H
+10890 HEurope,,Tring,926-1010,,Conax,,False,,5/6,30000,DVB-S2,,10890 H
+10890 HEurope,1610.0,Kanali 7,MPEG-4/SD,1700.0,,,False,,5/6,30000,DVB-S2,Alb,10890 H
+10930 HEurope,,Tring,926-1020,,Conax,,False,,5/6,30000,DVB-S2,,10930 H
+10954 VEurope,,(feeds),,,,,False,,3/4,2400,DVB-S2,,10954 V
+10969 VEurope,,(feeds),,,,,False,,3/4,6666,DVB-S6,,10969 V
+10998 VEurope,,(feeds),,,,,False,,3/4,7200,DVB-S2,,10998 V
+11007 VEurope,,(feeds),,,,,False,,3/4,7200,DVB-S2,,11007 V
+11016 VEurope,,(feeds),,,,,False,,3/4,7200,DVB-S2,,11016 V
+11025 VEurope,,(feeds),,,,,False,,3/4,7200,DVB-S2,,11025 V
+11087 VEurope,,(feeds),,,,,False,,3/4,3750,DVB-S2,,11087 V
+11109 VEurope,,(feeds),,,,,False,,3/4,27200,DVB-S2,,11109 V
+11119 VEurope,,(feeds),,,,,False,,3/4,3333,DVB-S3,,11119 V
+11135 VEurope,,(feeds),,,,,False,,2/3,4500,DVB-S2,,11135 V
+11139 VEurope,7188.0,Equ TV,0-160MPEG-4/SD,512.0,,,False,,5/6,1000,DVB-S2,Ita,11139 V
+11143 VEurope,,(feeds),,,,,False,,5/6,2400,DVB-S2,,11143 V
+11151 VEurope,,(feeds),,,,,False,,3/4,4936,DVB-S2,,11151 V
+11162 VEurope,,(feeds),,,,,False,,3/4,7200,DVB-S2,,11162 V
+11168 VEurope,,(feeds),,,,,False,,3/4,5000,DVB-S2,,11168 V
+11173 VEurope,,(feeds),,,,,False,,3/4,5000,DVB-S2,,11173 V
+11178 VEurope,,(feeds),,,,,False,,3/4,25000,DVB-S2,,11178 V
+11185 VEurope,,(feeds),,,,,False,,3/4,5000,DVB-S2,,11185 V
+11190 VEurope,,(feeds),,,,,False,,3/4,6666,DVB-S2,,11190 V

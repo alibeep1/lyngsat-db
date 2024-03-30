@@ -1,0 +1,23 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11720 Vtp B1Australia0,,VAST,,,Irdeto,,False,,3/5,30000,DVB-S2,,11720 V
+11720 Htp B13Australia0,,Foxtel,,,Irdeto,,False,,3/5,29450,DVB-S2,,11720 H
+11762 Htp B14Australia0,,Foxtel,4096-14,,IrdetoVideoguard,,False,,3/5,29450,DVB-S2,,11762 H
+11804 Vtp B3Australia0,,VAST,?-4,,Irdeto,,False,,3/5,30000,DVB-S2,,11804 V
+11804 Htp B15Australia0,,Foxtel,?-26,,IrdetoVideoguard,,False,,3/5,29450,DVB-S2,,11804 H
+11845 Vtp B4Australia0,,Foxtel,?-35,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,11845 V
+11845 Htp B16Australia0,,Foxtel,?-24,,IrdetoVideoguard,,False,,3/5,29450,DVB-S2,,11845 H
+11886 Vtp B5Australia0,,VAST,?-2,,Irdeto,,False,,3/5,30000,DVB-S2,,11886 V
+11886 Htp B17Australia0,,Foxtel,?-7,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,11886 H
+11928 Vtp B6Australia0,,VAST,4095-7,,Irdeto,,False,,3/5,30000,DVB-S2,,11928 V
+11928 Vtp B6Australia0,11.0,[Tune Channel test card],MPEG-2/SD,801.0,,,False,,3/5,30000,DVB-S2,,11928 V
+11928 Htp B18Australia0,,Foxtel,?-11,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,11928 H
+11970 Htp B19Australia0,,Foxtel,?-18,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,11970 H
+12011 Htp B20Australia0,,Foxtel,?-20,,IrdetoVideoguard,,False,,3/5,29455,DVB-S2,,12011 H
+12052 Vtp B9Australia0,,Foxtel,,,Irdeto,,False,,3/4,27800,DVB-S2,,12052 V
+12052 Htp B21Australia0,,Foxtel,?-13,,IrdetoVideoguard,,False,,3/5,29450,DVB-S2,,12052 H
+12094 Vtp B10Australia0,,Foxtel,?-31,,Videoguard,,False,,3/4,27800,DVB-S2,,12094 V
+12094 Htp B22Australia0,,Foxtel,?-25,,Videoguard,,False,,3/5,29450,DVB-S2,,12094 H
+12136 Vtp B11Australia0,,Foxtel,4096-32,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,12136 V
+12136 Htp B23Australia0,,Foxtel,?-9,,Irdeto,,False,,3/5,30000,DVB-S2,,12136 H
+12177 Htp B24Australia0,,Foxtel,?-10,,IrdetoVideoguard,,False,,3/4,27800,DVB-S2,,12177 H
+12707 Htp NZ16New Zealand,,[Sky New Zealand test card],MPEG-2/SD,1001.0,,,False,,500,22,DVB-S2,,12707 H

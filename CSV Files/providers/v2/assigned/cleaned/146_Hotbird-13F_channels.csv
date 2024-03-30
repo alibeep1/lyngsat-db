@@ -1,0 +1,354 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+10727 Htp 111Wide44-46,,,318-11100,,IrdetoNagravisionViaccess,,False,,3/4,30000,DVB-S2,,10727 H
+12245 Htp 77Wide44-46,,,,,,,False,,,,,,12245 H
+10727 Htp 111Wide44-46,4602,NASA TV UHD,HEVC/UHD,357.0,,,False,,3/4,30000,DVB-S2,Eng Eng,10727 H
+10727 Htp 111Wide44-46,4603,Travelxp 4K Europe,HEVC/UHD,457.0,IrdetoNagravisionViaccess,,False,,3/4,30000,DVB-S2,Eng Cze Ger Hun Fre Rus Pol,10727 H
+10727 Htp 111Wide44-46,4604,Museum TV International,HEVC/UHD,6041.0,IrdetoNagravisionViaccess,,False,,3/4,30000,DVB-S2,Eng Fre Pol Rus,10727 H
+10727 Htp 111Wide44-46,4605,MyZen TV 4K,HEVC/UHD,6501.0,IrdetoNagravisionViaccess,,False,,3/4,30000,DVB-S2,Spa Eng Fre Rus Tur Pol,10727 H
+10853 Htp 117Wide44-46,,Kabelio,318-11700,,Panaccess,,False,,2/3,29900,DVB-S2,,10853 H
+11096 Htp 129Wide44-46,,Kabelio,318-12900,,Panaccess,,False,,3/4,30000,DVB-S2,,11096 H
+11526 Htp 17Wide44-46,,Kabelio,318-1700,,Panaccess,,False,,2/3,29700,DVB-S2,,11526 H
+10873 Vtp 118Wide44-46,,SNRT,176-11800,,,https://www.lyngsat.com/providers/ma/SNRT.html,True,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,1,Al Maghribia,MPEG-4/HD,308.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,2,Laayoune TV,MPEG-4/HD,35.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,3,Al Aoula Inter,MPEG-4/HD,1001.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,5,Al Aoula Inter,MPEG-2/SD,1026.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,4,Athaqafia,MPEG-4/HD,46.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,6,Assadissa,MPEG-4/HD,1537.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,10,Arryadia,MPEG-4/HD,2562.0,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,241,Tamazight,MPEG-4/HD,3841.0,,,False,SNRT,3/4,27500,DVB-S2,Ber,10873 V
+10873 Vtp 118Wide44-46,11,Idaa al Watania,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,12,Sud Radio,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,14,Chaîne Inter,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,15,Idaa al Amazighia,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,16,Idaa Mohammed Assadiss,,,,,False,SNRT,3/4,27500,DVB-S2,Ara,10873 V
+10873 Vtp 118Wide44-46,50,Radio Agadir,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,53,Radio Oujda,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,54,Radio Casablanca,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,60,Radio Houceima,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,70,Radio Tétouan,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,80,Radio Meknes,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,90,Radio Laayoune,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,91,Radio Dakhla,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,177,Radio Tanger,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,178,Radio Fes,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+10873 Vtp 118Wide44-46,179,Radio Marrakech,,,,,False,SNRT,3/4,27500,DVB-S2,,10873 V
+11096 Htp 129Wide44-46,136,Kabelio Infokanal,MPEG-4/HD,1361.0,,,False,SNRT,3/4,30000,DVB-S2,Ger,11096 H
+11258 Htp 3Wide44-46,,Warner Bros. Discovery,318-300,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11258 H
+11258 Htp 3Wide44-46,,Warner Bros. Discovery,318-300,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11258 H
+11258 Htp 3Wide44-46,,Warner Bros. Discovery,318-300,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11258 H
+11258 Htp 3Wide44-46,,Warner Bros. Discovery,318-300,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11258 H
+11334 Htp 7Wide44-46,,Warner Bros. Discovery,318-700,,IrdetoViaccessVideoguardVerimatrix,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11334 H
+11334 Htp 7Wide44-46,,Warner Bros. Discovery,318-700,,IrdetoViaccessVideoguardVerimatrix,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11334 H
+11334 Htp 7Wide44-46,,Warner Bros. Discovery,318-700,,IrdetoViaccessVideoguardVerimatrix,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11334 H
+11334 Htp 7Wide44-46,,Warner Bros. Discovery,318-700,,IrdetoViaccessVideoguardVerimatrix,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11334 H
+11393 Vtp 10Wide44-46,,Warner Bros. Discovery,318-1000,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11393 V
+11393 Vtp 10Wide44-46,,Warner Bros. Discovery,318-1000,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11393 V
+11393 Vtp 10Wide44-46,,Warner Bros. Discovery,318-1000,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11393 V
+11393 Vtp 10Wide44-46,,Warner Bros. Discovery,318-1000,,ConaxIrdetoNagravisionViaccessVideoguard,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11393 V
+11508 Vtp 16Wide44-46,,Warner Bros. Discovery,318-1600,,ConaxIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11508 V
+11508 Vtp 16Wide44-46,,Warner Bros. Discovery,318-1600,,ConaxIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11508 V
+11508 Vtp 16Wide44-46,,Warner Bros. Discovery,318-1600,,ConaxIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11508 V
+11508 Vtp 16Wide44-46,,Warner Bros. Discovery,318-1600,,ConaxIrdetoNagravisionViaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,27500,DVB-S2,,11508 V
+11258 Htp 3Wide44-46,15201,Real Time Italia,MPEG-4/HD,501.0,ConaxNagravisionVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Eng,11258 H
+11258 Htp 3Wide44-46,15202,DMAX Italia,MPEG-4/HD,502.0,ConaxNagravisionVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Eng,11258 H
+11258 Htp 3Wide44-46,15203,Food Network Italia,MPEG-4/HD,503.0,ConaxNagravisionVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Eng,11258 H
+11258 Htp 3Wide44-46,15204,K2,MPEG-4/SD,504.0,ConaxNagravisionVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Eng,11258 H
+11258 Htp 3Wide44-46,15205,Frisbee,MPEG-4/SD,505.0,ConaxNagravisionVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Eng,11258 H
+11258 Htp 3Wide44-46,15206,Animal Planet Polska,MPEG-4/HD,506.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Eng,11258 H
+11258 Htp 3Wide44-46,15207,Eurosport 1 Polska,MPEG-4/HD,507.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Qaa,11258 H
+11258 Htp 3Wide44-46,15208,Eurosport 2 Polska,MPEG-4/HD,508.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Qaa,11258 H
+11258 Htp 3Wide44-46,15209,Investigation Discovery Polska,MPEG-4/HD,509.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Pol Eng,11258 H
+11258 Htp 3Wide44-46,15210,Discovery Science Polska,MPEG-4/HD,510.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Eng,11258 H
+11258 Htp 3Wide44-46,15211,DTX Polska,MPEG-4/HD,511.0,ConaxIrdetoNagravisionViaccess,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Pol Eng,11258 H
+11258 Htp 3Wide44-46,15212,Warner TV Italia,MPEG-4/HD,512.0,ConaxNagravision,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Ita Qaa,11258 H
+11258 Htp 3Wide44-46,15213,CNN International Europe,MPEG-4/HD,513.0,ConaxIrdetoNagravisionViaccessVideoguard,,False,Warner Bros. Discovery,3/4,27500,DVB-S2,Eng Eng,11258 H
+11296 Htp 5Wide44-46,,STN,318-500,,,https://www.lyngsat.com/providers/si/STN.html,True,STN,5/6,27500,DVB-S2,,11296 H
+11296 Htp 5Wide44-46,,STN,318-500,,,https://www.lyngsat.com/providers/si/STN.html,True,STN,5/6,27500,DVB-S2,,11296 H
+12520 Vtp 90Wide44-46,,STN,318-9000,,,https://www.lyngsat.com/providers/si/STN.html,True,STN,3/5,27500,DVB-S2,,12520 V
+12520 Vtp 90Wide44-46,,STN,318-9000,,,https://www.lyngsat.com/providers/si/STN.html,True,STN,3/5,27500,DVB-S2,,12520 V
+11296 Htp 5Wide44-46,2201,Aryen TV,MPEG-4/HD,2001.0,,,False,STN,5/6,27500,DVB-S2,Kur,11296 H
+11296 Htp 5Wide44-46,2202,CBC (Azerbaijan),MPEG-4/SD,2002.0,,,False,STN,5/6,27500,DVB-S2,Aze,11296 H
+11296 Htp 5Wide44-46,2204,Yemen TV,MPEG-2/SD,2004.0,,,False,STN,5/6,27500,DVB-S2,Ara,11296 H
+11296 Htp 5Wide44-46,2214,Medya Haber,MPEG-4/HD,2014.0,,,False,STN,5/6,27500,DVB-S2,Tur,11296 H
+11296 Htp 5Wide44-46,2216,Kentron TV International,MPEG-2/SD,2016.0,,,False,STN,5/6,27500,DVB-S2,Arm,11296 H
+11296 Htp 5Wide44-46,1540,Rûdaw Radio,,,,,False,STN,5/6,27500,DVB-S2,Kur,11296 H
+11296 Htp 5Wide44-46,1550,Radio Sana'a,,,,,False,STN,5/6,27500,DVB-S2,Ara,11296 H
+11296 Htp 5Wide44-46,2226,Radio Novaya Zhizn,,,,,False,STN,5/6,27500,DVB-S2,Rus,11296 H
+11296 Htp 5Wide44-46,2227,Dengê Gel,,,,,False,STN,5/6,27500,DVB-S2,Kur,11296 H
+11296 Htp 5Wide44-46,2228,Radio 2000 (Israel),,,,,False,STN,5/6,27500,DVB-S2,Heb,11296 H
+11334 Htp 7Wide44-46,701*,Eurosport 1,MPEG-4/HD,501.0,IrdetoViaccessVideoguardVerimatrix,,False,STN,3/4,27500,DVB-S2,Qaa Eng Ger Fre Ita Tur Spa Por Dut Pol Rus Rum Gre Hun Cze Srp Bul,11334 H
+11334 Htp 7Wide44-46,702*,Eurosport 2,MPEG-4/HD,502.0,IrdetoViaccessVideoguard,,False,STN,3/4,27500,DVB-S2,Qaa Eng Ger Fre Ita Tur Spa Por Dut Pol Rus Rum Gre Hun Cze Srp Bul,11334 H
+11393 Vtp 10Wide44-46,4317,Discovery Channel Polska,MPEG-4/HD,518.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Eng,11393 V
+11393 Vtp 10Wide44-46,4318,TLC Polska,MPEG-4/HD,519.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Eng,11393 V
+11393 Vtp 10Wide44-46,4319,Discovery Historia,MPEG-4/SD,520.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol,11393 V
+11393 Vtp 10Wide44-46,4320,Discovery Life Polska,MPEG-4/HD,521.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Eng,11393 V
+11393 Vtp 10Wide44-46,4321,Motor Trend,MPEG-4/HD,522.0,ConaxNagravisionVideoguard,,False,STN,3/4,27500,DVB-S2,Ita Eng,11393 V
+11393 Vtp 10Wide44-46,4322,Giallo,MPEG-4/HD,523.0,ConaxNagravisionVideoguard,,False,STN,3/4,27500,DVB-S2,Ita Eng,11393 V
+11393 Vtp 10Wide44-46,4323,Nove,MPEG-4/HD,524.0,ConaxNagravisionVideoguard,,False,STN,3/4,27500,DVB-S2,Ita Eng,11393 V
+11393 Vtp 10Wide44-46,4324,Cartoonito Polska,MPEG-4/HD,525.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Eng,11393 V
+11393 Vtp 10Wide44-46,4330,TVN 24 BiS,MPEG-4/HD,531.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Qaa,11393 V
+11393 Vtp 10Wide44-46,4331,HGTV Polska,MPEG-4/HD,532.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Qaa,11393 V
+11393 Vtp 10Wide44-46,4334,HGTV Italia,MPEG-4/HD,535.0,ConaxNagravisionVideoguard,,False,STN,3/4,27500,DVB-S2,Ita Eng,11393 V
+11393 Vtp 10Wide44-46,10502,Cartoon Network Polska,MPEG-4/HD,526.0,ConaxIrdetoNagravisionViaccess,,False,STN,3/4,27500,DVB-S2,Pol Pol Eng,11393 V
+11432 Vtp 12Wide44-46,,Mediaset,272-1200,,NagravisionVideoguard,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,3/4,29900,DVB-S2,,11432 V
+11432 Vtp 12Wide44-46,,Mediaset,272-1200,,NagravisionVideoguard,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,3/4,29900,DVB-S2,,11432 V
+11919 Vtp 60Wide44-46,,Mediaset,190-6000,,NagravisionVideoguard,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,2/3,29900,DVB-S2,,11919 V
+11919 Vtp 60Wide44-46,,Mediaset,190-6000,,NagravisionVideoguard,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,2/3,29900,DVB-S2,,11919 V
+11432 Vtp 12Wide44-46,111,Cine 34,MPEG-4/HD,1004.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,118,Virgin Radio TV,MPEG-4/HD,1030.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,119,Radio Monte Carlo TV,MPEG-4/HD,1026.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,120,20 Mediaset,MPEG-4/HD,1054.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,121,Italia 1,MPEG-4/HD,1060.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,122,Canale 5,MPEG-4/HD,1058.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,123,Rete 4,MPEG-4/HD,1056.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,124,Iris,MPEG-4/HD,1046.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,126,Boing Italia,MPEG-4/HD,1010.0,Nagravision,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,127,La 5,MPEG-4/HD,1015.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,128,TGCom 24,MPEG-4/HD,1022.0,,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,129,Mediaset Extra,MPEG-4/HD,1003.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,130,Italia 2,MPEG-4/HD,1021.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,132,Top Crime (Italy),MPEG-4/HD,1051.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,133,Cartoonito Italia,MPEG-4/HD,1012.0,Nagravision,,False,Mediaset,3/4,29900,DVB-S2,Ita,11432 V
+11432 Vtp 12Wide44-46,134,Focus,MPEG-4/HD,1016.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11432 Vtp 12Wide44-46,135,27 Twentyseven,MPEG-4/HD,1038.0,NagravisionVideoguard,,False,Mediaset,3/4,29900,DVB-S2,Ita Qaa,11432 V
+11508 Vtp 16Wide44-46,15821*,TVN (Poland),MPEG-4/HD,532.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15822*,TVN Style,MPEG-4/HD,533.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15824*,TVN Turbo,MPEG-4/HD,534.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15826*,TVN 24,MPEG-4/HD,535.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15827*,TVN 7,MPEG-4/HD,536.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15828,Metro TV (Poland),MPEG-4/HD,537.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15829,Warner TV Polska,MPEG-4/HD,526.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Pol Eng,11508 V
+11508 Vtp 16Wide44-46,15830,TVN Fabula,MPEG-4/HD,538.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15831,TTV,MPEG-4/HD,539.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15832,Travel Channel Polska,MPEG-4/HD,540.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11508 Vtp 16Wide44-46,15833*,Food Network Polska,MPEG-4/HD,541.0,ConaxIrdetoNagravisionViaccess,,False,Mediaset,3/4,27500,DVB-S2,Pol Qaa,11508 V
+11642 Htp 157Wide44-46,,M-Three satcom,318-15700,,,https://www.lyngsat.com/providers/it/M-Three-satcom.html,True,M-Three satcom,3/4,27500,DVB-S2,,11642 H
+11642 Htp 157Wide44-46,1306,Simay-Azadi Iran National TV,MPEG-4/HD,1791.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Per,11642 H
+11642 Htp 157Wide44-46,1307,RTL 102.5 RadioVisione,MPEG-4/HD,1801.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1308,Radio Freccia TV,MPEG-4/HD,1811.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1311,Radionorba TV,MPEG-4/HD,1841.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1316,Sat TV promo,MPEG-4/HD,1891.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Eng,11642 H
+11642 Htp 157Wide44-46,1318,Daystar TV,MPEG-4/HD,1911.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Eng,11642 H
+11642 Htp 157Wide44-46,1321,Radio Zeta Radiovisione,MPEG-4/HD,1941.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1323,RTL 102.5 News,MPEG-4/HD,1961.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1327,Super!,MPEG-4/SD,2001.0,NagravisionVideoguard,,False,M-Three satcom,3/4,27500,DVB-S2,Ita Qaa,11642 H
+11642 Htp 157Wide44-46,1328,ReteSette,MPEG-4/HD,1741.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1329,La C TV,MPEG-4/HD,1711.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1332,Gold TV (Italy),MPEG-4/SD,2031.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1333,Emilia-Romagna 24,MPEG-4/SD,2041.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1335,Well TV,MPEG-4/SD,2061.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1336,Value 24 TV,MPEG-4/SD,2071.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1337,Wedo Movies,MPEG-4/SD,2081.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11642 Htp 157Wide44-46,1338,Vilayet TV,MPEG-4/HD,2091.0,,,False,M-Three satcom,3/4,27500,DVB-S2,Aze,11642 H
+11642 Htp 157Wide44-46,1330,RVS Italia,,,,,False,M-Three satcom,3/4,27500,DVB-S2,Ita,11642 H
+11766 Vtp 52Wide44-46,,RAI,318-5200,,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI,3/4,29900,DVB-S2,,11766 V
+11766 Vtp 52Wide44-46,3401,Rai 1,MPEG-4/HD,501.0,,,False,RAI,3/4,29900,DVB-S2,Ita Qaa,11766 V
+11766 Vtp 52Wide44-46,3402,Rai 2,MPEG-4/HD,502.0,,,False,RAI,3/4,29900,DVB-S2,Ita Qaa,11766 V
+11766 Vtp 52Wide44-46,3403,Rai 3,MPEG-4/HD,503.0,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3405,Rai 4,MPEG-4/HD,505.0,Nagravision,,False,RAI,3/4,29900,DVB-S2,Ita Qaa,11766 V
+11766 Vtp 52Wide44-46,3406,Rai Movie,MPEG-4/HD,506.0,Nagravision,,False,RAI,3/4,29900,DVB-S2,Ita Qaa,11766 V
+11766 Vtp 52Wide44-46,3407,Rai 4K,HEVC/UHD,507.0,Nagravision,,False,RAI,3/4,29900,DVB-S2,Ita Qaa,11766 V
+11766 Vtp 52Wide44-46,3441,Rai Radio 1,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3442,Rai Radio 2,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3443,Rai Radio 3,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3444,Rai Radio 3 Classica,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3445,Rai Gr Parlamento,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3446,Rai Isoradio,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3447,Rai Radio Techete',,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3448,Rai Radio Live Napoli,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3449,Rai Radio Kids,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3450,No Name Radio,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3451,Rai Radio Tutta Italiana,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3452,Rai Radio 1 Friuli Venezia Giulia,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3453,Rai Radio 1 Sport,,,,,False,RAI,3/4,29900,DVB-S2,Ita,11766 V
+11766 Vtp 52Wide44-46,3454,Rai Radio Trst A,,,,,False,RAI,3/4,29900,DVB-S2,Slv,11766 V
+11766 Vtp 52Wide44-46,3455,Rai Südtirol Radio,,,,,False,RAI,3/4,29900,DVB-S2,Ger,11766 V
+11785 Htp 53Wide44-46,,Sky Italia,64511-5300,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11785 H
+11843 Vtp 56Wide44-46,,Sky Italia,64511-5600,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11843 V
+11862 Htp 57Wide44-46,,Sky Italia,64511-5700,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11862 H
+11881 Vtp 58Wide44-46,,Sky Italia,64511-5800,,Videoguard,,False,RAI,3/4,27500,DVB-S2,,11881 V
+11900 Htp 59Wide44-46,,Sky Italia,64511-5900,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11900 H
+11958 Vtp 62Wide44-46,,Sky Italia,64511-6200,,Videoguard,,False,RAI,3/4,27500,DVB-S2,,11958 V
+11977 Htp 63Wide44-46,,Sky Italia,64511-6300,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11977 H
+11996 Vtp 64Wide44-46,,Sky Italia,64511-6400,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,11996 V
+12034 Vtp 66Wide44-46,,Sky Italia,64511-6600,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,12034 V
+12054 Htp 67Wide44-46,,Sky Italia,64511-6700,,NagravisionVideoguard,,False,RAI,5/6,29900,DVB-S2,,12054 H
+12073 Vtp 68Wide44-46,,Sky Italia,64511-6800,,NagravisionVideoguard,,False,RAI,5/6,29900,DVB-S2,,12073 V
+12341 Vtp 82Wide44-46,,Sky Italia,64511-8200,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,12341 V
+12418 Vtp 86Wide44-46,,Sky Italia,64511-8600,,Videoguard,,False,RAI,5/6,29900,DVB-S2,,12418 V
+12466 Vtp 88Wide44-46,,Sky Italia,64511-8800,,NagravisionViaccessVideoguard,,False,RAI,5/6,29900,DVB-S2,,12466 V
+11804 Vtp 54Wide44-46,,Nova,318-5400,,IrdetoVideoguard,,False,RAI,3/4,29700,DVB-S2,,11804 V
+11823 Htp 55Wide44-46,,Nova,318-5500,,Irdeto,,False,RAI,3/4,27500,DVB-S2,,11823 H
+11938 Htp 61Wide44-46,,Nova,318-6100,,Irdeto,,False,RAI,3/4,27500,DVB-S2,,11938 H
+12130 Htp 71Wide44-46,,Nova,318-7100,,IrdetoVideoguard,,False,RAI,3/4,27500,DVB-S2,,12130 H
+12169 Htp 73Wide44-46,,Nova,318-7300,,IrdetoVideoguard,,False,RAI,3/4,27500,DVB-S2,,12169 H
+11823 Htp 55Wide44-46,310,Ecclesia Radio,,,,,False,RAI,3/4,27500,DVB-S2,Gre,11823 H
+11919 Vtp 60Wide44-46,73,La 7 d,MPEG-4/HD,1540.0,NagravisionVideoguard,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,79,La 7,MPEG-4/HD,1440.0,NagravisionVideoguard,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,801,Zona DAZN,MPEG-4/HD,1480.0,Nagravision,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,802,Zona DAZN 2,MPEG-4/HD,710.0,Nagravision,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,101,R101,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,102,Radio Monte Carlo,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,104,Virgin Radio Italy,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,105,Radio 105,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,106,Radio Subasio,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+11919 Vtp 60Wide44-46,110,Radiolina,,,,,False,RAI,2/3,29900,DVB-S2,Ita,11919 V
+12034 Vtp 66Wide44-46,11307,[Sky info card],MPEG-4/SD,177.0,,,False,RAI,5/6,29900,DVB-S2,Ita,12034 V
+12034 Vtp 66Wide44-46,11311,[Sky Sport info card],MPEG-4/SD,174.0,,,False,RAI,5/6,29900,DVB-S2,Ita,12034 V
+12054 Htp 67Wide44-46,4102,Bike Channel,MPEG-4/HD,183.0,,,False,RAI,5/6,29900,DVB-S2,Ita,12054 H
+12054 Htp 67Wide44-46,7245,CNBC Europe,MPEG-4/HD,186.0,,,False,RAI,5/6,29900,DVB-S2,Eng,12054 H
+12054 Htp 67Wide44-46,4366,Radio Vaticana Europa,,,,,False,RAI,5/6,29900,DVB-S2,,12054 H
+12054 Htp 67Wide44-46,11131,Radio InBlu,,,,,False,RAI,5/6,29900,DVB-S2,Ita,12054 H
+12054 Htp 67Wide44-46,11174,InBlu 2000,,,,,False,RAI,5/6,29900,DVB-S2,Ita,12054 H
+12111 Vtp 70Wide44-46,,Telespazio,318-7000,,,https://www.lyngsat.com/providers/it/Telespazio.html,True,Telespazio,3/4,27500,DVB-S2,,12111 V
+12111 Vtp 70Wide44-46,705,Aljazeera Documentary,MPEG-2/SD,240.0,,,False,Telespazio,3/4,27500,DVB-S2,Ara,12111 V
+12111 Vtp 70Wide44-46,706,Aljazeera Mubasher,MPEG-2/SD,250.0,,,False,Telespazio,3/4,27500,DVB-S2,Ara,12111 V
+12111 Vtp 70Wide44-46,708,Aljazeera Channel,MPEG-2/SD,270.0,,,False,Telespazio,3/4,27500,DVB-S2,Ara,12111 V
+12111 Vtp 70Wide44-46,713,RTP Internacional Europa,MPEG-2/SD,201.0,,,False,Telespazio,3/4,27500,DVB-S2,Por,12111 V
+12111 Vtp 70Wide44-46,735,Al Mayadeen TV,MPEG-2/SD,1403.0,,,False,Telespazio,3/4,27500,DVB-S2,Ara,12111 V
+12111 Vtp 70Wide44-46,788,MTA 2 Europe,MPEG-4/HD,2354.0,,,False,Telespazio,3/4,27500,DVB-S2,Hin Urd Eng Fre Ger Ara Ben,12111 V
+12111 Vtp 70Wide44-46,789,MTA 3 Al-Arabia,MPEG-2/SD,338.0,,,False,Telespazio,3/4,27500,DVB-S2,Ara,12111 V
+12111 Vtp 70Wide44-46,714,RDP Internacional,,,,,False,Telespazio,3/4,27500,DVB-S2,Por,12111 V
+12111 Vtp 70Wide44-46,715,RDP Antena 1,,,,,False,Telespazio,3/4,27500,DVB-S2,Por,12111 V
+12111 Vtp 70Wide44-46,731,Radio Mariam Armenia,,,,,False,Telespazio,3/4,27500,DVB-S2,Arm,12111 V
+12111 Vtp 70Wide44-46,732,Radio Maria Italia,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,736,Radio Dimensione Suono,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,737,Dimensione Suono Roma,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,738,Radio Italia Anni 60,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,739,Radio Radio (Italy),,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,740,Radio Italia,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,742,Radio Kiss Kiss,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,744,Radio Padre Pio,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,761,Radio Radicale,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,766,Dimensione Suono Soft Nord,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,767,Dimensione Suono Soft Centro,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12111 Vtp 70Wide44-46,768,DiscoRadio,,,,,False,Telespazio,3/4,27500,DVB-S2,Ita,12111 V
+12169 Htp 73Wide44-46,353,ERT World,MPEG-4/SD,514.0,,,False,Telespazio,3/4,27500,DVB-S2,Gre,12169 H
+12169 Htp 73Wide44-46,384,Vouli TV,MPEG-4/SD,517.0,,,False,Telespazio,3/4,27500,DVB-S2,Gre,12169 H
+12169 Htp 73Wide44-46,365,I Foni tis Elladas,,,,,False,Telespazio,3/4,27500,DVB-S2,,12169 H
+12207 Htp 75Wide44-46,,{Eutelsat},318-7500,,,,False,Telespazio,5/6,29900,DVB-S2,,12207 H
+12341 Vtp 82Wide44-46,13534,Explorer HD Channel,MPEG-4/HD,162.0,,,False,Telespazio,5/6,29900,DVB-S2,Ita,12341 V
+12520 Vtp 90Wide44-46,9003,Ronahî TV,MPEG-2/SD,1031.0,,,False,Telespazio,3/5,27500,DVB-S2,Kur,12520 V
+12520 Vtp 90Wide44-46,9004,Med Muzîk,MPEG-2/SD,1041.0,,,False,Telespazio,3/5,27500,DVB-S2,Kur,12520 V
+12520 Vtp 90Wide44-46,9009,Angel TV Europe,MPEG-2/SD,1091.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9010,BogBlag TV,MPEG-2/SD,1101.0,,,False,Telespazio,3/5,27500,DVB-S2,Rus,12520 V
+12520 Vtp 90Wide44-46,9011,Stêrk,MPEG-4/HD,1111.0,,,False,Telespazio,3/5,27500,DVB-S2,Kur,12520 V
+12520 Vtp 90Wide44-46,9012,Çira TV,MPEG-4/HD,1121.0,,,False,Telespazio,3/5,27500,DVB-S2,Kur,12520 V
+12520 Vtp 90Wide44-46,9013,KICC TV,MPEG-4/SD,1131.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9014,Paci Contemporary Channel,MPEG-4/SD,1141.0,,,False,Telespazio,3/5,27500,DVB-S2,Ita,12520 V
+12520 Vtp 90Wide44-46,9016,Somaliland National TV,MPEG-2/SD,1161.0,,,False,Telespazio,3/5,27500,DVB-S2,Som,12520 V
+12520 Vtp 90Wide44-46,9018,The Kingdom Sat,MPEG-2/SD,1181.0,,,False,Telespazio,3/5,27500,DVB-S2,Ara,12520 V
+12520 Vtp 90Wide44-46,9020,TBN Europe,MPEG-4/SD,1201.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9021,Firstlight,MPEG-4/SD,1211.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9022,Amazing Facts TV,MPEG-4/SD,1221.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9023,Teleradiopace Satellite,MPEG-4/HD,1231.0,,,False,Telespazio,3/5,27500,DVB-S2,Ita,12520 V
+12520 Vtp 90Wide44-46,9024,Silk Way,MPEG-4/HD,1241.0,,,False,Telespazio,3/5,27500,DVB-S2,Rus Eng Kaz Kir Uzb,12520 V
+12520 Vtp 90Wide44-46,9025,Music Box Polska,MPEG-4/HD,1251.0,,,False,Telespazio,3/5,27500,DVB-S2,Pol,12520 V
+12520 Vtp 90Wide44-46,9026,Supreme Master TV,MPEG-2/SD,1261.0,,,False,Telespazio,3/5,27500,DVB-S2,Eng,12520 V
+12520 Vtp 90Wide44-46,9027,[test card],MPEG-4/SD,1271.0,,,False,Telespazio,3/5,27500,DVB-S2,,12520 V
+12558 Vtp 92Wide44-46,,Saudi Broadcasting Authority,318-9200,,,https://www.lyngsat.com/providers/sa/Saudi-Broadcasting-Authority.html,True,Saudi Broadcasting Authority,5/6,27500,DVB-S2,,12558 V
+12558 Vtp 92Wide44-46,1201,Saudi TV,MPEG-4/HD,2011.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12558 V
+12558 Vtp 92Wide44-46,1205,Saudi TV,MPEG-4/HD,2051.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12558 V
+12558 Vtp 92Wide44-46,1202,Sunna TV (Saudi Arabia),MPEG-4/HD,2021.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12558 V
+12558 Vtp 92Wide44-46,1203,Quran TV (Saudi Arabia),MPEG-4/HD,2031.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12558 V
+12558 Vtp 92Wide44-46,1204,Ekhbariya TV,MPEG-4/HD,2041.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,Ara,12558 V
+12558 Vtp 92Wide44-46,1209,Hotbird 4K1,HEVC/UHD,2091.0,,,False,Saudi Broadcasting Authority,5/6,27500,DVB-S2,,12558 V
+12616 Htp 95South East,,Vivacom,213-9500,,IrdetoVideoguard,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,,12616 H
+12635 Vtp 96South East,,Vivacom,213-9600,,IrdetoVideoguard,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,,12635 V
+12654 Htp 97South East,,Vivacom,213-9700,,IrdetoVideoguard,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,,12654 H
+12673 Vtp 98South East,,Vivacom,213-9800,,IrdetoVideoguard,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,,12673 V
+12713 Vtp 100South East,,Vivacom,213-10000,,IrdetoVideoguard,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,,12713 V
+12616 Htp 95South East,141,DW English,MPEG-4/SD,1241.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Eng,12616 H
+12635 Vtp 96South East,8,City TV (Bulgaria),MPEG-4/SD,59.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,33,BNT 4,MPEG-2/SD,165.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,41,Plovdivska Pravoslavna TV,MPEG-2/SD,174.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,100,France 24 Français,MPEG-4/SD,400.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Fre,12635 V
+12635 Vtp 96South East,9,Radio 1 (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,10,BG Radio,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,11,Radio City (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,12,NRJ Bulgaria,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,13,Radio Veronika,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,14,Radio 1 Rock,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,15,Avtoradio,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,17,Radio Focus Sofia,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,18,Radio Focus Pirin,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,19,BNR Horizont,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,44,BNR Horizont,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,20,BNR Hristo Botev,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,23,Darik Radio,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,24,Darik Radio Plovdiv,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,25,Darik Radio Burgas,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,26,Eparkhiiski Glas,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,27,BNR Radio Kardzali,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,30,Radio Bulgaria On Air,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,31,B Radio,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,37,BNR Radio Burgas,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,38,BNR Radio Vidin,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,39,BNR Radio Stara Zagora,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,40,BNR Radio Varna,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,45,BNR Radio Plovdiv,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,46,Radio Fresh!,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,47,Radio FM+,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,48,BNR Radio Blagoevgrad,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,49,BNR Radio Shumen,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,50,BNR Radio Sofia,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,59,Radio Focus Veliko Tarnovo,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,60,Radio Vitosha East,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,61,The Voice Bulgaria,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,62,Radio Veselina South,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,63,Magic FM (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,64,Radio N-Joy,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,84,Radio N-Joy,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,65,Radio Z-Rock,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,85,Radio Z-Rock,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,66,Darik Radio Sofia,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,67,Radio Nova News,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,68,Start FM (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,70,Darik Radio Stara Zagora,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,76,Radio Focus Burgas,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,77,Radio Focus Varna,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,78,Radio Focus NE ?,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,79,Radio Focus Rodopi ?,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,80,Radio Focus Trakia ?,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,81,Jazz FM (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,82,RNE ?,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,83,Classic FM (Bulgaria),,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,86,Darik Radio Varna,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,87,Darik Radio Kiustendil,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,88,Darik Radio Ruse,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,89,Darik Radio Vraca,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,90,Darik Nostalgie,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,91,Radio Vitosha West,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,92,Radio Veselina North,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,93,Radio Veselina West,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12635 Vtp 96South East,94,Radio Veselina East,,,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12635 V
+12654 Htp 97South East,204,Tiankov Folk,MPEG-4/SD,2204.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12654 H
+12654 Htp 97South East,211,Folklor TV,MPEG-4/SD,2211.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12654 H
+12654 Htp 97South East,216,Evrokom,MPEG-4/SD,2216.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12654 H
+12654 Htp 97South East,260,EKids,MPEG-4/SD,2260.0,,,False,Saudi Broadcasting Authority,5/6,30000,DVB-S2,Bul,12654 H
+12692 Htp 99Wide44-46,,Mediawan Thematics,319-9900,,ConaxNagravisionPanaccessViaccess,https://www.lyngsat.com/providers/fr/Mediawan-Thematics.html,True,Mediawan Thematics,3/4,27500,DVB-S2,,12692 H
+12692 Htp 99Wide44-46,415,BFM TV,MPEG-4/SD,751.0,,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,417,C Star,MPEG-4/SD,771.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,418,Gulli,MPEG-4/SD,781.0,NagravisionPanaccessViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,419,Franceinfo:,MPEG-4/SD,791.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,420,Ushuaïa TV,MPEG-4/SD,4201.0,Viaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,421,Equidia,MPEG-4/SD,4211.0,Viaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,451,RTL 9,MPEG-4/HD,101.0,Viaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,452,AB 1,MPEG-4/SD,102.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,453,Automoto la chaîne,MPEG-4/HD,103.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,454,Animaux,MPEG-4/SD,104.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,455,Chasse & Pêche,MPEG-4/SD,105.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Bul,12692 H
+12692 Htp 99Wide44-46,456,TV Breizh,MPEG-4/SD,106.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,457,Crime District,MPEG-4/SD,107.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,458,Trek,MPEG-4/HD,108.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,459,Toute l'Histoire,MPEG-4/SD,109.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,461,Action (France),MPEG-4/HD,111.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,462,Mangas,MPEG-4/SD,112.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,463,Science & Vie TV,MPEG-4/HD,113.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,466,Téva,MPEG-4/SD,116.0,Viaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre Qaa,12692 H
+12692 Htp 99Wide44-46,468,XXL,MPEG-4/SD,118.0,IrdetoNagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12692 Htp 99Wide44-46,470,Golf Channel France,MPEG-4/SD,120.0,NagravisionViaccess,,False,Mediawan Thematics,3/4,27500,DVB-S2,Fre,12692 H
+12713 Vtp 100South East,5001,TV 1 (Bulgaria),MPEG-4/SD,5101.0,,,False,Mediawan Thematics,5/6,30000,DVB-S2,Bul,12713 V
+12713 Vtp 100South East,5014,Freedom,MPEG-4/SD,5114.0,,,False,Mediawan Thematics,5/6,30000,DVB-S2,Rus,12713 V
+12713 Vtp 100South East,5034,TV5Monde Europe,MPEG-4/SD,5134.0,,,False,Mediawan Thematics,5/6,30000,DVB-S2,Fre,12713 V

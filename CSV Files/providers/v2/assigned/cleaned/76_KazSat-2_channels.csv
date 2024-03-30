@@ -1,0 +1,49 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+11472 Vtp 8Coherent,,Kazakh mux,,,Digicipher,,False,,5/6,29270,Digici,,11472 V
+11472 Vtp 8Coherent,,KTK,,101.0,Digicipher,,False,,5/6,29270,Digici,Rus,11472 V
+11472 Vtp 8Coherent,,Perviy kanal Eurasia,,102.0,Digicipher,,False,,5/6,29270,Digici,Rus,11472 V
+11472 Vtp 8Coherent,,31 Kanal,,103.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,NTK,,104.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,Qazaqstan,,106.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,Balapan,,107.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,Khabar,,108.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,Khabar 24,,109.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,Astana TV,,110.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11472 Vtp 8Coherent,,7 Kanal (Kazakhstan),,111.0,Digicipher,,False,,5/6,29270,Digici,Kaz,11472 V
+11494 Vtp 9TV,,Kazakh mux,,,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,,11494 V
+11494 Vtp 9TV,101.0,KTK,MPEG-4/SD,257.0,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,Rus,11494 V
+11494 Vtp 9TV,102.0,Perviy kanal Eurasia,MPEG-4/SD,273.0,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,Rus,11494 V
+11494 Vtp 9TV,103.0,Mir,MPEG-4/SD,289.0,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,Rus,11494 V
+11494 Vtp 9TV,104.0,31 Kanal,MPEG-4/SD,305.0,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,Kaz,11494 V
+11494 Vtp 9TV,108.0,Almaty TV,MPEG-4/SD,369.0,IrdetoVideoguard,,False,,8/9,5600,DVB-S2,Kaz,11494 V
+11503 Vtp 9TV,,Kazakh mux,,,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,,11503 V
+11503 Vtp 9TV,201.0,Qazaqstan,MPEG-4/SD,1025.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,202.0,Balapan,MPEG-4/SD,1041.0,,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,204.0,QazSport,MPEG-4/SD,1073.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,205.0,Jibek Joly,MPEG-4/SD,1089.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,206.0,Khabar 24,MPEG-4/SD,1105.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,207.0,Astana TV,MPEG-4/SD,1121.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,208.0,7 Kanal (Kazakhstan),MPEG-4/SD,1137.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,222.0,El Arna,MPEG-4/SD,1553.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11503 Vtp 9TV,534.0,Abai TV,MPEG-4/SD,3633.0,IrdetoVideoguard,,False,,8/9,9400,DVB-S2,Kaz,11503 V
+11537 Vtp 11TV,,(feeds),,,,,False,,3/4,3200,DVB-S2,,11537 V
+11642 Vtp 15TV,1.0,Atyraý,0-12MPEG-4/SD,611.0,,,False,,3/4,1080,DVB-S2,Kaz,11642 V
+11643 Vtp 15TV,210.0,Altai,1-1MPEG-4/SD,1169.0,,,False,,3/4,1080,DVB-S2,Kaz,11643 V
+11645 Vtp 15TV,215.0,Saryarqa,0-1MPEG-4/SD,4097.0,,,False,,3/4,1080,DVB-S2,Kaz,11645 V
+11646 Vtp 15TV,2018.0,Aqtóbe,1-1MPEG-4/SD,2214.0,,,False,,3/4,1080,DVB-S2,Kaz,11646 V
+11648 Vtp 15TV,1.0,Ontústik,1-1MPEG-4/SD,500.0,,,False,,3/4,1080,DVB-S2,Kaz,11648 V
+11649 Vtp 15TV,217.0,Mangystaý,0-12MPEG-4/SD,1377.0,,,False,,3/4,1080,DVB-S2,Kaz,11649 V
+11650 Vtp 15TV,1.0,Ertis,0-1MPEG-4/SD,611.0,,,False,,3/4,1080,DVB-S2,Kaz,11650 V
+11650 Vtp 15TV,2.0,Pavlodar Radio,,,,,False,,3/4,1080,DVB-S2,Kaz,11650 V
+11651 Vtp 15TV,1.0,Kókshe,0-1MPEG-4/SD,33.0,,,False,,3/4,1080,DVB-S2,Kaz,11651 V
+11653 Vtp 15TV,1.0,Qostanai,0-1MPEG-4/SD,611.0,,,False,,3/4,1080,DVB-S2,Kaz,11653 V
+11654 Vtp 15TV,1.0,Qyzylorda,0-1MPEG-4/SD,611.0,,,False,,3/4,1080,DVB-S2,Kaz,11654 V
+11656 Vtp 15TV,1.0,Qyzyljar,0-1MPEG-4/SD,611.0,,,False,,3/4,1080,DVB-S2,Kaz,11656 V
+11657 Vtp 15TV,1.0,Aqjaiyq,0-1MPEG-4/SD,4180.0,,,False,,3/4,1080,DVB-S2,Kaz,11657 V
+11658 Vtp 15TV,214.0,Jambyl,?-?MPEG-4/SD,1329.0,,,False,,3/4,1080,DVB-S2,Kaz,11658 V
+11660 Vtp 15TV,41.0,Turkistan,?-?MPEG-4/SD,4096.0,,,False,,3/4,1080,DVB-S2,Kaz,11660 V
+11664 Vtp 15TV,,(feeds),,,,,False,,7/8,2356,DVB-S2,,11664 V
+11668 Vtp 15TV,,(feeds),,,,,False,,3/4,2356,DVB-S2,,11668 V
+11672 Vtp 15TV,,(feeds),,,,,False,,5/6,5500,DVB-S2,,11672 V
+11684 Vtp 15TV,,(feeds),,,,,False,,5/6,5500,DVB-S2,,11684 V
+11692 Vtp 15TV,,(feeds),,,,,False,,7/8,2355,DVB-S2,,11692 V

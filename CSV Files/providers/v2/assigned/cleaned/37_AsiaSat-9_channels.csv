@@ -1,0 +1,122 @@
+Freq/beam,SID,Provider/Channel,Compression,VPID,Encryption,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Freq
+3723 Vtp C3VC,,(NBT TV feeds),,,,,False,,2/3,3750,DVB-S2,,3723 V
+3756 Vtp C3VC,,(NBT TV feeds),,,,,False,,3/4,2500,DVB-S2,,3756 V
+3746 Vtp C3VC,,(feeds),,,,,False,,3/4,3750,DVB-S2,,3746 V
+3825 Vtp C5VGlobal,,(feeds),,,,,False,,3/4,4800,DVB-S2,,3825 V
+3866 Htp C7HGlobal,,(feeds),,,,,False,,3/4,7120,DVB-S2,,3866 H
+3934 Htp C8HGlobal,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3934 H
+3998 Htp C10HGlobal,,(feeds),,,,,False,,3/4,7200,DVB-S2,,3998 H
+3803 Vtp C5VGlobal,1.0,BBTV Channel 7,1-1MPEG-4/HD,1160.0,BISS 1,,False,,5/6,2500,DVB-S2,Tha Qaa,3803 V
+3807 Vtp C5VGlobal,1.0,BBTV Channel 7,1-1MPEG-4/HD,1160.0,BISS 1,,False,,5/6,2500,DVB-S2,Tha Qaa,3807 V
+3862 Vtp C6VGlobal,100.0,4KUniverse,?-?HEVC/UHD,256.0,,,False,,3/4,8910,DVB-S2,Eng,3862 V
+3971 Vtp C9VGlobal,,Chunghwa Telecom,,,Conax,https://www.lyngsat.com/providers/tw/Chunghwa-Telecom.html,True,Chunghwa Telecom,3/4,15650,DVB-S2,,3971 V
+3971 Vtp C9VGlobal,1.0,SET International,MPEG-4/HD,3211.0,Conax,,False,Chunghwa Telecom,3/4,15650,DVB-S2,Chi,3971 V
+3971 Vtp C9VGlobal,2.0,SET Taiwan,MPEG-4/HD,3261.0,Conax,,False,Chunghwa Telecom,3/4,15650,DVB-S2,Chi,3971 V
+3971 Vtp C9VGlobal,3.0,TVBS Asia,MPEG-4/HD,163.0,Conax,,False,Chunghwa Telecom,3/4,15650,DVB-S2,Chi,3971 V
+3971 Vtp C9VGlobal,4.0,TVBS News,MPEG-4/HD,164.0,Conax,,False,Chunghwa Telecom,3/4,15650,DVB-S2,Chi,3971 V
+4070 Vtp C11VGlobal,,Taiwanese mux,,,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,,4070 V
+4070 Vtp C11VGlobal,313.0,UCTV,MPEG-4/SD,3061.0,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,315.0,CTI TV Asia,MPEG-4/HD,3071.0,Viaccess,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,611.0,FTV News,MPEG-4/HD,5801.0,Viaccess,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,627.0,ET Mall 3,MPEG-4/HD,5881.0,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,628.0,ET Mall 5,MPEG-4/HD,5886.0,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,630.0,ET Mall 2,MPEG-4/HD,5896.0,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,631.0,ET Mall 1,MPEG-4/HD,5901.0,,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4070 Vtp C11VGlobal,634.0,Pili TV,MPEG-4/HD,5916.0,Viaccess,,False,Chunghwa Telecom,3/4,15000,DVB-S2,Chi,4070 V
+4120 Htp C13HGlobal,,(LaLiga feeds),,,,,False,Chunghwa Telecom,5/6,30000,DVB-S2,,4120 H
+4140 Vtp C13VGlobal,,AsiaSat,65535-11,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4140 V
+4140 Vtp C13VGlobal,,AsiaSat,65535-11,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,29720,DVB-S2,,4140 V
+4180 Vtp C14VGlobal,,AsiaSat,65535-3,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,30830,DVB-S2,,4180 V
+4180 Vtp C14VGlobal,,AsiaSat,65535-3,,Irdeto,https://www.lyngsat.com/providers/hk/AsiaSat.html,True,AsiaSat,5/6,30830,DVB-S2,,4180 V
+4140 Vtp C13VGlobal,101.0,Cinemachi Action,MPEG-4/HD,2211.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,102.0,Sportyfy,MPEG-4/HD,2221.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,103.0,Cinemachi Xtra,MPEG-4/HD,2231.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,104.0,Planet Fun,MPEG-4/HD,2241.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,106.0,Lolly Kids,MPEG-4/HD,2261.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,107.0,Cinemachi,MPEG-4/HD,2271.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,108.0,Cinemachi Docu,MPEG-4/HD,2281.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,109.0,Speed Factor,MPEG-4/HD,2291.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,110.0,Party's,MPEG-4/HD,2301.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,112.0,Cinemachi Max,MPEG-4/HD,2321.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,114.0,Cinemachi Junior,MPEG-4/HD,2341.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,115.0,Cinemachi Kids,MPEG-4/HD,2351.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,116.0,Wow!,MPEG-4/HD,2361.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,118.0,Foodies,MPEG-4/HD,2381.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,119.0,Luxe & Life,MPEG-4/HD,2391.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,120.0,Flame TV (UK),MPEG-4/HD,2401.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4140 Vtp C13VGlobal,121.0,Chillayo,MPEG-4/HD,2411.0,Irdeto,,False,AsiaSat,5/6,29720,DVB-S2,Eng,4140 V
+4156 Htp C14HGlobal,,,,,,,False,AsiaSat,,,,,4156 H
+4180 Vtp C14VGlobal,14.0,Trace Sport Stars,MPEG-4/HD,3471.0,,,False,AsiaSat,5/6,30830,DVB-S2,Eng,4180 V
+4180 Vtp C14VGlobal,15.0,Grace TV (India),MPEG-4/SD,3351.0,,,False,AsiaSat,5/6,30830,DVB-S2,Eng,4180 V
+4180 Vtp C14VGlobal,16.0,Sun TV (Hong Kong),MPEG-2/SD,3322.0,,,False,AsiaSat,5/6,30830,DVB-S2,Chi,4180 V
+4180 Vtp C14VGlobal,25.0,MATV Film,MPEG-4/SD,3421.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Chi,4180 V
+4180 Vtp C14VGlobal,28.0,Outdoor Channel International,MPEG-4/HD,3481.0,,,False,AsiaSat,5/6,30830,DVB-S2,Eng Tha Chi,4180 V
+4180 Vtp C14VGlobal,50.0,TVN Premium Indonesia,MPEG-4/HD,3381.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Kor,4180 V
+4180 Vtp C14VGlobal,51.0,TVN Movies,MPEG-4/HD,3301.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Kor,4180 V
+4180 Vtp C14VGlobal,52.0,TVN Premium,MPEG-4/HD,3401.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Kor Chi,4180 V
+4180 Vtp C14VGlobal,55.0,TVN Asia,MPEG-4/HD,3331.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Eng Chi Ind,4180 V
+4180 Vtp C14VGlobal,61.0,TVB Xing He,MPEG-4/HD,3361.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Chi,4180 V
+4180 Vtp C14VGlobal,62.0,Asian Action Channel,MPEG-4/HD,3371.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,,4180 V
+4180 Vtp C14VGlobal,65.0,TVN Movies Pinoy,MPEG-4/HD,3441.0,Irdeto,,False,AsiaSat,5/6,30830,DVB-S2,Tgl Kor,4180 V
+11490 VIndonesia,,MYTV Broadcasting,,,Irdeto,,False,AsiaSat,5/6,45000,DVB-S2,,11490 V
+12336 VAustralasia0,,Sydney Teleport Services,65535-?,,Irdeto,https://www.lyngsat.com/providers/au/Sydney-Teleport-Services.html,True,Sydney Teleport Services,3/5,13000,DVB-S2,,12336 V
+12336 VAustralasia0,3010.0,NTV (+7h),MPEG-4/SD,3010.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3020.0,RTR Planeta,MPEG-4/SD,3020.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3030.0,9 Kanal,MPEG-4/SD,3030.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3040.0,RTVi Asia,MPEG-4/SD,3040.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3050.0,Perviy kanal Europa,MPEG-4/SD,3050.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3060.0,TNT International,MPEG-4/SD,3060.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3070.0,Perviy kanal,MPEG-4/SD,3070.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3080.0,Domashniy,MPEG-4/SD,3080.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3090.0,Rossiya 24,MPEG-4/SD,3090.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3100.0,5 Kanal,MPEG-4/SD,3100.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3110.0,Rossiya K,MPEG-4/SD,3110.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3120.0,[test card],MPEG-4/SD,3120.0,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,,12336 V
+12336 VAustralasia0,3910.0,Hit FM (Russia),,,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12336 VAustralasia0,3920.0,Russkoe Radio,,,Irdeto,,False,Sydney Teleport Services,3/5,13000,DVB-S2,Rus,12336 V
+12415 VAustralasia0,,MySat,,,,https://www.lyngsat.com/providers/au/MySat.html,True,MySat,7/8,40000,DVB-S4,,12415 V
+12415 VAustralasia0,2.0,Duna World,MPEG-2/SD,2002.0,,,False,MySat,7/8,40000,DVB-S4,Hun,12415 V
+12415 VAustralasia0,3.0,TVR International,MPEG-2/SD,2003.0,,,False,MySat,7/8,40000,DVB-S4,,12415 V
+12415 VAustralasia0,110.0,ART Movies,MPEG-4/SD,513.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,140.0,Al Jadeed,MPEG-4/SD,516.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,150.0,ART Aflam 2,MPEG-4/SD,517.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,180.0,Alarabiya,MPEG-4/SD,48.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,183.0,MBC International,MPEG-4/SD,523.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,197.0,LBC International,MPEG-4/SD,525.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,200.0,On E,MPEG-4/SD,528.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,204.0,NourSat,MPEG-4/SD,530.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,205.0,DMC,MPEG-4/SD,531.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,206.0,MBC Maser,MPEG-4/SD,532.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,300.0,MTV (Lebanon),MPEG-4/SD,302.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,320.0,MTV Alloubnaniya,MPEG-4/SD,322.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,330.0,ART Hekayat,MPEG-4/SD,332.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,340.0,OTV (Lebanon),MPEG-4/SD,342.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,350.0,Iqraa Arabic,MPEG-4/SD,352.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,370.0,SSBC TV,MPEG-4/SD,372.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,380.0,Syria Drama,MPEG-4/SD,382.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,386.0,KTV 1 (Kuwait),MPEG-4/SD,552.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,389.0,Aljazeera Channel,MPEG-4/SD,562.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,393.0,Charity TV,MPEG-4/SD,572.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,401.0,Cima Channel,MPEG-4/SD,4011.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,402.0,Alhayah,MPEG-4/SD,4021.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,403.0,BBC Arabic,MPEG-4/SD,4031.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,404.0,NBN,MPEG-4/SD,4041.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,405.0,Rotana Cinema Egypt,MPEG-4/SD,4051.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,406.0,ART Aflam 1,MPEG-4/SD,4071.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,407.0,ART Hekayat 2,MPEG-4/SD,4081.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,408.0,DMC Drama,MPEG-4/SD,4081.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,409.0,Roya TV,MPEG-4/SD,4091.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,410.0,Quran TV (Saudi Arabia),MPEG-4/SD,4101.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,411.0,Alhayah Series,MPEG-4/SD,4111.0,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,8.0,Duna World Rádió,,,,,False,MySat,7/8,40000,DVB-S4,Hun,12415 V
+12415 VAustralasia0,185.0,2ME Gold,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,186.0,2ME Australia,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,187.0,I Foni tis Elladas,,,,,False,MySat,7/8,40000,DVB-S4,,12415 V
+12415 VAustralasia0,190.0,Arabica FM,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,194.0,The Voice of Islam,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,207.0,Radio Tarab,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,208.0,Voice of Charity,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,209.0,Radio Liban Libre,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,381.0,Kuwait Radio One,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,382.0,Kuwait Radio Two,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V
+12415 VAustralasia0,1842.0,SSBC Radio,,,,,False,MySat,7/8,40000,DVB-S4,Ara,12415 V

@@ -1,0 +1,74 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,Provider_URL,is_Provider,Provider
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,,,,,9.4,,Edinho fta220502,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,,,,,9.4,,Edinho fta220501,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Rede Internacional de TV,,MPEG-4/HD,102.0,103 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Rede Internacional de TV,,MPEG-4/SD,152.0,153 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Rede Internacional de TV,,MPEG-4/1seg,602.0,603 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,RIT Notícias,,MPEG-4/SD,202.0,203 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,(feeds),,,252.0,253,,,,False,
+11474 H,DVB-S28PSK75003/4,,(feeds),,,,,,N Stanislav220530,,False,
+12616 H,DVB-S269003/4,,(feeds),,,,,,Stanley_cassidy220602,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Igreja Internacional da Graça de Deus,,MPEG-4/SD,302.0,303 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,SOS Espiritual,,MPEG-4/SD,402.0,403 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Nossa Rádio,,,,703 Por,,,,False,
+3760 Rtp LAMRDLatin America,DVB-S28PSK75675/6,,Rádio Relógio,,,,753 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Farol RS,,MPEG-4/1seg,51.0,603 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Farol RS,,MPEG-4/HD,102.0,103 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Nova Conexão,,MPEG-4/HD,54.0,55 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Nova Conexão,,MPEG-4/1seg,59.0,60 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Primavera,,MPEG-4/SD,273.0,274 Por,,,,False,
+3768 Rtp LAMRDLatin America,DVB-S28PSK59805/6,,TV Primavera,,MPEG-4/1seg,527.0,528 Por,,,,False,
+3773 Rtp LAMRDLatin America,DVB-S28PSK23972/3,,TV Sul Bahia,,,,6.6,,Edinho fta220501,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia
+3773 Rtp LAMRDLatin America,DVB-S28PSK23972/3,,TV Sul Bahia,,MPEG-4/HD,102.0,103 Por,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia
+3773 Rtp LAMRDLatin America,DVB-S28PSK23972/3,,TV Sul Bahia,,MPEG-4/1seg,602.0,603 Por,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia
+3778 Ltp LAMLDLatin America,DVB-S28PSK39935/6,,TV Barriga Verde,,,,9.4,,Edinho fta220501,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde
+3778 Ltp LAMLDLatin America,DVB-S28PSK39935/6,,TV Barriga Verde,,MPEG-4/HD,273.0,274 Por,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde
+3778 Ltp LAMLDLatin America,DVB-S28PSK39935/6,,TV Barriga Verde,,MPEG-4/1seg,529.0,530 Por,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde
+3778 Rtp LAMRDLatin America,DVB-S28PSK63335/6,,Rede Centro Oeste,,,,9.4,,Edinho fta220502,https://www.lyngsat.com/providers/br/Rede-Centro-Oeste.html,True,Rede Centro Oeste
+3778 Rtp LAMRDLatin America,DVB-S28PSK63335/6,,TV Guanandi,,MPEG-4/HD,102.0,103 Por,,,,False,Rede Centro Oeste
+3778 Rtp LAMRDLatin America,DVB-S28PSK63335/6,,TV Guanandi,,MPEG-4/1seg,602.0,603 Por,,,,False,Rede Centro Oeste
+3778 Rtp LAMRDLatin America,DVB-S28PSK63335/6,,SBT MS,,MPEG-4/1seg,272.0,273 Por,,,,False,Rede Centro Oeste
+3778 Rtp LAMRDLatin America,DVB-S28PSK63335/6,,SBT MS,,MPEG-4/HD,529.0,530 Por,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,,Ghanian mux,,,,9.4,,DX Bozóth240131,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,301.0,GBC News,,MPEG-4/SD,111.0,112 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,303.0,GH One TV,,MPEG-4/SD,131.0,132 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,304.0,TV 3 (Ghana),,MPEG-4/SD,141.0,142 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,305.0,Metro TV (Ghana),,MPEG-4/SD,151.0,152 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,307.0,Pent TV,,MPEG-4/SD,171.0,172 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,308.0,Kessben TV,,MPEG-4/SD,181.0,182 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,316.0,[Joy Prime test card],,MPEG-4/SD,261.0,262,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,317.0,[Joy News test card],,MPEG-4/SD,271.0,272,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,318.0,[Adom TV test card],,MPEG-4/SD,281.0,282,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,320.0,United TV,,MPEG-4/SD,301.0,302 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,304.0,Peace FM,,,,143 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,308.0,YFM,,,,183 Eng,,,,False,Rede Centro Oeste
+3990 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK90365/6,317.0,Joy FM,,,,273 Eng,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,,Mozambican mux,,1-6,,9.4,,Onacila210407,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,601.0,Strong Live,,MPEG-4/SD,111.0,112 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,602.0,Media Mais TV,,MPEG-4/SD,121.0,122 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,603.0,Gloom Channel,,MPEG-4/SD,131.0,132 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,604.0,Mega TV (Mozambique),,MPEG-4/SD,141.0,142 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,605.0,Top TV (Mozambique),,MPEG-4/SD,151.0,152 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,606.0,TV Miramar,,MPEG-4/SD,161.0,162 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,607.0,Soico TV,,MPEG-4/SD,171.0,172 Por,,,,False,Rede Centro Oeste
+4000 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK76365/6,608.0,TV Sucesso (Mozambique),,MPEG-4/SD,181.0,182 Por,,,,False,Rede Centro Oeste
+4008 Rtp AFCRDAfrica & Europe38.1,DVB-S2QPSK67303/4,,TPA,,1-5,,4.0,,Onacila170218,https://www.lyngsat.com/providers/ao/TPA.html,True,TPA
+4008 Rtp AFCRDAfrica & Europe38.1,DVB-S2QPSK67303/4,1.0,TPA 1,,MPEG-4/SD,101.0,102 Por,,,,False,TPA
+4008 Rtp AFCRDAfrica & Europe38.1,DVB-S2QPSK67303/4,2.0,TPA 2,,MPEG-4/SD,111.0,112 Por,,,,False,TPA
+4016 Rtp AFCRDAfrica & Europe38.1,DVB-S44452/3,1.0,ZBC TV (Zimbabwe),,1-1MPEG-2/SD,33.0,4.4  36 Eng,BISS,Onacila201231,,False,TPA
+4016 Rtp AFCRDAfrica & Europe38.1,DVB-S44452/3,1.0,Radio Zimbabwe,,,,38 Eng,BISS,,,False,TPA
+4016 Rtp AFCRDAfrica & Europe38.1,DVB-S44452/3,1.0,Power FM (Zimbabwe),,,,38 Eng,BISS,,,False,TPA
+4030 Rtp AFCRDAfrica & Europe38.1,DVB-S28PSK25003/4,1.0,Emmanuel TV,,65535-1MPEG-4/SD,33.0,7.9  34 Eng,,N Stanislav230308,,False,TPA
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,,ORTM,,,,7.9,,N Stanislav240127,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,,ORTM,,,,7.9,,N Stanislav240127,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,,ORTM,,1-1,,7.9,,Zelda210418,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,,ORTM,,1-1,,7.9,,Zelda210418,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,1.0,ORTM 1,,MPEG-4/HD,110.0,121 Fre,,,,False,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,1.0,ORTM 1,,MPEG-4/SD,611.0,631 Fre,,,,False,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,2.0,ORTM 2,,MPEG-4/HD,210.0,221 Fre,,,,False,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,2.0,ORTM 2,,MPEG-4/SD,711.0,731 Fre,,,,False,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,3.0,TM1 TV,,MPEG-4/SD,520.0,521 Fre,,,,False,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,4.0,Segou TV,,MPEG-4/SD,2010.0,2021 Fre,,,,False,ORTM
+4095 Ltp AFCLDAfrica & Europe38.1,DVB-S28PSK73253/4T2-MIPLP 0,5.0,Cherifla TV,,MPEG-4/SD,1010.0,1021 Fre,,,,False,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,3.0,ORTM Radio Mali,,,,831 Fre,,,,False,ORTM
+4129 Ltp GCLDGlobal,DVB-S28PSK20603/4,4.0,ORTM Chaîne 2,,,,931 Fre,,,,False,ORTM
