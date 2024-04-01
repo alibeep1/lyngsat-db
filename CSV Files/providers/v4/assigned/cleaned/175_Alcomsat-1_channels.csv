@@ -1,0 +1,90 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,TDA,0-0,,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,2/3,30000,DVB-S2,
+,TDA,0-0,,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,2/3,30000,DVB-S2,
+,TDA,0-0,,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,2/3,30000,DVB-S2,
+,TDA,,,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,15910,DVB-S1,
+,TDA,,,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,15910,DVB-S1,
+,TDA,,,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,15910,DVB-S1,
+,TDA,,,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,12510,DVB-S1,
+,TDA,,,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,12510,DVB-S1,
+,TDA,,,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,12510,DVB-S1,
+1.0,ENTV,MPEG-4/HD,513.0,12160 H,,,BISS,,False,TDA,2/3,30000,DVB-S2,Ara
+1.0,ENTV,MPEG-2/SD,513.0,12232 H,,,BISS,,False,TDA,3/4,15910,DVB-S1,Ara
+2.0,Canal Algérie 2,MPEG-4/HD,515.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+2.0,Canal Algérie 2,MPEG-2/SD,515.0,12232 H,,,,,False,TDA,3/4,15910,DVB-S1,Ara
+4.0,TV 4 Amazigh,MPEG-4/SD,517.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,
+4.0,TV 4 Amazigh,MPEG-2/SD,517.0,12232 H,,,,,False,TDA,3/4,15910,DVB-S1,
+5.0,TV 5 Coran,MPEG-4/SD,516.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+5.0,TV 5 Coran,MPEG-2/SD,516.0,12232 H,,,,,False,TDA,3/4,15910,DVB-S1,Ara
+6.0,TV 6 (Algeria),MPEG-4/HD,512.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+6.0,TV 6 (Algeria),MPEG-2/SD,512.0,12232 H,,,,,False,TDA,3/4,15910,DVB-S1,Ara
+7.0,TV 7 (Algeria),MPEG-2/SD,701.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+8.0,TV 8 (Algeria),MPEG-2/SD,801.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+9.0,TV 9 (Algeria),MPEG-4/HD,901.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+20.0,RASD TV,MPEG-2/SD,520.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+25.0,Thalitha A3,MPEG-4/HD,101.0,12160 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+3.0,Thalitha A3,MPEG-2/SD,514.0,12232 H,,,,,False,TDA,3/4,15910,DVB-S1,Ara
+6.0,Radio Décrochage,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+7.0,Chaîne 2,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ber
+8.0,Chaîne 3,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Fre
+9.0,Radio Sahel,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+10.0,Radio Ouargla,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+11.0,Radio Tamanrasset,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+12.0,Radio Béchar,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+13.0,Radio Tlemcen,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+14.0,Radio Adrar,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+15.0,Radio Ghardaïa,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+16.0,Radio Illizi,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+17.0,Radio Algérie Internationale,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+18.0,Radio El Oued,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+19.0,Radio Tindouf,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+20.0,Radio Batna,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+21.0,Radio Jijel,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+22.0,Radio Souk Ahras,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+23.0,Radio Laghouat,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+24.0,Radio Naâma,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+25.0,Chaîne 1,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+29.0,Radio Blida,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+30.0,Radio El Tarf,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+31.0,Radio Médéa,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+32.0,Radio Mila,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+33.0,Radio Saïda,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+34.0,Radio Skikda,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+35.0,Radio Mascara,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+36.0,Radio Guelma,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+37.0,Radio Aïn Témouchent,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+38.0,Radio Khenchela,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+39.0,Radio Béjaïa,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+40.0,Radio Bouira,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+41.0,Radio Relizane,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+42.0,Radio Annaba,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+43.0,Radio Tizi Ouzou,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+44.0,Radio Tissemsilt,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+45.0,Radio El Bayadh,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+46.0,Radio Tebessa,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+47.0,Radio Djelfa,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+48.0,Radio Aïn Defla,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+49.0,Radio Tipaza,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+50.0,Radio Boumerdès,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+51.0,Radio Oran,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+52.0,Radio Tiaret,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+53.0,Radio Mostaganem,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+54.0,Radio M'Sila,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+55.0,Radio Bordj Bou Arreridj,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+56.0,Radio Sétif,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Fre
+57.0,Radio Biskra,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+58.0,Radio Constantine,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+59.0,Radio Oum El Bouaghi,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+60.0,Radio Chlef,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+61.0,Radio Sidi Bel Abbès,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+63.0,Radio Coran (Algeria),,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+662.0,Radio El Bahdja,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Ara
+664.0,Radio Décrochage 2,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,
+665.0,Jil FM,,,12250 H,,,,,False,TDA,3/4,12510,DVB-S1,Fre
+,Algerian mux,65535-1,,12360 H,,,,,False,TDA,2/3,30000,DVB-S2,
+2021.0,Echorouk TV News,MPEG-4/HD,3211.0,12360 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+2022.0,Echorouk TV,MPEG-4/HD,3221.0,12360 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+2026.0,El Hayat TV,MPEG-4/HD,3261.0,12360 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+3325.0,Ennahar TV,MPEG-4/HD,3421.0,12360 H,,,,,False,TDA,2/3,30000,DVB-S2,Ara
+,(feeds),,,12728 H,,,,,False,TDA,2/3,25135,DVB-S2,
+,(feeds),,,12737 H,,,,,False,TDA,3/5,5762,DVB-S2,

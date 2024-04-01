@@ -1,0 +1,65 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+10958 HFSS,DVB-S2QPSK80001/2,,(feeds),,,,,,DX Bozóth220623,10958 H,,,,,,,False,
+10971 VFSS,DVB-S2QPSK78331/2,,(feeds),,,,,,DX Bozóth220608,10971 V,,,,,,,False,
+11000 VFSS,DVB-S2QPSK25005/6,,(feeds),,,,,,DX Bozóth220701,11000 V,,,,,,,False,
+11022 VFSS,DVB-S2QPSK25005/6,,(feeds),,,,,,DX Bozóth220623,11022 V,,,,,,,False,
+11038 VFSS,DVB-S25005/6,,(feeds),,,,,,DX Bozóth231122,11038 V,,,,,,,False,
+11068 VFSS,DVB-S28PSK20002/3,,(feeds),,,,,,DX Bozóth211223,11068 V,,,,,,,False,
+11078 VFSS,DVB-S28PSK25005/6,,(feeds),,,,,,N Stanislav231005,11078 V,,,,,,,False,
+11097 VFSS,DVB-S28PSK29005/6,,(feeds),,,,,,N Stansilav240330,11097 V,,,,,,,False,
+11103 VFSS,DVB-S28PSK25003/4,,(feeds),,,,,,DX Bozóth210528,11103 V,,,,,,,False,
+11113 VFSS,DVB-S28PSK20003/4,,(feeds),,,,,,DX Bozóth210409,11113 V,,,,,,,False,
+11114 HFSS,DVB-S241673/4,,(feeds),,,,,,Stanley_cassidy210126,11114 H,,,,,,,False,
+11115 VFSS,DVB-S28PSK16603/4,,(feeds),,,,,,DX Bozóth210310,11115 V,,,,,,,False,
+11118 HFSS,DVB-S233335/6,,(feeds),,,,,,Stanley_cassidy201106,11118 H,,,,,,,False,
+11126 VFSS,DVB-S2QPSK50003/4,,(feeds),,,,,,DX Bozóth210818,11126 V,,,,,,,False,
+11142 HFSS,DVB-S28PSK41675/6,,(feeds),,,,,,N Stanislav231005,11142 H,,,,,,,False,
+11152 HFSS,DVB-S227405/6,,(feeds),,,,,,Stanley_cassidy200806,11152 H,,,,,,,False,
+11155 VFSS,DVB-S266663/4,,(feeds),,,,,,Stanley_cassidy200813,11155 V,,,,,,,False,
+11157 HFSS,DVB-S254805/6,,(feeds),,,,,,Stanley_cassidy200806,11157 H,,,,,,,False,
+11163 VFSS,DVB-S266663/4,,(feeds),,,,,,Stanley_cassidy200813,11163 V,,,,,,,False,
+11168 HFSS,DVB-S28PSK54805/6,,(feeds),,,,,,N Stanislav230501,11168 H,,,,,,,False,
+11180 VFSS,DVB-S28PSK66663/4,,(feeds),,,,,,DX Bozóth220706,11180 V,,,,,,,False,
+11182 HFSS,DVB-S28PSK98753/4,,(feeds),,,,,,N Stanislav231202,11182 H,,,,,,,False,
+11185 VFSS,DVB-S2QPSK25005/6,,(feeds),,,,,,N Stanislav221210,11185 V,,,,,,,False,
+11189 VFSS,DVB-S2QPSK24005/6,,(feeds),,,,,,Bryce221208,11189 V,,,,,,,False,
+11671 VFSS,DVB-S28PSK66663/4,,(feeds),,,,,,DX Bozóth220706,11671 V,,,,,,,False,
+11683 VFSS,DVB-S2QPSK25003/4,,(feeds),,,,,,DX Bozóth240124,11683 V,,,,,,,False,
+11686 VFSS,DVB-S21003/4,,(feeds),,,,,,N Stanislav230903,11686 V,,,,,,,False,
+11590 VFSS,DVB-S275005/6,,Sharjah Broadcasting Authority,,,,6.5,,M Al-TaieHadowooalsatan240328,11590 V,,,,https://www.lyngsat.com/providers/ae/Sharjah-Broadcasting-Authority.html,,,True,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,1.0,Sharjah TV,,MPEG-4/HD,100.0,110 Ara,,new,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,1.0,Sharjah TV,,MPEG-4/HD,100.0,110 Ara,,new,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,1.0,Sharjah TV,,MPEG-4/HD,100.0,110 Ara,,new,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,1.0,Sharjah TV,,MPEG-4/HD,100.0,110 Ara,,new,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,2.0,Sharjah TV,,MPEG-2/SD,310.0,311 Ara,,,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,2.0,Sharjah TV,,MPEG-2/SD,310.0,311 Ara,,,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,2.0,Sharjah TV,,MPEG-2/SD,310.0,311 Ara,,,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,2.0,Sharjah TV,,MPEG-2/SD,310.0,311 Ara,,,11590 V,,,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,3.0,Sharqiya TV,,MPEG-4/HD,64.0,66 Ara,,new,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,3.0,Sharqiya TV,,MPEG-4/HD,64.0,66 Ara,,new,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,3.0,Sharqiya TV,,MPEG-4/HD,64.0,66 Ara,,new,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,3.0,Sharqiya TV,,MPEG-4/HD,64.0,66 Ara,,new,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,4.0,Sharqiya TV,,MPEG-2/SD,330.0,331 Ara,,,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,4.0,Sharqiya TV,,MPEG-2/SD,330.0,331 Ara,,,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,4.0,Sharqiya TV,,MPEG-2/SD,330.0,331 Ara,,,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,4.0,Sharqiya TV,,MPEG-2/SD,330.0,331 Ara,,,11590 V,,,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,5.0,Al Wousta TV,,MPEG-4/HD,350.0,351 Ara,,new,11590 V,,,,,Al Wousta TV,https://www.lyngsat.com/tvchannels/ae/Al-Wousta-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,5.0,Al Wousta TV,,MPEG-4/HD,350.0,351 Ara,,new,11590 V,,,,,Al Wousta TV,https://www.lyngsat.com/tvchannels/ae/Al-Wousta-TV.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,6.0,Sharjah Sports,,MPEG-4/HD,200.0,210 Ara 220 Eng,,new,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,6.0,Sharjah Sports,,MPEG-4/HD,200.0,210 Ara 220 Eng,,new,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,6.0,Sharjah Sports,,MPEG-4/HD,200.0,210 Ara 220 Eng,,new,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,6.0,Sharjah Sports,,MPEG-4/HD,200.0,210 Ara 220 Eng,,new,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,7.0,Sharjah Sports,,MPEG-2/SD,320.0,321 Ara 322 Eng,,,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,7.0,Sharjah Sports,,MPEG-2/SD,320.0,321 Ara 322 Eng,,,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,7.0,Sharjah Sports,,MPEG-2/SD,320.0,321 Ara 322 Eng,,,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,7.0,Sharjah Sports,,MPEG-2/SD,320.0,321 Ara 322 Eng,,,11590 V,,,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,9.0,Sharjah Radio,,,,120 Ara,,,11590 V,,,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,9.0,Sharjah Radio,,,,120 Ara,,,11590 V,,,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,10.0,Sharjah Quran,,,,125 Ara,,,11590 V,,,,,Sharjah Quran,https://www.lyngsat.com/radiochannels/ae/Sharjah-Quran.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,10.0,Sharjah Quran,,,,125 Ara,,,11590 V,,,,,Sharjah Quran,https://www.lyngsat.com/radiochannels/ae/Sharjah-Quran.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,11.0,Pulse 95,,,,126 Eng,,,11590 V,,,,,Pulse 95,https://www.lyngsat.com/radiochannels/ae/Pulse-95.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,11.0,Pulse 95,,,,126 Eng,,,11590 V,,,,,Pulse 95,https://www.lyngsat.com/radiochannels/ae/Pulse-95.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,12.0,Watar FM,,,,150 Ara,,,11590 V,,,,,Watar FM,https://www.lyngsat.com/radiochannels/ae/Watar-FM.html,False,Sharjah Broadcasting Authority
+11590 VFSS,DVB-S275005/6,12.0,Watar FM,,,,150 Ara,,,11590 V,,,,,Watar FM,https://www.lyngsat.com/radiochannels/ae/Watar-FM.html,False,Sharjah Broadcasting Authority
+11680 VFSS,DVB-S28PSK28503/4,1.0,Al Jadeed,,?-?MPEG-4/HD,512.0,7.94112 Ara,,N Stanislav230516,11680 V,,,,,,,False,Sharjah Broadcasting Authority
+,,,,,,,,,,,,,,,DVB-S28PSK28503/4,,False,Sharjah Broadcasting Authority

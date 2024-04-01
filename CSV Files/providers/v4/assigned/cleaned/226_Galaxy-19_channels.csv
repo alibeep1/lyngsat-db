@@ -1,0 +1,164 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,,,,3809 H,tp 6,0.0,,,False,,3/5,10890,DVB-S2,
+,,,,4032 H,tp 16,0.0,PowerVu,,False,,5/6,9600,DVB-S2,
+,,,,11960 V,tp 13,0.0,,,False,,,,,
+,,,,11987 V,tp 15,0.0,,,False,,977,3,DVB-S3,
+,,,,12060 H,tp 20,0.0,,,False,,,,,
+,Imagen TV,MPEG-4/HD,33.0,3809 H,tp 6,0.0,,,False,,3/5,10890,DVB-S2,Spa
+4.0,Excélsior TV,MPEG-2/SD,481.0,3809 H,tp 6,0.0,,,False,,3/5,10890,DVB-S2,Spa
+1.0,TV Tabasqueña,?-?MPEG-2/HD,49.0,3861 H,tp 8,0.0,,,False,,5/6,6522,DVB-S2,Spa
+1.0,Imagen Informativa,?-?MPEG-2/HD,481.0,3913 H,tp 10,0.0,,,False,,3/5,8400,DVB-S2,Spa
+1.0,The CW,?-?MPEG-4/HD,162.0,4009 V,tp 15,0.0,,,False,,5/6,15000,DVB-S2,Eng
+,(feeds),,,4027 V,tp 17,,,,False,,3/4,6111,DVB-S6,
+,(feeds),,,11930 V,tp 11,,,,False,,640,2,DVB-S2,
+,(feeds),,,11940 V,tp 11,,,,False,,640,2,DVB-S2,
+496.0,CBC Toronto,MPEG-4/HD,499.0,4032 H,tp 16,0.0,PowerVu,,False,,5/6,9600,DVB-S2,Eng
+1472.0,Ici Radio Canada Télé Montréal,MPEG-4/HD,1475.0,4032 H,tp 16,0.0,PowerVu,,False,,5/6,9600,DVB-S2,Fre
+1776.0,Télé-Québec,MPEG-4/HD,1779.0,4032 H,tp 16,0.0,PowerVu,,False,,5/6,9600,DVB-S2,Fre
+,(Warner Bros feeds),,,4064 H,tp 18,,,,False,,3/4,4166,DVB-S2,
+,(CBS feeds),,,4080 V,tp 19,,,,False,,2/3,34286,DVB-S2,
+,(ABC feeds),,,4120 V,tp 21,,,,False,,5/6,30000,DVB-S2,
+,Televisa,,,4140 H,tp 22,0.0,Director,https://www.lyngsat.com/providers/mx/Televisa.html,True,Televisa,5/6,34286,DVB-S2,
+1.0,Las Estrellas México,HEVC/HD,2001.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+2.0,Canal 5,HEVC/HD,2002.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+3.0,Nu9ve,HEVC/HD,2003.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+4.0,Las Estrellas México +1,HEVC/HD,2004.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+5.0,Las Estrellas México +2,HEVC/HD,2005.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+6.0,Canal 5 +1,HEVC/HD,2006.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+7.0,Canal 5 +2,HEVC/HD,2007.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+8.0,Nu9ve +1,HEVC/HD,2008.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+9.0,Nu9ve +2,HEVC/HD,2009.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+10.0,Foro TV (Mexico),HEVC/HD,2010.0,4140 H,tp 22,0.0,Director,,False,Televisa,5/6,34286,DVB-S2,Spa
+,SES,1-220,,11842 H,tp 6,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+1.0,Hope Channel North America,MPEG-2/SD,2201.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng Eng
+2.0,Daystar TV,MPEG-2/SD,2002.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+5.0,The Word Network,MPEG-2/SD,46.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+8.0,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),MPEG-2/SD,2008.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Hun
+8.0,M4 Sport + (Sat-Sun 14-22),MPEG-2/SD,2008.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Hun
+11.0,LLBN His Word,MPEG-2/SD,2011.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng Eng
+12.0,Esperanza TV,MPEG-2/SD,2202.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Spa
+16.0,TVGE Internacional,MPEG-2/SD,2016.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Spa
+17.0,TVR International,MPEG-2/SD,2017.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Rum
+75.0,Quo Vadis TV,MPEG-2/SD,2075.0,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng Eng
+3.0,CityLife Radio,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+7.0,KNLB,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+9.0,Duna World Rádió,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Hun
+15.0,The Overcomer,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+26.0,Radio Libertad,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,
+112.0,LifeTalk Radio,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+113.0,LifeTalk Translator,,,11842 H,tp 6,0.0,,,False,SES,3/4,22000,DVB-S2,Eng
+,Saba World,,,11966 H,tp 14,0.0,,https://www.lyngsat.com/providers/lb/Saba-World.html,True,Saba World,5/6,21600,DVB-S2,
+,Al Rabiaa TV,MPEG-4/HD,49.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Ara
+,Al-Mohtadi HD,MPEG-4/HD,1000.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Ara
+,Jam Jam Global Network 2,MPEG-4/HD,1220.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Per
+,Press TV,MPEG-4/HD,1310.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Eng
+,Hispan TV,MPEG-4/SD,1320.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Spa
+,IFilm English,MPEG-4/SD,1330.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,
+829.0,Channel 8,MPEG-4/HD,52.0,11966 H,tp 14,0.0,,,False,Saba World,5/6,21600,DVB-S2,Kur
+,(Texas Lottery feeds),,,11993 H,tp 16,,,,False,Saba World,3/4,13235,DVB-S1,
+,STN,20480-600,,12028 H,tp 18,0.0,,https://www.lyngsat.com/providers/si/STN.html,True,STN,3/4,22000,DVB-S2,
+7790.0,TRT Türk,MPEG-2/SD,7200.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Tur
+7791.0,Supreme Master TV,MPEG-2/SD,7201.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7792.0,Bayyinat TV,MPEG-2/SD,7202.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Ara
+7793.0,BogBlag TV,MPEG-2/SD,7203.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Rus
+7794.0,Victory Channel (USA),MPEG-2/SD,7204.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7796.0,Silk Way,MPEG-2/SD,7206.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Kaz
+7797.0,Kentron TV International,MPEG-2/SD,7207.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Arm
+7801.0,TV TRWAM,MPEG-4/HD,7841.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Pol
+7806.0,Angel TV America,MPEG-4/HD,7846.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Tam
+7807.0,AssyriaSat,MPEG-2/SD,7847.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Syr
+7810.0,Rûdaw,MPEG-2/SD,7850.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Kur
+7813.0,CTN (USA),MPEG-4/HD,7853.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7818.0,3ABN English,MPEG-4/HD,7858.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7819.0,Amazing Facts TV,MPEG-2/SD,7859.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7820.0,Amazing Discoveries TV,MPEG-2/SD,7860.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7821.0,Firstlight,MPEG-2/SD,7891.0,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,
+7798.0,CJTL Radio,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7799.0,Faith Radio,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7814.0,3ABN Radio Music Channel,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7815.0,3ABN Radio Network,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7816.0,Radio 74 Internationale,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Eng
+7817.0,3ABN Radio Latino,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Spa
+7901.0,Radio Maryja,,,12028 H,tp 18,0.0,,,False,STN,3/4,22000,DVB-S2,Pol
+,Globecast,?-7,,12053 V,tp 19,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-7,,12053 V,tp 19,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-7,,12053 V,tp 19,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-7,,12053 V,tp 19,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-10,,12146 V,tp 25,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-10,,12146 V,tp 25,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-10,,12146 V,tp 25,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,?-10,,12146 V,tp 25,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,22000,DVB-S2,
+,Globecast,1-5,,12152 H,tp 26,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,20000,DVB-S2,
+,Globecast,1-5,,12152 H,tp 26,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,20000,DVB-S2,
+,Globecast,1-5,,12152 H,tp 26,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,20000,DVB-S2,
+,Globecast,1-5,,12152 H,tp 26,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,20000,DVB-S2,
+,Globecast,0-1,,12177 V,tp 27,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,23000,DVB-S2,
+,Globecast,0-1,,12177 V,tp 27,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,23000,DVB-S2,
+,Globecast,0-1,,12177 V,tp 27,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,23000,DVB-S2,
+,Globecast,0-1,,12177 V,tp 27,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,23000,DVB-S2,
+4.0,Global Mall TV,MPEG-2/SD,516.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Vie
+15.0,IBC TV,MPEG-2/SD,1090.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Vie
+318.0,TBN USA,MPEG-2/SD,33.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Eng
+319.0,TBN Inspire USA,MPEG-2/SD,47.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Eng
+321.0,Smile TV,MPEG-2/SD,4130.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Eng
+322.0,Positiv,MPEG-2/SD,113.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Eng
+380.0,Al Maghribia,MPEG-2/SD,4023.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Ara
+381.0,2M Monde,MPEG-2/SD,272.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Ara
+524.0,Tele Congo,MPEG-2/SD,180.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Fre
+527.0,Armenia 1 TV Satellite,MPEG-2/SD,592.0,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Arm
+382.0,WWCR,,,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Eng
+525.0,Radio Congo,,,12053 V,tp 19,0.0,,,False,Globecast,3/4,22000,DVB-S2,Fre
+,CCTV,,,12084 V,tp 21,0.0,,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,20760,DVB-S2,
+1.0,CCTV 4 America,MPEG-2/SD,512.0,12084 V,tp 21,0.0,,,False,CCTV,3/4,20760,DVB-S2,Chi
+2.0,CGTN,MPEG-2/SD,513.0,12084 V,tp 21,0.0,,,False,CCTV,3/4,20760,DVB-S2,Eng
+3.0,CGTN Français,MPEG-2/SD,514.0,12084 V,tp 21,0.0,,,False,CCTV,3/4,20760,DVB-S2,Fre
+7.0,CGTN Español,MPEG-2/SD,518.0,12084 V,tp 21,0.0,,,False,CCTV,3/4,20760,DVB-S2,Spa
+8.0,CGTN Documentary,MPEG-2/SD,519.0,12084 V,tp 21,0.0,,,False,CCTV,3/4,20760,DVB-S2,Eng
+801.0,Palestine TV,MPEG-2/SD,2021.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+802.0,Oman TV,MPEG-4/SD,2022.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+803.0,Sudan TV,MPEG-2/SD,2023.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+805.0,Ekhbariya TV,MPEG-2/SD,2025.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+807.0,Sharjah TV,MPEG-2/SD,2027.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+808.0,Canal Algérie 2,MPEG-2/SD,2028.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+812.0,Jordan TV,MPEG-2/SD,2073.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+814.0,SSBC TV,MPEG-2/SD,2029.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+815.0,KTV 1,MPEG-4/HD,2074.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+816.0,KTV Al Qurain,MPEG-4/HD,2075.0,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+824.0,Riyadh Radio,,,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+825.0,Quran Radio (Saudi Arabia),,,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+831.0,SSBC Radio,,,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+834.0,Sharjah Radio,,,12146 V,tp 25,0.0,,,False,CCTV,3/4,22000,DVB-S2,Ara
+7.0,Alwatania TV,MPEG-2/SD,700.0,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Ara
+8.0,Quran TV (Saudi Arabia),MPEG-2/SD,1024.0,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Ara
+9.0,Sunna TV (Saudi Arabia),MPEG-2/SD,1025.0,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Ara
+10.0,Saudi TV,MPEG-4/HD,1021.0,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Ara
+608.0,RTP Internacional América,MPEG-2/SD,800.0,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Por
+604.0,Jeddah Radio,,,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Ara
+605.0,Saudia Radio,,,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,
+609.0,RDP Internacional,,,12152 H,tp 26,0.0,,,False,CCTV,3/4,20000,DVB-S2,Por
+1.0,Hwazan Satellite TV,MPEG-2/SD,308.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Chi
+3.0,RTS 1 (Senegal),MPEG-2/SD,300.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Fre
+7.0,Al Mayadeen TV,MPEG-2/SD,33.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Ara
+8.0,Muslim Network TV,MPEG-4/SD,800.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Eng
+9.0,Yemen TV,MPEG-2/SD,4896.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Ara
+10.0,Guide US TV,MPEG-2/SD,66.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Eng
+11.0,EEE Network,MPEG-2/SD,69.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Spa
+12.0,Good Idea TV,MPEG-2/SD,56.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Tha
+16.0,Iran e Aryaee TV,MPEG-2/SD,6432.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Per
+17.0,NAT TV,MPEG-2/SD,4130.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Tha
+20.0,Impact TV Network (USA),MPEG-2/SD,2000.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Rus
+21.0,Parole di Vita,MPEG-4/HD,501.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Ita
+26.0,Al-Sirat TV,MPEG-2/SD,113.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Ara
+27.0,Bethel TV (Peru),MPEG-2/SD,5664.0,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Spa
+4.0,Global Star 3,,,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Spa
+6.0,Radio Sana'a,,,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Ara
+13.0,WRN English North America,,,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Eng
+15.0,Radio Mega,,,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Fre
+23.0,Republic Broadcasting Network,,,12177 V,tp 27,0.0,,,False,CCTV,3/4,23000,DVB-S2,Eng
+,Intelsat,,,12184 H,tp 28,0.0,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,2/3,22500,DVB-S2,
+1.0,Al Kass Two,/HD,100.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Ara
+3.0,Qatar TV,/HD,48.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Ara
+4.0,MTA 8 America,MPEG-4/HD,300.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Eng
+5.0,MTA 8 America +3,MPEG-4/HD,500.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Eng
+6.0,MTA 3 Al-Arabia,MPEG-4/HD,301.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Ara
+1001.0,Wedo Big Stories,MPEG-4/HD,1000.0,12184 H,tp 28,0.0,,,False,Intelsat,2/3,22500,DVB-S2,Eng

@@ -1,0 +1,27 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,Dish Mexico,5907-1,,12224 R,tp 1,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-3,,12253 R,tp 3,,Nagravision,,,,False,,7/8,20000,DVB-S2,,,
+,Dish Mexico,5907-6,,12297 L,tp 6,,Nagravision,,,,False,,7/8,20000,DVB-S2,,,
+,Dish Mexico,5907-8,,12326 L,tp 8,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-13,,12399 R,tp 13,,Nagravision,,,,False,,1/2,20000,DVB-S2,,,
+,Dish Mexico,5907-15,,12428 R,tp 15,,Nagravision,,,,False,,7/8,20000,DVB-S2,,,
+,Dish Mexico,5907-18,,12472 L,tp 18,,Nagravision,,,,False,,7/8,20000,DVB-S2,,,
+,Dish Mexico,5907-19,,12486 R,tp 19,,Nagravision,,,,False,,5/6,20000,DVB-S2,,,
+,Dish Mexico,5907-22,,12530 L,tp 22,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-23,,12545 R,tp 23,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-27,,12603 R,tp 27,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-28,,12618 L,tp 28,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-29,,12632 R,tp 29,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-30,,12647 L,tp 30,,Nagravision,,,,False,,5/6,22500,DVB-S ,,,
+,Dish Mexico,5907-31,,12661 R,tp 31,,Nagravision,,,,False,,7/8,20000,DVB-S2,,,
+,TV Méxiquense,,,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,,mx,mx
+,TV Méxiquense,,,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,,mx,mx
+1.0,TV Méxiquense,MPEG-2/HD,49.0,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,mx
+1.0,TV Méxiquense,MPEG-2/HD,49.0,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,mx
+4.0,TV Méxiquense,MPEG-4/HD,65.0,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,mx
+4.0,TV Méxiquense,MPEG-4/HD,65.0,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,True,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,mx
+2.0,AMX Noticias,MPEG-2/SD,79.0,12276 R,tp 5,,,,AMX Noticias,https://www.lyngsat.com/tvchannels/mx/AMX-Noticias.html,False,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,
+3.0,AMX Noticias +1,MPEG-2/SD,89.0,12276 R,tp 5,,,,AMX Noticias +1,https://www.lyngsat.com/tvchannels/mx/AMX-Noticias--1.html,False,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,
+4.0,Radio Méxiquense 91.1 FM,,,12276 R,tp 5,,,,Radio Méxiquense 91.1 FM,https://www.lyngsat.com/radiochannels/mx/Radio-Mexiquense-911-FM.html,False,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,
+4.0,Radio Méxiquense 1600 AM,,,12276 R,tp 5,,,,Radio Méxiquense 1600 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Mexiquense-1600-AM.html,False,TV Méxiquense,3/4,10500,DVB-S2,Spa,mx,
+150.0,Dishome promo,MPEG-2/SD,5922.0,12486 R,tp 19,,,,,,False,TV Méxiquense,5/6,20000,DVB-S2,Spa,,

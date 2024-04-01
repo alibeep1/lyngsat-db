@@ -1,0 +1,24 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(WWE feeds),,,4100 V,tp 20,,,,False,,5/6,30000,DVB-S2,
+,(feeds),,,4105 H,tp 21,,,,False,,3/4,7500,DVB-S2,
+,(feeds),,,4138 V,tp 22,,,,False,,3/4,17000,DVB-S2,
+,(feeds),,,11940 V,tp 12,,,,False,,TSC,,NTSC,
+,(feeds),,,12050 V,tp 18,,,,False,,800,8,DVB-S2,
+,(feeds),,,12064 V,tp 18,,,,False,,5/6,6510,DVB-S6,
+,(feeds),,,12152 H,tp 23,,,,False,,000,15,DVB-S2,
+,(feeds),,,12165 H,tp 23,,,,False,,3/4,6110,DVB-S6,
+2.0,Point of View,?-3,,4177 H,tp 23,0.0,,,False,,3/4,2894,DVB-S2,Eng
+,(Sinclair feeds),,,11744 H,tp 3,,,,False,,3/4,4250,DVB-S2,
+,(Sinclair feeds),,,11749 H,tp 3,,,,False,,3/4,4250,DVB-S2,
+,(Sinclair feeds),,,11754 H,tp 3,,,,False,,3/4,4250,DVB-S2,
+,(CNN Newsource feeds),,,11760 H,tp 3,,,,False,,3/4,3978,DVB-S3,
+,(CNN Newsource feeds),,,11960 H,tp 13,,,,False,,3/4,30000,DVB-S2,
+,,,,11800 H,tp 5,0.0,,,False,,,,,
+,(LPB feeds),,,11804 H,tp 5,,,,False,,3/5,1250,DVB-S2,
+,LPB,,,11811 H,tp 5,0.0,,https://www.lyngsat.com/providers/us/LPB.html,True,LPB,3/5,11150,DVB-S2,
+6.0,LPB,MPEG-2/HD,97.0,11811 H,tp 5,0.0,,https://www.lyngsat.com/providers/us/LPB.html,True,LPB,3/5,11150,DVB-S2,Eng
+4.0,LPB Kids,MPEG-2/SD,65.0,11811 H,tp 5,0.0,,,False,LPB,3/5,11150,DVB-S2,Eng
+5.0,LPB 3,MPEG-2/SD,81.0,11811 H,tp 5,0.0,,,False,LPB,3/5,11150,DVB-S2,Eng
+3.0,The Florida Channel,1-4MPEG-2/SD,49.0,12044 V,tp 18,0.0,,,False,LPB,2/3,3200,DVB-S2,Eng
+1.0,[NYS Media test card],1-1,69.0,12137 H,tp 21,0.0,,,False,LPB,3/4,3978,DVB-S2,
+,(Unreliable Sources feeds),,,12184 V,tp 24,,,,False,LPB,3/4,3500,DVB-S3,

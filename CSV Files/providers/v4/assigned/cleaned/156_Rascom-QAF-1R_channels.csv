@@ -1,0 +1,47 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,Media Sports Infos,?-?MPEG-4/SD,258.0,3970 R,,40.5-42,,,False,,3/5,1666,DVB-S2,Fre
+,(feeds),,,3973 R,,,,,False,,3/5,3200,DVB-S2,
+,(feeds),,,4050 R,,,,,False,,5/6,7500,DVB-S2,
+,(feeds),,,4147 R,,,,,False,,3/4,7200,DVB-S2,
+104.0,My Righteous TV,?-?MPEG-4/SD,97.0,3975 R,,40.5-42,,,False,,3/4,1000,DVB-S2,Eng
+,Vicus Luxlink,,,3987 R,,40.5-42,,https://www.lyngsat.com/providers/de/Vicus-Luxlink.html,True,Vicus Luxlink,3/4,3750,DVB-S2,
+,Vicus Luxlink,,,3987 R,,40.5-42,,https://www.lyngsat.com/providers/de/Vicus-Luxlink.html,True,Vicus Luxlink,3/4,3750,DVB-S2,
+,Vicus Luxlink,,,11218 V,,0,,https://www.lyngsat.com/providers/de/Vicus-Luxlink.html,True,Vicus Luxlink,5/6,26000,DVB-S2,
+,Vicus Luxlink,,,11218 V,,0,,https://www.lyngsat.com/providers/de/Vicus-Luxlink.html,True,Vicus Luxlink,5/6,26000,DVB-S2,
+100.0,Clouds TV,MPEG-4/SD,1001.0,3987 R,,40.5-42,,,False,Vicus Luxlink,3/4,3750,DVB-S2,Eng
+,Clouds TV,MPEG-4/SD,2251.0,11218 V,,0,,,False,Vicus Luxlink,5/6,26000,DVB-S2,Eng
+101.0,Wasafi TV,MPEG-4/SD,1011.0,3987 R,,40.5-42,,,False,Vicus Luxlink,3/4,3750,DVB-S2,
+,Wasafi TV,MPEG-4/SD,2261.0,11218 V,,0,,,False,Vicus Luxlink,5/6,26000,DVB-S2,
+98.0,Wasafi FM,,,3987 R,,40.5-42,,,False,Vicus Luxlink,3/4,3750,DVB-S2,
+,Wasafi FM,,,11218 V,,0,,,False,Vicus Luxlink,5/6,26000,DVB-S2,
+99.0,Clouds FM,,,3987 R,,40.5-42,,,False,Vicus Luxlink,3/4,3750,DVB-S2,Eng
+,Clouds FM,,,11218 V,,0,,,False,Vicus Luxlink,5/6,26000,DVB-S2,Eng
+,Dash Media,,,4016 R,,40.5-42,,https://www.lyngsat.com/providers/cm/Dash-Media.html,True,Dash Media,3/4,2500,DVB-S2,
+1.0,Dash TV News,MPEG-4/HD,256.0,4016 R,,40.5-42,,,False,Dash Media,3/4,2500,DVB-S2,Fre
+2.0,Dash TV Sports & Entertainment,MPEG-4/HD,513.0,4016 R,,40.5-42,,,False,Dash Media,3/4,2500,DVB-S2,Fre
+,,,,4019 R,,40.5-42,,,False,Dash Media,,,,
+,,,,4082 R,,40.5-42,,,False,Dash Media,,,,
+257.0,Amen TV Sat,?-?MPEG-4/SD,257.0,4027 R,,40.5-42,,,False,Dash Media,8/9,1666,DVB-S2,Fre
+257.0,Nyota TV (Congo),?-?MPEG-4/SD,257.0,4032 R,,40.5-42,,,False,Dash Media,3/4,2500,DVB-S2,Fre
+202.0,Nyota TV (Congo),MPEG-4/SD,2021.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Fre
+513.0,For You Africa,1-1MPEG-4/HD,514.0,4036 R,,40.5-42,,,False,Dash Media,3/5,1830,DVB-S2,Fre
+513.0,For You Radio,,,4036 R,,40.5-42,,,False,Dash Media,3/5,1830,DVB-S2,Fre
+101.0,InfoTV,1-1MPEG-4/SD,33.0,4038 R,,40.5-42,,,False,Dash Media,3/5,2358,DVB-S2,Fre
+1.0,Univers TV,?-?MPEG-4/SD,257.0,4045 R,,40.5-42,,,False,Dash Media,3/4,1080,DVB-S2,Fre
+2.0,[Life HD TV test card],1-1MPEG-4/HD,544.0,4075 R,,40.5-42,,,False,Dash Media,3/5,2082,DVB-S2,
+3.0,Radio Amani FM,,,4075 R,,40.5-42,,,False,Dash Media,3/5,2082,DVB-S2,Fre
+4.0,Life Radio (Congo-Kinshasa),,,4075 R,,40.5-42,,,False,Dash Media,3/5,2082,DVB-S2,Fre
+1.0,LTM TV,8192-4096MPEG-4/SD,512.0,4116 R,,40.5-42,,,False,Dash Media,3/5,1000,DVB-S2,Fre
+,France 24 Français,MPEG-4/SD,33.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Fre
+,Dira TV,MPEG-4/SD,2241.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Swa
+,Agape TV Network,MPEG-4/SD,2281.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Eng
+,TBC 1,,2301.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,
+,TBC 2,,2311.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,
+,Tanzania Safari Channel,,2321.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Eng
+,Testimony TV (Kenya),,2371.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Eng
+211.0,RTNC,MPEG-4/SD,2111.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Fre
+213.0,RTNC 3,MPEG-4/SD,2131.0,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Fre
+,TBC Taifa,,,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Swa
+,TBC FM,,,11218 V,,0,,,False,Dash Media,5/6,26000,DVB-S2,Swa
+,Muvi TV,55-1,,11349 V,,0,Conax,,False,Dash Media,3/4,18300,DVB-S2,
+,Muvi TV,55-2,,11403 V,,0,Conax,,False,Dash Media,3/4,18300,DVB-S2,

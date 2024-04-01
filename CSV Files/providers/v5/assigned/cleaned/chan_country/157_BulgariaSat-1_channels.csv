@@ -1,0 +1,82 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Neosat,3-26,,12073 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-25,,12092 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-23,,12149 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-24,,12169 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-12,,12188 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-21,,12207 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-8,,12226 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-16,,12303 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-19,,12322 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-15,,12341 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-14,,12360 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-18,,12418 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,2-10,,12458 H,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+,Neosat,3-20,,12476 V,,50.0,"Bulcrypt,Conax",,,,False,,2/3,30000.0,DVB-S2,,
+618.0,Radio N-Joy,,,12073 H,,50.0,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+618.0,Radio N-Joy,,,12073 H,,50.0,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+619.0,Radio Z-Rock,,,12073 H,,50.0,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+619.0,Radio Z-Rock,,,12073 H,,50.0,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+620.0,Radio Veselina,,,12073 H,,50.0,,,Radio Veselina,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+620.0,Radio Veselina,,,12073 H,,50.0,,,Radio Veselina,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+597.0,Radio Veronika,,,12092 V,,50.0,,,Radio Veronika,https://www.lyngsat.com/radiochannels/bg/Radio-Veronika.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+597.0,Radio Veronika,,,12092 V,,50.0,,,Radio Veronika,https://www.lyngsat.com/radiochannels/bg/Radio-Veronika.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+598.0,The Voice Bulgaria,,,12092 V,,50.0,,,The Voice Bulgaria,https://www.lyngsat.com/radiochannels/dk/The-Voice-Bulgaria.html,False,,2/3,30000.0,DVB-S2,Bul,dk
+599.0,Magic FM (Bulgaria),,,12092 V,,50.0,,,Magic FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Magic-FM.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+599.0,Magic FM (Bulgaria),,,12092 V,,50.0,,,Magic FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Magic-FM.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+522.0,ERT World,HEVC,1610.0,12149 H,,50.0,,,ERT World,https://www.lyngsat.com/tvchannels/gr/ERT-World.html,False,,2/3,30000.0,DVB-S2,Gre,gr
+530.0,TRT World,MPEG-4/SD,1650.0,12149 H,,50.0,,,TRT World,https://www.lyngsat.com/tvchannels/tr/TRT-World.html,False,,2/3,30000.0,DVB-S2,Eng,tr
+530.0,TRT World,MPEG-4/SD,1650.0,12149 H,,50.0,,,TRT World,https://www.lyngsat.com/tvchannels/tr/TRT-World.html,False,,2/3,30000.0,DVB-S2,Eng,tr
+533.0,Freedom,MPEG-4/SD,1665.0,12149 H,,50.0,,,Freedom,https://www.lyngsat.com/tvchannels/ua/Freedom.html,False,,2/3,30000.0,DVB-S2,Rus,ua
+533.0,Freedom,MPEG-4/SD,1665.0,12149 H,,50.0,,,Freedom,https://www.lyngsat.com/tvchannels/ua/Freedom.html,False,,2/3,30000.0,DVB-S2,Rus,ua
+534.0,Kanal 3,MPEG-4/SD,1670.0,12149 H,,50.0,,,Kanal 3,https://www.lyngsat.com/tvchannels/bg/Kanal-3.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+538.0,Radio 1 (Bulgaria),,,12149 H,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+538.0,Radio 1 (Bulgaria),,,12149 H,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+538.0,Radio 1 (Bulgaria),,,12149 H,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+538.0,Radio 1 (Bulgaria),,,12149 H,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+566.0,Radio 1 (Bulgaria),,,12169 V,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+566.0,Radio 1 (Bulgaria),,,12169 V,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+566.0,Radio 1 (Bulgaria),,,12169 V,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+566.0,Radio 1 (Bulgaria),,,12169 V,,50.0,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+540.0,TVR International,HEVC/SD,1700.0,12169 V,,50.0,,,TVR International,https://www.lyngsat.com/tvchannels/ro/TVR-International.html,False,,2/3,30000.0,DVB-S2,Rum,ro
+540.0,TVR International,HEVC/SD,1700.0,12169 V,,50.0,,,TVR International,https://www.lyngsat.com/tvchannels/ro/TVR-International.html,False,,2/3,30000.0,DVB-S2,Rum,ro
+546.0,Epic Drama,HEVC/HD,1730.0,12169 V,,50.0,,,Epic Drama,https://www.lyngsat.com/tvchannels/se/Epic-Drama.html,False,,2/3,30000.0,DVB-S2,Bul,se
+567.0,BG Radio,,,12169 V,,50.0,,,BG Radio,https://www.lyngsat.com/radiochannels/bg/BG-Radio.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+567.0,BG Radio,,,12169 V,,50.0,,,BG Radio,https://www.lyngsat.com/radiochannels/bg/BG-Radio.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+568.0,Eparkhiiski Glas,,,12169 V,,50.0,,,Eparkhiiski Glas,https://www.lyngsat.com/radiochannels/bg/Eparkhiiski-Glas.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+568.0,Eparkhiiski Glas,,,12169 V,,50.0,,,Eparkhiiski Glas,https://www.lyngsat.com/radiochannels/bg/Eparkhiiski-Glas.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+569.0,BNR Horizont,,,12169 V,,50.0,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+569.0,BNR Horizont,,,12169 V,,50.0,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+570.0,Darik Radio,,,12169 V,,50.0,,,Darik Radio,https://www.lyngsat.com/radiochannels/bg/Darik-Radio.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+570.0,Darik Radio,,,12169 V,,50.0,,,Darik Radio,https://www.lyngsat.com/radiochannels/bg/Darik-Radio.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+260.0,Evrokom,MPEG-4/HD,1300.0,12207 V,,50.0,,,Evrokom,https://www.lyngsat.com/tvchannels/bg/Evrokom.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+260.0,Evrokom,MPEG-4/HD,1300.0,12207 V,,50.0,,,Evrokom,https://www.lyngsat.com/tvchannels/bg/Evrokom.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+263.0,Fen Folk,MPEG-4/SD,1315.0,12207 V,,50.0,,,Fen Folk,https://www.lyngsat.com/tvchannels/bg/Fen-Folk.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+269.0,BNT 4,MPEG-4/HD,1345.0,12207 V,,50.0,,,BNT 4,https://www.lyngsat.com/tvchannels/bg/BNT-4.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+269.0,BNT 4,MPEG-4/HD,1345.0,12207 V,,50.0,,,BNT 4,https://www.lyngsat.com/tvchannels/bg/BNT-4.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+275.0,The Voice TV,MPEG-4/HD,1375.0,12207 V,,50.0,,,The Voice TV,https://www.lyngsat.com/tvchannels/bg/The-Voice-TV.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+275.0,The Voice TV,MPEG-4/HD,1375.0,12207 V,,50.0,,,The Voice TV,https://www.lyngsat.com/tvchannels/bg/The-Voice-TV.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+164.0,TV 1 (Bulgaria),MPEG-4/HD,820.0,12303 H,,50.0,,,TV 1 (Bulgaria),https://www.lyngsat.com/tvchannels/bg/TV-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+164.0,TV 1 (Bulgaria),MPEG-4/HD,820.0,12303 H,,50.0,,,TV 1 (Bulgaria),https://www.lyngsat.com/tvchannels/bg/TV-1.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+167.0,Bulgaria 24,MPEG-4/HD,835.0,12303 H,,50.0,,,Bulgaria 24,https://www.lyngsat.com/tvchannels/bg/Bulgaria-24.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+230.0,VTK,MPEG-4/SD,1150.0,12322 V,,50.0,,,VTK,https://www.lyngsat.com/tvchannels/bg/VTK.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+230.0,VTK,MPEG-4/SD,1150.0,12322 V,,50.0,,,VTK,https://www.lyngsat.com/tvchannels/bg/VTK.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+231.0,Planeta Folk,MPEG-4/SD,1155.0,12322 V,,50.0,,,Planeta Folk,https://www.lyngsat.com/tvchannels/bg/Planeta-Folk.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+145.0,Balkanika Music TV,MPEG-4/HD,735.0,12341 H,,50.0,,,Balkanika Music TV,https://www.lyngsat.com/tvchannels/bg/Balkanika-Music-TV.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+114.0,Magic TV (Bulgaria),MPEG-4/SD,570.0,12360 V,,50.0,,,Magic TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/Magic-TV.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+114.0,Magic TV (Bulgaria),MPEG-4/SD,570.0,12360 V,,50.0,,,Magic TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/Magic-TV.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+115.0,Nastoyashcheye Vremya,MPEG-4/SD,575.0,12360 V,,50.0,,,Nastoyashcheye Vremya,https://www.lyngsat.com/tvchannels/cz/Nastoyashcheye-Vremya.html,False,,2/3,30000.0,DVB-S2,Rus,cz
+115.0,Nastoyashcheye Vremya,MPEG-4/SD,575.0,12360 V,,50.0,,,Nastoyashcheye Vremya,https://www.lyngsat.com/tvchannels/cz/Nastoyashcheye-Vremya.html,False,,2/3,30000.0,DVB-S2,Rus,cz
+,,,,12380 H,,50.0,,,,,False,,,,,,
+207.0,DW English,MPEG-4/SD,527.0,12458 H,,50.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,,2/3,30000.0,DVB-S2,Eng,de
+207.0,DW English,MPEG-4/SD,527.0,12458 H,,50.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,,2/3,30000.0,DVB-S2,Eng,de
+426.0,Espreso TV,MPEG-4/SD,1935.0,12458 H,,50.0,,,Espreso TV,https://www.lyngsat.com/tvchannels/ua/Espreso-TV.html,False,,2/3,30000.0,DVB-S2,Ukr,ua
+426.0,Espreso TV,MPEG-4/SD,1935.0,12458 H,,50.0,,,Espreso TV,https://www.lyngsat.com/tvchannels/ua/Espreso-TV.html,False,,2/3,30000.0,DVB-S2,Ukr,ua
+429.0,TV Duga +,MPEG-4/SD,1956.0,12458 H,,50.0,,,TV Duga +,https://www.lyngsat.com/tvchannels/rs/TV-Duga--.html,False,,2/3,30000.0,DVB-S2,Srp,rs
+429.0,TV Duga +,MPEG-4/SD,1956.0,12458 H,,50.0,,,TV Duga +,https://www.lyngsat.com/tvchannels/rs/TV-Duga--.html,False,,2/3,30000.0,DVB-S2,Srp,rs
+440.0,RTP Internacional Europa,MPEG-4/SD,2033.0,12458 H,,50.0,,,RTP Internacional Europa,https://www.lyngsat.com/tvchannels/pt/RTP-Internacional-Europa.html,False,,2/3,30000.0,DVB-S2,Por,pt
+440.0,RTP Internacional Europa,MPEG-4/SD,2033.0,12458 H,,50.0,,,RTP Internacional Europa,https://www.lyngsat.com/tvchannels/pt/RTP-Internacional-Europa.html,False,,2/3,30000.0,DVB-S2,Por,pt
+242.0,Rodina,MPEG-4/HD,1210.0,12476 V,,50.0,,,Rodina,https://www.lyngsat.com/tvchannels/bg/Rodina.html,False,,2/3,30000.0,DVB-S2,Bul,bg
+,(feeds),,,12509 H,,,,,,,False,,2/3,6333.0,DVB-S2,,
+,(feeds),,,12521 H,,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,12538 H,,,,,,,False,,2/3,6333.0,DVB-S2,,

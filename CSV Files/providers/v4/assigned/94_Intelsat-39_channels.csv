@@ -1,0 +1,327 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3871 LWest hemi39.7-41.7,DVB-S21505/6,,RMS Radio,,65535-1,,6.5,,F Dibba191025,3871 L,,39.7-41.7,,https://www.lyngsat.com/providers/ke/RMS-Radio.html,True,RMS Radio
+3871 LWest hemi39.7-41.7,DVB-S21505/6,1.0,Hot 96,,,,3604 Eng,,,3871 L,,39.7-41.7,,,False,RMS Radio
+3871 LWest hemi39.7-41.7,DVB-S21505/6,1.0,Radio Citizen,,,,3605,,,3871 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,,Kenyan mux,,.-.,,9.4,,M Al-Taie211221,3878 L,,39.7-41.7,,,False,RMS Radio
+3940 LWest hemi39.7-41.7,DVB-S28PSK20833/4,,Kenyan mux,,8192-4096,,7.9,,DX Bozóth240204,3940 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,1.0,NTV (Kenya),,MPEG-4/SD,544.0,800 Eng,,,3878 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,2.0,Citizen TV,,MPEG-4/SD,545.0,801 Eng,,,3878 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,3.0,Inooro TV,,MPEG-4/SD,546.0,802 Eng,,,3878 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,4.0,QTV (Kenya),,MPEG-4/SD,547.0,803 Swa,,,3878 L,,39.7-41.7,,,False,RMS Radio
+3878 LWest hemi39.7-41.7,DVB-S28PSK55745/6MultistreamStream 2T2-MIPLP 0,5.0,Ramogi TV,,MPEG-4/SD,548.0,804,,,3878 L,,39.7-41.7,,,False,RMS Radio
+3940 LWest hemi39.7-41.7,DVB-S28PSK20833/4,1.0,Nation FM (Kenya),,,,4116 Eng,,,3940 L,,39.7-41.7,,,False,RMS Radio
+3940 LWest hemi39.7-41.7,DVB-S28PSK20833/4,2.0,NRG Radio,,,,4118 Eng,,,3940 L,,39.7-41.7,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,,Myanmar mux,,,,7.9,,Aungpyaesone240102,4049 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,,Myanmar mux,,,,7.9,,NHMPlay221127,4061 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,,Myanmar mux,,,,4.0,,Aungpyaesone240117,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,51.0,MRTV,,MPEG-4/HD,100.0,200 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,51.0,MRTV,,MPEG-4/HD,100.0,200 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,52.0,MRTV News,,MPEG-4/HD,101.0,201 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,52.0,MRTV News,,MPEG-4/HD,101.0,201 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,53.0,MRTV Parliament,,MPEG-4/SD,102.0,202 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,53.0,MRTV Parliament,,MPEG-4/SD,102.0,202 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,54.0,MRTV NRC,,MPEG-4/HD,103.0,203,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,54.0,MRTV NRC,,MPEG-4/HD,103.0,203,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,55.0,MRTV Farmers,,MPEG-4/SD,104.0,204 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,55.0,MRTV Farmers,,MPEG-4/SD,104.0,204 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,56.0,MRTV Sports,,MPEG-4/SD,105.0,205 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,56.0,MRTV Sports,,MPEG-4/HD,105.0,205 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,57.0,Myanmar International TV,,MPEG-4/SD,106.0,206 Eng,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,57.0,Myanmar International TV,,MPEG-4/HD,106.0,206 Eng,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,58.0,Education Channel,,MPEG-4/SD,107.0,207 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,58.0,Education Channel,,MPEG-4/SD,107.0,207 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,59.0,M Entertainment,,MPEG-4/SD,108.0,208 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,59.0,M Entertainment,,MPEG-4/HD,108.0,208 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,60.0,MRTV 4,,MPEG-4/SD,109.0,209 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,60.0,MRTV 4,,MPEG-4/HD,109.0,209 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,61.0,Channel 7 (Myanmar),,MPEG-4/SD,110.0,210 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,61.0,Channel 7 (Myanmar),,MPEG-4/HD,110.0,210 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,62.0,5 Plus (Myanmar),,MPEG-4/SD,111.0,211 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,63.0,MN TV,,MPEG-4/SD,112.0,212 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,64.0,Channel 9 (Myanmar),,MPEG-4/SD,113.0,213 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,65.0,MWD,,MPEG-4/SD,114.0,214 Bur,,,4049 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,65.0,MWD,,MPEG-4/SD,114.0,214 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,66.0,Channel K,,MPEG-4/SD,117.0,217 Bur,,,4049 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,3.0,Channel K,,MPEG-4/SD,115.0,215 Bur,,,4061 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,66.0,Channel K,,MPEG-4/HD,115.0,215 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,67.0,YTV,,MPEG-4/SD,118.0,218 Bur,,,4049 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,4.0,YTV,,MPEG-4/SD,118.0,218 Bur,,,4061 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,68.0,Fortune TV,,MPEG-4/SD,119.0,219 Bur,,,4049 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,5.0,Fortune TV,,MPEG-4/SD,119.0,219 Bur,,,4061 L,,,,,False,RMS Radio
+11140 VMyanmar,DVB-S2QPSK300003/4,68.0,Fortune TV,,MPEG-4/HD,117.0,217 Bur,,,11140 V,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,69.0,Myanmar Radio National,,,,431 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,70.0,Upper Tineyinthar Radio,,,,432 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,71.0,Lower Tineyinthar Radio,,,,231 Bur,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,73.0,Myanmar Radio International,,,,531,,,4049 L,,,,,False,RMS Radio
+4049 LMyanmar,DVB-S28PSK150003/4,74.0,Tha Pyay,,,,532 Bur,,,4049 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,7.0,Mandalay FM,,,,131 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,8.0,Mandalay FM,,,,332 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,9.0,Teen Radio,,,,132 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,10.0,Teen Radio,,,,231 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,11.0,Shwe FM,,,,232 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,12.0,Shwe FM,,,,331 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,13.0,Padamyar FM,,,,36 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,14.0,Padamyar FM,,,,37 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,15.0,FM Bagan,,,,38 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,16.0,FM Bagan,,,,431 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,17.0,Cherry FM,,,,39 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,18.0,Cherry FM,,,,432 Bur,,,4061 L,,,,,False,RMS Radio
+4061 LMyanmar,DVB-S28PSK54153/4,19.0,Myanmar International Radio,,,,258 Bur,,,4061 L,,,,,False,RMS Radio
+10962 Vtp 61Middle East,DVB-S28PSK25005/6,,(feeds),,,,,,Roli240105,10962 V,tp 61,,,,False,RMS Radio
+10967 Vtp 61Middle East,DVB-S16005/6,,(feeds),,,,,,Roli230911,10967 V,tp 61,,,,False,RMS Radio
+10969 Vtp 61Middle East,DVB-S28PSK16605/6,,(feeds),,,,,,Roli230911,10969 V,tp 61,,,,False,RMS Radio
+10971 Vtp 61Middle East,DVB-S28PSK16005/6,,(feeds),,,,,,Roli230208,10971 V,tp 61,,,,False,RMS Radio
+10975 Vtp 61Middle East,DVB-S21005/6,,(feeds),,,,,,Roli240225,10975 V,tp 61,,,,False,RMS Radio
+10978 Vtp 61Middle East,DVB-S28PSK25005/6,,(feeds),,,,,,Roli240225,10978 V,tp 61,,,,False,RMS Radio
+10981 Vtp 61Middle East,DVB-S2QPSK16005/6,,(feeds),,,,,,Roli230908,10981 V,tp 61,,,,False,RMS Radio
+10984 Vtp 61Middle East,DVB-S28PSK14005/6,,(feeds),,,,,,Roli240223,10984 V,tp 61,,,,False,RMS Radio
+10987 Vtp 61Middle East,DVB-S28PSK12403/4,,(feeds),,,,,,Roli230916,10987 V,tp 61,,,,False,RMS Radio
+11068 Vtp 62Middle East,DVB-S275003/4,,(feeds),,,,,,Stanley_cassidy200719,11068 V,tp 62,,,,False,RMS Radio
+11101 Vtp 62Middle East,DVB-S22005/6,,(feeds),,,,,,Roli230129,11101 V,tp 62,,,,False,RMS Radio
+11118 Vtp 62Middle East,DVB-S28PSK16003/4,,(feeds),,,,,,Stanley_cassidyRoli200804,11118 V,tp 62,,,,False,RMS Radio
+11457 Vtp 64Middle East,DVB-S20005/6,,(feeds),,,,,,Roli200821,11457 V,tp 64,,,,False,RMS Radio
+11531 Vtp 64Middle East,DVB-S222003/4,,(feeds),,,,,,Roli211204,11531 V,tp 64,,,,False,RMS Radio
+11536 Vtp 64Middle East,DVB-S222005/6,,(feeds),,,,,,Stanley_cassidyRoli200807,11536 V,tp 64,,,,False,RMS Radio
+10989 Vtp 61Middle East46.3-48.3,DVB-S28PSK16003/5,,Taban TV,,800-800,,5.5,,DX Bozóth221109,10989 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Taban-TV.html,True,Taban TV
+10989 Vtp 61Middle East46.3-48.3,DVB-S28PSK16003/5,182.0,Taban TV,,MPEG-4/SD,1820.0,1821 Per,,,10989 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Taban-TV.html,True,Taban TV
+10989 Vtp 61Middle East46.3-48.3,DVB-S28PSK16003/5,382.0,[Radio Yazd info card],,MPEG-4/SD,3820.0,4821 Per,,,10989 V,tp 61,46.3-48.3,,,False,Taban TV
+10989 Vtp 61Middle East46.3-48.3,DVB-S28PSK16003/5,482.0,Radio Yazd,,,,4821 Per,,,10989 V,tp 61,46.3-48.3,,,False,Taban TV
+10991 Vtp 61Middle East46.3-48.3,DVB-S28PSK15803/5,,Semnan TV,,3622-104,,5.5,,Onacila210124,10991 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Semnan-TV.html,True,Semnan TV
+10991 Vtp 61Middle East46.3-48.3,DVB-S28PSK15803/5,190.0,Semnan TV,,MPEG-4/SD,1900.0,1901 Per,,,10991 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Semnan-TV.html,True,Semnan TV
+10991 Vtp 61Middle East46.3-48.3,DVB-S28PSK15803/5,390.0,[Radio Semnan info card],,MPEG-4/SD,3900.0,4901 Per,,,10991 V,tp 61,46.3-48.3,,,False,Semnan TV
+10991 Vtp 61Middle East46.3-48.3,DVB-S28PSK15803/5,490.0,Radio Semnan,,,,4901 Per,,,10991 V,tp 61,46.3-48.3,,,False,Semnan TV
+10993 Vtp 61Middle East46.3-48.3,DVB-S28PSK15603/5,,Zanjan TV,,3622-104,,5.5,,Onacila210124,10993 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Zanjan-TV.html,True,Zanjan TV
+10993 Vtp 61Middle East46.3-48.3,DVB-S28PSK15603/5,187.0,Zanjan TV,,MPEG-4/SD,1870.0,1871 Per,,,10993 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Zanjan-TV.html,True,Zanjan TV
+10993 Vtp 61Middle East46.3-48.3,DVB-S28PSK15603/5,387.0,[Radio Zanjan info card],,MPEG-4/SD,3870.0,4871 Per,,,10993 V,tp 61,46.3-48.3,,,False,Zanjan TV
+10993 Vtp 61Middle East46.3-48.3,DVB-S28PSK15603/5,487.0,Radio Zanjan,,,,4871 Per,,,10993 V,tp 61,46.3-48.3,,,False,Zanjan TV
+10995 Vtp 61Middle East46.3-48.3,DVB-S28PSK15403/5,,Jahanbin TV,,0-0,,5.5,,DX Bozóth230123,10995 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Jahanbin-TV.html,True,Jahanbin TV
+10995 Vtp 61Middle East46.3-48.3,DVB-S28PSK15403/5,181.0,Jahanbin TV,,MPEG-4/SD,1810.0,1811 Per,,,10995 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Jahanbin-TV.html,True,Jahanbin TV
+10995 Vtp 61Middle East46.3-48.3,DVB-S28PSK15403/5,381.0,[Radio Shahrekord info card],,MPEG-4/SD,3810.0,4811 Per,,,10995 V,tp 61,46.3-48.3,,,False,Jahanbin TV
+10995 Vtp 61Middle East46.3-48.3,DVB-S28PSK15403/5,481.0,Radio Shahrekord,,,,4811 Per,,,10995 V,tp 61,46.3-48.3,,,False,Jahanbin TV
+10997 Vtp 61Middle East46.3-48.3,DVB-S28PSK15203/5,,Isfahan TV,,3622-104,,5.5,,DX Bozóth230123,10997 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Isfahan-TV.html,True,Isfahan TV
+10997 Vtp 61Middle East46.3-48.3,DVB-S28PSK15203/5,171.0,Isfahan TV,,MPEG-4/SD,1710.0,1711 Per,,,10997 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Isfahan-TV.html,True,Isfahan TV
+10997 Vtp 61Middle East46.3-48.3,DVB-S28PSK15203/5,371.0,[Radio Isfahan info card],,MPEG-4/SD,3710.0,4711 Per,,,10997 V,tp 61,46.3-48.3,,,False,Isfahan TV
+10997 Vtp 61Middle East46.3-48.3,DVB-S28PSK15203/5,471.0,Radio Isfahan,,,,4711 Per,,,10997 V,tp 61,46.3-48.3,,,False,Isfahan TV
+10997 Vtp 61Middle East46.3-48.3,DVB-S28PSK15203/5,471.0,Radio Isfahan,,,,4712 Per,,,10997 V,tp 61,46.3-48.3,,,False,Isfahan TV
+10999 Vtp 61Middle East46.3-48.3,DVB-S28PSK15003/5,,Azarbayjan-e Gharbi TV,,3622-104,,5.5,,Onacila210124,10999 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Azarbayjan-e-Gharbi-TV.html,True,Azarbayjan-e Gharbi TV
+10999 Vtp 61Middle East46.3-48.3,DVB-S28PSK15003/5,169.0,Azarbayjan-e Gharbi TV,,MPEG-4/SD,1690.0,1691 Per,,,10999 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Azarbayjan-e-Gharbi-TV.html,True,Azarbayjan-e Gharbi TV
+10999 Vtp 61Middle East46.3-48.3,DVB-S28PSK15003/5,369.0,[Radio Azarbayjan info card],,MPEG-4/SD,3690.0,4691 Per,,,10999 V,tp 61,46.3-48.3,,,False,Azarbayjan-e Gharbi TV
+10999 Vtp 61Middle East46.3-48.3,DVB-S28PSK15003/5,469.0,Radio Azarbayjan,,,,4.91 Per,,,10999 V,tp 61,46.3-48.3,,,False,Azarbayjan-e Gharbi TV
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,Errshm210227,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-508,,7.9,,Errshm210227,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,3622-506,,7.9,,DX Bozóth240312,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230322,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth230324,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,43981-4660,,7.9,,DX Bozóth240312,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,,IRIB,,1582-100,,7.9,,DX Bozóth240312,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,,IRIB,,3622-500,,7.9,,DX Bozóth230322,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,,IRIB,,3622-101,,7.9,,N Stanislav231209,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,179.0,Ilam TV,,MPEG-4/SD,1790.0,1791 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,188.0,Kermanshah TV,,MPEG-4/SD,1880.0,1881 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,191.0,Kordestan TV,,MPEG-4/SD,1910.0,1911 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,379.0,[Radio Ilam info card],,MPEG-4/SD,3790.0,4791 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,388.0,[Radio Kermanshah info card],,MPEG-4/SD,3881.0,4881 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,391.0,[Radio Kordestan info card],,MPEG-4/SD,3910.0,4911 Kur,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,479.0,Radio Ilam,,,,4791 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,488.0,Radio Kermanshah,,,,4881 Per,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11002 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,491.0,Radio Kordestan,,,,4911 Kur,,,11002 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,163.0,Golestan TV,,MPEG-4/SD,1630.0,1631 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,174.0,Mazandaran TV,,MPEG-4/SD,1740.0,1741 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,363.0,[Radio Gorgan info card],,MPEG-4/SD,3630.0,3631 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,374.0,[Radio Mazandaran info card],,MPEG-4/SD,3740.0,4741 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,463.0,Radio Gorgan,,,,4631 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,474.0,Radio Mazandaran,,,,4741 Per,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11006 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,497.0,IRIB World Service Turkmen Radio,,,,4971 Tuk,,,11006 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,173.0,Kerman TV,,MPEG-4/SD,1730.0,1731 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,177.0,Hamoon TV,,MPEG-4/SD,1770.0,1771 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,185.0,Khalij-e Fars TV,,MPEG-4/SD,1850.0,1851 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,373.0,[Radio Kerman info card],,MPEG-4/SD,3730.0,4731 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,377.0,[Radio Zahedan info card],,MPEG-4/SD,3770.0,4771 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,385.0,[Radio Khalij-e Fars info card],,MPEG-4/SD,3850.0,4851 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,473.0,Radio Kerman,,,,4731 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,477.0,Radio Zahedan,,,,4771 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11009 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,485.0,Radio Bandarabas,,,,4851 Per,,,11009 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,167.0,Guilan TV,,MPEG-4/SD,1670.0,1671 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,193.0,Qazvin TV,,MPEG-4/SD,1930.0,1931 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,367.0,[Radio Rasht info card],,MPEG-4/SD,3670.0,4671 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,393.0,[Radio Qazvin info card],,MPEG-4/SD,3930.0,4931 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,467.0,Radio Rasht,,,,4671 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,493.0,Radio Qazvin,,,,4931 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11012 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,496.0,Radio Broonmarzi,,,,4961 Per,,,11012 V,tp 61,46.3-48.3,,,False,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,498.0,Radio Broonmarzi,,,,4981 Per,,,11026 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,495.0,Radio Broonmarzi,,,,4951 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,260.0,Radio Broonmarzi,,,,2601 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,175.0,Qom TV,,MPEG-4/SD,1750.0,1751 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,180.0,Hamedan TV,,MPEG-4/SD,1800.0,1801 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,186.0,Aftab TV (Iran),,MPEG-4/SD,1860.0,1861 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,375.0,[Radio Qom info card],,MPEG-4/SD,3750.0,4751 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,380.0,[Radio Hamedan info card],,MPEG-4/SD,3800.0,3801 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,386.0,[Radio Aftab info card],,MPEG-4/SD,3860.0,4861 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,475.0,Radio Qom,,,,4751 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,480.0,Radio Hamedan,,,,4801 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11016 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,486.0,Radio Aftab,,,,4861 Per,,,11016 V,tp 61,46.3-48.3,,,False,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,165.0,Aflak TV,,MPEG-4/SD,1650.0,1651 Per,,,11020 V,tp 61,46.3-48.3,,,False,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,172.0,Khozestan TV,,MPEG-4/SD,1720.0,1721 Per,,,11020 V,tp 61,46.3-48.3,,,False,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,365.0,[Radio Lorestan info card],,MPEG-4/SD,3650.0,4651 Per,,,11020 V,tp 61,46.3-48.3,,,False,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,465.0,Radio Lorestan,,,,4651 Per,,,11020 V,tp 61,46.3-48.3,,,False,IRIB
+11020 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,472.0,Radio Khozestan,,,,4721 Per,,,11020 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,164.0,Fars TV,,MPEG-4/SD,1640.0,1641 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,178.0,Boushehr TV,,MPEG-4/SD,1780.0,1781 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,189.0,Dena TV,,MPEG-4/SD,1890.0,1891 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,364.0,[Radio Fars info card],,MPEG-4/SD,3640.0,4641 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,389.0,[Radio Kohgiloyeh info card],,MPEG-4/SD,3890.0,4891 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,464.0,Radio Fars,,,,4641 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,478.0,Radio Boushehr,,,,4781 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11023 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,489.0,Radio Kohgiloyeh,,,,4891 Per,,,11023 V,tp 61,46.3-48.3,,,False,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,162.0,Sahand TV,,MPEG-4/SD,1620.0,1621 Per,,,11026 V,tp 61,46.3-48.3,,,False,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,183.0,Sabalan TV,,MPEG-4/SD,1830.0,1831 Per,,,11026 V,tp 61,46.3-48.3,,,False,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,462.0,Radio Tabriz,,,,4621 Per,,,11026 V,tp 61,46.3-48.3,,,False,IRIB
+11026 Vtp 61Middle East46.3-48.3,DVB-S28PSK23003/4,483.0,Radio Ardabil,,,,4831 Per,,,11026 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,161.0,Khorasan Razavi TV,,MPEG-4/SD,1610.0,1611 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,192.0,Khorasan Jonoobi TV,,MPEG-4/SD,1920.0,1921 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,502.0,Khorasan Shomali TV,,MPEG-4/SD,5020.0,5021 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,461.0,Radio Khorasan e Razavi,,,,4611 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,476.0,Radio Khorasan Shomali,,,,4761 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11030 Vtp 61Middle East46.3-48.3,DVB-S28PSK35003/4,492.0,Radio Khorasan Jonoobi,,,,4921 Per,,,11030 V,tp 61,46.3-48.3,,,False,IRIB
+11140 VMyanmar,DVB-S2QPSK300003/4,69.0,Mahar TV,,MPEG-4/HD,711.0,731 Bur,,,11140 V,,,,,False,IRIB
+11140 VMyanmar,DVB-S2QPSK300003/4,70.0,Mahar Esports,,MPEG-4/HD,911.0,931 Bur,,,11140 V,,,,,False,IRIB
+11140 VMyanmar,DVB-S2QPSK300003/4,71.0,[New Images HD test card],,MPEG-4/HD,1000.0,2000,,,11140 V,,,,,False,IRIB
+11140 VMyanmar,DVB-S2QPSK300003/4,72.0,Mahar Bawdi,,MPEG-4/SD,1011.0,2011 Bur,,,11140 V,,,,,False,IRIB
+11140 VMyanmar,DVB-S2QPSK300003/4,73.0,Readers Channel,,MPEG-4/SD,5122.0,4122 Bur,,,11140 V,,,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,101.0,IRIB 1,,MPEG-4/SD,1010.0,1011 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,102.0,IRIB 2,,MPEG-4/SD,1020.0,1021 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,103.0,IRIB 3,,MPEG-4/SD,1030.0,1031 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,197.0,IRIB 3,,MPEG-4/HD,1970.0,1971 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,104.0,IRIB 4,,MPEG-4/SD,1040.0,1041 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,105.0,Nasim,,MPEG-4/SD,1050.0,1051 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,106.0,IRINN,,MPEG-4/SD,1060.0,1061 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,107.0,Amouzesh TV (07-20 UTC),,MPEG-4/SD,1070.0,1071 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,108.0,Quran TV (Iran),,MPEG-4/SD,1080.0,1081 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,109.0,Doc TV,,MPEG-4/SD,1090.0,1091 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,198.0,Doc TV,,MPEG-4/HD,1980.0,1981 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,110.0,Omid TV (Iran),,MPEG-4/SD,1100.0,1101 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,111.0,Pooya TV (08-14),,MPEG-4/SD,1180.0,1181 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,111.0,Nahal TV (14-19),,MPEG-4/SD,1180.0,1181 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,112.0,Namayesh TV,,MPEG-4/SD,1120.0,1121 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,113.0,Ofogh TV,,MPEG-4/SD,1130.0,1131 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,114.0,IFilm Persian,,MPEG-4/SD,1140.0,1141 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,115.0,Tamasha,,MPEG-4/SD,1150.0,1151 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,196.0,Tamasha,,MPEG-4/HD,1960.0,1961 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,116.0,IRINN 2,,MPEG-4/SD,1160.0,1161 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,117.0,Varzesh TV,,MPEG-4/SD,1170.0,1171 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,199.0,Varzesh TV,,MPEG-4/HD,1990.0,1991 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,119.0,Salamat TV,,MPEG-4/SD,1190.0,1191 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,120.0,IRIB 5,,MPEG-4/SD,1200.0,1201 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,127.0,Sepehr,,MPEG-4/HD,1270.0,1271 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,241.0,Radio Iran,,,,2411 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,242.0,Radio Ava,,,,2421 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,243.0,Radio Javan,,,,2431 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,244.0,Radio Payam,,,,2441 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,245.0,Radio Varzesh,,,,2451 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,246.0,Radio Maaref,,,,2461 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,247.0,Radio Quran (Iran),,,,2471 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,248.0,Radio Farhang,,,,2481 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,249.0,Radio Salamat,,,,2491 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,250.0,Radio Eghtesad,,,,2501 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,251.0,Radio Goftogoo,,,,2511 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,252.0,Radio Namayesh,,,,2521 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,253.0,Radio Tehran,,,,2531 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,254.0,Radio Saba,,,,2541 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,255.0,Radio Monasebati,,,,2551 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,256.0,Radio Telavat,,,,2561 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,257.0,Radio Tartil,,,,2571 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,258.0,IRIB World Service Radio 7,,,,2581 Eng,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,259.0,IRIB World Service Radio 3,,,,2591 Ara,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,261.0,Radio Broonmarzi Dari,,,,2611 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB
+11555 Vtp 65Middle East46.3-48.3,DVB-S28PSK300003/4,262.0,Radio Ziarat,,,,2621 Per,,,11555 V,tp 65,46.3-48.3,,,False,IRIB

@@ -1,0 +1,197 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,TRBNA,,,11050 H,tp BCC3,44-46,BISS,https://www.lyngsat.com/providers/am/TRBNA.html,,,True,TRBNA,1/2,19210.0,DVB-S2,,
+1.0,Armenia 1 TV,MPEG-4/SD,1100.0,11050 H,tp BCC3,44-46,BISS,,Armenia 1 TV,https://www.lyngsat.com/tvchannels/am/Armenia-1-TV.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+2.0,Shoghakat TV,MPEG-4/SD,1200.0,11050 H,tp BCC3,44-46,BISS,,Shoghakat TV,https://www.lyngsat.com/tvchannels/am/Shoghakat-TV.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+3.0,Armenia TV Satellite,MPEG-4/SD,1300.0,11050 H,tp BCC3,44-46,BISS,,Armenia TV Satellite,https://www.lyngsat.com/tvchannels/am/Armenia-TV-Satellite.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+4.0,Shant TV,MPEG-4/SD,1400.0,11050 H,tp BCC3,44-46,BISS,,Shant TV,https://www.lyngsat.com/tvchannels/am/Shant-TV.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+5.0,H2,MPEG-4/SD,1500.0,11050 H,tp BCC3,44-46,BISS,,H2,https://www.lyngsat.com/tvchannels/am/H2.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+6.0,Kentron TV,MPEG-4/SD,1600.0,11050 H,tp BCC3,44-46,BISS,,Kentron TV,https://www.lyngsat.com/tvchannels/am/Kentron-TV.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+7.0,Fast Sports (Armenia),MPEG-4/SD,1700.0,11050 H,tp BCC3,44-46,BISS,,Fast Sports (Armenia),https://www.lyngsat.com/tvchannels/am/Fast-Sports.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+14.0,RTR Planeta,MPEG-4/SD,1800.0,11050 H,tp BCC3,44-46,BISS,,RTR Planeta,https://www.lyngsat.com/tvchannels/ru/RTR-Planeta.html,False,TRBNA,1/2,19210.0,DVB-S2,Rus,ru
+14.0,RTR Planeta,MPEG-4/SD,1800.0,11050 H,tp BCC3,44-46,BISS,,RTR Planeta,https://www.lyngsat.com/tvchannels/ru/RTR-Planeta.html,False,TRBNA,1/2,19210.0,DVB-S2,Rus,ru
+9.0,Public Radio of Armenia,,,11050 H,tp BCC3,44-46,,,Public Radio of Armenia,https://www.lyngsat.com/radiochannels/am/Public-Radio-of-Armenia.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+9.0,Public Radio of Armenia,,,11050 H,tp BCC3,44-46,,,Public Radio of Armenia,https://www.lyngsat.com/radiochannels/am/Public-Radio-of-Armenia.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+10.0,Yerevan FM,,,11050 H,tp BCC3,44-46,,,Yerevan FM,https://www.lyngsat.com/radiochannels/am/Yerevan-FM.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+10.0,Yerevan FM,,,11050 H,tp BCC3,44-46,,,Yerevan FM,https://www.lyngsat.com/radiochannels/am/Yerevan-FM.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+11.0,Radio Arevik,,,11050 H,tp BCC3,44-46,,,Radio Arevik,https://www.lyngsat.com/radiochannels/am/Radio-Arevik.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+11.0,Radio Arevik,,,11050 H,tp BCC3,44-46,,,Radio Arevik,https://www.lyngsat.com/radiochannels/am/Radio-Arevik.html,False,TRBNA,1/2,19210.0,DVB-S2,Arm,am
+,,1-6,,11057 V,tp BAA4,0,,,,,False,TRBNA,3/4,29984.0,DVB-S2,,
+,,,,11528 V,,48,,,,,False,TRBNA,,,,,
+29.0,KTN News (Kenya),MPEG-4/SD,300.0,11057 V,tp BAA4,0,,,KTN News (Kenya),https://www.lyngsat.com/tvchannels/ke/KTN-News.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+32.0,KTN Home,MPEG-4/SD,8000.0,11057 V,tp BAA4,0,,,KTN Home,https://www.lyngsat.com/tvchannels/ke/KTN-Home.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+2.0,Biblia Husema Broadcasting,,,11057 V,tp BAA4,0,,,Biblia Husema Broadcasting,https://www.lyngsat.com/radiochannels/ke/Biblia-Husema-Broadcasting.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+2.0,Biblia Husema Broadcasting,,,11057 V,tp BAA4,0,,,Biblia Husema Broadcasting,https://www.lyngsat.com/radiochannels/ke/Biblia-Husema-Broadcasting.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+3.0,Capital FM (Kenya),,,11057 V,tp BAA4,0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+3.0,Capital FM (Kenya),,,11057 V,tp BAA4,0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+4.0,Ejok FM,,,11057 V,tp BAA4,0,,,Ejok FM,https://www.lyngsat.com/radiochannels/ke/Ejok-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+5.0,Radio Miraya,,,11057 V,tp BAA4,0,,,Radio Miraya,https://www.lyngsat.com/radiochannels/ss/Radio-Miraya.html,False,TRBNA,3/4,29984.0,DVB-S2,Ara,ss
+7.0,Kameme FM,,,11057 V,tp BAA4,0,,,Kameme FM,https://www.lyngsat.com/radiochannels/ke/Kameme-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+10.0,Nam Lolwe FM,,,11057 V,tp BAA4,0,,,Nam Lolwe FM,https://www.lyngsat.com/radiochannels/ke/Nam-Lolwe-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+11.0,Njata FM,,,11057 V,tp BAA4,0,,,Njata FM,https://www.lyngsat.com/radiochannels/ke/Njata-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+12.0,Radio Damal,,,11057 V,tp BAA4,0,,,Radio Damal,https://www.lyngsat.com/radiochannels/ke/Radio-Damal.html,False,TRBNA,3/4,29984.0,DVB-S2,Som,ke
+14.0,Star FM (Kenya),,,11057 V,tp BAA4,0,,,Star FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Star-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Som,ke
+15.0,Anguo FM,,,11057 V,tp BAA4,0,,,Anguo FM,https://www.lyngsat.com/radiochannels/ke/Anguo-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+16.0,ATG Radio,,,11057 V,tp BAA4,0,,,ATG Radio,https://www.lyngsat.com/radiochannels/ke/ATG-Radio.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+18.0,Osiepe FM,,,11057 V,tp BAA4,0,,,Osiepe FM,https://www.lyngsat.com/radiochannels/ke/Osiepe-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+18.0,Osiepe FM,,,11057 V,tp BAA4,0,,,Osiepe FM,https://www.lyngsat.com/radiochannels/ke/Osiepe-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+53.0,Osiepe FM,,,11057 V,tp BAA4,0,,,Osiepe FM,https://www.lyngsat.com/radiochannels/ke/Osiepe-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+53.0,Osiepe FM,,,11057 V,tp BAA4,0,,,Osiepe FM,https://www.lyngsat.com/radiochannels/ke/Osiepe-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+19.0,Hope FM,,,11057 V,tp BAA4,0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+19.0,Hope FM,,,11057 V,tp BAA4,0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+20.0,Dala FM,,,11057 V,tp BAA4,0,,,Dala FM,https://www.lyngsat.com/radiochannels/ke/Dala-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+21.0,Mayian FM,,,11057 V,tp BAA4,0,,,Mayian FM,https://www.lyngsat.com/radiochannels/ke/Mayian-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+22.0,Milele FM,,,11057 V,tp BAA4,0,,,Milele FM,https://www.lyngsat.com/radiochannels/ke/Milele-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+22.0,Milele FM,,,11057 V,tp BAA4,0,,,Milele FM,https://www.lyngsat.com/radiochannels/ke/Milele-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+36.0,Milele FM,,,11057 V,tp BAA4,0,,,Milele FM,https://www.lyngsat.com/radiochannels/ke/Milele-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+36.0,Milele FM,,,11057 V,tp BAA4,0,,,Milele FM,https://www.lyngsat.com/radiochannels/ke/Milele-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+23.0,Msenangu FM,,,11057 V,tp BAA4,0,,,Msenangu FM,https://www.lyngsat.com/radiochannels/ke/Msenangu-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+25.0,Family Radio (Kenya),,,11057 V,tp BAA4,0,,,Family Radio (Kenya),https://www.lyngsat.com/radiochannels/ke/Family-Radio.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+25.0,Family Radio (Kenya),,,11057 V,tp BAA4,0,,,Family Radio (Kenya),https://www.lyngsat.com/radiochannels/ke/Family-Radio.html,False,TRBNA,3/4,29984.0,DVB-S2,Eng,ke
+30.0,Iganjo FM,,,11057 V,tp BAA4,0,,,Iganjo FM,https://www.lyngsat.com/radiochannels/ke/Iganjo-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+31.0,Goobjoog FM,,,11057 V,tp BAA4,0,,,Goobjoog FM,https://www.lyngsat.com/radiochannels/so/Goobjoog-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,Som,so
+33.0,Radio Maisha,,,11057 V,tp BAA4,0,,,Radio Maisha,https://www.lyngsat.com/radiochannels/ke/Radio-Maisha.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+33.0,Radio Maisha,,,11057 V,tp BAA4,0,,,Radio Maisha,https://www.lyngsat.com/radiochannels/ke/Radio-Maisha.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+34.0,Meru FM,,,11057 V,tp BAA4,0,,,Meru FM,https://www.lyngsat.com/radiochannels/ke/Meru-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+37.0,Bukedde FM,,,11057 V,tp BAA4,0,,,Bukedde FM,https://www.lyngsat.com/radiochannels/ug/Bukedde-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ug
+37.0,Bukedde FM,,,11057 V,tp BAA4,0,,,Bukedde FM,https://www.lyngsat.com/radiochannels/ug/Bukedde-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ug
+40.0,Emoo FM,,,11057 V,tp BAA4,0,,,Emoo FM,https://www.lyngsat.com/radiochannels/ke/Emoo-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+43.0,Abood FM,,,11057 V,tp BAA4,0,,,Abood FM,https://www.lyngsat.com/radiochannels/tz/Abood-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,tz
+46.0,Kigooco FM,,,11057 V,tp BAA4,0,,,Kigooco FM,https://www.lyngsat.com/radiochannels/ke/Kigooco-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+49.0,Taboiyat FM,,,11057 V,tp BAA4,0,,,Taboiyat FM,https://www.lyngsat.com/radiochannels/ke/Taboiyat-FM.html,False,TRBNA,3/4,29984.0,DVB-S2,,ke
+,Voice of America,,,11069 H,tp BCC3,44-46,,https://www.lyngsat.com/providers/us/Voice-of-America.html,,,True,Voice of America,3/5,7325.0,DVB-S2,,
+102.0,VoA TV China,MPEG-4/HD,800.0,11069 H,tp BCC3,44-46,,,VoA TV China,https://www.lyngsat.com/tvchannels/us/VoA-TV-China.html,False,Voice of America,3/5,7325.0,DVB-S2,Chi,us
+102.0,VoA TV China,?-?MPEG-4/HD,800.0,11609 H,tp DES3,0,,,VoA TV China,https://www.lyngsat.com/tvchannels/us/VoA-TV-China.html,False,Voice of America,1/2,5417.0,DVB-S2,Chi,us
+103.0,VoA Deewa TV,MPEG-4/HD,900.0,11069 H,tp BCC3,44-46,,,VoA Deewa TV,https://www.lyngsat.com/tvchannels/us/VoA-Deewa-TV.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+110.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+110.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+110.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+110.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+110.0,Radio Free Asia,,,11069 H,tp BCC3,44-46,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+36.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+140.0,Radio Free Asia,,,11609 H,tp DES3,0,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+104.0,VoA Asia,,,11069 H,tp BCC3,44-46,,,VoA Asia,https://www.lyngsat.com/radiochannels/us/VoA-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+104.0,VoA Asia,,,11069 H,tp BCC3,44-46,,,VoA Asia,https://www.lyngsat.com/radiochannels/us/VoA-Asia.html,False,Voice of America,3/5,7325.0,DVB-S2,,us
+104.0,VoA Asia,,,11609 H,tp DES3,0,,,VoA Asia,https://www.lyngsat.com/radiochannels/us/VoA-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+104.0,VoA Asia,,,11609 H,tp DES3,0,,,VoA Asia,https://www.lyngsat.com/radiochannels/us/VoA-Asia.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+,Kyrgyz mux,,,11097 H,tp BCC3,44-46,,,,,False,Voice of America,4/5,23627.0,DVB-S2,,
+4.0,Sport (Kyrgyzstan),MPEG-4/SD,35.0,11097 H,tp BCC3,44-46,,,Sport (Kyrgyzstan),https://www.lyngsat.com/tvchannels/kg/Sport.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+4.0,Sport (Kyrgyzstan),MPEG-4/SD,35.0,11097 H,tp BCC3,44-46,,,Sport (Kyrgyzstan),https://www.lyngsat.com/tvchannels/kg/Sport.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+11.0,Ala Too 24,MPEG-4/SD,55.0,11097 H,tp BCC3,44-46,,,Ala Too 24,https://www.lyngsat.com/tvchannels/kg/Ala-Too-24.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+11.0,Ala Too 24,MPEG-4/SD,55.0,11097 H,tp BCC3,44-46,,,Ala Too 24,https://www.lyngsat.com/tvchannels/kg/Ala-Too-24.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+13.0,Mir +4,MPEG-4/SD,61.0,11097 H,tp BCC3,44-46,,,Mir +4,https://www.lyngsat.com/tvchannels/ru/Mir--4.html,False,Voice of America,4/5,23627.0,DVB-S2,Rus,ru
+14.0,El TR Ilim Bilim,MPEG-4/SD,6011.0,11097 H,tp BCC3,44-46,,,El TR Ilim Bilim,https://www.lyngsat.com/tvchannels/kg/El-TR-Ilim-Bilim.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+14.0,El TR Ilim Bilim,MPEG-4/SD,6011.0,11097 H,tp BCC3,44-46,,,El TR Ilim Bilim,https://www.lyngsat.com/tvchannels/kg/El-TR-Ilim-Bilim.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+102.0,Madaniyat,MPEG-4/SD,1021.0,11097 H,tp BCC3,44-46,,,Madaniyat,https://www.lyngsat.com/tvchannels/kg/Madaniyat.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+103.0,Muzika (Kyrgyzstan),MPEG-4/SD,1031.0,11097 H,tp BCC3,44-46,,,Muzika (Kyrgyzstan),https://www.lyngsat.com/tvchannels/kg/Muzika.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+103.0,Muzika (Kyrgyzstan),MPEG-4/SD,1031.0,11097 H,tp BCC3,44-46,,,Muzika (Kyrgyzstan),https://www.lyngsat.com/tvchannels/kg/Muzika.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+104.0,Balastan,MPEG-4/SD,1041.0,11097 H,tp BCC3,44-46,,,Balastan,https://www.lyngsat.com/tvchannels/kg/Balastan.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+104.0,Balastan,MPEG-4/SD,1041.0,11097 H,tp BCC3,44-46,,,Balastan,https://www.lyngsat.com/tvchannels/kg/Balastan.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+105.0,El TR,MPEG-4/HD,257.0,11097 H,tp BCC3,44-46,,,El TR,https://www.lyngsat.com/tvchannels/kg/El-TR.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+105.0,El TR,MPEG-4/HD,257.0,11097 H,tp BCC3,44-46,,,El TR,https://www.lyngsat.com/tvchannels/kg/El-TR.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+200.0,UTRK,MPEG-4/HD,4113.0,11097 H,tp BCC3,44-46,,,UTRK,https://www.lyngsat.com/tvchannels/kg/UTRK.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+200.0,UTRK,MPEG-4/HD,4113.0,11097 H,tp BCC3,44-46,,,UTRK,https://www.lyngsat.com/tvchannels/kg/UTRK.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+1.0,Radyo Manas Radiosy,,,11097 H,tp BCC3,44-46,,,Radyo Manas Radiosy,https://www.lyngsat.com/radiochannels/kg/Radyo-Manas-Radiosy.html,False,Voice of America,4/5,23627.0,DVB-S2,,kg
+1.0,Radyo Manas Radiosy,,,11097 H,tp BCC3,44-46,,,Radyo Manas Radiosy,https://www.lyngsat.com/radiochannels/kg/Radyo-Manas-Radiosy.html,False,Voice of America,4/5,23627.0,DVB-S2,,kg
+3.0,Tumar FM,,,11097 H,tp BCC3,44-46,,,Tumar FM,https://www.lyngsat.com/radiochannels/kg/Tumar-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+3.0,Tumar FM,,,11097 H,tp BCC3,44-46,,,Tumar FM,https://www.lyngsat.com/radiochannels/kg/Tumar-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+5.0,Love Radio Kyrgyzstan,,,11097 H,tp BCC3,44-46,,,Love Radio Kyrgyzstan,https://www.lyngsat.com/radiochannels/ru/Love-Radio-Kyrgyzstan.html,False,Voice of America,4/5,23627.0,DVB-S2,Rus,ru
+10.0,Radio OK,,,11097 H,tp BCC3,44-46,,,Radio OK,https://www.lyngsat.com/radiochannels/kg/Radio-OK.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+10.0,Radio OK,,,11097 H,tp BCC3,44-46,,,Radio OK,https://www.lyngsat.com/radiochannels/kg/Radio-OK.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+22.0,Maral FM Bishkek,,,11097 H,tp BCC3,44-46,,,Maral FM Bishkek,https://www.lyngsat.com/radiochannels/kg/Maral-FM-Bishkek.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+22.0,Maral FM Bishkek,,,11097 H,tp BCC3,44-46,,,Maral FM Bishkek,https://www.lyngsat.com/radiochannels/kg/Maral-FM-Bishkek.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+22.0,Maral FM Osh,,,11097 H,tp BCC3,44-46,,,Maral FM Osh,https://www.lyngsat.com/radiochannels/kg/Maral-FM-Osh.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+100.0,El FM,,,11097 H,tp BCC3,44-46,,,El FM,https://www.lyngsat.com/radiochannels/kg/El-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+561.0,Europa Plus Kirgizstan,,,11097 H,tp BCC3,44-46,,,Europa Plus Kirgizstan,https://www.lyngsat.com/radiochannels/ru/Europa-Plus-Kirgizstan.html,False,Voice of America,4/5,23627.0,DVB-S2,,ru
+561.0,Europa Plus Kirgizstan,,,11097 H,tp BCC3,44-46,,,Europa Plus Kirgizstan,https://www.lyngsat.com/radiochannels/ru/Europa-Plus-Kirgizstan.html,False,Voice of America,4/5,23627.0,DVB-S2,,ru
+562.0,Sanjyra Radiosu,,,11097 H,tp BCC3,44-46,,,Sanjyra Radiosu,https://www.lyngsat.com/radiochannels/kg/Sanjyra-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+562.0,Sanjyra Radiosu,,,11097 H,tp BCC3,44-46,,,Sanjyra Radiosu,https://www.lyngsat.com/radiochannels/kg/Sanjyra-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+2052.0,Sanjyra Radiosu,,,11097 H,tp BCC3,44-46,,,Sanjyra Radiosu,https://www.lyngsat.com/radiochannels/kg/Sanjyra-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+2052.0,Sanjyra Radiosu,,,11097 H,tp BCC3,44-46,,,Sanjyra Radiosu,https://www.lyngsat.com/radiochannels/kg/Sanjyra-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+563.0,Suiunchu FM,,,11097 H,tp BCC3,44-46,,,Suiunchu FM,https://www.lyngsat.com/radiochannels/kg/Suiunchu-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+563.0,Suiunchu FM,,,11097 H,tp BCC3,44-46,,,Suiunchu FM,https://www.lyngsat.com/radiochannels/kg/Suiunchu-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+564.0,Retro FM Kirgizstan,,,11097 H,tp BCC3,44-46,,,Retro FM Kirgizstan,https://www.lyngsat.com/radiochannels/ru/Retro-FM-Kirgizstan.html,False,Voice of America,4/5,23627.0,DVB-S2,Rus,ru
+564.0,Retro FM Kirgizstan,,,11097 H,tp BCC3,44-46,,,Retro FM Kirgizstan,https://www.lyngsat.com/radiochannels/ru/Retro-FM-Kirgizstan.html,False,Voice of America,4/5,23627.0,DVB-S2,Rus,ru
+701.0,Min Kiyal FM,,,11097 H,tp BCC3,44-46,,,Min Kiyal FM,https://www.lyngsat.com/radiochannels/kg/Min-Kiyal-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+701.0,Min Kiyal FM,,,11097 H,tp BCC3,44-46,,,Min Kiyal FM,https://www.lyngsat.com/radiochannels/kg/Min-Kiyal-FM.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+702.0,Kyrgyz Radiosu,,,11097 H,tp BCC3,44-46,,,Kyrgyz Radiosu,https://www.lyngsat.com/radiochannels/kg/Kyrgyz-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+702.0,Kyrgyz Radiosu,,,11097 H,tp BCC3,44-46,,,Kyrgyz Radiosu,https://www.lyngsat.com/radiochannels/kg/Kyrgyz-Radiosu.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+703.0,Birinchi Radio,,,11097 H,tp BCC3,44-46,,,Birinchi Radio,https://www.lyngsat.com/radiochannels/kg/Birinchi-Radio.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,kg
+704.0,Radio Mir Bishkek,,,11097 H,tp BCC3,44-46,,,Radio Mir Bishkek,https://www.lyngsat.com/radiochannels/ru/Radio-Mir-Bishkek.html,False,Voice of America,4/5,23627.0,DVB-S2,Kir,ru
+1.0,I News,?-?MPEG-4/HD,34.0,11113 H,tp BCC3,44-46,,,,,False,Voice of America,5/6,4000.0,DVB-S2,Ara,
+8060.0,BW TV Alpha,?-?MPEG-4/SD,6010.0,11495 H,,0,Conax,,,,False,Voice of America,034,3.0,DVB-S3,Ger,
+,(feeds),,,11500 V,,,,,,,False,Voice of America,2/3,3100.0,DVB-S2,,
+,(feeds),,,12511 V,,,,,,,False,Voice of America,3/4,2000.0,DVB-S2,,
+,(feeds),,,12514 V,,,,,,,False,Voice of America,3/4,2220.0,DVB-S2,,
+,(feeds),,,12527 V,,,,,,,False,Voice of America,3/4,1600.0,DVB-S2,,
+,(feeds),,,12529 V,,,,,,,False,Voice of America,5/6,1600.0,DVB-S2,,
+,(feeds),,,12531 H,,,,,,,False,Voice of America,3/4,2222.0,DVB-S2,,
+,(feeds),,,12531 V,,,,,,,False,Voice of America,5/6,2220.0,DVB-S2,,
+,(feeds),,,12536 V,,,,,,,False,Voice of America,8/9,1600.0,DVB-S2,,
+,(feeds),,,12540 V,,,,,,,False,Voice of America,5/6,2000.0,DVB-S2,,
+,(feeds),,,12548 V,,,,,,,False,Voice of America,3/4,27200.0,DVB-S2,,
+,(feeds),,,12568 V,,,,,,,False,Voice of America,7/8,1500.0,DVB-S1,,
+,(feeds),,,12575 H,,,,,,,False,Voice of America,3/4,2050.0,DVB-S2,,
+,(feeds),,,12700 V,tp F6,,,,,,False,Voice of America,5/6,3333.0,DVB-S2,,
+,(feeds),,,12707 V,tp F6,,,,,,False,Voice of America,3/4,4444.0,DVB-S4,,
+,(feeds),,,12713 V,tp F6,,,,,,False,Voice of America,5/6,4444.0,DVB-S4,,
+101.0,VoA TV Asia,?-?MPEG-4/HD,700.0,11574 H,tp DES3,0,,,,,False,Voice of America,1/2,4142.0,DVB-S2,Eng,
+110.0,Radio Free Asia Tibetan,,,11609 H,tp DES3,0,,,Radio Free Asia Tibetan,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia-Tibetan.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+110.0,Radio Free Asia Tibetan,,,11609 H,tp DES3,0,,,Radio Free Asia Tibetan,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia-Tibetan.html,False,Voice of America,1/2,5417.0,DVB-S2,,us
+4.0,Radio Free Asia Tibetan,,,12682 V,tp F6,48,,,Radio Free Asia Tibetan,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia-Tibetan.html,False,Voice of America,1/2,16046.0,DVB-S2,,us
+4.0,Radio Free Asia Tibetan,,,12682 V,tp F6,48,,,Radio Free Asia Tibetan,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia-Tibetan.html,False,Voice of America,1/2,16046.0,DVB-S2,,us
+2.0,Al Ayyam TV,?-?MPEG-2/SD,308.0,12507 V,,48,BISS,,,,False,Voice of America,3/4,2222.0,DVB-S2,Ara,
+2.0,Almasirah Mubasher,65535-1MPEG-4/SD,33.0,12516 V,,48,,,,,False,Voice of America,5/6,1600.0,DVB-S2,Ara,
+1.0,Al Nujaba TV,?-?MPEG-2/SD,308.0,12520 V,,48,,,,,False,Voice of America,5/6,1600.0,DVB-S2,Ara,
+1.0,Alanwar TV 2,.-.MPEG-4/SD,256.0,12524 V,,48,,,,,False,Voice of America,5/6,1600.0,DVB-S2,Ara,
+1.0,Palestine Al Yawm,65535-100MPEG-4/HD,1001.0,12533 V,,48,,,,,False,Voice of America,5/6,1600.0,DVB-S2,Ara,
+1.0,Al Eshraq TV,?-?MPEG-2/SD,1010.0,12562 V,,48,,,,,False,Voice of America,5/6,1500.0,DVB-S2,Ara,
+1.0,Bayyinat TV,?-?MPEG-4/SD,33.0,12564 V,,48,,,,,False,Voice of America,5/6,1500.0,DVB-S2,Ara,
+2.0,Al-Naeem TV,?-?MPEG-4/HD,33.0,12566 V,,48,,,,,False,Voice of America,5/6,1500.0,DVB-S2,Ara,
+1.0,Thaqalayn TV,?-?MPEG-2/SD,310.0,12570 V,,48,,,,,False,Voice of America,3/4,1500.0,DVB-S2,Ara,
+,M-Three satcom,1-1,,12682 V,tp F6,48,,https://www.lyngsat.com/providers/it/M-Three-satcom.html,,,True,M-Three satcom,1/2,16046.0,DVB-S2,,
+1.0,MTA 7 Asia,MPEG-4/HD,2354.0,12682 V,tp F6,48,,,MTA 7 Asia,https://www.lyngsat.com/tvchannels/uk/MTA-7-Asia.html,False,M-Three satcom,1/2,16046.0,DVB-S2,Hin Urd Eng Tam Mal Ara Ben,uk
+1.0,MTA 7 Asia,MPEG-4/HD,2354.0,12682 V,tp F6,48,,,MTA 7 Asia,https://www.lyngsat.com/tvchannels/uk/MTA-7-Asia.html,False,M-Three satcom,1/2,16046.0,DVB-S2,Hin Urd Eng Tam Mal Ara Ben,uk
+2.0,VoA Tibetan,,,12682 V,tp F6,48,,,VoA Tibetan,https://www.lyngsat.com/radiochannels/us/VoA-Tibetan.html,False,M-Three satcom,1/2,16046.0,DVB-S2,,us
+2.0,VoA Tibetan,,,12682 V,tp F6,48,,,VoA Tibetan,https://www.lyngsat.com/radiochannels/us/VoA-Tibetan.html,False,M-Three satcom,1/2,16046.0,DVB-S2,,us
+3.0,Radio Free Asia Mandarin,,,12682 V,tp F6,48,,,Radio Free Asia Mandarin,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia-Mandarin.html,False,M-Three satcom,1/2,16046.0,DVB-S2,Chi,us
+1.0,1TV (Iraq),?-?MPEG-4/HD,33.0,12709 H,tp F5,48,,,,,False,M-Three satcom,3/4,2500.0,DVB-S2,Ara,
+,,,,,,,,,DVB-S28PSK40005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK40005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S3034,Conax,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK41421/2,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK54171/2,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK22223/4,BISS,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK16005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK15005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK15005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK15005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK15005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S2QPSK15005/6,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK15003/4,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK15003/4,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK25003/4,,False,M-Three satcom,,,,,
+,,,,,,,,,DVB-S28PSK25003/4,,False,M-Three satcom,,,,,

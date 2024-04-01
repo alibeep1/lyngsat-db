@@ -1,0 +1,56 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3410 VC0,DVB-S2QPSK32003/4,1.0,LNTV 1,,4660-1MPEG-4/SD,257.0,4.0 310 Lao,,Albert I231101,3410 V,,0,,,False,
+3410 VC0,DVB-S2QPSK32003/4,2.0,Lao National Radio 567 AM,,,,400 Lao,,,3410 V,,0,,,False,
+3410 VC0,DVB-S2QPSK32003/4,2.0,Lao National Radio FM 1,,,,400 Lao,,,3410 V,,0,,,False,
+3414 VC0,DVB-S2QPSK32003/4,1.0,LNTV 3,,65535-1MPEG-4/HD,33.0,4.0  34 Lao,,Albert I200706,3414 V,,0,,,False,
+3419 VC0,DVB-S28PSK12002/3,257.0,BTV Business,,?-?MPEG-4/SD,256.0,6.6 512 Nep,,Albert I230903,3419 V,,0,,,False,
+3424 VC0,DVB-S2QPSK15003/4,1.0,Sagarmatha TV,,65535-1MPEG-4/SD,101.0,4.0 256 Nep,,A Zapara200229,3424 V,,0,,,False,
+3427 VC0,DVB-S28PSK48002/3,1003.0,ABC News (Nepal),,0-0MPEG-4/HD,36.0,6.6  37 Nep,,Albert I230127,3427 V,,0,,,False,
+3432 VC0,DVB-S2QPSK24003/4,1.0,Prime TV (Nepal),,?-?MPEG-4/HD,33.0,4.0  34 Nep,,Albert I210514,3432 V,,0,,,False,
+3437 VC0,DVB-S28PSK56003/4,,Nepalese mux,,,,7.9,,Albert I220213,3437 V,,0,,,False,
+3437 VC0,DVB-S28PSK56003/4,1000.0,Mountain TV (Nepal),,MPEG-4/HD,1001.0,1002 Nep,,,3437 V,,0,,,False,
+3437 VC0,DVB-S28PSK56003/4,2000.0,Business Plus (Nepal),,MPEG-4/HD,2001.0,2002 Nep,,,3437 V,,0,,,False,
+3437 VC0,DVB-S28PSK56003/4,3000.0,Bhakti Darshan TV,,MPEG-4/HD,3001.0,3002 Nep,,,3437 V,,0,,,False,
+3446 VC0,DVB-S2QPSK36003/4,1.0,Lao Star,,?-?MPEG-4/HD,300.0,4.0 400 Lao,,C Sutton210916,3446 V,,0,,,False,
+3478 VC0,DVB-S2QPSK32002/3,1.0,Lao Public Security TV,,?-?MPEG-4/SD,513.0,3.14113 Lao,,Albert I220817,3478 V,,0,,,False,
+3478 VC0,DVB-S2QPSK32002/3,3.0,Lao Security Radio,,,,4112 Lao,,,3478 V,,0,,,False,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,,MWD Digital TV,,1-1,,6.6,,Albert I230829,3576 V,tp 5B,0,,https://www.lyngsat.com/providers/mm/MWD-Digital-TV.html,True,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,1.0,MWD Variety,,MPEG-4/HD,49.0,51 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,2.0,TVM (Myanmar),,MPEG-4/HD,65.0,67 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,3.0,MWD Education Knowledge & Sports,,MPEG-4/HD,81.0,83 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,4.0,MWD,,MPEG-4/HD,97.0,99 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3591 Vtp 5BC0,DVB-S28PSK32003/5,1.0,MWD,,8192-4096MPEG-4/HD,512.0,5.54112 Bur,,Albert I230903,3591 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,5.0,Channel Light,,MPEG-4/HD,113.0,115 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,6.0,Golden Land,,MPEG-4/HD,129.0,131 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,7.0,WAF,,MPEG-4/HD,145.0,147 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,9.0,[Star FM Radio info card],,MPEG-4/SD,177.0,178 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,8.0,Thazin FM Radio,,,,32 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3576 Vtp 5BC0,DVB-S28PSK216002/3,9.0,Star FM Radio,,,,178 Bur,,,3576 V,tp 5B,0,,,False,MWD Digital TV
+3632 Vtp 6BC0,DVB-S28PSK24002/3,1000.0,TV Today (Nepal),,?-?MPEG-4/HD,1001.0,6.61002 Nep,,Albert I230625,3632 V,tp 6B,0,,,False,MWD Digital TV
+3637 Vtp 6BC0,DVB-S28PSK48002/3,1.0,Galaxy 4K,,?-?MPEG-4/HD,33.0,6.6  34 Nep,,C Sutton211019,3637 V,tp 6B,0,,,False,MWD Digital TV
+3647 Htp 7AC0,DVB-S2QPSK32003/4,1.0,LATV (Laos),,?-?MPEG-4/HD,4113.0,4.04352 Lao,,Albert I191224,3647 H,tp 7A,0,,,False,MWD Digital TV
+3647 Htp 7AC0,DVB-S2QPSK32003/4,10.0,LATV FM,,,,80 Lao,,,3647 H,tp 7A,0,,,False,MWD Digital TV
+3650 Htp 7AC0,DVB-S2QPSK31003/4,1.0,VTE 9,,?-0MPEG-4/HD,4112.0,4.04114 Lao,,Albert I200905,3650 H,tp 7A,0,,,False,MWD Digital TV
+3651 Vtp 7BC0,DVB-S28PSK120002/3,,LaoSat,,65281-1,,6.6,,Albert I240318,3651 V,tp 7B,0,,https://www.lyngsat.com/providers/la/LaoSat.html,True,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,2.0,Sananda,,MPEG-4/HD,101.0,102 Ben,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,4.0,Filmy Bangla TV,,MPEG-4/HD,104.0,105 Ben,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,5.0,Goldmines Bangla,,MPEG-4/HD,107.0,108 Ben,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,6.0,Tara Bangla Cinema,,MPEG-4/HD,110.0,111 Ben,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,8.0,K21 News,,MPEG-4/SD,119.0,120 Urd,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,11.0,Sun Bangla Cinema,,MPEG-4/HD,116.0,117 Ben,,,3651 V,tp 7B,0,,,False,LaoSat
+3651 Vtp 7BC0,DVB-S28PSK120002/3,12.0,Channel 4 Nepal,,MPEG-4/SD,113.0,114 Nep,,new,3651 V,tp 7B,0,,,False,LaoSat
+3653 Htp 7AC0,DVB-S2QPSK24003/4,1.0,Luang Prabang TV,,?-?MPEG-4/SD,512.0,4.04113 Lao,,Albert I220303,3653 H,tp 7A,0,,,False,LaoSat
+3653 Htp 7AC0,DVB-S2QPSK24003/4,2.0,Luang Prabang Radio,,,,4112 Lao,,,3653 H,tp 7A,0,,,False,LaoSat
+3656 Htp 7AC0,DVB-S2QPSK23003/4,1.0,Champasack TV,,?-?MPEG-4/SD,513.0,4.04113 Lao,,Albert I220422,3656 H,tp 7A,0,,,False,LaoSat
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,296.0,TVK,,MPEG-4/HD,2962.0,2963 Khm,,,10790 H,tp 2A,0,,,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,411.0,My TV (Cambodia),,MPEG-4/HD,4122.0,4123 Khm,,,10790 H,tp 2A,0,,,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,412.0,CNC,,MPEG-4/SD,4152.0,4153 Khm,,,10790 H,tp 2A,0,,,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,427.0,Fresh News,,MPEG-4/HD,4282.0,4283 Khm,,,10790 H,tp 2A,0,,,False,LaoSat
+10790 Htp 2AKu0,DVB-S28PSK450003/4,437.0,TVK 2,,MPEG-4/SD,4372.0,4373 Khm,,,10790 H,tp 2A,0,,,False,LaoSat

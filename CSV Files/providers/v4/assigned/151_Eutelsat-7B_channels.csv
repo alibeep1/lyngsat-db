@@ -1,0 +1,295 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+10721 Htp A1Europe B52,DVB-S220003/4,,IVG,,100-20000,,5.5,,M Al-TaieT Viererbe240321,10721 H,tp A1,52,,https://www.lyngsat.com/providers/tr/IVG.html,True,IVG
+10721 Htp A1Europe B52,DVB-S220003/4,1.0,BBC Persian,,MPEG-2/SD,101.0,.02 Per,,,10721 H,tp A1,52,,,False,IVG
+10721 Htp A1Europe B52,DVB-S220003/4,2.0,Simay-Azadi Iran National TV,,MPEG-2/SD,201.0,202 Per,,,10721 H,tp A1,52,,,False,IVG
+12633 Htp F3Europe A47-48,DVB-S28PSK37503/4,1.0,Simay-Azadi Iran National TV,,0-0MPEG-4/HD,512.0,7.94112 Per,BISS 1,Marcel 2240123,12633 H,tp F3,47-48,BISS 1,,False,IVG
+10721 Htp A1Europe B52,DVB-S220003/4,9002.0,Channel One TV,,MPEG-4/HD,921.0,922 Per,,,10721 H,tp A1,52,,,False,IVG
+10721 Htp A1Europe B52,DVB-S220003/4,9008.0,Channel One TV,,MPEG-2/SD,981.0,982 Per,,,10721 H,tp A1,52,,,False,IVG
+10721 Htp A1Europe B52,DVB-S220003/4,9006.0,Pars TV,,MPEG-4/SD,961.0,962 Per,,,10721 H,tp A1,52,,,False,IVG
+10721 Htp K1Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10100,,6.6,BISS 1,Anonymous240301,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10721 Htp K1Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10100,,6.6,BISS 1,Anonymous240301,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10721 Htp K1Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10100,,6.6,BISS 1,Anonymous240301,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10887 Htp K9Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10900,,6.6,,Anonymous240315,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10887 Htp K9Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10900,,6.6,,Anonymous240315,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10887 Htp K9Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-10900,,6.6,,Anonymous240315,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+12604 Htp H3Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-60300,,6.6,,Anonymous240324,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+12604 Htp H3Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-60300,,6.6,,Anonymous240324,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+12604 Htp H3Africa0,DVB-S28PSK300002/3,,Eutelsat,,126-60300,,6.6,,Anonymous240324,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,True,Eutelsat
+10721 Htp K1Africa0,DVB-S28PSK300002/3,2652.0,ENTV,,MPEG-4/SD,513.0,641 Ara,,,10721 H,tp K1,0,,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,,Chinese mux,,126-10300,,3.1,VisionCrypt,Anonymous231219,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2701.0,CCTV 1,,HEVC/HD,7011.0,7012 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2702.0,CCTV 2,,HEVC/HD,7021.0,7022 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2703.0,CCTV 3,,HEVC/HD,7031.0,7032 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2704.0,CCTV 4 Asia,,HEVC/HD,7041.0,7042 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2705.0,CCTV 5,,HEVC/HD,7051.0,7052 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2707.0,CCTV 5+,,HEVC/HD,7071.0,7072 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2708.0,CCTV 8,,HEVC/HD,7081.0,7082 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2709.0,CCTV 7,,HEVC/HD,7091.0,7092 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2710.0,CCTV 13,,HEVC/HD,7101.0,7102 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2711.0,Beijing TV Kaku,,HEVC/HD,7111.0,7112 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2713.0,Beijing TV,,HEVC/HD,7131.0,7132 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2714.0,Dragon TV International,,HEVC/HD,7141.0,7142 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2715.0,Hunan TV International,,HEVC/HD,7151.0,7152 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2716.0,Jiangsu Satellite TV,,HEVC/HD,7161.0,7162 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2717.0,Zhejiang Satellite TV,,HEVC/HD,7171.0,7172 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2718.0,Anhui Satellite TV,,HEVC/HD,7181.0,7182 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2719.0,Liaoning TV,,HEVC/HD,7191.0,7192 Chi,VisionCrypt,,10762 H,tp K3,0,VisionCrypt,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2720.0,Phoenix Chinese Channel,,HEVC/HD,7201.0,7202 Chi,,,10762 H,tp K3,0,,,False,Eutelsat
+10762 Htp K3Africa0,DVB-S2QPSK300002/3,2799.0,[test card],,MPEG-2/SD,7991.0,7992,,,10762 H,tp K3,0,,,False,Eutelsat
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2118.0,[test card],,MPEG-4/HD,1181.0,1182,,,10887 H,tp K9,0,,,False,Eutelsat
+10845 Htp K7Africa0,DVB-S28PSK300002/3,,Premium Free,,126-10700,,6.6,,Anonymous230817,10845 H,tp K7,0,,https://www.lyngsat.com/providers/za/Premium-Free.html,True,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2801.0,True African,,MPEG-4/SD,101.0,102 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2802.0,Afriwood Series,,MPEG-4/SD,111.0,112 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2803.0,Pulse,,MPEG-4/SD,121.0,122,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2804.0,Kingdom Citizens TV,,MPEG-4/SD,131.0,132 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2805.0,Life TV,,MPEG-4/SD,141.0,142 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2806.0,Fresh,,MPEG-4/SD,151.0,152 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2807.0,LOL Africa,,MPEG-4/SD,161.0,162 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2808.0,Kiddiwinks,,MPEG-4/SD,171.0,172 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2809.0,Sports Connect,,MPEG-4/SD,181.0,182 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2810.0,Cinema Yoruba,,MPEG-4/SD,191.0,192 Yor,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2811.0,Romanza+ Africa,,MPEG-4/SD,201.0,202 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2812.0,Limelight,,MPEG-4/SD,211.0,212 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2813.0,Afriwood Blockbuster,,MPEG-4/SD,221.0,222 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2814.0,Cinema Hausa,,MPEG-4/SD,231.0,232 Hau,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2815.0,Bongo TV (South Africa),,MPEG-4/SD,241.0,242 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2816.0,Diva,,MPEG-4/SD,251.0,252 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2817.0,Mindset Liberty Learn,,MPEG-2/SD,261.0,262 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2818.0,RPM,,MPEG-4/SD,271.0,272 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10845 Htp K7Africa0,DVB-S28PSK300002/3,2819.0,Crime & Evidence,,MPEG-4/SD,281.0,282 Eng,,,10845 H,tp K7,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2160.0,Nyota TV (Kenya),,MPEG-4/SD,1601.0,1602 Swa,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2166.0,GEB,,MPEG-4/SD,1661.0,1662 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2150.0,Hope FM,,,,1502 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2151.0,Radio Miraya,,,,1512 Ara,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2152.0,Biblia Husema Broadcasting,,,,1522 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2153.0,Capital FM (Kenya),,,,1532 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2154.0,Nam Lolwe FM,,,,1542,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2156.0,Radio Ashe,,,,1562,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2158.0,ATG Radio,,,,1582,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2159.0,Kigooco FM,,,,1592,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2163.0,One Love Radio FM,,,,1632 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10887 Htp K9Africa0,DVB-S28PSK300002/3,2164.0,Radio Christian Voice,,,,1642 Eng,,,10887 H,tp K9,0,,,False,Premium Free
+10958 Htp B1Europe A,DVB-S2QPSK45003/4,,(feeds),,,,,,Roli231019,10958 H,tp B1,,,,False,Premium Free
+10961 Vtp B2Europe A,DVB-S28PSK96003/4,,(feeds),,,,,,Roli240218,10961 V,tp B2,,,,False,Premium Free
+10964 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A201130,10964 H,tp B1,,,,False,Premium Free
+10970 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220919,10970 V,tp B2,,,,False,Premium Free
+10971 Htp B1Europe A,DVB-S2QPSK42003/4,,(feeds),,,,,,Roli230302,10971 H,tp B1,,,,False,Premium Free
+10976 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli150715,10976 H,tp B1,,,,False,Premium Free
+10976 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A230510,10976 V,tp B2,,,,False,Premium Free
+10981 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210520,10981 H,tp B1,,,,False,Premium Free
+10982 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A221101,10982 V,tp B2,,,,False,Premium Free
+10988 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220919,10988 V,tp B2,,,,False,Premium Free
+10989 Htp B1Europe A,DVB-S2QPSK42003/4,,(feeds),,,,,,Roli230302,10989 H,tp B1,,,,False,Premium Free
+10994 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210520,10994 H,tp B1,,,,False,Premium Free
+10994 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220919,10994 V,tp B2,,,,False,Premium Free
+11003 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220919,11003 V,tp B2,,,,False,Premium Free
+11005 Htp B1Europe A,DVB-S28PSK80003/4,,(feeds),,,,,,Roli231110,11005 H,tp B1,,,,False,Premium Free
+11012 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210520,11012 H,tp B1,,,,False,Premium Free
+11012 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli150417,11012 V,tp B2,,,,False,Premium Free
+11018 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210520,11018 H,tp B1,,,,False,Premium Free
+11018 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A230115,11018 V,tp B2,,,,False,Premium Free
+11024 Htp B1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210520,11024 H,tp B1,,,,False,Premium Free
+11024 Vtp B2Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220417,11024 V,tp B2,,,,False,Premium Free
+11042 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A191124,11042 V,tp B4,,,,False,Premium Free
+11048 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A231212,11048 V,tp B4,,,,False,Premium Free
+11057 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A200926,11057 V,tp B4,,,,False,Premium Free
+11060 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli140817,11060 H,tp B3,,,,False,Premium Free
+11065 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210522,11065 H,tp B3,,,,False,Premium Free
+11065 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A230207,11065 V,tp B4,,,,False,Premium Free
+11070 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A210411,11070 H,tp B3,,,,False,Premium Free
+11074 Vtp B4Europe A,DVB-S28PSK30003/4,,(feeds),,,,,,Roli230108,11074 V,tp B4,,,,False,Premium Free
+11076 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,M Hajdú170528,11076 H,tp B3,,,,False,Premium Free
+11078 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A230207,11078 V,tp B4,,,,False,Premium Free
+11084 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli141026,11084 H,tp B3,,,,False,Premium Free
+11090 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli150221,11090 H,tp B3,,,,False,Premium Free
+11090 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli140824,11090 V,tp B4,,,,False,Premium Free
+11096 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Roli141020,11096 H,tp B3,,,,False,Premium Free
+11096 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A150915,11096 V,tp B4,,,,False,Premium Free
+11102 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A240123,11102 H,tp B3,,,,False,Premium Free
+11102 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A220914,11102 V,tp B4,,,,False,Premium Free
+11108 Htp B3Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Marcel 2180506,11108 H,tp B3,,,,False,Premium Free
+11108 Vtp B4Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,Jamie A230109,11108 V,tp B4,,,,False,Premium Free
+11126 Vtp B6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240331,11126 V,tp B6,,,,False,Premium Free
+11129 Htp B5Europe A,DVB-S28PSK37505/6,,(feeds),,,,,,Roli231201,11129 H,tp B5,,,,False,Premium Free
+11135 Vtp B6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240331,11135 V,tp B6,,,,False,Premium Free
+11136 Htp B5Europe A,DVB-S216APSK75005/6,,(feeds),,,,,,Roli230521,11136 H,tp B5,,,,False,Premium Free
+11137 Htp G3Africa,DVB-S6111,,(feeds),,,,,,F Orwa131208,11137 H,tp G3,,,,False,Premium Free
+11143 Htp B5Europe A,DVB-S28PSK37503/4,,(feeds),,,,,,Roli231118,11143 H,tp B5,,,,False,Premium Free
+11152 Vtp B6Europe A,DVB-S28PSK36003/4,,(feeds),,,,,,Roli240223,11152 V,tp B6,,,,False,Premium Free
+11153 Htp B5Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A230113,11153 H,tp B5,,,,False,Premium Free
+11160 Htp B5Europe A,DVB-S28PSK32003/4,,(feeds),,,,,,Jamie A230620,11160 H,tp B5,,,,False,Premium Free
+11165 Vtp B6Europe A,DVB-S28PSK97003/4,,(feeds),,,,,,Jamie A230823,11165 V,tp B6,,,,False,Premium Free
+11169 Htp B5Europe A,DVB-S2QPSK22003/4,,(feeds),,,,,,Roli230717,11169 H,tp B5,,,,False,Premium Free
+11172 Vtp B6Europe A,DVB-S216APSK84003/4,,(feeds),,,,,,Roli240104,11172 V,tp B6,,,,False,Premium Free
+11174 Htp B5Europe A,DVB-S28PSK49003/4,,(feeds),,,,,,Roli230812,11174 H,tp B5,,,,False,Premium Free
+11180 Vtp B6Europe A,DVB-S28PSK48213/4,,(feeds),,,,,,Roli230621,11180 V,tp B6,,,,False,Premium Free
+11181 Htp B5Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A230113,11181 H,tp B5,,,,False,Premium Free
+11184 Htp G3Africa,DVB-S5714,,(feeds),,,,,,F Orwa131208,11184 H,tp G3,,,,False,Premium Free
+11188 Htp B5Europe A,DVB-S28PSK36662/3,,(feeds),,,,,,Roli230604,11188 H,tp B5,,,,False,Premium Free
+11189 Vtp B6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240123,11189 V,tp B6,,,,False,Premium Free
+11212 Vtp C2Europe A,DVB-S2151683/4,,(feeds),,,,,,Stanley_cassidy211112,11212 V,tp C2,,,,False,Premium Free
+11396 Htp N4Africa,DVB-S28PSK72003/4,,(feeds),,,,,,Anonymous230415,11396 H,tp N4,,,,False,Premium Free
+12510 Htp F1Europe A,DVB-S28PSK49373/4,,(feeds),,,,,,M Sixx190617,12510 H,tp F1,,,,False,Premium Free
+12513 Vtp F2Europe A,DVB-S28PSK36003/4,,(feeds),,,,,,Roli210707,12513 V,tp F2,,,,False,Premium Free
+12518 Htp F1Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Roli220119,12518 H,tp F1,,,,False,Premium Free
+12519 Vtp F2Europe A,DVB-S28PSK25008/9,,(feeds),,,,,,Jamie A231212,12519 V,tp F2,,,,False,Premium Free
+12522 Vtp F2Europe A,DVB-S28PSK25008/9,,(feeds),,,,,,Jamie A231212,12522 V,tp F2,,,,False,Premium Free
+12524 Htp F1Europe A,DVB-S28PSK24005/6,,(feeds),,,,,,Stanley_cassidyRoliJamie A210620,12524 H,tp F1,,,,False,Premium Free
+12525 Vtp F2Europe A,DVB-S28PSK25005/6,,(feeds),,,,,,Jamie A231212,12525 V,tp F2,,,,False,Premium Free
+12528 Vtp F2Europe A,DVB-S28PSK25008/9,,(feeds),,,,,,Jamie A220417,12528 V,tp F2,,,,False,Premium Free
+12537 Htp F1Europe A,DVB-S2X16APSK800023/36,,(feeds),,,,,,N Stanislav230903,12537 H,tp F1,,,,False,Premium Free
+12537 Vtp F2Europe A,DVB-S28PSK32145/6,,(feeds),,,,,,Roli240329,12537 V,tp F2,,,,False,Premium Free
+12545 Htp F1Europe A,DVB-S28PSK50003/4,,(feeds),,,,,,Roli230401,12545 H,tp F1,,,,False,Premium Free
+12554 Vtp F2Europe A,DVB-S224005/6,,(feeds),,,,,,Stanley_cassidy210620,12554 V,tp F2,,,,False,Premium Free
+12557 Vtp F2Europe A,DVB-S28PSK24005/6,,(feeds),,,,,,Jamie AStanley_cassidy210620,12557 V,tp F2,,,,False,Premium Free
+12558 Htp F1Europe A,DVB-S28PSK97003/4,,(feeds),,,,,,Roli230909,12558 H,tp F1,,,,False,Premium Free
+12570 Htp F1Europe A,DVB-S28PSK36003/4,,(feeds),,,,,,Roli230709,12570 H,tp F1,,,,False,Premium Free
+12575 Htp F1Europe A,DVB-S28PSK36003/4,,(feeds),,,,,,Roli230709,12575 H,tp F1,,,,False,Premium Free
+12590 Vtp F4Europe A,DVB-S28PSK48002/3,,(feeds),,,,,,Roli231111,12590 V,tp F4,,,,False,Premium Free
+12596 Vtp F4Europe A,DVB-S28PSK48002/3,,(feeds),,,,,,Roli231111,12596 V,tp F4,,,,False,Premium Free
+12602 Vtp F4Europe A,DVB-S28PSK48002/3,,(feeds),,,,,,Roli230730,12602 V,tp F4,,,,False,Premium Free
+12638 Htp F3Europe A,DVB-S249373/4,,(feeds),,,,,,Stanley_cassidy240210,12638 H,tp F3,,,,False,Premium Free
+12638 Vtp F4Europe A,DVB-S28PSK48003/4,,(feeds),,,,,,Jamie A230722,12638 V,tp F4,,,,False,Premium Free
+12645 Htp F3Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie AStanley_cassidy240123,12645 H,tp F3,,,,False,Premium Free
+12646 Vtp F4Europe A,DVB-S28PSK32145/6,,(feeds),,,,,,Roli231206,12646 V,tp F4,,,,False,Premium Free
+12656 Vtp F4Europe A,DVB-S28PSK49403/4,,(feeds),,,,,,Jamie A240331,12656 V,tp F4,,,,False,Premium Free
+12660 Htp F3Europe A,DVB-S28PSK25003/4,,(feeds),,,,,,Jamie A230620,12660 H,tp F3,,,,False,Premium Free
+12675 Htp F5Europe A,DVB-S28PSK48223/4,,(feeds),,,,,,Jamie ARoli240225,12675 H,tp F5,,,,False,Premium Free
+12677 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240106,12677 V,tp F6,,,,False,Premium Free
+12681 Htp F5Europe A,DVB-S28PSK48223/4,,(feeds),,,,,,Jamie ARoli240225,12681 H,tp F5,,,,False,Premium Free
+12685 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240106,12685 V,tp F6,,,,False,Premium Free
+12687 Htp F5Europe A,DVB-S28PSK48223/4,,(feeds),,,,,,Jamie ARoli240225,12687 H,tp F5,,,,False,Premium Free
+12694 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A240203,12694 V,tp F6,,,,False,Premium Free
+12703 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A230122,12703 V,tp F6,,,,False,Premium Free
+12704 Htp F5Europe A,DVB-S2QPSK44003/4,,(feeds),,,,,,Roli151230,12704 H,tp F5,,,,False,Premium Free
+12709 Vtp F6Europe A,DVB-S28PSK31662/3,,(feeds),,,,,,Jamie A220327,12709 V,tp F6,,,,False,Premium Free
+12718 Vtp F6Europe A,DVB-S28PSK49363/4,,(feeds),,,,,,Roli240308,12718 V,tp F6,,,,False,Premium Free
+12726 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A230722,12726 V,tp F6,,,,False,Premium Free
+12736 Vtp F6Europe A,DVB-S28PSK72003/4,,(feeds),,,,,,Jonali221023,12736 V,tp F6,,,,False,Premium Free
+21547 Htp J2Europe C,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A200201,21547 H,tp J2,,,,False,Premium Free
+21662 Htp M1Europe C,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A151112,21662 H,tp M1,,,,False,Premium Free
+21672 Htp M1Europe C,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A151114,21672 H,tp M1,,,,False,Premium Free
+21681 Htp M1Europe C,DVB-S2QPSK72003/4,,(feeds),,,,,,Jonali230226,21681 H,tp M1,,,,False,Premium Free
+21689 Htp M1Europe C,DVB-S2QPSK97045/6,,(feeds),,,,,,Jonali211114,21689 H,tp M1,,,,False,Premium Free
+21701 Htp M1Europe C,DVB-S2QPSK97045/6,,(feeds),,,,,,Jonali211114,21701 H,tp M1,,,,False,Premium Free
+21709 Htp M1Europe C,DVB-S28PSK72003/4,,(feeds),,,,,,Jonali231121,21709 H,tp M1,,,,False,Premium Free
+21717 Htp M1Europe C,DVB-S28PSK72003/4,,(feeds),,,,,,Jonali231022,21717 H,tp M1,,,,False,Premium Free
+21727 Htp M1Europe C,DVB-S28PSK48002/3,,(feeds),,,,,,Jamie A190223,21727 H,tp M1,,,,False,Premium Free
+21746 Htp M1Europe C,DVB-S2QPSK48003/4,,(feeds),,,,,,Jonali230304,21746 H,tp M1,,,,False,Premium Free
+21753 Htp M1Europe C,DVB-S2QPSK72003/4,,(feeds),,,,,,Jonali230324,21753 H,tp M1,,,,False,Premium Free
+21762 Htp M1Europe C,DVB-S2QPSK72003/4,,(feeds),,,,,,Jamie A230324,21762 H,tp M1,,,,False,Premium Free
+11043 Htp B3Europe A,DVB-S249373/4,,(EBU feeds),,,,,,Stanley_cassidy210129,11043 H,tp B3,,,,False,Premium Free
+11049 Htp B3Europe A,DVB-S249373/4,,(EBU feeds),,,,,,Stanley_cassidy210129,11049 H,tp B3,,,,False,Premium Free
+11055 Htp B3Europe A,DVB-S249373/4,,(EBU feeds),,,,,,Stanley_cassidy210129,11055 H,tp B3,,,,False,Premium Free
+11125 Htp B5Europe A47-48,,,,,,,,,Marcel 2240123,11125 H,tp B5,47-48,,,False,Premium Free
+11262 Htp C3Europe B52,DVB-S275002/3,,,,126-30300,,4.4,,M Al-TaieN Stanislav240328,11262 H,tp C3,52,,,False,Premium Free
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,,,,126-30300,,6.6,,M Al-TaieT Viererbe240321,11304 H,tp C5,52,,,False,Premium Free
+11324 Vtp C6Europe B52,DVB-S28PSK297002/3,,,,126-30600,,6.6,,M Al-TaieT Viererbe240321,11324 V,tp C6,52,,,False,Premium Free
+11345 Htp C7Europe B52,DVB-S275005/6,,,,126-40700,,6.5,,N Stanislav240323,11345 H,tp C7,52,,,False,Premium Free
+11387 Htp C9Europe B52,DVB-S275005/6,,,,126-40900,,6.5,,M Al-TaieT Viererbe240321,11387 H,tp C9,52,,,False,Premium Free
+11152 Htp G3Africa0,DVB-S28PSK41652/3,,Vivacom,,1-81,,6.6,,Anonymous220731,11152 H,tp G3,0,,https://www.lyngsat.com/providers/bg/Vivacom.html,True,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,1.0,WGB Lucky Balls,,MPEG-4/SD,581.0,582 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,2.0,WGB Dog Racing,,MPEG-4/SD,481.0,482 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,4.0,WGB LaLiga,,MPEG-4/SD,781.0,782 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,5.0,Elbet Lucky Greek,,MPEG-4/SD,881.0,882 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,6.0,WGB Champions League,,MPEG-4/SD,981.0,982 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,7.0,WGB Global Football,,MPEG-4/SD,381.0,382 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,8.0,Elbet Video Roulette,,MPEG-4/SD,281.0,282 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11152 Htp G3Africa0,DVB-S28PSK41652/3,11.0,Elbet Lucky Color,,MPEG-4/SD,81.0,82 Eng,,,11152 H,tp G3,0,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,302.0,Erfan Halgheh TV,,MPEG-2/SD,3021.0,3022,,,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,311.0,Sun Music TV,,MPEG-4/HD,3111.0,3112 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,312.0,PMC,,MPEG-4/HD,3121.0,3122 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,313.0,Tapesh 2,,MPEG-4/HD,3131.0,3132 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,314.0,Oxir TV,,MPEG-4/HD,3141.0,3142,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,315.0,YourTime TV,,MPEG-4/HD,3151.0,3152 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,316.0,Classic TV,,MPEG-4/HD,3161.0,3162 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,317.0,Persiana Cinema,,MPEG-4/HD,3171.0,3172 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,318.0,Persiana Junior,,MPEG-4/HD,3181.0,3182 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,319.0,Persiana Korea,,MPEG-4/HD,3191.0,3192 Per,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,320.0,4 Music,,MPEG-4/HD,3201.0,3202,,new,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,321.0,Toronto Farsi Network promo,,MPEG-4/HD,3211.0,3212 Per,,,11262 H,tp C3,52,,,False,Vivacom
+11262 Htp C3Europe B52,DVB-S275002/3,366.0,4U TV,,MPEG-2/SD,3661.0,3662 Per,,,11262 H,tp C3,52,,,False,Vivacom
+11387 Htp C9Europe B52,DVB-S275005/6,1905.0,4U TV,,MPEG-4/HD,510.0,520 Per,,,11387 H,tp C9,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,510.0,AVA Family,,MPEG-4/HD,5101.0,5102 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,512.0,DXB One,,MPEG-4/HD,5121.0,5122 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,514.0,Radio Javan TV,,MPEG-4/HD,5141.0,5142 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,515.0,Persiana HD,,MPEG-4/HD,5151.0,5152 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,517.0,Today TV,,MPEG-4/HD,5171.0,5172 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,518.0,PBC Tapesh,,MPEG-4/HD,5181.0,5182 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,519.0,FX 1,,MPEG-4/HD,5191.0,5192 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11304 Htp C5Europe B52,DVB-S28PSK297002/3,520.0,Eenak Farsi,,MPEG-4/HD,5201.0,5202 Per,,,11304 H,tp C5,52,,,False,Vivacom
+11324 Vtp C6Europe B52,DVB-S28PSK297002/3,2063.0,TM TV (USA),,MPEG-4/HD,631.0,632 Per,,,11324 V,tp C6,52,,,False,Vivacom
+11324 Vtp C6Europe B52,DVB-S28PSK297002/3,2065.0,Avang TV,,MPEG-4/HD,651.0,652 Per,,,11324 V,tp C6,52,,,False,Vivacom
+11345 Htp C7Europe B52,DVB-S275005/6,303.0,Navahang TV,,MPEG-2/SD,3031.0,3032 Per,,,11345 H,tp C7,52,,,False,Vivacom
+11356 Htp N3Africa0,DVB-S28PSK350002/3,,Zim Digital,,1-3,,6.6,,Anonymous230707,11356 H,tp N3,0,,https://www.lyngsat.com/providers/zw/Zim-Digital.html,True,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,101.0,ZBC TV (Zimbabwe),,MPEG-4/HD,800.0,100 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,102.0,ZBC News,,MPEG-4/HD,801.0,104 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,103.0,Jive TV,,MPEG-4/HD,802.0,108 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,106.0,Zimbabwe National TV,,MPEG-4/HD,806.0,126 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,203.0,KeYona TV,,MPEG-4/HD,822.0,192 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,204.0,3K TV,,MPEG-4/HD,823.0,1013,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,205.0,Nkululeko Rusununguko TV,,MPEG-4/HD,824.0,101,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,206.0,ZTN Prime,,MPEG-4/HD,256.0,512 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,107.0,National FM (Zimbabwe),,,,124,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,108.0,Radio Zimbabwe,,,,128 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,109.0,Classic 263,,,,132,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,110.0,Power FM (Zimbabwe),,,,112 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,111.0,Star FM (Zimbabwe),,,,140 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11356 Htp N3Africa0,DVB-S28PSK350002/3,112.0,Zi FM,,,,144 Eng,,,11356 H,tp N3,0,,,False,Zim Digital
+11387 Htp C9Europe B52,DVB-S275005/6,1901.0,MBC Persia,,MPEG-4/HD,110.0,120 Per,,,11387 H,tp C9,52,,,False,Zim Digital
+11387 Htp C9Europe B52,DVB-S275005/6,1908.0,Kanal Jadid,,MPEG-4/HD,810.0,820 Per,,,11387 H,tp C9,52,,,False,Zim Digital
+11387 Htp C9Europe B52,DVB-S275005/6,1910.0,Iran TV Network,,MPEG-4/HD,1010.0,1020 Per,,,11387 H,tp C9,52,,,False,Zim Digital
+11387 Htp C9Europe B52,DVB-S275005/6,1911.0,News of the World,,MPEG-4/HD,1110.0,1120 Per,,,11387 H,tp C9,52,,,False,Zim Digital
+11387 Htp C9Europe B52,DVB-S275005/6,1912.0,ICC+,,MPEG-4/HD,1210.0,1220 Per,,,11387 H,tp C9,52,,,False,Zim Digital
+11444 Htp N4Africa0,DVB-S32103/4,,MBC,,65535-1,,5.5,CryptoworksIrdeto,Anonymous230412,11444 H,tp N4,0,"Cryptoworks,Irdeto",https://www.lyngsat.com/providers/mu/MBC.html,True,MBC
+11444 Htp N4Africa0,DVB-S32103/4,1.0,MBC 1,,MPEG-2/SD,308.0,256 Fre,CryptoworksIrdeto,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,False,MBC
+11444 Htp N4Africa0,DVB-S32103/4,3.0,MBC 2 (Mauritius),,MPEG-2/SD,309.0,261,CryptoworksIrdeto,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,False,MBC
+11444 Htp N4Africa0,DVB-S32103/4,3.0,Radio Maurice,,,,260,CryptoworksIrdeto,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,False,MBC
+11444 Htp N4Africa0,DVB-S32103/4,3.0,Kool FM,,,,261,CryptoworksIrdeto,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,False,MBC
+12530 Htp F1Europe A47-48,DVB-S2QPSK14801/2,257.0,Or Hachaim (20-23),,8192-4096MPEG-4/HD,257.0,1.0 258 Eng,,M Foerster210809,12530 H,tp F1,47-48,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,2.0,Peace TV English,,MPEG-4/SD,61.0,62 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,3.0,Quran TV (Saudi Arabia),,MPEG-4/SD,71.0,72 Ara,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,4.0,Sunna TV (Saudi Arabia),,MPEG-4/SD,81.0,82 Ara,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,9.0,Emmanuel TV,,MPEG-4/SD,131.0,132 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,10.0,Africa TV 2,,MPEG-4/SD,4572.0,4573 Swa,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,11.0,Eagle TV (Ghana),,MPEG-4/SD,151.0,152 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,154.0,IBN TV Africa,,MPEG-4/SD,1541.0,1542 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,187.0,JW Broadcasting,,MPEG-4/SD,1871.0,1872 Eng1873 Fre1874 Por1875 Swa1877 Nya1878 Zul1879 Bem5872 Amh5873 Ibo5874 Kin5875 Rum5876 Lin5877 Mlg5878 Sna5879 Twi,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,195.0,JW Broadcasting,,MPEG-4/SD,1951.0,1952 Nya1953 Efi1954 Ewe1955 Gaa1957 Lub1958 Kon1959 Orm6003 Sot6004 Swa6005 Lua6006 Tso6007 Umb6008 Xho6009 Yor,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,196.0,Haleluya TV,,MPEG-4/HD,1961.0,1962 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,237.0,Bloomberg TV Africa,,MPEG-2/SD,2372.0,23.3 Eng,NagravisionViaccess,,12604 H,tp H3,0,"Nagravision,Viaccess",,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,375.0,Universal TV (UK),,MPEG-2/SD,3752.0,3753 Som,NagravisionViaccess,,12604 H,tp H3,0,"Nagravision,Viaccess",,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6101.0,Revival TV (USA),,MPEG-2/SD,1011.0,1012 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6102.0,ORTC TV,,MPEG-4/SD,1021.0,1022 Fre,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6105.0,Efatha TV,,MPEG-4/SD,1051.0,1052 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6108.0,2M Monde,,MPEG-4/SD,1081.0,1082 Ara,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6125.0,Joy Gospel TV,,MPEG-4/SD,1251.0,1252 Swa,,new,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6126.0,Jehova Jire TV,,MPEG-4/SD,1261.0,1262 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6127.0,Top Plus,,MPEG-4/SD,1271.0,1272,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6130.0,NTR TV,,MPEG-4/SD,1301.0,1302 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6132.0,Mzee Wa Upako TV,,MPEG-4/SD,1320.0,1321,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6136.0,Urejesho TV,,MPEG-4/SD,1361.0,1362 Swa,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6138.0,Rabbi 1 TV,,MPEG-4/SD,1381.0,1382 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6139.0,Holiness TV,,MPEG-4/SD,1391.0,1392 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6141.0,Thunder TV,,MPEG-4/SD,1411.0,1412 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6142.0,Abood TV,,MPEG-4/SD,1421.0,1422,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6143.0,JN Power TV,,MPEG-4/SD,1431.0,1.32 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6144.0,ROC TV,,MPEG-4/SD,1441.0,1442 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6145.0,Habari Maalum TV,,MPEG-4/HD,1451.0,1452 Swa,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6146.0,Christ Mandate TV,,MPEG-4/SD,1461.0,1462 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6147.0,World Evangelism TV,,MPEG-4/SD,1471.0,1472 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6148.0,Robert TV,,MPEG-4/SD,1481.0,1482 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,155.0,Radio Maarifa,,,,1552 Eng,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,156.0,Raga FM,,,,1562,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6103.0,Radio Vaovao Mahasoa,,,,1032,,,12604 H,tp H3,0,,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6135.0,Radio 2M,,,,1352 Ara,BISS,,12604 H,tp H3,0,BISS,,False,MBC
+12604 Htp H3Africa0,DVB-S28PSK300002/3,6149.0,Radio Tumaini,,,,1492 Eng,,,12604 H,tp H3,0,,,False,MBC
+12614 Vtp F4Europe A,DVB-S28PSK46005/6,,(APTN feeds),,,,,,Jamie A230329,12614 V,tp F4,,,,False,MBC
+12620 Vtp F4Europe A,DVB-S28PSK46005/6,,(APTN feeds),,,,,,Roli230401,12620 V,tp F4,,,,False,MBC
+12626 Vtp F4Europe A,DVB-S28PSK46005/6,,(APTN feeds),,,,,,Jamie A230329,12626 V,tp F4,,,,False,MBC
+12632 Vtp F4Europe A,DVB-S28PSK46005/6,,(APTN feeds),,,,,,Roli230401,12632 V,tp F4,,,,False,MBC
+12657 Htp F3Europe A47-48,DVB-S28PSK24753/4,1.0,Alforat TV,,65535-1HEVC/HD,33.0,7.9  34 Ara,,N Stanislav230215,12657 H,tp F3,47-48,,,False,MBC
+21595 Htp J2Europe C,DVB-S2QPSK11003/4,101.0,URHC TV,,1-1MPEG-4/SD,33.0,4.0  34 Fre,,Jonali220904,21595 H,tp J2,,,,False,MBC
+21620 Htp J2Europe C,DVB-S28PSK22002/3,1.0,2S TV,,1-1MPEG-4/HD,256.0,6.6 258 Fre,,S EvansJamie A220821,21620 H,tp J2,,,,False,MBC
+21638 Htp J2Europe C,DVB-S28PSK11002/3,1.0,Bantamba TV,,1-1MPEG-4/SD,906.0,6.6 908 Eng,,Onacila220306,21638 H,tp J2,,,,False,MBC
+21640 Htp J2Europe C,DVB-S28PSK11002/3,312.0,QTV (Gambia),,65535-1MPEG-4/SD,312.0,6.65312 Eng,,Onacila220306,21640 H,tp J2,,,,False,MBC

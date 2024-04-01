@@ -1,0 +1,93 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3629 Rtp 5Global,DVB-S2QPSK109001/2,,RSCC,,,,1.0,BISS,Wellikan231030,3629 R,tp 5,,BISS,https://www.lyngsat.com/providers/ru/RSCC.html,True,RSCC
+3629 Rtp 5Global,DVB-S2QPSK109001/2,,RSCC,,,,1.0,BISS,Wellikan231030,3629 R,tp 5,,BISS,https://www.lyngsat.com/providers/ru/RSCC.html,True,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,,RSCC,,4371-9,,5.5,BISS 1,Crazylee221021,3675 R,tp 6,,BISS 1,https://www.lyngsat.com/providers/ru/RSCC.html,True,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,,RSCC,,4371-9,,5.5,BISS 1,Crazylee221021,3675 R,tp 6,,BISS 1,https://www.lyngsat.com/providers/ru/RSCC.html,True,RSCC
+3629 Rtp 5Global,DVB-S2QPSK109001/2,1.0,RT News,,MPEG-2/SD,201.0,301 Eng,BISS,,3629 R,tp 5,,BISS,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,1.0,RT News,,MPEG-4/HD,201.0,301 Eng 331 Eng,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3975 Rtp 14C Fixed 2,DVB-S28PSK53853/4,2.0,RT News,,MPEG-2/SD,481.0,482 Eng,,,3975 R,tp 14,,,,False,RSCC
+11541 Htp D5Ku Fixed 248,DVB-S2QPSK82643/4,2.0,RT News,,MPEG-2/SD,481.0,482 Eng,,,11541 H,tp D5,48,,,False,RSCC
+3629 Rtp 5Global,DVB-S2QPSK109001/2,2.0,RT Español,,MPEG-2/SD,202.0,302 Spa,BISS,,3629 R,tp 5,,BISS,,False,RSCC
+3975 Rtp 14C Fixed 2,DVB-S28PSK53853/4,1.0,RT Español,,MPEG-2/SD,61.0,62 Spa,,,3975 R,tp 14,,,,False,RSCC
+11473 Vtp D2Ku Fixed 30,DVB-S28PSK35903/4,1.0,RT Español,,?-?MPEG-4/HD,33.0,7.9  34 Spa,,C de Berazategui230514,11473 V,tp D2,0,,,False,RSCC
+3629 Rtp 5Global,DVB-S2QPSK109001/2,3.0,Perviy kanal Europa,,MPEG-4/SD,203.0,303 Rus,BISS,,3629 R,tp 5,,BISS,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,2.0,RT Documentary,,MPEG-4/HD,202.0,302 Eng 332 Eng,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,3.0,RT Doc,,MPEG-4/HD,203.0,303 Rus 333 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,4.0,Perviy kanal (0h),,MPEG-4/SD,204.0,304 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,5.0,RTR Planeta,,MPEG-4/SD,205.0,305 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+11484 Htp D1Ku Fixed 248,DVB-S2QPSK35353/5,1.0,RTR Planeta,,1-17MPEG-2/SD,200.0,2.2 300 Rus,,N Stanislav220630,11484 H,tp D1,48,,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,6.0,Rossiya 24,,MPEG-4/SD,206.0,306 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,7.0,NTV Mir,,MPEG-4/SD,207.0,307 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,8.0,TNT (0h),,MPEG-4/SD,208.0,308 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,9.0,STS,,MPEG-4/SD,209.0,309 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,10.0,Telekanal Zvezda (0h),,MPEG-4/SD,210.0,310 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,11.0,Muz TV (Russia),,MPEG-4/SD,211.0,311 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,12.0,Karusel (0h),,MPEG-4/SD,212.0,312 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,13.0,Pobeda,,MPEG-4/SD,213.0,313 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3675 Rtp 6Global,DVB-S28PSK353933/5,14.0,Dom Kino,,MPEG-4/SD,214.0,314 Rus,BISS 1,,3675 R,tp 6,,BISS 1,,False,RSCC
+3975 Rtp 14C Fixed 2,DVB-S28PSK53853/4,,,,,,7.9,,Edinho fta230602,3975 R,tp 14,,,,False,RSCC
+4087 Ltp 16AC Fixed 2,DVB-S28PSK58333/4,,,,,,7.9,,Edinho fta230530,4087 L,tp 16A,,,,False,RSCC
+3975 Rtp 14C Fixed 2,DVB-S28PSK53853/4,,Belarus 24,,MPEG-4/SD,200.0,300 Rus,,,3975 R,tp 14,,,,False,RSCC
+11580 Vtp D8Ku Fixed 147-49.5,DVB-S28PSK28943/4,3.0,Belarus 24,,1-7MPEG-4/HD,201.0,7.9 301 Rus,,Marcel 2231122,11580 V,tp D8,47-49.5,,,False,RSCC
+4068 Ltp 16AC Fixed 2,DVB-S2QPSK16663/4,,TV Verdes Campos Sat,,MPEG-4/SD,8190.0,4.0 482 Por,,Edinho fta230529,4068 L,tp 16A,,,,False,RSCC
+4068 Ltp 16AC Fixed 2,DVB-S2QPSK16663/4,,Rádio Verdes Campos Sat,,,,483 Por,,,4068 L,tp 16A,,,,False,RSCC
+4072 Ltp 16AC Fixed 2,DVB-S28PSK41662/3,1.0,Rede Meio Norte,,?-?MPEG-4/HD,139.0,6.6 388 Por,,A Meneses220325,4072 L,tp 16A,,,,False,RSCC
+4072 Ltp 16AC Fixed 2,DVB-S28PSK41662/3,3.0,Meio Norte FM,,,,654 Por,,,4072 L,tp 16A,,,,False,RSCC
+4076 Ltp 16AC Fixed 2,DVB-S28PSK33333/4,,TV Goiânia,,,,7.9,,Edinho fta220813,4076 L,tp 16A,,,https://www.lyngsat.com/providers/br/TV-Goiania.html,True,TV Goiânia
+4076 Ltp 16AC Fixed 2,DVB-S28PSK33333/4,,TV Goiânia,,MPEG-4/1seg,201.0,202 Por,,,4076 L,tp 16A,,,https://www.lyngsat.com/providers/br/TV-Goiania.html,True,TV Goiânia
+4076 Ltp 16AC Fixed 2,DVB-S28PSK33333/4,,TV Goiânia,,MPEG-4/HD,258.0,268 Por,,,4076 L,tp 16A,,,https://www.lyngsat.com/providers/br/TV-Goiania.html,True,TV Goiânia
+4076 Ltp 16AC Fixed 2,DVB-S28PSK33333/4,,Rádio Bons Ventos,,,,71 Por,,,4076 L,tp 16A,,,,False,TV Goiânia
+4082 Ltp 16AC Fixed 2,DVB-S2QPSK24003/4,,TV Ponta Verde,,MPEG-4/HD,49.0,4.0  .1 Por,,Edinho fta230529,4082 L,tp 16A,,,,False,TV Goiânia
+4087 Ltp 16AC Fixed 2,DVB-S28PSK58333/4,,TV Cultura Paulista,,MPEG-4/HD,610.0,620 Por,,,4087 L,tp 16A,,,,False,TV Goiânia
+4087 Ltp 16AC Fixed 2,DVB-S28PSK58333/4,,TV Cultura Paulista,,MPEG-4/1seg,910.0,920 Por,,,4087 L,tp 16A,,,,False,TV Goiânia
+4087 Ltp 16AC Fixed 2,DVB-S28PSK58333/4,,Univesp TV,,MPEG-4/SD,710.0,720 Por,,,4087 L,tp 16A,,,,False,TV Goiânia
+4087 Ltp 16AC Fixed 2,DVB-S28PSK58333/4,,TV Educação SP,,MPEG-4/SD,810.0,820 Por,,,4087 L,tp 16A,,,,False,TV Goiânia
+4092 Ltp 16AC Fixed 2,DVB-S2QPSK37603/4,,TV Difusora,,MPEG-4/HD,412.0,4.04112 Por,,Edinho fta230529,4092 L,tp 16A,,,,False,TV Goiânia
+4092 Ltp 16AC Fixed 2,DVB-S2QPSK37603/4,,Difusora FM,,,,4128 Por,,,4092 L,tp 16A,,,,False,TV Goiânia
+10958 Htp B1Ku Fixed 147-49.5,DVB-S2QPSK23802/3,,@ KiteNet,,,,3.1,,EnoSat230825,10958 H,tp B1,47-49.5,,,False,TV Goiânia
+10971 Htp B1Ku Fixed 147-49.5,DVB-S28PSK15002/3,1.0,TV Alittihad,,65535-1MPEG-4/SD,308.0,6.6 256 Ara,,Dallara231020,10971 H,tp B1,47-49.5,,,False,TV Goiânia
+10974 Htp B1Ku Fixed 147-49.5,DVB-S29633/4,1.0,Al-Manar TV,,65535-1MPEG-2/SD,313.0,5.5 314 Ara,,N Schlammer160413,10974 H,tp B1,47-49.5,,,False,TV Goiânia
+11456 Htp D1Ku Fixed 248,DVB-S30003/4,1.0,Al-Manar TV,,65535-1MPEG-2/SD,308.0,5.5 .56 Ara,,DX Bozóth170622,11456 H,tp D1,48,,,False,TV Goiânia
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,145.0,Al-Manar TV,,MPEG-4/SD,1450.0,1451 Ara,,,11671 H,tp D11,47-49.5,,,False,TV Goiânia
+10974 Htp B1Ku Fixed 147-49.5,DVB-S29633/4,2.0,Alnour Radio,,,,257 Ara,,,10974 H,tp B1,47-49.5,,,False,TV Goiânia
+11456 Htp D1Ku Fixed 248,DVB-S30003/4,2.0,Alnour Radio,,,,257 Ara,,,11456 H,tp D1,48,,,False,TV Goiânia
+11479 Vtp D2Ku Fixed 30,DVB-S2QPSK26464/5,1.0,RTR Planeta USA,,?-?MPEG-2/SD,200.0,4.7 300 Rus,,C de Berazategui230728,11479 V,tp D2,0,,,False,TV Goiânia
+11519 Htp D3Ku Fixed 1,DVB-S21445/6,,(feeds),,,,,,Dallara220806,11519 H,tp D3,,,,False,TV Goiânia
+11586 Htp D7Ku Fixed 2,DVB-S28PSK72003/4,,(feeds),,,,,,DX BozóthStanley_cassidy220304,11586 H,tp D7,,,,False,TV Goiânia
+11596 Htp D7Ku Fixed 2,DVB-S28PSK72003/4,,(feeds),,,,,,DX Bozóth220304,11596 H,tp D7,,,,False,TV Goiânia
+11625 Htp D9Ku Fixed 1,DVB-S28PSK36002/3,,(feeds),,,,,,Jamie A231209,11625 H,tp D9,,,,False,TV Goiânia
+11636 Htp D9Ku Fixed 1,DVB-S28PSK75003/4,,(feeds),,,,,,N Stanislav231016,11636 H,tp D9,,,,False,TV Goiânia
+11541 Htp D5Ku Fixed 248,DVB-S2QPSK82643/4,,RT,,1-300,,4.0,,Dallara220304,11541 H,tp D5,48,,https://www.lyngsat.com/providers/ru/RT.html,True,RT
+11541 Htp D5Ku Fixed 248,DVB-S2QPSK82643/4,4.0,RT Arabic,,MPEG-2/SD,61.0,62 Ara,,,11541 H,tp D5,48,,,False,RT
+11541 Htp D5Ku Fixed 248,DVB-S2QPSK82643/4,5.0,RT France,,MPEG-2/SD,63.0,64 Fre,,,11541 H,tp D5,48,,,False,RT
+11580 Vtp D8Ku Fixed 147-49.5,DVB-S28PSK28943/4,4.0,Radio Belarus,,,,302,,,11580 V,tp D8,47-49.5,,,False,RT
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,,IRIB,,3622-11300,,7.9,,Wellikan231218,11671 H,tp D11,47-49.5,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,116.0,Alalam News Channel Syria,,MPEG-4/SD,1160.0,1161 Ara,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,121.0,Jam Jam Global Network 1,,MPEG-4/HD,1210.0,1211 Per,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,126.0,Sahar Balkan,,MPEG-4/SD,1260.0,1261 Bos,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,127.0,Sahar Azeri,,MPEG-4/SD,1270.0,1271 Aze,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,129.0,Alkawthar TV,,MPEG-4/SD,1290.0,1291 Ara,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,131.0,Press TV,,MPEG-4/HD,1310.0,1311 Eng,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,132.0,Hispan TV,,MPEG-4/SD,1320.0,1321 Spa,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,133.0,IFilm English,,MPEG-4/SD,1330.0,1331 Eng1332 Per,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,138.0,IFilm Arabic,,MPEG-4/SD,1380.0,1381 Ara1382 Per,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,139.0,Alalam News Channel,,MPEG-4/HD,1390.0,1391 Ara,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,429.0,Sahar Kurdi,,MPEG-4/SD,4290.0,4291 Kur,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,256.0,Radio Quran (Iran),,,,2561 Per,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1581.0,IRIB World Service Radio 1,,,,1811,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1582.0,IRIB World Service Radio 2,,,,1821,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1583.0,IRIB World Service Radio 3,,,,1831 Ara,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1584.0,IRIB World Service Radio 4,,,,1841,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1585.0,IRIB World Service Radio 5,,,,1851,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1586.0,IRIB World Service Radio 6,,,,1861,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11671 Htp D11Ku Fixed 147-49.5,DVB-S28PSK166003/4,1587.0,IRIB World Service Radio 7,,,,1871 Eng,,,11671 H,tp D11,47-49.5,,,False,IRIB
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,,ORTAS,,0-1,,5.5,,EnoSat230423,11689 H,tp D11,47-49.5,,https://www.lyngsat.com/providers/sy/ORTAS.html,True,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,1.0,Syrian Satellite Channel,,MPEG-2/SD,88.0,256 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,2.0,Syria Sports TV,,MPEG-2/SD,100.0,110 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,3.0,Syria Local TV,,MPEG-2/SD,308.0,258 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,4.0,Alikhbaria Syria,,MPEG-2/SD,1025.0,1045 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,5.0,Syria Drama 24,,MPEG-2/SD,270.0,280 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,6.0,Sakaker Kids,,MPEG-2/SD,310.0,260 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,1.0,Radio Damascus,,,,257,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,4.0,Radio Al Karma,,,,1055 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS
+11689 Htp D11Ku Fixed 147-49.5,DVB-S121103/4,6.0,Sawt Alshabab FM,,,,261 Ara,,,11689 H,tp D11,47-49.5,,,False,ORTAS

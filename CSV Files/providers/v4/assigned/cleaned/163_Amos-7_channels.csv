@@ -1,0 +1,31 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Yes,171-1,,10972 V,tp 1L,54.0,Videoguard,,False,,2/3,30000,DVB-S2,
+,Yes,171-10,,11030 V,,54.0,Videoguard,,False,,5/6,27500,DVB-S2,
+2.0,Makan TV,?-?MPEG-4/HD,1212.0,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Ara
+3.0,Kan Tarbut,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+4.0,Kan Bet,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+5.0,Kan Gimmel,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+6.0,Makan Radio,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Ara
+7.0,Kan Reka,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,
+8.0,Kan Kol HaMusica,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+9.0,Kan Moreshet,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+10.0,Kan 88,,,11034 H,,54.0,,,False,,2/3,3625,DVB-S2,Heb
+,Yes,171-2,,11058 V,,54.0,Videoguard,,False,,2/3,15000,DVB-S2,
+,,,,11069 H,,54.0,,,False,,3/4,3702,DVB-S3,
+1.0,SBN International,MPEG-2/SD,2001.0,11069 H,,54.0,,,False,,3/4,3702,DVB-S3,Eng
+4.0,The Word Network,MPEG-2/SD,2004.0,11069 H,,54.0,,,False,,3/4,3702,DVB-S3,Eng
+10.0,The Overcomer,,,11069 H,,54.0,,,False,,3/4,3702,DVB-S3,Eng
+,,,,11091 H,,54.0,,,False,,1/2,4500,DVB-S4,
+3.0,Middle East TV,MPEG-4/SD,1160.0,11091 H,,54.0,,,False,,1/2,4500,DVB-S4,Eng
+4.0,It's Supernatural! Network,MPEG-4/SD,69.0,11091 H,,54.0,,,False,,1/2,4500,DVB-S4,Eng
+,Yes,171-15,,11103 V,,54.0,Videoguard,,False,,3/4,30000,DVB-S2,
+,Yes,171-3,,11474 V,,54.0,Videoguard,,False,,3/4,27500,DVB-S2,
+,Yes,171-6,,11501 V,,54.0,Videoguard,,False,,5/6,13750,DVB-S1,
+,(feeds),,,12358 H,,,,,False,,3/4,3200,DVB-S3,
+,(feeds),,,12375 H,,,,,False,,3/4,23700,DVB-S2,
+,(feeds),,,12382 H,,,,,False,,5/6,4610,DVB-S2,
+,(feeds),,,12391 H,,,,,False,,3/4,3200,DVB-S3,
+1.0,România TV,65535-1MPEG-2/SD,256.0,12396 H,,0.0,,,False,,3/4,3333,DVB-S3,Rum
+,(feeds),,,12403 H,,,,,False,,2/3,3200,DVB-S2,
+,(feeds),,,12408 H,,,,,False,,5/6,4610,DVB-S2,
+,(feeds),,,12417 H,,,,,False,,5/6,2500,DVB-S2,

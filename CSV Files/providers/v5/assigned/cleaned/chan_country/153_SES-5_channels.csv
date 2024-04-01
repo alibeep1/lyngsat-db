@@ -1,0 +1,367 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,(feeds),,,3835 L,tp HEL4,,,,,,False,,3/4,2000.0,DVB-S2,,
+2020.0,(feeds),,2006.0,11919 H,tp 951,0.0,,,,,False,,3/4,27500.0,DVB-S2,,
+,,,,3843 R,tp HER5,39.0,,,,,False,,,,,,
+,,,,3913 L,tp HEL8,39.0,,,,,False,,,,,,
+,,,,3918 L,tp HEL8,39.0,,,,,False,,,,,,
+,,,,11747 V,tp 942,0.0,,,,,False,,,,,,
+,,,,11900 V,tp 450,0.0,,,,,False,,,,,,
+1.0,Resurrection TV,0-1MPEG-4/SD,308.0,3845 R,tp HER5,39.0,,,Resurrection TV,https://www.lyngsat.com/tvchannels/gh/Resurrection-TV.html,False,,2/3,1945.0,DVB-S2,Eng,gh
+10.0,Resurrection TV,MPEG-4/SD,2010.0,11919 H,tp 951,0.0,,,Resurrection TV,https://www.lyngsat.com/tvchannels/gh/Resurrection-TV.html,False,,3/4,27500.0,DVB-S2,Eng,gh
+1.0,TVGE Internacional,?-?MPEG-2/SD,301.0,3853 R,tp HER5,39.0,,,,,False,,2/3,2270.0,DVB-S2,Spa,
+2.0,TVGE Radio,,,3853 R,tp HER5,39.0,,,TVGE Radio,https://www.lyngsat.com/radiochannels/gq/TVGE-Radio.html,False,,2/3,2270.0,DVB-S2,Spa,gq
+2.0,TVGE Radio,,,3853 R,tp HER5,39.0,,,TVGE Radio,https://www.lyngsat.com/radiochannels/gq/TVGE-Radio.html,False,,2/3,2270.0,DVB-S2,Spa,gq
+1.0,Dove TV (Nigeria),1-15MPEG-4/HD,2001.0,3906 L,tp HEL8,39.0,,,,,False,,3/5,6732.0,DVB-S2,Eng,
+2.0,Wedding Channel Africa,1-1MPEG-4/SD,201.0,3922 L,tp HEL8,39.0,,,,,False,,2/3,1415.0,DVB-S2,Eng,
+1.0,Hip TV,?-?MPEG-4/SD,512.0,3924 L,tp HEL8,39.0,,,,,False,,3/4,1200.0,DVB-S2,Eng,
+1.0,Liberty TV (Nigeria),0-1MPEG-4/SD,258.0,3926 L,tp HEL8,39.0,,,,,False,,3/4,1210.0,DVB-S2,Eng,
+1.0,Fufa TV,0-0MPEG-4/SD,257.0,3928 L,tp HEL8,39.0,,,,,False,,2/3,2060.0,DVB-S2,Eng,
+,TV Continental,8192-4096,,3934 L,tp HEL8,39.0,,https://www.lyngsat.com/providers/ng/TV-Continental.html,,,True,TV Continental,3/5,6270.0,DVB-S2,,
+1.0,TVC News,MPEG-4/SD,613.0,3934 L,tp HEL8,39.0,,,TVC News,https://www.lyngsat.com/tvchannels/ng/TVC-News.html,False,TV Continental,3/5,6270.0,DVB-S2,Eng,ng
+1.0,TVC News,MPEG-4/SD,613.0,3934 L,tp HEL8,39.0,,,TVC News,https://www.lyngsat.com/tvchannels/ng/TVC-News.html,False,TV Continental,3/5,6270.0,DVB-S2,Eng,ng
+2.0,TVC (Nigeria),MPEG-4/SD,612.0,3934 L,tp HEL8,39.0,,,TVC (Nigeria),https://www.lyngsat.com/tvchannels/ng/TVC.html,False,TV Continental,3/5,6270.0,DVB-S2,Eng,ng
+2.0,TVC (Nigeria),MPEG-4/SD,612.0,3934 L,tp HEL8,39.0,,,TVC (Nigeria),https://www.lyngsat.com/tvchannels/ng/TVC.html,False,TV Continental,3/5,6270.0,DVB-S2,Eng,ng
+,BBC World Service,1-315,,4000 R,tp HER9,39.0,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,,,True,BBC World Service,1/2,18200.0,DVB-S2,,
+,BBC World Service,1-315,,4000 R,tp HER9,39.0,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,,,True,BBC World Service,1/2,18200.0,DVB-S2,,
+,BBC World Service,3004-322,,4087 L,tp GLL16,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,,,True,BBC World Service,5/6,1000.0,DVB-S2,,
+,BBC World Service,3004-322,,4087 L,tp GLL16,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,,,True,BBC World Service,5/6,1000.0,DVB-S2,,
+13911.0,(BBC Africa feeds),,6701.0,4000 R,tp HER9,39.0,,,,,False,BBC World Service,1/2,18200.0,DVB-S2,,
+13912.0,(BBC Africa feeds),,6711.0,4000 R,tp HER9,39.0,,,,,False,BBC World Service,1/2,18200.0,DVB-S2,,
+13914.0,(BBC Africa feeds),,6731.0,4000 R,tp HER9,39.0,,,,,False,BBC World Service,1/2,18200.0,DVB-S2,,
+13917.0,(BBC Africa feeds),,6761.0,4000 R,tp HER9,39.0,,,,,False,BBC World Service,1/2,18200.0,DVB-S2,,
+13901.0,BBC World Service English East Africa,,,4000 R,tp HER9,39.0,,,BBC World Service English East Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-East-Africa.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13901.0,BBC World Service English East Africa,,,4000 R,tp HER9,39.0,,,BBC World Service English East Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-East-Africa.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13901.0,BBC World Service English East Africa,,,4087 L,tp GLL16,,,,BBC World Service English East Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-East-Africa.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13901.0,BBC World Service English East Africa,,,4087 L,tp GLL16,,,,BBC World Service English East Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-East-Africa.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13902.0,BBC World Service English West Africa,,,4000 R,tp HER9,39.0,,,BBC World Service English West Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-West-Africa.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13902.0,BBC World Service English West Africa,,,4000 R,tp HER9,39.0,,,BBC World Service English West Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-West-Africa.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13902.0,BBC World Service English West Africa,,,4087 L,tp GLL16,,,,BBC World Service English West Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-West-Africa.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13902.0,BBC World Service English West Africa,,,4087 L,tp GLL16,,,,BBC World Service English West Africa,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-West-Africa.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13907.0,BBC World Service English Europe,,,4000 R,tp HER9,39.0,,,BBC World Service English Europe,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-Europe.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13907.0,BBC World Service English Europe,,,4000 R,tp HER9,39.0,,,BBC World Service English Europe,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-Europe.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13908.0,BBC World Service English Middle East,,,4000 R,tp HER9,39.0,,,BBC World Service English Middle East,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-Middle-East.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13910.0,BBC World Service English News,,,4000 R,tp HER9,39.0,,,BBC World Service English News,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-News.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13910.0,BBC World Service English News,,,4000 R,tp HER9,39.0,,,BBC World Service English News,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-News.html,False,BBC World Service,1/2,18200.0,DVB-S2,Eng,uk
+13910.0,BBC World Service English News,,,4087 L,tp GLL16,,,,BBC World Service English News,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-News.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13910.0,BBC World Service English News,,,4087 L,tp GLL16,,,,BBC World Service English News,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-News.html,False,BBC World Service,5/6,1000.0,DVB-S2,Eng,uk
+13916.0,BBC World Service Arabic,,,4000 R,tp HER9,39.0,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,1/2,18200.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4000 R,tp HER9,39.0,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,1/2,18200.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4000 R,tp HER9,39.0,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,1/2,18200.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4000 R,tp HER9,39.0,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,1/2,18200.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4087 L,tp GLL16,,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,5/6,1000.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4087 L,tp GLL16,,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,5/6,1000.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4087 L,tp GLL16,,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,5/6,1000.0,DVB-S2,Ara,uk
+13916.0,BBC World Service Arabic,,,4087 L,tp GLL16,,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,BBC World Service,5/6,1000.0,DVB-S2,Ara,uk
+13928.0,BBC World Service Dari,,,4000 R,tp HER9,39.0,,,BBC World Service Dari,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Dari.html,False,BBC World Service,1/2,18200.0,DVB-S2,Prs,uk
+13929.0,BBC World Service Persian,,,4000 R,tp HER9,39.0,,,BBC World Service Persian,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Persian.html,False,BBC World Service,1/2,18200.0,DVB-S2,Per,uk
+13930.0,BBC World Service Afrique,,,4000 R,tp HER9,39.0,,,BBC World Service Afrique,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Afrique.html,False,BBC World Service,1/2,18200.0,DVB-S2,Fre,uk
+13930.0,BBC World Service Afrique,,,4000 R,tp HER9,39.0,,,BBC World Service Afrique,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Afrique.html,False,BBC World Service,1/2,18200.0,DVB-S2,Fre,uk
+13930.0,BBC World Service Afrique,,,4087 L,tp GLL16,,,,BBC World Service Afrique,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Afrique.html,False,BBC World Service,5/6,1000.0,DVB-S2,Fre,uk
+13930.0,BBC World Service Afrique,,,4087 L,tp GLL16,,,,BBC World Service Afrique,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Afrique.html,False,BBC World Service,5/6,1000.0,DVB-S2,Fre,uk
+13931.0,BBC Gahuza,,,4000 R,tp HER9,39.0,,,BBC Gahuza,https://www.lyngsat.com/radiochannels/uk/BBC-Gahuza.html,False,BBC World Service,1/2,18200.0,DVB-S2,,uk
+13931.0,BBC Gahuza,,,4000 R,tp HER9,39.0,,,BBC Gahuza,https://www.lyngsat.com/radiochannels/uk/BBC-Gahuza.html,False,BBC World Service,1/2,18200.0,DVB-S2,,uk
+13931.0,BBC Gahuza,,,4087 L,tp GLL16,,,,BBC Gahuza,https://www.lyngsat.com/radiochannels/uk/BBC-Gahuza.html,False,BBC World Service,5/6,1000.0,DVB-S2,,uk
+13931.0,BBC Gahuza,,,4087 L,tp GLL16,,,,BBC Gahuza,https://www.lyngsat.com/radiochannels/uk/BBC-Gahuza.html,False,BBC World Service,5/6,1000.0,DVB-S2,,uk
+13932.0,BBC Hausa Rediyo,,,4000 R,tp HER9,39.0,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,1/2,18200.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4000 R,tp HER9,39.0,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,1/2,18200.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4000 R,tp HER9,39.0,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,1/2,18200.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4000 R,tp HER9,39.0,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,1/2,18200.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4087 L,tp GLL16,,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,5/6,1000.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4087 L,tp GLL16,,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,5/6,1000.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4087 L,tp GLL16,,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,5/6,1000.0,DVB-S2,Hau,uk
+13932.0,BBC Hausa Rediyo,,,4087 L,tp GLL16,,,,BBC Hausa Rediyo,https://www.lyngsat.com/radiochannels/uk/BBC-Hausa-Rediyo.html,False,BBC World Service,5/6,1000.0,DVB-S2,Hau,uk
+13942.0,BBC World Service Pashto,,,4000 R,tp HER9,39.0,,,BBC World Service Pashto,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Pashto.html,False,BBC World Service,1/2,18200.0,DVB-S2,Pus,uk
+13955.0,BBC World Service Somali,,,4000 R,tp HER9,39.0,,,BBC World Service Somali,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Somali.html,False,BBC World Service,1/2,18200.0,DVB-S2,Som,uk
+13955.0,BBC World Service Somali,,,4000 R,tp HER9,39.0,,,BBC World Service Somali,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Somali.html,False,BBC World Service,1/2,18200.0,DVB-S2,Som,uk
+13955.0,BBC World Service Somali,,,4087 L,tp GLL16,,,,BBC World Service Somali,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Somali.html,False,BBC World Service,5/6,1000.0,DVB-S2,Som,uk
+13955.0,BBC World Service Somali,,,4087 L,tp GLL16,,,,BBC World Service Somali,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Somali.html,False,BBC World Service,5/6,1000.0,DVB-S2,Som,uk
+13960.0,BBC World Service Swahili,,,4000 R,tp HER9,39.0,,,BBC World Service Swahili,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Swahili.html,False,BBC World Service,1/2,18200.0,DVB-S2,Swa,uk
+,Voice of America,196-196,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,2/3,1820.0,DVB-S2,,us
+,Voice of America,196-196,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,2/3,1820.0,DVB-S2,,us
+1.0,Voice of America,,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,2/3,1820.0,DVB-S2,,us
+1.0,Voice of America,,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,2/3,1820.0,DVB-S2,,us
+62.0,Voice of America,,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,3/4,27500.0,DVB-S2,,us
+62.0,Voice of America,,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,True,Voice of America,3/4,27500.0,DVB-S2,,us
+2.0,VoA Rwanda,,,4014 R,tp HER9,39.0,,,VoA Rwanda,https://www.lyngsat.com/radiochannels/us/VoA-Rwanda.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+2.0,VoA Rwanda,,,4014 R,tp HER9,39.0,,,VoA Rwanda,https://www.lyngsat.com/radiochannels/us/VoA-Rwanda.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+63.0,VoA Rwanda,,,11919 H,tp 951,0.0,,,VoA Rwanda,https://www.lyngsat.com/radiochannels/us/VoA-Rwanda.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+63.0,VoA Rwanda,,,11919 H,tp 951,0.0,,,VoA Rwanda,https://www.lyngsat.com/radiochannels/us/VoA-Rwanda.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+3.0,VoA 1,,,4014 R,tp HER9,39.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,2/3,1820.0,DVB-S2,Eng,us
+3.0,VoA 1,,,4014 R,tp HER9,39.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,2/3,1820.0,DVB-S2,Eng,us
+64.0,VoA 1,,,11919 H,tp 951,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,us
+64.0,VoA 1,,,11919 H,tp 951,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,us
+4.0,VoA Congo-Brazzaville,,,4014 R,tp HER9,39.0,,,VoA Congo-Brazzaville,https://www.lyngsat.com/radiochannels/us/VoA-Congo-Brazzaville.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+4.0,VoA Congo-Brazzaville,,,4014 R,tp HER9,39.0,,,VoA Congo-Brazzaville,https://www.lyngsat.com/radiochannels/us/VoA-Congo-Brazzaville.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+65.0,VoA Congo-Brazzaville,,,11919 H,tp 951,0.0,,,VoA Congo-Brazzaville,https://www.lyngsat.com/radiochannels/us/VoA-Congo-Brazzaville.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+65.0,VoA Congo-Brazzaville,,,11919 H,tp 951,0.0,,,VoA Congo-Brazzaville,https://www.lyngsat.com/radiochannels/us/VoA-Congo-Brazzaville.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+5.0,Radio Sawa Mauritania,,,4014 R,tp HER9,39.0,,,Radio Sawa Mauritania,https://www.lyngsat.com/radiochannels/us/Radio-Sawa-Mauritania.html,False,Voice of America,2/3,1820.0,DVB-S2,Ara,us
+5.0,Radio Sawa Mauritania,,,4014 R,tp HER9,39.0,,,Radio Sawa Mauritania,https://www.lyngsat.com/radiochannels/us/Radio-Sawa-Mauritania.html,False,Voice of America,2/3,1820.0,DVB-S2,Ara,us
+66.0,Radio Sawa Mauritania,,,11919 H,tp 951,0.0,,,Radio Sawa Mauritania,https://www.lyngsat.com/radiochannels/us/Radio-Sawa-Mauritania.html,False,Voice of America,3/4,27500.0,DVB-S2,Ara,us
+66.0,Radio Sawa Mauritania,,,11919 H,tp 951,0.0,,,Radio Sawa Mauritania,https://www.lyngsat.com/radiochannels/us/Radio-Sawa-Mauritania.html,False,Voice of America,3/4,27500.0,DVB-S2,Ara,us
+6.0,VoA Bambara,,,4014 R,tp HER9,39.0,,,VoA Bambara,https://www.lyngsat.com/radiochannels/us/VoA-Bambara.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+6.0,VoA Bambara,,,4014 R,tp HER9,39.0,,,VoA Bambara,https://www.lyngsat.com/radiochannels/us/VoA-Bambara.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+67.0,VoA Bambara,,,11919 H,tp 951,0.0,,,VoA Bambara,https://www.lyngsat.com/radiochannels/us/VoA-Bambara.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+67.0,VoA Bambara,,,11919 H,tp 951,0.0,,,VoA Bambara,https://www.lyngsat.com/radiochannels/us/VoA-Bambara.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+7.0,VoA Somali,,,4014 R,tp HER9,39.0,,,VoA Somali,https://www.lyngsat.com/radiochannels/us/VoA-Somali.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+7.0,VoA Somali,,,4014 R,tp HER9,39.0,,,VoA Somali,https://www.lyngsat.com/radiochannels/us/VoA-Somali.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+68.0,VoA Somali,,,11919 H,tp 951,0.0,,,VoA Somali,https://www.lyngsat.com/radiochannels/us/VoA-Somali.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+68.0,VoA Somali,,,11919 H,tp 951,0.0,,,VoA Somali,https://www.lyngsat.com/radiochannels/us/VoA-Somali.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+9.0,VoA Burundi,,,4014 R,tp HER9,39.0,,,VoA Burundi,https://www.lyngsat.com/radiochannels/us/VoA-Burundi.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+9.0,VoA Burundi,,,4014 R,tp HER9,39.0,,,VoA Burundi,https://www.lyngsat.com/radiochannels/us/VoA-Burundi.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+71.0,VoA Burundi,,,11919 H,tp 951,0.0,,,VoA Burundi,https://www.lyngsat.com/radiochannels/us/VoA-Burundi.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+71.0,VoA Burundi,,,11919 H,tp 951,0.0,,,VoA Burundi,https://www.lyngsat.com/radiochannels/us/VoA-Burundi.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+10.0,VoA South Sudan,,,4014 R,tp HER9,39.0,,,VoA South Sudan,https://www.lyngsat.com/radiochannels/us/VoA-South-Sudan.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+10.0,VoA South Sudan,,,4014 R,tp HER9,39.0,,,VoA South Sudan,https://www.lyngsat.com/radiochannels/us/VoA-South-Sudan.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+72.0,VoA South Sudan,,,11919 H,tp 951,0.0,,,VoA South Sudan,https://www.lyngsat.com/radiochannels/us/VoA-South-Sudan.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+72.0,VoA South Sudan,,,11919 H,tp 951,0.0,,,VoA South Sudan,https://www.lyngsat.com/radiochannels/us/VoA-South-Sudan.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+11.0,VoA Ghana,,,4014 R,tp HER9,39.0,,,VoA Ghana,https://www.lyngsat.com/radiochannels/us/VoA-Ghana.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+11.0,VoA Ghana,,,4014 R,tp HER9,39.0,,,VoA Ghana,https://www.lyngsat.com/radiochannels/us/VoA-Ghana.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+73.0,VoA Ghana,,,11919 H,tp 951,0.0,,,VoA Ghana,https://www.lyngsat.com/radiochannels/us/VoA-Ghana.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+73.0,VoA Ghana,,,11919 H,tp 951,0.0,,,VoA Ghana,https://www.lyngsat.com/radiochannels/us/VoA-Ghana.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+12.0,VoA Togo,,,4014 R,tp HER9,39.0,,,VoA Togo,https://www.lyngsat.com/radiochannels/us/VoA-Togo.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+12.0,VoA Togo,,,4014 R,tp HER9,39.0,,,VoA Togo,https://www.lyngsat.com/radiochannels/us/VoA-Togo.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+74.0,VoA Togo,,,11919 H,tp 951,0.0,,,VoA Togo,https://www.lyngsat.com/radiochannels/us/VoA-Togo.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+74.0,VoA Togo,,,11919 H,tp 951,0.0,,,VoA Togo,https://www.lyngsat.com/radiochannels/us/VoA-Togo.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+13.0,Khartoum FM,,,4014 R,tp HER9,39.0,,,Khartoum FM,https://www.lyngsat.com/radiochannels/sd/Khartoum-FM.html,False,Voice of America,2/3,1820.0,DVB-S2,Ara,sd
+13.0,Khartoum FM,,,4014 R,tp HER9,39.0,,,Khartoum FM,https://www.lyngsat.com/radiochannels/sd/Khartoum-FM.html,False,Voice of America,2/3,1820.0,DVB-S2,Ara,sd
+75.0,Khartoum FM,,,11919 H,tp 951,0.0,,,Khartoum FM,https://www.lyngsat.com/radiochannels/sd/Khartoum-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Ara,sd
+75.0,Khartoum FM,,,11919 H,tp 951,0.0,,,Khartoum FM,https://www.lyngsat.com/radiochannels/sd/Khartoum-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Ara,sd
+14.0,VoA Chad,,,4014 R,tp HER9,39.0,,,VoA Chad,https://www.lyngsat.com/radiochannels/us/VoA-Chad.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+14.0,VoA Chad,,,4014 R,tp HER9,39.0,,,VoA Chad,https://www.lyngsat.com/radiochannels/us/VoA-Chad.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+76.0,VoA Chad,,,11919 H,tp 951,0.0,,,VoA Chad,https://www.lyngsat.com/radiochannels/us/VoA-Chad.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+76.0,VoA Chad,,,11919 H,tp 951,0.0,,,VoA Chad,https://www.lyngsat.com/radiochannels/us/VoA-Chad.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+15.0,VoA Central Africa,,,4014 R,tp HER9,39.0,,,VoA Central Africa,https://www.lyngsat.com/radiochannels/us/VoA-Central-Africa.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+15.0,VoA Central Africa,,,4014 R,tp HER9,39.0,,,VoA Central Africa,https://www.lyngsat.com/radiochannels/us/VoA-Central-Africa.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+78.0,VoA Central Africa,,,11919 H,tp 951,0.0,,,VoA Central Africa,https://www.lyngsat.com/radiochannels/us/VoA-Central-Africa.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+78.0,VoA Central Africa,,,11919 H,tp 951,0.0,,,VoA Central Africa,https://www.lyngsat.com/radiochannels/us/VoA-Central-Africa.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+16.0,VoA Kenya,,,4014 R,tp HER9,39.0,,,VoA Kenya,https://www.lyngsat.com/radiochannels/us/VoA-Kenya.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+16.0,VoA Kenya,,,4014 R,tp HER9,39.0,,,VoA Kenya,https://www.lyngsat.com/radiochannels/us/VoA-Kenya.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+79.0,VoA Kenya,,,11919 H,tp 951,0.0,,,VoA Kenya,https://www.lyngsat.com/radiochannels/us/VoA-Kenya.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+79.0,VoA Kenya,,,11919 H,tp 951,0.0,,,VoA Kenya,https://www.lyngsat.com/radiochannels/us/VoA-Kenya.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+17.0,VoA Sierra Leone,,,4014 R,tp HER9,39.0,,,VoA Sierra Leone,https://www.lyngsat.com/radiochannels/us/VoA-Sierra-Leone.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+17.0,VoA Sierra Leone,,,4014 R,tp HER9,39.0,,,VoA Sierra Leone,https://www.lyngsat.com/radiochannels/us/VoA-Sierra-Leone.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+80.0,VoA Sierra Leone,,,11919 H,tp 951,0.0,,,VoA Sierra Leone,https://www.lyngsat.com/radiochannels/us/VoA-Sierra-Leone.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+80.0,VoA Sierra Leone,,,11919 H,tp 951,0.0,,,VoA Sierra Leone,https://www.lyngsat.com/radiochannels/us/VoA-Sierra-Leone.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+18.0,VoA Burkina Faso,,,4014 R,tp HER9,39.0,,,VoA Burkina Faso,https://www.lyngsat.com/radiochannels/us/VoA-Burkina-Faso.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+18.0,VoA Burkina Faso,,,4014 R,tp HER9,39.0,,,VoA Burkina Faso,https://www.lyngsat.com/radiochannels/us/VoA-Burkina-Faso.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+81.0,VoA Burkina Faso,,,11919 H,tp 951,0.0,,,VoA Burkina Faso,https://www.lyngsat.com/radiochannels/us/VoA-Burkina-Faso.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+81.0,VoA Burkina Faso,,,11919 H,tp 951,0.0,,,VoA Burkina Faso,https://www.lyngsat.com/radiochannels/us/VoA-Burkina-Faso.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+19.0,VoA Senegal,,,4014 R,tp HER9,39.0,,,VoA Senegal,https://www.lyngsat.com/radiochannels/us/VoA-Senegal.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+19.0,VoA Senegal,,,4014 R,tp HER9,39.0,,,VoA Senegal,https://www.lyngsat.com/radiochannels/us/VoA-Senegal.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+82.0,VoA Senegal,,,11919 H,tp 951,0.0,,,VoA Senegal,https://www.lyngsat.com/radiochannels/us/VoA-Senegal.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+82.0,VoA Senegal,,,11919 H,tp 951,0.0,,,VoA Senegal,https://www.lyngsat.com/radiochannels/us/VoA-Senegal.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+20.0,VoA Niger,,,4014 R,tp HER9,39.0,,,VoA Niger,https://www.lyngsat.com/radiochannels/us/VoA-Niger.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+20.0,VoA Niger,,,4014 R,tp HER9,39.0,,,VoA Niger,https://www.lyngsat.com/radiochannels/us/VoA-Niger.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+83.0,VoA Niger,,,11919 H,tp 951,0.0,,,VoA Niger,https://www.lyngsat.com/radiochannels/us/VoA-Niger.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+83.0,VoA Niger,,,11919 H,tp 951,0.0,,,VoA Niger,https://www.lyngsat.com/radiochannels/us/VoA-Niger.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+21.0,VoA Congo DRC,,,4014 R,tp HER9,39.0,,,VoA Congo DRC,https://www.lyngsat.com/radiochannels/us/VoA-Congo-DRC.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+21.0,VoA Congo DRC,,,4014 R,tp HER9,39.0,,,VoA Congo DRC,https://www.lyngsat.com/radiochannels/us/VoA-Congo-DRC.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+84.0,VoA Congo DRC,,,11919 H,tp 951,0.0,,,VoA Congo DRC,https://www.lyngsat.com/radiochannels/us/VoA-Congo-DRC.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+84.0,VoA Congo DRC,,,11919 H,tp 951,0.0,,,VoA Congo DRC,https://www.lyngsat.com/radiochannels/us/VoA-Congo-DRC.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+22.0,VoA Madagascar,,,4014 R,tp HER9,39.0,,,VoA Madagascar,https://www.lyngsat.com/radiochannels/us/VoA-Madagascar.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+22.0,VoA Madagascar,,,4014 R,tp HER9,39.0,,,VoA Madagascar,https://www.lyngsat.com/radiochannels/us/VoA-Madagascar.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+86.0,VoA Madagascar,,,11919 H,tp 951,0.0,,,VoA Madagascar,https://www.lyngsat.com/radiochannels/us/VoA-Madagascar.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+86.0,VoA Madagascar,,,11919 H,tp 951,0.0,,,VoA Madagascar,https://www.lyngsat.com/radiochannels/us/VoA-Madagascar.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+23.0,VoA Zambia,,,4014 R,tp HER9,39.0,,,VoA Zambia,https://www.lyngsat.com/radiochannels/us/VoA-Zambia.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+23.0,VoA Zambia,,,4014 R,tp HER9,39.0,,,VoA Zambia,https://www.lyngsat.com/radiochannels/us/VoA-Zambia.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+87.0,VoA Zambia,,,11919 H,tp 951,0.0,,,VoA Zambia,https://www.lyngsat.com/radiochannels/us/VoA-Zambia.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+87.0,VoA Zambia,,,11919 H,tp 951,0.0,,,VoA Zambia,https://www.lyngsat.com/radiochannels/us/VoA-Zambia.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+24.0,VoA Zimbabwe,,,4014 R,tp HER9,39.0,,,VoA Zimbabwe,https://www.lyngsat.com/radiochannels/us/VoA-Zimbabwe.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+24.0,VoA Zimbabwe,,,4014 R,tp HER9,39.0,,,VoA Zimbabwe,https://www.lyngsat.com/radiochannels/us/VoA-Zimbabwe.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+88.0,VoA Zimbabwe,,,11919 H,tp 951,0.0,,,VoA Zimbabwe,https://www.lyngsat.com/radiochannels/us/VoA-Zimbabwe.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+88.0,VoA Zimbabwe,,,11919 H,tp 951,0.0,,,VoA Zimbabwe,https://www.lyngsat.com/radiochannels/us/VoA-Zimbabwe.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+25.0,VoA Swahili,,,4014 R,tp HER9,39.0,,,VoA Swahili,https://www.lyngsat.com/radiochannels/us/VoA-Swahili.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+25.0,VoA Swahili,,,4014 R,tp HER9,39.0,,,VoA Swahili,https://www.lyngsat.com/radiochannels/us/VoA-Swahili.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+89.0,VoA Swahili,,,11919 H,tp 951,0.0,,,VoA Swahili,https://www.lyngsat.com/radiochannels/us/VoA-Swahili.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,us
+89.0,VoA Swahili,,,11919 H,tp 951,0.0,,,VoA Swahili,https://www.lyngsat.com/radiochannels/us/VoA-Swahili.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,us
+26.0,VoA Accra,,,4014 R,tp HER9,39.0,,,VoA Accra,https://www.lyngsat.com/radiochannels/us/VoA-Accra.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+26.0,VoA Accra,,,4014 R,tp HER9,39.0,,,VoA Accra,https://www.lyngsat.com/radiochannels/us/VoA-Accra.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+90.0,VoA Accra,,,11919 H,tp 951,0.0,,,VoA Accra,https://www.lyngsat.com/radiochannels/us/VoA-Accra.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+90.0,VoA Accra,,,11919 H,tp 951,0.0,,,VoA Accra,https://www.lyngsat.com/radiochannels/us/VoA-Accra.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+27.0,VoA Ethiopia,,,4014 R,tp HER9,39.0,,,VoA Ethiopia,https://www.lyngsat.com/radiochannels/us/VoA-Ethiopia.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+27.0,VoA Ethiopia,,,4014 R,tp HER9,39.0,,,VoA Ethiopia,https://www.lyngsat.com/radiochannels/us/VoA-Ethiopia.html,False,Voice of America,2/3,1820.0,DVB-S2,,us
+91.0,VoA Ethiopia,,,11919 H,tp 951,0.0,,,VoA Ethiopia,https://www.lyngsat.com/radiochannels/us/VoA-Ethiopia.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+91.0,VoA Ethiopia,,,11919 H,tp 951,0.0,,,VoA Ethiopia,https://www.lyngsat.com/radiochannels/us/VoA-Ethiopia.html,False,Voice of America,3/4,27500.0,DVB-S2,,us
+,Channels TV,MPEG-4/HD,308.0,4089 L,tp GLL16,,,,,,False,Voice of America,2/3,2500.0,DVB-S2,Eng,
+1.0,Wap TV,1-1MPEG-4/SD,100.0,4094 L,tp GLL16,,,,,,False,Voice of America,3/5,1551.0,DVB-S2,Eng,
+1.0,NTA International,1-1MPEG-4/HD,481.0,4097 L,tp GLL16,,,,,,False,Voice of America,3/5,3365.0,DVB-S2,Eng,
+,Zuku,4-4941,,11727 H,tp 941,0.0,"Conax,Viaccess,Verimatrix",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,Zuku,4-4945,,11804 H,tp 945,0.0,"Conax,Verimatrix",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,Zuku,4-4946,,11823 V,tp 946,0.0,"Conax,Verimatrix",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,Zuku,4-4949,,11881 H,tp 949,0.0,"Conax,Verimatrix",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+962.0,ITT FM,,,11727 H,tp 941,0.0,,,ITT FM,https://www.lyngsat.com/radiochannels/zm/ITT-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,zm
+962.0,ITT FM,,,11727 H,tp 941,0.0,,,ITT FM,https://www.lyngsat.com/radiochannels/zm/ITT-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,zm
+964.0,Dodoma FM,,,11727 H,tp 941,0.0,,,Dodoma FM,https://www.lyngsat.com/radiochannels/tz/Dodoma-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,tz
+964.0,Dodoma FM,,,11727 H,tp 941,0.0,,,Dodoma FM,https://www.lyngsat.com/radiochannels/tz/Dodoma-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,tz
+965.0,Salt FM,,,11727 H,tp 941,0.0,,,Salt FM,https://www.lyngsat.com/radiochannels/ug/Salt-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ug
+966.0,Radio Simba,,,11727 H,tp 941,0.0,,,Radio Simba,https://www.lyngsat.com/radiochannels/ug/Radio-Simba.html,False,Voice of America,3/4,27500.0,DVB-S2,Lug,ug
+966.0,Radio Simba,,,11727 H,tp 941,0.0,,,Radio Simba,https://www.lyngsat.com/radiochannels/ug/Radio-Simba.html,False,Voice of America,3/4,27500.0,DVB-S2,Lug,ug
+968.0,Wasafi FM,,,11727 H,tp 941,0.0,,,Wasafi FM,https://www.lyngsat.com/radiochannels/tz/Wasafi-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,,tz
+972.0,Nation FM (Kenya),,,11727 H,tp 941,0.0,,,Nation FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Nation-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+973.0,Sibuka FM,,,11727 H,tp 941,0.0,,,Sibuka FM,https://www.lyngsat.com/radiochannels/tz/Sibuka-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,,tz
+977.0,Clouds FM,,,11727 H,tp 941,0.0,,,Clouds FM,https://www.lyngsat.com/radiochannels/tz/Clouds-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+977.0,Clouds FM,,,11727 H,tp 941,0.0,,,Clouds FM,https://www.lyngsat.com/radiochannels/tz/Clouds-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+984.0,DW-Radio FM 1,,,11727 H,tp 941,0.0,,,DW-Radio FM 1,https://www.lyngsat.com/radiochannels/de/DW-Radio-FM-1.html,False,Voice of America,3/4,27500.0,DVB-S2,,de
+1021.0,Radio Icengelo,,,11727 H,tp 941,0.0,,,Radio Icengelo,https://www.lyngsat.com/radiochannels/zm/Radio-Icengelo.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,zm
+1022.0,Hope FM,,,11727 H,tp 941,0.0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+1022.0,Hope FM,,,11727 H,tp 941,0.0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+,StarSat,222-4243,,11766 H,tp 243,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4244,,11785 V,tp 244,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4248,,11862 V,tp 248,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4252,,11938 V,tp 252,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4253,,11958 H,tp 953,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4254,,11977 V,tp 254,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4255,,11996 H,tp 255,0.0,"Conax,Panaccess",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4259,,12073 H,tp 259,0.0,"Conax,Panaccess",,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4269,,12265 H,tp 269,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4271,,12303 H,tp 271,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4273,,12341 H,tp 273,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4275,,12380 H,tp 275,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+,StarSat,222-4277,,12418 H,tp 277,0.0,Conax,,,,False,Voice of America,3/4,27500.0,DVB-S2,,
+7912.0,Super FM (Mozambique),,,11785 V,tp 244,0.0,,,Super FM (Mozambique),https://www.lyngsat.com/radiochannels/mz/Super-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Por,mz
+7912.0,Super FM (Mozambique),,,11785 V,tp 244,0.0,,,Super FM (Mozambique),https://www.lyngsat.com/radiochannels/mz/Super-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Por,mz
+7916.0,Radio Indico,,,11785 V,tp 244,0.0,,,Radio Indico,https://www.lyngsat.com/radiochannels/mz/Radio-Indico.html,False,Voice of America,3/4,27500.0,DVB-S2,Por,mz
+7932.0,Radio Haq,,,11785 V,tp 244,0.0,,,Radio Haq,https://www.lyngsat.com/radiochannels/mz/Radio-Haq.html,False,Voice of America,3/4,27500.0,DVB-S2,Por,mz
+1.0,Zuku Zone,MPEG-4/SD,1010.0,11804 H,tp 945,0.0,,,Zuku Zone,https://www.lyngsat.com/tvchannels/ke/Zuku-Zone.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+963.0,Mazingira FM,,,11804 H,tp 945,0.0,,,Mazingira FM,https://www.lyngsat.com/radiochannels/tz/Mazingira-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,tz
+963.0,Mazingira FM,,,11804 H,tp 945,0.0,,,Mazingira FM,https://www.lyngsat.com/radiochannels/tz/Mazingira-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Swa,tz
+974.0,Capital FM (Kenya),,,11804 H,tp 945,0.0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+974.0,Capital FM (Kenya),,,11804 H,tp 945,0.0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+975.0,HomeBoyz Radio,,,11804 H,tp 945,0.0,,,HomeBoyz Radio,https://www.lyngsat.com/radiochannels/ke/HomeBoyz-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+976.0,East FM (Kenya),,,11804 H,tp 945,0.0,,,East FM (Kenya),https://www.lyngsat.com/radiochannels/ke/East-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,,ke
+976.0,East FM (Kenya),,,11804 H,tp 945,0.0,,,East FM (Kenya),https://www.lyngsat.com/radiochannels/ke/East-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,,ke
+986.0,Eiraka Radio,,,11804 H,tp 945,0.0,,,Eiraka Radio,https://www.lyngsat.com/radiochannels/ug/Eiraka-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ug
+988.0,East Africa Radio,,,11804 H,tp 945,0.0,,,East Africa Radio,https://www.lyngsat.com/radiochannels/tz/East-Africa-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+988.0,East Africa Radio,,,11804 H,tp 945,0.0,,,East Africa Radio,https://www.lyngsat.com/radiochannels/tz/East-Africa-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+967.0,Zodiak Radio,,,11881 H,tp 949,0.0,,,Zodiak Radio,https://www.lyngsat.com/radiochannels/mw/Zodiak-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+967.0,Zodiak Radio,,,11881 H,tp 949,0.0,,,Zodiak Radio,https://www.lyngsat.com/radiochannels/mw/Zodiak-Radio.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+969.0,Kass FM,,,11881 H,tp 949,0.0,,,Kass FM,https://www.lyngsat.com/radiochannels/ke/Kass-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+969.0,Kass FM,,,11881 H,tp 949,0.0,,,Kass FM,https://www.lyngsat.com/radiochannels/ke/Kass-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+970.0,Q FM (Zambia),,,11881 H,tp 949,0.0,,,Q FM (Zambia),https://www.lyngsat.com/radiochannels/zm/Q-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,zm
+978.0,Radio Waumini,,,11881 H,tp 949,0.0,,,Radio Waumini,https://www.lyngsat.com/radiochannels/ke/Radio-Waumini.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,ke
+979.0,Radio Maisha,,,11881 H,tp 949,0.0,,,Radio Maisha,https://www.lyngsat.com/radiochannels/ke/Radio-Maisha.html,False,Voice of America,3/4,27500.0,DVB-S2,,ke
+979.0,Radio Maisha,,,11881 H,tp 949,0.0,,,Radio Maisha,https://www.lyngsat.com/radiochannels/ke/Radio-Maisha.html,False,Voice of America,3/4,27500.0,DVB-S2,,ke
+980.0,MBC Radio 1,,,11881 H,tp 949,0.0,,,MBC Radio 1,https://www.lyngsat.com/radiochannels/mw/MBC-Radio-1.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+980.0,MBC Radio 1,,,11881 H,tp 949,0.0,,,MBC Radio 1,https://www.lyngsat.com/radiochannels/mw/MBC-Radio-1.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+981.0,MBC Radio 2,,,11881 H,tp 949,0.0,,,MBC Radio 2,https://www.lyngsat.com/radiochannels/mw/MBC-Radio-2.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+981.0,MBC Radio 2,,,11881 H,tp 949,0.0,,,MBC Radio 2,https://www.lyngsat.com/radiochannels/mw/MBC-Radio-2.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,mw
+985.0,Uvinza FM,,,11881 H,tp 949,0.0,,,Uvinza FM,https://www.lyngsat.com/radiochannels/tz/Uvinza-FM.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+987.0,Radio One (Tanzania),,,11881 H,tp 949,0.0,,,Radio One (Tanzania),https://www.lyngsat.com/radiochannels/tz/Radio-One.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+987.0,Radio One (Tanzania),,,11881 H,tp 949,0.0,,,Radio One (Tanzania),https://www.lyngsat.com/radiochannels/tz/Radio-One.html,False,Voice of America,3/4,27500.0,DVB-S2,Eng,tz
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,30000.0,DVB-S2,,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,30000.0,DVB-S2,,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,30000.0,DVB-S2,,
+4.0,Hope Channel Africa,MPEG-4/SD,2004.0,11919 H,tp 951,0.0,,,Hope Channel Africa,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Africa.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+4.0,Hope Channel Africa,MPEG-4/SD,2004.0,11919 H,tp 951,0.0,,,Hope Channel Africa,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Africa.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+5.0,Bet 9JA Virtual Game 2,MPEG-4/SD,2005.0,11919 H,tp 951,0.0,,,Bet 9JA Virtual Game 2,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Virtual-Game-2.html,False,SES,3/4,27500.0,DVB-S2,Eng,ng
+11.0,Bet 9JA Virtual Game,MPEG-4/SD,2011.0,11919 H,tp 951,0.0,,,Bet 9JA Virtual Game,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Virtual-Game.html,False,SES,3/4,27500.0,DVB-S2,Eng,ng
+61.0,VoA TV Africa,MPEG-4/HD,2061.0,11919 H,tp 951,0.0,,,VoA TV Africa,https://www.lyngsat.com/tvchannels/us/VoA-TV-Africa.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+69.0,VoA TV Global,MPEG-4/HD,2069.0,11919 H,tp 951,0.0,,,VoA TV Global,https://www.lyngsat.com/tvchannels/us/VoA-TV-Global.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+2003.0,Kiron UK Numbers,MPEG-4/HD,481.0,11919 H,tp 951,0.0,,,Kiron UK Numbers,https://www.lyngsat.com/tvchannels/za/Kiron-UK-Numbers.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2013.0,SBN International,MPEG-2/SD,2003.0,11919 H,tp 951,0.0,,,SBN International,https://www.lyngsat.com/tvchannels/us/SBN-International.html,False,SES,3/4,27500.0,DVB-S2,Eng Som,us
+2021.0,Kiron Fast League,MPEG-4/HD,49.0,11919 H,tp 951,0.0,,,Kiron Fast League,https://www.lyngsat.com/tvchannels/za/Kiron-Fast-League.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2022.0,Kiron SoccerBet,MPEG-4/HD,64.0,11919 H,tp 951,0.0,,,Kiron SoccerBet,https://www.lyngsat.com/tvchannels/za/Kiron-SoccerBet.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2023.0,Kiron Champions,MPEG-4/HD,52.0,11919 H,tp 951,0.0,,,Kiron Champions,https://www.lyngsat.com/tvchannels/za/Kiron-Champions.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2027.0,Kiron Spin & Win,MPEG-4/HD,51.0,11919 H,tp 951,0.0,,,Kiron Spin & Win,https://www.lyngsat.com/tvchannels/za/Kiron-Spin-and-Win.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2028.0,Kiron Tournament,MPEG-4/HD,33.0,11919 H,tp 951,0.0,,,Kiron Tournament,https://www.lyngsat.com/tvchannels/za/Kiron-Tournament.html,False,SES,3/4,27500.0,DVB-S2,Eng,za
+2029.0,Highlight Games Soccerbet,MPEG-4/HD,67.0,11919 H,tp 951,0.0,,,Highlight Games Soccerbet,https://www.lyngsat.com/tvchannels/uk/Highlight-Games-Soccerbet.html,False,SES,3/4,27500.0,DVB-S2,Eng,uk
+2101.0,The Word Network,MPEG-4/HD,61.0,11919 H,tp 951,0.0,,,The Word Network,https://www.lyngsat.com/tvchannels/us/The-Word-Network.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+51.0,The Liberty Radio Network,,,11919 H,tp 951,0.0,,,The Liberty Radio Network,https://www.lyngsat.com/radiochannels/us/The-Liberty-Radio-Network.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+51.0,The Liberty Radio Network,,,11919 H,tp 951,0.0,,,The Liberty Radio Network,https://www.lyngsat.com/radiochannels/us/The-Liberty-Radio-Network.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+57.0,TWR Africa 2,,,11919 H,tp 951,0.0,,,TWR Africa 2,https://www.lyngsat.com/radiochannels/us/TWR-Africa-2.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+8100.0,StarTimes TV Guide promo,MPEG-4/SD,1110.0,11996 H,tp 255,0.0,,,,,False,SES,3/4,27500.0,DVB-S2,Eng,
+,Globecast,4-4956,,12015 V,tp 956,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,,,True,Globecast,3/4,29950.0,DVB-S2,,
+1201.0,BYU TV Global,MPEG-4/SD,4608.0,12015 V,tp 956,0.0,,,BYU TV Global,https://www.lyngsat.com/tvchannels/us/BYU-TV-Global.html,False,Globecast,3/4,29950.0,DVB-S2,Spa Por Ibo Swa Ara Yor Eng Fre,us
+5808.0,France 24 Français,MPEG-2/SD,1208.0,12015 V,tp 956,0.0,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,False,Globecast,3/4,29950.0,DVB-S2,Fre,fr
+5808.0,France 24 Français,MPEG-2/SD,1208.0,12015 V,tp 956,0.0,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,False,Globecast,3/4,29950.0,DVB-S2,Fre,fr
+5811.0,Tele Congo,MPEG-2/SD,1211.0,12015 V,tp 956,0.0,,,Tele Congo,https://www.lyngsat.com/tvchannels/cg/Tele-Congo.html,False,Globecast,3/4,29950.0,DVB-S2,Fre,cg
+5816.0,Vatican Media,MPEG-2/SD,1216.0,12015 V,tp 956,0.0,,,Vatican Media,https://www.lyngsat.com/tvchannels/va/Vatican-Media.html,False,Globecast,3/4,29950.0,DVB-S2,Ita,va
+5816.0,Vatican Media,MPEG-2/SD,1216.0,12015 V,tp 956,0.0,,,Vatican Media,https://www.lyngsat.com/tvchannels/va/Vatican-Media.html,False,Globecast,3/4,29950.0,DVB-S2,Ita,va
+5818.0,France 24 English,MPEG-2/SD,1218.0,12015 V,tp 956,0.0,,,France 24 English,https://www.lyngsat.com/tvchannels/fr/France-24-English.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,fr
+5818.0,France 24 English,MPEG-2/SD,1218.0,12015 V,tp 956,0.0,,,France 24 English,https://www.lyngsat.com/tvchannels/fr/France-24-English.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,fr
+5822.0,TRT World,MPEG-4/HD,1222.0,12015 V,tp 956,0.0,,,TRT World,https://www.lyngsat.com/tvchannels/tr/TRT-World.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,tr
+5822.0,TRT World,MPEG-4/HD,1222.0,12015 V,tp 956,0.0,,,TRT World,https://www.lyngsat.com/tvchannels/tr/TRT-World.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,tr
+5841.0,Africanews,MPEG-2/SD,1241.0,12015 V,tp 956,0.0,,,Africanews,https://www.lyngsat.com/tvchannels/cg/Africanews.html,False,Globecast,3/4,29950.0,DVB-S2,Eng Fre,cg
+5841.0,Africanews,MPEG-2/SD,1241.0,12015 V,tp 956,0.0,,,Africanews,https://www.lyngsat.com/tvchannels/cg/Africanews.html,False,Globecast,3/4,29950.0,DVB-S2,Eng Fre,cg
+834.0,RFI Langues 2,,,12015 V,tp 956,0.0,,,RFI Langues 2,https://www.lyngsat.com/radiochannels/fr/RFI-Langues-2.html,False,Globecast,3/4,29950.0,DVB-S2,,fr
+856.0,RFI Français,,,12015 V,tp 956,0.0,,,RFI Français,https://www.lyngsat.com/radiochannels/fr/RFI-Francais.html,False,Globecast,3/4,29950.0,DVB-S2,Fre,fr
+857.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+857.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+857.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+857.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+861.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+861.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+861.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+861.0,RFI Português,,,12015 V,tp 956,0.0,,,RFI Português,https://www.lyngsat.com/radiochannels/fr/RFI-Portugues.html,False,Globecast,3/4,29950.0,DVB-S2,Por,fr
+858.0,RFI Kiswahili,,,12015 V,tp 956,0.0,,,RFI Kiswahili,https://www.lyngsat.com/radiochannels/fr/RFI-Kiswahili.html,False,Globecast,3/4,29950.0,DVB-S2,Swa,fr
+858.0,RFI Kiswahili,,,12015 V,tp 956,0.0,,,RFI Kiswahili,https://www.lyngsat.com/radiochannels/fr/RFI-Kiswahili.html,False,Globecast,3/4,29950.0,DVB-S2,Swa,fr
+860.0,RFI Hausa,,,12015 V,tp 956,0.0,,,RFI Hausa,https://www.lyngsat.com/radiochannels/fr/RFI-Hausa.html,False,Globecast,3/4,29950.0,DVB-S2,Hau,fr
+860.0,RFI Hausa,,,12015 V,tp 956,0.0,,,RFI Hausa,https://www.lyngsat.com/radiochannels/fr/RFI-Hausa.html,False,Globecast,3/4,29950.0,DVB-S2,Hau,fr
+862.0,RFI Mandenkan,,,12015 V,tp 956,0.0,,,RFI Mandenkan,https://www.lyngsat.com/radiochannels/fr/RFI-Mandenkan.html,False,Globecast,3/4,29950.0,DVB-S2,Man,fr
+862.0,RFI Mandenkan,,,12015 V,tp 956,0.0,,,RFI Mandenkan,https://www.lyngsat.com/radiochannels/fr/RFI-Mandenkan.html,False,Globecast,3/4,29950.0,DVB-S2,Man,fr
+868.0,RFI Fulfulde,,,12015 V,tp 956,0.0,,,RFI Fulfulde,https://www.lyngsat.com/radiochannels/fr/RFI-Fulfulde.html,False,Globecast,3/4,29950.0,DVB-S2,Ful,fr
+868.0,RFI Fulfulde,,,12015 V,tp 956,0.0,,,RFI Fulfulde,https://www.lyngsat.com/radiochannels/fr/RFI-Fulfulde.html,False,Globecast,3/4,29950.0,DVB-S2,Ful,fr
+5844.0,West Africa Democracy Radio,,,12015 V,tp 956,0.0,,,West Africa Democracy Radio,https://www.lyngsat.com/radiochannels/sn/West-Africa-Democracy-Radio.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,sn
+5844.0,West Africa Democracy Radio,,,12015 V,tp 956,0.0,,,West Africa Democracy Radio,https://www.lyngsat.com/radiochannels/sn/West-Africa-Democracy-Radio.html,False,Globecast,3/4,29950.0,DVB-S2,Eng,sn
+5891.0,Radio Congo,,,12015 V,tp 956,0.0,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html,False,Globecast,3/4,29950.0,DVB-S2,Fre,cg
+5892.0,Radio Vaticana Europa,,,12015 V,tp 956,0.0,,,Radio Vaticana Europa,https://www.lyngsat.com/radiochannels/va/Radio-Vaticana-Europa.html,False,Globecast,3/4,29950.0,DVB-S2,,va
+8005.0,Gabriele TV Africa,MPEG-2/SD,611.0,12034 H,tp 957,0.0,,,Gabriele TV Africa,https://www.lyngsat.com/tvchannels/de/Gabriele-TV-Africa.html,False,Globecast,3/4,27500.0,DVB-S2,,de
+8020.0,DW English,MPEG-4/SD,811.0,12034 H,tp 957,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,de
+8020.0,DW English,MPEG-4/SD,811.0,12034 H,tp 957,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,de
+8020.0,DW English,MPEG-4/SD,811.0,12034 H,tp 957,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,de
+8020.0,DW English,MPEG-4/SD,811.0,12034 H,tp 957,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,de
+5906.0,DW English,MPEG-4/HD,1110.0,12054 V,tp 958,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,de
+5906.0,DW English,MPEG-4/HD,1110.0,12054 V,tp 958,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,de
+5906.0,DW English,MPEG-4/HD,1110.0,12054 V,tp 958,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,de
+5906.0,DW English,MPEG-4/HD,1110.0,12054 V,tp 958,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,de
+8031.0,CCTV 4 Europe,MPEG-2/SD,105.0,12034 H,tp 957,0.0,,,CCTV 4 Europe,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Europe.html,False,Globecast,3/4,27500.0,DVB-S2,Chi,cn
+8031.0,CCTV 4 Europe,MPEG-2/SD,105.0,12034 H,tp 957,0.0,,,CCTV 4 Europe,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Europe.html,False,Globecast,3/4,27500.0,DVB-S2,Chi,cn
+8032.0,CGTN Documentary,MPEG-2/SD,107.0,12034 H,tp 957,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,cn
+8032.0,CGTN Documentary,MPEG-2/SD,107.0,12034 H,tp 957,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,cn
+8033.0,CGTN Français,MPEG-2/SD,110.0,12034 H,tp 957,0.0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html,False,Globecast,3/4,27500.0,DVB-S2,Fre,cn
+8033.0,CGTN Français,MPEG-2/SD,110.0,12034 H,tp 957,0.0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html,False,Globecast,3/4,27500.0,DVB-S2,Fre,cn
+8034.0,CGTN,MPEG-2/SD,111.0,12034 H,tp 957,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,cn
+8034.0,CGTN,MPEG-2/SD,111.0,12034 H,tp 957,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,cn
+8036.0,MTA 4 Africa,MPEG-2/SD,1219.0,12034 H,tp 957,0.0,,,MTA 4 Africa,https://www.lyngsat.com/tvchannels/uk/MTA-4-Africa.html,False,Globecast,3/4,27500.0,DVB-S2,Eng Fre Urd Swa,uk
+8036.0,MTA 4 Africa,MPEG-2/SD,1219.0,12034 H,tp 957,0.0,,,MTA 4 Africa,https://www.lyngsat.com/tvchannels/uk/MTA-4-Africa.html,False,Globecast,3/4,27500.0,DVB-S2,Eng Fre Urd Swa,uk
+8064.0,Bet 9JA Stadium LaLiga,MPEG-4/SD,2001.0,12034 H,tp 957,0.0,,,Bet 9JA Stadium LaLiga,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Stadium-LaLiga.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,ng
+8065.0,Bet 9JA Stadium Serie A,MPEG-4/SD,2002.0,12034 H,tp 957,0.0,,,Bet 9JA Stadium Serie A,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Stadium-Serie-A.html,False,Globecast,3/4,27500.0,DVB-S2,Eng,ng
+8021.0,DW-Radio FM 2,,,12034 H,tp 957,0.0,,,DW-Radio FM 2,https://www.lyngsat.com/radiochannels/de/DW-Radio-FM-2.html,False,Globecast,3/4,27500.0,DVB-S2,Hau,de
+8022.0,DW-Radio FM 3,,,12034 H,tp 957,0.0,,,DW-Radio FM 3,https://www.lyngsat.com/radiochannels/de/DW-Radio-FM-3.html,False,Globecast,3/4,27500.0,DVB-S2,Swa,de
+8023.0,DW-Radio FM 4,,,12034 H,tp 957,0.0,,,DW-Radio FM 4,https://www.lyngsat.com/radiochannels/de/DW-Radio-FM-4.html,False,Globecast,3/4,27500.0,DVB-S2,Fre,de
+8024.0,DW-Radio FM 5,,,12034 H,tp 957,0.0,,,DW-Radio FM 5,https://www.lyngsat.com/radiochannels/de/DW-Radio-FM-5.html,False,Globecast,3/4,27500.0,DVB-S2,Por,de
+8025.0,DW-Radio 8,,,12034 H,tp 957,0.0,,,DW-Radio 8,https://www.lyngsat.com/radiochannels/de/DW-Radio-8.html,False,Globecast,3/4,27500.0,DVB-S2,,de
+8026.0,DW-Radio 9,,,12034 H,tp 957,0.0,,,DW-Radio 9,https://www.lyngsat.com/radiochannels/de/DW-Radio-9.html,False,Globecast,3/4,27500.0,DVB-S2,,de
+5908.0,Bet 9JA League 2,MPEG-4/SD,57.0,12054 V,tp 958,0.0,,,Bet 9JA League 2,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-League-2.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5915.0,Bet 9JA Football,MPEG-4/SD,2004.0,12054 V,tp 958,0.0,,,Bet 9JA Football,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Football.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5916.0,Bet 9JA Dog Racing,MPEG-4/SD,55.0,12054 V,tp 958,0.0,,,Bet 9JA Dog Racing,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Dog-Racing.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5917.0,Bet 9JA Gold,MPEG-4/SD,53.0,12054 V,tp 958,0.0,,,Bet 9JA Gold,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Gold.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5920.0,Tivi5Monde,MPEG-2/SD,304.0,12054 V,tp 958,0.0,,,Tivi5Monde,https://www.lyngsat.com/tvchannels/fr/Tivi5Monde.html,False,Globecast,3/4,30000.0,DVB-S2,Fre,fr
+5921.0,TV5Monde Style,MPEG-4/HD,1225.0,12054 V,tp 958,0.0,,,TV5Monde Style,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Style.html,False,Globecast,3/4,30000.0,DVB-S2,Fre,fr
+5922.0,TV5Monde Afrique,MPEG-2/SD,1226.0,12054 V,tp 958,0.0,,,TV5Monde Afrique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Afrique.html,False,Globecast,3/4,30000.0,DVB-S2,Fre,fr
+5929.0,Bet 9JA Serie A,MPEG-4/SD,65.0,12054 V,tp 958,0.0,,,Bet 9JA Serie A,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Serie-A.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5937.0,Bet 9JA Spin and Win,MPEG-4/SD,2007.0,12054 V,tp 958,0.0,,,Bet 9JA Spin and Win,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Spin-and-Win.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5938.0,Bet 9JA Stadium Premier,MPEG-4/SD,2006.0,12054 V,tp 958,0.0,,,Bet 9JA Stadium Premier,https://www.lyngsat.com/tvchannels/ng/Bet-9JA-Stadium-Premier.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,ng
+5980.0,Reuters Live,MPEG-4/HD,3551.0,12054 V,tp 958,0.0,,,Reuters Live,https://www.lyngsat.com/tvchannels/uk/Reuters-Live.html,False,Globecast,3/4,30000.0,DVB-S2,Eng,uk
+7715.0,TBC FM,,,12265 H,tp 269,0.0,,,TBC FM,https://www.lyngsat.com/radiochannels/tz/TBC-FM.html,False,Globecast,3/4,27500.0,DVB-S2,Swa,tz
+7721.0,TBC Taifa,,,12265 H,tp 269,0.0,,,TBC Taifa,https://www.lyngsat.com/radiochannels/tz/TBC-Taifa.html,False,Globecast,3/4,27500.0,DVB-S2,Swa,tz
+7605.0,StarTimes TV Guide Français,MPEG-4/SD,367.0,12303 H,tp 271,0.0,,,StarTimes TV Guide Français,https://www.lyngsat.com/tvchannels/cn/StarTimes-TV-Guide-Francais.html,False,Globecast,3/4,27500.0,DVB-S2,Fre,cn
+,,,,,,,,,DVB-S2QPSK19452/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK22702/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK22702/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK67323/5,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK67323/5,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK14152/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK12003/4,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK12103/4,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK20602/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S28PSK25002/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S28PSK25002/3,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK15513/5,,False,Globecast,,,,,
+,,,,,,,,,DVB-S2QPSK33653/5,,False,Globecast,,,,,

@@ -1,0 +1,192 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+481.0,Loveworld XP,2710-257MPEG-4/HD,481.0,3836 R,,42-43,,,False,,5/6,1650,DVB-S2,Eng
+,Ugandan mux,,,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,
+350.0,UBC TV,MPEG-4/SD,3502.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,
+351.0,NTV Uganda,MPEG-4/SD,3512.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+352.0,NBS TV,MPEG-4/SD,3522.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Swa
+353.0,Bukedde 1,MPEG-4/SD,3532.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,
+355.0,BBS TV,MPEG-4/SD,3552.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Swa
+358.0,Spark TV,MPEG-4/SD,3582.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+359.0,Salt TV,MPEG-4/SD,3592.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+360.0,Channel 44,MPEG-4/SD,3602.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+361.0,Top TV (Uganda),MPEG-4/SD,3612.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+362.0,Chamuka TV,MPEG-4/SD,3622.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+363.0,Kingdom TV (Uganda),MPEG-4/SD,3632.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+364.0,King Solomon TV,MPEG-4/SD,3642.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+365.0,Baba TV,MPEG-4/SD,3652.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+366.0,KBS TV,MPEG-4/SD,3662.0,3850 L,,42-43,,,False,,3/4,9170,DVB-S2,Eng
+,Burundi mux,136-3,,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,
+1.0,RTNB TV,MPEG-4/SD,102.0,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,Fre
+2.0,BETV,MPEG-4/SD,256.0,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,Fre
+4.0,Buntu TV,MPEG-4/SD,100.0,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,Fre
+5.0,RTI,MPEG-4/SD,29.0,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,Run
+6.0,Mashariki TV,MPEG-4/SD,32.0,3852 R,,42-43,,,False,,3/4,4680,DVB-S2,Run
+1.0,Télé Tchad,0-0MPEG-4/HD,4212.0,3861 R,,42-43,,,False,,2/3,4042,DVB-S2,Fre
+1.0,Radio Tchad,,,3861 R,,42-43,,,False,,2/3,4042,DVB-S2,Fre
+,Rwanda TV,1000-1,,3869 R,,42-43,,https://www.lyngsat.com/providers/rw/Rwanda-TV.html,True,Rwanda TV,2/3,3333,DVB-S2,
+1.0,Rwanda TV,MPEG-2/SD,101.0,3869 R,,42-43,,https://www.lyngsat.com/providers/rw/Rwanda-TV.html,True,Rwanda TV,2/3,3333,DVB-S2,Eng
+2.0,KC2,MPEG-2/SD,102.0,3869 R,,42-43,,,False,Rwanda TV,2/3,3333,DVB-S2,Eng
+1.0,Radio Rwanda,,,3869 R,,42-43,,,False,Rwanda TV,2/3,3333,DVB-S2,Eng
+,(Deeper Christian Life Ministry feeds),,,3874 R,,,,,False,Rwanda TV,3/4,2080,DVB-S2,
+,(Deeper Christian Life Ministry feeds),,,4033 R,,,,,False,Rwanda TV,3/4,5415,DVB-S2,
+,(feeds),,,3887 L,,,,,False,Rwanda TV,3/4,3750,DVB-S2,
+,(feeds),,,3896 L,,,,,False,Rwanda TV,3/4,3750,DVB-S2,
+,(feeds),,,3900 L,,,,,False,Rwanda TV,5/6,3750,DVB-S2,
+,(feeds),,,3905 L,,,,,False,Rwanda TV,5/6,3750,DVB-S2,
+,(feeds),,,3925 L,,,,,False,Rwanda TV,2/3,4040,DVB-S2,
+,(feeds),,,3925 R,,,,,False,Rwanda TV,2/3,4040,DVB-S2,
+,(feeds),,,4000 L,,,,,False,Rwanda TV,5/6,3750,DVB-S2,
+,(feeds),,,10719 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10728 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10737 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10744 V,,,,,False,Rwanda TV,3/4,9600,DVB-S2,
+,(feeds),,,10756 V,,,,,False,Rwanda TV,3/4,9600,DVB-S2,
+,(feeds),,,10768 V,,,,,False,Rwanda TV,3/4,9600,DVB-S2,
+,(feeds),,,10779 V,,,,,False,Rwanda TV,3/4,29600,DVB-S2,
+,(feeds),,,10865 H,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10965 H,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10974 H,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10988 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,10997 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,11178 V,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,11191 V,,,,,False,Rwanda TV,3/4,7500,DVB-S2,
+,(feeds),,,11290 V,,,,,False,Rwanda TV,3/4,4822,DVB-S2,
+,(feeds),,,11292 H,,,,,False,Rwanda TV,3/4,4800,DVB-S2,
+,(feeds),,,11296 V,,,,,False,Rwanda TV,3/4,4822,DVB-S2,
+,(feeds),,,11299 H,,,,,False,Rwanda TV,3/4,7500,DVB-S2,
+,(feeds),,,11303 V,,,,,False,Rwanda TV,5/6,2400,DVB-S2,
+,(feeds),,,11307 H,,,,,False,Rwanda TV,3/4,4800,DVB-S2,
+,(feeds),,,11314 V,,,,,False,Rwanda TV,3/4,4800,DVB-S2,
+,(feeds),,,11317 H,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,11328 V,,,,,False,Rwanda TV,3/4,9600,DVB-S2,
+,(feeds),,,11334 H,,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,11348 H,tp C8,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,(feeds),,,12633 V,tp F4,,,,False,Rwanda TV,3/4,7200,DVB-S2,
+,StarTimes TV Kenya,1-4,,3898 R,,42-43,,https://www.lyngsat.com/providers/ke/StarTimes-TV-Kenya.html,True,StarTimes TV Kenya,5/6,20150,DVB-S2,
+10.0,Capuchin TV,MPEG-4/SD,1251.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+24.0,Family TV (Kenya),MPEG-4/SD,41.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+102.0,NTV (Kenya),MPEG-4/SD,1021.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+103.0,KTN Home,MPEG-4/SD,1031.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+104.0,K24,MPEG-4/SD,1041.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+105.0,Shifu TV,MPEG-4/SD,1105.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+106.0,KBC Channel 1,MPEG-4/SD,1061.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+107.0,God TV Africa,MPEG-4/SD,1071.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+108.0,Bliss TV (Kenya),MPEG-4/SD,2098.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+110.0,Aviation TV,MPEG-4/SD,1101.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+112.0,Al Huda TV,MPEG-4/SD,1121.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Ara
+113.0,Faith TV,MPEG-4/SD,1131.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+116.0,KTN Farmers TV,MPEG-4/SD,1161.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+117.0,Citizen TV,MPEG-4/SD,1171.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+119.0,ST Rembo TV,MPEG-4/SD,1191.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+120.0,PPP TV,MPEG-4/SD,1201.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+121.0,Heavens TV (Kenya),MPEG-4/SD,6118.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+122.0,Horizon TV,MPEG-4/SD,1220.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+123.0,Akili Kids!,MPEG-4/SD,1181.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+132.0,Kameme TV,MPEG-4/SD,601.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+133.0,PPP+ TV,MPEG-4/SD,1501.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+135.0,Nb TV,MPEG-4/SD,1108.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+136.0,Prophetic TV (Kenya),MPEG-4/SD,1152.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+139.0,World Evangelism TV,MPEG-4/SD,1139.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+141.0,Mzalendo TV,MPEG-4/SD,1144.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+143.0,StarTimes TV Guide Kenya,MPEG-4/SD,1143.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+144.0,Urejesho TV,MPEG-4/SD,2144.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Swa
+145.0,Tinker TV,MPEG-4/SD,1145.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+195.0,Morning Cloud TV,MPEG-4/SD,1115.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+1.0,Morning Cloud TV,0-0MPEG-4/HD,2101.0,4028 R,,42-43,,,False,StarTimes TV Kenya,1/2,4142,DVB-S2,Eng
+196.0,Voice of Victory TV,MPEG-4/SD,2498.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+580.0,KTN News (Kenya),MPEG-4/SD,1423.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+630.0,Dunny TV,MPEG-4/SD,1630.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+632.0,Empire TV promo,MPEG-4/SD,1632.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+633.0,GN TV promo,MPEG-4/SD,1633.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+634.0,Gichichio TV,MPEG-4/SD,1634.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+637.0,Alive TV promo,MPEG-4/SD,1637.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+999.0,Kass TV,MPEG-4/SD,1302.0,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,Eng
+125.0,Kameme FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+126.0,Milele FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+127.0,Emoo FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+128.0,Mayian FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+129.0,Meru FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+130.0,Osiepe FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+131.0,Msenangu FM,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+581.0,Radio Maisha,,,3898 R,,42-43,,,False,StarTimes TV Kenya,5/6,20150,DVB-S2,
+,Congo-Kinshasa mux,,,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,
+1.0,Antenne A TV,MPEG-4/SD,36.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+2.0,Cinarc TV,MPEG-4/SD,5442.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+3.0,RTNC,MPEG-4/SD,40.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+4.0,B-One TV,MPEG-4/SD,34.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+6.0,Télé 7,MPEG-4/SD,42.0,3912 R,,42-43,,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+7.0,Moliere TV,MPEG-4/SD,44.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+8.0,Télé 50,MPEG-4/SD,290.0,3912 R,,42-43,BISS 1,,False,StarTimes TV Kenya,3/4,3600,DVB-S2,Fre
+,New World TV,1-1,,3918 R,,42-43,,https://www.lyngsat.com/providers/tg/New-World-TV.html,True,New World TV,3/4,6480,DVB-S2,
+1.0,[test card],MPEG-4/SD,544.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,
+2.0,[test card],MPEG-4/SD,511.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,
+9.0,[test card],MPEG-4/SD,531.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,
+3.0,NW Magazine,MPEG-4/SD,546.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,Fre
+4.0,NW Info Français,MPEG-4/SD,547.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,Fre
+5.0,NW Cinema,MPEG-4/SD,548.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,Fre
+7.0,NW Transnat,MPEG-4/SD,513.0,3918 R,,42-43,,,False,New World TV,3/4,6480,DVB-S2,Fre
+1.0,AIT Partners,8192-4096MPEG-4/SD,512.0,3943 R,,42-43,,,False,New World TV,3/5,2080,DVB-S2,Eng
+2.0,Ray Power FM,,,3943 R,,42-43,,,False,New World TV,3/5,2080,DVB-S2,Eng
+3.0,Ray Power FM Abuja,,,3943 R,,42-43,,,False,New World TV,3/5,2080,DVB-S2,Eng
+2.0,Ray Power FM Abuja,,,3945 R,,42-43,,,False,New World TV,3/5,2080,DVB-S2,Eng
+1.0,AIT News,65535-1MPEG-4/HD,101.0,3945 R,,42-43,,,False,New World TV,3/5,2080,DVB-S2,Eng
+,,,,3954 R,,42-43,,,False,New World TV,,,,
+,TVT,1-1,,4039 R,,42-43,,https://www.lyngsat.com/providers/tg/TVT.html,True,TVT,3/4,3333,DVB-S2,
+1.0,TVT,MPEG-4/HD,49.0,4039 R,,42-43,,https://www.lyngsat.com/providers/tg/TVT.html,True,TVT,3/4,3333,DVB-S2,Fre
+2.0,TVT,MPEG-4/HD,65.0,4039 R,,42-43,,https://www.lyngsat.com/providers/tg/TVT.html,True,TVT,3/4,3333,DVB-S2,Fre
+3.0,Radio Lomé,,,4039 R,,42-43,,,False,TVT,3/4,3333,DVB-S2,Fre
+4.0,Radio Kara,,,4039 R,,42-43,,,False,TVT,3/4,3333,DVB-S2,Fre
+40004.0,AFP TV,270-30800MPEG-4/HD,514.0,10771 H,,,BISS 1,,False,TVT,3/4,22960,DVB-S2,Eng
+,BFBS,16-1,,11221 V,tp C1,,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,5/6,30000,DVB-S2,
+8001.0,BBC One,MPEG-4/SD,101.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8002.0,CBBC (07-18),MPEG-4/SD,102.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8002.0,BBC Two (18-07),MPEG-4/SD,102.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8003.0,ITV 1 London,MPEG-4/SD,103.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8004.0,BFBS Extra,MPEG-4/SD,104.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8005.0,Sky Sports Main Event UK,MPEG-4/SD,105.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8006.0,TNT Sports 1,MPEG-4/SD,106.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8007.0,BFBS Sport,MPEG-4/SD,107.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8008.0,Sky News UK,MPEG-4/SD,108.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8009.0,Channel 4 London,MPEG-4/SD,109.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8010.0,Channel 5 (UK),MPEG-4/SD,110.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8011.0,BBC One Delay,MPEG-4/SD,111.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8012.0,BBC Two Delay,MPEG-4/SD,112.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8013.0,ITV 1 Delay,MPEG-4/SD,113.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8014.0,BFBS Extra Delay,MPEG-4/SD,114.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8017.0,Sky Cinema Delay,MPEG-4/SD,117.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8018.0,NTV National,MPEG-4/SD,118.0,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Nep
+8021.0,BFBS Afghanistan,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8022.0,BFBS Cyprus,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8023.0,BFBS UK Bases,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8024.0,BFBS Radio 2,,,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8025.0,BFBS Germany,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8026.0,BFBS Best of British,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8027.0,BFBS UK National,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8508.0,BFBS UK National,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8029.0,BFBS Brunei,,,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,
+8030.0,BFBS Northern Ireland,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8507.0,BFBS Northern Ireland,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8031.0,BFBS Ops,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8032.0,BFBS Beats,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8033.0,BFBS Gurkha Network,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,
+8048.0,BFBS Gurkha Network,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,
+8034.0,BFBS Edge,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8035.0,BFBS Rewind,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8037.0,BFBS Shamishran,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,
+8040.0,BBC World Service English,,,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8041.0,Fun Kids,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8042.0,TalkSport,,,11221 V,tp C1,,Irdeto,,False,BFBS,5/6,30000,DVB-S2,Eng
+8043.0,BFBS Blandford,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8044.0,BFBS Scotland,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8506.0,BFBS Scotland,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8045.0,BFBS Brize Norton,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8502.0,BFBS Brize Norton,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8047.0,BFBS Gibraltar,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8501.0,BFBS Aldershot,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8503.0,BFBS Salisbury Plain,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8504.0,BFBS Catterick,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+8505.0,BFBS Colchester,,,11221 V,tp C1,,,,False,BFBS,5/6,30000,DVB-S2,Eng
+1.0,Radio Maria Italia,?-?,,12507 H,,,,,False,BFBS,1/2,255,DVB-S2,Ita
+1.0,ORTC TV,8192-4096MPEG-4/SD,4194.0,12643 V,,,,,False,BFBS,3/4,2061,DVB-S2,Fre
+1.0,ORTC Radio,,,12643 V,,,,,False,BFBS,3/4,2061,DVB-S2,Fre
+1120.0,Zap Viva Internacional,2-1MPEG-4/HD,,12736 V,,,,,False,BFBS,171,,DVB-S2,Por

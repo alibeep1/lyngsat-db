@@ -1,0 +1,65 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,CTV,,,4030 V,tp 8B,0.0,,https://www.lyngsat.com/providers/ca/CTV.html,,,True,CTV,3/4,15000.0,DVB-S2,,
+1.0,CTV British Columbia,MPEG-4/HD,4097.0,4030 V,tp 8B,0.0,,,CTV British Columbia,https://www.lyngsat.com/tvchannels/ca/CTV-British-Columbia.html,False,CTV,3/4,15000.0,DVB-S2,Eng,ca
+2.0,CTV 2 Vancouver Island,MPEG-4/HD,1793.0,4030 V,tp 8B,0.0,,,CTV 2 Vancouver Island,https://www.lyngsat.com/tvchannels/ca/CTV-2-Vancouver-Island.html,False,CTV,3/4,15000.0,DVB-S2,Eng,ca
+3.0,(CTV feeds),,2049.0,4030 V,tp 8B,0.0,,,,,False,CTV,3/4,15000.0,DVB-S2,,
+,,3-301,,4096 V,tp 10B,0.0,,,,,False,CTV,3/4,23800.0,DVB-S2,,
+,,0-1148,,4144 V,tp 11B,0.0,Digicipher,,,,False,CTV,1/2,21000.0,DVB-S2,,
+2.0,[test card],MPEG-2/SD,110.0,4096 V,tp 10B,0.0,,,,,False,CTV,3/4,23800.0,DVB-S2,,
+500.0,Legislative Assembly TV Nunavut,MPEG-2/SD,200.0,4096 V,tp 10B,0.0,,,Legislative Assembly TV Nunavut,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-TV-Nunavut.html,False,CTV,3/4,23800.0,DVB-S2,Eng,ca
+500.0,Legislative Assembly TV Nunavut,MPEG-2/SD,200.0,4096 V,tp 10B,0.0,,,Legislative Assembly TV Nunavut,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-TV-Nunavut.html,False,CTV,3/4,23800.0,DVB-S2,Eng,ca
+510.0,Canal M (Canada),,,4096 V,tp 10B,0.0,,,Canal M (Canada),https://www.lyngsat.com/radiochannels/ca/Canal-M.html,False,CTV,3/4,23800.0,DVB-S2,Fre,ca
+510.0,Canal M (Canada),,,4096 V,tp 10B,0.0,,,Canal M (Canada),https://www.lyngsat.com/radiochannels/ca/Canal-M.html,False,CTV,3/4,23800.0,DVB-S2,Fre,ca
+520.0,Radio France Internationale,,,4096 V,tp 10B,0.0,,,Radio France Internationale,https://www.lyngsat.com/radiochannels/fr/Radio-France-Internationale.html,False,CTV,3/4,23800.0,DVB-S2,Fre,fr
+,Legislative Assembly of Ontario,MPEG-4/HD,95.0,4116 V,tp 10B,0.0,,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,False,CTV,4/5,3399.0,DVB-S2,Eng Fre,ca
+,Legislative Assembly of Ontario,MPEG-4/HD,95.0,4116 V,tp 10B,0.0,,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,False,CTV,4/5,3399.0,DVB-S2,Eng Fre,ca
+904.0,Legislative Assembly of Ontario,MPEG-4/SD,131.0,4144 V,tp 11B,0.0,Digicipher,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,False,CTV,1/2,21000.0,DVB-S2,Eng,ca
+904.0,Legislative Assembly of Ontario,MPEG-4/SD,131.0,4144 V,tp 11B,0.0,Digicipher,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,False,CTV,1/2,21000.0,DVB-S2,Eng,ca
+901.0,APTN E,MPEG-4/SD,101.0,4144 V,tp 11B,0.0,Digicipher,,APTN E,https://www.lyngsat.com/tvchannels/ca/APTN-E.html,False,CTV,1/2,21000.0,DVB-S2,Eng,ca
+902.0,APTN W,MPEG-4/SD,111.0,4144 V,tp 11B,0.0,Digicipher,,APTN W,https://www.lyngsat.com/tvchannels/ca/APTN-W.html,False,CTV,1/2,21000.0,DVB-S2,Eng,ca
+903.0,APTN N,MPEG-4/SD,121.0,4144 V,tp 11B,0.0,Digicipher,,APTN N,https://www.lyngsat.com/tvchannels/ca/APTN-N.html,False,CTV,1/2,21000.0,DVB-S2,Eng,ca
+,Educational Media Foundation,1-1,,4196 V,tp 12B,0.0,,https://www.lyngsat.com/providers/us/Educational-Media-Foundation.html,,,True,Educational Media Foundation,3/4,2800.0,DVB-S2,,
+1.0,Radio Nueva Vida,,,4196 V,tp 12B,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Spa,us
+1.0,Radio Nueva Vida,,,4196 V,tp 12B,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Spa,us
+2.0,K-Love,,,4196 V,tp 12B,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+2.0,K-Love,,,4196 V,tp 12B,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+3.0,Air 1 Worship Now,,,4196 V,tp 12B,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+3.0,Air 1 Worship Now,,,4196 V,tp 12B,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+13.0,K-Love 90s,,,4196 V,tp 12B,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+13.0,K-Love 90s,,,4196 V,tp 12B,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+21.0,K-Love 2000s,,,4196 V,tp 12B,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+21.0,K-Love 2000s,,,4196 V,tp 12B,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,False,Educational Media Foundation,3/4,2800.0,DVB-S2,Eng,us
+,Dish USA,4097-701,,11715 R,tp 1,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-702,,11728 L,tp 2,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-703,,11745 R,tp 3,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-704,,11758 L,tp 4,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-705,,11776 R,tp 5,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-706,,11789 L,tp 6,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-707,,11806 R,tp 7,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-708,,11819 L,tp 8,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-709,,11837 R,tp 9,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-710,,11850 L,tp 10,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-711,,11867 R,tp 11,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-712,,11880 L,tp 12,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-713,,11898 R,tp 13,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-714,,11911 L,tp 14,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-715,,11928 R,tp 15,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-716,,11941 L,tp 16,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-717,,11959 R,tp 17,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-718,,11972 L,tp 18,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-719,,11989 R,tp 19,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-720,,12002 L,tp 20,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-721,,12020 R,tp 21,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-722,,12033 L,tp 22,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-723,,12050 R,tp 23,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-724,,12063 L,tp 24,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-725,,12081 R,tp 25,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-726,,12094 L,tp 26,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-727,,12111 R,tp 27,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-728,,12124 L,tp 28,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-729,,12142 R,tp 29,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-730,,12155 L,tp 30,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-731,,12172 R,tp 31,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,Dish USA,4097-732,,12185 L,tp 32,0.0,Nagravision,,,,False,Educational Media Foundation,3/4,20000.0,DVB-S2,,
+,,,,,,,,,DVB-S2QPSK33994/5,,False,Educational Media Foundation,,,,,
+,,,,,,,,,DVB-S2QPSK33994/5,,False,Educational Media Foundation,,,,,

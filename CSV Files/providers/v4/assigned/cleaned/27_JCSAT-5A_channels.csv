@@ -1,0 +1,11 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,[PANP test card],65535-1MPEG-2/SD,308.0,3797 H,,,,,False,,3/4,1550,DVB-S1,
+1.0,Radyo Pilipinas 1,,,3797 H,,,,,False,,3/4,1550,DVB-S1,Tgl
+1.0,[JCSAT 5A test card],176-1MPEG-2/SD,48.0,12257 V,,0.0,,,False,,3/4,3096,DVB-S3,
+,(feeds),,,12288 H,,,,,False,,3/4,7241,DVB-S7,
+2700.0,NTV News 24,?-?MPEG-4/SD,2048.0,12323 V,,0.0,,,False,,3/4,13330,DVB-S2,Jpn
+,(feeds),,,12340 H,,,,,False,,3/4,7241,DVB-S7,
+,(feeds),,,12400 V,,,,,False,,2/3,6602,DVB-S2,
+,(feeds),,,12408 H,,,,,False,,3/4,7241,DVB-S7,
+,(feeds),,,12420 H,,,,,False,,3/4,7241,DVB-S7,
+1.0,[JCSAT 5A test card],176-1MPEG-2/SD,48.0,12746 H,,0.0,,,False,,3/4,3096,DVB-S3,

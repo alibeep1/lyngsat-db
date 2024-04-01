@@ -1,0 +1,326 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Sky Deutschland,1-1041,,11082 H,tp 41,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",,,,False,,3/4,22000.0,DVB-S2,,
+,Sky Deutschland,133-6,,11914 H,tp 75,0.0,Videoguard,,,,False,,/10,75009.0,DVB-S2,,
+,Sky Deutschland,133-4,,12032 H,tp 81,0.0,Videoguard,,,,False,,/10,75009.0,DVB-S2,,
+,Sky Deutschland,133-12,,12304 H,tp 95,0.0,Videoguard,,,,False,,/10,75009.0,DVB-S2,,
+,Sky Deutschland,133-11,,12382 H,tp 99,0.0,Videoguard,,,,False,,3/4,27500.0,DVB-S2,,
+,HD+,1-1017,,11464 H,tp 17,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,,,True,HD+,2/3,22000.0,DVB-S2,,
+,HD+,1-1114,,12640 V,tp 114,0.0,"Marlin,Nagravision,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,,,True,HD+,3/4,23500.0,DVB-S2,,
+,HD+,1-1116,,12670 V,tp 116,0.0,"Marlin,Nagravision,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,,,True,HD+,3/4,23500.0,DVB-S2,,
+61300,Sat. 1 Deutschland,MPEG-4/HD,255.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,Sat. 1 Deutschland,https://www.lyngsat.com/tvchannels/de/Sat-1-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+61301,ProSieben Deutschland,MPEG-4/HD,511.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,ProSieben Deutschland,https://www.lyngsat.com/tvchannels/de/ProSieben-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+61302*,Kabel Eins Deutschland,MPEG-4/HD,767.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,Kabel Eins Deutschland,https://www.lyngsat.com/tvchannels/de/Kabel-Eins-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+61303*,Sixx Deutschland,MPEG-4/HD,1023.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,Sixx Deutschland,https://www.lyngsat.com/tvchannels/de/Sixx-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+61304*,ProSieben Maxx Deutschland,MPEG-4/HD,1279.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,ProSieben Maxx Deutschland,https://www.lyngsat.com/tvchannels/de/ProSieben-Maxx-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+61305*,Kabel Eins Doku Deutschland,MPEG-4/HD,1535.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,Kabel Eins Doku Deutschland,https://www.lyngsat.com/tvchannels/de/Kabel-Eins-Doku-Deutschland.html,False,HD+,2/3,22000.0,DVB-S2,Ger,de
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,2/3,22000.0,DVB-S2,,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,3/4,27500.0,DVB-S2,,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,3/4,27500.0,DVB-S2,,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,,,True,ARD Digital,3/4,27500.0,DVB-S2,,
+10301,Das Erste,MPEG-4/HD,5101.0,11494 H,tp 19,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10301,Das Erste,MPEG-4/HD,5101.0,11494 H,tp 19,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10301,Das Erste,MPEG-4/HD,5101.0,11494 H,tp 19,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10301,Das Erste,MPEG-4/HD,5101.0,11494 H,tp 19,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+28106,Das Erste,MPEG-2/SD,101.0,11836 H,tp 71,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28106,Das Erste,MPEG-2/SD,101.0,11836 H,tp 71,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28106,Das Erste,MPEG-2/SD,101.0,11836 H,tp 71,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28106,Das Erste,MPEG-2/SD,101.0,11836 H,tp 71,0.0,,,Das Erste,https://www.lyngsat.com/tvchannels/de/Das-Erste.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+10302,ARTE Deutsch,MPEG-4/HD,5111.0,11494 H,tp 19,0.0,,,ARTE Deutsch,https://www.lyngsat.com/tvchannels/fr/ARTE-Deutsch.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Fre Qaa,fr
+10303,SWR Fernsehen Baden-Württemberg,MPEG-4/HD,5121.0,11494 H,tp 19,0.0,,,SWR Fernsehen Baden-Württemberg,https://www.lyngsat.com/tvchannels/de/SWR-Fernsehen-Baden-Wurttemberg.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10303,SWR Fernsehen Baden-Württemberg,MPEG-4/HD,5121.0,11494 H,tp 19,0.0,,,SWR Fernsehen Baden-Württemberg,https://www.lyngsat.com/tvchannels/de/SWR-Fernsehen-Baden-Wurttemberg.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+28113,SWR Fernsehen Baden-Württemberg,MPEG-2/SD,801.0,11836 H,tp 71,0.0,,,SWR Fernsehen Baden-Württemberg,https://www.lyngsat.com/tvchannels/de/SWR-Fernsehen-Baden-Wurttemberg.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28113,SWR Fernsehen Baden-Württemberg,MPEG-2/SD,801.0,11836 H,tp 71,0.0,,,SWR Fernsehen Baden-Württemberg,https://www.lyngsat.com/tvchannels/de/SWR-Fernsehen-Baden-Wurttemberg.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+10304,SWR Fernsehen Rheinland-Pfalz (Mon-Sun 18-20 & Thu 20.15-21.00 & Mon-Fri 21.45-22.00 & Sun 21.45-22.45),MPEG-4/HD,5131.0,11494 H,tp 19,0.0,,,SWR Fernsehen Rheinland-Pfalz (Mon-Sun 18-20 & Thu 20.15-21.00 & Mon-Fri 21.45-22.00 & Sun 21.45-22.45),https://www.lyngsat.com/tvchannels/de/SWR-Fernsehen-Rheinland-Pfalz.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+,(feeds),,,11568 V,tp 24,,,,,,False,ARD Digital,3/4,22000.0,DVB-S2,,
+,(feeds),,,11605 H,tp 27,,,,,,False,ARD Digital,3/4,9874.0,DVB-S2,,
+,(feeds),,,11618 H,tp 27,,,,,,False,ARD Digital,3/4,9600.0,DVB-S2,,
+,(feeds),,,11649 V,tp 30,,,,,,False,ARD Digital,3/4,7200.0,DVB-S2,,
+,(feeds),,,11662 V,tp 30,,,,,,False,ARD Digital,3/4,9874.0,DVB-S2,,
+10325,Bayerisches Fernsehen Süd,MPEG-4/HD,5201.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10325,Bayerisches Fernsehen Süd,MPEG-4/HD,5201.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10325,Bayerisches Fernsehen Süd,MPEG-4/HD,5201.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10325,Bayerisches Fernsehen Süd,MPEG-4/HD,5201.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+28107,Bayerisches Fernsehen Süd,MPEG-2/SD,201.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28107,Bayerisches Fernsehen Süd,MPEG-2/SD,201.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28107,Bayerisches Fernsehen Süd,MPEG-2/SD,201.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+28107,Bayerisches Fernsehen Süd,MPEG-2/SD,201.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Süd,https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Sud.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger Ger,de
+10326,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-4/HD,5211.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10326,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-4/HD,5211.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10326,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-4/HD,5211.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10326,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-4/HD,5211.0,11582 H,tp 25,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+28110,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-2/SD,501.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28110,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-2/SD,501.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28110,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-2/SD,501.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28110,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-2/SD,501.0,11836 H,tp 71,0.0,,,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),https://www.lyngsat.com/tvchannels/de/Bayerisches-Fernsehen-Nord.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+10327,NDR Fernsehen Niedersachsen,MPEG-4/HD,5221.0,11582 H,tp 25,0.0,,,NDR Fernsehen Niedersachsen,https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Niedersachsen.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10327,NDR Fernsehen Niedersachsen,MPEG-4/HD,5221.0,11582 H,tp 25,0.0,,,NDR Fernsehen Niedersachsen,https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Niedersachsen.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10328,NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5231.0,11582 H,tp 25,0.0,,,NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Mecklenburg-Vorpommern.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10328,NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5231.0,11582 H,tp 25,0.0,,,NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Mecklenburg-Vorpommern.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10329,NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5241.0,11582 H,tp 25,0.0,,,NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Hamburg.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10329,NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5241.0,11582 H,tp 25,0.0,,,NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Hamburg.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10330,NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5251.0,11582 H,tp 25,0.0,,,NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Schleswig-Holstein.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10330,NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5251.0,11582 H,tp 25,0.0,,,NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00),https://www.lyngsat.com/tvchannels/de/NDR-Fernsehen-Schleswig-Holstein.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa Ger,de
+10331,Phoenix,MPEG-4/HD,5261.0,11582 H,tp 25,0.0,,,Phoenix,https://www.lyngsat.com/tvchannels/de/Phoenix.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger Qaa,de
+,HD Austria,1-1031,,11671 H,tp 31,0.0,"Cryptoworks,Irdeto,Viaccess,Videoguard",,,,False,ARD Digital,2/3,22000.0,DVB-S2,,
+5305,[4Mediathek info card],MPEG-4/HD,1535.0,11671 H,tp 31,0.0,,,,,False,ARD Digital,2/3,22000.0,DVB-S2,Ger,
+13112,[4Mediathek info card],MPEG-4/SD,2120.0,12663 H,tp 115,0.0,,,,,False,ARD Digital,5/6,22000.0,DVB-S2,Ger,
+5309,Sixx Austria,MPEG-2/SD,2559.0,11671 H,tp 31,0.0,,,Sixx Austria,https://www.lyngsat.com/tvchannels/de/Sixx-Austria.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger,de
+5310,Sat. 1 Gold Österreich,MPEG-2/SD,2815.0,11671 H,tp 31,0.0,,,Sat. 1 Gold Österreich,https://www.lyngsat.com/tvchannels/de/Sat-1-Gold-Osterreich.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger,de
+5311,ProSieben Maxx Austria,MPEG-2/SD,3071.0,11671 H,tp 31,0.0,,,ProSieben Maxx Austria,https://www.lyngsat.com/tvchannels/de/ProSieben-Maxx-Austria.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger,de
+5312,Kabel Eins Doku Austria,MPEG-2/SD,3327.0,11671 H,tp 31,0.0,,,Kabel Eins Doku Austria,https://www.lyngsat.com/tvchannels/de/Kabel-Eins-Doku-Austria.html,False,ARD Digital,2/3,22000.0,DVB-S2,Ger,de
+28108,HR Fernsehen,MPEG-2/SD,301.0,11836 H,tp 71,0.0,,,HR Fernsehen,https://www.lyngsat.com/tvchannels/de/HR-Fernsehen.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28108,HR Fernsehen,MPEG-2/SD,301.0,11836 H,tp 71,0.0,,,HR Fernsehen,https://www.lyngsat.com/tvchannels/de/HR-Fernsehen.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28111,WDR Fernsehen Köln,MPEG-2/SD,601.0,11836 H,tp 71,0.0,,,WDR Fernsehen Köln,https://www.lyngsat.com/tvchannels/de/WDR-Fernsehen-Koln.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+28111,WDR Fernsehen Köln,MPEG-2/SD,601.0,11836 H,tp 71,0.0,,,WDR Fernsehen Köln,https://www.lyngsat.com/tvchannels/de/WDR-Fernsehen-Koln.html,False,ARD Digital,3/4,27500.0,DVB-S2,Ger,de
+,,,,11876 H,tp 73,0.0,,,,,False,ARD Digital,,,,,
+,ZDF Vision,1-1079,,11954 H,tp 77,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,,,True,ZDF Vision,3/4,27500.0,DVB-S2,,
+28006,ZDF,MPEG-2/SD,110.0,11954 H,tp 77,0.0,,,ZDF,https://www.lyngsat.com/tvchannels/de/ZDF.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger Ger,de
+28007,3sat,MPEG-2/SD,210.0,11954 H,tp 77,0.0,,,3sat,https://www.lyngsat.com/tvchannels/de/3sat.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger Ger,de
+28008,KIKA (06-21),MPEG-2/SD,310.0,11954 H,tp 77,0.0,,,KIKA (06-21),https://www.lyngsat.com/tvchannels/de/KIKA.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger Ger,de
+28011,ZDF Info,MPEG-2/SD,610.0,11954 H,tp 77,0.0,,,ZDF Info,https://www.lyngsat.com/tvchannels/de/ZDF-Info.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger Ger,de
+28014,ZDF Neo,MPEG-2/SD,660.0,11954 H,tp 77,0.0,,,ZDF Neo,https://www.lyngsat.com/tvchannels/de/ZDF-Neo.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28013,Deutschlandfunk,,,11954 H,tp 77,0.0,,,Deutschlandfunk,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28013,Deutschlandfunk,,,11954 H,tp 77,0.0,,,Deutschlandfunk,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28015,Dokumente und Debatten,,,11954 H,tp 77,0.0,,,Dokumente und Debatten,https://www.lyngsat.com/radiochannels/de/Dokumente-und-Debatten.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28015,Dokumente und Debatten,,,11954 H,tp 77,0.0,,,Dokumente und Debatten,https://www.lyngsat.com/radiochannels/de/Dokumente-und-Debatten.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28017,Deutschlandfunk Nova,,,11954 H,tp 77,0.0,,,Deutschlandfunk Nova,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Nova.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+28017,Deutschlandfunk Nova,,,11954 H,tp 77,0.0,,,Deutschlandfunk Nova,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Nova.html,False,ZDF Vision,3/4,27500.0,DVB-S2,Ger,de
+,ProSiebenSat. 1 Media,1-1082,,12051 V,tp 82,0.0,,https://www.lyngsat.com/providers/de/ProSiebenSat-1-Media.html,,,True,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,,
+20002,ProSieben Austria,MPEG-2/SD,161.0,12051 V,tp 82,0.0,,,ProSieben Austria,https://www.lyngsat.com/tvchannels/de/ProSieben-Austria.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger Ger,de
+20004,Kabel Eins Austria,MPEG-2/SD,166.0,12051 V,tp 82,0.0,,,Kabel Eins Austria,https://www.lyngsat.com/tvchannels/de/Kabel-Eins-Austria.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger,de
+20005,Sat. 1 Österreich,MPEG-2/SD,800.0,12051 V,tp 82,0.0,,,Sat. 1 Österreich,https://www.lyngsat.com/tvchannels/de/Sat-1-Osterreich.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger Ger,de
+20007,Puls 4,MPEG-2/SD,1791.0,12051 V,tp 82,0.0,"Cryptoworks,Irdeto,Viaccess,Videoguard",,Puls 4,https://www.lyngsat.com/tvchannels/at/Puls-4.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger,at
+20008,Sat. 1 Hamburg und Schleswig-Holstein,MPEG-2/SD,2047.0,12051 V,tp 82,0.0,,,Sat. 1 Hamburg und Schleswig-Holstein,https://www.lyngsat.com/tvchannels/de/Sat-1-Hamburg-und-Schleswig-Holstein.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger Ger,de
+20009,Sat. 1 Niedersachsen und Bremen (Mon-Fri 17.30-17.55),MPEG-2/SD,2303.0,12051 V,tp 82,0.0,,,Sat. 1 Niedersachsen und Bremen (Mon-Fri 17.30-17.55),https://www.lyngsat.com/tvchannels/de/Sat-1-Niedersachsen-und-Bremen.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger Ger,de
+20010,Sat. 1 Rheinland-Pfalz/Hessen (Mon-Fri 17.30-17.55),MPEG-2/SD,2559.0,12051 V,tp 82,0.0,,,Sat. 1 Rheinland-Pfalz/Hessen (Mon-Fri 17.30-17.55),https://www.lyngsat.com/tvchannels/de/Sat-1-Rheinland-Pfalz-Hessen.html,False,ProSiebenSat. 1 Media,3/4,27500.0,DVB-S2,Ger Ger,de
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,3/4,27500.0,DVB-S2,,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,22000.0,DVB-S2,,
+54,Genius Exklusiv,MPEG-4/SD,3071.0,12148 H,tp 87,0.0,,,Genius Exklusiv,https://www.lyngsat.com/tvchannels/de/Genius-Exklusiv.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+61,Nickelodeon Austria,MPEG-2/SD,1791.0,12148 H,tp 87,0.0,,,Nickelodeon Austria,https://www.lyngsat.com/tvchannels/us/Nickelodeon-Austria.html,False,SES,3/4,27500.0,DVB-S2,Ger Eng,us
+65,Deluxe Music,MPEG-2/SD,3327.0,12148 H,tp 87,0.0,,,Deluxe Music,https://www.lyngsat.com/tvchannels/de/Deluxe-Music.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+71,TLC Austria,MPEG-2/SD,511.0,12148 H,tp 87,0.0,,,TLC Austria,https://www.lyngsat.com/tvchannels/us/TLC-Austria.html,False,SES,3/4,27500.0,DVB-S2,Ger,us
+73,DMAX Austria,MPEG-2/SD,3583.0,12148 H,tp 87,0.0,,,DMAX Austria,https://www.lyngsat.com/tvchannels/us/DMAX-Austria.html,False,SES,3/4,27500.0,DVB-S2,Ger,us
+514,MediaShop Immer etwas Neues TV,MPEG-2/SD,2303.0,12148 H,tp 87,0.0,,,MediaShop Immer etwas Neues TV,https://www.lyngsat.com/tvchannels/li/MediaShop-Immer-etwas-Neues-TV.html,False,SES,3/4,27500.0,DVB-S2,Ger,li
+765,Pearl TV,MPEG-2/SD,2047.0,12148 H,tp 87,0.0,,,Pearl TV,https://www.lyngsat.com/tvchannels/de/Pearl-TV.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+765,Pearl TV,MPEG-2/SD,2047.0,12148 H,tp 87,0.0,,,Pearl TV,https://www.lyngsat.com/tvchannels/de/Pearl-TV.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+769,Channel 21,MPEG-2/SD,1023.0,12148 H,tp 87,0.0,,,Channel 21,https://www.lyngsat.com/tvchannels/de/Channel-21.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+769,Channel 21,MPEG-2/SD,1023.0,12148 H,tp 87,0.0,,,Channel 21,https://www.lyngsat.com/tvchannels/de/Channel-21.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+774,Folx Music TV,MPEG-4/SD,768.0,12148 H,tp 87,0.0,,,Folx Music TV,https://www.lyngsat.com/tvchannels/de/Folx-Music-TV.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+774,Folx Music TV,MPEG-4/SD,768.0,12148 H,tp 87,0.0,,,Folx Music TV,https://www.lyngsat.com/tvchannels/de/Folx-Music-TV.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+775,MediaShop Meine Einkaufswelt,MPEG-2/SD,1279.0,12148 H,tp 87,0.0,,,MediaShop Meine Einkaufswelt,https://www.lyngsat.com/tvchannels/li/MediaShop-Meine-Einkaufswelt.html,False,SES,3/4,27500.0,DVB-S2,Ger,li
+160,Rock Antenne,,,12148 H,tp 87,0.0,,,Rock Antenne,https://www.lyngsat.com/radiochannels/de/Rock-Antenne.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+160,Rock Antenne,,,12148 H,tp 87,0.0,,,Rock Antenne,https://www.lyngsat.com/radiochannels/de/Rock-Antenne.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+169,Sunshine Live,,,12148 H,tp 87,0.0,,,Sunshine Live,https://www.lyngsat.com/radiochannels/de/Sunshine-Live.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+169,Sunshine Live,,,12148 H,tp 87,0.0,,,Sunshine Live,https://www.lyngsat.com/radiochannels/de/Sunshine-Live.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+170,Antenne Bayern,,,12148 H,tp 87,0.0,,,Antenne Bayern,https://www.lyngsat.com/radiochannels/de/Antenne-Bayern.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+170,Antenne Bayern,,,12148 H,tp 87,0.0,,,Antenne Bayern,https://www.lyngsat.com/radiochannels/de/Antenne-Bayern.html,False,SES,3/4,27500.0,DVB-S2,Ger,de
+,Canal + France,1-1088,,12168 V,tp 88,0.0,"Mediaguard,Nagravision,Viaccess",,,,False,SES,2/3,29700.0,DVB-S2,,
+,Canal + France,1-1090,,12207 V,tp 90,0.0,"Mediaguard,Nagravision,Viaccess",,,,False,SES,2/3,29700.0,DVB-S2,,
+,Canal + France,1-1094,,12285 V,tp 94,0.0,"Mediaguard,Nagravision,Viaccess",,,,False,SES,2/3,29700.0,DVB-S2,,
+,Canal + France,1-1096,,12324 V,tp 96,0.0,"Mediaguard,Nagravision,Viaccess",,,,False,SES,2/3,29700.0,DVB-S2,,
+,Canal + France,1-1098,,12363 V,tp 98,0.0,Nagravision,,,,False,SES,3/4,27500.0,DVB-S2,,
+,Canal + France,1-1100,,12402 V,tp 100,0.0,"Mediaguard,Nagravision,Viaccess",,,,False,SES,2/3,29700.0,DVB-S2,,
+9308,Public Sénat,MPEG-4/HD,810.0,12168 V,tp 88,0.0,,,Public Sénat,https://www.lyngsat.com/tvchannels/fr/Public-Senat.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9308,Public Sénat,MPEG-4/HD,810.0,12168 V,tp 88,0.0,,,Public Sénat,https://www.lyngsat.com/tvchannels/fr/Public-Senat.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9308,LCP Assemblée Nationale,MPEG-4/HD,810.0,12168 V,tp 88,0.0,,,LCP Assemblée Nationale,https://www.lyngsat.com/tvchannels/fr/LCP-Assemblee-Nationale.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9311,Canal + promo,MPEG-4/SD,1110.0,12168 V,tp 88,0.0,,,,,False,SES,2/3,29700.0,DVB-S2,Fre,
+9014,C News,MPEG-4/HD,1410.0,12207 V,tp 90,0.0,,,C News,https://www.lyngsat.com/tvchannels/fr/C-News.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9014,C News,MPEG-4/HD,1410.0,12207 V,tp 90,0.0,,,C News,https://www.lyngsat.com/tvchannels/fr/C-News.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9109,Sud Radio,,,12285 V,tp 94,0.0,,,Sud Radio,https://www.lyngsat.com/radiochannels/fr/Sud-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9109,Sud Radio,,,12285 V,tp 94,0.0,,,Sud Radio,https://www.lyngsat.com/radiochannels/fr/Sud-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9140,Fun Radio (France),,,12285 V,tp 94,0.0,,,Fun Radio (France),https://www.lyngsat.com/radiochannels/fr/Fun-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9140,Fun Radio (France),,,12285 V,tp 94,0.0,,,Fun Radio (France),https://www.lyngsat.com/radiochannels/fr/Fun-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9142,BBC World Service English Europe,,,12285 V,tp 94,0.0,,,BBC World Service English Europe,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-Europe.html,False,SES,2/3,29700.0,DVB-S2,Eng,uk
+9142,BBC World Service English Europe,,,12285 V,tp 94,0.0,,,BBC World Service English Europe,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English-Europe.html,False,SES,2/3,29700.0,DVB-S2,Eng,uk
+9144,Melody Vintage Radio,,,12285 V,tp 94,0.0,,,Melody Vintage Radio,https://www.lyngsat.com/radiochannels/fr/Melody-Vintage-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9144,Melody Vintage Radio,,,12285 V,tp 94,0.0,,,Melody Vintage Radio,https://www.lyngsat.com/radiochannels/fr/Melody-Vintage-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9153,Mouv',,,12285 V,tp 94,0.0,,,Mouv',https://www.lyngsat.com/radiochannels/fr/Mouv.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9153,Mouv',,,12285 V,tp 94,0.0,,,Mouv',https://www.lyngsat.com/radiochannels/fr/Mouv.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9154,France Musique,,,12285 V,tp 94,0.0,,,France Musique,https://www.lyngsat.com/radiochannels/fr/France-Musique.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9154,France Musique,,,12285 V,tp 94,0.0,,,France Musique,https://www.lyngsat.com/radiochannels/fr/France-Musique.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9155,FIP,,,12285 V,tp 94,0.0,,,FIP,https://www.lyngsat.com/radiochannels/fr/FIP.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9155,FIP,,,12285 V,tp 94,0.0,,,FIP,https://www.lyngsat.com/radiochannels/fr/FIP.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9156,Franceinfo:,,,12285 V,tp 94,0.0,,,Franceinfo:,https://www.lyngsat.com/radiochannels/fr/Franceinfo.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9156,Franceinfo:,,,12285 V,tp 94,0.0,,,Franceinfo:,https://www.lyngsat.com/radiochannels/fr/Franceinfo.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9157,France Inter,,,12285 V,tp 94,0.0,,,France Inter,https://www.lyngsat.com/radiochannels/fr/France-Inter.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9157,France Inter,,,12285 V,tp 94,0.0,,,France Inter,https://www.lyngsat.com/radiochannels/fr/France-Inter.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9158,France Culture,,,12285 V,tp 94,0.0,,,France Culture,https://www.lyngsat.com/radiochannels/fr/France-Culture.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9158,France Culture,,,12285 V,tp 94,0.0,,,France Culture,https://www.lyngsat.com/radiochannels/fr/France-Culture.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9159,France Bleu Paris,,,12285 V,tp 94,0.0,,,France Bleu Paris,https://www.lyngsat.com/radiochannels/fr/France-Bleu-Paris.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9159,France Bleu Paris,,,12285 V,tp 94,0.0,,,France Bleu Paris,https://www.lyngsat.com/radiochannels/fr/France-Bleu-Paris.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9163,Radio France Internationale,,,12285 V,tp 94,0.0,,,Radio France Internationale,https://www.lyngsat.com/radiochannels/fr/Radio-France-Internationale.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9164,Radio Classique,,,12285 V,tp 94,0.0,,,Radio Classique,https://www.lyngsat.com/radiochannels/fr/Radio-Classique.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9164,Radio Classique,,,12285 V,tp 94,0.0,,,Radio Classique,https://www.lyngsat.com/radiochannels/fr/Radio-Classique.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9165,RTL,,,12285 V,tp 94,0.0,,,RTL,https://www.lyngsat.com/radiochannels/fr/RTL.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9165,RTL,,,12285 V,tp 94,0.0,,,RTL,https://www.lyngsat.com/radiochannels/fr/RTL.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9166,Europe 1,,,12285 V,tp 94,0.0,,,Europe 1,https://www.lyngsat.com/radiochannels/fr/Europe-1.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9166,Europe 1,,,12285 V,tp 94,0.0,,,Europe 1,https://www.lyngsat.com/radiochannels/fr/Europe-1.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9168,Rire & Chansons,,,12285 V,tp 94,0.0,,,Rire & Chansons,https://www.lyngsat.com/radiochannels/fr/Rire-and-Chansons.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9168,Rire & Chansons,,,12285 V,tp 94,0.0,,,Rire & Chansons,https://www.lyngsat.com/radiochannels/fr/Rire-and-Chansons.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9175,TSF Jazz,,,12285 V,tp 94,0.0,,,TSF Jazz,https://www.lyngsat.com/radiochannels/fr/TSF-Jazz.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9175,TSF Jazz,,,12285 V,tp 94,0.0,,,TSF Jazz,https://www.lyngsat.com/radiochannels/fr/TSF-Jazz.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9176,Oüi FM,,,12285 V,tp 94,0.0,,,Oüi FM,https://www.lyngsat.com/radiochannels/fr/Oui-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9176,Oüi FM,,,12285 V,tp 94,0.0,,,Oüi FM,https://www.lyngsat.com/radiochannels/fr/Oui-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9177,Jazz Radio,,,12285 V,tp 94,0.0,,,Jazz Radio,https://www.lyngsat.com/radiochannels/fr/Jazz-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9177,Jazz Radio,,,12285 V,tp 94,0.0,,,Jazz Radio,https://www.lyngsat.com/radiochannels/fr/Jazz-Radio.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9178,Radio Nova (France),,,12285 V,tp 94,0.0,,,Radio Nova (France),https://www.lyngsat.com/radiochannels/fr/Radio-Nova.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9178,Radio Nova (France),,,12285 V,tp 94,0.0,,,Radio Nova (France),https://www.lyngsat.com/radiochannels/fr/Radio-Nova.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9179,FG,,,12285 V,tp 94,0.0,,,FG,https://www.lyngsat.com/radiochannels/fr/FG.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9179,FG,,,12285 V,tp 94,0.0,,,FG,https://www.lyngsat.com/radiochannels/fr/FG.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9180,Radio Contact (France),,,12285 V,tp 94,0.0,,,Radio Contact (France),https://www.lyngsat.com/radiochannels/fr/Radio-Contact.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9180,Radio Contact (France),,,12285 V,tp 94,0.0,,,Radio Contact (France),https://www.lyngsat.com/radiochannels/fr/Radio-Contact.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9181,Nostalgie,,,12285 V,tp 94,0.0,,,Nostalgie,https://www.lyngsat.com/radiochannels/fr/Nostalgie.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9181,Nostalgie,,,12285 V,tp 94,0.0,,,Nostalgie,https://www.lyngsat.com/radiochannels/fr/Nostalgie.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9182,NRJ France,,,12285 V,tp 94,0.0,,,NRJ France,https://www.lyngsat.com/radiochannels/fr/NRJ-France.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9182,NRJ France,,,12285 V,tp 94,0.0,,,NRJ France,https://www.lyngsat.com/radiochannels/fr/NRJ-France.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9183,RFM (France),,,12285 V,tp 94,0.0,,,RFM (France),https://www.lyngsat.com/radiochannels/fr/RFM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9183,RFM (France),,,12285 V,tp 94,0.0,,,RFM (France),https://www.lyngsat.com/radiochannels/fr/RFM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9184,Europe 2,,,12285 V,tp 94,0.0,,,Europe 2,https://www.lyngsat.com/radiochannels/fr/Europe-2.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9184,Europe 2,,,12285 V,tp 94,0.0,,,Europe 2,https://www.lyngsat.com/radiochannels/fr/Europe-2.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9185,Chérie FM,,,12285 V,tp 94,0.0,,,Chérie FM,https://www.lyngsat.com/radiochannels/fr/Cherie-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9185,Chérie FM,,,12285 V,tp 94,0.0,,,Chérie FM,https://www.lyngsat.com/radiochannels/fr/Cherie-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9186,RTL 2,,,12285 V,tp 94,0.0,,,RTL 2,https://www.lyngsat.com/radiochannels/fr/RTL-2.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9186,RTL 2,,,12285 V,tp 94,0.0,,,RTL 2,https://www.lyngsat.com/radiochannels/fr/RTL-2.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9187,Skyrock,,,12285 V,tp 94,0.0,,,Skyrock,https://www.lyngsat.com/radiochannels/fr/Skyrock.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9187,Skyrock,,,12285 V,tp 94,0.0,,,Skyrock,https://www.lyngsat.com/radiochannels/fr/Skyrock.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9194,Radio Notre Dame,,,12285 V,tp 94,0.0,,,Radio Notre Dame,https://www.lyngsat.com/radiochannels/fr/Radio-Notre-Dame.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9194,Radio Notre Dame,,,12285 V,tp 94,0.0,,,Radio Notre Dame,https://www.lyngsat.com/radiochannels/fr/Radio-Notre-Dame.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9198,Beur FM,,,12285 V,tp 94,0.0,,,Beur FM,https://www.lyngsat.com/radiochannels/fr/Beur-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+9198,Beur FM,,,12285 V,tp 94,0.0,,,Beur FM,https://www.lyngsat.com/radiochannels/fr/Beur-FM.html,False,SES,2/3,29700.0,DVB-S2,Fre,fr
+125,CNBC Europe,MPEG-4/HD,2303.0,12382 H,tp 99,0.0,,,CNBC Europe,https://www.lyngsat.com/tvchannels/us/CNBC-Europe.html,False,SES,3/4,27500.0,DVB-S2,Eng,us
+,{},,,12441 V,tp 102,0.0,,,,,False,SES,5/6,27500.0,DVB-S2,,
+,Globecast,1-1106,,12522 V,tp 106,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,,,True,Globecast,2/3,22000.0,DVB-S2,,
+6801,CGTN,MPEG-4/HD,6811.0,12522 V,tp 106,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,Globecast,2/3,22000.0,DVB-S2,Eng,cn
+6801,CGTN,MPEG-4/HD,6811.0,12522 V,tp 106,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,Globecast,2/3,22000.0,DVB-S2,Eng,cn
+6802,CGTN Documentary,MPEG-4/HD,6821.0,12522 V,tp 106,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,False,Globecast,2/3,22000.0,DVB-S2,Eng,cn
+6802,CGTN Documentary,MPEG-4/HD,6821.0,12522 V,tp 106,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,False,Globecast,2/3,22000.0,DVB-S2,Eng,cn
+6803,CGTN Français,MPEG-4/HD,6831.0,12522 V,tp 106,0.0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html,False,Globecast,2/3,22000.0,DVB-S2,Fre,cn
+6803,CGTN Français,MPEG-4/HD,6831.0,12522 V,tp 106,0.0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html,False,Globecast,2/3,22000.0,DVB-S2,Fre,cn
+3394,QVC Zwei,MPEG-2/SD,168.0,12552 V,tp 108,0.0,,,QVC Zwei,https://www.lyngsat.com/tvchannels/us/QVC-Zwei.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,us
+3394,QVC Zwei,MPEG-2/SD,168.0,12552 V,tp 108,0.0,,,QVC Zwei,https://www.lyngsat.com/tvchannels/us/QVC-Zwei.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,us
+12100,QVC Deutschland,MPEG-2/SD,165.0,12552 V,tp 108,0.0,,,QVC Deutschland,https://www.lyngsat.com/tvchannels/us/QVC-Deutschland.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,us
+12100,QVC Deutschland,MPEG-2/SD,165.0,12552 V,tp 108,0.0,,,QVC Deutschland,https://www.lyngsat.com/tvchannels/us/QVC-Deutschland.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,us
+12122,Bibel TV,MPEG-2/SD,33.0,12552 V,tp 108,0.0,,,Bibel TV,https://www.lyngsat.com/tvchannels/de/Bibel-TV.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+12122,Bibel TV,MPEG-2/SD,33.0,12552 V,tp 108,0.0,,,Bibel TV,https://www.lyngsat.com/tvchannels/de/Bibel-TV.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+12137,Canal Algérie 2,MPEG-2/SD,515.0,12552 V,tp 108,0.0,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,False,Globecast,5/6,22000.0,DVB-S2,Ara,dz
+12138,Thalitha A3,MPEG-2/SD,514.0,12552 V,tp 108,0.0,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,False,Globecast,5/6,22000.0,DVB-S2,Ara,dz
+12140,Chérie 25,MPEG-4/HD,5301.0,12552 V,tp 108,0.0,"Nagravision,Viaccess",,Chérie 25,https://www.lyngsat.com/tvchannels/fr/Cherie-25.html,False,Globecast,5/6,22000.0,DVB-S2,Fre Qaa,fr
+12145,NRJ 12,MPEG-4/HD,5501.0,12552 V,tp 108,0.0,"Nagravision,Viaccess",,NRJ 12,https://www.lyngsat.com/tvchannels/fr/NRJ-12.html,False,Globecast,5/6,22000.0,DVB-S2,Fre Qaa,fr
+12186,SBN International,MPEG-2/SD,2001.0,12552 V,tp 108,0.0,,,SBN International,https://www.lyngsat.com/tvchannels/us/SBN-International.html,False,Globecast,5/6,22000.0,DVB-S2,Eng Spa,us
+7200,Bloomberg TV Europe,MPEG-2/SD,48.0,12604 H,tp 111,0.0,,,Bloomberg TV Europe,https://www.lyngsat.com/tvchannels/us/Bloomberg-TV-Europe.html,False,Globecast,5/6,22000.0,DVB-S2,Eng,us
+7200,Bloomberg TV Europe,MPEG-2/SD,48.0,12604 H,tp 111,0.0,,,Bloomberg TV Europe,https://www.lyngsat.com/tvchannels/us/Bloomberg-TV-Europe.html,False,Globecast,5/6,22000.0,DVB-S2,Eng,us
+7290,Sky News International,MPEG-2/SD,1290.0,12604 H,tp 111,0.0,,,Sky News International,https://www.lyngsat.com/tvchannels/uk/Sky-News-International.html,False,Globecast,5/6,22000.0,DVB-S2,Eng,uk
+7290,Sky News International,MPEG-2/SD,1290.0,12604 H,tp 111,0.0,,,Sky News International,https://www.lyngsat.com/tvchannels/uk/Sky-News-International.html,False,Globecast,5/6,22000.0,DVB-S2,Eng,uk
+28534,WDR Fernsehen Aachen,MPEG-2/SD,3401.0,12604 H,tp 111,0.0,,,WDR Fernsehen Aachen,https://www.lyngsat.com/tvchannels/de/WDR-Fernsehen-Aachen.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+28535,WDR Studio Wuppertal (Mon-Fri 19.30-20.00),MPEG-2/SD,3501.0,12604 H,tp 111,0.0,,,WDR Studio Wuppertal (Mon-Fri 19.30-20.00),https://www.lyngsat.com/tvchannels/de/WDR-Studio-Wuppertal.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+28536,WDR Studio Bonn (Mon-Fri 19.30-20.00),MPEG-2/SD,3601.0,12604 H,tp 111,0.0,,,WDR Studio Bonn (Mon-Fri 19.30-20.00),https://www.lyngsat.com/tvchannels/de/WDR-Studio-Bonn.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+28537,WDR Studio Duisburg (Mon-Fri 19.30-20.00),MPEG-2/SD,3701.0,12604 H,tp 111,0.0,,,WDR Studio Duisburg (Mon-Fri 19.30-20.00),https://www.lyngsat.com/tvchannels/de/WDR-Studio-Duisburg.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+7289,Radio Horeb,,,12604 H,tp 111,0.0,,,Radio Horeb,https://www.lyngsat.com/radiochannels/de/Radio-Horeb.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+7289,Radio Horeb,,,12604 H,tp 111,0.0,,,Radio Horeb,https://www.lyngsat.com/radiochannels/de/Radio-Horeb.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,de
+7931,RTL Radio,,,12604 H,tp 111,0.0,,,RTL Radio,https://www.lyngsat.com/radiochannels/lu/RTL-Radio.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,lu
+7931,RTL Radio,,,12604 H,tp 111,0.0,,,RTL Radio,https://www.lyngsat.com/radiochannels/lu/RTL-Radio.html,False,Globecast,5/6,22000.0,DVB-S2,Ger,lu
+,Media Broadcast Satellite,1-1113,,12633 H,tp 113,0.0,,https://www.lyngsat.com/providers/de/Media-Broadcast-Satellite.html,,,True,Media Broadcast Satellite,5/6,22000.0,DVB-S2,,
+12600,Media Broadcast Satellite promo,MPEG-4/SD,1113.0,12633 H,tp 113,0.0,,,,,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,
+12601,K-TV,MPEG-2/SD,202.0,12633 H,tp 113,0.0,,,K-TV,https://www.lyngsat.com/tvchannels/de/K-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12601,K-TV,MPEG-2/SD,202.0,12633 H,tp 113,0.0,,,K-TV,https://www.lyngsat.com/tvchannels/de/K-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12604,Deutsches Musik Fernsehen,MPEG-4/SD,53.0,12633 H,tp 113,0.0,,,Deutsches Musik Fernsehen,https://www.lyngsat.com/tvchannels/de/Deutsches-Musik-Fernsehen.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12604,Deutsches Musik Fernsehen,MPEG-4/SD,53.0,12633 H,tp 113,0.0,,,Deutsches Musik Fernsehen,https://www.lyngsat.com/tvchannels/de/Deutsches-Musik-Fernsehen.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12612,Deutschlands GayChat,MPEG-2/SD,212.0,12633 H,tp 113,0.0,,,Deutschlands GayChat,https://www.lyngsat.com/tvchannels/de/Deutschlands-GayChat.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12614,Juwelo,MPEG-2/SD,1041.0,12633 H,tp 113,0.0,,,Juwelo,https://www.lyngsat.com/tvchannels/de/Juwelo.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12614,Juwelo,MPEG-2/SD,1041.0,12633 H,tp 113,0.0,,,Juwelo,https://www.lyngsat.com/tvchannels/de/Juwelo.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12622,Männersache TV (04-21),MPEG-2/SD,222.0,12633 H,tp 113,0.0,,,Männersache TV (04-21),https://www.lyngsat.com/tvchannels/es/Mannersache-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,es
+12623,Date Line (04-21),MPEG-2/SD,223.0,12633 H,tp 113,0.0,,,Date Line (04-21),https://www.lyngsat.com/tvchannels/--/Date-Line.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,--
+12624,Fotohandy TV (04-21),MPEG-2/SD,224.0,12633 H,tp 113,0.0,,,Fotohandy TV (04-21),https://www.lyngsat.com/tvchannels/cy/Fotohandy-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,cy
+12625,Mobile-Sex (04-21),MPEG-2/SD,225.0,12633 H,tp 113,0.0,,,Mobile-Sex (04-21),https://www.lyngsat.com/tvchannels/--/Mobile-Sex.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,--
+12626,My Dirty Mobile (04-21),MPEG-2/SD,226.0,12633 H,tp 113,0.0,,,My Dirty Mobile (04-21),https://www.lyngsat.com/tvchannels/de/My-Dirty-Mobile.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12629,Traumfrauen TV,MPEG-2/SD,229.0,12633 H,tp 113,0.0,,,Traumfrauen TV,https://www.lyngsat.com/tvchannels/de/Traumfrauen-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12630,Heiss und Sexy TV,MPEG-2/SD,230.0,12633 H,tp 113,0.0,,,Heiss und Sexy TV,https://www.lyngsat.com/tvchannels/de/Heiss-und-Sexy-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12633,Lilo TV,MPEG-4/SD,233.0,12633 H,tp 113,0.0,,,Lilo TV,https://www.lyngsat.com/tvchannels/de/Lilo-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12635,Babestation 24 (21-04),MPEG-2/SD,235.0,12633 H,tp 113,0.0,,,Babestation 24 (21-04),https://www.lyngsat.com/tvchannels/uk/Babestation-24.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,uk
+12635,Babestation 24 (21-04),MPEG-2/SD,235.0,12633 H,tp 113,0.0,,,Babestation 24 (21-04),https://www.lyngsat.com/tvchannels/uk/Babestation-24.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,uk
+12639,Erotika TV (04-21),MPEG-2/SD,239.0,12633 H,tp 113,0.0,,,Erotika TV (04-21),https://www.lyngsat.com/tvchannels/--/Erotika-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,--
+12640,BunnyClub 24 (04-21),MPEG-2/SD,240.0,12633 H,tp 113,0.0,,,BunnyClub 24 (04-21),https://www.lyngsat.com/tvchannels/--/BunnyClub-24.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,--
+12641,Clipmobile (04-21),MPEG-2/SD,241.0,12633 H,tp 113,0.0,,,Clipmobile (04-21),https://www.lyngsat.com/tvchannels/es/Clipmobile.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,es
+12654,FFN,,,12633 H,tp 113,0.0,,,FFN,https://www.lyngsat.com/radiochannels/de/FFN.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12654,FFN,,,12633 H,tp 113,0.0,,,FFN,https://www.lyngsat.com/radiochannels/de/FFN.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12655,Radio Paloma,,,12633 H,tp 113,0.0,,,Radio Paloma,https://www.lyngsat.com/radiochannels/de/Radio-Paloma.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12655,Radio Paloma,,,12633 H,tp 113,0.0,,,Radio Paloma,https://www.lyngsat.com/radiochannels/de/Radio-Paloma.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12656,Radio HBR,,,12633 H,tp 113,0.0,,,Radio HBR,https://www.lyngsat.com/radiochannels/de/Radio-HBR.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12656,Radio HBR,,,12633 H,tp 113,0.0,,,Radio HBR,https://www.lyngsat.com/radiochannels/de/Radio-HBR.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+12657,Radio HCJB Deutschland,,,12633 H,tp 113,0.0,,,Radio HCJB Deutschland,https://www.lyngsat.com/radiochannels/ec/Radio-HCJB-Deutschland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,ec
+12657,Radio HCJB Deutschland,,,12633 H,tp 113,0.0,,,Radio HCJB Deutschland,https://www.lyngsat.com/radiochannels/ec/Radio-HCJB-Deutschland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,ec
+12659,Radio Gloria,,,12633 H,tp 113,0.0,,,Radio Gloria,https://www.lyngsat.com/radiochannels/ch/Radio-Gloria.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,ch
+12659,Radio Gloria,,,12633 H,tp 113,0.0,,,Radio Gloria,https://www.lyngsat.com/radiochannels/ch/Radio-Gloria.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,ch
+,ORF Digital,1-1115,,12663 H,tp 115,0.0,,,,,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,,
+,ORF Digital,1-1117,,12692 H,tp 117,0.0,"Cryptoworks,Irdeto,Videoguard",,,,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,,
+13102,Nitro Austria,MPEG-2/SD,1020.0,12663 H,tp 115,0.0,,,Nitro Austria,https://www.lyngsat.com/tvchannels/de/Nitro-Austria.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13103,Dokusat,MPEG-4/SD,1030.0,12663 H,tp 115,0.0,,,Dokusat,https://www.lyngsat.com/tvchannels/de/Dokusat.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13104,LT 1 (21:30-17:00 & 17:30-21:00),MPEG-4/SD,1040.0,12663 H,tp 115,0.0,,,LT 1 (21:30-17:00 & 17:30-21:00),https://www.lyngsat.com/tvchannels/at/LT-1.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13104,HT 1 Innviertel (17:00-17:30 & 21:00-21:30),MPEG-4/SD,1040.0,12663 H,tp 115,0.0,,,HT 1 Innviertel (17:00-17:30 & 21:00-21:30),https://www.lyngsat.com/tvchannels/at/HT-1-Innviertel.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13106,Shop LC Deutschland,MPEG-4/SD,1060.0,12663 H,tp 115,0.0,,,Shop LC Deutschland,https://www.lyngsat.com/tvchannels/us/Shop-LC-Deutschland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,us
+13106,Shop LC Deutschland,MPEG-4/SD,1060.0,12663 H,tp 115,0.0,,,Shop LC Deutschland,https://www.lyngsat.com/tvchannels/us/Shop-LC-Deutschland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,us
+13107,Visit-X TV,MPEG-2/SD,1070.0,12663 H,tp 115,0.0,,,Visit-X TV,https://www.lyngsat.com/tvchannels/nl/Visit-X-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,nl
+13107,Visit-X TV,MPEG-2/SD,1070.0,12663 H,tp 115,0.0,,,Visit-X TV,https://www.lyngsat.com/tvchannels/nl/Visit-X-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,nl
+13110,Genius TV+,MPEG-4/SD,1110.0,12663 H,tp 115,0.0,,,Genius TV+,https://www.lyngsat.com/tvchannels/de/Genius-TV-.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13113,L TV,MPEG-4/SD,2130.0,12663 H,tp 115,0.0,,,L TV,https://www.lyngsat.com/tvchannels/de/L-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13113,L TV,MPEG-4/SD,2130.0,12663 H,tp 115,0.0,,,L TV,https://www.lyngsat.com/tvchannels/de/L-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13141,AstroTV,MPEG-4/HD,2410.0,12663 H,tp 115,0.0,,,AstroTV,https://www.lyngsat.com/tvchannels/de/AstroTV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13141,AstroTV,MPEG-4/HD,2410.0,12663 H,tp 115,0.0,,,AstroTV,https://www.lyngsat.com/tvchannels/de/AstroTV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13121,Ö1,,,12663 H,tp 115,0.0,,,Ö1,https://www.lyngsat.com/radiochannels/at/O1.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13121,Ö1,,,12663 H,tp 115,0.0,,,Ö1,https://www.lyngsat.com/radiochannels/at/O1.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13123,Radio Wien,,,12663 H,tp 115,0.0,,,Radio Wien,https://www.lyngsat.com/radiochannels/at/Radio-Wien.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13123,Radio Wien,,,12663 H,tp 115,0.0,,,Radio Wien,https://www.lyngsat.com/radiochannels/at/Radio-Wien.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13124,Radio Niederösterreich,,,12663 H,tp 115,0.0,,,Radio Niederösterreich,https://www.lyngsat.com/radiochannels/at/Radio-Niederosterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13124,Radio Niederösterreich,,,12663 H,tp 115,0.0,,,Radio Niederösterreich,https://www.lyngsat.com/radiochannels/at/Radio-Niederosterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13125,Radio Burgenland,,,12663 H,tp 115,0.0,,,Radio Burgenland,https://www.lyngsat.com/radiochannels/at/Radio-Burgenland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13125,Radio Burgenland,,,12663 H,tp 115,0.0,,,Radio Burgenland,https://www.lyngsat.com/radiochannels/at/Radio-Burgenland.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13126,Radio Oberösterreich,,,12663 H,tp 115,0.0,,,Radio Oberösterreich,https://www.lyngsat.com/radiochannels/at/Radio-Oberosterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13126,Radio Oberösterreich,,,12663 H,tp 115,0.0,,,Radio Oberösterreich,https://www.lyngsat.com/radiochannels/at/Radio-Oberosterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13127,Radio Salzburg,,,12663 H,tp 115,0.0,,,Radio Salzburg,https://www.lyngsat.com/radiochannels/at/Radio-Salzburg.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13127,Radio Salzburg,,,12663 H,tp 115,0.0,,,Radio Salzburg,https://www.lyngsat.com/radiochannels/at/Radio-Salzburg.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13128,Radio Tirol,,,12663 H,tp 115,0.0,,,Radio Tirol,https://www.lyngsat.com/radiochannels/at/Radio-Tirol.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13128,Radio Tirol,,,12663 H,tp 115,0.0,,,Radio Tirol,https://www.lyngsat.com/radiochannels/at/Radio-Tirol.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13129,Radio Vorarlberg,,,12663 H,tp 115,0.0,,,Radio Vorarlberg,https://www.lyngsat.com/radiochannels/at/Radio-Vorarlberg.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13129,Radio Vorarlberg,,,12663 H,tp 115,0.0,,,Radio Vorarlberg,https://www.lyngsat.com/radiochannels/at/Radio-Vorarlberg.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13130,Radio Steiermark,,,12663 H,tp 115,0.0,,,Radio Steiermark,https://www.lyngsat.com/radiochannels/at/Radio-Steiermark.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13130,Radio Steiermark,,,12663 H,tp 115,0.0,,,Radio Steiermark,https://www.lyngsat.com/radiochannels/at/Radio-Steiermark.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13131,Radio Kärnten,,,12663 H,tp 115,0.0,,,Radio Kärnten,https://www.lyngsat.com/radiochannels/at/Radio-Karnten.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13131,Radio Kärnten,,,12663 H,tp 115,0.0,,,Radio Kärnten,https://www.lyngsat.com/radiochannels/at/Radio-Karnten.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13133,Hitradio Ö3,,,12663 H,tp 115,0.0,,,Hitradio Ö3,https://www.lyngsat.com/radiochannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13133,Hitradio Ö3,,,12663 H,tp 115,0.0,,,Hitradio Ö3,https://www.lyngsat.com/radiochannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13133,Hitradio Ö3,,,12663 H,tp 115,0.0,,,Hitradio Ö3,https://www.lyngsat.com/tvchannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13133,Hitradio Ö3,,,12663 H,tp 115,0.0,,,Hitradio Ö3,https://www.lyngsat.com/tvchannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13013,Hitradio Ö3,MPEG-4/HD,130.0,12692 H,tp 117,0.0,,,Hitradio Ö3,https://www.lyngsat.com/radiochannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13013,Hitradio Ö3,MPEG-4/HD,130.0,12692 H,tp 117,0.0,,,Hitradio Ö3,https://www.lyngsat.com/radiochannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13013,Hitradio Ö3,MPEG-4/HD,130.0,12692 H,tp 117,0.0,,,Hitradio Ö3,https://www.lyngsat.com/tvchannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13013,Hitradio Ö3,MPEG-4/HD,130.0,12692 H,tp 117,0.0,,,Hitradio Ö3,https://www.lyngsat.com/tvchannels/at/Hitradio-O3.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13134,Radio FM 4,,,12663 H,tp 115,0.0,,,Radio FM 4,https://www.lyngsat.com/radiochannels/at/Radio-FM-4.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13134,Radio FM 4,,,12663 H,tp 115,0.0,,,Radio FM 4,https://www.lyngsat.com/radiochannels/at/Radio-FM-4.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13140,Radio Maria Österreich,,,12663 H,tp 115,0.0,,,Radio Maria Österreich,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Osterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,it
+13140,Radio Maria Österreich,,,12663 H,tp 115,0.0,,,Radio Maria Österreich,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Osterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,it
+13014,ORF 2 Europe,MPEG-2/SD,170.0,12692 H,tp 117,0.0,,,ORF 2 Europe,https://www.lyngsat.com/tvchannels/at/ORF-2-Europe.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at
+13018,Volksmusik TV,MPEG-4/SD,180.0,12692 H,tp 117,0.0,,,Volksmusik TV,https://www.lyngsat.com/tvchannels/de/Volksmusik-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13018,Volksmusik TV,MPEG-4/SD,180.0,12692 H,tp 117,0.0,,,Volksmusik TV,https://www.lyngsat.com/tvchannels/de/Volksmusik-TV.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13019,RiC,MPEG-2/SD,190.0,12692 H,tp 117,0.0,,,RiC,https://www.lyngsat.com/tvchannels/de/RiC.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13021,N-TV Austria,MPEG-4/SD,3020.0,12692 H,tp 117,0.0,,,N-TV Austria,https://www.lyngsat.com/tvchannels/de/N-TV-Austria.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,de
+13023,TV 1 Oberösterreich,MPEG-4/SD,3040.0,12692 H,tp 117,0.0,,,TV 1 Oberösterreich,https://www.lyngsat.com/tvchannels/at/TV-1-Oberosterreich.html,False,Media Broadcast Satellite,5/6,22000.0,DVB-S2,Ger,at

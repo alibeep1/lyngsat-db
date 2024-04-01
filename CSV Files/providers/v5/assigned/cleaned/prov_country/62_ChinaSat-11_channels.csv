@@ -1,0 +1,10 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,Medianet,,,3975 H,,,Tongfang,,,,False,,3/4,34284,DVB-S2,,,
+,Medianet,,,3975 V,,,Tongfang,,,,False,,3/4,34284,DVB-S2,,,
+17042.0,Al Quran,HEVC/SD,806.0,3975 H,,,,,Al Quran,https://www.lyngsat.com/tvchannels/mv/Al-Quran.html,False,,3/4,34284,DVB-S2,,mv,
+17093.0,SSTV,HEVC,634.0,3975 H,,,,,SSTV,https://www.lyngsat.com/tvchannels/mv/SSTV.html,False,,3/4,34284,DVB-S2,,mv,
+17093.0,SSTV,HEVC,634.0,3975 H,,,,,SSTV,https://www.lyngsat.com/tvchannels/mv/SSTV.html,False,,3/4,34284,DVB-S2,,mv,
+17014.0,VFM 99,,,3975 V,,,,,VFM 99,https://www.lyngsat.com/radiochannels/mv/VFM-99.html,False,,3/4,34284,DVB-S2,,mv,
+,(feeds),,,11596 V,,,,,,,False,,7/8,1600,DVB-S1,,,
+,(feeds),,,11600 V,,,,,,,False,,7/8,1600,DVB-S1,,,
+,(feeds),,,11658 V,,,,,,,False,,5/6,2400,DVB-S2,,,

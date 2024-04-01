@@ -1,0 +1,603 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+205,KBS Korea,0-205MPEG-4/HD,2051.0,3715 V,tp LM2C,37.1-39.1,,,False,,2/3,2800,DVB-S2,Kor
+,Warner Bros. Discovery,1-301,,3739 H,tp LM1C,37.1-39.1,"Conax,PowerVu",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+40*,Discovery Channel India,MPEG-4/SD,1401.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng Ben Tel
+45,DTamil,MPEG-4/SD,1451.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Tam
+60*,Animal Planet India,MPEG-4/SD,1711.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng Tam
+81,Investigation Discovery India,MPEG-4/SD,1811.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng
+82,Investigation Discovery India,MPEG-4/HD,1500.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng
+90*,Discovery Science India,MPEG-4/SD,1910.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hin
+100,Discovery Turbo India,MPEG-4/SD,2011.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+120*,TLC India,MPEG-4/SD,2211.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng
+131*,Discovery HD World India,MPEG-4/HD,2511.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Mal Kan Ben
+139*,Discovery Kids India,MPEG-4/SD,2411.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Mal
+151*,TLC HD India,MPEG-4/HD,2611.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hin
+152*,Animal Planet HD World India,MPEG-4/HD,3111.0,3739 H,tp LM1C,37.1-39.1,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hin Tam
+170,Pogo,MPEG-4/SD,101.0,3739 H,tp LM1C,37.1-39.1,Conax,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Tel Kan Mal Mar Tam
+175,Cartoon Network India,MPEG-4/SD,201.0,3739 H,tp LM1C,37.1-39.1,Conax,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hin Eng Tam Tel Kan Mal Mar
+,Aastha TV,,,3769 V,tp LM4C,37.1-39.1,,https://www.lyngsat.com/providers/in/Aastha-TV.html,True,Aastha TV,3/4,3600,DVB-S2,
+,Aastha TV,,,3769 V,tp LM4C,37.1-39.1,,https://www.lyngsat.com/providers/in/Aastha-TV.html,True,Aastha TV,3/4,3600,DVB-S2,
+,Aastha TV,1-2,,3777 V,tp LM4C,37.1-39.1,,https://www.lyngsat.com/providers/in/Aastha-TV.html,True,Aastha TV,3/4,2940,DVB-S2,
+,Aastha TV,1-2,,3777 V,tp LM4C,37.1-39.1,,https://www.lyngsat.com/providers/in/Aastha-TV.html,True,Aastha TV,3/4,2940,DVB-S2,
+1,Arihant TV,MPEG-4/SD,702.0,3769 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,3600,DVB-S2,Hin
+2,Aastha Tamil,MPEG-4/SD,1002.0,3769 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,3600,DVB-S2,Tam
+3,Aastha Telugu,MPEG-4/SD,1102.0,3769 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,3600,DVB-S2,Tel
+4,Aastha Kannada,MPEG-4/SD,1202.0,3769 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,3600,DVB-S2,Kan
+1,Aastha India,1-1MPEG-2/SD,308.0,3774 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,2944,DVB-S2,Hin
+1,Aastha Bhajan India,MPEG-4/SD,257.0,3777 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,2940,DVB-S2,Hin
+2,Vedic,MPEG-4/SD,514.0,3777 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,2940,DVB-S2,
+1,CGN TV,66535-1MPEG-2/SD,308.0,3782 V,tp LM4C,37.1-39.1,,,False,Aastha TV,3/4,2965,DVB-S2,Kor
+1,J Movie,1-2MPEG-4/SD,516.0,3788 V,tp LM4C,37.1-39.1,Irdeto,,False,Aastha TV,2/3,4400,DVB-S2,Tam
+1,Arirang World,65535-1MPEG-4/HD,308.0,3795 V,tp LM4C,37.1-39.1,,,False,Aastha TV,2/3,5580,DVB-S2,Eng Eng
+2,Arirang World,65535-1MPEG-2/SD,1260.0,4054 V,tp LM16C,37.1-39.1,,,False,Aastha TV,3/4,4400,DVB-S4,Eng
+,(feeds),,,3805 V,tp LM4C,,,,False,Aastha TV,3/4,7200,DVB-S2,
+,(feeds),,,3814 V,tp LM4C,,,,False,Aastha TV,3/4,7200,DVB-S2,
+,(feeds),,,3816 H,tp LM3C,,,,False,Aastha TV,3/4,7200,DVB-S2,
+,(feeds),,,3834 V,tp LM6C,,,,False,Aastha TV,3/4,4937,DVB-S2,
+55,(feeds),,2610.0,3930 H,tp LM7C,37.1-39.1,Videoguard,,False,Aastha TV,2/3,25000,DVB-S2,
+,(feeds),,,3940 V,tp LM8C,,,,False,Aastha TV,3/4,7120,DVB-S2,
+,(feeds),,,4096 V,tp LM18C,,,,False,Aastha TV,5/6,2500,DVB-S2,
+,(feeds),,,11025 H,tp 38K,,,,False,Aastha TV,3/4,1240,DVB-S2,
+,(feeds),,,11477 V,tp 43K,,,,False,Aastha TV,3/4,2170,DVB-S2,
+,(feeds),,,11487 V,tp 43K,,,,False,Aastha TV,3/4,1740,DVB-S2,
+,(feeds),,,11490 V,tp 43K,,,,False,Aastha TV,3/4,1240,DVB-S2,
+,(feeds),,,11569 H,tp 48K,,,,False,Aastha TV,3/4,1240,DVB-S2,
+,(feeds),,,11571 H,tp 48K,,,,False,Aastha TV,3/4,1240,DVB-S2,
+,(feeds),,,12597 H,tp 30K,,,,False,Aastha TV,3/4,27200,DVB-S2,
+,(feeds),,,12606 H,tp 30K,,,,False,Aastha TV,3/4,7200,DVB-S2,
+,(feeds),,,12615 H,tp 30K,,,,False,Aastha TV,3/4,7200,DVB-S2,
+,(feeds),,,12648 V,tp 31K,,,,False,Aastha TV,3/5,4166,DVB-S2,
+,Indo Teleports,28-3,,3828 V,tp LM6C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indo-Teleports.html,True,Indo Teleports,3/4,7200,DVB-S2,
+,Indo Teleports,28-3,,3828 V,tp LM6C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indo-Teleports.html,True,Indo Teleports,3/4,7200,DVB-S2,
+,Indo Teleports,28-1,,4090 H,tp LM17C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indo-Teleports.html,True,Indo Teleports,3/4,14368,DVB-S2,
+,Indo Teleports,28-1,,4090 H,tp LM17C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indo-Teleports.html,True,Indo Teleports,3/4,14368,DVB-S2,
+1300,Jan TV,MPEG-4/SD,2002.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Hin
+1301,Khabar Fast,MPEG-4/SD,2012.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Hin
+1302,Pratidin Time,MPEG-4/SD,2022.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Asm
+1303,Maina,MPEG-4/SD,2032.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,
+1306,Praveg TV,MPEG-4/SD,2062.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Guj
+1307,Jan TV Plus,MPEG-4/SD,2072.0,3828 V,tp LM6C,37.1-39.1,Irdeto,,False,Indo Teleports,3/4,7200,DVB-S2,Hin
+1308,Maha Movie,MPEG-4/SD,2082.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Hin
+1309,Fakt Marathi,MPEG-4/SD,2092.0,3828 V,tp LM6C,37.1-39.1,,,False,Indo Teleports,3/4,7200,DVB-S2,Mar
+,Viacom 18,,,3850 V,tp LM6C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Viacom-18.html,True,Viacom 18,5/6,14400,DVB-S2,
+,Viacom 18,,,3850 V,tp LM6C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Viacom-18.html,True,Viacom 18,5/6,14400,DVB-S2,
+,Viacom 18,10-1,,3993 H,tp LM11C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Viacom-18.html,True,Viacom 18,2/3,4000,DVB-S2,
+,Viacom 18,10-1,,3993 H,tp LM11C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Viacom-18.html,True,Viacom 18,2/3,4000,DVB-S2,
+1,Colors Marathi,MPEG-4/HD,101.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Mar
+2,Colors Bangla,MPEG-4/HD,111.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Ben
+3,Colors Kannada,MPEG-4/HD,121.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Kan
+4,Colors Super,MPEG-4/HD,131.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Kan
+5,Comedy Central India,MPEG-4/SD,141.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Eng
+6,MTV Beats,MPEG-4/HD,151.0,3850 V,tp LM6C,37.1-39.1,Irdeto,,False,Viacom 18,5/6,14400,DVB-S2,Eng
+,Sports Inspires Life,1-101,,3868 H,tp LM5C,37.1-39.1,Videoguard,https://www.lyngsat.com/providers/in/Sports-Inspires-Life.html,True,Sports Inspires Life,3/4,14450,DVB-S2,
+,Sports Inspires Life,1-101,,3868 H,tp LM5C,37.1-39.1,Videoguard,https://www.lyngsat.com/providers/in/Sports-Inspires-Life.html,True,Sports Inspires Life,3/4,14450,DVB-S2,
+,Sports Inspires Life,1-101,,3930 H,tp LM7C,37.1-39.1,Videoguard,https://www.lyngsat.com/providers/in/Sports-Inspires-Life.html,True,Sports Inspires Life,2/3,25000,DVB-S2,
+,Sports Inspires Life,1-101,,3930 H,tp LM7C,37.1-39.1,Videoguard,https://www.lyngsat.com/providers/in/Sports-Inspires-Life.html,True,Sports Inspires Life,2/3,25000,DVB-S2,
+26*,Sony Sports Ten 1,MPEG-4/SD,3026.0,3868 H,tp LM5C,37.1-39.1,Videoguard,,False,Sports Inspires Life,3/4,14450,DVB-S2,Eng Hin Ben Mal
+27*,Sony Sports Ten 2,MPEG-4/SD,3027.0,3868 H,tp LM5C,37.1-39.1,Videoguard,,False,Sports Inspires Life,3/4,14450,DVB-S2,Eng Mal
+77,Sony Sports Ten 2,MPEG-4/HD,3077.0,3930 H,tp LM7C,37.1-39.1,Videoguard,,False,Sports Inspires Life,2/3,25000,DVB-S2,Eng Eng
+28*,Sony Sports Ten 3,MPEG-4/SD,3028.0,3868 H,tp LM5C,37.1-39.1,Videoguard,,False,Sports Inspires Life,3/4,14450,DVB-S2,Eng Hin Ben
+78,Sony Sports Ten 3,MPEG-4/HD,3078.0,3930 H,tp LM7C,37.1-39.1,Videoguard,,False,Sports Inspires Life,2/3,25000,DVB-S2,Eng Eng Ben
+29,Sony Marathi,MPEG-4/SD,3029.0,3868 H,tp LM5C,37.1-39.1,Videoguard,,False,Sports Inspires Life,3/4,14450,DVB-S2,Mar
+31*,Sony Sports Ten 4,MPEG-4/SD,3031.0,3868 H,tp LM5C,37.1-39.1,Videoguard,,False,Sports Inspires Life,3/4,14450,DVB-S2,Tam Tel
+,ABS-CBN,,,3868 V,tp LM6C,37.1-39.1,PowerVu,https://www.lyngsat.com/providers/ph/ABS-CBN.html,True,ABS-CBN,2/3,15000,DVB-S2,
+102,ANC Global,MPEG-4/HD,4143.0,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Eng
+104,TFC Asia-Pacific,MPEG-4/HD,4175.0,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Tgl
+111,Cinema One Global,MPEG-4/HD,4383.0,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Tgl
+113,Myx USA,MPEG-4/HD,4415.0,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Eng Eng
+114,Cine Mo! Global,MPEG-4/HD,4431.0,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Tgl
+130,DWPM Radyo 630,,,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Tgl
+131,MOR Philippines,,,3868 V,tp LM6C,37.1-39.1,PowerVu,,False,ABS-CBN,2/3,15000,DVB-S2,Tgl
+1,Daystar TV,1-19MPEG-2/SD,2001.0,3890 V,tp LM8C,37.1-39.1,,,False,ABS-CBN,5/6,1954,DVB-S1,Eng
+50559,Daystar TV,MPEG-2/SD,5591.0,12522 V,tp 25K,44.8-45.8,,,False,ABS-CBN,3/4,27500,DVB-S2,Eng
+2,WRN English North America and Africa and Asia,,,3890 V,tp LM8C,37.1-39.1,,,False,ABS-CBN,5/6,1954,DVB-S1,Eng
+,Indiasign,,,3893 V,tp LM8C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,2500,DVB-S2,
+,Indiasign,,,3893 V,tp LM8C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,2500,DVB-S2,
+,Indiasign,,,3893 V,tp LM8C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,2500,DVB-S2,
+,Indiasign,9-3,,4013 H,tp LM11C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,3/4,7200,DVB-S2,
+,Indiasign,9-3,,4013 H,tp LM11C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,3/4,7200,DVB-S2,
+,Indiasign,9-3,,4013 H,tp LM11C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,3/4,7200,DVB-S2,
+,Indiasign,9-3,,4116 V,tp LM20C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,8800,DVB-S2,
+,Indiasign,9-3,,4116 V,tp LM20C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,8800,DVB-S2,
+,Indiasign,9-3,,4116 V,tp LM20C,37.1-39.1,,https://www.lyngsat.com/providers/in/Indiasign.html,True,Indiasign,5/6,8800,DVB-S2,
+1,Mahaa News,MPEG-4/SD,2001.0,3893 V,tp LM8C,37.1-39.1,,,False,Indiasign,5/6,2500,DVB-S2,Tel
+2,Mantavya News,MPEG-4/SD,2002.0,3893 V,tp LM8C,37.1-39.1,,,False,Indiasign,5/6,2500,DVB-S2,
+3,[Indiasign test card],MPEG-4/SD,2003.0,3893 V,tp LM8C,37.1-39.1,,,False,Indiasign,5/6,2500,DVB-S2,
+4,[Indiasign test card],MPEG-4/SD,2004.0,3893 V,tp LM8C,37.1-39.1,,,False,Indiasign,5/6,2500,DVB-S2,
+3,[Indiasign test card],MPEG-4/SD,203.0,4013 H,tp LM11C,37.1-39.1,,,False,Indiasign,3/4,7200,DVB-S2,
+8,[Indiasign test card],MPEG-4/SD,208.0,4116 V,tp LM20C,37.1-39.1,,,False,Indiasign,5/6,8800,DVB-S2,
+,Sony Pictures Networks India,1-101,,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,True,Sony Pictures Networks India,5/6,22222,DVB-S2,
+4,Sony SAB India,MPEG-4/SD,1460.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Hin
+8*,Sony Pix,MPEG-4/SD,1860.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Eng Tam Tel Hin
+12,Sony Aath,MPEG-4/SD,1210.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Ben
+13*,Sony Sports Ten 5,MPEG-4/SD,1310.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Eng Tam Tel
+50*,Sony Sports Ten 5,MPEG-4/HD,2110.0,3930 H,tp LM7C,37.1-39.1,Videoguard,,False,Sony Pictures Networks India,2/3,25000,DVB-S2,Eng Tam Tel
+14,Sony Pal,MPEG-4/SD,1410.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Hin
+17,Sony Wah,MPEG-4/SD,1710.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Hin
+41*,Sony Max India,MPEG-4/SD,4160.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Hin Tam Tel
+42,Sony Max 2,MPEG-4/SD,4260.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,
+43,SET India,MPEG-4/SD,4360.0,3900 H,tp LM7C,37.1-39.1,"PowerVu,Videoguard",,False,Sony Pictures Networks India,5/6,22222,DVB-S2,Hin
+9,KBS World,1-3MPEG-4/HD,91.0,3913 V,tp LM8C,37.1-39.1,Xcrypt,,False,Sony Pictures Networks India,3/4,6510,DVB-S6,Kor
+,India TV (India),1-1,,3922 V,tp LM8C,37.1-39.1,,https://www.lyngsat.com/providers/in/India-TV.html,True,India TV (India),5/6,7000,DVB-S2,
+2,India TV (India),MPEG-4/SD,520.0,3922 V,tp LM8C,37.1-39.1,,https://www.lyngsat.com/providers/in/India-TV.html,True,India TV (India),5/6,7000,DVB-S2,Hin
+1,India TV Speed News,MPEG-4/HD,510.0,3922 V,tp LM8C,37.1-39.1,,,False,India TV (India),5/6,7000,DVB-S2,Hin
+79,Ten Cricket,MPEG-4/HD,3079.0,3930 H,tp LM7C,37.1-39.1,Videoguard,,False,India TV (India),2/3,25000,DVB-S2,Eng Eng
+,The Times Group,1-3,,3974 H,tp LM9C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/The-Times-Group.html,True,The Times Group,8/9,22500,DVB-S2,
+11,Times Now,MPEG-4/SD,201.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng Hin
+12,Zoom (India),MPEG-4/SD,501.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Hin
+13,ET Now,MPEG-4/SD,401.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+14,Movies Now,MPEG-4/SD,601.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+20,Movies Now,MPEG-4/HD,2001.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng Eng
+15,Movies Now +,MPEG-4/HD,101.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng Eng
+16,Romedy Now,MPEG-4/SD,301.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+21,Romedy Now,MPEG-4/HD,2101.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng Eng
+17,Mirror Now,MPEG-4/SD,701.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+18,Times Now World,MPEG-4/HD,1101.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+19,MNX,MPEG-4/HD,1201.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng Eng
+22,MNX,MPEG-4/SD,2201.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+23,ET Now Swadesh,MPEG-4/SD,3301.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Hin
+24,Times Now Navbharat,MPEG-4/HD,4401.0,3974 H,tp LM9C,37.1-39.1,Irdeto,,False,The Times Group,8/9,22500,DVB-S2,Eng
+25,Times Now Navbharat,MPEG-4/SD,5501.0,3974 H,tp LM9C,37.1-39.1,,,False,The Times Group,8/9,22500,DVB-S2,Eng
+,Zee Network,1-41,,3974 V,tp LM10C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-41,,3974 V,tp LM10C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-41,,3974 V,tp LM10C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-41,,3974 V,tp LM10C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-21,,4000 H,tp LM11C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-21,,4000 H,tp LM11C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-21,,4000 H,tp LM11C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-21,,4000 H,tp LM11C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-20,,4155 V,tp LM22C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-20,,4155 V,tp LM22C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-20,,4155 V,tp LM22C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-20,,4155 V,tp LM22C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,5/6,22500,DVB-S2,
+,Zee Network,1-601,,4163 H,tp LM21C,37.1-39.1,,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-601,,4163 H,tp LM21C,37.1-39.1,,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-601,,4163 H,tp LM21C,37.1-39.1,,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+,Zee Network,1-601,,4163 H,tp LM21C,37.1-39.1,,https://www.lyngsat.com/providers/in/Zee-Network.html,True,Zee Network,3/4,7500,DVB-S2,
+10021,Zee Talkies,MPEG-4/HD,1162.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Mar
+10022,Zee Bangla,MPEG-4/HD,1172.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Ben
+10023,Zee Tamil,MPEG-4/HD,1182.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Tam
+10024,Zee Keralam,MPEG-4/HD,1192.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Mal
+10028,Zee Cinemalu,MPEG-4/HD,1232.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Tel
+10029,Zee Chitramandir,MPEG-4/SD,1242.0,3974 V,tp LM10C,37.1-39.1,Conax,,False,Zee Network,5/6,22500,DVB-S2,Mar
+1801,Colors Rishtey Asia,MPEG-4/SD,1811.0,3993 H,tp LM11C,37.1-39.1,Irdeto,,False,Zee Network,2/3,4000,DVB-S2,Hin
+23,Colors Rishtey Asia,MPEG-4/SD,514.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Network,5/6,20500,DVB-S2,Hin
+1804,Colors Asia Pacific,MPEG-4/SD,1841.0,3993 H,tp LM11C,37.1-39.1,Irdeto,,False,Zee Network,2/3,4000,DVB-S2,
+5103,MTV India,MPEG-4/SD,5131.0,3993 H,tp LM11C,37.1-39.1,Irdeto,,False,Zee Network,2/3,4000,DVB-S2,Eng
+10,MTV India,MPEG-4/SD,417.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Network,5/6,20500,DVB-S2,Eng
+,Sun 18 Media Services,2175-106,,3995 V,tp LM12C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,6666,DVB-S2,
+,Sun 18 Media Services,2175-106,,3995 V,tp LM12C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,6666,DVB-S2,
+,Sun 18 Media Services,2175-106,,3995 V,tp LM12C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,6666,DVB-S2,
+,Sun 18 Media Services,2175-105,,4034 H,tp LM13C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,20500,DVB-S2,
+,Sun 18 Media Services,2175-105,,4034 H,tp LM13C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,20500,DVB-S2,
+,Sun 18 Media Services,2175-105,,4034 H,tp LM13C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,5/6,20500,DVB-S2,
+,Sun 18 Media Services,7-1,,4103 H,tp LM17C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,3/4,5720,DVB-S2,
+,Sun 18 Media Services,7-1,,4103 H,tp LM17C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,3/4,5720,DVB-S2,
+,Sun 18 Media Services,7-1,,4103 H,tp LM17C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Sun-18-Media-Services.html,True,Sun 18 Media Services,3/4,5720,DVB-S2,
+210,CNBC TV 18,MPEG-4/SD,308.0,3995 V,tp LM12C,37.1-39.1,Irdeto,,False,Sun 18 Media Services,5/6,6666,DVB-S2,Eng
+220,CNBC Awaaz,MPEG-4/SD,512.0,3995 V,tp LM12C,37.1-39.1,Irdeto,,False,Sun 18 Media Services,5/6,6666,DVB-S2,Hin
+230,News 18 Lokmat,MPEG-4/HD,310.0,3995 V,tp LM12C,37.1-39.1,Irdeto,,False,Sun 18 Media Services,5/6,6666,DVB-S2,Mar
+240,CNBC Bajar,MPEG-4/SD,241.0,3995 V,tp LM12C,37.1-39.1,Irdeto,,False,Sun 18 Media Services,5/6,6666,DVB-S2,Guj
+250,CNBC TV 18 Prime HD,MPEG-4/HD,251.0,3995 V,tp LM12C,37.1-39.1,Irdeto,,False,Sun 18 Media Services,5/6,6666,DVB-S2,Eng
+57,& TV Middle East,MPEG-4/HD,432.0,4000 H,tp LM11C,37.1-39.1,Conax,,False,Sun 18 Media Services,3/4,7500,DVB-S2,Eng Eng
+,Lamhas,1-1,,4003 V,tp LM12C,37.1-39.1,,https://www.lyngsat.com/providers/in/Lamhas.html,True,Lamhas,3/4,7200,DVB-S2,
+200,Shubh TV,MPEG-4/SD,201.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,
+300,Abzy Movies,MPEG-4/SD,301.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,Hin
+400,Sandesh News,MPEG-4/SD,401.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,Guj
+600,Shubh Cinema,MPEG-4/SD,601.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,
+700,Abzy Cool,MPEG-4/SD,701.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,Urd
+900,Abzy Dhakad,MPEG-4/SD,901.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,
+1000,Insync,MPEG-4/SD,1001.0,4003 V,tp LM12C,37.1-39.1,,,False,Lamhas,3/4,7200,DVB-S2,
+,Zee Zest,,,4012 V,tp LM12C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Zest.html,True,Zee Zest,3/4,7200,DVB-S2,
+78,Zee Zest,MPEG-4/SD,4152.0,4012 V,tp LM12C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Zest.html,True,Zee Zest,3/4,7200,DVB-S2,Hin Eng Tam Mar
+79,Zee Zest,MPEG-4/HD,4162.0,4012 V,tp LM12C,37.1-39.1,Conax,https://www.lyngsat.com/providers/in/Zee-Zest.html,True,Zee Zest,3/4,7200,DVB-S2,Hin Eng Tam Mar
+1,NewsTime Bangla,MPEG-4/SD,201.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+2,Ruposhi Bangla,MPEG-4/SD,202.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+4,Aakaash Aath,MPEG-4/SD,204.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+5,Dhoom Music,MPEG-4/SD,205.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+6,R Plus,MPEG-4/SD,206.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+7,NewsTime Assam,MPEG-4/SD,207.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Asm
+8,Manoranjan Movies,MPEG-4/SD,208.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Pan
+9,[test card],MPEG-4/SD,209.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,
+10,R Plus Gold,MPEG-4/SD,210.0,4013 H,tp LM11C,37.1-39.1,,,False,Zee Zest,3/4,7200,DVB-S2,Ben
+20,Colors,MPEG-4/SD,440.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin
+91,Colors,MPEG-4/HD,92.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin Eng
+27,Colors Cineplex Superhits,MPEG-4/SD,601.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin
+30,Nick Jr India,MPEG-4/SD,555.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Eng Hin
+51,Colors Kannada Cinema,MPEG-4/SD,52.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Kan
+61,Colors Tamil,MPEG-4/HD,62.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Tam Tam
+71,Colors Tamil,MPEG-4/SD,72.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Tam
+301,Colors Cineplex,MPEG-4/HD,302.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin Hin
+331,Colors Cineplex Bollywood,MPEG-4/SD,332.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin
+341,Sports 18 Hindi,MPEG-4/HD,342.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin
+351,Sports 18 Hindi,MPEG-4/SD,352.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin
+406,Nickelodeon India,MPEG-4/SD,401.0,4034 H,tp LM13C,37.1-39.1,Irdeto,,False,Zee Zest,5/6,20500,DVB-S2,Hin Kan Tel Tam Mal Ben Mar
+,Network 18,2175-107,,4034 V,tp LM14C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Network-18.html,True,Network 18,5/6,21600,DVB-S2,
+901,History TV 18,MPEG-4/SD,902.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng Hin Tam Tel
+925,History TV 18,MPEG-4/HD,926.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng Hin Tam Tel
+931,News 18 Malayalam,MPEG-4/SD,932.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Mal
+941,Sonic Nickelodeon,MPEG-4/SD,942.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Hin Kan Tel Tam Mal Ben Mar Guj
+961,News 18 Tamil,MPEG-4/SD,962.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Tam
+981,News 18 Assam & North-East,MPEG-4/SD,982.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Asm
+1001,News 18 India,MPEG-4/SD,1002.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Hin
+1031,MTV HD+,MPEG-4/HD,1032.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Hin Hin
+1041,Sports 18 1,MPEG-4/SD,1042.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng
+1051,Sports 18 1,MPEG-4/HD,1052.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng Eng
+1061,Sports 18 Khel,MPEG-4/SD,1062.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Hin
+1071,Sports 18 2,MPEG-4/SD,1072.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng
+1081,Sports 18 2,MPEG-4/HD,1082.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Eng
+1091,Sports 18 Tamil,MPEG-4/SD,1092.0,4034 V,tp LM14C,37.1-39.1,Irdeto,,False,Network 18,5/6,21600,DVB-S2,Tam
+,Intelsat,1-1,,4064 H,tp LM15C,37.1-39.1,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,7/8,19850,DVB-S1,
+,Intelsat,1-1,,4064 H,tp LM15C,37.1-39.1,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,7/8,19850,DVB-S1,
+,Intelsat,20-26,,12522 H,tp 26K,44.8-45.8,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,3/4,30000,DVB-S2,
+,Intelsat,20-26,,12522 H,tp 26K,44.8-45.8,,https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,3/4,30000,DVB-S2,
+2,Aljazeera English,MPEG-2/SD,1260.0,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng
+3,CNBC Asia-Pacific,MPEG-4/SD,1361.0,4064 H,tp LM15C,37.1-39.1,Director,,False,Intelsat,7/8,19850,DVB-S1,Eng
+4,CGTN,MPEG-2/SD,1460.0,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng
+5,EWTN Africa - Asia,MPEG-2/SD,1560.0,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng Spa
+11,ABC Australia Asia,MPEG-4/HD,2307.0,4064 H,tp LM15C,37.1-39.1,Irdeto,,False,Intelsat,7/8,19850,DVB-S1,Eng
+255,BBC News South Asia,MPEG-2/SD,2560.0,4064 H,tp LM15C,37.1-39.1,PowerVu,,False,Intelsat,7/8,19850,DVB-S1,Eng
+12,Radio Australia English for the Pacific,,,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng
+13,Radio Australia English for Asia,,,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng
+51,EWTN Radio,,,4064 H,tp LM15C,37.1-39.1,,,False,Intelsat,7/8,19850,DVB-S1,Eng
+,Sanskar TV,1-3,,4064 V,tp LM16C,37.1-39.1,,https://www.lyngsat.com/providers/in/Sanskar-TV.html,True,Sanskar TV,3/4,4400,DVB-S4,
+1,Sanskar TV,MPEG-2/SD,257.0,4064 V,tp LM16C,37.1-39.1,,https://www.lyngsat.com/providers/in/Sanskar-TV.html,True,Sanskar TV,3/4,4400,DVB-S4,
+3,Satsang TV,MPEG-2/SD,513.0,4064 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,3/4,4400,DVB-S4,
+10,Hope Channel International,3-3MPEG-2/SD,1560.0,4069 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,2/3,2500,DVB-S2,Eng
+15,Hope Channel International,MPEG-2/SD,715.0,12522 H,tp 26K,44.8-45.8,,,False,Sanskar TV,3/4,30000,DVB-S2,Eng
+20,Morning Star Radio,,,4069 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,2/3,2500,DVB-S2,Swa
+91,Morning Star Radio,,,12522 H,tp 26K,44.8-45.8,,,False,Sanskar TV,3/4,30000,DVB-S2,Swa
+21,Voice of Hope Africa,,,4069 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,2/3,2500,DVB-S2,Eng
+22,Maranatha 104.7 FM,,,4069 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,2/3,2500,DVB-S2,Eng
+92,Maranatha 104.7 FM,,,12522 H,tp 26K,44.8-45.8,,,False,Sanskar TV,3/4,30000,DVB-S2,Eng
+803,TRT World,22-44MPEG-4/HD,813.0,4076 V,tp LM16C,37.1-39.1,,,False,Sanskar TV,5/6,3906,DVB-S3,Eng
+,China Radio International,1-10,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+1,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+2,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+3,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+4,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+5,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+6,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+7,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+8,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+9,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+10,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+11,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+12,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+13,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+14,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+15,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+16,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+17,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+19,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+20,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+21,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+33,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+34,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+35,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+36,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+37,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+38,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+39,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+40,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+41,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+42,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+43,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+44,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+45,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+46,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+47,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+48,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+49,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+50,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+51,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+52,China Radio International,,,4083 V,tp LM18C,37.1-39.1,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3550,DVB-S3,
+1100,Travelxp HD,MPEG-4/HD,101.0,4090 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,14368,DVB-S2,Eng Hin Ben Tam
+1110,Travelxp HD,MPEG-4/SD,1101.0,4090 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,14368,DVB-S2,Hin Eng Ben
+1102,Kashish News,MPEG-4/SD,301.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,Hin
+1103,1S News,MPEG-4/SD,401.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,
+1106,STV Haryana News,MPEG-4/SD,701.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,
+1107,Travelxp Tamil,MPEG-4/SD,801.0,4090 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,14368,DVB-S2,Tam
+1108,Sangeet Marathi,MPEG-4/SD,901.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,Mar
+1109,VTV Gujarati,MPEG-4/SD,1001.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,Guj
+1111,Hi Dost!,MPEG-4/SD,1201.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,Eng
+1112,Woman,MPEG-4/SD,1301.0,4090 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,14368,DVB-S2,Eng
+1113,Foodxp,MPEG-4/SD,1401.0,4090 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,14368,DVB-S2,Hin
+1114,Bhojpuri Cinema,MPEG-4/SD,1501.0,4090 H,tp LM17C,37.1-39.1,,,False,China Radio International,3/4,14368,DVB-S2,Bho
+1,YTN World,65535-1MPEG-2/SD,308.0,4092 V,tp LM18C,37.1-39.1,,,False,China Radio International,3/4,2963,DVB-S2,Kor
+26105,CNN News 18,MPEG-4/SD,512.0,4103 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,5720,DVB-S2,Eng
+26106,News 18,MPEG-4/SD,513.0,4103 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,5720,DVB-S2,Eng
+26110,News 18 UK,MPEG-4/SD,516.0,4103 H,tp LM17C,37.1-39.1,Irdeto,,False,China Radio International,3/4,5720,DVB-S2,Eng
+80,Zee News,1-51MPEG-4/HD,4172.0,4103 V,tp LM18C,37.1-39.1,Conax,,False,China Radio International,3/4,7200,DVB-S2,Hin
+,,1-1,,4115 H,tp LM19C,37.1-39.1,,,False,China Radio International,3/4,7200,DVB-S2,
+,,,,12574 V,tp 27K,44.8-45.8,,,False,China Radio International,,,,
+,,,,12682 H,tp 34K,44.8-45.8,,,False,China Radio International,,,,
+1,NTV (India),MPEG-4/SD,101.0,4115 H,tp LM19C,37.1-39.1,,,False,China Radio International,3/4,7200,DVB-S2,Tel
+2,Bhakthi TV,MPEG-4/SD,201.0,4115 H,tp LM19C,37.1-39.1,,,False,China Radio International,3/4,7200,DVB-S2,Tel
+3,Vanitha TV,MPEG-4/SD,301.0,4115 H,tp LM19C,37.1-39.1,,,False,China Radio International,3/4,7200,DVB-S2,Tel
+1,PTC News,MPEG-4/SD,201.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+2,PTC Punjabi,MPEG-4/SD,202.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+3,PTC Chakde,MPEG-4/SD,203.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+4,PTC Punjabi Gold,MPEG-4/SD,204.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+9,Oscar Movies Bhojpuri,MPEG-4/SD,209.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Bho
+10,PTC Simran,MPEG-4/SD,210.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+11,PTC Music,MPEG-4/SD,211.0,4116 V,tp LM20C,37.1-39.1,,,False,China Radio International,5/6,8800,DVB-S2,Pan
+,NHK World Network,1-1,,4128 H,tp LM19C,37.1-39.1,,https://www.lyngsat.com/providers/jp/NHK-World-Network.html,True,NHK World Network,2/3,14890,DVB-S2,
+11,NHK World Japan,MPEG-4/HD,1160.0,4128 H,tp LM19C,37.1-39.1,,,False,NHK World Network,2/3,14890,DVB-S2,Eng
+31,NHK World Premium,MPEG-4/HD,1360.0,4128 H,tp LM19C,37.1-39.1,Conax,,False,NHK World Network,2/3,14890,DVB-S2,Eng Jpn
+51,NHK World Japan Radio,,,4128 H,tp LM19C,37.1-39.1,,,False,NHK World Network,2/3,14890,DVB-S2,
+61,NHK World Japan Radio,,,4128 H,tp LM19C,37.1-39.1,,,False,NHK World Network,2/3,14890,DVB-S2,
+71,NHK World Japan Radio,,,4128 H,tp LM19C,37.1-39.1,,,False,NHK World Network,2/3,14890,DVB-S2,
+,Jaya Network,1-1,,4130 V,tp LM20C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/Jaya-Network.html,True,Jaya Network,3/4,12800,DVB-S2,
+1,Jaya Plus,MPEG-4/SD,513.0,4130 V,tp LM20C,37.1-39.1,Irdeto,,False,Jaya Network,3/4,12800,DVB-S2,Tam
+2,Jaya TV (India),MPEG-4/HD,4194.0,4130 V,tp LM20C,37.1-39.1,Irdeto,,False,Jaya Network,3/4,12800,DVB-S2,Tam
+3,Jaya Max,MPEG-4/SD,514.0,4130 V,tp LM20C,37.1-39.1,Irdeto,,False,Jaya Network,3/4,12800,DVB-S2,Tam
+,Du,1-1,,4150 H,tp LM21C,37.1-39.1,,https://www.lyngsat.com/providers/ae/Du.html,True,Du,3/4,14400,DVB-S2,
+1,Urdu 1 Middle East,MPEG-4/SD,1001.0,4150 H,tp LM21C,37.1-39.1,Irdeto,,False,Du,3/4,14400,DVB-S2,Urd
+2,Peace TV English,MPEG-4/HD,1201.0,4150 H,tp LM21C,37.1-39.1,,,False,Du,3/4,14400,DVB-S2,Eng
+3,Peace TV Urdu,MPEG-4/HD,1301.0,4150 H,tp LM21C,37.1-39.1,,,False,Du,3/4,14400,DVB-S2,Urd
+4,Peace TV Bangla,MPEG-4/HD,1401.0,4150 H,tp LM21C,37.1-39.1,,,False,Du,3/4,14400,DVB-S2,Ben
+5,Peace TV Chinese,MPEG-4/HD,1501.0,4150 H,tp LM21C,37.1-39.1,,,False,Du,3/4,14400,DVB-S2,Chi
+6,Huda TV,MPEG-4/HD,1601.0,4150 H,tp LM21C,37.1-39.1,,,False,Du,3/4,14400,DVB-S2,Eng
+52,Zee Cinema Asia,MPEG-4/HD,302.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Hin Hin
+53,Zee TV India,MPEG-4/HD,307.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Hin Hin
+55,Zee Anmol,MPEG-4/SD,412.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Hin
+56,& pictures,MPEG-4/HD,422.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Hin Hin
+59,Zee Marathi,MPEG-4/HD,3472.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Mar
+67,Zee Telugu,MPEG-4/HD,3662.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Tel
+68,Zee Kannada,MPEG-4/HD,3672.0,4155 V,tp LM22C,37.1-39.1,Conax,,False,Du,5/6,22500,DVB-S2,Kan
+61,WION,MPEG-4/SD,3482.0,4163 H,tp LM21C,37.1-39.1,Conax,,False,Du,3/4,7500,DVB-S2,Eng
+62,EZMall,MPEG-4/SD,3487.0,4163 H,tp LM21C,37.1-39.1,,,False,Du,3/4,7500,DVB-S2,
+63,Zee 24 Kalak,MPEG-4/SD,3492.0,4163 H,tp LM21C,37.1-39.1,,,False,Du,3/4,7500,DVB-S2,Guj
+64,Zee Salaam,MPEG-4/SD,3587.0,4163 H,tp LM21C,37.1-39.1,,,False,Du,3/4,7500,DVB-S2,Urd
+66,Zee Uttar Pradesh Uttarakhand,MPEG-4/SD,4122.0,4163 H,tp LM21C,37.1-39.1,,,False,Du,3/4,7500,DVB-S2,
+,India Today Group,65535-1,,4182 H,tp LM23C,37.1-39.1,Irdeto,https://www.lyngsat.com/providers/in/India-Today-Group.html,True,India Today Group,3/4,16296,DVB-S1,
+1,Aaj Tak,MPEG-4/SD,512.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Hin
+10,Aaj Tak,MPEG-4/HD,524.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Hin
+2,India Today,MPEG-4/SD,513.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Eng
+3,Good News Today,MPEG-4/SD,514.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,
+7,Aaj Tak International,MPEG-4/SD,521.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Hin
+8,India Today International,MPEG-4/SD,522.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Eng
+9,Aaj Tak UK,MPEG-4/SD,523.0,4182 H,tp LM23C,37.1-39.1,Irdeto,,False,India Today Group,3/4,16296,DVB-S1,Hin
+,Planetcast,1-1,,4184 V,tp LM24C,37.1-39.1,,https://www.lyngsat.com/providers/in/Planetcast.html,True,Planetcast,8/9,21600,DVB-S2,
+2,Sahana News,MPEG-4/SD,201.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+4,News 1st (India),MPEG-4/SD,401.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Kan
+5,Channel 36 UP/UK,MPEG-4/SD,501.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+7,News India 24x7,MPEG-4/SD,701.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Hin
+13,Anjan TV,MPEG-4/SD,1301.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Hin
+14,Food Food,MPEG-4/SD,1401.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+15,1 Yes News,MPEG-4/SD,1501.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+17,Bharat Express,MPEG-4/SD,1701.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Hin
+18,Swadesh News,MPEG-4/SD,1801.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+20,India Ahead,MPEG-4/SD,901.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Eng
+21,Aadinath TV,MPEG-4/SD,2101.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+23,Republic TV,MPEG-4/SD,2301.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Eng Eng
+36,Jai Maharashtra,MPEG-4/SD,3601.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Mar
+37,Republic Bangla,MPEG-4/SD,3701.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Ben
+39,1st India,MPEG-4/SD,3901.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+40,Bharat 24,MPEG-4/SD,4001.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+42,M Nadu TV,MPEG-4/SD,4201.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,
+51,TV 9 Bharatvarsh,MPEG-4/SD,5101.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Hin
+52,TV 9 Telugu,MPEG-4/SD,5201.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Tel
+53,TV 9 Kannada,MPEG-4/SD,5301.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Kan
+54,TV 9 Gujarati,MPEG-4/SD,5401.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Guj
+55,TV 9 Marathi,MPEG-4/SD,5501.0,4184 V,tp LM24C,37.1-39.1,,,False,Planetcast,8/9,21600,DVB-S2,Mar
+1,Sky News International,201-1MPEG-2/SD,1760.0,4195 H,tp LM23C,37.1-39.1,PowerVu,,False,Planetcast,1/2,4000,DVB-S2,Eng
+,DSTV South Africa,6144-2,,10970 V,tp 1K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-22,,10970 H,tp 2K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-16,,11010 V,tp 3K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-19,,11010 H,tp 4K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-23,,11050 V,tp 5K,0,Irdeto,,False,Planetcast,2/3,30000,DVB-S2,
+,DSTV South Africa,6144-11,,11050 H,tp 6K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-4,,11090 V,tp 7K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-13,,11090 H,tp 8K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-3,,11130 V,tp 9K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-10,,11130 H,tp 10K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-21,,11170 H,tp 12K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-136,,11474 H,tp 14K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-14,,11514 H,tp 16K,0,Irdeto,,False,Planetcast,2/3,30000,DVB-S2,
+,DSTV South Africa,6144-12,,11554 V,tp 17K,0,Irdeto,,False,Planetcast,2/3,30000,DVB-S2,
+,DSTV South Africa,6144-15,,11554 H,tp 18K,0,Irdeto,,False,Planetcast,2/3,30000,DVB-S2,
+,DSTV South Africa,6144-20,,11594 V,tp 19K,0,Irdeto,,False,Planetcast,5/6,27500,DVB-S2,
+,DSTV South Africa,6144-6,,11594 H,tp 20K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-5,,11634 V,tp 21K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-17,,11634 H,tp 22K,0,,,False,Planetcast,5/6,30000,DVB-S3,
+,DSTV South Africa,6144-24,,11674 V,tp 23K,0,,,False,Planetcast,2/3,30000,DVB-S2,
+,DSTV South Africa,6144-18,,11674 H,tp 24K,0,Irdeto,,False,Planetcast,5/6,30000,DVB-S3,
+1613,DSTV South Africa Dish on TV Guide,MPEG-2/SD,2010.0,11010 V,tp 3K,0,,,False,Planetcast,5/6,30000,DVB-S3,Eng
+,Openview,73-1,,11170 V,tp 11K,0,"Nagravision,Videoguard",,False,Planetcast,5/6,28750,DVB-S2,
+8800,Openview promo,MPEG-4/SD,4501.0,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8823,Heart FM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8824,Gagasi FM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,
+8825,OFM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8827,Kaya 959,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8828,Radio Pulpit,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8839,East Coast Radio,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8840,Smile 90.4 FM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8842,YFM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+8862,Jacaranda FM,,,11170 V,tp 11K,0,,,False,Planetcast,5/6,28750,DVB-S2,Eng
+,Sentech,73-3,,11474 V,tp 13K,0,Nagravision,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-3,,11474 V,tp 13K,0,Nagravision,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-3,,11474 V,tp 13K,0,Nagravision,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-3,,11474 V,tp 13K,0,Nagravision,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-4,,11514 V,tp 15K,0,"Nagravision,Videoguard",https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-4,,11514 V,tp 15K,0,"Nagravision,Videoguard",https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-4,,11514 V,tp 15K,0,"Nagravision,Videoguard",https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-4,,11514 V,tp 15K,0,"Nagravision,Videoguard",https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,5/6,28750,DVB-S2,
+,Sentech,73-5,,12682 V,tp 33K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,2/3,30000,DVB-S3,
+,Sentech,73-5,,12682 V,tp 33K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,2/3,30000,DVB-S3,
+,Sentech,73-5,,12682 V,tp 33K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,2/3,30000,DVB-S3,
+,Sentech,73-5,,12682 V,tp 33K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,2/3,30000,DVB-S3,
+,Sentech,73-2,,12722 V,tp 35K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,1/2,26657,DVB-S2,
+,Sentech,73-2,,12722 V,tp 35K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,1/2,26657,DVB-S2,
+,Sentech,73-2,,12722 V,tp 35K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,1/2,26657,DVB-S2,
+,Sentech,73-2,,12722 V,tp 35K,44.8-45.8,,https://www.lyngsat.com/providers/za/Sentech.html,True,Sentech,1/2,26657,DVB-S2,
+1020,[GoTV South Africa info card],MPEG-4/HD,289.0,11474 V,tp 13K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+2000,E TV,MPEG-4/HD,1022.0,11474 V,tp 13K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+504,E TV,MPEG-4/SD,1131.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+2003,E Extra,MPEG-4/HD,2032.0,11474 V,tp 13K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+2004,E Movies,MPEG-4/HD,2042.0,11474 V,tp 13K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+2005,E Toonz,MPEG-4/HD,2052.0,11474 V,tp 13K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+4451,Faith,MPEG-4/SD,1231.0,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+4481,1KZN TV,MPEG-4/SD,3033.0,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+347,S FM,,,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Afr
+4451,Radio 2000 (South Africa),,,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+600,Radio 2000 (South Africa),,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+4462,Umhlobo Wenene FM,,,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Xho
+610,Umhlobo Wenene FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Xho
+4471,Motsweding FM,,,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Tsn
+612,Motsweding FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Tsn
+4491,5 FM,,,11474 V,tp 13K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+605,5 FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+107,SABC Education,MPEG-4/SD,1162.0,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+108,[SABC Variety info card],MPEG-4/SD,1465.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+110,SABC Lehae,MPEG-4/SD,1441.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,
+111,SABC 1,MPEG-4/HD,34.0,11514 V,tp 15K,0,"Nagravision,Videoguard",,False,Sentech,5/6,28750,DVB-S2,Eng
+501,SABC 1,MPEG-4/SD,3005.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+112,SABC 2,MPEG-4/HD,44.0,11514 V,tp 15K,0,"Nagravision,Videoguard",,False,Sentech,5/6,28750,DVB-S2,Eng
+502,SABC 2,MPEG-4/SD,1111.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+113,SABC 3,MPEG-4/HD,53.0,11514 V,tp 15K,0,"Nagravision,Videoguard",,False,Sentech,5/6,28750,DVB-S2,Eng
+503,SABC 3,MPEG-4/SD,3013.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+114,SABC Sport,MPEG-4/HD,60.0,11514 V,tp 15K,0,"Nagravision,Videoguard",,False,Sentech,5/6,28750,DVB-S2,Eng
+201,[Sentech Bua Africa info card],MPEG-4/SD,80.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,
+505,Parliament TV (South Africa),MPEG-4/SD,3021.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+510,Gallop TV,MPEG-4/HD,3040.0,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+516,SABC Festive,MPEG-4/SD,1425.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+556,Kruiskyk TV,MPEG-4/SD,3265.0,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Afr
+621,Soweto TV,MPEG-4/SD,3484.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+623,Cape Town TV,MPEG-4/HD,2059.0,11514 V,tp 15K,0,Nagravision,,False,Sentech,5/6,28750,DVB-S2,Eng
+329,Tag Heuer Store,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+551,Jet FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+553,Jet Mart FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+601,Metro FM (South Africa),,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+602,Good Hope FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+603,RSG,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Afr
+604,Channel Africa,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,
+327,Channel Africa,,,12722 V,tp 35K,44.8-45.8,,,False,Sentech,1/2,26657,DVB-S2,
+606,Lesedi FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Sot
+607,Lotus FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+608,Ukhozi FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Zul
+609,SA FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+611,Thobela FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Nso
+613,Munghana Lonene FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Tso
+614,Phalaphala FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Ven
+615,Ligwalagwala FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Ssw
+616,Ikwekwezi FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Nbl
+617,Tru FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+618,XK FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,
+650,Ackermans Stores,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+651,Vodafone Stores,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+654,Clicks Stores,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+655,Fusion FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+656,Game Store,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+660,Pep Stores,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+661,Edgars Stores,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+662,Edgars Premium,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+669,Fresh FM (South Africa),,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+670,Vuma FM,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+671,Builders Radio,,,11514 V,tp 15K,0,,,False,Sentech,5/6,28750,DVB-S2,Eng
+1789,[HG VOD test card],MPEG-4/HD,2199.0,11634 H,tp 22K,0,,,False,Sentech,5/6,30000,DVB-S3,
+3410,[NG Compact info card],MPEG-4/HD,3050.0,11674 V,tp 23K,0,,,False,Sentech,2/3,30000,DVB-S2,
+,Satelio,73-6,,12522 V,tp 25K,44.8-45.8,,https://www.lyngsat.com/providers/de/Satelio.html,True,Satelio,3/4,27500,DVB-S2,
+50550,Supreme Master TV,MPEG-2/SD,5501.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50551,AMI TV,MPEG-4/HD,5511.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50562,Ezekiel TV,MPEG-4/HD,5621.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50565,Emmanuel TV,MPEG-4/HD,5651.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50567,Christ TV (Zimbabwe),MPEG-4/SD,5671.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50800,Angel TV Africa,MPEG-2/SD,8001.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50801,New Apostolic Church TV,MPEG-4/SD,7011.0,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,Eng
+50577,Markaz Sahaba Radio,,,12522 V,tp 25K,44.8-45.8,,,False,Satelio,3/4,27500,DVB-S2,
+1,More TV promo,MPEG-4/SD,769.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+3,Channels TV,MPEG-4/SD,771.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+4,AIT National,MPEG-4/SD,772.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+5,Church Unusual TV tests,MPEG-4/SD,773.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+6,TVC (Nigeria),MPEG-4/SD,774.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+7,TVC News,MPEG-4/SD,775.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+9,SBN International,MPEG-4/SD,777.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+11,Efatha TV,MPEG-4/SD,49.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+13,Bible Explorations TV,MPEG-4/SD,68.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+14,Amazing Facts TV,MPEG-4/SD,78.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+16,TV Novo Tempo Brasil,MPEG-2/SD,716.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Por
+17,Hope Channel Africa,MPEG-2/SD,717.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+18,Hope Channel Tanzania,MPEG-4/SD,718.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+19,Hope Channel Zambia,MPEG-4/HD,719.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+20,Hope Channel Malawi,MPEG-2/SD,720.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+21,Hope Channel Uganda,MPEG-4/HD,721.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+22,Universal,MPEG-4/SD,256.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+23,Universal,MPEG-2/SD,54.0,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+93,Malawi Adventist Radio,,,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+94,Rádio Novo Tempo,,,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Por
+95,Adventist World Radio SID Media,,,12522 H,tp 26K,44.8-45.8,,,False,Satelio,3/4,30000,DVB-S2,Eng
+,ViewMedia,1-1,,12562 H,tp 28K,44.8-45.8,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,5/6,30000,DVB-S2,
+2,Life Center Network,MPEG-4/SD,770.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+3,Homebase TV (South Africa),MPEG-4/SD,259.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+4,LoveWorld Sat,MPEG-4/HD,260.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+5,Flame TV (Nigeria),MPEG-4/SD,773.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+6,Coza TV,MPEG-4/SD,774.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+7,Elohim Global TV,MPEG-4/SD,775.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+8,The Now Network,MPEG-4/SD,776.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+9,Salvation TV (Nigeria),MPEG-4/SD,777.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+10,Ark TV World,MPEG-4/SD,784.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+11,Full Life TV,MPEG-4/SD,785.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+12,Revival TV (USA),MPEG-4/SD,786.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+13,Bride TV,MPEG-4/SD,787.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+14,God TV Africa,MPEG-4/SD,788.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+15,Mogpa TV Plus,MPEG-4/SD,789.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+16,Inspiration TV UK,MPEG-4/SD,790.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+17,Foursquare TV,MPEG-4/SD,791.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+18,Kingdom TV (Mozambique),MPEG-4/SD,792.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Por
+19,Yadah TV,MPEG-4/SD,793.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+20,[Sam TV test card],MPEG-4/SD,800.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,
+21,MFM TV,MPEG-4/SD,801.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+22,Chosen TV English,MPEG-4/SD,802.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+23,Dove TV (Nigeria),MPEG-4/HD,803.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+25,Morning Cloud TV,MPEG-4/SD,805.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+26,Dove Entertainment,MPEG-4/SD,806.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+27,New Vision TV (Nigeria),MPEG-4/SD,807.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+28,Canal CVV International,MPEG-4/SD,808.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+29,IWO TV,MPEG-4/SD,809.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+30,ACNN,MPEG-4/SD,816.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+31,ROV TV,MPEG-4/SD,817.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+32,Revival Channel,MPEG-4/SD,818.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Fre
+34,Miracle TV,MPEG-4/SD,820.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+37,KICC TV,MPEG-4/SD,823.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+38,Apex World News tests,MPEG-4/SD,824.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+39,Synagogue TV,MPEG-4/SD,825.0,12562 H,tp 28K,44.8-45.8,,,False,ViewMedia,5/6,30000,DVB-S2,Eng
+,Botswana mux,1-1,,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,
+32,BTV 1,MPEG-4/SD,1001.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+33,BTV News (Botswana),MPEG-4/SD,2001.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+56,BTV News (Botswana),MPEG-4/1seg,101.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+1,BTV News (Botswana),65535-1MPEG-2/SD,308.0,12657 V,tp 31K,44.8-45.8,,,False,ViewMedia,3/4,4883,DVB-S4,Eng
+35,France 24 English,MPEG-4/SD,4001.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+36,BTV 2 (Botswana),MPEG-4/SD,1022.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+37,YTV,MPEG-4/SD,1012.0,12634 V,tp 31K,44.8-45.8,,,False,ViewMedia,5/6,16170,DVB-S2,Eng
+,IRIB,3622-1,,12639 H,tp 32K,44.8-45.8,,https://www.lyngsat.com/providers/ir/IRIB.html,True,IRIB,1/2,7794,DVB-S7,
+805,Press TV,MPEG-2/SD,8050.0,12639 H,tp 32K,44.8-45.8,,,False,IRIB,1/2,7794,DVB-S7,Eng
+806,IFilm English,MPEG-2/SD,8060.0,12639 H,tp 32K,44.8-45.8,,,False,IRIB,1/2,7794,DVB-S7,Eng
+807,IRIB World Service Radio 6,,,12639 H,tp 32K,44.8-45.8,,,False,IRIB,1/2,7794,DVB-S7,
+1,Radio Botswana 1,,,12657 V,tp 31K,44.8-45.8,,,False,IRIB,3/4,4883,DVB-S4,
+1,Radio Botswana 2,,,12657 V,tp 31K,44.8-45.8,,,False,IRIB,3/4,4883,DVB-S4,
+117,Meriba TV,MPEG-4/SD,1468.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+127,Encounter Jesus TV,MPEG-4/SD,3001.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+132,Master's TV,MPEG-4/SD,1497.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+203,Celebration TV,MPEG-4/SD,1813.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+212,Dunamis TV,MPEG-4/SD,1849.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+217,Remite TV,MPEG-4/SD,43.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+222,New Jerusalem Broadcasts,MPEG-4/SD,1889.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,
+232,Divine Hand TV,MPEG-4/SD,1928.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+234,Ebenezer TV (Mozambique),MPEG-4/HD,1937.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Por
+241,Temple TV,MPEG-2/SD,1965.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+244,Nixsat promo,MPEG-4/SD,1976.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+258,Encounter TV,MPEG-4/SD,2033.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+261,Gracehill TV,MPEG-4/SD,37.0,12682 V,tp 33K,44.8-45.8,,,False,IRIB,2/3,30000,DVB-S3,Eng
+102,UBN,MPEG-4/SD,4146.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+105,Prophetic Channel,MPEG-2/SD,1421.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+106,Free Indeed TV,MPEG-2/SD,1425.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+109,Mercy TV Plus,MPEG-2/SD,1436.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+125,Kingdom Life Network,MPEG-2/SD,1501.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+131,Redemption TV Ministry,MPEG-4/SD,1525.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+207,Champions TV Plus,MPEG-2/SD,101.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+224,APTIM TV,MPEG-2/SD,1898.0,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+321,Cii Radio,,,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+322,Salaam Media,,,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng
+323,Radio Islam International,,,12722 V,tp 35K,44.8-45.8,,,False,IRIB,1/2,26657,DVB-S2,Eng

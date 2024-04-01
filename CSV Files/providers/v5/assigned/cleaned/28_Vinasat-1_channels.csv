@@ -1,0 +1,155 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,(VTV feeds),,,3475 V,tp 2V,,,,,,False,,3/4,3000,DVB-S3,,
+,(feeds),,,3493 H,tp 2H,,,,,,False,,3/4,1600,DVB-S1,,
+,(feeds),,,3569 V,tp 5V,,,,,,False,,500,8,DVB-S2,,
+,[PANP 2 test card],MPEG-2/SD,308.0,3798 H,,,,,,,False,,3/4,1550,DVB-S1,,
+,VTC Digital,12901-8,,10968 H,tp 1,,Irdeto,,,,False,,3/4,28800,DVB-S2,,
+,VTC Digital,,,11008 H,tp 2,,Irdeto,,,,False,,3/4,14400,DVB-S2,,
+,VTC Digital,12901-16,,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,,
+801.0,VTC Digital promo,MPEG-4/SD,601.0,10968 H,tp 1,,,,,,False,,3/4,28800,DVB-S2,Vie,
+805.0,Quang Ninh TV 1,MPEG-4/HD,605.0,10968 H,tp 1,,,,Quang Ninh TV 1,https://www.lyngsat.com/tvchannels/vn/Quang-Ninh-TV-1.html,False,,3/4,28800,DVB-S2,Vie,vn
+806.0,Quang Ninh TV 3,MPEG-4/HD,606.0,10968 H,tp 1,,,,Quang Ninh TV 3,https://www.lyngsat.com/tvchannels/vn/Quang-Ninh-TV-3.html,False,,3/4,28800,DVB-S2,Vie,vn
+807.0,Quoc Hoi TV,MPEG-4/HD,607.0,10968 H,tp 1,,,,Quoc Hoi TV,https://www.lyngsat.com/tvchannels/vn/Quoc-Hoi-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+819.0,Nhan Dan TV,MPEG-4/HD,619.0,10968 H,tp 1,,,,Nhan Dan TV,https://www.lyngsat.com/tvchannels/vn/Nhan-Dan-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+819.0,Nhan Dan TV,MPEG-4/HD,619.0,10968 H,tp 1,,,,Nhan Dan TV,https://www.lyngsat.com/tvchannels/vn/Nhan-Dan-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+820.0,V News,MPEG-4/HD,620.0,10968 H,tp 1,,,,V News,https://www.lyngsat.com/tvchannels/vn/V-News.html,False,,3/4,28800,DVB-S2,Vie,vn
+820.0,V News,MPEG-4/HD,620.0,10968 H,tp 1,,,,V News,https://www.lyngsat.com/tvchannels/vn/V-News.html,False,,3/4,28800,DVB-S2,Vie,vn
+821.0,Vinh Long TV 1,MPEG-4/HD,621.0,10968 H,tp 1,,,,Vinh Long TV 1,https://www.lyngsat.com/tvchannels/vn/Vinh-Long-TV-1.html,False,,3/4,28800,DVB-S2,Vie,vn
+821.0,Vinh Long TV 1,MPEG-4/HD,621.0,10968 H,tp 1,,,,Vinh Long TV 1,https://www.lyngsat.com/tvchannels/vn/Vinh-Long-TV-1.html,False,,3/4,28800,DVB-S2,Vie,vn
+822.0,Vinh Long TV 2,MPEG-4/HD,622.0,10968 H,tp 1,,,,Vinh Long TV 2,https://www.lyngsat.com/tvchannels/vn/Vinh-Long-TV-2.html,False,,3/4,28800,DVB-S2,Vie,vn
+822.0,Vinh Long TV 2,MPEG-4/HD,622.0,10968 H,tp 1,,,,Vinh Long TV 2,https://www.lyngsat.com/tvchannels/vn/Vinh-Long-TV-2.html,False,,3/4,28800,DVB-S2,Vie,vn
+823.0,Hai Phong TV,MPEG-4/HD,623.0,10968 H,tp 1,,,,Hai Phong TV,https://www.lyngsat.com/tvchannels/vn/Hai-Phong-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+823.0,Hai Phong TV,MPEG-4/HD,623.0,10968 H,tp 1,,,,Hai Phong TV,https://www.lyngsat.com/tvchannels/vn/Hai-Phong-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+824.0,THP+,MPEG-4/HD,624.0,10968 H,tp 1,,,,THP+,https://www.lyngsat.com/tvchannels/vn/THP-.html,False,,3/4,28800,DVB-S2,Vie,vn
+824.0,THP+,MPEG-4/HD,624.0,10968 H,tp 1,,,,THP+,https://www.lyngsat.com/tvchannels/vn/THP-.html,False,,3/4,28800,DVB-S2,Vie,vn
+826.0,Phu Tho TV,MPEG-4/HD,626.0,10968 H,tp 1,,,,Phu Tho TV,https://www.lyngsat.com/tvchannels/vn/Phu-Tho-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+826.0,Phu Tho TV,MPEG-4/HD,626.0,10968 H,tp 1,,,,Phu Tho TV,https://www.lyngsat.com/tvchannels/vn/Phu-Tho-TV.html,False,,3/4,28800,DVB-S2,Vie,vn
+861.0,Phu Tho Radio,,,10968 H,tp 1,,,,Phu Tho Radio,https://www.lyngsat.com/radiochannels/vn/Phu-Tho-Radio.html,False,,3/4,28800,DVB-S2,Vie,vn
+862.0,Quang Ninh Radio 1,,,10968 H,tp 1,,,,Quang Ninh Radio 1,https://www.lyngsat.com/radiochannels/vn/Quang-Ninh-Radio-1.html,False,,3/4,28800,DVB-S2,Vie,vn
+1003.0,SCJ TV Shopping,MPEG-4/SD,3103.0,11008 H,tp 2,,,,SCJ TV Shopping,https://www.lyngsat.com/tvchannels/kr/SCJ-TV-Shopping.html,False,,3/4,14400,DVB-S2,Vie,kr
+1006.0,[test card],MPEG-4/SD,3106.0,11008 H,tp 2,,,,,,False,,3/4,14400,DVB-S2,,
+1011.0,[test card],MPEG-4/SD,3111.0,11008 H,tp 2,,,,,,False,,3/4,14400,DVB-S2,,
+1627.0,[test card],MPEG-4/SD,227.0,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,,
+1009.0,An Ninh TV,MPEG-4/HD,3109.0,11008 H,tp 2,,,,An Ninh TV,https://www.lyngsat.com/tvchannels/vn/An-Ninh-TV.html,False,,3/4,14400,DVB-S2,Vie,vn
+1009.0,An Ninh TV,MPEG-4/HD,3109.0,11008 H,tp 2,,,,An Ninh TV,https://www.lyngsat.com/tvchannels/vn/An-Ninh-TV.html,False,,3/4,14400,DVB-S2,Vie,vn
+1012.0,QPVN,MPEG-4/HD,3112.0,11008 H,tp 2,,,,QPVN,https://www.lyngsat.com/tvchannels/vn/QPVN.html,False,,3/4,14400,DVB-S2,Vie,vn
+1012.0,QPVN,MPEG-4/HD,3112.0,11008 H,tp 2,,,,QPVN,https://www.lyngsat.com/tvchannels/vn/QPVN.html,False,,3/4,14400,DVB-S2,Vie,vn
+1051.0,VOV 1,,,11008 H,tp 2,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,14400,DVB-S2,Vie,vn
+1051.0,VOV 1,,,11008 H,tp 2,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,14400,DVB-S2,Vie,vn
+1051.0,VOV 1,,,11008 H,tp 2,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,14400,DVB-S2,Vie,vn
+1051.0,VOV 1,,,11008 H,tp 2,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,14400,DVB-S2,Vie,vn
+21.0,VOV 1,,,11549 H,tp 9,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,30000,DVB-S2,Vie,vn
+21.0,VOV 1,,,11549 H,tp 9,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,30000,DVB-S2,Vie,vn
+21.0,VOV 1,,,11549 H,tp 9,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,30000,DVB-S2,Vie,vn
+21.0,VOV 1,,,11549 H,tp 9,,,,VOV 1,https://www.lyngsat.com/radiochannels/vn/VOV-1.html,False,,3/4,30000,DVB-S2,Vie,vn
+1052.0,VOV 2,,,11008 H,tp 2,,,,VOV 2,https://www.lyngsat.com/radiochannels/vn/VOV-2.html,False,,3/4,14400,DVB-S2,Vie,vn
+1052.0,VOV 2,,,11008 H,tp 2,,,,VOV 2,https://www.lyngsat.com/radiochannels/vn/VOV-2.html,False,,3/4,14400,DVB-S2,Vie,vn
+24.0,VOV 2,,,11549 H,tp 9,,,,VOV 2,https://www.lyngsat.com/radiochannels/vn/VOV-2.html,False,,3/4,30000,DVB-S2,Vie,vn
+24.0,VOV 2,,,11549 H,tp 9,,,,VOV 2,https://www.lyngsat.com/radiochannels/vn/VOV-2.html,False,,3/4,30000,DVB-S2,Vie,vn
+1053.0,VOV 3,,,11008 H,tp 2,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,14400,DVB-S2,Vie,vn
+1053.0,VOV 3,,,11008 H,tp 2,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,14400,DVB-S2,Vie,vn
+1053.0,VOV 3,,,11008 H,tp 2,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,14400,DVB-S2,Vie,vn
+1053.0,VOV 3,,,11008 H,tp 2,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,14400,DVB-S2,Vie,vn
+22.0,VOV 3,,,11549 H,tp 9,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,30000,DVB-S2,Vie,vn
+22.0,VOV 3,,,11549 H,tp 9,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,30000,DVB-S2,Vie,vn
+22.0,VOV 3,,,11549 H,tp 9,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,30000,DVB-S2,Vie,vn
+22.0,VOV 3,,,11549 H,tp 9,,,,VOV 3,https://www.lyngsat.com/radiochannels/vn/VOV-3.html,False,,3/4,30000,DVB-S2,Vie,vn
+1581.0,Nghe An TV,MPEG-4/HD,195.0,11472 H,tp 7,,,,Nghe An TV,https://www.lyngsat.com/tvchannels/vn/Nghe-An-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1582.0,HTV 2,MPEG-4/SD,196.0,11472 H,tp 7,,,,HTV 2,https://www.lyngsat.com/tvchannels/vn/HTV-2.html,False,,3/4,23200,DVB-S2,Vie,vn
+1601.0,Lao Cai TV,MPEG-4/SD,201.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1601.0,Lao Cai TV,MPEG-4/SD,201.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1601.0,Lao Cai TV,MPEG-4/SD,201.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1601.0,Lao Cai TV,MPEG-4/SD,201.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1602.0,Lao Cai TV,MPEG-4/HD,202.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1602.0,Lao Cai TV,MPEG-4/HD,202.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1602.0,Lao Cai TV,MPEG-4/HD,202.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1602.0,Lao Cai TV,MPEG-4/HD,202.0,11472 H,tp 7,,,,Lao Cai TV,https://www.lyngsat.com/tvchannels/vn/Lao-Cai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1603.0,Lai Chau TV,MPEG-4/HD,238.0,11472 H,tp 7,,,,Lai Chau TV,https://www.lyngsat.com/tvchannels/vn/Lai-Chau-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1603.0,Lai Chau TV,MPEG-4/HD,238.0,11472 H,tp 7,,,,Lai Chau TV,https://www.lyngsat.com/tvchannels/vn/Lai-Chau-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1604.0,Son La TV,MPEG-4/HD,204.0,11472 H,tp 7,,,,Son La TV,https://www.lyngsat.com/tvchannels/vn/Son-La-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1604.0,Son La TV,MPEG-4/HD,204.0,11472 H,tp 7,,,,Son La TV,https://www.lyngsat.com/tvchannels/vn/Son-La-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1605.0,Ha Giang TV,MPEG-4/HD,205.0,11472 H,tp 7,,,,Ha Giang TV,https://www.lyngsat.com/tvchannels/vn/Ha-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1605.0,Ha Giang TV,MPEG-4/HD,205.0,11472 H,tp 7,,,,Ha Giang TV,https://www.lyngsat.com/tvchannels/vn/Ha-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1606.0,Yen Bai TV,MPEG-4/HD,206.0,11472 H,tp 7,,,,Yen Bai TV,https://www.lyngsat.com/tvchannels/vn/Yen-Bai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1606.0,Yen Bai TV,MPEG-4/HD,206.0,11472 H,tp 7,,,,Yen Bai TV,https://www.lyngsat.com/tvchannels/vn/Yen-Bai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1607.0,Hung Yen TV,MPEG-4/SD,207.0,11472 H,tp 7,,,,Hung Yen TV,https://www.lyngsat.com/tvchannels/vn/Hung-Yen-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1608.0,Tuyen Quang TV,MPEG-4/HD,208.0,11472 H,tp 7,,,,Tuyen Quang TV,https://www.lyngsat.com/tvchannels/vn/Tuyen-Quang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1608.0,Tuyen Quang TV,MPEG-4/HD,208.0,11472 H,tp 7,,,,Tuyen Quang TV,https://www.lyngsat.com/tvchannels/vn/Tuyen-Quang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1609.0,Thai Nguyen TV 1,MPEG-4/HD,209.0,11472 H,tp 7,,,,Thai Nguyen TV 1,https://www.lyngsat.com/tvchannels/vn/Thai-Nguyen-TV-1.html,False,,3/4,23200,DVB-S2,Vie,vn
+1609.0,Thai Nguyen TV 1,MPEG-4/HD,209.0,11472 H,tp 7,,,,Thai Nguyen TV 1,https://www.lyngsat.com/tvchannels/vn/Thai-Nguyen-TV-1.html,False,,3/4,23200,DVB-S2,Vie,vn
+1610.0,Hoa Binh TV,MPEG-4/HD,210.0,11472 H,tp 7,,,,Hoa Binh TV,https://www.lyngsat.com/tvchannels/vn/Hoa-Binh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1610.0,Hoa Binh TV,MPEG-4/HD,210.0,11472 H,tp 7,,,,Hoa Binh TV,https://www.lyngsat.com/tvchannels/vn/Hoa-Binh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1611.0,Bac Kan TV,MPEG-4/HD,211.0,11472 H,tp 7,,,,Bac Kan TV,https://www.lyngsat.com/tvchannels/vn/Bac-Kan-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1612.0,Bac Ninh TV,MPEG-4/HD,212.0,11472 H,tp 7,,,,Bac Ninh TV,https://www.lyngsat.com/tvchannels/vn/Bac-Ninh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1612.0,Bac Ninh TV,MPEG-4/HD,212.0,11472 H,tp 7,,,,Bac Ninh TV,https://www.lyngsat.com/tvchannels/vn/Bac-Ninh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1613.0,Cao Bang TV,MPEG-4/HD,213.0,11472 H,tp 7,,,,Cao Bang TV,https://www.lyngsat.com/tvchannels/vn/Cao-Bang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1614.0,[Hai Phong TV info card],MPEG-4/HD,214.0,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,Vie,
+1615.0,Ninh Binh TV,MPEG-4/HD,215.0,11472 H,tp 7,,,,Ninh Binh TV,https://www.lyngsat.com/tvchannels/vn/Ninh-Binh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1615.0,Ninh Binh TV,MPEG-4/HD,215.0,11472 H,tp 7,,,,Ninh Binh TV,https://www.lyngsat.com/tvchannels/vn/Ninh-Binh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1616.0,Thanh Hoa TV,MPEG-4/SD,216.0,11472 H,tp 7,,,,Thanh Hoa TV,https://www.lyngsat.com/tvchannels/vn/Thanh-Hoa-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1616.0,Thanh Hoa TV,MPEG-4/SD,216.0,11472 H,tp 7,,,,Thanh Hoa TV,https://www.lyngsat.com/tvchannels/vn/Thanh-Hoa-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1617.0,Quang Ngai TV,MPEG-4/HD,217.0,11472 H,tp 7,,,,Quang Ngai TV,https://www.lyngsat.com/tvchannels/vn/Quang-Ngai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1617.0,Quang Ngai TV,MPEG-4/HD,217.0,11472 H,tp 7,,,,Quang Ngai TV,https://www.lyngsat.com/tvchannels/vn/Quang-Ngai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1618.0,Gia Lai TV,MPEG-4/HD,218.0,11472 H,tp 7,,,,Gia Lai TV,https://www.lyngsat.com/tvchannels/vn/Gia-Lai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1618.0,Gia Lai TV,MPEG-4/HD,218.0,11472 H,tp 7,,,,Gia Lai TV,https://www.lyngsat.com/tvchannels/vn/Gia-Lai-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1619.0,Ninh Thuan TV,MPEG-4/SD,219.0,11472 H,tp 7,,,,Ninh Thuan TV,https://www.lyngsat.com/tvchannels/vn/Ninh-Thuan-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1619.0,Ninh Thuan TV,MPEG-4/SD,219.0,11472 H,tp 7,,,,Ninh Thuan TV,https://www.lyngsat.com/tvchannels/vn/Ninh-Thuan-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1620.0,Lam Dong TV,MPEG-4/HD,220.0,11472 H,tp 7,,,,Lam Dong TV,https://www.lyngsat.com/tvchannels/vn/Lam-Dong-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1620.0,Lam Dong TV,MPEG-4/HD,220.0,11472 H,tp 7,,,,Lam Dong TV,https://www.lyngsat.com/tvchannels/vn/Lam-Dong-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1621.0,Ben Tre TV,MPEG-4/HD,221.0,11472 H,tp 7,,,,Ben Tre TV,https://www.lyngsat.com/tvchannels/vn/Ben-Tre-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1621.0,Ben Tre TV,MPEG-4/HD,221.0,11472 H,tp 7,,,,Ben Tre TV,https://www.lyngsat.com/tvchannels/vn/Ben-Tre-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1622.0,Binh Thuan TV,MPEG-4/HD,222.0,11472 H,tp 7,,,,Binh Thuan TV,https://www.lyngsat.com/tvchannels/vn/Binh-Thuan-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1622.0,Binh Thuan TV,MPEG-4/HD,222.0,11472 H,tp 7,,,,Binh Thuan TV,https://www.lyngsat.com/tvchannels/vn/Binh-Thuan-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1623.0,Dien Bien TV,MPEG-4/HD,223.0,11472 H,tp 7,,,,Dien Bien TV,https://www.lyngsat.com/tvchannels/vn/Dien-Bien-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1623.0,Dien Bien TV,MPEG-4/HD,223.0,11472 H,tp 7,,,,Dien Bien TV,https://www.lyngsat.com/tvchannels/vn/Dien-Bien-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1624.0,Dong Nai TV 1,MPEG-4/HD,224.0,11472 H,tp 7,,,,Dong Nai TV 1,https://www.lyngsat.com/tvchannels/vn/Dong-Nai-TV-1.html,False,,3/4,23200,DVB-S2,Vie,vn
+1625.0,Dong Nai TV 2,MPEG-4/HD,225.0,11472 H,tp 7,,,,Dong Nai TV 2,https://www.lyngsat.com/tvchannels/vn/Dong-Nai-TV-2.html,False,,3/4,23200,DVB-S2,Vie,vn
+1626.0,Ba Ria Vung Tau TV,MPEG-4/SD,226.0,11472 H,tp 7,,,,Ba Ria Vung Tau TV,https://www.lyngsat.com/tvchannels/vn/Ba-Ria-Vung-Tau-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1626.0,Ba Ria Vung Tau TV,MPEG-4/SD,226.0,11472 H,tp 7,,,,Ba Ria Vung Tau TV,https://www.lyngsat.com/tvchannels/vn/Ba-Ria-Vung-Tau-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1628.0,Tien Giang TV,MPEG-4/HD,228.0,11472 H,tp 7,,,,Tien Giang TV,https://www.lyngsat.com/tvchannels/vn/Tien-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1628.0,Tien Giang TV,MPEG-4/HD,228.0,11472 H,tp 7,,,,Tien Giang TV,https://www.lyngsat.com/tvchannels/vn/Tien-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1629.0,Tra Vinh TV,MPEG-4/HD,229.0,11472 H,tp 7,,,,Tra Vinh TV,https://www.lyngsat.com/tvchannels/vn/Tra-Vinh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1629.0,Tra Vinh TV,MPEG-4/HD,229.0,11472 H,tp 7,,,,Tra Vinh TV,https://www.lyngsat.com/tvchannels/vn/Tra-Vinh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1630.0,Kien Giang TV,MPEG-4/SD,230.0,11472 H,tp 7,,,,Kien Giang TV,https://www.lyngsat.com/tvchannels/vn/Kien-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1630.0,Kien Giang TV,MPEG-4/SD,230.0,11472 H,tp 7,,,,Kien Giang TV,https://www.lyngsat.com/tvchannels/vn/Kien-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1631.0,Kien Giang TV 1,MPEG-4/SD,231.0,11472 H,tp 7,,,,Kien Giang TV 1,https://www.lyngsat.com/tvchannels/vn/Kien-Giang-TV-1.html,False,,3/4,23200,DVB-S2,Vie,vn
+1631.0,Kien Giang TV 1,MPEG-4/SD,231.0,11472 H,tp 7,,,,Kien Giang TV 1,https://www.lyngsat.com/tvchannels/vn/Kien-Giang-TV-1.html,False,,3/4,23200,DVB-S2,Vie,vn
+1632.0,Quang Binh TV,MPEG-4/HD,232.0,11472 H,tp 7,,,,Quang Binh TV,https://www.lyngsat.com/tvchannels/vn/Quang-Binh-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1633.0,Quang Tri TV,MPEG-4/SD,233.0,11472 H,tp 7,,,,Quang Tri TV,https://www.lyngsat.com/tvchannels/vn/Quang-Tri-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1634.0,Kon Tum TV,MPEG-4/SD,234.0,11472 H,tp 7,,,,Kon Tum TV,https://www.lyngsat.com/tvchannels/vn/Kon-Tum-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1634.0,Kon Tum TV,MPEG-4/SD,234.0,11472 H,tp 7,,,,Kon Tum TV,https://www.lyngsat.com/tvchannels/vn/Kon-Tum-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1635.0,Phu Yen TV,MPEG-4/HD,235.0,11472 H,tp 7,,,,Phu Yen TV,https://www.lyngsat.com/tvchannels/vn/Phu-Yen-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1635.0,Phu Yen TV,MPEG-4/HD,235.0,11472 H,tp 7,,,,Phu Yen TV,https://www.lyngsat.com/tvchannels/vn/Phu-Yen-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1636.0,[Son La TV info card],MPEG-4/SD,236.0,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,Vie,
+1637.0,[Tra Vinh TV info card],MPEG-4/SD,237.0,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,Vie,
+1638.0,An Giang TV,MPEG-4/SD,203.0,11472 H,tp 7,,,,An Giang TV,https://www.lyngsat.com/tvchannels/vn/An-Giang-TV.html,False,,3/4,23200,DVB-S2,Vie,vn
+1639.0,[Dien Bien TV info card],MPEG-4/SD,239.0,11472 H,tp 7,,,,,,False,,3/4,23200,DVB-S2,Vie,
+1651.0,Binh Thuan Radio,,,11472 H,tp 7,,,,Binh Thuan Radio,https://www.lyngsat.com/radiochannels/vn/Binh-Thuan-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1653.0,Thanh Hoa FM,,,11472 H,tp 7,,,,Thanh Hoa FM,https://www.lyngsat.com/radiochannels/vn/Thanh-Hoa-FM.html,False,,3/4,23200,DVB-S2,Vie,vn
+1654.0,Tuyen Quang Radio,,,11472 H,tp 7,,,,Tuyen Quang Radio,https://www.lyngsat.com/radiochannels/vn/Tuyen-Quang-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1654.0,Tuyen Quang Radio,,,11472 H,tp 7,,,,Tuyen Quang Radio,https://www.lyngsat.com/radiochannels/vn/Tuyen-Quang-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1655.0,Yen Bai Radio,,,11472 H,tp 7,,,,Yen Bai Radio,https://www.lyngsat.com/radiochannels/vn/Yen-Bai-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1656.0,Ha Giang Radio,,,11472 H,tp 7,,,,Ha Giang Radio,https://www.lyngsat.com/radiochannels/vn/Ha-Giang-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1657.0,Son La Radio,,,11472 H,tp 7,,,,Son La Radio,https://www.lyngsat.com/radiochannels/vn/Son-La-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1658.0,Quang Ngai Radio,,,11472 H,tp 7,,,,Quang Ngai Radio,https://www.lyngsat.com/radiochannels/vn/Quang-Ngai-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1659.0,Thai Nguyen FM,,,11472 H,tp 7,,,,Thai Nguyen FM,https://www.lyngsat.com/radiochannels/vn/Thai-Nguyen-FM.html,False,,3/4,23200,DVB-S2,Vie,vn
+1661.0,Vung Tau FM,,,11472 H,tp 7,,,,Vung Tau FM,https://www.lyngsat.com/radiochannels/vn/Vung-Tau-FM.html,False,,3/4,23200,DVB-S2,Vie,vn
+1662.0,Lam Dong Radio,,,11472 H,tp 7,,,,Lam Dong Radio,https://www.lyngsat.com/radiochannels/vn/Lam-Dong-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1664.0,Dien Bien Radio,,,11472 H,tp 7,,,,Dien Bien Radio,https://www.lyngsat.com/radiochannels/vn/Dien-Bien-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1665.0,Phu Yen Radio,,,11472 H,tp 7,,,,Phu Yen Radio,https://www.lyngsat.com/radiochannels/vn/Phu-Yen-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1666.0,Lao Cai Radio,,,11472 H,tp 7,,,,Lao Cai Radio,https://www.lyngsat.com/radiochannels/vn/Lao-Cai-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1667.0,Lao Cai Dan Toc Radio,,,11472 H,tp 7,,,,Lao Cai Dan Toc Radio,https://www.lyngsat.com/radiochannels/vn/Lao-Cai-Dan-Toc-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1668.0,Bac Ninh Radio,,,11472 H,tp 7,,,,Bac Ninh Radio,https://www.lyngsat.com/radiochannels/vn/Bac-Ninh-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1669.0,Nghe An Radio,,,11472 H,tp 7,,,,Nghe An Radio,https://www.lyngsat.com/radiochannels/vn/Nghe-An-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1670.0,Kon Tum Radio,,,11472 H,tp 7,,,,Kon Tum Radio,https://www.lyngsat.com/radiochannels/vn/Kon-Tum-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1671.0,Ninh Thuan Radio,,,11472 H,tp 7,,,,Ninh Thuan Radio,https://www.lyngsat.com/radiochannels/vn/Ninh-Thuan-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1672.0,Hoa Binh Radio,,,11472 H,tp 7,,,,Hoa Binh Radio,https://www.lyngsat.com/radiochannels/vn/Hoa-Binh-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1673.0,Lai Chau Radio,,,11472 H,tp 7,,,,Lai Chau Radio,https://www.lyngsat.com/radiochannels/vn/Lai-Chau-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1674.0,Ben Tre Radio,,,11472 H,tp 7,,,,Ben Tre Radio,https://www.lyngsat.com/radiochannels/vn/Ben-Tre-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+1674.0,Ben Tre Radio,,,11472 H,tp 7,,,,Ben Tre Radio,https://www.lyngsat.com/radiochannels/vn/Ben-Tre-Radio.html,False,,3/4,23200,DVB-S2,Vie,vn
+,K+,1-1,,11549 H,tp 9,,Nagravision,,,,False,,3/4,30000,DVB-S2,,
+,K+,1-1000,,11589 H,tp 10,,Nagravision,,,,False,,3/4,28800,DVB-S2,,
+,K+,1-1100,,11629 H,tp 11,,Nagravision,,,,False,,3/4,30000,DVB-S2,,
+,K+,1-1300,,11669 H,tp 12,,Nagravision,,,,False,,3/4,7500,DVB-S2,,
+6007.0,VTV 1,MPEG-2/SD,1070.0,11549 H,tp 9,,,,VTV 1,https://www.lyngsat.com/tvchannels/vn/VTV-1.html,False,,3/4,30000,DVB-S2,Vie,vn
+6007.0,VTV 1,MPEG-2/SD,1070.0,11549 H,tp 9,,,,VTV 1,https://www.lyngsat.com/tvchannels/vn/VTV-1.html,False,,3/4,30000,DVB-S2,Vie,vn

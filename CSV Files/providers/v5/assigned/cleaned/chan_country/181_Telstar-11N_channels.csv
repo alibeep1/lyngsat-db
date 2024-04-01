@@ -1,0 +1,41 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,(feeds),,,10975 H,tp 1,,,,,,False,,250,23,DVB-S2,,
+,(feeds),,,10978 H,tp 1,,,,,,False,,3/4,3124,DVB-S3,,
+,(feeds),,,10989 V,tp 2,,,,,,False,,3/4,5632,DVB-S5,,
+,(feeds),,,10991 H,tp 1,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,11032 V,tp 4,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,11043 V,tp 4,,,,,,False,,7/8,6666,DVB-S6,,
+,(feeds),,,11455 V,tp 10,,,,,,False,,3/4,24800,DVB-S2,,
+,(feeds),,,11492 V,tp 10,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,11639 V,tp 16A,,,,,,False,,3/5,7500,DVB-S2,,
+,(feeds),,,11676 V,tp 16A,,,,,,False,,3/4,23700,DVB-S2,,
+,(feeds),,,11680 V,tp 16A,,,,,,False,,3/4,23700,DVB-S2,,
+,(feeds),,,11839 V,tp 34,,,,,,False,,125,3,DVB-S3,,
+,(feeds),,,11875 V,tp 34,,,,,,False,,632,5,DVB-S5,,
+,(feeds),,,12504 V,tp 18,,,,,,False,,7/8,3400,DVB-S3,,
+,(feeds),,,12510 V,tp 28A,,,,,,False,,3/4,25833,DVB-S2,,
+,(feeds),,,12524 V,tp 18,,,,,,False,,600,3,DVB-S3,,
+,(feeds),,,12533 V,tp 18,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,12542 V,tp 18,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,12543 V,tp 28A,,,,,,False,,3/4,3500,DVB-S3,,
+,(feeds),,,12584 V,tp 20,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,12595 V,tp 20,,,,,,False,,3/4,3750,DVB-S3,,
+,(feeds),,,12614 V,tp 20,,,,,,False,,5/6,3750,DVB-S3,,
+,(feeds),,,12674 V,tp 22,,,,,,False,,5/6,7500,DVB-S7,,
+,(feeds),,,12692 V,tp 24,,,,,,False,,3/4,3124,DVB-S2,,
+,(feeds),,,12701 V,tp 24,,,,,,False,,500,7,DVB-S7,,
+,(feeds),,,12710 V,tp 24,,,,,,False,,5/6,7500,DVB-S2,,
+,(feeds),,,12717 V,tp 24,,,,,,False,,3/4,6620,DVB-S6,,
+,(feeds),,,12731 H,,,,,,,False,,3/4,29230,DVB-S2,,
+,SES,,,11482 H,tp 9A,0.0,BISS,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,5/6,11970,DVB-S1,,
+1.0,RR Media promo,MPEG-2/SD,2001.0,11482 H,tp 9A,0.0,,,,,False,SES,5/6,11970,DVB-S1,Eng,
+2.0,Record News,MPEG-2/SD,2002.0,11482 H,tp 9A,0.0,BISS,,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,False,SES,5/6,11970,DVB-S1,Por,br
+2.0,Record News,MPEG-2/SD,2002.0,11482 H,tp 9A,0.0,BISS,,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,False,SES,5/6,11970,DVB-S1,Por,br
+3.0,(Telemedia feeds),,2003.0,11482 H,tp 9A,0.0,,,,,False,SES,5/6,11970,DVB-S1,,
+4.0,Band Internacional,MPEG-2/SD,2004.0,11482 H,tp 9A,0.0,,,Band Internacional,https://www.lyngsat.com/tvchannels/br/Band-Internacional.html,False,SES,5/6,11970,DVB-S1,Por,br
+5.0,Band News,MPEG-2/SD,2005.0,11482 H,tp 9A,0.0,,,Band News,https://www.lyngsat.com/tvchannels/br/Band-News.html,False,SES,5/6,11970,DVB-S1,Por,br
+6.0,Woohoo,MPEG-2/SD,2006.0,11482 H,tp 9A,0.0,,,Woohoo,https://www.lyngsat.com/tvchannels/br/Woohoo.html,False,SES,5/6,11970,DVB-S1,Por,br
+10.0,[Telemedia test card],MPEG-2/SD,2010.0,11482 H,tp 9A,0.0,,,,,False,SES,5/6,11970,DVB-S1,,
+11.0,Apostolic Oneness Network,MPEG-2/SD,2011.0,11482 H,tp 9A,0.0,,,Apostolic Oneness Network,https://www.lyngsat.com/tvchannels/us/Apostolic-Oneness-Network.html,False,SES,5/6,11970,DVB-S1,Eng,us
+,@ TeleSkies,,,12515 H,tp 17A,,,,,,False,SES,7/8,3460,DVB-S3,,
+1302.0,@ STM,65281-801,,12517 V,tp 18,,,,,,False,SES,800,10,DVB-S2,,

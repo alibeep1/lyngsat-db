@@ -1,0 +1,82 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,RTRS 1,,,3662 R,,,,https://www.lyngsat.com/providers/ru/RTRS-1.html,,,True,RTRS 1,P 0,,DVB-S2,,
+,RTRS 1,,,3662 R,,,,https://www.lyngsat.com/providers/ru/RTRS-1.html,,,True,RTRS 1,P 0,,DVB-S2,,
+,RTRS 1,,,3714 R,,,,https://www.lyngsat.com/providers/ru/RTRS-1.html,,,True,RTRS 1,P 0,,DVB-S2,,
+,RTRS 1,,,3714 R,,,,https://www.lyngsat.com/providers/ru/RTRS-1.html,,,True,RTRS 1,P 0,,DVB-S2,,
+1010.0,Perviy kanal (+9h),MPEG-4/SD,1011.0,3662 R,,,GoSTcrypt,,Perviy kanal (+9h),https://www.lyngsat.com/tvchannels/ru/Perviy-kanal.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1010.0,Perviy kanal (+9h),MPEG-4/SD,1011.0,3662 R,,,GoSTcrypt,,Perviy kanal (+9h),https://www.lyngsat.com/tvchannels/ru/Perviy-kanal.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1030.0,Match!,MPEG-4/SD,1031.0,3662 R,,,GoSTcrypt,,Match!,https://www.lyngsat.com/tvchannels/ru/Match.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1030.0,Match!,MPEG-4/SD,1031.0,3662 R,,,GoSTcrypt,,Match!,https://www.lyngsat.com/tvchannels/ru/Match.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1030.0,Match!,MPEG-4/SD,1031.0,3714 R,,,GoSTcrypt,,Match!,https://www.lyngsat.com/tvchannels/ru/Match.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1030.0,Match!,MPEG-4/SD,1031.0,3714 R,,,GoSTcrypt,,Match!,https://www.lyngsat.com/tvchannels/ru/Match.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1040.0,NTV (+9h),MPEG-4/SD,1041.0,3662 R,,,,,NTV (+9h),https://www.lyngsat.com/tvchannels/ru/NTV.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1040.0,NTV (+9h),MPEG-4/SD,1041.0,3662 R,,,,,NTV (+9h),https://www.lyngsat.com/tvchannels/ru/NTV.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1050.0,5 Kanal (+9h),MPEG-4/SD,1051.0,3662 R,,,,,5 Kanal (+9h),https://www.lyngsat.com/tvchannels/ru/5-Kanal.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1060.0,Rossiya K (+9h),MPEG-4/SD,1061.0,3662 R,,,,,Rossiya K (+9h),https://www.lyngsat.com/tvchannels/ru/Rossiya-K.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1080.0,Karusel (+9h),MPEG-4/SD,1081.0,3662 R,,,,,Karusel (+9h),https://www.lyngsat.com/tvchannels/ru/Karusel.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1100.0,TV Centr Dal'nii Vostok,MPEG-4/SD,1101.0,3662 R,,,,,TV Centr Dal'nii Vostok,https://www.lyngsat.com/tvchannels/ru/TV-Centr-Dalnii-Vostok.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1100.0,TV Centr Dal'nii Vostok,MPEG-4/SD,1101.0,3662 R,,,,,TV Centr Dal'nii Vostok,https://www.lyngsat.com/tvchannels/ru/TV-Centr-Dalnii-Vostok.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1100.0,TV Centr Dal'nii Vostok,MPEG-4/SD,1101.0,3714 R,,,,,TV Centr Dal'nii Vostok,https://www.lyngsat.com/tvchannels/ru/TV-Centr-Dalnii-Vostok.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1100.0,TV Centr Dal'nii Vostok,MPEG-4/SD,1101.0,3714 R,,,,,TV Centr Dal'nii Vostok,https://www.lyngsat.com/tvchannels/ru/TV-Centr-Dalnii-Vostok.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3662 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3662 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3662 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3662 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3714 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3714 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3714 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1110.0,Vesti FM,,,3714 R,,,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3662 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3662 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3662 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3662 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3714 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3714 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3714 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+1120.0,Radio Mayak,,,3714 R,,,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,False,RTRS 1,P 0,,DVB-S2,Rus,ru
+,RTRS,,,3662 R,,,,https://www.lyngsat.com/providers/ru/RTRS.html,,,True,RTRS,P 1,,DVB-S2,,
+,RTRS,,,3662 R,,,,https://www.lyngsat.com/providers/ru/RTRS.html,,,True,RTRS,P 1,,DVB-S2,,
+,RTRS,,,3714 R,,,,https://www.lyngsat.com/providers/ru/RTRS.html,,,True,RTRS,P 1,,DVB-S2,,
+,RTRS,,,3714 R,,,,https://www.lyngsat.com/providers/ru/RTRS.html,,,True,RTRS,P 1,,DVB-S2,,
+1020.0,Rossiya 1 (+9h),MPEG-4/SD,1021.0,3662 R,,,GoSTcrypt,,Rossiya 1 (+9h),https://www.lyngsat.com/tvchannels/ru/Rossiya-1.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1020.0,Rossiya 1 (+9h),MPEG-4/SD,1021.0,3662 R,,,GoSTcrypt,,Rossiya 1 (+9h),https://www.lyngsat.com/tvchannels/ru/Rossiya-1.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3662 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3662 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3662 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3662 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3714 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3714 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3714 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3714 R,,,,,Rossiya 24,https://www.lyngsat.com/tvchannels/ru/Rossiya-24.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1090.0,OTR,MPEG-4/SD,1091.0,3662 R,,,,,OTR,https://www.lyngsat.com/tvchannels/ru/OTR.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1090.0,OTR,MPEG-4/SD,1091.0,3662 R,,,,,OTR,https://www.lyngsat.com/tvchannels/ru/OTR.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1090.0,OTR,MPEG-4/SD,1091.0,3714 R,,,,,OTR,https://www.lyngsat.com/tvchannels/ru/OTR.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1090.0,OTR,MPEG-4/SD,1091.0,3714 R,,,,,OTR,https://www.lyngsat.com/tvchannels/ru/OTR.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1130.0,Radio Rossii (+9h),,,3662 R,,,,,Radio Rossii (+9h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1130.0,Radio Rossii (+9h),,,3662 R,,,,,Radio Rossii (+9h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1010.0,Perviy kanal (+8h),MPEG-4/SD,1011.0,3714 R,,,GoSTcrypt,,Perviy kanal (+8h),https://www.lyngsat.com/tvchannels/ru/Perviy-kanal.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1010.0,Perviy kanal (+8h),MPEG-4/SD,1011.0,3714 R,,,GoSTcrypt,,Perviy kanal (+8h),https://www.lyngsat.com/tvchannels/ru/Perviy-kanal.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1040.0,NTV (+8h),MPEG-4/SD,1041.0,3714 R,,,,,NTV (+8h),https://www.lyngsat.com/tvchannels/ru/NTV.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1040.0,NTV (+8h),MPEG-4/SD,1041.0,3714 R,,,,,NTV (+8h),https://www.lyngsat.com/tvchannels/ru/NTV.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1050.0,5 Kanal (+8h),MPEG-4/SD,1051.0,3714 R,,,,,5 Kanal (+8h),https://www.lyngsat.com/tvchannels/ru/5-Kanal.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1060.0,Rossiya K (+8h),MPEG-4/SD,1061.0,3714 R,,,,,Rossiya K (+8h),https://www.lyngsat.com/tvchannels/ru/Rossiya-K.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1080.0,Karusel (+8h),MPEG-4/SD,1081.0,3714 R,,,,,Karusel (+8h),https://www.lyngsat.com/tvchannels/ru/Karusel.html,False,RTRS,P 0,,DVB-S2,Rus,ru
+1020.0,Rossiya 1 (+7h),MPEG-4/SD,1021.0,3714 R,,,GoSTcrypt,,Rossiya 1 (+7h),https://www.lyngsat.com/tvchannels/ru/Rossiya-1.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1020.0,Rossiya 1 (+7h),MPEG-4/SD,1021.0,3714 R,,,GoSTcrypt,,Rossiya 1 (+7h),https://www.lyngsat.com/tvchannels/ru/Rossiya-1.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1130.0,Radio Rossii (+7h),,,3714 R,,,,,Radio Rossii (+7h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+1130.0,Radio Rossii (+7h),,,3714 R,,,,,Radio Rossii (+7h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,False,RTRS,P 1,,DVB-S2,Rus,ru
+,RTRS 2,,,3766 R,,,,https://www.lyngsat.com/providers/ru/RTRS-2.html,,,True,RTRS 2,P 0,,DVB-S2,,
+2010.0,REN TV (+7h),MPEG-4/SD,2011.0,3766 R,,,,,REN TV (+7h),https://www.lyngsat.com/tvchannels/ru/REN-TV.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2020.0,Telekanal Spas,MPEG-4/SD,2021.0,3766 R,,,,,Telekanal Spas,https://www.lyngsat.com/tvchannels/ru/Telekanal-Spas.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2020.0,Telekanal Spas,MPEG-4/SD,2021.0,3766 R,,,,,Telekanal Spas,https://www.lyngsat.com/tvchannels/ru/Telekanal-Spas.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2030.0,STS (+7h),MPEG-4/SD,2031.0,3766 R,,,,,STS (+7h),https://www.lyngsat.com/tvchannels/ru/STS.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2040.0,Domashniy (+7h),MPEG-4/SD,2041.0,3766 R,,,,,Domashniy (+7h),https://www.lyngsat.com/tvchannels/ru/Domashniy.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2050.0,TV 3 (+7h),MPEG-4/SD,2051.0,3766 R,,,,,TV 3 (+7h),https://www.lyngsat.com/tvchannels/ru/TV-3.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2060.0,Pyatnitsa! (+7h),MPEG-4/SD,2061.0,3766 R,,,,,Pyatnitsa! (+7h),https://www.lyngsat.com/tvchannels/ru/Pyatnitsa.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2070.0,Telekanal Zvezda (+7h),MPEG-4/SD,2071.0,3766 R,,,,,Telekanal Zvezda (+7h),https://www.lyngsat.com/tvchannels/ru/Telekanal-Zvezda.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2070.0,Telekanal Zvezda (+7h),MPEG-4/SD,2071.0,3766 R,,,,,Telekanal Zvezda (+7h),https://www.lyngsat.com/tvchannels/ru/Telekanal-Zvezda.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2080.0,Mir (+7h),MPEG-4/SD,2081.0,3766 R,,,,,Mir (+7h),https://www.lyngsat.com/tvchannels/ru/Mir.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2090.0,TNT (+7h),MPEG-4/SD,2091.0,3766 R,,,,,TNT (+7h),https://www.lyngsat.com/tvchannels/ru/TNT.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2090.0,TNT (+7h),MPEG-4/SD,2091.0,3766 R,,,,,TNT (+7h),https://www.lyngsat.com/tvchannels/ru/TNT.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2100.0,Muz TV (+7h),MPEG-4/SD,2101.0,3766 R,,,,,Muz TV (+7h),https://www.lyngsat.com/tvchannels/ru/Muz-TV.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru
+2100.0,Muz TV (+7h),MPEG-4/SD,2101.0,3766 R,,,,,Muz TV (+7h),https://www.lyngsat.com/tvchannels/ru/Muz-TV.html,False,RTRS 2,P 0,,DVB-S2,Rus,ru

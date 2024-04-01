@@ -1,0 +1,202 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,,,,4520 H,,,,,,,False,,2/3,30000.0,DVB-S2,,
+,,,,4552 V,,,Videoguard,,,,False,,4/5,10000.0,DVB-S2,,
+,,1001-1001,,4600 H,,,,,,,False,,2/3,30000.0,DVB-S2,,
+,,,,4680 H,,,,,,,False,,2/3,30000.0,DVB-S2,,
+,,,,4720 H,,,,,,,False,,3/4,30000.0,DVB-S2,,
+301.0,Desh TV,MPEG-4/SD,827.0,4520 H,,,,,Desh TV,https://www.lyngsat.com/tvchannels/bd/Desh-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+302.0,Mohona TV,MPEG-4/HD,833.0,4520 H,,,,,Mohona TV,https://www.lyngsat.com/tvchannels/bd/Mohona-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+302.0,Mohona TV,MPEG-4/HD,833.0,4520 H,,,,,Mohona TV,https://www.lyngsat.com/tvchannels/bd/Mohona-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+303.0,ATN News (Bangladesh),MPEG-4/HD,308.0,4520 H,,,,,ATN News (Bangladesh),https://www.lyngsat.com/tvchannels/bd/ATN-News.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+304.0,Ananda TV (Bangladesh),MPEG-2/SD,824.0,4520 H,,,,,Ananda TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Ananda-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+306.0,Nagorik TV,MPEG-4/HD,808.0,4520 H,,,Cryptoguard 1,,Nagorik TV,https://www.lyngsat.com/tvchannels/bd/Nagorik-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+307.0,Ekushey TV,MPEG-2/SD,828.0,4520 H,,,,,Ekushey TV,https://www.lyngsat.com/tvchannels/bd/Ekushey-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+307.0,Ekushey TV,MPEG-2/SD,828.0,4520 H,,,,,Ekushey TV,https://www.lyngsat.com/tvchannels/bd/Ekushey-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+310.0,Jamuna TV,MPEG-2/SD,831.0,4520 H,,,,,Jamuna TV,https://www.lyngsat.com/tvchannels/bd/Jamuna-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+310.0,Jamuna TV,MPEG-2/SD,831.0,4520 H,,,,,Jamuna TV,https://www.lyngsat.com/tvchannels/bd/Jamuna-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+311.0,My TV (Bangladesh),MPEG-4/HD,834.0,4520 H,,,,,My TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/My-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+311.0,My TV (Bangladesh),MPEG-4/HD,834.0,4520 H,,,,,My TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/My-TV.html,False,,2/3,30000.0,DVB-S2,Ben,bd
+,Bangladesh Betar,,,4525 V,,,,https://www.lyngsat.com/providers/bd/Bangladesh-Betar.html,,,True,Bangladesh Betar,6/7,2400.0,DVB-S2,,
+1000.0,Bangladesh Betar Home,,,4525 V,,,,,Bangladesh Betar Home,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Home.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+1000.0,Bangladesh Betar Home,,,4525 V,,,,,Bangladesh Betar Home,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Home.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+1000.0,Bangladesh Betar Home,,,4680 H,,,,,Bangladesh Betar Home,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Home.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+1000.0,Bangladesh Betar Home,,,4680 H,,,,,Bangladesh Betar Home,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Home.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+2000.0,Bangladesh Betar External,,,4525 V,,,,,Bangladesh Betar External,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-External.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+2000.0,Bangladesh Betar External,,,4525 V,,,,,Bangladesh Betar External,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-External.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+2000.0,Bangladesh Betar External,,,4680 H,,,,,Bangladesh Betar External,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-External.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+2000.0,Bangladesh Betar External,,,4680 H,,,,,Bangladesh Betar External,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-External.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+3000.0,Bangladesh Betar Traffic,,,4525 V,,,,,Bangladesh Betar Traffic,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Traffic.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+3000.0,Bangladesh Betar Traffic,,,4525 V,,,,,Bangladesh Betar Traffic,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Traffic.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+3000.0,Bangladesh Betar Traffic,,,4680 H,,,,,Bangladesh Betar Traffic,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Traffic.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+3000.0,Bangladesh Betar Traffic,,,4680 H,,,,,Bangladesh Betar Traffic,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Traffic.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+4000.0,Bangladesh Betar Commercial,,,4525 V,,,,,Bangladesh Betar Commercial,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Commercial.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+4000.0,Bangladesh Betar Commercial,,,4525 V,,,,,Bangladesh Betar Commercial,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Commercial.html,False,Bangladesh Betar,6/7,2400.0,DVB-S2,Ben,bd
+4000.0,Bangladesh Betar Commercial,,,4680 H,,,,,Bangladesh Betar Commercial,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Commercial.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+4000.0,Bangladesh Betar Commercial,,,4680 H,,,,,Bangladesh Betar Commercial,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Commercial.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+1001.0,[test card],?-?MPEG-4/HD,1004.0,4533 V,,,,,,,False,Bangladesh Betar,2/3,8000.0,DVB-S2,,
+1.0,Independent TV,2-1MPEG-4/SD,200.0,4545 H,,,,,,,False,Bangladesh Betar,2/3,4160.0,DVB-S2,Ben,
+210.0,Duronto TV,?-?MPEG-4/HD,518.0,4550 H,,,BISS,,,,False,Bangladesh Betar,2/3,4158.0,DVB-S2,Ben,
+1890.0,Star Plus India,MPEG-4/SD,450.0,4552 V,,,Videoguard,,Star Plus India,https://www.lyngsat.com/tvchannels/hk/Star-Plus-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Hin,hk
+1891.0,Star Gold India,MPEG-4/SD,452.0,4552 V,,,Videoguard,,Star Gold India,https://www.lyngsat.com/tvchannels/hk/Star-Gold-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Hin,hk
+1892.0,Star Bharat India,MPEG-4/SD,454.0,4552 V,,,Videoguard,,Star Bharat India,https://www.lyngsat.com/tvchannels/hk/Star-Bharat-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Hin,hk
+1893.0,Star Jalsha,MPEG-4/SD,456.0,4552 V,,,Videoguard,,Star Jalsha,https://www.lyngsat.com/tvchannels/in/Star-Jalsha.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Ben,in
+1894.0,Jalsha Movies,MPEG-4/SD,458.0,4552 V,,,Videoguard,,Jalsha Movies,https://www.lyngsat.com/tvchannels/in/Jalsha-Movies.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Ben,in
+1895.0,National Geographic India,MPEG-4/SD,460.0,4552 V,,,Videoguard,,National Geographic India,https://www.lyngsat.com/tvchannels/us/National-Geographic-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Ben,us
+1896.0,National Geographic Wild India,MPEG-4/SD,462.0,4552 V,,,Videoguard,,National Geographic Wild India,https://www.lyngsat.com/tvchannels/us/National-Geographic-Wild-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Eng,us
+1897.0,Star Life India,MPEG-4/SD,464.0,4552 V,,,Videoguard,,Star Life India,https://www.lyngsat.com/tvchannels/us/Star-Life-India.html,False,Bangladesh Betar,4/5,10000.0,DVB-S2,Ben,us
+1.0,Maasranga TV,1-1MPEG-4/HD,33.0,4555 H,,,,,,,False,Bangladesh Betar,2/3,4800.0,DVB-S2,Ben,
+1.0,Somoy News TV,?-?MPEG-4/HD,512.0,4561 H,,,,,,,False,Bangladesh Betar,2/3,4800.0,DVB-S2,Ben,
+1.0,Channel 9,?-?MPEG-4/HD,101.0,4567 H,,,,,,,False,Bangladesh Betar,2/3,4785.0,DVB-S2,Ben,
+1.0,Deepto TV,?-?MPEG-4/HD,817.0,4575 H,,,,,,,False,Bangladesh Betar,2/3,4800.0,DVB-S2,Ben,
+101.0,ATN Bangla,MPEG-4/HD,308.0,4600 H,,,,,ATN Bangla,https://www.lyngsat.com/tvchannels/bd/ATN-Bangla.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+101.0,ATN Bangla,MPEG-4/HD,308.0,4600 H,,,,,ATN Bangla,https://www.lyngsat.com/tvchannels/bd/ATN-Bangla.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+102.0,Bangla TV (Bangladesh),MPEG-4/HD,802.0,4600 H,,,,,Bangla TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Bangla-TV.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+103.0,Bangla Vision,MPEG-4/HD,803.0,4600 H,,,,,Bangla Vision,https://www.lyngsat.com/tvchannels/bd/Bangla-Vision.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+103.0,Bangla Vision,MPEG-4/HD,803.0,4600 H,,,,,Bangla Vision,https://www.lyngsat.com/tvchannels/bd/Bangla-Vision.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+104.0,Channel I (Bangladesh),MPEG-4/HD,804.0,4600 H,,,,,Channel I (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Channel-I.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+104.0,Channel I (Bangladesh),MPEG-4/HD,804.0,4600 H,,,,,Channel I (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Channel-I.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+105.0,Ekattor TV,MPEG-4/HD,805.0,4600 H,,,,,Ekattor TV,https://www.lyngsat.com/tvchannels/bd/Ekattor-TV.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+105.0,Ekattor TV,MPEG-4/HD,805.0,4600 H,,,,,Ekattor TV,https://www.lyngsat.com/tvchannels/bd/Ekattor-TV.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+106.0,Gaan Bangla,MPEG-4/HD,806.0,4600 H,,,,,Gaan Bangla,https://www.lyngsat.com/tvchannels/bd/Gaan-Bangla.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+107.0,NTV (Bangladesh),MPEG-2/SD,807.0,4600 H,,,,,NTV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/NTV.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+107.0,NTV (Bangladesh),MPEG-2/SD,807.0,4600 H,,,,,NTV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/NTV.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+108.0,DBC News,MPEG-4/HD,826.0,4600 H,,,,,DBC News,https://www.lyngsat.com/tvchannels/bd/DBC-News.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+108.0,DBC News,MPEG-4/HD,826.0,4600 H,,,,,DBC News,https://www.lyngsat.com/tvchannels/bd/DBC-News.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+109.0,News 24 (Bangladesh),MPEG-4/HD,809.0,4600 H,,,,,News 24 (Bangladesh),https://www.lyngsat.com/tvchannels/bd/News-24.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+109.0,News 24 (Bangladesh),MPEG-4/HD,809.0,4600 H,,,,,News 24 (Bangladesh),https://www.lyngsat.com/tvchannels/bd/News-24.html,False,Bangladesh Betar,2/3,30000.0,DVB-S2,Ben,bd
+11.0,Gazi TV,1-1MPEG-4/HD,201.0,4625 H,,,ABV,,,,False,Bangladesh Betar,2/3,4800.0,DVB-S2,Ben Ben,
+11.0,Gazi TV,?-?MPEG-4/HD,201.0,4646 V,,,ABV,,,,False,Bangladesh Betar,2/3,4800.0,DVB-S2,Ben,
+,Bangladesh TV,,,4660 V,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,,,True,Bangladesh TV,4/5,17500.0,DVB-S2,,
+,Bangladesh TV,,,4660 V,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,,,True,Bangladesh TV,4/5,17500.0,DVB-S2,,
+,Bangladesh TV,,,11725 V,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,,,True,Bangladesh TV,3/4,17500.0,DVB-S2,,
+,Bangladesh TV,,,11725 V,,,,https://www.lyngsat.com/providers/bd/Bangladesh-TV.html,,,True,Bangladesh TV,3/4,17500.0,DVB-S2,,
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,501.0,4660 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-2/SD,512.0,4720 H,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+201.0,BTV Chattogram,MPEG-4/SD,512.0,11725 V,,,,,BTV Chattogram,https://www.lyngsat.com/tvchannels/bd/BTV-Chattogram.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,4660 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,812.0,4720 H,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+204.0,BTV National,MPEG-4/HD,308.0,11725 V,,,,,BTV National,https://www.lyngsat.com/tvchannels/bd/BTV-National.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-4/SD,301.0,4660 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,4720 H,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+205.0,BTV World,MPEG-2/SD,301.0,11725 V,,,,,BTV World,https://www.lyngsat.com/tvchannels/bd/BTV-World.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-4/SD,401.0,4660 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,4/5,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,4720 H,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,30000.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+212.0,Sangshad TV,MPEG-2/SD,401.0,11725 V,,,,,Sangshad TV,https://www.lyngsat.com/tvchannels/bd/Sangshad-TV.html,False,Bangladesh TV,3/4,17500.0,DVB-S2,Ben,bd
+401.0,T Sports,MPEG-4/HD,835.0,4680 H,,,ABV,,T Sports,https://www.lyngsat.com/tvchannels/bd/T-Sports.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+402.0,Nexus TV,MPEG-4/HD,836.0,4680 H,,,,,Nexus TV,https://www.lyngsat.com/tvchannels/bd/Nexus-TV.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+402.0,Nexus TV,MPEG-4/HD,836.0,4680 H,,,,,Nexus TV,https://www.lyngsat.com/tvchannels/bd/Nexus-TV.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+404.0,Channel 24 (Bangladesh),MPEG-4/HD,838.0,4680 H,,,,,Channel 24 (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Channel-24.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+404.0,Channel 24 (Bangladesh),MPEG-4/HD,838.0,4680 H,,,,,Channel 24 (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Channel-24.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+405.0,Ekhon TV,HEVC/HD,839.0,4680 H,,,,,Ekhon TV,https://www.lyngsat.com/tvchannels/bd/Ekhon-TV.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+406.0,Global TV (Bangladesh),MPEG-4/HD,840.0,4680 H,,,,,Global TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Global-TV.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+407.0,Madani Channel Bangla,MPEG-4/HD,841.0,4680 H,,,,,Madani Channel Bangla,https://www.lyngsat.com/tvchannels/pk/Madani-Channel-Bangla.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,pk
+407.0,Madani Channel Bangla,MPEG-4/HD,841.0,4680 H,,,,,Madani Channel Bangla,https://www.lyngsat.com/tvchannels/pk/Madani-Channel-Bangla.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,pk
+408.0,Green TV (Bangladesh),HEVC/HD,842.0,4680 H,,,BISS,,Green TV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/Green-TV.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+1.0,Bangladesh Betar Chittagong,,,4680 H,,,,,Bangladesh Betar Chittagong,https://www.lyngsat.com/radiochannels/bd/Bangladesh-Betar-Chittagong.html,False,Bangladesh TV,2/3,30000.0,DVB-S2,Ben,bd
+,Sony Pictures Networks India,,,4690 V,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,,,True,Sony Pictures Networks India,2/3,15000.0,DVB-S2,,
+,Sony Pictures Networks India,,,4690 V,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,,,True,Sony Pictures Networks India,2/3,15000.0,DVB-S2,,
+,Sony Pictures Networks India,,,4780 V,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,,,True,Sony Pictures Networks India,2/3,30000.0,DVB-S2,,
+,Sony Pictures Networks India,,,4780 V,,,Videoguard,https://www.lyngsat.com/providers/us/Sony-Pictures-Networks-India.html,,,True,Sony Pictures Networks India,2/3,30000.0,DVB-S2,,
+227.0,Sony Aath,MPEG-4/SD,4580.0,4690 V,,,Videoguard,,Sony Aath,https://www.lyngsat.com/tvchannels/in/Sony-Aath.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Ben,in
+228.0,Sony Sports Ten 2,MPEG-4/HD,4590.0,4690 V,,,Videoguard,,Sony Sports Ten 2,https://www.lyngsat.com/tvchannels/in/Sony-Sports-Ten-2.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Eng,in
+229.0,Sony Sports Ten 3,MPEG-4/HD,3910.0,4690 V,,,Videoguard,,Sony Sports Ten 3,https://www.lyngsat.com/tvchannels/in/Sony-Sports-Ten-3.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Hin,in
+230.0,Sony Sports Ten 5,MPEG-4/HD,3920.0,4690 V,,,Videoguard,,Sony Sports Ten 5,https://www.lyngsat.com/tvchannels/in/Sony-Sports-Ten-5.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Eng,in
+231.0,Sony Max 2,MPEG-4/SD,3930.0,4690 V,,,Videoguard,,Sony Max 2,https://www.lyngsat.com/tvchannels/in/Sony-Max-2.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Hin,in
+232.0,Sony Wah,MPEG-4/SD,3940.0,4690 V,,,Videoguard,,Sony Wah,https://www.lyngsat.com/tvchannels/in/Sony-Wah.html,False,Sony Pictures Networks India,2/3,15000.0,DVB-S2,Hin,in
+,Zee Network,,,4712 V,,,Conax,https://www.lyngsat.com/providers/in/Zee-Network.html,,,True,Zee Network,2/3,10000.0,DVB-S2,,
+23014.0,Zee Bangla Cinema International,MPEG-4/SD,3742.0,4712 V,,,Conax,,Zee Bangla Cinema International,https://www.lyngsat.com/tvchannels/in/Zee-Bangla-Cinema-International.html,False,Zee Network,2/3,10000.0,DVB-S2,Ben,in
+23015.0,Zee Bangla International,MPEG-4/SD,3752.0,4712 V,,,Conax,,Zee Bangla International,https://www.lyngsat.com/tvchannels/in/Zee-Bangla-International.html,False,Zee Network,2/3,10000.0,DVB-S2,Ben,in
+202.0,SA TV,MPEG-4/HD,820.0,4720 H,,,,,SA TV,https://www.lyngsat.com/tvchannels/bd/SA-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+202.0,SA TV,MPEG-4/HD,820.0,4720 H,,,,,SA TV,https://www.lyngsat.com/tvchannels/bd/SA-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+203.0,Asian TV,MPEG-4/HD,810.0,4720 H,,,,,Asian TV,https://www.lyngsat.com/tvchannels/bd/Asian-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+203.0,Asian TV,MPEG-4/HD,810.0,4720 H,,,,,Asian TV,https://www.lyngsat.com/tvchannels/bd/Asian-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+206.0,Bijoy TV,MPEG-4/HD,814.0,4720 H,,,,,Bijoy TV,https://www.lyngsat.com/tvchannels/bd/Bijoy-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+206.0,Bijoy TV,MPEG-4/HD,814.0,4720 H,,,,,Bijoy TV,https://www.lyngsat.com/tvchannels/bd/Bijoy-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+207.0,Boishakhi TV,MPEG-4/HD,815.0,4720 H,,,,,Boishakhi TV,https://www.lyngsat.com/tvchannels/bd/Boishakhi-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+207.0,Boishakhi TV,MPEG-4/HD,815.0,4720 H,,,,,Boishakhi TV,https://www.lyngsat.com/tvchannels/bd/Boishakhi-TV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+211.0,RTV (Bangladesh),MPEG-4/HD,819.0,4720 H,,,,,RTV (Bangladesh),https://www.lyngsat.com/tvchannels/bd/RTV.html,False,Zee Network,3/4,30000.0,DVB-S2,Ben,bd
+220.0,Sony Max Asia,MPEG-4/HD,4510.0,4780 V,,,Videoguard,,Sony Max Asia,https://www.lyngsat.com/tvchannels/in/Sony-Max-Asia.html,False,Zee Network,2/3,30000.0,DVB-S2,Hin,in
+221.0,Sony Sports Ten 1,MPEG-4/HD,4520.0,4780 V,,,Videoguard,,Sony Sports Ten 1,https://www.lyngsat.com/tvchannels/in/Sony-Sports-Ten-1.html,False,Zee Network,2/3,30000.0,DVB-S2,Eng,in
+222.0,SET Asia,MPEG-4/HD,4530.0,4780 V,,,Videoguard,,SET Asia,https://www.lyngsat.com/tvchannels/in/SET-Asia.html,False,Zee Network,2/3,30000.0,DVB-S2,Hin,in
+223.0,Sony Yay!,MPEG-4/SD,4540.0,4780 V,,,Videoguard,,Sony Yay!,https://www.lyngsat.com/tvchannels/in/Sony-Yay.html,False,Zee Network,2/3,30000.0,DVB-S2,Ben Hin,in
+224.0,Sony Pix,MPEG-4/HD,4550.0,4780 V,,,Videoguard,,Sony Pix,https://www.lyngsat.com/tvchannels/in/Sony-Pix.html,False,Zee Network,2/3,30000.0,DVB-S2,Eng,in
+225.0,Sony SAB Asia,MPEG-4/HD,4560.0,4780 V,,,Videoguard,,Sony SAB Asia,https://www.lyngsat.com/tvchannels/in/Sony-SAB-Asia.html,False,Zee Network,2/3,30000.0,DVB-S2,Hin,in
+226.0,Sony BBC Earth,MPEG-4/HD,4570.0,4780 V,,,Videoguard,,Sony BBC Earth,https://www.lyngsat.com/tvchannels/uk/Sony-BBC-Earth.html,False,Zee Network,2/3,30000.0,DVB-S2,Eng,uk
+,Akash DTH,,,10725 V,,,Irdeto,,,,False,Zee Network,2/3,30000.0,DVB-S2,,
+,Akash DTH,,,10805 V,,,Irdeto,,,,False,Zee Network,2/3,30000.0,DVB-S2,,
+,Akash DTH,,,10845 V,,,Irdeto,,,,False,Zee Network,2/3,30000.0,DVB-S2,,
+,Akash DTH,,,10885 V,,,Irdeto,,,,False,Zee Network,2/3,30000.0,DVB-S2,,
+,Akash DTH,,,10925 H,,,Irdeto,,,,False,Zee Network,4/5,8000.0,DVB-S2,,
+,Akash DTH,,,10925 V,,,Irdeto,,,,False,Zee Network,4/5,8000.0,DVB-S2,,
+,Akash DTH,,,11265 V,,,Irdeto,,,,False,Zee Network,2/3,30000.0,DVB-S2,,
+1199.0,Akash Plus promo,MPEG-4/HD,101.0,10845 V,,,,,,,False,Zee Network,2/3,30000.0,DVB-S2,Ben,
+,,,,,,,,,DVB-S28PSK41602/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK41602/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK41582/3,BISS,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,ABV,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK48002/3,ABV,False,Zee Network,,,,,
+,,,,,,,,,DVB-S28PSK47852/3,,False,Zee Network,,,,,

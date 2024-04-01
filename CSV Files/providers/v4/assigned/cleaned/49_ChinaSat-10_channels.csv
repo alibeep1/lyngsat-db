@@ -1,0 +1,7 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,AMG promo,8192-4096MPEG-4/SD,512.0,3645 H,tp 1B,,,,False,,1/2,1666,DVB-S2,Ind
+,(feeds),,,3650 V,tp 1A,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3789 V,tp 4A,,,,False,,3/4,7200,DVB-S2,
+,,,,3815 V,tp 4A,,,,False,,,,,
+,Shandong Education TV,AVS+/HD,101.0,3834 V,tp 4A,,Irdeto,,False,,500,8,DVB-S2,Chi
+,(feeds),,,4134 V,tp 10A,,,,False,,3/4,4340,DVB-S4,

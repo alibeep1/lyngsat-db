@@ -1,0 +1,77 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,VTV,,,3418 H,tp 15A,0.0,Director,https://www.lyngsat.com/providers/vn/VTV.html,True,VTV,2/3,19200,DVB-S2,
+1.0,VTV 1,MPEG-4/SD,1011.0,3418 H,tp 15A,0.0,,,False,VTV,2/3,19200,DVB-S2,Vie
+11.0,VTV 1,MPEG-4/HD,1111.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie Vie
+2.0,VTV 2,MPEG-4/SD,1021.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+12.0,VTV 2,MPEG-4/HD,1121.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+4.0,VTV 4,MPEG-4/SD,1041.0,3418 H,tp 15A,0.0,,,False,VTV,2/3,19200,DVB-S2,Vie
+5.0,VTV 5,MPEG-4/HD,1051.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+7.0,VTV 7,MPEG-4/SD,1071.0,3418 H,tp 15A,0.0,,,False,VTV,2/3,19200,DVB-S2,Vie
+8.0,VTV 8,MPEG-4/HD,1081.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+13.0,VTV 3,MPEG-4/HD,1131.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie Vie
+16.0,VTV Can Tho,MPEG-4/HD,1161.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie Vie
+19.0,VTV 9,MPEG-4/HD,1191.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+51.0,VTV 5 Tay Nam Bo,MPEG-4/HD,1511.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+52.0,VTV 5 Tay Nguyen,MPEG-4/HD,1521.0,3418 H,tp 15A,0.0,Director,,False,VTV,2/3,19200,DVB-S2,Vie
+,(feeds),,,3804 H,tp 5A,,,,False,VTV,3/4,7200,DVB-S2,
+,(feeds),,,3855 H,tp 6A,,,,False,VTV,1/2,4800,DVB-S2,
+,(feeds),,,4025 H,tp 11A,,,,False,VTV,5/6,3200,DVB-S2,
+,(feeds),,,4068 H,tp 12A,,,,False,VTV,3/4,7200,DVB-S2,
+,(feeds),,,4164 H,tp 14A,,,,False,VTV,1/2,4800,DVB-S2,
+,(CBS feeds),,,3812 H,tp 5A,,,,False,VTV,3/4,7200,DVB-S2,
+,,,,3920 H,tp 8A,0.0,,,False,VTV,,,,
+,CCTV,,,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+,CCTV,,,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV,3/4,28800,DVB-S2,
+3297.0,CCTV TV Guide,AVS+/HD,514.0,3940 V,tp 8B,0.0,,,False,CCTV,3/4,28800,DVB-S2,Chi
+3428.0,CCTV Weapon Technology Channel,AVS+/HD,513.0,3940 V,tp 8B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3905.0,CCTV Health,AVS+/HD,512.0,3940 V,tp 8B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3936.0,CCTV Home Shopping,MPEG-2/SD,515.0,3940 V,tp 8B,0.0,,,False,CCTV,3/4,28800,DVB-S2,Chi
+3552.0,CCTV Billiards,AVS+/HD,514.0,4020 V,tp 10B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3558.0,CCTV Soccer,AVS+/HD,512.0,4020 V,tp 10B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3559.0,CCTV Golf & Tennis,AVS+/HD,513.0,4020 V,tp 10B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3777.0,CCTV World Geography,AVS+/HD,515.0,4020 V,tp 10B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3969.0,CCTV Fashionable Woman,AVS+/HD,516.0,4020 V,tp 10B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3426.0,CCTV Classic,AVS+/HD,516.0,4060 V,tp 11B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3521.0,CCTV Fashion Music,AVS+/HD,515.0,4060 V,tp 11B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3523.0,CCTV Nostalgia Theater,AVS+/HD,512.0,4060 V,tp 11B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3585.0,CCTV Theater,AVS+/HD,513.0,4060 V,tp 11B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+3617.0,CCTV Drama,AVS+/HD,514.0,4060 V,tp 11B,0.0,Videoguard,,False,CCTV,3/4,28800,DVB-S2,Chi
+,(Pitmasters feeds),,,4145 H,tp 14A,,,,False,CCTV,3/5,3200,DVB-S2,
+,(Pitmasters feeds),,,4158 H,tp 14A,,,,False,CCTV,3/5,4800,DVB-S2,
+,(Pitmasters feeds),,,4187 H,tp 14A,,,,False,CCTV,3/5,3200,DVB-S2,
+,(Pitmasters feeds),,,4191 H,tp 14A,,,,False,CCTV,3/5,3200,DVB-S2,
+,China National Radio,32802-101,,12269 V,tp 1,0.0,,https://www.lyngsat.com/providers/cn/China-National-Radio.html,True,China National Radio,1/2,18000,DVB-S1,
+101.0,CNR 1 Voice of China,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+110.0,CNR 1 Voice of China,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+102.0,CNR 2 Voice of Finance,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+103.0,CNR 3 Music Radio,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+104.0,CNR 4 Golden Radio,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+105.0,CNR 5 Taiwan service 1,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+106.0,CNR 6 Taiwan service 2,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+107.0,CNR 7 Radio The Greater Bay,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+119.0,CNR 7 Radio The Greater Bay,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+108.0,CNR 8 Minorities service,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,
+109.0,CNR 9 FM 106.6,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+118.0,China Radio International,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,
+120.0,China Radio International,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,
+121.0,China Radio International,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,
+141.0,CRI Ez FM,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Eng
+142.0,CRI Hit FM 88.7,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Eng
+143.0,CRI Newsradio,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+144.0,CRI Newsradio,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+150.0,CRI Newsradio,,,12269 V,tp 1,0.0,,,False,China National Radio,1/2,18000,DVB-S1,Chi
+,CEN TV,65534-1,,12395 V,tp 4,0.0,,https://www.lyngsat.com/providers/cn/CEN-TV.html,True,CEN TV,3/4,27500,DVB-S2,
+1.0,CETV 1,MPEG-2/SD,41.0,12395 V,tp 4,0.0,,,False,CEN TV,3/4,27500,DVB-S2,Chi
+2.0,CETV 2,MPEG-2/SD,45.0,12395 V,tp 4,0.0,,,False,CEN TV,3/4,27500,DVB-S2,Chi
+3.0,CETV 4,MPEG-2/SD,49.0,12395 V,tp 4,0.0,,,False,CEN TV,3/4,27500,DVB-S2,Chi
+,CBTV Sat,65-3,,12435 V,tp 5,0.0,Irdeto,,False,CEN TV,3/4,27500,DVB-S2,
+,CBTV Sat,65-4,,12515 V,tp 7,0.0,Irdeto,,False,CEN TV,3/4,27500,DVB-S2,
+,CBTV Sat,65-5,,12595 V,tp 9,0.0,Irdeto,,False,CEN TV,3/4,27500,DVB-S2,
+,CBTV Sat,65-6,,12675 V,tp 11,0.0,Irdeto,,False,CEN TV,3/4,27500,DVB-S2,

@@ -1,0 +1,22 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,2RN,8564-1005,,20192 L,tp 4F24,,,https://www.lyngsat.com/providers/ie/2RN.html,True,2RN,5/6,12500,DVB-S2,
+5101.0,RTÉ One,MPEG-4/HD,5101.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng Gle
+5102.0,RTÉ 2,MPEG-4/HD,5102.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng Gle
+5103.0,RTÉ News,MPEG-4/SD,5103.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5104.0,TG 4,MPEG-4/SD,5104.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Gle
+5107.0,RTÉ Jr (06-19),MPEG-4/SD,5107.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5108.0,Cúla 4,MPEG-4/SD,5106.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Gle
+5109.0,Oireachtas TV (Mon-Fri 09-12),MPEG-4/SD,5109.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Gle
+5111.0,RTÉ One +1,MPEG-4/SD,5111.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng Gle
+5112.0,RTÉ 2 +1 (19-06),MPEG-4/SD,5112.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng Gle
+5119.0,[SaorSat info card],MPEG-4/SD,5119.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,
+5120.0,[Faisneis SaorSat info card],MPEG-4/SD,5120.0,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,
+5226.0,RTÉ Radio 1,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5227.0,RTÉ 2 FM,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5228.0,RTÉ Lyric FM,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5229.0,RTÉ Raidió na Gaeltachta,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Gle
+5230.0,RTÉ Radio 1 Extra,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5231.0,RTÉ Pulse,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5232.0,RTÉ 2XM,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5233.0,RTÉ Jr Radio (07-21),,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng
+5234.0,RTÉ Gold,,,20192 L,tp 4F24,,,,False,2RN,5/6,12500,DVB-S2,Eng

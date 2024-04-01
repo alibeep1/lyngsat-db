@@ -1,0 +1,19 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Movistar,,,12230 H,,,Nagravision,,,,False,,300,231,DVB-S2,,
+1273.0,ESPN 6 América Latina,MPEG-4/SD,8144.0,12230 H,,,,,ESPN 6 América Latina,https://www.lyngsat.com/tvchannels/us/ESPN-6-America-Latina.html,False,,300,231,DVB-S2,Spa,us
+,Claro Americas Sur,,,12230 V,,,Conax,,,,False,,000,30,DVB-S3,,
+,Claro Americas Sur,,,12270 H,,,Conax,,,,False,,2/3,30000,DVB-S2,,
+,Claro Americas Sur,,,12270 V,,,"Conax,Irdeto",,,,False,,000,30,DVB-S3,,
+,Claro Americas Sur,,,12310 V,,,Conax,,,,False,,000,30,DVB-S3,,
+,Claro Americas Sur,,,12350 H,,,"Conax,Irdeto",,,,False,,2/3,30000,DVB-S2,,
+,Claro Americas Sur,,,12350 V,,,Conax,,,,False,,000,30,DVB-S3,,
+,Claro Americas Sur,,,12390 V,,,Conax,,,,False,,000,30,DVB-S3,,
+,Claro Americas Sur,,,12430 V,,,Conax,,,,False,,2/3,30000,DVB-S3,,
+74.0,Claro Americas Sur promo,MPEG-2/SD,56.0,12350 V,,,,,,,False,,000,30,DVB-S3,Spa,
+,,,,12430 H,,,,,,,False,,300,231,DVB-S2,,
+9.0,Cubavisión Internacional,MPEG-4/HD,2909.0,12430 H,,,,,Cubavisión Internacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Internacional.html,False,,300,231,DVB-S2,Spa,cu
+9.0,Cubavisión Internacional,MPEG-4/HD,2909.0,12430 H,,,,,Cubavisión Internacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Internacional.html,False,,300,231,DVB-S2,Spa,cu
+10.0,Bethel TV (Peru),MPEG-4/HD,4256.0,12430 H,,,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html,False,,300,231,DVB-S2,Spa,pe
+10.0,Bethel TV (Peru),MPEG-4/HD,4256.0,12430 H,,,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html,False,,300,231,DVB-S2,Spa,pe
+12.0,Bethel Radio,,,12430 H,,,,,Bethel Radio,https://www.lyngsat.com/radiochannels/pe/Bethel-Radio.html,False,,300,231,DVB-S2,Spa,pe
+12.0,Bethel Radio,,,12430 H,,,,,Bethel Radio,https://www.lyngsat.com/radiochannels/pe/Bethel-Radio.html,False,,300,231,DVB-S2,Spa,pe

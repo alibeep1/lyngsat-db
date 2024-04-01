@@ -1,0 +1,56 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Astro,2176-501,,10732 V,tp 1VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-502,,10772 V,tp 2VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-503,,10812 V,tp 3VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-504,,10852 V,tp 4VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-505,,10892 V,tp 5VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-506,,10932 V,tp 6VB,0.0,Videoguard,,,,False,,5/6,30000,DVB-S2,,
+,Astro,2176-302,,11775 V,tp 8VB,0.0,Videoguard,,,,False,,3/4,30000,DVB-S2,,
+,Astro,2176-305,,11895 V,tp 11VB,0.0,Videoguard,,,,False,,3/4,30000,DVB-S2,,
+,Sun Direct,18-21,,12276 H,tp 13KH,,Irdeto,,,,False,,3/4,34000,DVB-S2,,
+,Sun Direct,18-11,,12316 H,tp 14KH,,Irdeto,,,,False,,5/6,30000,DVB-S3,,
+,Sun Direct,,,12436 H,tp 17KH,,Irdeto,,,,False,,3/4,32000,DVB-S3,,
+,Sun Direct,18-22,,12436 V,,,Irdeto,,,,False,,3/4,32000,DVB-S2,,
+,Sun Direct,,,12476 H,tp 18KH,,Irdeto,,,,False,,5/6,32000,DVB-S3,,
+,Sun Direct,,,12523 V,tp 7KV,,Irdeto,,,,False,,3/4,32000,DVB-S2,,
+,Sun Direct,,,12563 V,tp 8KV,,Irdeto,,,,False,,5/6,32000,DVB-S3,,
+,Sun Direct,,,12603 V,tp 9KV,,Irdeto,,,,False,,5/6,32000,DVB-S3,,
+,Sun Direct,,,12643 V,tp 10KV,,Irdeto,,,,False,,5/6,32000,DVB-S3,,
+,Sun Direct,,,12683 H,tp 23KH,,Irdeto,,,,False,,3/4,32000,DVB-S2,,
+21.0,Sun Direct promo,MPEG-4/SD,94.0,12316 H,tp 14KH,,,,,,False,,5/6,30000,DVB-S3,,
+,K Vision,,,12563 H,,,"Conax,Neotion SHL",,,,False,,2/3,31000,DVB-S2,,
+,K Vision,,,12643 H,,,"Conax,Neotion SHL",,,,False,,2/3,31000,DVB-S2,,
+44.0,On Channel,MPEG-4/SD,1794.0,12563 H,,,,,On Channel,https://www.lyngsat.com/tvchannels/id/On-Channel.html,False,,2/3,31000,DVB-S2,Ind,id
+,Transvision,1-9,,12603 V,,,"Irdeto,StreamGuard",,,,False,,3/5,30000,DVB-S2,,
+,Transvision,1-13,,12603 H,,,"Irdeto,StreamGuard",,,,False,,3/5,30000,DVB-S2,,
+,Transvision,1-10,,12643 V,,,"Irdeto,StreamGuard",,,,False,,3/5,30000,DVB-S2,,
+1204.0,Dunia Lain,MPEG-4/SD,211.0,12603 V,,,,,Dunia Lain,https://www.lyngsat.com/tvchannels/id/Dunia-Lain.html,False,,3/5,30000,DVB-S2,Ind,id
+1205.0,Eat N Go,MPEG-4/HD,215.0,12603 V,,,,,Eat N Go,https://www.lyngsat.com/tvchannels/id/Eat-N-Go.html,False,,3/5,30000,DVB-S2,Ind,id
+1211.0,Bioskop Indonesia,MPEG-4/SD,232.0,12603 V,,,,,Bioskop Indonesia,https://www.lyngsat.com/tvchannels/id/Bioskop-Indonesia.html,False,,3/5,30000,DVB-S2,Ind,id
+1212.0,!nsert,MPEG-4/SD,235.0,12603 V,,,,,!nsert,https://www.lyngsat.com/tvchannels/id/nsert.html,False,,3/5,30000,DVB-S2,Ind,id
+1214.0,Khazanah,MPEG-4/SD,241.0,12603 V,,,,,Khazanah,https://www.lyngsat.com/tvchannels/id/Khazanah.html,False,,3/5,30000,DVB-S2,Ind,id
+1215.0,Dunia Anak,MPEG-4/SD,244.0,12603 V,,,,,Dunia Anak,https://www.lyngsat.com/tvchannels/id/Dunia-Anak.html,False,,3/5,30000,DVB-S2,Ind,id
+1240.0,Lingua Channel,MPEG-4/SD,482.0,12603 V,,,,,Lingua Channel,https://www.lyngsat.com/tvchannels/id/Lingua-Channel.html,False,,3/5,30000,DVB-S2,Ind,id
+1404.0,Al-Bahjah TV,MPEG-4/HD,705.0,12603 V,,,,,Al-Bahjah TV,https://www.lyngsat.com/tvchannels/id/Al-Bahjah-TV.html,False,,3/5,30000,DVB-S2,Ind,id
+1406.0,Riau TV,MPEG-4/SD,702.0,12603 V,,,,,Riau TV,https://www.lyngsat.com/tvchannels/id/Riau-TV.html,False,,3/5,30000,DVB-S2,Ind,id
+1406.0,Riau TV,MPEG-4/SD,702.0,12603 V,,,,,Riau TV,https://www.lyngsat.com/tvchannels/id/Riau-TV.html,False,,3/5,30000,DVB-S2,Ind,id
+1405.0,Nabawi TV,MPEG-4/HD,714.0,12603 H,,,,,Nabawi TV,https://www.lyngsat.com/tvchannels/jo/Nabawi-TV.html,False,,3/5,30000,DVB-S2,Ind,jo
+1407.0,Al Wafa Tarim,MPEG-4/SD,762.0,12603 H,,,,,Al Wafa Tarim,https://www.lyngsat.com/tvchannels/id/Al-Wafa-Tarim.html,False,,3/5,30000,DVB-S2,Ind,id
+1407.0,Al Wafa Tarim,MPEG-4/SD,762.0,12603 H,,,,,Al Wafa Tarim,https://www.lyngsat.com/tvchannels/id/Al-Wafa-Tarim.html,False,,3/5,30000,DVB-S2,Ind,id
+1605.0,Musik Indonesia,MPEG-4/HD,614.0,12603 H,,,,,Musik Indonesia,https://www.lyngsat.com/tvchannels/id/Musik-Indonesia.html,False,,3/5,30000,DVB-S2,Ind,id
+1340.0,Maleo,MPEG-4/SD,882.0,12643 V,,,,,Maleo,https://www.lyngsat.com/tvchannels/id/Maleo.html,False,,3/5,30000,DVB-S2,Ind,id
+1410.0,GPR TV,MPEG-4/SD,773.0,12643 V,,,,,GPR TV,https://www.lyngsat.com/tvchannels/id/GPR-TV.html,False,,3/5,30000,DVB-S2,Ind,id
+307.0,Rajawali TV,MPEG-4/SD,5383.0,12643 H,,,,,Rajawali TV,https://www.lyngsat.com/tvchannels/id/Rajawali-TV.html,False,,2/3,31000,DVB-S2,Ind,id
+312.0,TVRI Nasional,MPEG-4/SD,5394.0,12643 H,,,,,TVRI Nasional,https://www.lyngsat.com/tvchannels/id/TVRI-Nasional.html,False,,2/3,31000,DVB-S2,Ind,id
+312.0,TVRI Nasional,MPEG-4/SD,5394.0,12643 H,,,,,TVRI Nasional,https://www.lyngsat.com/tvchannels/id/TVRI-Nasional.html,False,,2/3,31000,DVB-S2,Ind,id
+314.0,Bali TV,MPEG-4/SD,5396.0,12643 H,,,,,Bali TV,https://www.lyngsat.com/tvchannels/id/Bali-TV.html,False,,2/3,31000,DVB-S2,Ind,id
+315.0,JTV (Indonesia),MPEG-4/SD,5397.0,12643 H,,,,,JTV (Indonesia),https://www.lyngsat.com/tvchannels/id/JTV.html,False,,2/3,31000,DVB-S2,Ind,id
+315.0,JTV (Indonesia),MPEG-4/SD,5397.0,12643 H,,,,,JTV (Indonesia),https://www.lyngsat.com/tvchannels/id/JTV.html,False,,2/3,31000,DVB-S2,Ind,id
+316.0,Da Ai TV Indonesia,MPEG-4/SD,5398.0,12643 H,,,,,Da Ai TV Indonesia,https://www.lyngsat.com/tvchannels/tw/Da-Ai-TV-Indonesia.html,False,,2/3,31000,DVB-S2,Ind,tw
+316.0,Da Ai TV Indonesia,MPEG-4/SD,5398.0,12643 H,,,,,Da Ai TV Indonesia,https://www.lyngsat.com/tvchannels/tw/Da-Ai-TV-Indonesia.html,False,,2/3,31000,DVB-S2,Ind,tw
+319.0,TV Mu,MPEG-4/SD,5401.0,12643 H,,,,,TV Mu,https://www.lyngsat.com/tvchannels/id/TV-Mu.html,False,,2/3,31000,DVB-S2,Ind,id
+319.0,TV Mu,MPEG-4/SD,5401.0,12643 H,,,,,TV Mu,https://www.lyngsat.com/tvchannels/id/TV-Mu.html,False,,2/3,31000,DVB-S2,Ind,id
+320.0,TV 9 Nusantara,MPEG-4/SD,5408.0,12643 H,,,,,TV 9 Nusantara,https://www.lyngsat.com/tvchannels/id/TV-9-Nusantara.html,False,,2/3,31000,DVB-S2,Ind,id
+320.0,TV 9 Nusantara,MPEG-4/SD,5408.0,12643 H,,,,,TV 9 Nusantara,https://www.lyngsat.com/tvchannels/id/TV-9-Nusantara.html,False,,2/3,31000,DVB-S2,Ind,id
+325.0,Quran TV (Saudi Arabia),MPEG-4/SD,5413.0,12643 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,,2/3,31000,DVB-S2,Ara,sa
+325.0,Quran TV (Saudi Arabia),MPEG-4/SD,5413.0,12643 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,,2/3,31000,DVB-S2,Ara,sa

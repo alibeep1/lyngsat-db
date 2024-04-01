@@ -1,0 +1,395 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,,,,3634 L,tp 2C,38-39,,,,,False,,,,,,
+,,,,3668 R,tp 1C,38-39,,,,,False,,,,,,
+,,,,3677 L,tp 2C,38-39,,,,,False,,,,,,
+,,,,3699 R,tp 1C,38-39,,,,,False,,,,,,
+,,,,3727 R,tp 3C,38-39,,,,,False,,,,,,
+,,,,3752 L,tp 4C,38-39,,,,,False,,,,,,
+,,,,3768 L,tp 4C,38-39,,,,,False,,,,,,
+,,,,3796 L,tp 6C,38-39,,,,,False,,,,,,
+,,,,4027 L,tp 10C,38-39,,,,,False,,,,,,
+,,,,4036 L,tp 10C,38-39,,,,,False,,,,,,
+,,,,12625 H,tp F3,47-48,,,,,False,,,,,,
+,,,,12649 H,tp F3,47-48,,,,,False,,,,,,
+1.0,Alwatania TV,65535-1MPEG-4/HD,33.0,3672 R,tp 1C,38-39,,,,,False,,5/6,2857.0,DVB-S2,Ara,
+,Burkina Faso mux,1-1,,3729 L,tp 4C,38-39,,,,,False,,3/5,16833.0,DVB-S2,,
+1.0,RTB TV (Burkina Faso),MPEG-4/SD,101.0,3729 L,tp 4C,38-39,,,RTB TV (Burkina Faso),https://www.lyngsat.com/tvchannels/bf/RTB-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+1.0,RTB TV (Burkina Faso),MPEG-4/SD,101.0,3729 L,tp 4C,38-39,,,RTB TV (Burkina Faso),https://www.lyngsat.com/tvchannels/bf/RTB-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+2.0,RTB Zénith,MPEG-4/SD,121.0,3729 L,tp 4C,38-39,,,RTB Zénith,https://www.lyngsat.com/tvchannels/bf/RTB-Zenith.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+5.0,Canal 3 (Burkina Faso),MPEG-4/SD,401.0,3729 L,tp 4C,38-39,,,Canal 3 (Burkina Faso),https://www.lyngsat.com/tvchannels/bf/Canal-3.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+6.0,BF1,MPEG-4/SD,501.0,3729 L,tp 4C,38-39,,,BF1,https://www.lyngsat.com/tvchannels/bf/BF1.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+6.0,BF1,MPEG-4/SD,501.0,3729 L,tp 4C,38-39,,,BF1,https://www.lyngsat.com/tvchannels/bf/BF1.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+7.0,Burkina Info TV,MPEG-4/SD,601.0,3729 L,tp 4C,38-39,,,Burkina Info TV,https://www.lyngsat.com/tvchannels/bf/Burkina-Info-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+9.0,Impact TV,MPEG-4/SD,801.0,3729 L,tp 4C,38-39,,,Impact TV,https://www.lyngsat.com/tvchannels/bf/Impact-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+9.0,Impact TV,MPEG-4/SD,801.0,3729 L,tp 4C,38-39,,,Impact TV,https://www.lyngsat.com/tvchannels/bf/Impact-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+10.0,TV Maria (Burkina Faso),MPEG-4/SD,714.0,3729 L,tp 4C,38-39,,,TV Maria (Burkina Faso),https://www.lyngsat.com/tvchannels/bf/TV-Maria.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+11.0,TV Al Houda,MPEG-4/SD,1001.0,3729 L,tp 4C,38-39,,,TV Al Houda,https://www.lyngsat.com/tvchannels/bf/TV-Al-Houda.html,False,,3/5,16833.0,DVB-S2,,bf
+12.0,El-Bethel TV,MPEG-4/SD,1101.0,3729 L,tp 4C,38-39,,,El-Bethel TV,https://www.lyngsat.com/tvchannels/bf/El-Bethel-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+14.0,3 TV,MPEG-4/SD,1201.0,3729 L,tp 4C,38-39,,,3 TV,https://www.lyngsat.com/tvchannels/bf/3-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+16.0,Savane TV,MPEG-4/SD,1501.0,3729 L,tp 4C,38-39,,,Savane TV,https://www.lyngsat.com/tvchannels/bf/Savane-TV.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+17.0,LCA,MPEG-4/SD,1601.0,3729 L,tp 4C,38-39,,,LCA,https://www.lyngsat.com/tvchannels/bf/LCA.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+18.0,[LTP test card],MPEG-4/SD,1401.0,3729 L,tp 4C,38-39,,,,,False,,3/5,16833.0,DVB-S2,,
+24.0,RTB 3,MPEG-4/SD,300.0,3729 L,tp 4C,38-39,,,RTB 3,https://www.lyngsat.com/tvchannels/bf/RTB-3.html,False,,3/5,16833.0,DVB-S2,,bf
+200.0,RTB Radio,,,3729 L,tp 4C,38-39,,,RTB Radio,https://www.lyngsat.com/radiochannels/bf/RTB-Radio.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+201.0,RTB Radio 2,,,3729 L,tp 4C,38-39,,,RTB Radio 2,https://www.lyngsat.com/radiochannels/bf/RTB-Radio-2.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+202.0,RTB Radio Rurale,,,3729 L,tp 4C,38-39,,,RTB Radio Rurale,https://www.lyngsat.com/radiochannels/bf/RTB-Radio-Rurale.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+204.0,Savane FM,,,3729 L,tp 4C,38-39,,,Savane FM,https://www.lyngsat.com/radiochannels/bf/Savane-FM.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+204.0,Savane FM,,,3729 L,tp 4C,38-39,,,Savane FM,https://www.lyngsat.com/radiochannels/bf/Savane-FM.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+205.0,Radio Jeunesse Sahel,,,3729 L,tp 4C,38-39,,,Radio Jeunesse Sahel,https://www.lyngsat.com/radiochannels/bf/Radio-Jeunesse-Sahel.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+205.0,Radio Jeunesse Sahel,,,3729 L,tp 4C,38-39,,,Radio Jeunesse Sahel,https://www.lyngsat.com/radiochannels/bf/Radio-Jeunesse-Sahel.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+206.0,La Voix du Parlement,,,3729 L,tp 4C,38-39,,,La Voix du Parlement,https://www.lyngsat.com/radiochannels/bf/La-Voix-du-Parlement.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+207.0,Studio Yafa,,,3729 L,tp 4C,38-39,,,Studio Yafa,https://www.lyngsat.com/radiochannels/bf/Studio-Yafa.html,False,,3/5,16833.0,DVB-S2,Fre,bf
+,(feeds),,,3802 R,tp 5C,,,,,,False,,5/6,3750.0,DVB-S2,,
+,(feeds),,,3810 L,tp 6C,,,,,,False,,1/2,9700.0,DVB-S2,,
+,(feeds),,,3815 R,tp 5C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,3821 L,tp 6C,,,,,,False,,1/2,9705.0,DVB-S2,,
+,(feeds),,,3825 R,tp 5C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,3828 L,tp 6C,,,,,,False,,3/5,4800.0,DVB-S2,,
+,(feeds),,,3862 L,tp 6C,,,,,,False,,5/6,3750.0,DVB-S2,,
+,(feeds),,,3972 L,tp 10C,,,,,,False,,2/3,7200.0,DVB-S2,,
+,(feeds),,,3980 L,tp 10C,,,,,,False,,2/3,7200.0,DVB-S2,,
+,(feeds),,,3990 L,tp 10C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,3996 L,tp 10C,,,,,,False,,5/6,3750.0,DVB-S2,,
+,(feeds),,,4144 L,tp 14C,,,,,,False,,3/4,27200.0,DVB-S2,,
+,(feeds),,,4152 L,tp 14C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,4161 L,tp 14C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,4170 L,tp 14C,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,10953 H,tp B1,,,,,,False,,5/6,2200.0,DVB-S2,,
+,(feeds),,,10960 H,tp B1,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,10969 H,tp B1,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,10978 H,tp B1,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,10987 H,tp B1,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,10989 V,tp B2,,,,,,False,,5/6,19411.0,DVB-S2,,
+,(feeds),,,11013 H,tp B1,,,,,,False,,3/4,10000.0,DVB-S2,,
+,(feeds),,,11019 V,tp B2,,,,,,False,,5/6,2200.0,DVB-S2,,
+,(feeds),,,11032 H,tp B1,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,11038 H,tp B1,,,,,,False,,3/4,1600.0,DVB-S2,,
+,(feeds),,,11055 H,tp B1,,,,,,False,,000,5.0,DVB-S2,,
+,(feeds),,,11058 H,tp B1,,,,,,False,,3/4,2255.0,DVB-S2,,
+,(feeds),,,11063 H,tp B1,,,,,,False,,3/4,2270.0,DVB-S2,,
+,(feeds),,,11078 H,tp B3,,,,,,False,,5/6,4950.0,DVB-S2,,
+,(feeds),,,11084 H,tp B3,,,,,,False,,5/6,4950.0,DVB-S2,,
+,(feeds),,,11090 H,tp B3,,,,,,False,,5/6,4950.0,DVB-S2,,
+,(feeds),,,11093 V,tp B4,,,,,,False,,3/5,20000.0,DVB-S2,,
+,(feeds),,,11096 H,tp B3,,,,,,False,,5/6,4950.0,DVB-S2,,
+,(feeds),,,11102 H,tp B3,,,,,,False,,5/6,4950.0,DVB-S2,,
+,(feeds),,,11108 H,tp B3,,,,,,False,,3/4,4650.0,DVB-S2,,
+,(feeds),,,11190 H,tp G3,,,,,,False,,200,8.0,DVB-S2,,
+,(feeds),,,11464 H,tp D1,,,,,,False,,3/4,2220.0,DVB-S2,,
+,(feeds),,,11466 V,tp D2,,,,,,False,,3/4,1910.0,DVB-S1,,
+,(feeds),,,11468 H,tp D1,,,,,,False,,3/4,3000.0,DVB-S2,,
+,(feeds),,,11468 V,tp D2,,,,,,False,,7/8,1850.0,DVB-S1,,
+,(feeds),,,11472 H,tp D1,,,,,,False,,3/4,2600.0,DVB-S2,,
+,(feeds),,,11483 H,tp D1,,,,,,False,,3/4,9260.0,DVB-S9,,
+,(feeds),,,11483 V,tp D2,,,,,,False,,7/8,2200.0,DVB-S2,,
+,(feeds),,,11488 V,tp D2,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,11490 H,tp D1,,,,,,False,,3/4,1850.0,DVB-S1,,
+,(feeds),,,11502 H,tp D1,,,,,,False,,3/4,2966.0,DVB-S2,,
+,(feeds),,,11504 V,tp D2,,,,,,False,,3/4,2850.0,DVB-S2,,
+,(feeds),,,11505 H,tp D1,,,,,,False,,3/4,2115.0,DVB-S2,,
+,(feeds),,,11508 H,tp D1,,,,,,False,,3/4,2170.0,DVB-S2,,
+,(feeds),,,11511 H,tp D1,,,,,,False,,3/4,1800.0,DVB-S1,,
+,(feeds),,,11512 V,tp D2,,,,,,False,,3/4,4000.0,DVB-S2,,
+,(feeds),,,11521 H,tp D3,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11526 V,tp D4,,,,,,False,,3/4,14400.0,DVB-S2,,
+,(feeds),,,11530 H,tp D3,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11539 V,tp D4,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11553 H,tp D3,,,,,,False,,3/4,2222.0,DVB-S2,,
+,(feeds),,,11562 H,tp D3,,,,,,False,,3/4,2850.0,DVB-S2,,
+,(feeds),,,11562 V,tp D4,,,,,,False,,3/4,14400.0,DVB-S2,,
+,(feeds),,,11578 H,tp D5,,,,,,False,,5/6,2400.0,DVB-S2,,
+,(feeds),,,11581 H,tp D5,,,,,,False,,5/6,2400.0,DVB-S2,,
+,(feeds),,,11594 H,tp D5,,,,,,False,,3/4,2000.0,DVB-S2,,
+,(feeds),,,11594 V,tp D6,,,,,,False,,7/8,3333.0,DVB-S3,,
+,(feeds),,,11598 V,tp D6,,,,,,False,,3/4,2250.0,DVB-S2,,
+,(feeds),,,11603 H,tp D5,,,,,,False,,5/6,1600.0,DVB-S1,,
+,(feeds),,,11608 H,tp D5,,,,,,False,,3/4,1500.0,DVB-S2,,
+,(feeds),,,11611 H,tp D5,,,,,,False,,5/6,1600.0,DVB-S2,,
+,(feeds),,,11614 H,tp D5,,,,,,False,,7/8,2200.0,DVB-S2,,
+,(feeds),,,11615 V,tp D6,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,11618 H,tp D5,,,,,,False,,5/6,1600.0,DVB-S2,,
+,(feeds),,,11620 H,tp D5,,,,,,False,,8/9,2200.0,DVB-S2,,
+,(feeds),,,11623 H,tp D5,,,,,,False,,5/6,1600.0,DVB-S2,,
+,(feeds),,,11624 V,tp D6,,,,,,False,,3/4,14400.0,DVB-S2,,
+,(feeds),,,11628 H,tp D5,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,11633 H,tp D6,,,,,,False,,7/8,2200.0,DVB-S2,,
+,(feeds),,,11640 V,tp D8,,,,,,False,,5/6,2000.0,DVB-S2,,
+,(feeds),,,11643 V,tp D8,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,11646 V,tp D8,,,,,,False,,5/6,2100.0,DVB-S2,,
+,(feeds),,,11649 V,tp D8,,,,,,False,,7/8,2210.0,DVB-S2,,
+,(feeds),,,11658 V,tp D8,,,,,,False,,3/4,2190.0,DVB-S2,,
+,(feeds),,,11662 H,tp D7,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11685 V,tp D8,,,,,,False,,5/6,2170.0,DVB-S2,,
+,(feeds),,,11687 H,tp D7,,,,,,False,,3/4,6000.0,DVB-S2,,
+,(feeds),,,12515 H,tp F1,,,,,,False,,3/4,2222.0,DVB-S2,,
+,(feeds),,,12535 H,tp F1,,,,,,False,,3/4,5000.0,DVB-S2,,
+,(feeds),,,12541 H,tp F1,,,,,,False,,5/6,2500.0,DVB-S2,,
+,(feeds),,,12544 H,tp F1,,,,,,False,,3/4,2500.0,DVB-S2,,
+,(feeds),,,12547 V,tp F2,,,,,,False,,3/4,2200.0,DVB-S2,,
+,(feeds),,,12551 V,tp F2,,,,,,False,,3/4,2300.0,DVB-S2,,
+,(feeds),,,12553 V,tp F2,,,,,,False,,5/6,1667.0,DVB-S2,,
+,(feeds),,,12554 H,tp F1,,,,,,False,,5/6,1500.0,DVB-S2,,
+,(feeds),,,12555 V,tp F2,,,,,,False,,3/4,1500.0,DVB-S1,,
+,(feeds),,,12557 V,tp F2,,,,,,False,,3/4,2220.0,DVB-S2,,
+,(feeds),,,12563 V,tp F2,,,,,,False,,3/4,9600.0,DVB-S2,,
+,(feeds),,,12572 V,tp F2,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,12574 H,tp F1,,,,,,False,,2/3,7500.0,DVB-S2,,
+,(feeds),,,12592 H,tp F3,,,,,,False,,2/3,7120.0,DVB-S2,,
+,(feeds),,,12601 H,tp F3,,,,,,False,,2/3,7120.0,DVB-S2,,
+,(feeds),,,12608 H,tp F3,,,,,,False,,3/4,3100.0,DVB-S2,,
+,(feeds),,,12612 H,tp F3,,,,,,False,,3/4,3100.0,DVB-S2,,
+,(feeds),,,12612 V,tp F4,,,,,,False,,7/8,2200.0,DVB-S2,,
+,(feeds),,,12622 H,tp F3,,,,,,False,,3/4,10000.0,DVB-S2,,
+,(feeds),,,12630 H,tp F3,,,,,,False,,2/3,3100.0,DVB-S2,,
+,(feeds),,,12634 H,tp F3,,,,,,False,,3/4,2900.0,DVB-S2,,
+,(feeds),,,12638 V,tp F4,,,,,,False,,3/4,14400.0,DVB-S2,,
+,(feeds),,,12644 H,tp F3,,,,,,False,,5/6,5500.0,DVB-S2,,
+,(feeds),,,12674 H,tp F5,,,,,,False,,3/4,2220.0,DVB-S2,,
+,(feeds),,,12675 V,tp F6,,,,,,False,,5/6,4650.0,DVB-S2,,
+,(feeds),,,12680 V,tp F6,,,,,,False,,7/8,2210.0,DVB-S2,,
+,(feeds),,,12683 V,tp F6,,,,,,False,,3/4,2400.0,DVB-S2,,
+,(feeds),,,12686 V,tp F6,,,,,,False,,7/8,2190.0,DVB-S2,,
+,(feeds),,,12690 H,tp F5,,,,,,False,,2/3,3650.0,DVB-S2,,
+,(feeds),,,12697 V,tp F6,,,,,,False,,5/6,5500.0,DVB-S2,,
+,(feeds),,,12697 H,tp F5,,,,,,False,,3/4,7500.0,DVB-S2,,
+,(feeds),,,12705 V,tp F6,,,,,,False,,5/6,4650.0,DVB-S2,,
+,(feeds),,,12710 V,tp F6,,,,,,False,,5/6,2210.0,DVB-S2,,
+,(feeds),,,12712 H,tp F5,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,12723 V,tp F6,,,,,,False,,5/6,1500.0,DVB-S2,,
+,(feeds),,,12730 H,tp F5,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,12739 H,tp F5,,,,,,False,,3/4,7200.0,DVB-S2,,
+1.0,Mikuba TV,1-1MPEG-4/HD,544.0,3831 L,tp 6C,38-39,,,,,False,,2/3,2190.0,DVB-S2,Fre,
+2.0,Mikuba Radio,,,3831 L,tp 6C,38-39,,,Mikuba Radio,https://www.lyngsat.com/radiochannels/cd/Mikuba-Radio.html,False,,2/3,2190.0,DVB-S2,Fre,cd
+,(Globecast feeds),,,3846 R,tp 5C,,,,,,False,,2/3,30000.0,DVB-S2,,
+,StarTimes TV Nigeria,,,3878 R,tp 7C,38-39,,,,,False,,3/4,7020.0,DVB-S2,,
+,StarTimes TV Nigeria,136-12,,3889 R,tp 7C,38-39,Conax,,,,False,,3/4,13170.0,DVB-S2,,
+14.0,StarTimes TV Guide Nigeria,MPEG-4/SD,31.0,3878 R,tp 7C,38-39,,,StarTimes TV Guide Nigeria,https://www.lyngsat.com/tvchannels/cn/StarTimes-TV-Guide-Nigeria.html,False,,3/4,7020.0,DVB-S2,Eng,cn
+100.0,Wakaati TV,MPEG-4/SD,1100.0,3878 R,tp 7C,38-39,,,Wakaati TV,https://www.lyngsat.com/tvchannels/ng/Wakaati-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+107.0,Silverbird TV,MPEG-4/SD,1107.0,3878 R,tp 7C,38-39,,,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+116.0,Wap TV,MPEG-4/SD,1116.0,3878 R,tp 7C,38-39,,,Wap TV,https://www.lyngsat.com/tvchannels/ng/Wap-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+131.0,Ulaff TV,MPEG-4/SD,1131.0,3878 R,tp 7C,38-39,,,Ulaff TV,https://www.lyngsat.com/tvchannels/ng/Ulaff-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+139.0,Tambarin Hausa TV,MPEG-4/SD,1139.0,3878 R,tp 7C,38-39,,,Tambarin Hausa TV,https://www.lyngsat.com/tvchannels/ng/Tambarin-Hausa-TV.html,False,,3/4,7020.0,DVB-S2,Hau,ng
+140.0,Advocate Broadcasting Network,MPEG-4/SD,1140.0,3878 R,tp 7C,38-39,,,Advocate Broadcasting Network,https://www.lyngsat.com/tvchannels/ng/Advocate-Broadcasting-Network.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+140.0,Advocate Broadcasting Network,MPEG-4/SD,1140.0,3878 R,tp 7C,38-39,,,Advocate Broadcasting Network,https://www.lyngsat.com/tvchannels/ng/Advocate-Broadcasting-Network.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+180.0,Liberty TV (Nigeria),MPEG-4/SD,1180.0,3878 R,tp 7C,38-39,,,Liberty TV (Nigeria),https://www.lyngsat.com/tvchannels/ng/Liberty-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+195.0,Wazobia TV,MPEG-4/SD,1195.0,3878 R,tp 7C,38-39,,,Wazobia TV,https://www.lyngsat.com/tvchannels/ng/Wazobia-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+200.0,Rapid TV,MPEG-4/SD,211.0,3878 R,tp 7C,38-39,,,Rapid TV,https://www.lyngsat.com/tvchannels/ng/Rapid-TV.html,False,,3/4,7020.0,DVB-S2,Eng,ng
+14.0,NTA Sports 24,MPEG-4/SD,73.0,3889 R,tp 7C,38-39,,,NTA Sports 24,https://www.lyngsat.com/tvchannels/ng/NTA-Sports-24.html,False,,3/4,13170.0,DVB-S2,Eng,ng
+33.0,Farin Wata TV,MPEG-4/SD,79.0,3889 R,tp 7C,38-39,,,Farin Wata TV,https://www.lyngsat.com/tvchannels/ng/Farin-Wata-TV.html,False,,3/4,13170.0,DVB-S2,Hau,ng
+38.0,Kaftan TV Yoruba,MPEG-4/SD,108.0,3889 R,tp 7C,38-39,,,Kaftan TV Yoruba,https://www.lyngsat.com/tvchannels/ng/Kaftan-TV-Yoruba.html,False,,3/4,13170.0,DVB-S2,Yor,ng
+142.0,Kaftan TV Hausa,MPEG-4/SD,1142.0,3889 R,tp 7C,38-39,,,Kaftan TV Hausa,https://www.lyngsat.com/tvchannels/ng/Kaftan-TV-Hausa.html,False,,3/4,13170.0,DVB-S2,Hau,ng
+164.0,Trust TV,MPEG-4/SD,611.0,3889 R,tp 7C,38-39,,,Trust TV,https://www.lyngsat.com/tvchannels/ng/Trust-TV.html,False,,3/4,13170.0,DVB-S2,Eng,ng
+164.0,Trust TV,MPEG-4/SD,611.0,3889 R,tp 7C,38-39,,,Trust TV,https://www.lyngsat.com/tvchannels/ng/Trust-TV.html,False,,3/4,13170.0,DVB-S2,Eng,ng
+,StarTimes TV Tanzania,,,3900 R,tp 7C,38-39,,https://www.lyngsat.com/providers/tz/StarTimes-TV-Tanzania.html,,,True,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,
+4.0,ST Bongo,MPEG-4/SD,911.0,3900 R,tp 7C,38-39,,,ST Bongo,https://www.lyngsat.com/tvchannels/cn/ST-Bongo.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,cn
+11.0,Clouds TV,MPEG-4/SD,1109.0,3900 R,tp 7C,38-39,,,Clouds TV,https://www.lyngsat.com/tvchannels/tz/Clouds-TV.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Eng,tz
+13.0,Channel Ten,MPEG-4/SD,231.0,3900 R,tp 7C,38-39,,,Channel Ten,https://www.lyngsat.com/tvchannels/tz/Channel-Ten.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Eng,tz
+14.0,TBC 1,MPEG-4/SD,241.0,3900 R,tp 7C,38-39,,,TBC 1,https://www.lyngsat.com/tvchannels/tz/TBC-1.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,tz
+15.0,TV 3 (Tanzania),MPEG-4/SD,104.0,3900 R,tp 7C,38-39,,,TV 3 (Tanzania),https://www.lyngsat.com/tvchannels/tz/TV-3.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,tz
+17.0,TBC 2,MPEG-4/SD,271.0,3900 R,tp 7C,38-39,,,TBC 2,https://www.lyngsat.com/tvchannels/tz/TBC-2.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,tz
+19.0,Mambo TV Swahili,MPEG-4/SD,1123.0,3900 R,tp 7C,38-39,,,Mambo TV Swahili,https://www.lyngsat.com/tvchannels/tz/Mambo-TV-Swahili.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Swa,tz
+20.0,Star TV (Tanzania),MPEG-4/SD,351.0,3900 R,tp 7C,38-39,,,Star TV (Tanzania),https://www.lyngsat.com/tvchannels/tz/Star-TV.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Swa,tz
+20.0,Star TV (Tanzania),MPEG-4/SD,351.0,3900 R,tp 7C,38-39,,,Star TV (Tanzania),https://www.lyngsat.com/tvchannels/tz/Star-TV.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Swa,tz
+24.0,Tanzania Safari Channel,MPEG-4/SD,1024.0,3900 R,tp 7C,38-39,,,Tanzania Safari Channel,https://www.lyngsat.com/tvchannels/tz/Tanzania-Safari-Channel.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Eng,tz
+26.0,Wasafi TV,MPEG-4/SD,1026.0,3900 R,tp 7C,38-39,,,Wasafi TV,https://www.lyngsat.com/tvchannels/tz/Wasafi-TV.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,,tz
+119.0,WRM TV,MPEG-4/SD,1119.0,3900 R,tp 7C,38-39,,,WRM TV,https://www.lyngsat.com/tvchannels/tz/WRM-TV.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Eng,tz
+991.0,TBC FM,,,3900 R,tp 7C,38-39,,,TBC FM,https://www.lyngsat.com/radiochannels/tz/TBC-FM.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Swa,tz
+992.0,TBC Taifa,,,3900 R,tp 7C,38-39,,,TBC Taifa,https://www.lyngsat.com/radiochannels/tz/TBC-Taifa.html,False,StarTimes TV Tanzania,3/4,6370.0,DVB-S2,Swa,tz
+,StarTimes TV Uganda,,,3914 R,tp 7C,38-39,,https://www.lyngsat.com/providers/ug/StarTimes-TV-Uganda.html,,,True,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,
+,StarTimes TV Uganda,,,3934 R,tp 7C,38-39,Conax,https://www.lyngsat.com/providers/ug/StarTimes-TV-Uganda.html,,,True,StarTimes TV Uganda,3/4,19630.0,DVB-S2,,
+1.0,Fufa TV,MPEG-4/SD,256.0,3914 R,tp 7C,38-39,,,Fufa TV,https://www.lyngsat.com/tvchannels/ug/Fufa-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+101.0,UBC TV,MPEG-4/SD,1101.0,3914 R,tp 7C,38-39,,,UBC TV,https://www.lyngsat.com/tvchannels/ug/UBC-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+103.0,Spark TV,MPEG-4/SD,1031.0,3914 R,tp 7C,38-39,,,Spark TV,https://www.lyngsat.com/tvchannels/ug/Spark-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+104.0,Sanyuka TV,MPEG-4/SD,1104.0,3914 R,tp 7C,38-39,,,Sanyuka TV,https://www.lyngsat.com/tvchannels/ug/Sanyuka-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+107.0,NBS TV,MPEG-4/SD,1107.0,3914 R,tp 7C,38-39,,,NBS TV,https://www.lyngsat.com/tvchannels/ug/NBS-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Swa,ug
+108.0,Bukedde 1,MPEG-4/SD,1108.0,3914 R,tp 7C,38-39,,,Bukedde 1,https://www.lyngsat.com/tvchannels/ug/Bukedde-1.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+108.0,Bukedde 1,MPEG-4/SD,1108.0,3914 R,tp 7C,38-39,,,Bukedde 1,https://www.lyngsat.com/tvchannels/ug/Bukedde-1.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+109.0,NTV Uganda,MPEG-4/SD,1109.0,3914 R,tp 7C,38-39,,,NTV Uganda,https://www.lyngsat.com/tvchannels/ke/NTV-Uganda.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ke
+110.0,Bukedde 2,MPEG-4/SD,1110.0,3914 R,tp 7C,38-39,,,Bukedde 2,https://www.lyngsat.com/tvchannels/ug/Bukedde-2.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+110.0,Bukedde 2,MPEG-4/SD,1110.0,3914 R,tp 7C,38-39,,,Bukedde 2,https://www.lyngsat.com/tvchannels/ug/Bukedde-2.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+115.0,Urban TV (Uganda),MPEG-4/SD,1115.0,3914 R,tp 7C,38-39,,,Urban TV (Uganda),https://www.lyngsat.com/tvchannels/ug/Urban-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+115.0,Urban TV (Uganda),MPEG-4/SD,1115.0,3914 R,tp 7C,38-39,,,Urban TV (Uganda),https://www.lyngsat.com/tvchannels/ug/Urban-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+117.0,TV West (Uganda),MPEG-4/SD,1117.0,3914 R,tp 7C,38-39,,,TV West (Uganda),https://www.lyngsat.com/tvchannels/ug/TV-West.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+117.0,TV West (Uganda),MPEG-4/SD,1117.0,3914 R,tp 7C,38-39,,,TV West (Uganda),https://www.lyngsat.com/tvchannels/ug/TV-West.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+120.0,Top TV,MPEG-4/SD,1153.0,3914 R,tp 7C,38-39,,,Top TV,https://www.lyngsat.com/tvchannels/ug/Top-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+126.0,BBS TV,MPEG-4/SD,1126.0,3914 R,tp 7C,38-39,,,BBS TV,https://www.lyngsat.com/tvchannels/ug/BBS-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+223.0,Face TV (Uganda),MPEG-4/SD,1223.0,3914 R,tp 7C,38-39,,,Face TV (Uganda),https://www.lyngsat.com/tvchannels/ug/Face-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+229.0,Glorious Times TV,MPEG-4/SD,1229.0,3914 R,tp 7C,38-39,,,Glorious Times TV,https://www.lyngsat.com/tvchannels/ug/Glorious-Times-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+239.0,Wan Luo TV,MPEG-4/SD,1239.0,3914 R,tp 7C,38-39,,,Wan Luo TV,https://www.lyngsat.com/tvchannels/ug/Wan-Luo-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+239.0,Wan Luo TV,MPEG-4/SD,1239.0,3914 R,tp 7C,38-39,,,Wan Luo TV,https://www.lyngsat.com/tvchannels/ug/Wan-Luo-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+241.0,Westnile TV,MPEG-4/SD,1241.0,3914 R,tp 7C,38-39,,,Westnile TV,https://www.lyngsat.com/tvchannels/ug/Westnile-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+242.0,Be TV,MPEG-4/SD,1242.0,3914 R,tp 7C,38-39,,,Be TV,https://www.lyngsat.com/tvchannels/ug/Be-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+244.0,KBS TV,MPEG-4/SD,1244.0,3914 R,tp 7C,38-39,,,KBS TV,https://www.lyngsat.com/tvchannels/ug/KBS-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+246.0,UBC Star TV,MPEG-4/SD,65.0,3914 R,tp 7C,38-39,,,UBC Star TV,https://www.lyngsat.com/tvchannels/ug/UBC-Star-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+251.0,Sanyuka Prime,MPEG-4/SD,1251.0,3914 R,tp 7C,38-39,,,Sanyuka Prime,https://www.lyngsat.com/tvchannels/ug/Sanyuka-Prime.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+287.0,Sky TV (Uganda),MPEG-4/SD,2871.0,3914 R,tp 7C,38-39,,,Sky TV (Uganda),https://www.lyngsat.com/tvchannels/ug/Sky-TV.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,Eng,ug
+288.0,[test card],MPEG-4/SD,1288.0,3914 R,tp 7C,38-39,,,,,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,
+495.0,ST Makula,MPEG-4/SD,1495.0,3914 R,tp 7C,38-39,,,ST Makula,https://www.lyngsat.com/tvchannels/cn/ST-Makula.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,cn
+897.0,UBC West,,,3914 R,tp 7C,38-39,,,UBC West,https://www.lyngsat.com/radiochannels/ug/UBC-West.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+898.0,Butebo FM,,,3914 R,tp 7C,38-39,,,Butebo FM,https://www.lyngsat.com/radiochannels/ug/Butebo-FM.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+900.0,UBC Red,,,3914 R,tp 7C,38-39,,,UBC Red,https://www.lyngsat.com/radiochannels/ug/UBC-Red.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+987.0,MCF Radio,,,3914 R,tp 7C,38-39,,,MCF Radio,https://www.lyngsat.com/radiochannels/ug/MCF-Radio.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+987.0,MCF Radio,,,3914 R,tp 7C,38-39,,,MCF Radio,https://www.lyngsat.com/radiochannels/ug/MCF-Radio.html,False,StarTimes TV Uganda,3/4,13725.0,DVB-S2,,ug
+1.0,StarTimes TV Guide Swahili,MPEG-4/SD,34.0,3934 R,tp 7C,38-39,,,StarTimes TV Guide Swahili,https://www.lyngsat.com/tvchannels/cn/StarTimes-TV-Guide-Swahili.html,False,StarTimes TV Uganda,3/4,19630.0,DVB-S2,Swa,cn
+1.0,Héritage TV (Congo),1-1MPEG-4/SD,548.0,4004 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,3/4,1230.0,DVB-S2,Fre,
+257.0,HK 6 Télé,1-1MPEG-4/SD,257.0,4005 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,3/4,1250.0,DVB-S2,Fre,
+257.0,Espace TV,?-?MPEG-4/SD,257.0,4007 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,3/5,1866.0,DVB-S2,Fre,
+3.0,Radio Espace,,,4007 L,tp 10C,38-39,,,Radio Espace,https://www.lyngsat.com/radiochannels/gn/Radio-Espace.html,False,StarTimes TV Uganda,3/5,1866.0,DVB-S2,Fre,gn
+3.0,Radio Espace,,,4007 L,tp 10C,38-39,,,Radio Espace,https://www.lyngsat.com/radiochannels/gn/Radio-Espace.html,False,StarTimes TV Uganda,3/5,1866.0,DVB-S2,Fre,gn
+4.0,Kalac Radio,,,4007 L,tp 10C,38-39,,,Kalac Radio,https://www.lyngsat.com/radiochannels/gn/Kalac-Radio.html,False,StarTimes TV Uganda,3/5,1866.0,DVB-S2,Fre,gn
+1.0,Gabon 24,?-?MPEG-4/SD,101.0,4024 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,5/6,2500.0,DVB-S2,Fre,
+1.0,Power TV (Benin),?-?MPEG-4/SD,598.0,4031 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,3/5,1100.0,DVB-S2,Fre,
+1.0,Malaika TV,?-?MPEG-4/SD,544.0,4033 L,tp 10C,38-39,,,,,False,StarTimes TV Uganda,3/4,1700.0,DVB-S2,Fre,
+,TMT,137-101,,4063 L,tp 12C,38-39,Conax,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,,
+,TMT,,,4063 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,,
+,TMT,,,4063 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,,
+,TMT,137-102,,4099 L,tp 12C,38-39,Conax,,,,False,StarTimes TV Uganda,P 0,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 0,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 2,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 3,,DVB-S2,,
+,TMT,,,4099 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 4,,DVB-S2,,
+1.0,TMT promo,HEVC/SD,256.0,4063 L,tp 12C,38-39,,,,,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,
+915.0,EP Sofala,,,4063 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+915.0,EP Sofala,,,4063 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+915.0,EP Sofala,,,4063 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+915.0,EP Sofala,,,4063 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+601.0,EP Sofala,,,4099 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+601.0,EP Sofala,,,4099 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+601.0,EP Sofala,,,4099 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+601.0,EP Sofala,,,4099 L,tp 12C,38-39,,,EP Sofala,https://www.lyngsat.com/radiochannels/mz/EP-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+916.0,EP Zambezia,,,4063 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+916.0,EP Zambezia,,,4063 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+916.0,EP Zambezia,,,4063 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+916.0,EP Zambezia,,,4063 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+605.0,EP Zambezia,,,4099 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+605.0,EP Zambezia,,,4099 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+605.0,EP Zambezia,,,4099 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+605.0,EP Zambezia,,,4099 L,tp 12C,38-39,,,EP Zambezia,https://www.lyngsat.com/radiochannels/mz/EP-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+919.0,EP Tete,,,4063 L,tp 12C,38-39,,,EP Tete,https://www.lyngsat.com/radiochannels/mz/EP-Tete.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+919.0,EP Tete,,,4063 L,tp 12C,38-39,,,EP Tete,https://www.lyngsat.com/radiochannels/mz/EP-Tete.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+920.0,EP Gaza,,,4063 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+920.0,EP Gaza,,,4063 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+920.0,EP Gaza,,,4063 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+920.0,EP Gaza,,,4063 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+604.0,EP Gaza,,,4099 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 3,,DVB-S2,Por,mz
+604.0,EP Gaza,,,4099 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 3,,DVB-S2,Por,mz
+604.0,EP Gaza,,,4099 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 3,,DVB-S2,Por,mz
+604.0,EP Gaza,,,4099 L,tp 12C,38-39,,,EP Gaza,https://www.lyngsat.com/radiochannels/mz/EP-Gaza.html,False,StarTimes TV Uganda,P 3,,DVB-S2,Por,mz
+922.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+922.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+922.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+922.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+608.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+608.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+608.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+608.0,EP Manica,,,4063 L,tp 12C,38-39,,,EP Manica,https://www.lyngsat.com/radiochannels/mz/EP-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+923.0,EP Maputo,,,4063 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+923.0,EP Maputo,,,4063 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+923.0,EP Maputo,,,4063 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+923.0,EP Maputo,,,4063 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+600.0,EP Maputo,,,4099 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+600.0,EP Maputo,,,4099 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+600.0,EP Maputo,,,4099 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+600.0,EP Maputo,,,4099 L,tp 12C,38-39,,,EP Maputo,https://www.lyngsat.com/radiochannels/mz/EP-Maputo.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+608.0,TVM Manica,HEVC/SD,32.0,4063 L,tp 12C,38-39,,,TVM Manica,https://www.lyngsat.com/tvchannels/mz/TVM-Manica.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+602.0,TVM Nampula,HEVC/SD,32.0,4063 L,tp 12C,38-39,,,TVM Nampula,https://www.lyngsat.com/tvchannels/mz/TVM-Nampula.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+602.0,EP Nampula,,,4063 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+602.0,EP Nampula,,,4063 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+602.0,EP Nampula,,,4063 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+602.0,EP Nampula,,,4063 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+918.0,EP Nampula,,,4099 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+918.0,EP Nampula,,,4099 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+918.0,EP Nampula,,,4099 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+918.0,EP Nampula,,,4099 L,tp 12C,38-39,,,EP Nampula,https://www.lyngsat.com/radiochannels/mz/EP-Nampula.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+911.0,Antena Nacional,,,4099 L,tp 12C,38-39,,,Antena Nacional,https://www.lyngsat.com/radiochannels/mz/Antena-Nacional.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+911.0,Antena Nacional,,,4099 L,tp 12C,38-39,,,Antena Nacional,https://www.lyngsat.com/radiochannels/mz/Antena-Nacional.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+912.0,RM Desporto,,,4099 L,tp 12C,38-39,,,RM Desporto,https://www.lyngsat.com/radiochannels/mz/RM-Desporto.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+912.0,RM Desporto,,,4099 L,tp 12C,38-39,,,RM Desporto,https://www.lyngsat.com/radiochannels/mz/RM-Desporto.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+913.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+913.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+913.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+913.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+603.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 2,,DVB-S2,Por,mz
+603.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 2,,DVB-S2,Por,mz
+603.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 2,,DVB-S2,Por,mz
+603.0,EP Cabo Delgado,,,4099 L,tp 12C,38-39,,,EP Cabo Delgado,https://www.lyngsat.com/radiochannels/mz/EP-Cabo-Delgado.html,False,StarTimes TV Uganda,P 2,,DVB-S2,Por,mz
+914.0,EP Niassa,,,4099 L,tp 12C,38-39,,,EP Niassa,https://www.lyngsat.com/radiochannels/mz/EP-Niassa.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+914.0,EP Niassa,,,4099 L,tp 12C,38-39,,,EP Niassa,https://www.lyngsat.com/radiochannels/mz/EP-Niassa.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+917.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+917.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+917.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+917.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+606.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 4,,DVB-S2,Por,mz
+606.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 4,,DVB-S2,Por,mz
+606.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 4,,DVB-S2,Por,mz
+606.0,EP Inhambane,,,4099 L,tp 12C,38-39,,,EP Inhambane,https://www.lyngsat.com/radiochannels/mz/EP-Inhambane.html,False,StarTimes TV Uganda,P 4,,DVB-S2,Por,mz
+605.0,TVM Zambezia,HEVC/SD,34.0,4099 L,tp 12C,38-39,,,TVM Zambezia,https://www.lyngsat.com/tvchannels/mz/TVM-Zambezia.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+600.0,TVM Maputo,HEVC/SD,33.0,4099 L,tp 12C,38-39,,,TVM Maputo,https://www.lyngsat.com/tvchannels/mz/TVM-Maputo.html,False,StarTimes TV Uganda,P 0,,DVB-S2,Por,mz
+601.0,TVM Sofala,HEVC/SD,5378.0,4099 L,tp 12C,38-39,,,TVM Sofala,https://www.lyngsat.com/tvchannels/mz/TVM-Sofala.html,False,StarTimes TV Uganda,P 1,,DVB-S2,Por,mz
+603.0,TVM Cabo Delgado,HEVC/SD,32.0,4099 L,tp 12C,38-39,,,TVM Cabo Delgado,https://www.lyngsat.com/tvchannels/mz/TVM-Cabo-Delgado.html,False,StarTimes TV Uganda,P 2,,DVB-S2,Por,mz
+604.0,TVM Gaza,HEVC/SD,33.0,4099 L,tp 12C,38-39,,,TVM Gaza,https://www.lyngsat.com/tvchannels/mz/TVM-Gaza.html,False,StarTimes TV Uganda,P 3,,DVB-S2,Por,mz
+606.0,TVM Inhambane,HEVC/SD,33.0,4099 L,tp 12C,38-39,,,TVM Inhambane,https://www.lyngsat.com/tvchannels/mz/TVM-Inhambane.html,False,StarTimes TV Uganda,P 4,,DVB-S2,Por,mz
+,(TV Zimbo feeds),,,11140 H,tp G3,,,,,,False,StarTimes TV Uganda,000,5.0,DVB-S2,,
+,TV Zimbo,MPEG-4/HD,308.0,11145 H,tp G3,,,,,,False,StarTimes TV Uganda,000,5.0,DVB-S2,Por,
+,(IRIB feeds),,,11475 V,tp D2,,,,,,False,StarTimes TV Uganda,3/4,7200.0,DVB-S2,,
+1.0,M24 TV,8192-4096MPEG-4/HD,513.0,11647 H,tp D7,47-48,,,,,False,StarTimes TV Uganda,3/4,1903.0,DVB-S2,Ara,
+1.0,RIM,,,11647 H,tp D7,47-48,,,RIM,https://www.lyngsat.com/radiochannels/ma/RIM.html,False,StarTimes TV Uganda,3/4,1903.0,DVB-S2,,ma
+1.0,RIM,,,11647 H,tp D7,47-48,,,RIM,https://www.lyngsat.com/radiochannels/ma/RIM.html,False,StarTimes TV Uganda,3/4,1903.0,DVB-S2,,ma
+,2M,1-1,,11655 H,tp D7,47-48,BISS 1,https://www.lyngsat.com/providers/ma/2M.html,,,True,2M,3/4,4444.0,DVB-S2,,
+101.0,2M National,MPEG-4/SD,121.0,11655 H,tp D7,47-48,BISS 1,,2M National,https://www.lyngsat.com/tvchannels/ma/2M-National.html,False,2M,3/4,4444.0,DVB-S2,Ara,ma
+102.0,2M Monde,MPEG-4/SD,122.0,11655 H,tp D7,47-48,,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html,False,2M,3/4,4444.0,DVB-S2,Ara,ma
+102.0,2M Monde,MPEG-4/SD,122.0,11655 H,tp D7,47-48,,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html,False,2M,3/4,4444.0,DVB-S2,Ara,ma
+103.0,2M Monde,MPEG-4/SD,123.0,11655 H,tp D7,47-48,BISS 1,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html,False,2M,3/4,4444.0,DVB-S2,Ara,ma
+103.0,2M Monde,MPEG-4/SD,123.0,11655 H,tp D7,47-48,BISS 1,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html,False,2M,3/4,4444.0,DVB-S2,Ara,ma
+104.0,Radio 2M,,,11655 H,tp D7,47-48,,,Radio 2M,https://www.lyngsat.com/radiochannels/ma/Radio-2M.html,False,2M,3/4,4444.0,DVB-S2,,ma
+104.0,Radio 2M,,,11655 H,tp D7,47-48,,,Radio 2M,https://www.lyngsat.com/radiochannels/ma/Radio-2M.html,False,2M,3/4,4444.0,DVB-S2,,ma
+1.0,Al Rabiaa TV,65535-1MPEG-4/HD,1001.0,11673 H,tp D7,47-48,,,,,False,2M,3/5,3333.0,DVB-S2,Ara,
+1.0,Imam Ali TV,65535-1MPEG-4/HD,1001.0,11677 H,tp D7,47-48,,,,,False,2M,5/6,2083.0,DVB-S2,Ara,
+1.0,Alahad TV,65535-1MPEG-4/HD,308.0,11694 H,tp D7,47-48,BISS 1,,,,False,2M,5/6,2963.0,DVB-S2,Ara,
+1.0,Radio Maria Romania,1-1,,12578.4V,,47-48,,,,,False,2M,1/2,256.0,DVB-S2,Rum,
+1.0,Radio Marija Srbija,1-1,,12578.9V,,47-48,,,,,False,2M,1/2,256.0,DVB-S2,Hrv,
+1.0,Radio Marija Bosna i Hercegovina,1-1,,12579.2V,,47-48,,,,,False,2M,1/2,256.0,DVB-S2,Hrv,
+1.0,Radio Marija Russia,1-1,,12580.4V,,47-48,,,,,False,2M,1/2,256.0,DVB-S2,Rus,
+1.0,NourSat,65535-1MPEG-4/SD,49.0,12656 H,tp F3,47-48,,,,,False,2M,3/5,1483.0,DVB-S2,Ara,
+,Channel 8,65535-1,,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,,iq
+,Channel 8,65535-1,,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,,iq
+,Channel 8,65535-1,,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,,iq
+,Channel 8,65535-1,,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,,iq
+1.0,Channel 8,MPEG-4/HD,33.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+1.0,Channel 8,MPEG-4/HD,33.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+1.0,Channel 8,MPEG-4/HD,33.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+1.0,Channel 8,MPEG-4/HD,33.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+2.0,Channel 8,MPEG-4/HD,37.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+2.0,Channel 8,MPEG-4/HD,37.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+2.0,Channel 8,MPEG-4/HD,37.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+2.0,Channel 8,MPEG-4/HD,37.0,12723 H,tp F5,47-48,,https://www.lyngsat.com/providers/iq/Channel-8.html,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html,True,Channel 8,3/4,5000.0,DVB-S2,Kur,iq
+,,,,,,,,,DVB-S2QPSK28575/6,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK28575/6,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK21902/3,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK12303/4,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK12503/4,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK18663/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK18663/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK25005/6,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK11003/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK17003/4,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK5000,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2QPSK5000,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK19033/4,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK19033/4,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK33333/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK33333/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK20835/6,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK20835/6,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK29635/6,BISS 1,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK29635/6,BISS 1,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S2561/2,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK14833/5,,False,Channel 8,,,,,
+,,,,,,,,,DVB-S28PSK14833/5,,False,Channel 8,,,,,

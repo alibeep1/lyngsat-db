@@ -1,0 +1,143 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,11455 H,,,,,False,,2/3,5000,DVB-S2,
+,(feeds),,,11461 H,,,,,False,,2/3,5000,DVB-S2,
+,(feeds),,,11467 H,,,,,False,,3/4,4500,DVB-S2,
+,(feeds),,,11481 H,,,,,False,,3/4,3875,DVB-S2,
+,(feeds),,,11487 H,,,,,False,,5/6,3875,DVB-S2,
+,(feeds),,,11502 H,,,,,False,,5/6,2222,DVB-S2,
+,(feeds),,,11516 H,,,,,False,,5/6,2000,DVB-S2,
+,(feeds),,,11542 H,,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11551 H,,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11625 H,tp 11,,,,False,,5/6,1000,DVB-S2,
+,(feeds),,,11663 H,tp 12,,,,False,,3/4,29700,DVB-S2,
+,(feeds),,,11672 H,tp 12,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11680 H,tp 12,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11681 V,tp 12,,,,False,,5/6,2200,DVB-S2,
+,(feeds),,,11689 H,tp 12,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12548 H,,,,,False,,3/4,3600,DVB-S2,
+,(feeds),,,12560 H,,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12567 H,,,,,False,,3/4,5000,DVB-S2,
+,(feeds),,,12578 H,,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12629 H,,,,,False,,5/6,2500,DVB-S2,
+,(feeds),,,12632 H,,,,,False,,5/6,2500,DVB-S2,
+,(feeds),,,12637 H,,,,,False,,5/6,5000,DVB-S2,
+,(feeds),,,12643 H,,,,,False,,5/6,5000,DVB-S2,
+,(feeds),,,12682 H,tp 23,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,12693 H,tp 23,,,,False,,2/3,29370,DVB-S2,
+,(feeds),,,12714 H,tp 24,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12719 H,tp 24,,,,False,,5/6,1580,DVB-S1,
+,(feeds),,,12721 V,,,,,False,,5/6,1580,DVB-S2,
+,(feeds),,,12731 V,,,,,False,,5/6,1580,DVB-S2,
+,(feeds),,,12737 H,tp 24,,,,False,,3/4,5000,DVB-S2,
+,(feeds),,,12743 H,tp 24,,,,False,,3/4,5000,DVB-S2,
+1.0,Media Office,?-1MPEG-4/HD,33.0,11510 H,,50-52,,,False,,3/4,4444,DVB-S2,Ara
+1.0,Media Office,65535-1MPEG-4/HD,33.0,12439 H,,46-48,,,False,,3/4,4444,DVB-S2,Ara
+1.0,Alsumaria,1-0MPEG-4/HD,512.0,11514 H,,50-52,,,False,,5/6,2142,DVB-S2,Ara
+1.0,Sumer FM,,,11514 H,,50-52,,,False,,5/6,2142,DVB-S2,Ara
+,A1 Bulgaria,926-177,,12117 H,,46-48,Conax,,False,,5/6,30000,DVB-S2,
+,A1 Bulgaria,926-178,,12137 V,,46-48,Conax,,False,,5/6,30000,DVB-S2,
+,A1 Bulgaria,926-2833,,12309 H,,46-48,"Conax,Nagravision",,False,,5/6,30000,DVB-S2,
+131.0,The Voice TV,HEVC,4101.0,12117 H,,46-48,,,False,,5/6,30000,DVB-S2,Bul
+1015.0,The Voice TV,MPEG-2/SD,848.0,12271 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+,Bulsatcom,1-7,,12156 H,,46-48,"Bulcrypt,Conax,Nagravision",,False,,5/6,30000,DVB-S2,
+,Bulsatcom,1-2,,12194 H,,46-48,"Bulcrypt,Conax,Nagravision",,False,,7/8,30000,DVB-S3,
+,Bulsatcom,1-4,,12213 V,,46-48,"Bulcrypt,Conax,Nagravision",,False,,7/8,30000,DVB-S3,
+,Bulsatcom,1-1,,12271 H,,46-48,"Bulcrypt,Conax,Nagravision",,False,,7/8,30000,DVB-S3,
+,Bulsatcom,1-5,,12463 H,,46-48,"Bulcrypt,Conax,Nagravision",,False,,5/6,30000,DVB-S2,
+,Bulsatcom,1-3,,12482 V,,46-48,"Bulcrypt,Conax,Nagravision",,False,,7/8,30000,DVB-S3,
+,Bulsatcom,1-6,,12524 H,,46-48,"Bulcrypt,Conax,Nagravision",,False,,7/8,30000,DVB-S3,
+,Orange România,28-15,,12175 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+,Orange România,167-5228,,12251 V,,46-48,"Viaccess,Videoguard",,False,,3/4,30000,DVB-S2,
+,Orange România,28-1,,12290 V,,46-48,"Viaccess,Videoguard",,False,,3/4,30000,DVB-S2,
+,Orange România,28-2,,12328 V,,46-48,"Viaccess,Videoguard",,False,,3/4,30000,DVB-S2,
+,Orange România,28-3,,12367 V,,46-48,"Viaccess,Videoguard",,False,,3/4,30000,DVB-S2,
+,Orange România,28-18,,12405 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+,Orange România,28-13,,12524 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+,Orange România,28-14,,12565 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+,Orange România,167-5233,,12606 V,,46-48,"Viaccess,Videoguard",,False,,3/4,30000,DVB-S2,
+,Orange România,28-16,,12647 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+,Orange România,28-17,,12688 V,,46-48,"Viaccess,Videoguard",,False,,7/8,30000,DVB-S3,
+50.0,Radio 1 Rock,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+51.0,NRJ Bulgaria,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+52.0,BG Radio,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+53.0,Darik Radio,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+54.0,Tangra Mega Rock,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+55.0,Radio Payner,,,12194 H,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+115.0,Fen Folk,MPEG-2/SD,616.0,12213 V,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+119.0,Folklor TV,MPEG-2/SD,632.0,12213 V,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+121.0,Fen TV,MPEG-2/SD,640.0,12213 V,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+123.0,Balkanika Music TV,MPEG-2/SD,648.0,12213 V,,46-48,,,False,,7/8,30000,DVB-S3,Bul
+,ERT,8492-2,,12224 H,,46-48,,https://www.lyngsat.com/providers/gr/ERT.html,True,ERT,3/4,13381,DVB-S2,
+9.0,Vouli TV,MPEG-4/SD,137.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+10.0,ERT 1,MPEG-4/SD,138.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+40.0,ERT 1,MPEG-4/HD,141.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre Qaa
+3.0,ERT 1,MPEG-4/SD,130.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+20.0,ERT 2,MPEG-4/SD,139.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+1.0,ERT 2,MPEG-4/HD,128.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+35.0,ERT 3,MPEG-4/SD,142.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+2.0,ERT 3,MPEG-4/HD,129.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+41.0,ERT News,MPEG-4/HD,143.0,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+7.0,ERT News,MPEG-4/SD,134.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+11.0,Proto Programma,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+12.0,Kosmos,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+13.0,Trito Maestro,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+14.0,Deftero Paradosiaka,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+21.0,Trito Programma,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+22.0,Deftero Programma,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+23.0,Deftero Laika,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+31.0,ERA Spor,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+32.0,I Foni tis Elladas,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,
+33.0,Zeppelin 106.7,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+34.0,Kosmos Jazz,,,12224 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+,,8492-1,,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,
+4.0,RIK Sat,MPEG-4/SD,131.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Gre
+5.0,TV5Monde Europe,MPEG-4/SD,132.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Fre
+6.0,BBC News Europe,MPEG-4/SD,133.0,12242 H,,46-48,,,False,ERT,3/4,13381,DVB-S2,Eng
+1004.0,Magic TV (Bulgaria),MPEG-2/SD,792.0,12271 H,,46-48,,,False,ERT,7/8,30000,DVB-S3,Bul
+,Digea,8492-101,,12338 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-101,,12338 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-101,,12338 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-103,,12352 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-103,,12352 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-103,,12352 H,,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-105,,12414 H,tp F5,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-105,,12414 H,tp F5,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+,Digea,8492-105,,12414 H,tp F5,46-48,BISS,https://www.lyngsat.com/providers/gr/Digea.html,True,Digea,2/3,11568,DVB-S2,
+1100.0,Alpha TV,MPEG-4/HD,1110.0,12338 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3100.0,Alpha TV,MPEG-4/SD,3110.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1200.0,SKAÏ,MPEG-4/HD,1210.0,12338 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3200.0,SKAÏ,MPEG-4/SD,3210.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1300.0,Ant1,MPEG-4/HD,1310.0,12338 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3300.0,Ant1,MPEG-4/SD,3310.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1400.0,Open Beyond TV,MPEG-4/HD,1410.0,12338 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3400.0,Open Beyond TV,MPEG-4/SD,3410.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1500.0,Star Channel (Greece),MPEG-4/HD,1510.0,12352 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3500.0,Star Channel (Greece),MPEG-4/SD,3510.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1600.0,Mega TV (Greece),MPEG-4/HD,1610.0,12352 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3600.0,Mega TV (Greece),MPEG-4/SD,3610.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+1700.0,Makedonia TV,MPEG-4/HD,1710.0,12352 H,,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+3700.0,Makedonia TV,MPEG-4/SD,3710.0,12414 H,tp F5,46-48,BISS,,False,Digea,2/3,11568,DVB-S2,Gre
+23.0,Radio Vitosha East,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+24.0,Radio Vitosha West,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+25.0,Radio Veselina East,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+26.0,Radio Veselina West,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+27.0,Magic FM (Bulgaria),,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+29.0,The Voice Bulgaria,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+62.0,Radio Veselina North,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+63.0,Radio Veselina South,,,12482 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Bul
+500.0,Itsy Bitsy FM,,,12524 V,,46-48,,,False,Digea,7/8,30000,DVB-S3,Rum
+703.0,B1,MPEG-4/HD,37.0,12606 V,,46-48,,,False,Digea,3/4,30000,DVB-S2,Rum
+709.0,Trinitas TV,MPEG-4/HD,55.0,12606 V,,46-48,,,False,Digea,3/4,30000,DVB-S2,Rum
+,(Telekom Sports feeds),,,12616 H,,,,,False,Digea,3/4,3333,DVB-S3,
+,Intact Media Group,366-0,,12656 H,tp 22,46-48,Conax,https://www.lyngsat.com/providers/ro/Intact-Media-Group.html,True,Intact Media Group,3/4,15155,DVB-S2,
+1.0,Antena 1 (Romania),MPEG-4/SD,1120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+7.0,Antena 1 (Romania),MPEG-4/HD,7120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+2.0,Antena Stars,MPEG-4/SD,2120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+3.0,Antena 3 CNN,MPEG-4/SD,3120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+4.0,Happy Channel,MPEG-4/SD,4120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+5.0,Zu TV,MPEG-4/SD,5120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+6.0,Antena International,MPEG-2/SD,6120.0,12656 H,tp 22,46-48,Conax,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+55.0,Radio Zu,,,12656 H,tp 22,46-48,,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+56.0,Romantic FM,,,12656 H,tp 22,46-48,,,False,Intact Media Group,3/4,15155,DVB-S2,Rum
+324.0,Nasul TV,MPEG-2/SD,611.0,12688 V,,46-48,,,False,Intact Media Group,7/8,30000,DVB-S3,Rum
+1.0,Kanal D Romania,1337-6MPEG-4/HD,200.0,12724 H,tp 24,46-48,BISS 1,,False,Intact Media Group,2/3,6250,DVB-S2,Rum

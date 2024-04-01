@@ -1,0 +1,11 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(Solar feeds),,,3816 H,,,,,False,,3/4,3330,DVB-S2,
+,(feeds),,,4047 V,,,,,False,,2/5,4800,DVB-S2,
+,(feeds),,,4053 V,,,,,False,,2/5,4800,DVB-S2,
+,(feeds),,,4059 V,,,,,False,,2/5,4800,DVB-S2,
+1.0,CCTV 13,?-?MPEG-4/HD,33.0,11041 H,,,,,False,,3/4,7200,DVB-S2,Chi
+,(CCTV feeds),,,11054 H,,,,,False,,3/5,15000,DVB-S2,
+1.0,CCTV 5,?-?MPEG-4/HD,273.0,11118 H,,,,,False,,8/9,28000,DVB-S2,Chi
+,@ CIBN,,,11536 H,,,,,False,,4/5,32500,DVB-S2,
+,(CCTV feeds),,,11651 H,,,,,False,,3/4,15000,DVB-S2,
+1.0,CCTV 1,?-?MPEG-4/HD,33.0,11672 H,,,,,False,,3/5,7200,DVB-S2,Chi

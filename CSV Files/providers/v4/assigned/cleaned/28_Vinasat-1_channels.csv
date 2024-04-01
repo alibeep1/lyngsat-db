@@ -1,0 +1,99 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(VTV feeds),,,3475 V,tp 2V,,,,False,,3/4,3000,DVB-S3,
+,(feeds),,,3493 H,tp 2H,,,,False,,3/4,1600,DVB-S1,
+,(feeds),,,3569 V,tp 5V,,,,False,,500,8,DVB-S2,
+,[PANP 2 test card],MPEG-2/SD,308.0,3798 H,,,,,False,,3/4,1550,DVB-S1,
+,VTC Digital,12901-8,,10968 H,tp 1,,Irdeto,,False,,3/4,28800,DVB-S2,
+801.0,VTC Digital promo,MPEG-4/SD,601.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+805.0,Quang Ninh TV 1,MPEG-4/HD,605.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+806.0,Quang Ninh TV 3,MPEG-4/HD,606.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+807.0,Quoc Hoi TV,MPEG-4/HD,607.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+819.0,Nhan Dan TV,MPEG-4/HD,619.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+820.0,V News,MPEG-4/HD,620.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+821.0,Vinh Long TV 1,MPEG-4/HD,621.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+822.0,Vinh Long TV 2,MPEG-4/HD,622.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+823.0,Hai Phong TV,MPEG-4/HD,623.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+824.0,THP+,MPEG-4/HD,624.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+826.0,Phu Tho TV,MPEG-4/HD,626.0,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+861.0,Phu Tho Radio,,,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+862.0,Quang Ninh Radio 1,,,10968 H,tp 1,,,,False,,3/4,28800,DVB-S2,Vie
+,VTC Digital,,,11008 H,tp 2,,Irdeto,,False,,3/4,14400,DVB-S2,
+1003.0,SCJ TV Shopping,MPEG-4/SD,3103.0,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+1006.0,[test card],MPEG-4/SD,3106.0,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,
+1009.0,An Ninh TV,MPEG-4/HD,3109.0,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+1011.0,[test card],MPEG-4/SD,3111.0,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,
+1012.0,QPVN,MPEG-4/HD,3112.0,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+1051.0,VOV 1,,,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+1052.0,VOV 2,,,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+1053.0,VOV 3,,,11008 H,tp 2,,,,False,,3/4,14400,DVB-S2,Vie
+,VTC Digital,12901-16,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,
+1581.0,Nghe An TV,MPEG-4/HD,195.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1582.0,HTV 2,MPEG-4/SD,196.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1601.0,Lao Cai TV,MPEG-4/SD,201.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1602.0,Lao Cai TV,MPEG-4/HD,202.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1603.0,Lai Chau TV,MPEG-4/HD,238.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1604.0,Son La TV,MPEG-4/HD,204.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1605.0,Ha Giang TV,MPEG-4/HD,205.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1606.0,Yen Bai TV,MPEG-4/HD,206.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1607.0,Hung Yen TV,MPEG-4/SD,207.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1608.0,Tuyen Quang TV,MPEG-4/HD,208.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1609.0,Thai Nguyen TV 1,MPEG-4/HD,209.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1610.0,Hoa Binh TV,MPEG-4/HD,210.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1611.0,Bac Kan TV,MPEG-4/HD,211.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1612.0,Bac Ninh TV,MPEG-4/HD,212.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1613.0,Cao Bang TV,MPEG-4/HD,213.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1614.0,[Hai Phong TV info card],MPEG-4/HD,214.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1615.0,Ninh Binh TV,MPEG-4/HD,215.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1616.0,Thanh Hoa TV,MPEG-4/SD,216.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1617.0,Quang Ngai TV,MPEG-4/HD,217.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1618.0,Gia Lai TV,MPEG-4/HD,218.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1619.0,Ninh Thuan TV,MPEG-4/SD,219.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1620.0,Lam Dong TV,MPEG-4/HD,220.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1621.0,Ben Tre TV,MPEG-4/HD,221.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1622.0,Binh Thuan TV,MPEG-4/HD,222.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1623.0,Dien Bien TV,MPEG-4/HD,223.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1624.0,Dong Nai TV 1,MPEG-4/HD,224.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1625.0,Dong Nai TV 2,MPEG-4/HD,225.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1626.0,Ba Ria Vung Tau TV,MPEG-4/SD,226.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1627.0,[test card],MPEG-4/SD,227.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,
+1628.0,Tien Giang TV,MPEG-4/HD,228.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1629.0,Tra Vinh TV,MPEG-4/HD,229.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1630.0,Kien Giang TV,MPEG-4/SD,230.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1631.0,Kien Giang TV 1,MPEG-4/SD,231.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1632.0,Quang Binh TV,MPEG-4/HD,232.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1633.0,Quang Tri TV,MPEG-4/SD,233.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1634.0,Kon Tum TV,MPEG-4/SD,234.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1635.0,Phu Yen TV,MPEG-4/HD,235.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1636.0,[Son La TV info card],MPEG-4/SD,236.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1637.0,[Tra Vinh TV info card],MPEG-4/SD,237.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1638.0,An Giang TV,MPEG-4/SD,203.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1639.0,[Dien Bien TV info card],MPEG-4/SD,239.0,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1651.0,Binh Thuan Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1653.0,Thanh Hoa FM,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1654.0,Tuyen Quang Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1655.0,Yen Bai Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1656.0,Ha Giang Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1657.0,Son La Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1658.0,Quang Ngai Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1659.0,Thai Nguyen FM,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1661.0,Vung Tau FM,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1662.0,Lam Dong Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1664.0,Dien Bien Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1665.0,Phu Yen Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1666.0,Lao Cai Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1667.0,Lao Cai Dan Toc Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1668.0,Bac Ninh Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1669.0,Nghe An Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1670.0,Kon Tum Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1671.0,Ninh Thuan Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1672.0,Hoa Binh Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1673.0,Lai Chau Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+1674.0,Ben Tre Radio,,,11472 H,tp 7,,,,False,,3/4,23200,DVB-S2,Vie
+,K+,1-1,,11549 H,tp 9,,Nagravision,,False,,3/4,30000,DVB-S2,
+6007.0,VTV 1,MPEG-2/SD,1070.0,11549 H,tp 9,,,,False,,3/4,30000,DVB-S2,Vie
+21.0,VOV 1,,,11549 H,tp 9,,,,False,,3/4,30000,DVB-S2,Vie
+22.0,VOV 3,,,11549 H,tp 9,,,,False,,3/4,30000,DVB-S2,Vie
+24.0,VOV 2,,,11549 H,tp 9,,,,False,,3/4,30000,DVB-S2,Vie
+,K+,1-1000,,11589 H,tp 10,,Nagravision,,False,,3/4,28800,DVB-S2,
+,K+,1-1100,,11629 H,tp 11,,Nagravision,,False,,3/4,30000,DVB-S2,
+,K+,1-1300,,11669 H,tp 12,,Nagravision,,False,,3/4,7500,DVB-S2,

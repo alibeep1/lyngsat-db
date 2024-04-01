@@ -1,0 +1,18 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,BS Digital,,,11727 R,tp 1,,B-CAS,,False,,2/3,28860,ISDB-S,
+151.0,BS Asahi,/HD,320.0,11727 R,tp 1,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+161.0,BS-TBS,/HD,273.0,11727 R,tp 1,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+171.0,BS TV Tokyo,/HD,,11727 R,tp 1,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+,BS Digital,,,11766 R,tp 3,,B-CAS,,False,,2/3,28860,ISDB-S,
+103.0,NHK BS Premium,/HD,,11766 R,tp 3,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+,BS Digital,,,11881 R,tp 9,,B-CAS,,False,,2/3,28860,ISDB-S,
+211.0,BS 11,/HD,,11881 R,tp 9,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+222.0,BS 12,/HD,,11881 R,tp 9,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+,BS Digital,,,11958 R,tp 13,,B-CAS,,False,,2/3,28860,ISDB-S,
+141.0,BS Nippon TV,/HD,,11958 R,tp 13,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+181.0,BS Fuji,/HD,,11958 R,tp 13,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+,BS Digital,,,11996 R,tp 15,,B-CAS,,False,,2/3,28860,ISDB-S,
+101.0,NHK BS 1,,,11996 R,tp 15,,B-CAS,,False,,2/3,28860,ISDB-S,Jpn
+,BS Digital,,,12034 R,tp 17,,ACAS,,False,,56.,337,ISDB-S,
+45329.0,BS-TBS 4K,HEVC/UHD,,12034 R,tp 17,,ACAS,,False,,56.,337,ISDB-S,Jpn
+45330.0,BS Fuji 4K,HEVC/UHD,,12034 R,tp 17,,ACAS,,False,,56.,337,ISDB-S,Jpn

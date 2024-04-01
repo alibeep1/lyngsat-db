@@ -1,0 +1,147 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,(CNN feeds),,,11728 H,tp 1,,,,,,False,,250,24.0,DVB-S2,,
+,(CNN feeds),,,11734 H,tp 1,,,,,,False,,250,24.0,DVB-S2,,
+,(CNN feeds),,,12020 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(CNN feeds),,,12035 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(feeds),,,11815 H,tp 5,,,,,,False,,500,24.0,DVB-S2,,
+,(feeds),,,11904 H,tp 11,,,,,,False,,3/4,4600.0,DVB-S2,,
+,(feeds),,,11917 H,tp 11,,,,,,False,,600,24.0,DVB-S2,,
+,(feeds),,,11923 H,tp 11,,,,,,False,,600,24.0,DVB-S2,,
+,(feeds),,,11929 H,tp 11,,,,,,False,,600,24.0,DVB-S2,,
+,(feeds),,,11935 H,tp 11,,,,,,False,,600,24.0,DVB-S2,,
+,(feeds),,,11995 V,tp 14,,,,,,False,,540,23.0,DVB-S2,,
+,(feeds),,,12025 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(feeds),,,12053 V,tp 18,,,,,,False,,540,23.0,DVB-S2,,
+,(feeds),,,12057 V,tp 18,,,,,,False,,540,23.0,DVB-S2,,
+,(feeds),,,12067 V,tp 18,,,,,,False,,540,23.0,DVB-S2,,
+,(feeds),,,12075 V,tp 18,,,,,,False,,540,23.0,DVB-S2,,
+,,,,11910 H,tp 11,0.0,,,,,False,,,,,,
+,,,,12080 H,tp 19,0.0,,,,,False,,3/4,29970.0,DVB-S2,,
+,,?-1,,12145 V,tp 22,0.0,,,,,False,,3/4,20000.0,DVB-S2,,
+,,,,12151 H,tp 23,0.0,,,,,False,,,,,,
+,,,,12157 H,tp 23,0.0,,,,,False,,,,,,
+,,,,12163 H,tp 23,0.0,,,,,False,,,,,,
+,,,,12175 H,tp 23,0.0,,,,,False,,,,,,
+,,,,12182 V,tp 24,0.0,,,,,False,,,,,,
+,(NBC feeds),,,11950 H,tp 13,,,,,,False,,600,24.0,DVB-S2,,
+,(NBC feeds),,,11956 H,tp 13,,,,,,False,,600,24.0,DVB-S2,,
+,(NBC feeds),,,11962 H,tp 13,,,,,,False,,600,24.0,DVB-S2,,
+,(NBC feeds),,,11969 H,tp 13,,,,,,False,,600,24.0,DVB-S2,,
+,(NBC feeds),,,12025 H,tp 17,,,,,,False,,3/4,4600.0,DVB-S2,,
+,(NBC feeds),,,12054 H,tp 17,,,,,,False,,600,24.0,DVB-S2,,
+65.0,(NBC feeds),,650.0,12120 H,tp 21,0.0,BISS,,,,False,,5/6,30000.0,DVB-S2,,
+66.0,(NBC feeds),,660.0,12120 H,tp 21,0.0,BISS,,,,False,,5/6,30000.0,DVB-S2,,
+67.0,(NBC feeds),,670.0,12120 H,tp 21,0.0,BISS,,,,False,,5/6,30000.0,DVB-S2,,
+,(WFXT-TV feeds),,,12005 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(WHDH-TV feeds),,,12010 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(WHDH-TV feeds),,,12015 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+,(Vyvx feeds),,,12030 V,tp 16,,,,,,False,,250,24.0,DVB-S2,,
+1.0,DW English,MPEG-4/HD,2001.0,12080 H,tp 19,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,,3/4,29970.0,DVB-S2,Eng,de
+1.0,DW English,MPEG-4/HD,2001.0,12080 H,tp 19,0.0,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,False,,3/4,29970.0,DVB-S2,Eng,de
+3.0,NTA International,MPEG-4/HD,2003.0,12080 H,tp 19,0.0,,,NTA International,https://www.lyngsat.com/tvchannels/ng/NTA-International.html,False,,3/4,29970.0,DVB-S2,Eng,ng
+,NBC,1-1,,12120 H,tp 21,0.0,BISS,https://www.lyngsat.com/providers/us/NBC.html,,,True,NBC,5/6,30000.0,DVB-S2,,
+28.0,Cozi TV,MPEG-2/SD,281.0,12120 H,tp 21,0.0,,,Cozi TV,https://www.lyngsat.com/tvchannels/us/Cozi-TV.html,False,NBC,5/6,30000.0,DVB-S2,Eng,us
+61.0,NBC East,MPEG-4/HD,610.0,12120 H,tp 21,0.0,BISS,,NBC East,https://www.lyngsat.com/tvchannels/us/NBC-East.html,False,NBC,5/6,30000.0,DVB-S2,Eng,us
+62.0,NBC Central,MPEG-4/HD,620.0,12120 H,tp 21,0.0,BISS,,NBC Central,https://www.lyngsat.com/tvchannels/us/NBC-Central.html,False,NBC,5/6,30000.0,DVB-S2,Eng,us
+63.0,NBC Mountain,MPEG-4/HD,630.0,12120 H,tp 21,0.0,BISS,,NBC Mountain,https://www.lyngsat.com/tvchannels/us/NBC-Mountain.html,False,NBC,5/6,30000.0,DVB-S2,Eng,us
+64.0,NBC West,MPEG-4/HD,640.0,12120 H,tp 21,0.0,BISS,,NBC West,https://www.lyngsat.com/tvchannels/us/NBC-West.html,False,NBC,5/6,30000.0,DVB-S2,Eng,us
+1.0,NewsNation,MPEG-4/HD,101.0,12145 V,tp 22,0.0,,,NewsNation,https://www.lyngsat.com/tvchannels/us/NewsNation.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+2.0,NHK World Japan,MPEG-4/HD,102.0,12145 V,tp 22,0.0,,,NHK World Japan,https://www.lyngsat.com/tvchannels/jp/NHK-World-Japan.html,False,NBC,3/4,20000.0,DVB-S2,Eng,jp
+2.0,NHK World Japan,MPEG-4/HD,102.0,12145 V,tp 22,0.0,,,NHK World Japan,https://www.lyngsat.com/tvchannels/jp/NHK-World-Japan.html,False,NBC,3/4,20000.0,DVB-S2,Eng,jp
+3.0,SBN Domestic,MPEG-4/HD,103.0,12145 V,tp 22,0.0,,,SBN Domestic,https://www.lyngsat.com/tvchannels/us/SBN-Domestic.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+4.0,NHK +,MPEG-4/HD,104.0,12145 V,tp 22,0.0,,,NHK +,https://www.lyngsat.com/tvchannels/jp/NHK--.html,False,NBC,3/4,20000.0,DVB-S2,Jpn,jp
+6.0,Reach TV,MPEG-4/HD,106.0,12145 V,tp 22,0.0,,,Reach TV,https://www.lyngsat.com/tvchannels/us/Reach-TV.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+7.0,Taiwan +,MPEG-4/HD,107.0,12145 V,tp 22,0.0,,,Taiwan +,https://www.lyngsat.com/tvchannels/tw/Taiwan--.html,False,NBC,3/4,20000.0,DVB-S2,Eng,tw
+7.0,Taiwan +,MPEG-4/HD,107.0,12145 V,tp 22,0.0,,,Taiwan +,https://www.lyngsat.com/tvchannels/tw/Taiwan--.html,False,NBC,3/4,20000.0,DVB-S2,Eng,tw
+44.0,Microspace promo,MPEG-4/HD,5185.0,12145 V,tp 22,0.0,,,,,False,NBC,3/4,20000.0,DVB-S2,Eng,
+61.0,North Carolina Reading Service,,,12145 V,tp 22,0.0,,,North Carolina Reading Service,https://www.lyngsat.com/radiochannels/us/North-Carolina-Reading-Service.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+61.0,North Carolina Reading Service,,,12145 V,tp 22,0.0,,,North Carolina Reading Service,https://www.lyngsat.com/radiochannels/us/North-Carolina-Reading-Service.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+81.0,The Classical Station,,,12145 V,tp 22,0.0,,,The Classical Station,https://www.lyngsat.com/radiochannels/us/The-Classical-Station.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+81.0,The Classical Station,,,12145 V,tp 22,0.0,,,The Classical Station,https://www.lyngsat.com/radiochannels/us/The-Classical-Station.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+1015.0,Mix 101.5,,,12145 V,tp 22,0.0,,,Mix 101.5,https://www.lyngsat.com/radiochannels/us/Mix-1015.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+1015.0,Mix 101.5,,,12145 V,tp 22,0.0,,,Mix 101.5,https://www.lyngsat.com/radiochannels/us/Mix-1015.html,False,NBC,3/4,20000.0,DVB-S2,Eng,us
+0.0,50s & 60s Hits,,,12145 V,tp 22,0.0,,,50s & 60s Hits,https://www.lyngsat.com/radiochannels/us/50s-and-60s-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,70s Hits,,,12145 V,tp 22,0.0,,,70s Hits,https://www.lyngsat.com/radiochannels/us/70s-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Songbook,,,12145 V,tp 22,0.0,,,Songbook,https://www.lyngsat.com/radiochannels/us/Songbook.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,80s Hits,,,12145 V,tp 22,0.0,,,80s Hits,https://www.lyngsat.com/radiochannels/us/80s-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,60s Pop Hits,,,12145 V,tp 22,0.0,,,60s Pop Hits,https://www.lyngsat.com/radiochannels/us/60s-Pop-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Adult Alternative,,,12145 V,tp 22,0.0,,,Adult Alternative,https://www.lyngsat.com/radiochannels/us/Adult-Alternative.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Cashmere,,,12145 V,tp 22,0.0,,,Cashmere,https://www.lyngsat.com/radiochannels/us/Cashmere.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Unforgettable,,,12145 V,tp 22,0.0,,,Unforgettable,https://www.lyngsat.com/radiochannels/us/Unforgettable.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,City Lights,,,12145 V,tp 22,0.0,,,City Lights,https://www.lyngsat.com/radiochannels/us/City-Lights.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The Beach,,,12145 V,tp 22,0.0,,,The Beach,https://www.lyngsat.com/radiochannels/us/The-Beach.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Swing Kings,,,12145 V,tp 22,0.0,,,Swing Kings,https://www.lyngsat.com/radiochannels/us/Swing-Kings.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Lucille,,,12145 V,tp 22,0.0,,,Lucille,https://www.lyngsat.com/radiochannels/us/Lucille.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,7890,,,12145 V,tp 22,0.0,,,7890,https://www.lyngsat.com/radiochannels/us/7890.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Ensemble,,,12145 V,tp 22,0.0,,,Ensemble,https://www.lyngsat.com/radiochannels/us/Ensemble.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Summer Fun,,,12145 V,tp 22,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Summer Fun,,,12145 V,tp 22,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Summer Fun,,,12145 V,tp 22,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Summer Fun,,,12145 V,tp 22,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Fiesta Tropical,,,12145 V,tp 22,0.0,,,Fiesta Tropical,https://www.lyngsat.com/radiochannels/us/Fiesta-Tropical.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Rock Show,,,12145 V,tp 22,0.0,,,Rock Show,https://www.lyngsat.com/radiochannels/us/Rock-Show.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Roadhouse,,,12145 V,tp 22,0.0,,,Roadhouse,https://www.lyngsat.com/radiochannels/us/Roadhouse.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Country Gold,,,12145 V,tp 22,0.0,,,Country Gold,https://www.lyngsat.com/radiochannels/us/Country-Gold.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Nashville USA,,,12145 V,tp 22,0.0,,,Nashville USA,https://www.lyngsat.com/radiochannels/us/Nashville-USA.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Country Music 1,,,12145 V,tp 22,0.0,,,Country Music 1,https://www.lyngsat.com/radiochannels/us/Country-Music-1.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Belissimo,,,12145 V,tp 22,0.0,,,Belissimo,https://www.lyngsat.com/radiochannels/us/Belissimo.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The Light,,,12145 V,tp 22,0.0,,,The Light,https://www.lyngsat.com/radiochannels/us/The-Light.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Plaza,,,12145 V,tp 22,0.0,,,Plaza,https://www.lyngsat.com/radiochannels/us/Plaza.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Impressions,,,12145 V,tp 22,0.0,,,Impressions,https://www.lyngsat.com/radiochannels/us/Impressions.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Renegade Country,,,12145 V,tp 22,0.0,,,Renegade Country,https://www.lyngsat.com/radiochannels/us/Renegade-Country.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Easy Instrumentals,,,12145 V,tp 22,0.0,,,Easy Instrumentals,https://www.lyngsat.com/radiochannels/us/Easy-Instrumentals.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Environmental,,,12145 V,tp 22,0.0,,,Environmental,https://www.lyngsat.com/radiochannels/us/Environmental.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Frequency,,,12145 V,tp 22,0.0,,,Frequency,https://www.lyngsat.com/radiochannels/us/Frequency.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Expressions,,,12145 V,tp 22,0.0,,,Expressions,https://www.lyngsat.com/radiochannels/us/Expressions.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Ambrosia,,,12145 V,tp 22,0.0,,,Ambrosia,https://www.lyngsat.com/radiochannels/us/Ambrosia.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,FM-1,,,12145 V,tp 22,0.0,,,FM-1,https://www.lyngsat.com/radiochannels/us/FM-1.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Hitline,,,12145 V,tp 22,0.0,,,Hitline,https://www.lyngsat.com/radiochannels/us/Hitline.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Hot FM,,,12145 V,tp 22,0.0,,,Hot FM,https://www.lyngsat.com/radiochannels/us/Hot-FM.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Strobe,,,12145 V,tp 22,0.0,,,Strobe,https://www.lyngsat.com/radiochannels/us/Strobe.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Little Italy,,,12145 V,tp 22,0.0,,,Little Italy,https://www.lyngsat.com/radiochannels/us/Little-Italy.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Jazz Traditions,,,12145 V,tp 22,0.0,,,Jazz Traditions,https://www.lyngsat.com/radiochannels/us/Jazz-Traditions.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Classic Hits,,,12145 V,tp 22,0.0,,,Classic Hits,https://www.lyngsat.com/radiochannels/us/Classic-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Kidtunes,,,12145 V,tp 22,0.0,,,Kidtunes,https://www.lyngsat.com/radiochannels/us/Kidtunes.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,La Musica,,,12145 V,tp 22,0.0,,,La Musica,https://www.lyngsat.com/radiochannels/us/La-Musica.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Intermezzo,,,12145 V,tp 22,0.0,,,Intermezzo,https://www.lyngsat.com/radiochannels/us/Intermezzo.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Love Songs,,,12145 V,tp 22,0.0,,,Love Songs,https://www.lyngsat.com/radiochannels/us/Love-Songs.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Feedback,,,12145 V,tp 22,0.0,,,Feedback,https://www.lyngsat.com/radiochannels/us/Feedback.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Metro,,,12145 V,tp 22,0.0,,,Metro,https://www.lyngsat.com/radiochannels/us/Metro.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Mojito,,,12145 V,tp 22,0.0,,,Mojito,https://www.lyngsat.com/radiochannels/us/Mojito.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Moodscapes,,,12145 V,tp 22,0.0,,,Moodscapes,https://www.lyngsat.com/radiochannels/us/Moodscapes.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Aura,,,12145 V,tp 22,0.0,,,Aura,https://www.lyngsat.com/radiochannels/us/Aura.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Shine,,,12145 V,tp 22,0.0,,,Shine,https://www.lyngsat.com/radiochannels/us/Shine.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The Party Playlist,,,12145 V,tp 22,0.0,,,The Party Playlist,https://www.lyngsat.com/radiochannels/us/The-Party-Playlist.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Latin Jazz,,,12145 V,tp 22,0.0,,,Latin Jazz,https://www.lyngsat.com/radiochannels/us/Latin-Jazz.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Piano & Guitar,,,12145 V,tp 22,0.0,,,Piano & Guitar,https://www.lyngsat.com/radiochannels/us/Piano-and-Guitar.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The Cafe,,,12145 V,tp 22,0.0,,,The Cafe,https://www.lyngsat.com/radiochannels/us/The-Cafe.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Mo Soul,,,12145 V,tp 22,0.0,,,Mo Soul,https://www.lyngsat.com/radiochannels/us/Mo-Soul.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Reflections,,,12145 V,tp 22,0.0,,,Reflections,https://www.lyngsat.com/radiochannels/us/Reflections.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Kingston,,,12145 V,tp 22,0.0,,,Kingston,https://www.lyngsat.com/radiochannels/us/Kingston.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Kinetic,,,12145 V,tp 22,0.0,,,Kinetic,https://www.lyngsat.com/radiochannels/us/Kinetic.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Tropical Breezes,,,12145 V,tp 22,0.0,,,Tropical Breezes,https://www.lyngsat.com/radiochannels/us/Tropical-Breezes.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The Blvd,,,12145 V,tp 22,0.0,,,The Blvd,https://www.lyngsat.com/radiochannels/us/The-Blvd.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Concrete Beats,,,12145 V,tp 22,0.0,,,Concrete Beats,https://www.lyngsat.com/radiochannels/us/Concrete-Beats.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Viva Mariachi,,,12145 V,tp 22,0.0,,,Viva Mariachi,https://www.lyngsat.com/radiochannels/us/Viva-Mariachi.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,NuLounge,,,12145 V,tp 22,0.0,,,NuLounge,https://www.lyngsat.com/radiochannels/us/NuLounge.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Mood Overhead,,,12145 V,tp 22,0.0,,,Mood Overhead,https://www.lyngsat.com/radiochannels/us/Mood-Overhead.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Chilltopia,,,12145 V,tp 22,0.0,,,Chilltopia,https://www.lyngsat.com/radiochannels/us/Chilltopia.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Quebecois,,,12145 V,tp 22,0.0,,,Quebecois,https://www.lyngsat.com/radiochannels/us/Quebecois.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Christmas Message,,,12145 V,tp 22,0.0,,,Christmas Message,https://www.lyngsat.com/radiochannels/us/Christmas-Message.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Toned,,,12145 V,tp 22,0.0,,,Toned,https://www.lyngsat.com/radiochannels/us/Toned.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Perimeter,,,12145 V,tp 22,0.0,,,Perimeter,https://www.lyngsat.com/radiochannels/us/Perimeter.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,The New Wave,,,12145 V,tp 22,0.0,,,The New Wave,https://www.lyngsat.com/radiochannels/us/The-New-Wave.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Varsity,,,12145 V,tp 22,0.0,,,Varsity,https://www.lyngsat.com/radiochannels/us/Varsity.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Stylus,,,12145 V,tp 22,0.0,,,Stylus,https://www.lyngsat.com/radiochannels/us/Stylus.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Food Lion,,,12145 V,tp 22,0.0,,,Food Lion,https://www.lyngsat.com/radiochannels/us/Food-Lion.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Mens Wearhouse,,,12145 V,tp 22,0.0,,,Mens Wearhouse,https://www.lyngsat.com/radiochannels/us/Mens-Wearhouse.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Holiday Favourites,,,12145 V,tp 22,0.0,,,Holiday Favourites,https://www.lyngsat.com/radiochannels/us/Holiday-Favourites.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,FM Dos,,,12145 V,tp 22,0.0,,,FM Dos,https://www.lyngsat.com/radiochannels/us/FM-Dos.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,90s Hits,,,12145 V,tp 22,0.0,,,90s Hits,https://www.lyngsat.com/radiochannels/us/90s-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Sheetz,,,12145 V,tp 22,0.0,,,Sheetz,https://www.lyngsat.com/radiochannels/us/Sheetz.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Uptown,,,12145 V,tp 22,0.0,,,Uptown,https://www.lyngsat.com/radiochannels/us/Uptown.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Moes SW Grill,,,12145 V,tp 22,0.0,,,Moes SW Grill,https://www.lyngsat.com/radiochannels/us/Moes-SW-Grill.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,McDonalds,,,12145 V,tp 22,0.0,,,McDonalds,https://www.lyngsat.com/radiochannels/us/McDonalds.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Latin Hits,,,12145 V,tp 22,0.0,,,Latin Hits,https://www.lyngsat.com/radiochannels/us/Latin-Hits.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Bed Bath Beyond,,,12145 V,tp 22,0.0,,,Bed Bath Beyond,https://www.lyngsat.com/radiochannels/us/Bed-Bath-Beyond.html,False,NBC,3/4,20000.0,DVB-S2,,us
+0.0,Ultra,,,12145 V,tp 22,0.0,,,Ultra,https://www.lyngsat.com/radiochannels/us/Ultra.html,False,NBC,3/4,20000.0,DVB-S2,,us

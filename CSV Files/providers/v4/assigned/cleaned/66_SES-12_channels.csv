@@ -1,0 +1,60 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,CGN TV,?-?MPEG-2/SD,308.0,11568 H,tp ICHD22,,,,False,,2/3,3340,DVB-S3,Kor
+1.0,CGN TV,?-?MPEG-2/SD,308.0,11605 H,tp ICHD23,,,,False,,2/3,3340,DVB-S3,Kor
+,Freesat,?-1,,12224 H,tp SAHG21,0.0,,https://www.lyngsat.com/providers/lk/Freesat.html,True,Freesat,2/3,40000,DVB-S2,
+1.0,Freesat promo,HEVC/SD,2001.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,
+2.0,Sri Dalada Maligawa,HEVC/SD,2002.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+3.0,Rupavahini,HEVC/SD,2003.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+4.0,Nethra TV,HEVC/SD,2004.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Tam
+5.0,ITN (Sri Lanka),HEVC/SD,2005.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+6.0,Vasantham TV,HEVC/SD,2006.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Tam
+7.0,TNL TV,HEVC/SD,2007.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,
+8.0,Sirasa TV,HEVC/SD,2008.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+9.0,Shakthi TV,HEVC/SD,2009.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Tam
+10.0,TV 1 (Sri Lanka),HEVC/SD,2010.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,
+11.0,Swarnavahini,HEVC/SD,2011.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+12.0,TV Derana,HEVC/HD,2012.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,
+13.0,Ada Derana 24,HEVC/SD,2013.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,
+14.0,Siyatha TV,HEVC/SD,2014.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+15.0,Star Tamil TV,HEVC/SD,2015.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Tam
+16.0,Hiru TV,HEVC/SD,2016.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+17.0,Supreme TV,HEVC/HD,2017.0,12224 H,tp SAHG21,0.0,Unicas,,False,Freesat,2/3,40000,DVB-S2,Sin
+18.0,The Buddhist TV,HEVC/SD,2018.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Sin
+19.0,[Freesat test card],HEVC/SD,2019.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+23.0,[Freesat test card],HEVC/SD,2023.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+24.0,[Freesat test card],HEVC/SD,2108.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+97.0,[Freesat test card],MPEG-4/SD,2097.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+20.0,Rangiri Sri Lanka TV,HEVC/SD,2020.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Sin
+21.0,Verbum TV,HEVC/SD,2021.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Tam
+22.0,Shraddha TV,HEVC/SD,2022.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Sin
+25.0,Meth TV,HEVC/SD,2025.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+26.0,Dharmavahini TV,HEVC/SD,2026.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+27.0,Athavan TV,HEVC/SD,2027.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Tam
+28.0,SBC TV (Sri Lanka),HEVC/SD,2028.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+61.0,DP Education Maths,HEVC/HD,2061.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+71.0,[Edusat info card],HEVC/SD,2071.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+72.0,[Edusat info card],HEVC/SD,2072.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+73.0,[Edusat info card],HEVC/SD,2073.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+74.0,[Edusat info card],HEVC/SD,2074.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+75.0,[Edusat info card],HEVC/SD,2075.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+81.0,NHK World Japan,HEVC/HD,2081.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+82.0,Aljazeera English,HEVC/HD,2082.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+83.0,DW English,HEVC/SD,2083.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+84.0,ABC Australia Asia,HEVC/HD,2084.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+85.0,Arirang World,HEVC/SD,2085.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+86.0,Zee News,HEVC/SD,2086.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Hin
+87.0,9XM,HEVC/SD,2087.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Hin
+88.0,B4U Movies India,HEVC/SD,2088.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Hin
+89.0,Chithiram,HEVC/SD,2089.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Tam
+90.0,Polimer,HEVC/SD,2090.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Tam
+91.0,DD Sports,HEVC/SD,2091.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Hin
+92.0,France 24 English,HEVC/SD,2092.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+93.0,TV5Monde Asie,HEVC/SD,2093.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Fre
+94.0,EuroNews English,HEVC/SD,2094.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+95.0,FashionTV Asia,HEVC/HD,2095.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+96.0,CGTN,HEVC/SD,2096.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+99.0,Hitz 99,HEVC/HD,2099.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,
+101.0,WION,HEVC/SD,2101.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Eng
+102.0,KBS World,HEVC/SD,2102.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Kor
+103.0,KBS Korea,HEVC/SD,2103.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,Kor
+104.0,MKN News,MPEG-4/SD,2104.0,12224 H,tp SAHG21,0.0,,,False,Freesat,2/3,40000,DVB-S2,

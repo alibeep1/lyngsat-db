@@ -1,0 +1,71 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,MASN,,,4010 H,tp 15,,PowerVu,https://www.lyngsat.com/providers/us/MASN.html,,,True,MASN,8/9,14400.0,DVB-S2,,
+100,MASN Baltimore,MPEG-4/HD,100.0,4010 H,tp 15,,PowerVu,,MASN Baltimore,https://www.lyngsat.com/tvchannels/us/MASN-Baltimore.html,False,MASN,8/9,14400.0,DVB-S2,Eng,us
+110,MASN Washington,MPEG-4/HD,110.0,4010 H,tp 15,,PowerVu,,MASN Washington,https://www.lyngsat.com/tvchannels/us/MASN-Washington.html,False,MASN,8/9,14400.0,DVB-S2,Eng,us
+120,MASN 2 Baltimore,MPEG-4/HD,120.0,4010 H,tp 15,,PowerVu,,MASN 2 Baltimore,https://www.lyngsat.com/tvchannels/us/MASN-2-Baltimore.html,False,MASN,8/9,14400.0,DVB-S2,Eng,us
+130,MASN 2 Washington,MPEG-4/HD,130.0,4010 H,tp 15,,PowerVu,,MASN 2 Washington,https://www.lyngsat.com/tvchannels/us/MASN-2-Washington.html,False,MASN,8/9,14400.0,DVB-S2,Eng,us
+,Fox Corporation,,,4020 V,tp 16,,Irdeto,https://www.lyngsat.com/providers/us/Fox-Corporation.html,,,True,Fox Corporation,3/4,31250.0,DVB-S2,,
+551,Fox News Channel,HEVC/HD,101.0,4020 V,tp 16,,Irdeto,,Fox News Channel,https://www.lyngsat.com/tvchannels/us/Fox-News-Channel.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+552,FS1,HEVC/HD,201.0,4020 V,tp 16,,Irdeto,,FS1,https://www.lyngsat.com/tvchannels/us/FS1.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+553,FS2,HEVC/HD,301.0,4020 V,tp 16,,Irdeto,,FS2,https://www.lyngsat.com/tvchannels/us/FS2.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+554,Fox Business,HEVC/HD,401.0,4020 V,tp 16,,Irdeto,,Fox Business,https://www.lyngsat.com/tvchannels/us/Fox-Business.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng,us
+555,Fox Deportes,HEVC/HD,501.0,4020 V,tp 16,,Irdeto,,Fox Deportes,https://www.lyngsat.com/tvchannels/us/Fox-Deportes.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+556,FS1 Alternate,HEVC/HD,601.0,4020 V,tp 16,,Irdeto,,FS1 Alternate,https://www.lyngsat.com/tvchannels/us/FS1-Alternate.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+561,(Fox Business feeds),,1101.0,4020 V,tp 16,,Irdeto,,,,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng,
+562,Fox Sports Racing,HEVC/HD,1201.0,4020 V,tp 16,,Irdeto,,Fox Sports Racing,https://www.lyngsat.com/tvchannels/us/Fox-Sports-Racing.html,False,Fox Corporation,3/4,31250.0,DVB-S2,Eng Spa,us
+,,,,4030 H,tp 17,,,,,,False,Fox Corporation,5/6,15000.0,DVB-S2,,
+,,,,4160 H,tp 23,,PowerVu,,,,False,Fox Corporation,5/6,30000.0,DVB-S2,,
+101,Root Sports Northwest,MPEG-4/HD,1011.0,4030 H,tp 17,,Nagravision,,Root Sports Northwest,https://www.lyngsat.com/tvchannels/us/Root-Sports-Northwest.html,False,Fox Corporation,5/6,15000.0,DVB-S2,Eng Spa,us
+104,Root Sports Northwest Alternate,MPEG-4/HD,1041.0,4030 H,tp 17,,Nagravision,,Root Sports Northwest Alternate,https://www.lyngsat.com/tvchannels/us/Root-Sports-Northwest-Alternate.html,False,Fox Corporation,5/6,15000.0,DVB-S2,Eng,us
+107,AT&T SportsNet Southwest,MPEG-4/HD,1071.0,4030 H,tp 17,,,,AT&T SportsNet Southwest,https://www.lyngsat.com/tvchannels/us/ATandT-SportsNet-Southwest.html,False,Fox Corporation,5/6,15000.0,DVB-S2,Eng Spa,us
+108,AT&T SportsNet Southwest Alternate,MPEG-4/HD,1081.0,4030 H,tp 17,,,,AT&T SportsNet Southwest Alternate,https://www.lyngsat.com/tvchannels/us/ATandT-SportsNet-Southwest-Alternate.html,False,Fox Corporation,5/6,15000.0,DVB-S2,Eng,us
+111,Root Sports Northwest Plus,MPEG-4/HD,1111.0,4030 H,tp 17,,Nagravision,,Root Sports Northwest Plus,https://www.lyngsat.com/tvchannels/us/Root-Sports-Northwest-Plus.html,False,Fox Corporation,5/6,15000.0,DVB-S2,Eng,us
+,NHL Network,,,4051 V,tp 18,,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,NHL Network,https://www.lyngsat.com/tvchannels/us/NHL-Network.html,True,NHL Network,7/8,13333.0,DVB-S1,,us
+7,NHL Network,MPEG-4/HD,710.0,4051 V,tp 18,,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,NHL Network,https://www.lyngsat.com/tvchannels/us/NHL-Network.html,True,NHL Network,7/8,13333.0,DVB-S1,Eng Spa,us
+8,NHL Network Alternate,MPEG-4/HD,810.0,4051 V,tp 18,,PowerVu,,NHL Network Alternate,https://www.lyngsat.com/tvchannels/us/NHL-Network-Alternate.html,False,NHL Network,7/8,13333.0,DVB-S1,Eng Spa,us
+1,Jewelry TV,?-?MPEG-4/SD,4130.0,4062 V,tp 18,,,,,,False,NHL Network,3/4,3255.0,DVB-S3,Eng Eng,
+?,The Word Network,?-1MPEG-4/SD,1160.0,4066 H,tp 19,,,,,,False,NHL Network,1/2,6620.0,DVB-S6,Eng,
+1,BYU TV,?-?MPEG-4/HD,81.0,4068 V,tp 18,,,,,,False,NHL Network,2/3,4250.0,DVB-S2,Eng Spa,
+2,BYU Radio,,,4068 V,tp 18,,,,BYU Radio,https://www.lyngsat.com/radiochannels/us/BYU-Radio.html,False,NHL Network,2/3,4250.0,DVB-S2,Eng,us
+2,BYU Radio,,,4068 V,tp 18,,,,BYU Radio,https://www.lyngsat.com/radiochannels/us/BYU-Radio.html,False,NHL Network,2/3,4250.0,DVB-S2,Eng,us
+,TCT,65535-1,,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,,us
+,TCT,65535-1,,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,,us
+,TCT,65535-1,,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,,us
+,TCT,65535-1,,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,,us
+1,TCT,MPEG-4/HD,49.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+1,TCT,MPEG-4/HD,49.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+1,TCT,MPEG-4/HD,49.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+1,TCT,MPEG-4/HD,49.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+2,TCT,MPEG-4/SD,81.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+2,TCT,MPEG-4/SD,81.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+2,TCT,MPEG-4/SD,81.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+2,TCT,MPEG-4/SD,81.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,TCT,https://www.lyngsat.com/tvchannels/us/TCT.html,True,TCT,3/4,5600.0,DVB-S2,Eng,us
+4,SBN Domestic,MPEG-4/SD,97.0,4074 V,tp 18,,,,SBN Domestic,https://www.lyngsat.com/tvchannels/us/SBN-Domestic.html,False,TCT,3/4,5600.0,DVB-S2,Eng,us
+,The CW Plus,,,4084 H,tp 19,,Verimatrix,https://www.lyngsat.com/providers/us/The-CW-Plus.html,,,True,The CW Plus,5/6,21600.0,DVB-S2,,
+1,The CW Plus East,MPEG-4/HD,257.0,4084 H,tp 19,,Verimatrix,,The CW Plus East,https://www.lyngsat.com/tvchannels/us/The-CW-Plus-East.html,False,The CW Plus,5/6,21600.0,DVB-S2,Eng,us
+2,The CW Plus Central,MPEG-4/HD,513.0,4084 H,tp 19,,Verimatrix,,The CW Plus Central,https://www.lyngsat.com/tvchannels/us/The-CW-Plus-Central.html,False,The CW Plus,5/6,21600.0,DVB-S2,Eng,us
+3,The CW Plus Mountain,MPEG-4/HD,769.0,4084 H,tp 19,,Verimatrix,,The CW Plus Mountain,https://www.lyngsat.com/tvchannels/us/The-CW-Plus-Mountain.html,False,The CW Plus,5/6,21600.0,DVB-S2,Eng,us
+4,The CW Plus Pacific,MPEG-4/HD,1025.0,4084 H,tp 19,,Verimatrix,,The CW Plus Pacific,https://www.lyngsat.com/tvchannels/us/The-CW-Plus-Pacific.html,False,The CW Plus,5/6,21600.0,DVB-S2,Eng,us
+6,The CW,MPEG-4/HD,1537.0,4084 H,tp 19,,,,The CW,https://www.lyngsat.com/tvchannels/us/The-CW.html,False,The CW Plus,5/6,21600.0,DVB-S2,Eng,us
+,(Fox feeds),,,4100 V,tp 20,,,,,,False,The CW Plus,3/4,31250.0,DVB-S2,,
+,Roberts Communications Network,,,4142 V,tp 22,,Digicipher,https://www.lyngsat.com/providers/us/Roberts-Communications-Network.html,,,True,Roberts Communications Network,5/6,18333.0,DVB-S2,,
+1,Gem Shopping Network,MPEG-2/SD,101.0,4142 V,tp 22,,Digicipher,,Gem Shopping Network,https://www.lyngsat.com/tvchannels/us/Gem-Shopping-Network.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+1,Gem Shopping Network,MPEG-2/SD,101.0,4142 V,tp 22,,Digicipher,,Gem Shopping Network,https://www.lyngsat.com/tvchannels/us/Gem-Shopping-Network.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+5,Gem Shopping Network,MPEG-4/HD,257.0,4142 V,tp 22,,Digicipher,,Gem Shopping Network,https://www.lyngsat.com/tvchannels/us/Gem-Shopping-Network.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+5,Gem Shopping Network,MPEG-4/HD,257.0,4142 V,tp 22,,Digicipher,,Gem Shopping Network,https://www.lyngsat.com/tvchannels/us/Gem-Shopping-Network.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+2,FanDuel Racing,MPEG-2/SD,513.0,4142 V,tp 22,,Digicipher,,FanDuel Racing,https://www.lyngsat.com/tvchannels/us/FanDuel-Racing.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+3,FanDuel TV,MPEG-4/HD,1281.0,4142 V,tp 22,,Digicipher,,FanDuel TV,https://www.lyngsat.com/tvchannels/us/FanDuel-TV.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+3,FanDuel TV,MPEG-4/HD,1281.0,4142 V,tp 22,,Digicipher,,FanDuel TV,https://www.lyngsat.com/tvchannels/us/FanDuel-TV.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+4,FanDuel TV,MPEG-2/SD,1025.0,4142 V,tp 22,,Digicipher,,FanDuel TV,https://www.lyngsat.com/tvchannels/us/FanDuel-TV.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+4,FanDuel TV,MPEG-2/SD,1025.0,4142 V,tp 22,,Digicipher,,FanDuel TV,https://www.lyngsat.com/tvchannels/us/FanDuel-TV.html,False,Roberts Communications Network,5/6,18333.0,DVB-S2,Eng,us
+1,KLUZ-TV (Univisión - Albuquerque),?-?MPEG-2/SD,3601.0,4156 V,tp 22,,,,,,False,Roberts Communications Network,3/4,2480.0,DVB-S2,,
+1,Altitude Sports,MPEG-4/HD,100.0,4160 H,tp 23,,PowerVu,,Altitude Sports,https://www.lyngsat.com/tvchannels/us/Altitude-Sports.html,False,Roberts Communications Network,5/6,30000.0,DVB-S2,Eng,us
+2,Altitude 2,MPEG-4/HD,200.0,4160 H,tp 23,,PowerVu,,Altitude 2,https://www.lyngsat.com/tvchannels/us/Altitude-2.html,False,Roberts Communications Network,5/6,30000.0,DVB-S2,Eng,us
+3,World Fishing Network,MPEG-4/HD,300.0,4160 H,tp 23,,PowerVu,,World Fishing Network,https://www.lyngsat.com/tvchannels/ca/World-Fishing-Network.html,False,Roberts Communications Network,5/6,30000.0,DVB-S2,Eng,ca
+4,Outdoor Channel,MPEG-4/HD,400.0,4160 H,tp 23,,PowerVu,,Outdoor Channel,https://www.lyngsat.com/tvchannels/us/Outdoor-Channel.html,False,Roberts Communications Network,5/6,30000.0,DVB-S2,Eng,us
+5,Sportsman Channel,MPEG-4/HD,500.0,4160 H,tp 23,,PowerVu,,Sportsman Channel,https://www.lyngsat.com/tvchannels/us/Sportsman-Channel.html,False,Roberts Communications Network,5/6,30000.0,DVB-S2,Eng,us
+,,,,,,,,,DVB-S32553/4,,False,Roberts Communications Network,,,,,
+,,,,,,,,,DVB-S32553/4,,False,Roberts Communications Network,,,,,
+,,,,,,,,,DVB-S66201/2,,False,Roberts Communications Network,,,,,
+,,,,,,,,,DVB-S28PSK42502/3,,False,Roberts Communications Network,,,,,
+,,,,,,,,,DVB-S24803/4,,False,Roberts Communications Network,,,,,

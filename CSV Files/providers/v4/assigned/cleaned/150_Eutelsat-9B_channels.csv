@@ -1,0 +1,537 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,A1 Telekom Austria,158-50010,,11727 V,tp E1,44-45,"Conax,Viaccess",https://www.lyngsat.com/providers/at/A1-Telekom-Austria.html,True,A1 Telekom Austria,3/4,30000,DVB-S2,
+867.0,Museum TV International,MPEG-4/HD,7701.0,11727 V,tp E1,44-45,Conax,,False,A1 Telekom Austria,3/4,30000,DVB-S2,Eng Fre Rus
+868.0,The Israeli Network,MPEG-4/SD,7801.0,11727 V,tp E1,44-45,Viaccess,,False,A1 Telekom Austria,3/4,30000,DVB-S2,Heb
+869.0,MyZen TV,MPEG-4/HD,7901.0,11727 V,tp E1,44-45,Conax,,False,A1 Telekom Austria,3/4,30000,DVB-S2,Eng Fre Rus Spa Qaa Tur
+866.0,TRT Tamil Olli,,,11727 V,tp E1,44-45,,,False,A1 Telekom Austria,3/4,30000,DVB-S2,Tam
+,Televisa Networks,1234-1,,11759 V,tp E3,44-45,Viaccess,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,True,Televisa Networks,5/6,14324,DVB-S1,
+1.0,Distrito Comedia,MPEG-2/SD,4112.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+2.0,Telehit Música,MPEG-2/SD,4128.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+3.0,TeleHit,MPEG-2/SD,4144.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+4.0,De Película Europa/Australia,MPEG-2/SD,4160.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+5.0,Las Estrellas Europa,MPEG-2/SD,4176.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+6.0,Tlnovelas Europa,MPEG-2/SD,4192.0,11759 V,tp E3,44-45,Viaccess,,False,Televisa Networks,5/6,14324,DVB-S1,Spa Qaa
+,M7 Deutschland,156-5300,,11785 H,tp E4,44-45,"Conax,Nagravision,Videoguard",,False,Televisa Networks,2/3,27500,DVB-S2,
+,M7 Deutschland,156-5700,,11861 H,tp E8,44-45,"Conax,Nagravision,Videoguard",,False,Televisa Networks,2/3,27500,DVB-S2,
+,M7 Deutschland,156-8500,,11977 H,tp E14,44-45,Conax,,False,Televisa Networks,2/3,27500,DVB-S2,
+,M7 Deutschland,156-6500,,12015 H,tp E16,44-45,"Conax,Nagravision,Videoguard",,False,Televisa Networks,2/3,27500,DVB-S2,
+,M7 Deutschland,156-7900,,12245 H,tp GE4,0,"Conax,Nagravision,Videoguard",,False,Televisa Networks,2/3,27500,DVB-S2,
+216.0,Comedy Central Deutschland,MPEG-4/SD,2209.0,11785 H,tp E4,44-45,,,False,Televisa Networks,2/3,27500,DVB-S2,Ger Eng
+,American Forces Network,18-101,,11804 V,tp E5,44-45,"PowerVu,Verimatrix",,False,Televisa Networks,2/3,27500,DVB-S2,
+401.0,[test card],MPEG-2/SD,1760.0,11804 V,tp E5,44-45,,,False,Televisa Networks,2/3,27500,DVB-S2,
+11.0,[test card],MPEG-4/HD,256.0,12226 V,tp IT4,0,,,False,Televisa Networks, 16,,DVB-S2,Ita
+12.0,[test card],MPEG-4/SD,1201.0,12226 V,tp NB4,0,,,False,Televisa Networks,P 0,,DVB-S2,
+20.0,[test card],MPEG-4/SD,1209.0,12226 V,tp NB4,0,,,False,Televisa Networks,P 0,,DVB-S2,
+39.0,[test card],MPEG-4/SD,3901.0,12303 V,tp NB6,0,,,False,Televisa Networks,P 0,,DVB-S2,
+43.0,[test card],MPEG-4/SD,4301.0,12303 V,tp NB6,0,,,False,Televisa Networks, 40,,DVB-S2,
+800.0,[test card],MPEG-4/SD,5401.0,12303 V,tp NB6,0,,,False,Televisa Networks, 40,,DVB-S2,
+402.0,[AFN test card],MPEG-4/HD,1860.0,11804 V,tp E5,44-45,,,False,Televisa Networks,2/3,27500,DVB-S2,
+,Skylogic,100-1,,11823 H,tp E6,44-45,Xcrypt,https://www.lyngsat.com/providers/it/Skylogic.html,True,Skylogic,3/4,27500,DVB-S2,
+1810.0,Sisal TV 1,MPEG-4/SD,1811.0,11823 H,tp E6,44-45,Xcrypt,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1830.0,Sisal TV 3,MPEG-4/SD,1831.0,11823 H,tp E6,44-45,Xcrypt,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1840.0,Sisal TV 4,MPEG-4/SD,1841.0,11823 H,tp E6,44-45,Xcrypt,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1850.0,Sisal TV 5,MPEG-4/SD,1851.0,11823 H,tp E6,44-45,Xcrypt,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1870.0,GoldBet League,MPEG-4/HD,1871.0,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1890.0,GoldBet Racing,MPEG-4/HD,1891.0,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1910.0,Mandarin TV,MPEG-4/SD,1911.0,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Chi
+1920.0,AMC Ukraine,MPEG-4/SD,1921.0,11823 H,tp E6,44-45,Viaccess,,False,Skylogic,3/4,27500,DVB-S2,Ukr Rus Qaa
+1630.0,Radio Carrefour ipermercati,,,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1640.0,Radio Carrefour market,,,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Ita
+1700.0,Radio China FM,,,11823 H,tp E6,44-45,,,False,Skylogic,3/4,27500,DVB-S2,Chi
+,Cosmote TV,170-1,,11843 V,tp E7,44-45,Videoguard,,False,Skylogic,3/5,27500,DVB-S2,
+,Cosmote TV,170-9,,11938 H,tp E12,44-45,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+,Cosmote TV,170-8,,12169 H,tp GC2,51,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+,Cosmote TV,170-4,,12207 H,tp GC3,51,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+,Cosmote TV,170-5,,12284 H,tp GC5,51,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+,Cosmote TV,170-6,,12399 H,tp GC8,51,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+,Cosmote TV,170-7,,12475 H,tp GC10,51,Videoguard,,False,Skylogic,2/3,27500,DVB-S2,
+236.0,BBC News Europe,MPEG-4/SD,1611.0,11861 H,tp E8,44-45,,,False,Skylogic,2/3,27500,DVB-S2,Eng
+,Warner Bros. Discovery,158-50090,,11881 V,tp E9,44-45,Viaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,158-50090,,11881 V,tp E9,44-45,Viaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,158-50110,,11919 V,tp E11,44-45,Viaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,158-50110,,11919 V,tp E11,44-45,Viaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+5000.0,Travel Channel Europe,MPEG-4/HD,5011.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Bul Cze Rus Hun
+5100.0,HGTV Pan Regional,MPEG-4/HD,5111.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hun Rus Bul Cze
+5200.0,TLC Balkan,MPEG-4/HD,5211.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Bul Eng Hun Cze Rus
+5300.0,Discovery Channel Central Europe,MPEG-4/HD,5311.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Rus Rum Bul Cze Hun Lav
+5400.0,Animal Planet Europe,MPEG-4/HD,5411.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Lav Rus Cze Hun
+5500.0,Investigation Discovery Europe,MPEG-4/HD,5511.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hun Rus Tur Cze Bul Ara Lav
+5700.0,Discovery Science Europe,MPEG-4/HD,5711.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+5800.0,Food Network EMEA,MPEG-4/HD,5811.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Bul Cze Hun Rus
+5900.0,TLC Pan Regional,MPEG-4/HD,5911.0,11881 V,tp E9,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hun Rus Lav
+,,158-5900,,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,
+,,170-2,,12054 H,tp E18,44-45,"Viaccess,Videoguard",,False,Warner Bros. Discovery,2/3,27500,DVB-S2,
+,,272-900,,12111 V,tp IT1,0,,,False,Warner Bros. Discovery,m 3,,DVB-S2,
+,,272-905,,12111 V,tp IT1,0,,,False,Warner Bros. Discovery,m 4,,DVB-S2,
+,,8572-8417,,12226 V,tp IT4,0,,,False,Warner Bros. Discovery, 14,,DVB-S2,
+,,8572-6370,,12226 V,tp IT4,0,,,False,Warner Bros. Discovery, 16,,DVB-S2,
+,,8572-26849,,12226 V,tp IT4,0,,,False,Warner Bros. Discovery, 19,,DVB-S2,
+,,8572-20705,,12226 V,tp IT4,0,,,False,Warner Bros. Discovery, 20,,DVB-S2,
+,,8572-32993,,12303 V,tp IT6,0,,,False,Warner Bros. Discovery, 21,,DVB-S2,
+,,8572-32995,,12303 V,tp IT6,0,,,False,Warner Bros. Discovery, 22,,DVB-S2,
+,,8572-28897,,12380 V,tp IT8,0,,,False,Warner Bros. Discovery, 24,,DVB-S2,
+,,8572-39137,,12380 V,tp IT8,0,,,False,Warner Bros. Discovery, 25,,DVB-S2,
+,,8572-10465,,12466 V,tp IT10,0,,,False,Warner Bros. Discovery, 13,,DVB-S2,
+,,8572-18657,,12466 V,tp IT10,0,,,False,Warner Bros. Discovery, 17,,DVB-S2,
+,,8572-24801,,12466 V,tp IT10,0,,,False,Warner Bros. Discovery, 23,,DVB-S2,
+14.0,Trace Sport Stars,MPEG-4/HD,612.0,11900 H,tp E10,44-45,Viaccess,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Eng Fre Eng Rus
+15.0,Trace Urban,MPEG-4/HD,711.0,11900 H,tp E10,44-45,Viaccess,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Eng
+23.0,RTB TV (Burkina Faso),MPEG-4/SD,33.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+25.0,RTI 1,MPEG-4/SD,151.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+101.0,TFM,MPEG-4/SD,1011.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+103.0,JimJam Middle East,MPEG-4/SD,1031.0,11900 H,tp E10,44-45,Viaccess,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Eng Por Rus Lit Ara
+104.0,JimJam Europe,MPEG-4/SD,1041.0,11900 H,tp E10,44-45,Viaccess,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Eng Cze Hun Por Rum
+115.0,Rai Italia Africa,HEVC/SD,1151.0,11900 H,tp E10,44-45,Irdeto,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Ita
+116.0,ORTB TV,MPEG-4/SD,1161.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+233.0,EbS,MPEG-4/HD,200.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Qaa Eng Fre Ger Ita Spa Gre Por Dut Dan Fin Swe Cze Est Lav Lit Hun Mlt Pol Slo Slv Bul Rum Gle Hrv Alb Mac Srp Bos
+433.0,EbS+,MPEG-4/HD,400.0,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Qaa Eng Fre Ger Ita Spa Gre Por Dut Dan Fin Swe Cze Est Lav Lit Hun Mlt Pol Slo Slv Bul Rum Gle Hrv Tur Srp Bos Ukr Rus
+24.0,RTB Radio,,,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+102.0,RFM (Senegal),,,11900 H,tp E10,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Fre
+6100.0,TLC Hungary,MPEG-4/SD,6111.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Hun Eng
+6200.0,Discovery Channel Hungary,MPEG-4/HD,6211.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Cze Hun Eng
+6300.0,Discovery Channel Türkiye,MPEG-4/HD,6311.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Tur Eng
+6400.0,Cartoonito Central & Eastern Europe,MPEG-4/HD,6411.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Pol Eng Hun Rum Rus Dut Bul Hrv Srp Slv Cze
+6500.0,Cartoon Network Central & Eastern Europe,MPEG-4/HD,6511.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng Hun Rum Cze
+6600.0,Cartoon Network Russia & South East Europe,MPEG-4/SD,6611.0,11919 V,tp E11,44-45,Viaccess,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Rus Bul Eng Slv Srp Hrv
+1136.0,ERT World,MPEG-4/SD,4136.0,11938 H,tp E12,44-45,,,False,Warner Bros. Discovery,2/3,27500,DVB-S2,Gre
+,MTVA,158-6200,,11958 V,tp E13,44-45,,https://www.lyngsat.com/providers/hu/MTVA.html,True,MTVA,2/3,27500,DVB-S2,
+101.0,M1 (Hungary),MPEG-4/HD,1101.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+102.0,M2,MPEG-4/HD,1102.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+103.0,Duna TV,MPEG-4/HD,1103.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+104.0,M4 Sport,MPEG-4/HD,1104.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+105.0,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),MPEG-4/HD,1105.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+105.0,M4 Sport + (Sat-Sun 14-22),MPEG-4/HD,1105.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun Qaa
+106.0,M5,MPEG-4/HD,1106.0,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Qaa Hun
+151.0,Kossuth Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+161.0,Kossuth Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+167.0,Kossuth Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+152.0,Petöfi Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+162.0,Petöfi Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+153.0,Bartók Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+163.0,Bartók Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+154.0,Nemzetiségi Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,
+155.0,Parlamenti Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+156.0,Dankó Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+166.0,Dankó Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+168.0,Dankó Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+157.0,Duna World Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+158.0,Magyar Katolikus Rádió,,,11958 V,tp E13,44-45,,,False,MTVA,2/3,27500,DVB-S2,Hun
+513.0,TVRI World,MPEG-4/HD,1631.0,11977 H,tp E14,44-45,,,False,MTVA,2/3,27500,DVB-S2,Eng
+,Globecast,1-1,,11996 V,tp E15,44-45,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,27500,DVB-S2,
+,Globecast,1-1,,11996 V,tp E15,44-45,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,27500,DVB-S2,
+,Globecast,158-6600,,12034 V,tp E17,44-45,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,27500,DVB-S2,
+,Globecast,158-6600,,12034 V,tp E17,44-45,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,27500,DVB-S2,
+619.0,CCTV 4 Europe,MPEG-2/SD,3901.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Chi
+620.0,CGTN Español,MPEG-2/SD,4001.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Spa
+621.0,CGTN Russkij,MPEG-2/SD,4101.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Rus
+622.0,CGTN Arabic,MPEG-2/SD,4201.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Ara
+623.0,CGTN Documentary,MPEG-2/SD,4301.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Eng
+632.0,EuroNews Russkiy,MPEG-2/SD,5201.0,11996 V,tp E15,44-45,,,False,Globecast,3/4,27500,DVB-S2,Rus
+421.0,Nickelodeon Deutschland (05.00-20.15),MPEG-4/SD,1701.0,12015 H,tp E16,44-45,,,False,Globecast,2/3,27500,DVB-S2,Ger Eng
+421.0,Comedy Central Deutschland +1 (20.15-05.00),MPEG-4/SD,1701.0,12015 H,tp E16,44-45,,,False,Globecast,2/3,27500,DVB-S2,Ger Eng
+1.0,RTS 1 (Senegal),MPEG-4/SD,512.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+202.0,M6 Suisse,MPEG-4/HD,2020.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+204.0,6ter Suisse,MPEG-4/HD,2040.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+205.0,W9 Suisse,MPEG-4/HD,2050.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+206.0,MCM Top,MPEG-4/HD,2060.0,12034 V,tp E17,44-45,Viaccess,,False,Globecast,3/4,27500,DVB-S2,Fre
+351.0,Hwazan Satellite TV,MPEG-2/SD,3511.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Chi
+352.0,RTG International,MPEG-4/SD,3521.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Rus Eng Tur
+353.0,Phoenix InfoNews Channel,MPEG-2/SD,3531.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Chi
+354.0,ORTM 1,MPEG-4/SD,3541.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+355.0,Télé Sahel,MPEG-4/SD,3551.0,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+357.0,BBC Entertainment Europe,MPEG-4/SD,3570.0,12034 V,tp E17,44-45,Irdeto,,False,Globecast,3/4,27500,DVB-S2,Eng
+356.0,Voix du Sahel,,,12034 V,tp E17,44-45,,,False,Globecast,3/4,27500,DVB-S2,Fre
+1001.0,AEK Super League Pass,MPEG-4/SD,401.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre Eng
+1003.0,Cosmote Sport 6,MPEG-4/HD,403.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre Eng
+1005.0,Vouli TV,MPEG-4/HD,405.0,12054 H,tp E18,44-45,,,False,Globecast,2/3,27500,DVB-S2,Gre
+1012.0,4E,MPEG-4/SD,412.0,12054 H,tp E18,44-45,,,False,Globecast,2/3,27500,DVB-S2,Gre
+1030.0,Ant1,MPEG-4/HD,430.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre
+1039.0,Cosmote Sport 4,MPEG-4/HD,439.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre Eng
+1045.0,One Channel,MPEG-4/HD,445.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre
+1050.0,National Geographic Wild Europe,MPEG-4/HD,450.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Eng
+1062.0,FashionTV Europe,MPEG-4/HD,462.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,
+1069.0,Ant1 Europe,MPEG-2/SD,469.0,12054 H,tp E18,44-45,Viaccess,,False,Globecast,2/3,27500,DVB-S2,Gre
+1072.0,Baby TV Europe,MPEG-4/SD,472.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre Eng
+1080.0,EuroNews Ellinika,MPEG-4/SD,480.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre
+1091.0,Cosmote Sport 7,MPEG-4/HD,491.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre Eng
+1098.0,Makedonia TV,MPEG-4/HD,498.0,12054 H,tp E18,44-45,Videoguard,,False,Globecast,2/3,27500,DVB-S2,Gre
+,Arqiva,158-6900,,12092 H,tp E20,44-45,Viaccess,https://www.lyngsat.com/providers/uk/Arqiva.html,True,Arqiva,3/4,27500,DVB-S2,
+1120.0,NTD TV Europe,MPEG-4/SD,1401.0,12092 H,tp E20,44-45,,,False,Arqiva,3/4,27500,DVB-S2,Chi
+1135.0,Diva Romania,MPEG-2/SD,1701.0,12092 H,tp E20,44-45,Viaccess,,False,Arqiva,3/4,27500,DVB-S2,Qaa Rum
+1140.0,Diva Balkans,MPEG-2/SD,1801.0,12092 H,tp E20,44-45,Viaccess,,False,Arqiva,3/4,27500,DVB-S2,Eng Srp
+1145.0,E! Europe,MPEG-4/HD,1901.0,12092 H,tp E20,44-45,Viaccess,,False,Arqiva,3/4,27500,DVB-S2,Eng Ger Fre Pol Tur Eng Ger Fre Pol Tur Cze Hun Cze Hun
+1155.0,Premier Christian Radio,,,12092 H,tp E20,44-45,,,False,Arqiva,3/4,27500,DVB-S2,Eng
+,Cairo Communication,8572-263,,12111 V,tp IT1,0,,https://www.lyngsat.com/providers/it/Cairo-Communication.html,True,Cairo Communication,m 1,,DVB-S2,
+711.0,La 7,MPEG-4/SD,650.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+751.0,La 7,MPEG-4/HD,1530.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+712.0,La 7 d,MPEG-4/SD,590.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+801.0,Zona DAZN,MPEG-4/HD,1470.0,12111 V,tp IT1,0,"Nagravision,Videoguard",,False,Cairo Communication,m 1,,DVB-S2,Ita
+3001.0,Italia 121,MPEG-4/SD,3011.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3002.0,Arte Italia 124,MPEG-4/SD,3021.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3003.0,Arte Italia 125,MPEG-4/SD,3031.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3004.0,Italia 126,MPEG-4/SD,3041.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3005.0,Italia 127,MPEG-4/SD,3051.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3006.0,Italia 135,MPEG-4/SD,3061.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3007.0,Italia 134,MPEG-4/SD,3071.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4002.0,Donna TV,MPEG-4/SD,412.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4003.0,Alma TV,MPEG-4/SD,422.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4004.0,TeleCampione,MPEG-4/SD,432.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4010.0,Parole di Vita,MPEG-4/SD,492.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+7169.0,Bom Channel,MPEG-4/SD,212.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7170.0,Príma Free,MPEG-4/SD,1018.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7172.0,Fascino TV,MPEG-4/SD,1019.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7173.0,Primaset 149,MPEG-4/SD,1100.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7174.0,Canale 165,MPEG-4/SD,1020.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7175.0,Tesory Channel,MPEG-4/SD,490.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7176.0,María+Visión Italia,MPEG-4/SD,1030.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7179.0,Genius 240,MPEG-4/SD,630.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7181.0,Canale 168,MPEG-4/SD,2930.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7182.0,Canale 169,MPEG-4/SD,2910.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7183.0,Orler TV,MPEG-4/SD,1040.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7184.0,Linea Gem,MPEG-4/SD,1050.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+82.0,Linea Gem,MPEG-4/SD,821.0,12341 V,tp IT7,0,,,False,Cairo Communication, 36,,DVB-S2,Ita
+7185.0,Deluxe 139,MPEG-4/SD,410.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7186.0,Arte Investimenti,MPEG-4/SD,420.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7187.0,Cusano News 7,MPEG-4/HD,1490.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7188.0,Equ TV,MPEG-4/SD,512.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7189.0,ByoBlu,MPEG-4/SD,1060.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7190.0,[Radio Radio info card],MPEG-4/SD,1070.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7192.0,Padre Pio TV,MPEG-4/SD,650.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7194.0,Pianeta TV,MPEG-4/SD,1110.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+7201.0,Sky Sport Uno,HEVC/HD,2100.0,12111 V,tp IT1,0,"Nagravision,Videoguard",,False,Cairo Communication,m 3,,DVB-S2,Ita
+7203.0,Zona DAZN 2,HEVC/SD,2300.0,12111 V,tp IT1,0,"Nagravision,Videoguard",,False,Cairo Communication,m 3,,DVB-S2,Ita
+7190.0,Radio Radio (Italy),,,12111 V,tp IT1,0,,,False,Cairo Communication,m 3,,DVB-S2,Ita
+2124.0,Boing Italia,MPEG-4/HD,1009.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita
+2125.0,Cartoonito Italia,MPEG-4/HD,1011.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita
+2126.0,Boing Plus,MPEG-4/SD,1007.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita
+2149.0,QVC Italia,MPEG-4/HD,1043.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita
+2150.0,Top Crime (Italy),MPEG-4/HD,1050.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita Qaa
+2151.0,Focus,MPEG-4/HD,1018.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita Qaa
+2152.0,Cine 34,MPEG-4/HD,1006.0,12111 V,tp IT1,0,,,False,Cairo Communication,m 4,,DVB-S2,Ita
+,Mediaset,272-930,,12149 V,tp IT2,0,,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,m 1,,DVB-S2,
+,Mediaset,272-930,,12149 V,tp IT2,0,,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,m 1,,DVB-S2,
+,Mediaset,272-901,,12149 V,tp IT2,0,,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,m 2,,DVB-S2,
+,Mediaset,272-901,,12149 V,tp IT2,0,,https://www.lyngsat.com/providers/it/Mediaset.html,True,Mediaset,m 2,,DVB-S2,
+3004.0,Rete 4,MPEG-4/HD,1055.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,Ita Qaa
+3005.0,Canale 5,MPEG-4/HD,1057.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,Ita Qaa
+3006.0,Italia 1,MPEG-4/HD,1059.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,Ita Qaa
+3020.0,20 Mediaset,MPEG-4/HD,1041.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,Ita Qaa
+3055.0,Mediaset Extra,MPEG-4/HD,1002.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,Ita
+3200.0,[HEVC test card],HEVC/HD,1062.0,12149 V,tp IT2,0,,,False,Mediaset,m 1,,DVB-S2,
+101.0,R101 TV,MPEG-4/HD,1031.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+102.0,La 5,MPEG-4/HD,1014.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita Qaa
+103.0,Iris,MPEG-4/HD,1048.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita Qaa
+104.0,Italia 2,MPEG-4/HD,1020.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita Qaa
+106.0,27 Twentyseven,MPEG-4/HD,1037.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita Qaa
+114.0,TGCom 24,MPEG-4/HD,1024.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+116.0,Radio 105 TV,MPEG-4/HD,1027.0,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+120.0,R101,,,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+121.0,Radio 105,,,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+122.0,Virgin Radio Italy,,,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+123.0,Radio Monte Carlo (Italy),,,12149 V,tp IT2,0,,,False,Mediaset,m 2,,DVB-S2,Ita
+1019.0,Cosmote TV Promo Channel,MPEG-4/HD,419.0,12169 H,tp GC2,51,,,False,Mediaset,2/3,27500,DVB-S2,
+2001.0,News Prima Lombardia,MPEG-4/SD,1700.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2002.0,Videostar TV,MPEG-4/HD,1710.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2003.0,7 Gold Telecity,MPEG-4/HD,1720.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+1008.0,7 Gold Telecity,MPEG-4/HD,1370.0,12303 V,tp IT6,0,,,False,Mediaset, 15,,DVB-S2,Ita
+4004.0,7 Gold Telecity,MPEG-4/HD,2330.0,12380 V,tp IT8,0,,,False,Mediaset, 18,,DVB-S2,Ita
+1806.0,7 Gold Telecity,MPEG-4/SD,1550.0,12466 V,tp IT10,0,,,False,Mediaset, 12,,DVB-S2,Ita
+2004.0,Espansione TV,MPEG-4/HD,1730.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2005.0,Bergamo TV,MPEG-4/SD,1740.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2006.0,Rete 55,MPEG-4/SD,1750.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2007.0,Teletutto,MPEG-4/SD,1760.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2008.0,TeleSondrioNews,MPEG-4/HD,1770.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2009.0,70-80.it,MPEG-4/SD,1780.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2010.0,Super TV Brescia,MPEG-4/HD,7696.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2011.0,Più Valli TV,MPEG-4/HD,1800.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2013.0,Canale Italia 77,MPEG-4/SD,1920.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2014.0,Seila TV,MPEG-4/HD,1830.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2015.0,Radio Bruno TV,MPEG-4/SD,1840.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+4812.0,Radio Bruno TV,MPEG-4/HD,1210.0,12466 V,tp IT10,0,,,False,Mediaset, 17,,DVB-S2,Ita
+2016.0,BancOro,MPEG-4/SD,1380.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+1009.0,BancOro,MPEG-4/SD,1380.0,12303 V,tp IT6,0,,,False,Mediaset, 15,,DVB-S2,Ita
+2018.0,Tele Clusone,MPEG-4/SD,1870.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2019.0,BiriKina TV,MPEG-4/SD,1880.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+2020.0,One TV NBC,MPEG-4/SD,1890.0,12226 V,tp IT4,0,,,False,Mediaset, 14,,DVB-S2,Ita
+6801.0,Canale Dieci,MPEG-4/HD,3100.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6802.0,Gold TV (Italy),MPEG-4/HD,3110.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6803.0,Teleuniverso (Italy),MPEG-4/HD,3120.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6804.0,Lazio TV 13,MPEG-4/HD,3130.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6805.0,Radio Roma TV,MPEG-4/HD,3140.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6806.0,Radio Roma,MPEG-4/HD,3150.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6807.0,Teleroma 56,MPEG-4/HD,3160.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6808.0,T9,MPEG-4/SD,3170.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6809.0,Teleroma 56 Sport,MPEG-4/SD,3180.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6810.0,TRL,MPEG-4/SD,3190.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6811.0,Roma TV 82,MPEG-4/SD,3200.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6812.0,Canale Italia,MPEG-4/SD,1820.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+5018.0,Canale Italia,MPEG-4/SD,2270.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+1006.0,Canale Italia,MPEG-4/SD,1360.0,12303 V,tp IT6,0,,,False,Mediaset, 15,,DVB-S2,Ita
+8032.0,Canale Italia,MPEG-4/SD,1520.0,12303 V,tp IT6,0,,,False,Mediaset, 22,,DVB-S2,Ita
+4009.0,Canale Italia,MPEG-4/SD,2380.0,12380 V,tp IT8,0,,,False,Mediaset, 18,,DVB-S2,Ita
+7010.0,Canale Italia,MPEG-4/SD,1820.0,12380 V,tp IT8,0,,,False,Mediaset, 24,,DVB-S2,Ita
+9810.0,Canale Italia,MPEG-4/SD,1820.0,12380 V,tp IT8,0,,,False,Mediaset, 25,,DVB-S2,Ita
+1803.0,Canale Italia,MPEG-4/SD,1520.0,12466 V,tp IT10,0,,,False,Mediaset, 12,,DVB-S2,Ita
+2811.0,Canale Italia,MPEG-4/SD,1520.0,12466 V,tp IT10,0,,,False,Mediaset, 13,,DVB-S2,Ita
+4813.0,Canale Italia,MPEG-4/SD,1820.0,12466 V,tp IT10,0,,,False,Mediaset, 17,,DVB-S2,Ita
+6005.0,Canale Italia,MPEG-4/SD,1520.0,12466 V,tp IT10,0,,,False,Mediaset, 23,,DVB-S2,Ita
+6814.0,7 Gold,MPEG-4/HD,3230.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+9820.0,7 Gold,MPEG-4/SD,3090.0,12380 V,tp IT8,0,,,False,Mediaset, 25,,DVB-S2,Ita
+4811.0,7 Gold,MPEG-4/HD,1200.0,12466 V,tp IT10,0,,,False,Mediaset, 17,,DVB-S2,Ita
+6816.0,TR 118,MPEG-4/SD,3250.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6818.0,Extra TV,MPEG-4/HD,3270.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+6819.0,Teleitalia 41,MPEG-4/SD,3280.0,12226 V,tp IT4,0,,,False,Mediaset, 19,,DVB-S2,Ita
+5001.0,RTV 38,MPEG-4/HD,2100.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5002.0,Toscana TV,MPEG-4/HD,2110.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5003.0,Noi TV,MPEG-4/HD,2120.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5004.0,TV9,MPEG-4/HD,2130.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5005.0,TVL,MPEG-4/HD,2140.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5006.0,Granducato,MPEG-4/SD,2150.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5007.0,Teletruria,MPEG-4/SD,2160.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5008.0,TVR Teleitalia 7 Gold,MPEG-4/SD,2170.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5009.0,50 Canale,MPEG-4/SD,2180.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5010.0,Italia 7,MPEG-4/SD,2190.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+4016.0,Italia 7,MPEG-4/SD,2450.0,12380 V,tp IT8,0,,,False,Mediaset, 18,,DVB-S2,Ita
+5011.0,TV Prato,MPEG-4/SD,2200.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5012.0,Teleregione Toscana,MPEG-4/SD,2210.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5013.0,TeleSanDomenico,MPEG-4/SD,2220.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5014.0,Alert System 88,MPEG-4/SD,2230.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5015.0,Canale 3 Toscana,MPEG-4/HD,2240.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5016.0,Siena TV,MPEG-4/HD,2250.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+5017.0,Antenna 3 Toscana,MPEG-4/SD,2260.0,12226 V,tp IT4,0,,,False,Mediaset, 20,,DVB-S2,Ita
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,,,12226 V,tp NB4,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud,P 0,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud, 40,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud, 40,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud, 40,,DVB-S2,
+,ZeonBud,8996-400,,12303 V,tp NB6,0,,https://www.lyngsat.com/providers/ua/ZeonBud.html,True,ZeonBud, 40,,DVB-S2,
+11.0,Pershiy,MPEG-4/SD,1101.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+13.0,1+1 Marafon,MPEG-4/SD,1301.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+14.0,Suspilne Kultura,MPEG-4/HD,1401.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+15.0,ICTV (Ukraine),MPEG-4/SD,1501.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+16.0,Telekanal STB,MPEG-4/SD,1601.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+17.0,Inter,MPEG-4/SD,1701.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+18.0,Unian TV,MPEG-4/SD,1801.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+19.0,Bigudi,MPEG-4/SD,1109.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+21.0,Novy Kanal,MPEG-4/SD,2101.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+22.0,TET,MPEG-4/SD,2201.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+23.0,2+2,MPEG-4/SD,2301.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+24.0,M1 (Ukraine),MPEG-4/SD,2401.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+25.0,NTN,MPEG-4/SD,2501.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+26.0,Mega,MPEG-4/SD,2601.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+27.0,Plus Plus,MPEG-4/SD,2701.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+28.0,My-Ukraina+,MPEG-4/SD,2801.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+29.0,1+1 Ukraïna,MPEG-4/SD,2109.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+30.0,ICTV 2,MPEG-4/SD,2209.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,Ukr
+52.0,Oce,MPEG-4/SD,2309.0,12226 V,tp NB4,0,,,False,ZeonBud,P 0,,DVB-S2,
+308.0,Voxup,MPEG-4/SD,2801.0,12245 H,tp GE4,0,,,False,ZeonBud,2/3,27500,DVB-S2,Ger
+,RL Piemonte 1,8572-4321,,12303 V,tp IT6,0,,https://www.lyngsat.com/providers/it/RL-Piemonte-1.html,True,RL Piemonte 1, 15,,DVB-S2,
+1001.0,Top Calcio 24,MPEG-4/SD,1300.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1002.0,Videogruppo,MPEG-4/SD,1310.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1003.0,Sesta Rete,MPEG-4/SD,1320.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1004.0,Telecupole,MPEG-4/HD,1330.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1005.0,Primantenna,MPEG-4/HD,1340.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+4011.0,Primantenna,MPEG-4/HD,2400.0,12380 V,tp IT8,0,,,False,RL Piemonte 1, 18,,DVB-S2,Ita
+1007.0,Canale Italia Piemonte,MPEG-4/SD,1350.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1010.0,ReteSette,MPEG-4/HD,1390.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+4012.0,ReteSette,MPEG-4/HD,2410.0,12380 V,tp IT8,0,,,False,RL Piemonte 1, 18,,DVB-S2,Ita
+1801.0,ReteSette,MPEG-4/HD,1500.0,12466 V,tp IT10,0,,,False,RL Piemonte 1, 12,,DVB-S2,Ita
+1011.0,GRP Vera TV,MPEG-4/SD,1400.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1012.0,VCO Azzurra TV,MPEG-4/SD,1410.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1013.0,Videonovara,MPEG-4/SD,1420.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1014.0,Onda Novara TV,MPEG-4/SD,1430.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1015.0,Motori TV,MPEG-4/SD,1440.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+1016.0,News Prima Piemonte,MPEG-4/SD,1450.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 15,,DVB-S2,Ita
+8001.0,Canale 21,MPEG-4/HD,3300.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8002.0,Televomero,MPEG-4/HD,3310.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8003.0,Tele A,MPEG-4/HD,3320.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8004.0,Canale 9,MPEG-4/HD,3330.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8005.0,Canale 8 Campania,MPEG-4/HD,3340.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8006.0,Telecapri,MPEG-4/HD,3350.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8007.0,Otto Channel,MPEG-4/HD,3360.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8008.0,Prima Tivvú,MPEG-4/SD,3370.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8009.0,Lira TV,MPEG-4/HD,3380.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8010.0,TV Luna,MPEG-4/HD,3390.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8011.0,Irpinia TV 75,MPEG-4/HD,3400.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8012.0,Kiss Kiss Napoli TV,MPEG-4/HD,3410.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8013.0,Teleclubitalia,MPEG-4/HD,3420.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 21,,DVB-S2,Ita
+8033.0,Canale 58,MPEG-4/SD,3520.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8035.0,TDS,MPEG-4/SD,3540.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8036.0,Telecapri Sport,MPEG-4/HD,3550.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8037.0,Videonola,MPEG-4/SD,3560.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8038.0,105 TV,MPEG-4/SD,3570.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8039.0,NapoFlix,MPEG-4/SD,3580.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8040.0,GT Channel,MPEG-4/HD,3590.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8042.0,Telenostra,MPEG-4/SD,3610.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8045.0,Radio Marte TV,MPEG-4/HD,3640.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8046.0,Partenope TV,MPEG-4/SD,3650.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+8048.0,Tele Dehon,MPEG-4/SD,3070.0,12303 V,tp IT6,0,,,False,RL Piemonte 1, 22,,DVB-S2,Ita
+9818.0,Tele Dehon,MPEG-4/HD,3070.0,12380 V,tp IT8,0,,,False,RL Piemonte 1, 25,,DVB-S2,Ita
+31.0,K1,MPEG-4/SD,3101.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+32.0,K2 (Ukraine),MPEG-4/SD,3201.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+33.0,Zoom (Ukraine),MPEG-4/SD,3301.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+34.0,Rada,MPEG-4/SD,3401.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+35.0,Rada,MPEG-4/SD,3501.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+41.0,Rada,MPEG-4/SD,4101.0,12303 V,tp NB6,0,,,False,RL Piemonte 1, 40,,DVB-S2,Ukr
+36.0,X Sport,MPEG-4/SD,3601.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+37.0,Enter Film,MPEG-4/SD,3701.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+38.0,Piksel TV,MPEG-4/SD,3801.0,12303 V,tp NB6,0,,,False,RL Piemonte 1,P 0,,DVB-S2,Ukr
+5.0,Suspilne Kyïv,MPEG-4/HD,6501.0,12303 V,tp NB6,0,,,False,RL Piemonte 1, 40,,DVB-S2,Ukr
+42.0,Tak TV,MPEG-4/SD,4201.0,12303 V,tp NB6,0,,,False,RL Piemonte 1, 40,,DVB-S2,Ukr
+44.0,Tviy Serial,MPEG-4/SD,4401.0,12303 V,tp NB6,0,,,False,RL Piemonte 1, 40,,DVB-S2,Ukr
+,Persidera,29-516,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 33,,DVB-S2,
+,Persidera,29-516,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 33,,DVB-S2,
+,Persidera,29-516,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 33,,DVB-S2,
+,Persidera,29-512,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 35,,DVB-S2,
+,Persidera,29-512,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 35,,DVB-S2,
+,Persidera,29-512,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 35,,DVB-S2,
+,Persidera,8572-31000,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 36,,DVB-S2,
+,Persidera,8572-31000,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 36,,DVB-S2,
+,Persidera,8572-31000,,12341 V,tp IT7,0,,https://www.lyngsat.com/providers/it/Persidera.html,True,Persidera, 36,,DVB-S2,
+16.0,Giallo,MPEG-4/HD,981.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+20.0,Food Network Italia,MPEG-4/HD,201.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+21.0,RTL 102.5 RadioVisione,MPEG-4/HD,790.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+22.0,Warner TV Italia,MPEG-4/SD,2210.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+24.0,GM 24,MPEG-4/SD,2410.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+25.0,Centro Serena,MPEG-4/SD,2510.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+44.0,Real Time Italia,MPEG-4/HD,2462.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+50.0,DMAX Italia,MPEG-4/HD,1200.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+60.0,[Hbb TV info card],MPEG-4/SD,1000.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+130.0,Radio Zeta Radiovisione,MPEG-4/HD,901.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+218.0,Radio Freccia TV,MPEG-4/HD,800.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+250.0,[Radio Liberta' test card],MPEG-4/SD,951.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+270.0,[Radio 24 test card] (Italy),MPEG-4/SD,971.0,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+221.0,RTL 102.5,,,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+250.0,Radio Liberta',,,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+270.0,Radio 24 (Italy),,,12341 V,tp IT7,0,,,False,Persidera, 33,,DVB-S2,Ita
+40.0,Super Tennis,MPEG-4/HD,101.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+55.0,Super!,MPEG-4/SD,551.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+60.0,Radio Italia TV,MPEG-4/HD,245.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+70.0,TV 8 (Italy),MPEG-4/HD,701.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+80.0,Cielo,MPEG-4/SD,801.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita Qaa
+90.0,Sky TG 24 Canale 50,MPEG-4/SD,901.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+100.0,TV 2000,MPEG-4/HD,1101.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+110.0,Kiss Kiss TV,MPEG-4/HD,501.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+120.0,[VH1 Italia info card],MPEG-4/SD,6132.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+146.0,Frisbee,MPEG-4/SD,1457.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+151.0,K2,MPEG-4/SD,981.0,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+13.0,Radio Italia (Italy),,,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+105.0,Radio Vaticana 5,,,12341 V,tp IT7,0,,,False,Persidera, 35,,DVB-S2,Ita
+1.0,Nove,MPEG-4/HD,8000.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+2.0,Motor Trend,MPEG-4/HD,201.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+25.0,HGTV Italia,MPEG-4/HD,8010.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+40.0,Deejay TV,MPEG-4/HD,401.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+70.0,Casa Italia 53,MPEG-4/SD,701.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+78.0,Travel TV (Italy),MPEG-4/SD,781.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+80.0,Sportitalia Plus,MPEG-4/HD,801.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+84.0,Gold TV Italia,MPEG-4/SD,841.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+85.0,La 4 Italia,MPEG-4/SD,851.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+86.0,Channel 24 (Italy),MPEG-4/SD,861.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+87.0,Rete Italia,MPEG-4/SD,871.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+90.0,Luxury Channel 137,MPEG-4/SD,881.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+91.0,Fire TV (Italy),MPEG-4/SD,811.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+98.0,StarMarket,MPEG-4/SD,891.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+101.0,TCI,MPEG-4/SD,911.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+110.0,Cusano Italia TV,MPEG-4/HD,901.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+139.0,Italia Channel 123,MPEG-4/SD,921.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+145.0,RDS Social TV,MPEG-4/HD,931.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+150.0,[Radio Serie A test card],MPEG-4/SD,941.0,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+9.0,Radio Deejay,,,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+10.0,Radio Capital,,,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+11.0,M2o,,,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+12.0,Radio Maria Italia,,,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+150.0,Radio Serie A,,,12341 V,tp IT7,0,,,False,Persidera, 36,,DVB-S2,Ita
+,RL Liguria 1,8572-16609,,12380 V,tp IT8,0,,https://www.lyngsat.com/providers/it/RL-Liguria-1.html,True,RL Liguria 1, 18,,DVB-S2,
+4001.0,Primocanale,MPEG-4/HD,2300.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4002.0,Telenord,MPEG-4/HD,2310.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4003.0,Teleradiopace 1,MPEG-4/HD,2320.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4005.0,Telegenova,MPEG-4/SD,2340.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4006.0,Tele Liguria Sud,MPEG-4/HD,2350.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4007.0,Primopiano,MPEG-4/SD,2360.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4008.0,Telecolor (Italy),MPEG-4/SD,2370.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+1810.0,Telecolor (Italy),MPEG-4/HD,1590.0,12466 V,tp IT10,0,,,False,RL Liguria 1, 12,,DVB-S2,Ita
+4014.0,Teleradiopace 2,MPEG-4/HD,2430.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+4015.0,Luna TV,MPEG-4/HD,2440.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 18,,DVB-S2,Ita
+7001.0,Rete 8,MPEG-4/HD,2700.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7002.0,Telemolise,MPEG-4/HD,2710.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7003.0,Laq TV,MPEG-4/SD,2720.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7004.0,TV Sei,MPEG-4/HD,2730.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7005.0,Telemax (Italy),MPEG-4/HD,2740.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7006.0,Info Media News,MPEG-4/SD,2750.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7007.0,Super J,MPEG-4/SD,2760.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7008.0,TeleRegione Molise,MPEG-4/HD,2770.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7009.0,Diciotto,MPEG-4/HD,2780.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7012.0,Antenna 10,MPEG-4/SD,2810.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7013.0,Rete 8 Sport,MPEG-4/SD,2820.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7014.0,TeleSirio,MPEG-4/SD,2830.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7015.0,TLT Molise,MPEG-4/HD,2840.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7016.0,Le Cronache,HEVC/HD,2850.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7017.0,Vera TV Canale 79,MPEG-4/HD,2860.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7018.0,TRSP,MPEG-4/SD,2870.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+7019.0,Radio Parsifal Radio Visione,MPEG-4/SD,2880.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 24,,DVB-S2,Ita
+9801.0,Video Calabria,MPEG-4/SD,2900.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9802.0,La C TV,MPEG-4/SD,2910.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9803.0,Ten TV,MPEG-4/SD,2920.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9804.0,Calabria TV,MPEG-4/SD,2930.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9805.0,RTI Canale 14,MPEG-4/SD,2940.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9806.0,Esperia TV,MPEG-4/SD,2950.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9807.0,Telespazio TV,MPEG-4/SD,2960.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9808.0,Matrix TV,MPEG-4/SD,2970.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9809.0,Tele A1,MPEG-4/SD,2980.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9811.0,L'altro Corriere TV,MPEG-4/SD,3000.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9812.0,Tele Mia,MPEG-4/HD,3010.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9813.0,Reggio TV,MPEG-4/SD,3020.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9814.0,RTC Telecalabria,MPEG-4/SD,3030.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9815.0,Telemormanno,MPEG-4/SD,3040.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9816.0,Jonica Radio TV,MPEG-4/SD,3050.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9817.0,Wedding TV,MPEG-4/SD,3060.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+9819.0,Video Touring,MPEG-4/SD,3080.0,12380 V,tp IT8,0,,,False,RL Liguria 1, 25,,DVB-S2,Ita
+1064.0,Peiraiki Ekklisia 91.2 FM,,,12399 H,tp GC8,51,,,False,RL Liguria 1,2/3,27500,DVB-S2,Gre
+,RL Valle d'Aosta,8572-6369,,12466 V,tp IT10,0,,https://www.lyngsat.com/providers/it/RL-Valle-dAosta.html,True,RL Valle d'Aosta, 12,,DVB-S2,
+1807.0,La Valle d'Aosta in TV,MPEG-4/SD,1560.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 12,,DVB-S2,Ita
+1811.0,France 24 Français,MPEG-4/HD,1600.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 12,,DVB-S2,Fre
+1812.0,RTS 1 (Switzerland),MPEG-4/HD,1610.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 12,,DVB-S2,Fre
+1813.0,TV5Monde Europe,MPEG-4/HD,1620.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 12,,DVB-S2,Fre
+2801.0,Trentino TV,MPEG-4/HD,1900.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2802.0,RTTR,MPEG-4/SD,1910.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2803.0,Telepace Trento,MPEG-4/HD,1920.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2804.0,7 Gold Telepadova,MPEG-4/HD,1930.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2805.0,Telenuovo,MPEG-4/SD,1940.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2806.0,A3,MPEG-4/HD,1950.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2808.0,Tele Chiara,MPEG-4/HD,1970.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2809.0,VB 33,MPEG-4/HD,1000.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+2810.0,TV 7 Triveneta,MPEG-4/SD,1990.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 13,,DVB-S2,Ita
+4801.0,TRC Modena,MPEG-4/HD,1100.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4802.0,TRC Bologna,MPEG-4/HD,1110.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4803.0,TeleReggio,MPEG-4/HD,1120.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4804.0,12 TV Parma,MPEG-4/HD,1130.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4805.0,TV Qui,MPEG-4/SD,1140.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4806.0,Teleromagna,MPEG-4/HD,1150.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4807.0,TR 24,MPEG-4/SD,1160.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4809.0,Telestense,MPEG-4/SD,1180.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4814.0,Icaro TV,MPEG-4/SD,1230.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4815.0,VideoRegione,MPEG-4/SD,1240.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4817.0,ÈTV Rete 7,MPEG-4/HD,1260.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+4816.0,Radio Studio Delta,,,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 17,,DVB-S2,Ita
+6001.0,TV Centro Marche,MPEG-4/HD,2500.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6002.0,Vera TV,MPEG-4/HD,2510.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6003.0,ÈTV Marche,MPEG-4/HD,2520.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6004.0,TVRS,MPEG-4/HD,2530.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6006.0,7 Gold Marche,MPEG-4/HD,2550.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6007.0,Fano TV 19,MPEG-4/HD,2560.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6008.0,Info 2000,MPEG-4/SD,2570.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6009.0,Rossini TV,MPEG-4/HD,2580.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6010.0,FM TV 75,MPEG-4/HD,2590.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6011.0,Telemarche,MPEG-4/HD,2600.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6013.0,RTM,MPEG-4/SD,2620.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita
+6014.0,ÈTV +,MPEG-4/HD,2630.0,12466 V,tp IT10,0,,,False,RL Valle d'Aosta, 23,,DVB-S2,Ita

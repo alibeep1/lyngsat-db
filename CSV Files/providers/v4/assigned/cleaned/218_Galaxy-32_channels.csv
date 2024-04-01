@@ -1,0 +1,52 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,MASN,,,4010 H,tp 15,,PowerVu,https://www.lyngsat.com/providers/us/MASN.html,True,MASN,8/9,14400,DVB-S2,
+100,MASN Baltimore,MPEG-4/HD,100.0,4010 H,tp 15,,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng
+110,MASN Washington,MPEG-4/HD,110.0,4010 H,tp 15,,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng
+120,MASN 2 Baltimore,MPEG-4/HD,120.0,4010 H,tp 15,,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng
+130,MASN 2 Washington,MPEG-4/HD,130.0,4010 H,tp 15,,PowerVu,,False,MASN,8/9,14400,DVB-S2,Eng
+,Fox Corporation,,,4020 V,tp 16,,Irdeto,https://www.lyngsat.com/providers/us/Fox-Corporation.html,True,Fox Corporation,3/4,31250,DVB-S2,
+551,Fox News Channel,HEVC/HD,101.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+552,FS1,HEVC/HD,201.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+553,FS2,HEVC/HD,301.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+554,Fox Business,HEVC/HD,401.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng
+555,Fox Deportes,HEVC/HD,501.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+556,FS1 Alternate,HEVC/HD,601.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+561,(Fox Business feeds),,1101.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng
+562,Fox Sports Racing,HEVC/HD,1201.0,4020 V,tp 16,,Irdeto,,False,Fox Corporation,3/4,31250,DVB-S2,Eng Spa
+,,,,4030 H,tp 17,,,,False,Fox Corporation,5/6,15000,DVB-S2,
+,,,,4160 H,tp 23,,PowerVu,,False,Fox Corporation,5/6,30000,DVB-S2,
+101,Root Sports Northwest,MPEG-4/HD,1011.0,4030 H,tp 17,,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng Spa
+104,Root Sports Northwest Alternate,MPEG-4/HD,1041.0,4030 H,tp 17,,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng
+107,AT&T SportsNet Southwest,MPEG-4/HD,1071.0,4030 H,tp 17,,,,False,Fox Corporation,5/6,15000,DVB-S2,Eng Spa
+108,AT&T SportsNet Southwest Alternate,MPEG-4/HD,1081.0,4030 H,tp 17,,,,False,Fox Corporation,5/6,15000,DVB-S2,Eng
+111,Root Sports Northwest Plus,MPEG-4/HD,1111.0,4030 H,tp 17,,Nagravision,,False,Fox Corporation,5/6,15000,DVB-S2,Eng
+,NHL Network,,,4051 V,tp 18,,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,True,NHL Network,7/8,13333,DVB-S1,
+7,NHL Network,MPEG-4/HD,710.0,4051 V,tp 18,,PowerVu,https://www.lyngsat.com/providers/us/NHL-Network.html,True,NHL Network,7/8,13333,DVB-S1,Eng Spa
+8,NHL Network Alternate,MPEG-4/HD,810.0,4051 V,tp 18,,PowerVu,,False,NHL Network,7/8,13333,DVB-S1,Eng Spa
+1,Jewelry TV,?-?MPEG-4/SD,4130.0,4062 V,tp 18,,,,False,NHL Network,3/4,3255,DVB-S3,Eng Eng
+?,The Word Network,?-1MPEG-4/SD,1160.0,4066 H,tp 19,,,,False,NHL Network,1/2,6620,DVB-S6,Eng
+1,BYU TV,?-?MPEG-4/HD,81.0,4068 V,tp 18,,,,False,NHL Network,2/3,4250,DVB-S2,Eng Spa
+2,BYU Radio,,,4068 V,tp 18,,,,False,NHL Network,2/3,4250,DVB-S2,Eng
+,TCT,65535-1,,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,
+1,TCT,MPEG-4/HD,49.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,Eng
+2,TCT,MPEG-4/SD,81.0,4074 V,tp 18,,,https://www.lyngsat.com/providers/us/TCT.html,True,TCT,3/4,5600,DVB-S2,Eng
+4,SBN Domestic,MPEG-4/SD,97.0,4074 V,tp 18,,,,False,TCT,3/4,5600,DVB-S2,Eng
+,The CW Plus,,,4084 H,tp 19,,Verimatrix,https://www.lyngsat.com/providers/us/The-CW-Plus.html,True,The CW Plus,5/6,21600,DVB-S2,
+1,The CW Plus East,MPEG-4/HD,257.0,4084 H,tp 19,,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng
+2,The CW Plus Central,MPEG-4/HD,513.0,4084 H,tp 19,,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng
+3,The CW Plus Mountain,MPEG-4/HD,769.0,4084 H,tp 19,,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng
+4,The CW Plus Pacific,MPEG-4/HD,1025.0,4084 H,tp 19,,Verimatrix,,False,The CW Plus,5/6,21600,DVB-S2,Eng
+6,The CW,MPEG-4/HD,1537.0,4084 H,tp 19,,,,False,The CW Plus,5/6,21600,DVB-S2,Eng
+,(Fox feeds),,,4100 V,tp 20,,,,False,The CW Plus,3/4,31250,DVB-S2,
+,Roberts Communications Network,,,4142 V,tp 22,,Digicipher,https://www.lyngsat.com/providers/us/Roberts-Communications-Network.html,True,Roberts Communications Network,5/6,18333,DVB-S2,
+1,Gem Shopping Network,MPEG-2/SD,101.0,4142 V,tp 22,,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng
+5,Gem Shopping Network,MPEG-4/HD,257.0,4142 V,tp 22,,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng
+2,FanDuel Racing,MPEG-2/SD,513.0,4142 V,tp 22,,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng
+3,FanDuel TV,MPEG-4/HD,1281.0,4142 V,tp 22,,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng
+4,FanDuel TV,MPEG-2/SD,1025.0,4142 V,tp 22,,Digicipher,,False,Roberts Communications Network,5/6,18333,DVB-S2,Eng
+1,KLUZ-TV (Univisión - Albuquerque),?-?MPEG-2/SD,3601.0,4156 V,tp 22,,,,False,Roberts Communications Network,3/4,2480,DVB-S2,
+1,Altitude Sports,MPEG-4/HD,100.0,4160 H,tp 23,,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng
+2,Altitude 2,MPEG-4/HD,200.0,4160 H,tp 23,,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng
+3,World Fishing Network,MPEG-4/HD,300.0,4160 H,tp 23,,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng
+4,Outdoor Channel,MPEG-4/HD,400.0,4160 H,tp 23,,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng
+5,Sportsman Channel,MPEG-4/HD,500.0,4160 H,tp 23,,PowerVu,,False,Roberts Communications Network,5/6,30000,DVB-S2,Eng

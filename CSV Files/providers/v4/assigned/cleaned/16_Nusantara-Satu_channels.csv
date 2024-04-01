@@ -1,0 +1,6 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,{},,,3579 V,,0,,,False,,2/3,19786,DVB-S1,
+,,,,3772 H,,0,,,False,,,,,
+,PSN,,,4013 H,,0,,https://www.lyngsat.com/providers/id/PSN.html,True,PSN,1/2,4090,DVB-S2,
+1001.0,(PSN feeds),,33.0,4013 H,,0,,,False,PSN,1/2,4090,DVB-S2,
+1002.0,Elshinta TV,MPEG-4/SD,36.0,4013 H,,0,,,False,PSN,1/2,4090,DVB-S2,Ind

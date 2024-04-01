@@ -1,0 +1,250 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Signet,1-1,,3846 R,tp C5D,,,https://www.lyngsat.com/providers/ke/Signet.html,True,Signet,2/3,6730,DVB-S2,
+1.0,Star Africa TV,MPEG-4/SD,1000.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+9.0,KU TV,MPEG-4/SD,1091.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+24.0,Mt Kenya TV,MPEG-4/SD,1241.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+35.0,Baite TV,MPEG-4/SD,1351.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+42.0,Mutongoi TV,MPEG-4/SD,1421.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+55.0,Testimony TV (Kenya),MPEG-4/SD,1551.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+101.0,KBC Channel 1,MPEG-4/SD,601.0,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+102.0,KBC Radio Taifa,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+103.0,KBC English Service,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,Eng
+104.0,Iftiin FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+205.0,Iftiin FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+105.0,Coro FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+106.0,Nosim FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+107.0,Minto FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+108.0,Kitwek FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+109.0,Mayienga FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+110.0,Mwatu FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+111.0,Ingo FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+216.0,Pwani FM,,,3846 R,tp C5D,,,,False,Signet,2/3,6730,DVB-S2,
+,(feeds),,,3878 L,,,,,False,Signet,666,8,DVB-S2,
+,(feeds),,,3880 L,,,,,False,Signet,666,8,DVB-S2,
+,,,,4071 V,,,,,False,Signet,,,,
+,,,,4078 V,,,,,False,Signet,,,,
+,,,,11754 V,,0.0,Videoguard,,False,Signet,4/5,28190,DVB-S2,
+,,,,12050 V,,0.0,,,False,Signet,000,30,DVB-S2,
+,,,,12086 V,,0.0,,,False,Signet,000,30,DVB-S2,
+,,,,12169 H,,0.0,,,False,Signet,000,30,DVB-S2,
+,,,,12216 H,,0.0,,,False,Signet,3/4,30000,DVB-S2,
+,,,,12252 V,,0.0,,,False,Signet,000,30,DVB-S2,
+,,,,12333 V,,0.0,,,False,Signet,000,30,DVB-S2,
+,,,,12552 V,,0.0,,,False,Signet,580,4,DVB-S2,
+1.0,Revival Channel,?-?MPEG-4/SD,257.0,4119 H,,,,,False,Signet,5/6,1100,DVB-S2,Fre
+,Revival Channel,MPEG-4/SD,201.0,12216 H,,0.0,,,False,Signet,3/4,30000,DVB-S2,Fre
+,ViewMedia,,,11717 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,3/4,30000,DVB-S2,
+,ViewMedia,,,11717 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,3/4,30000,DVB-S2,
+,ViewMedia,,,11717 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,3/4,30000,DVB-S2,
+,ViewMedia,,,11881 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,2/3,30000,DVB-S2,
+,ViewMedia,,,11881 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,2/3,30000,DVB-S2,
+,ViewMedia,,,11881 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,2/3,30000,DVB-S2,
+,ViewMedia,,,11918 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,000,30,DVB-S2,
+,ViewMedia,,,11918 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,000,30,DVB-S2,
+,ViewMedia,,,11918 V,,0.0,,https://www.lyngsat.com/providers/uk/ViewMedia.html,True,ViewMedia,000,30,DVB-S2,
+,Jesus-Revient TV,MPEG-4/SD,800.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Jesus-Revient TV,MPEG-4/HD,4231.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Jesus-Revient TV,MPEG-4/HD,4231.0,12050 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Property TV (Ghana),MPEG-4/SD,801.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Nazareth TV,MPEG-4/SD,802.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Ewe
+,Faith TV (Ivory Coast),MPEG-4/SD,803.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Dove TV Africa,MPEG-4/SD,804.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Mahanaïm TV,MPEG-4/SD,805.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Ambazonia Freedom TV,MPEG-4/SD,806.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Mics TV,MPEG-4/SD,807.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,TF TV,MPEG-4/SD,808.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Hijrah TV (Nigeria),MPEG-4/SD,816.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Alfaidah Attijaniyya TV,MPEG-4/SD,818.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,
+,Farin Wata TV,MPEG-4/SD,819.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Hau
+,Vases d'Honneur TV,MPEG-4/SD,820.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,CE TV,MPEG-4/SD,821.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Lumière des Nations TV,MPEG-4/SD,823.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Renaissance TV,MPEG-4/SD,866.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Aya TV,MPEG-4/SD,881.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+1.0,Schekina Miracles TV,MPEG-4/SD,769.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+2.0,Medegbe TV,MPEG-4/SD,770.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+3.0,Dynamic Gospel TV,MPEG-4/SD,771.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+5.0,Tele Fontaine Vie TV,MPEG-4/SD,773.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+6.0,Exploits TV,MPEG-4/SD,774.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+7.0,Africa Man TV,MPEG-4/SD,775.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+8.0,SCBC TV,MPEG-4/SD,776.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+9.0,Messiah TV,MPEG-4/SD,777.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+10.0,Songhoy TV,MPEG-4/SD,784.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,
+11.0,King of Kings TV,MPEG-4/SD,785.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,
+12.0,Chosen TV French,MPEG-4/SD,786.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+13.0,URHC TV,MPEG-4/SD,787.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+14.0,ABC Amba TV,MPEG-4/SD,788.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+15.0,CAC TV,MPEG-4/SD,789.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+16.0,Wadedji TV,MPEG-4/SD,790.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+17.0,Heros TV,MPEG-4/SD,791.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+18.0,Amenuveve TV,MPEG-4/SD,792.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+19.0,Top Média Bénin TV,MPEG-4/SD,793.0,11717 V,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Canal 3 Benin,MPEG-4/SD,1011.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Canal 3 Cinema,MPEG-4/SD,1021.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Canal 3 Mboa,MPEG-4/SD,1031.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,
+,TV5Monde Afrique,MPEG-4/SD,1081.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Canal 3 Niger,MPEG-4/SD,1141.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Sunna TV Togo,MPEG-4/SD,1151.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Canal 3 Waama,MPEG-4/SD,1161.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,
+,Dounia TV,MPEG-4/SD,1171.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,RTS 1,MPEG-4/SD,1181.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Albaniy TV,MPEG-4/SD,1191.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Manara TV,MPEG-4/SD,1201.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,Hau
+,Sunna TV,MPEG-4/SD,1211.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Sunna TV 2,MPEG-4/SD,1221.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Sunna TV Kano,MPEG-4/SD,1231.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Sunna TV IKS Niger,MPEG-4/SD,1241.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Tauraruwa TV,MPEG-4/SD,1261.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,
+,Sunna TV Savana,MPEG-4/SD,1271.0,11754 V,,0.0,,,False,ViewMedia,4/5,28190,DVB-S2,Hau
+,Alminhaj TV,MPEG-4/SD,1281.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Eng
+,Evangelique TV,MPEG-4/SD,1301.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Alléluia World TV,MPEG-4/SD,1311.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,Fre
+,Alléluia World TV,MPEG-4/SD,787.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Alléluia World TV,MPEG-4/SD,787.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Canal 3 Cedeao,MPEG-4/SD,1321.0,11754 V,,0.0,Videoguard,,False,ViewMedia,4/5,28190,DVB-S2,
+,ViewMedia promo,MPEG-4/SD,769.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,ViewMedia promo,MPEG-4/SD,769.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Universal Harvest TV,MPEG-4/SD,770.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,Universal Harvest TV,MPEG-4/SD,770.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,MTA Gambia,MPEG-4/SD,771.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,MTA Gambia,MPEG-4/SD,771.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,DMCI TV,MPEG-4/SD,772.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,DMCI TV,MPEG-4/SD,772.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,SAM TV,MPEG-4/SD,773.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,SAM TV,MPEG-4/SD,773.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,MITG TV,MPEG-4/SD,774.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,MITG TV,MPEG-4/SD,774.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Espoir du Monde TV,MPEG-4/SD,785.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Espoir du Monde TV,MPEG-4/SD,785.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Champion TV (Ivory Coast),MPEG-4/SD,786.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Champion TV (Ivory Coast),MPEG-4/SD,786.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Islamic Library Channel,MPEG-4/SD,788.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,Islamic Library Channel,MPEG-4/SD,788.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,LoveWorld Sat,MPEG-4/SD,789.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,LoveWorld Sat,MPEG-4/SD,789.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Juridico-Chrétienne TV,MPEG-4/SD,793.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Juridico-Chrétienne TV,MPEG-4/SD,793.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Soleil Levant TV,MPEG-4/SD,803.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Soleil Levant TV,MPEG-4/SD,803.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Terminus TV,MPEG-4/SD,873.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Terminus TV,MPEG-4/SD,873.0,11918 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Jesus Savior TV Plus,MPEG-4/SD,4181.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Jesus Savior TV Plus,MPEG-4/SD,4181.0,12050 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,RTVC,MPEG-4/HD,4221.0,11881 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,RTVC,MPEG-4/HD,4221.0,12050 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+1.0,Bethel TV (Peru),?-?MPEG-4/HD,260.0,11990 V,,0.0,,,False,ViewMedia,2/3,2269,DVB-S2,Spa
+,Tele Congo,MPEG-4/SD,138.0,12035 H,,0.0,,,False,ViewMedia,432,3,DVB-S2,Fre
+,Afrika Poulaar TV,MPEG-4/SD,6091.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Afrika Poulaar TV,MPEG-4/SD,6091.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Nek 4 Culture,MPEG-4/SD,6111.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Nek 4 Culture,MPEG-4/SD,6111.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,Avenor TV,MPEG-4/SD,6121.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Avenor TV,MPEG-4/SD,6121.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Eng
+,HMD 4,MPEG-4/SD,6141.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,HMD 4,MPEG-4/SD,6141.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,My Righteous TV,MPEG-4/SD,8071.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,My Righteous TV,MPEG-4/SD,797.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,My Righteous TV,MPEG-4/SD,226.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,SOS Docteur TV,MPEG-4/SD,8081.0,12086 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+40808.0,SOS Docteur TV,MPEG-4/SD,8081.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+154.0,Chrétiens TV,?-?MPEG-4/SD,80.0,12144 V,,0.0,,,False,ViewMedia,000,15,DVB-S2,Fre
+,C-Gospel,MPEG-4/HD,86.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,African Style,MPEG-4/SD,94.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Guinée TV 1,MPEG-4/SD,111.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Grace TV (Benin),MPEG-4/SD,113.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,TV Al Houda,MPEG-4/SD,118.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Fasso TV Kankan,MPEG-4/SD,125.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Fasso TV Kankan,MPEG-4/SD,117.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Happy (Guinea),MPEG-4/SD,133.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Meimir TV,MPEG-4/SD,138.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Hautentik Visuel TV,MPEG-4/SD,146.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Marisa TV,MPEG-4/SD,160.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Evasion TV,MPEG-4/SD,175.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Evasion TV,MPEG-4/SD,293.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,D3 TV,MPEG-4/SD,184.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Tata TV,MPEG-4/SD,191.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Rapha TV+,MPEG-4/SD,198.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Afrobit,MPEG-4/HD,256.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Liberty TV (Cameroon),MPEG-4/SD,257.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Liberty TV (Cameroon),MPEG-4/SD,81.0,12552 V,,0.0,,,False,ViewMedia,580,4,DVB-S2,Fre
+,Porte TV,MPEG-4/SD,513.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Lion Family TV,MPEG-4/SD,770.0,12169 H,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Deeman TV,MPEG-4/SD,33.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,
+,Miracle TV+,MPEG-4/HD,52.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Voie TV,MPEG-4/SD,55.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Glorious Vision TV,MPEG-4/HD,60.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Mogpa TV,MPEG-4/HD,69.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,DBS TV (Cameroon),MPEG-4/SD,70.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Espace TV,MPEG-4/SD,72.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,RCV TV,MPEG-4/SD,90.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Fre
+,Champion TV (Ghana),MPEG-4/HD,256.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Akanayo TV Plus,MPEG-4/HD,501.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Ambazonia Communication Network,MPEG-4/HD,701.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,MRC TV (Congo-Kinshasa),MPEG-4/HD,1501.0,12216 H,,0.0,,,False,ViewMedia,3/4,30000,DVB-S2,Eng
+,Repentance TV,MPEG-4/SD,54.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Zoe Channel,MPEG-4/SD,56.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Regard d'Afrik TV,MPEG-4/SD,65.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Jes TV,MPEG-4/SD,77.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,WAQF TV,MPEG-4/SD,83.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Racines Africa TV,MPEG-4/SD,93.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,BK TV,MPEG-4/SD,94.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Espoir TV,MPEG-4/SD,100.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Canal 7 Gospel TV,MPEG-4/SD,106.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Doxa TV,MPEG-4/SD,122.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,
+,Home TV,MPEG-4/SD,130.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Collywood,MPEG-4/SD,142.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Divin Amour TV,MPEG-4/SD,150.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Dash TV News,MPEG-4/SD,166.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Noe TV,MPEG-4/SD,170.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,God with us TV (Cameroon),MPEG-4/SD,201.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,God with us TV (Cameroon),MPEG-4/SD,132.0,12552 V,,0.0,,,False,ViewMedia,580,4,DVB-S2,Eng
+,Sun+ TV,MPEG-4/SD,219.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Divine TV (Cameroon),MPEG-4/SD,233.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Nourdine TV,MPEG-4/SD,240.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+40804.0,Nourdine TV,MPEG-4/SD,8041.0,12297 V,,0.0,,,False,ViewMedia,2/3,30000,DVB-S2,Fre
+,God Is Able TV,MPEG-4/SD,249.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Afrike Inform,MPEG-4/SD,261.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Royaume de Dieu TV,MPEG-4/SD,268.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Restauration Afrique TV,MPEG-4/SD,282.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Media du Peuple TV,MPEG-4/SD,298.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Canal Hausa,MPEG-4/SD,305.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Hau
+,Dash TV Sports & Entertainment,MPEG-4/SD,513.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,The Temple TV,MPEG-4/SD,1001.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Eng
+,Benie TV,MPEG-4/HD,1024.0,12252 V,,0.0,,,False,ViewMedia,000,30,DVB-S2,Fre
+,Panbetting,?-4908,,12297 V,,0.0,,https://www.lyngsat.com/providers/de/Panbetting.html,True,Panbetting,2/3,30000,DVB-S2,
+40800.0,West Africa TV,MPEG-4/SD,8001.0,12297 V,,0.0,,,False,Panbetting,2/3,30000,DVB-S2,Fre
+,West Africa TV,MPEG-4/SD,1024.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+40801.0,Dakar TV International,MPEG-4/SD,8011.0,12297 V,,0.0,,,False,Panbetting,2/3,30000,DVB-S2,Fre
+40802.0,DBM TV,MPEG-4/SD,8021.0,12297 V,,0.0,,,False,Panbetting,2/3,30000,DVB-S2,Fre
+,DBM TV,MPEG-4/SD,171.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+40806.0,Kaback TV,MPEG-4/SD,8061.0,12297 V,,0.0,,,False,Panbetting,2/3,30000,DVB-S2,Fre
+,My Media Prime,MPEG-4/SD,64.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,Glory Christ Channel,MPEG-4/SD,69.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,Bengha TV,MPEG-4/SD,75.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Divine Mercy Radio TV,MPEG-4/SD,99.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,Balafon TV,MPEG-4/SD,131.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Speed Line TV,MPEG-4/SD,135.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,
+,Ark of God TV,MPEG-4/SD,145.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,Eagle Flight TV,MPEG-4/SD,149.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,
+,LTM TV,MPEG-4/SD,174.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Hope World,MPEG-4/SD,193.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Cam 10,MPEG-4/SD,195.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Télé Evangélique,MPEG-4/SD,202.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,My Hausa,MPEG-4/SD,213.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Hau
+,Dominion TV (Cameroon),MPEG-4/SD,220.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,STV,MPEG-4/SD,234.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Boom TV (Cameroon),MPEG-4/SD,241.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,For You Africa,MPEG-4/SD,254.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Swecom promo,MPEG-4/SD,256.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,NG TV,MPEG-4/SD,280.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,My Movie English,MPEG-4/SD,502.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,My Movie French,MPEG-4/SD,602.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Hi TV,MPEG-4/SD,4503.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,My Music Africa,MPEG-4/SD,4703.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,My Gospel,MPEG-4/SD,5103.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Eng
+,Afrique Média,MPEG-4/SD,6003.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Fre
+,Hausa 7 TV,MPEG-4/SD,6103.0,12333 V,,0.0,,,False,Panbetting,000,30,DVB-S2,Hau
+,Nana TV,MPEG-4/SD,97.0,12552 V,,0.0,,,False,Panbetting,580,4,DVB-S2,Eng
+,Grace TV,MPEG-4/SD,113.0,12552 V,,0.0,,,False,Panbetting,580,4,DVB-S2,Fre
+,Zoe TV (Cameroon),MPEG-4/SD,133.0,12552 V,,0.0,,,False,Panbetting,580,4,DVB-S2,Eng
+,TCF,MPEG-4/SD,258.0,12706 V,,0.0,,,False,Panbetting,834,5,DVB-S2,Fre

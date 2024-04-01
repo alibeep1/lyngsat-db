@@ -1,0 +1,372 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,IVG,100-20000,,10721 H,tp A1,52,,https://www.lyngsat.com/providers/tr/IVG.html,,,True,IVG,3/4,22000.0,DVB-S2,,
+1.0,BBC Persian,MPEG-2/SD,101.0,10721 H,tp A1,52,,,BBC Persian,https://www.lyngsat.com/tvchannels/uk/BBC-Persian.html,False,IVG,3/4,22000.0,DVB-S2,Per,uk
+1.0,BBC Persian,MPEG-2/SD,101.0,10721 H,tp A1,52,,,BBC Persian,https://www.lyngsat.com/tvchannels/uk/BBC-Persian.html,False,IVG,3/4,22000.0,DVB-S2,Per,uk
+2.0,Simay-Azadi Iran National TV,MPEG-2/SD,201.0,10721 H,tp A1,52,,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,uk
+2.0,Simay-Azadi Iran National TV,MPEG-2/SD,201.0,10721 H,tp A1,52,,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,uk
+1.0,Simay-Azadi Iran National TV,0-0MPEG-4/HD,512.0,12633 H,tp F3,47-48,BISS 1,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,False,IVG,3/4,3750.0,DVB-S2,Per,uk
+1.0,Simay-Azadi Iran National TV,0-0MPEG-4/HD,512.0,12633 H,tp F3,47-48,BISS 1,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,False,IVG,3/4,3750.0,DVB-S2,Per,uk
+9002.0,Channel One TV,MPEG-4/HD,921.0,10721 H,tp A1,52,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+9002.0,Channel One TV,MPEG-4/HD,921.0,10721 H,tp A1,52,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+9008.0,Channel One TV,MPEG-2/SD,981.0,10721 H,tp A1,52,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+9008.0,Channel One TV,MPEG-2/SD,981.0,10721 H,tp A1,52,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+9006.0,Pars TV,MPEG-4/SD,961.0,10721 H,tp A1,52,,,Pars TV,https://www.lyngsat.com/tvchannels/us/Pars-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+9006.0,Pars TV,MPEG-4/SD,961.0,10721 H,tp A1,52,,,Pars TV,https://www.lyngsat.com/tvchannels/us/Pars-TV.html,False,IVG,3/4,22000.0,DVB-S2,Per,us
+,Eutelsat,126-10100,,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-10100,,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-10100,,10721 H,tp K1,0,BISS 1,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-10900,,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-10900,,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-10900,,10887 H,tp K9,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-60300,,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-60300,,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+,Eutelsat,126-60300,,12604 H,tp H3,0,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,,True,Eutelsat,2/3,30000.0,DVB-S2,,
+2652.0,ENTV,MPEG-4/SD,513.0,10721 H,tp K1,0,,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Ara,dz
+,Chinese mux,126-10300,,10762 H,tp K3,0,VisionCrypt,,,,False,Eutelsat,2/3,30000.0,DVB-S2,,
+2701.0,CCTV 1,HEVC/HD,7011.0,10762 H,tp K3,0,VisionCrypt,,CCTV 1,https://www.lyngsat.com/tvchannels/cn/CCTV-1.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2701.0,CCTV 1,HEVC/HD,7011.0,10762 H,tp K3,0,VisionCrypt,,CCTV 1,https://www.lyngsat.com/tvchannels/cn/CCTV-1.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2702.0,CCTV 2,HEVC/HD,7021.0,10762 H,tp K3,0,VisionCrypt,,CCTV 2,https://www.lyngsat.com/tvchannels/cn/CCTV-2.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2702.0,CCTV 2,HEVC/HD,7021.0,10762 H,tp K3,0,VisionCrypt,,CCTV 2,https://www.lyngsat.com/tvchannels/cn/CCTV-2.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2703.0,CCTV 3,HEVC/HD,7031.0,10762 H,tp K3,0,VisionCrypt,,CCTV 3,https://www.lyngsat.com/tvchannels/cn/CCTV-3.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2703.0,CCTV 3,HEVC/HD,7031.0,10762 H,tp K3,0,VisionCrypt,,CCTV 3,https://www.lyngsat.com/tvchannels/cn/CCTV-3.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2704.0,CCTV 4 Asia,HEVC/HD,7041.0,10762 H,tp K3,0,VisionCrypt,,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2704.0,CCTV 4 Asia,HEVC/HD,7041.0,10762 H,tp K3,0,VisionCrypt,,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2705.0,CCTV 5,HEVC/HD,7051.0,10762 H,tp K3,0,VisionCrypt,,CCTV 5,https://www.lyngsat.com/tvchannels/cn/CCTV-5.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2707.0,CCTV 5+,HEVC/HD,7071.0,10762 H,tp K3,0,VisionCrypt,,CCTV 5+,https://www.lyngsat.com/tvchannels/cn/CCTV-5-.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2708.0,CCTV 8,HEVC/HD,7081.0,10762 H,tp K3,0,VisionCrypt,,CCTV 8,https://www.lyngsat.com/tvchannels/cn/CCTV-8.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2708.0,CCTV 8,HEVC/HD,7081.0,10762 H,tp K3,0,VisionCrypt,,CCTV 8,https://www.lyngsat.com/tvchannels/cn/CCTV-8.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2709.0,CCTV 7,HEVC/HD,7091.0,10762 H,tp K3,0,VisionCrypt,,CCTV 7,https://www.lyngsat.com/tvchannels/cn/CCTV-7.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2709.0,CCTV 7,HEVC/HD,7091.0,10762 H,tp K3,0,VisionCrypt,,CCTV 7,https://www.lyngsat.com/tvchannels/cn/CCTV-7.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2710.0,CCTV 13,HEVC/HD,7101.0,10762 H,tp K3,0,VisionCrypt,,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2710.0,CCTV 13,HEVC/HD,7101.0,10762 H,tp K3,0,VisionCrypt,,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2711.0,Beijing TV Kaku,HEVC/HD,7111.0,10762 H,tp K3,0,VisionCrypt,,Beijing TV Kaku,https://www.lyngsat.com/tvchannels/cn/Beijing-TV-Kaku.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2713.0,Beijing TV,HEVC/HD,7131.0,10762 H,tp K3,0,VisionCrypt,,Beijing TV,https://www.lyngsat.com/tvchannels/cn/Beijing-TV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2714.0,Dragon TV International,HEVC/HD,7141.0,10762 H,tp K3,0,VisionCrypt,,Dragon TV International,https://www.lyngsat.com/tvchannels/cn/Dragon-TV-International.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2715.0,Hunan TV International,HEVC/HD,7151.0,10762 H,tp K3,0,VisionCrypt,,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2715.0,Hunan TV International,HEVC/HD,7151.0,10762 H,tp K3,0,VisionCrypt,,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2716.0,Jiangsu Satellite TV,HEVC/HD,7161.0,10762 H,tp K3,0,VisionCrypt,,Jiangsu Satellite TV,https://www.lyngsat.com/tvchannels/cn/Jiangsu-Satellite-TV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2717.0,Zhejiang Satellite TV,HEVC/HD,7171.0,10762 H,tp K3,0,VisionCrypt,,Zhejiang Satellite TV,https://www.lyngsat.com/tvchannels/cn/Zhejiang-Satellite-TV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2718.0,Anhui Satellite TV,HEVC/HD,7181.0,10762 H,tp K3,0,VisionCrypt,,Anhui Satellite TV,https://www.lyngsat.com/tvchannels/cn/Anhui-Satellite-TV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2719.0,Liaoning TV,HEVC/HD,7191.0,10762 H,tp K3,0,VisionCrypt,,Liaoning TV,https://www.lyngsat.com/tvchannels/cn/Liaoning-TV.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,cn
+2720.0,Phoenix Chinese Channel,HEVC/HD,7201.0,10762 H,tp K3,0,,,Phoenix Chinese Channel,https://www.lyngsat.com/tvchannels/hk/Phoenix-Chinese-Channel.html,False,Eutelsat,2/3,30000.0,DVB-S2,Chi,hk
+2799.0,[test card],MPEG-2/SD,7991.0,10762 H,tp K3,0,,,,,False,Eutelsat,2/3,30000.0,DVB-S2,,
+2118.0,[test card],MPEG-4/HD,1181.0,10887 H,tp K9,0,,,,,False,Eutelsat,2/3,30000.0,DVB-S2,,
+,Premium Free,126-10700,,10845 H,tp K7,0,,https://www.lyngsat.com/providers/za/Premium-Free.html,,,True,Premium Free,2/3,30000.0,DVB-S2,,
+2801.0,True African,MPEG-4/SD,101.0,10845 H,tp K7,0,,,True African,https://www.lyngsat.com/tvchannels/za/True-African.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2801.0,True African,MPEG-4/SD,101.0,10845 H,tp K7,0,,,True African,https://www.lyngsat.com/tvchannels/za/True-African.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2802.0,Afriwood Series,MPEG-4/SD,111.0,10845 H,tp K7,0,,,Afriwood Series,https://www.lyngsat.com/tvchannels/za/Afriwood-Series.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2802.0,Afriwood Series,MPEG-4/SD,111.0,10845 H,tp K7,0,,,Afriwood Series,https://www.lyngsat.com/tvchannels/za/Afriwood-Series.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2803.0,Pulse,MPEG-4/SD,121.0,10845 H,tp K7,0,,,Pulse,https://www.lyngsat.com/tvchannels/--/Pulse.html,False,Premium Free,2/3,30000.0,DVB-S2,,--
+2804.0,Kingdom Citizens TV,MPEG-4/SD,131.0,10845 H,tp K7,0,,,Kingdom Citizens TV,https://www.lyngsat.com/tvchannels/--/Kingdom-Citizens-TV.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,--
+2805.0,Life TV,MPEG-4/SD,141.0,10845 H,tp K7,0,,,Life TV,https://www.lyngsat.com/tvchannels/--/Life-TV.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,--
+2806.0,Fresh,MPEG-4/SD,151.0,10845 H,tp K7,0,,,Fresh,https://www.lyngsat.com/tvchannels/za/Fresh.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2807.0,LOL Africa,MPEG-4/SD,161.0,10845 H,tp K7,0,,,LOL Africa,https://www.lyngsat.com/tvchannels/za/LOL-Africa.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2807.0,LOL Africa,MPEG-4/SD,161.0,10845 H,tp K7,0,,,LOL Africa,https://www.lyngsat.com/tvchannels/za/LOL-Africa.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2808.0,Kiddiwinks,MPEG-4/SD,171.0,10845 H,tp K7,0,,,Kiddiwinks,https://www.lyngsat.com/tvchannels/za/Kiddiwinks.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2808.0,Kiddiwinks,MPEG-4/SD,171.0,10845 H,tp K7,0,,,Kiddiwinks,https://www.lyngsat.com/tvchannels/za/Kiddiwinks.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2809.0,Sports Connect,MPEG-4/SD,181.0,10845 H,tp K7,0,,,Sports Connect,https://www.lyngsat.com/tvchannels/za/Sports-Connect.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2809.0,Sports Connect,MPEG-4/SD,181.0,10845 H,tp K7,0,,,Sports Connect,https://www.lyngsat.com/tvchannels/za/Sports-Connect.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2810.0,Cinema Yoruba,MPEG-4/SD,191.0,10845 H,tp K7,0,,,Cinema Yoruba,https://www.lyngsat.com/tvchannels/--/Cinema-Yoruba.html,False,Premium Free,2/3,30000.0,DVB-S2,Yor,--
+2811.0,Romanza+ Africa,MPEG-4/SD,201.0,10845 H,tp K7,0,,,Romanza+ Africa,https://www.lyngsat.com/tvchannels/mx/Romanza--Africa.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,mx
+2812.0,Limelight,MPEG-4/SD,211.0,10845 H,tp K7,0,,,Limelight,https://www.lyngsat.com/tvchannels/za/Limelight.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2812.0,Limelight,MPEG-4/SD,211.0,10845 H,tp K7,0,,,Limelight,https://www.lyngsat.com/tvchannels/za/Limelight.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2813.0,Afriwood Blockbuster,MPEG-4/SD,221.0,10845 H,tp K7,0,,,Afriwood Blockbuster,https://www.lyngsat.com/tvchannels/za/Afriwood-Blockbuster.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2813.0,Afriwood Blockbuster,MPEG-4/SD,221.0,10845 H,tp K7,0,,,Afriwood Blockbuster,https://www.lyngsat.com/tvchannels/za/Afriwood-Blockbuster.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2814.0,Cinema Hausa,MPEG-4/SD,231.0,10845 H,tp K7,0,,,Cinema Hausa,https://www.lyngsat.com/tvchannels/--/Cinema-Hausa.html,False,Premium Free,2/3,30000.0,DVB-S2,Hau,--
+2815.0,Bongo TV (South Africa),MPEG-4/SD,241.0,10845 H,tp K7,0,,,Bongo TV (South Africa),https://www.lyngsat.com/tvchannels/za/Bongo-TV.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2815.0,Bongo TV (South Africa),MPEG-4/SD,241.0,10845 H,tp K7,0,,,Bongo TV (South Africa),https://www.lyngsat.com/tvchannels/za/Bongo-TV.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2816.0,Diva,MPEG-4/SD,251.0,10845 H,tp K7,0,,,Diva,https://www.lyngsat.com/tvchannels/--/Diva.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,--
+2817.0,Mindset Liberty Learn,MPEG-2/SD,261.0,10845 H,tp K7,0,,,Mindset Liberty Learn,https://www.lyngsat.com/tvchannels/za/Mindset-Liberty-Learn.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,za
+2818.0,RPM,MPEG-4/SD,271.0,10845 H,tp K7,0,,,RPM,https://www.lyngsat.com/tvchannels/--/RPM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,--
+2819.0,Crime & Evidence,MPEG-4/SD,281.0,10845 H,tp K7,0,,,Crime & Evidence,https://www.lyngsat.com/tvchannels/--/Crime-and-Evidence.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,--
+2160.0,Nyota TV (Kenya),MPEG-4/SD,1601.0,10887 H,tp K9,0,,,Nyota TV (Kenya),https://www.lyngsat.com/tvchannels/ke/Nyota-TV.html,False,Premium Free,2/3,30000.0,DVB-S2,Swa,ke
+2166.0,GEB,MPEG-4/SD,1661.0,10887 H,tp K9,0,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,us
+2166.0,GEB,MPEG-4/SD,1661.0,10887 H,tp K9,0,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,us
+2150.0,Hope FM,,,10887 H,tp K9,0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2150.0,Hope FM,,,10887 H,tp K9,0,,,Hope FM,https://www.lyngsat.com/radiochannels/ke/Hope-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2151.0,Radio Miraya,,,10887 H,tp K9,0,,,Radio Miraya,https://www.lyngsat.com/radiochannels/ss/Radio-Miraya.html,False,Premium Free,2/3,30000.0,DVB-S2,Ara,ss
+2152.0,Biblia Husema Broadcasting,,,10887 H,tp K9,0,,,Biblia Husema Broadcasting,https://www.lyngsat.com/radiochannels/ke/Biblia-Husema-Broadcasting.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2152.0,Biblia Husema Broadcasting,,,10887 H,tp K9,0,,,Biblia Husema Broadcasting,https://www.lyngsat.com/radiochannels/ke/Biblia-Husema-Broadcasting.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2153.0,Capital FM (Kenya),,,10887 H,tp K9,0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2153.0,Capital FM (Kenya),,,10887 H,tp K9,0,,,Capital FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Capital-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,ke
+2154.0,Nam Lolwe FM,,,10887 H,tp K9,0,,,Nam Lolwe FM,https://www.lyngsat.com/radiochannels/ke/Nam-Lolwe-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,,ke
+2156.0,Radio Ashe,,,10887 H,tp K9,0,,,Radio Ashe,https://www.lyngsat.com/radiochannels/ke/Radio-Ashe.html,False,Premium Free,2/3,30000.0,DVB-S2,,ke
+2156.0,Radio Ashe,,,10887 H,tp K9,0,,,Radio Ashe,https://www.lyngsat.com/radiochannels/ke/Radio-Ashe.html,False,Premium Free,2/3,30000.0,DVB-S2,,ke
+2158.0,ATG Radio,,,10887 H,tp K9,0,,,ATG Radio,https://www.lyngsat.com/radiochannels/ke/ATG-Radio.html,False,Premium Free,2/3,30000.0,DVB-S2,,ke
+2159.0,Kigooco FM,,,10887 H,tp K9,0,,,Kigooco FM,https://www.lyngsat.com/radiochannels/ke/Kigooco-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,,ke
+2163.0,One Love Radio FM,,,10887 H,tp K9,0,,,One Love Radio FM,https://www.lyngsat.com/radiochannels/zm/One-Love-Radio-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,zm
+2163.0,One Love Radio FM,,,10887 H,tp K9,0,,,One Love Radio FM,https://www.lyngsat.com/radiochannels/zm/One-Love-Radio-FM.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,zm
+2164.0,Radio Christian Voice,,,10887 H,tp K9,0,,,Radio Christian Voice,https://www.lyngsat.com/radiochannels/zm/Radio-Christian-Voice.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,zm
+2164.0,Radio Christian Voice,,,10887 H,tp K9,0,,,Radio Christian Voice,https://www.lyngsat.com/radiochannels/zm/Radio-Christian-Voice.html,False,Premium Free,2/3,30000.0,DVB-S2,Eng,zm
+,(feeds),,,10958 H,tp B1,,,,,,False,Premium Free,3/4,4500.0,DVB-S2,,
+,(feeds),,,10961 V,tp B2,,,,,,False,Premium Free,3/4,9600.0,DVB-S2,,
+,(feeds),,,10964 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10970 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10971 H,tp B1,,,,,,False,Premium Free,3/4,4200.0,DVB-S2,,
+,(feeds),,,10976 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10976 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10981 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10982 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10988 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10989 H,tp B1,,,,,,False,Premium Free,3/4,4200.0,DVB-S2,,
+,(feeds),,,10994 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,10994 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11003 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11005 H,tp B1,,,,,,False,Premium Free,3/4,8000.0,DVB-S2,,
+,(feeds),,,11012 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11012 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11018 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11018 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11024 H,tp B1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11024 V,tp B2,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11042 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11048 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11057 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11060 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11065 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11065 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11070 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11074 V,tp B4,,,,,,False,Premium Free,3/4,3000.0,DVB-S2,,
+,(feeds),,,11076 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11078 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11084 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11090 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11090 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11096 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11096 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11102 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11102 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11108 H,tp B3,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11108 V,tp B4,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,11126 V,tp B6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,11129 H,tp B5,,,,,,False,Premium Free,5/6,3750.0,DVB-S2,,
+,(feeds),,,11135 V,tp B6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,11136 H,tp B5,,,,,,False,Premium Free,5/6,7500.0,DVB-S2,,
+,(feeds),,,11137 H,tp G3,,,,,,False,Premium Free,111,6.0,DVB-S6,,
+,(feeds),,,11143 H,tp B5,,,,,,False,Premium Free,3/4,3750.0,DVB-S2,,
+,(feeds),,,11152 V,tp B6,,,,,,False,Premium Free,3/4,3600.0,DVB-S2,,
+,(feeds),,,11153 H,tp B5,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,11160 H,tp B5,,,,,,False,Premium Free,3/4,3200.0,DVB-S2,,
+,(feeds),,,11165 V,tp B6,,,,,,False,Premium Free,3/4,9700.0,DVB-S2,,
+,(feeds),,,11169 H,tp B5,,,,,,False,Premium Free,3/4,2200.0,DVB-S2,,
+,(feeds),,,11172 V,tp B6,,,,,,False,Premium Free,3/4,8400.0,DVB-S2,,
+,(feeds),,,11174 H,tp B5,,,,,,False,Premium Free,3/4,4900.0,DVB-S2,,
+,(feeds),,,11180 V,tp B6,,,,,,False,Premium Free,3/4,4821.0,DVB-S2,,
+,(feeds),,,11181 H,tp B5,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,11184 H,tp G3,,,,,,False,Premium Free,714,5.0,DVB-S5,,
+,(feeds),,,11188 H,tp B5,,,,,,False,Premium Free,2/3,3666.0,DVB-S2,,
+,(feeds),,,11189 V,tp B6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,11212 V,tp C2,,,,,,False,Premium Free,3/4,15168.0,DVB-S2,,
+,(feeds),,,11396 H,tp N4,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12510 H,tp F1,,,,,,False,Premium Free,3/4,4937.0,DVB-S2,,
+,(feeds),,,12513 V,tp F2,,,,,,False,Premium Free,3/4,3600.0,DVB-S2,,
+,(feeds),,,12518 H,tp F1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12519 V,tp F2,,,,,,False,Premium Free,8/9,2500.0,DVB-S2,,
+,(feeds),,,12522 V,tp F2,,,,,,False,Premium Free,8/9,2500.0,DVB-S2,,
+,(feeds),,,12524 H,tp F1,,,,,,False,Premium Free,5/6,2400.0,DVB-S2,,
+,(feeds),,,12525 V,tp F2,,,,,,False,Premium Free,5/6,2500.0,DVB-S2,,
+,(feeds),,,12528 V,tp F2,,,,,,False,Premium Free,8/9,2500.0,DVB-S2,,
+,(feeds),,,12537 H,tp F1,,,,,,False,Premium Free,/36,23.0,DVB-S2,,
+,(feeds),,,12537 V,tp F2,,,,,,False,Premium Free,5/6,3214.0,DVB-S2,,
+,(feeds),,,12545 H,tp F1,,,,,,False,Premium Free,3/4,5000.0,DVB-S2,,
+,(feeds),,,12554 V,tp F2,,,,,,False,Premium Free,5/6,22400.0,DVB-S2,,
+,(feeds),,,12557 V,tp F2,,,,,,False,Premium Free,5/6,2400.0,DVB-S2,,
+,(feeds),,,12558 H,tp F1,,,,,,False,Premium Free,3/4,9700.0,DVB-S2,,
+,(feeds),,,12570 H,tp F1,,,,,,False,Premium Free,3/4,3600.0,DVB-S2,,
+,(feeds),,,12575 H,tp F1,,,,,,False,Premium Free,3/4,3600.0,DVB-S2,,
+,(feeds),,,12590 V,tp F4,,,,,,False,Premium Free,2/3,4800.0,DVB-S2,,
+,(feeds),,,12596 V,tp F4,,,,,,False,Premium Free,2/3,4800.0,DVB-S2,,
+,(feeds),,,12602 V,tp F4,,,,,,False,Premium Free,2/3,4800.0,DVB-S2,,
+,(feeds),,,12638 H,tp F3,,,,,,False,Premium Free,3/4,24937.0,DVB-S2,,
+,(feeds),,,12638 V,tp F4,,,,,,False,Premium Free,3/4,4800.0,DVB-S2,,
+,(feeds),,,12645 H,tp F3,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12646 V,tp F4,,,,,,False,Premium Free,5/6,3214.0,DVB-S2,,
+,(feeds),,,12656 V,tp F4,,,,,,False,Premium Free,3/4,4940.0,DVB-S2,,
+,(feeds),,,12660 H,tp F3,,,,,,False,Premium Free,3/4,2500.0,DVB-S2,,
+,(feeds),,,12675 H,tp F5,,,,,,False,Premium Free,3/4,4822.0,DVB-S2,,
+,(feeds),,,12677 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12681 H,tp F5,,,,,,False,Premium Free,3/4,4822.0,DVB-S2,,
+,(feeds),,,12685 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12687 H,tp F5,,,,,,False,Premium Free,3/4,4822.0,DVB-S2,,
+,(feeds),,,12694 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12703 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12704 H,tp F5,,,,,,False,Premium Free,3/4,4400.0,DVB-S2,,
+,(feeds),,,12709 V,tp F6,,,,,,False,Premium Free,2/3,3166.0,DVB-S2,,
+,(feeds),,,12718 V,tp F6,,,,,,False,Premium Free,3/4,4936.0,DVB-S2,,
+,(feeds),,,12726 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,12736 V,tp F6,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21547 H,tp J2,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21662 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21672 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21681 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21689 H,tp M1,,,,,,False,Premium Free,5/6,9704.0,DVB-S2,,
+,(feeds),,,21701 H,tp M1,,,,,,False,Premium Free,5/6,9704.0,DVB-S2,,
+,(feeds),,,21709 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21717 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21727 H,tp M1,,,,,,False,Premium Free,2/3,4800.0,DVB-S2,,
+,(feeds),,,21746 H,tp M1,,,,,,False,Premium Free,3/4,4800.0,DVB-S2,,
+,(feeds),,,21753 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(feeds),,,21762 H,tp M1,,,,,,False,Premium Free,3/4,7200.0,DVB-S2,,
+,(EBU feeds),,,11043 H,tp B3,,,,,,False,Premium Free,3/4,24937.0,DVB-S2,,
+,(EBU feeds),,,11049 H,tp B3,,,,,,False,Premium Free,3/4,24937.0,DVB-S2,,
+,(EBU feeds),,,11055 H,tp B3,,,,,,False,Premium Free,3/4,24937.0,DVB-S2,,
+,,,,11125 H,tp B5,47-48,,,,,False,Premium Free,,,,,
+,,126-30300,,11262 H,tp C3,52,,,,,False,Premium Free,2/3,27500.0,DVB-S2,,
+,,126-30300,,11304 H,tp C5,52,,,,,False,Premium Free,2/3,29700.0,DVB-S2,,
+,,126-30600,,11324 V,tp C6,52,,,,,False,Premium Free,2/3,29700.0,DVB-S2,,
+,,126-40700,,11345 H,tp C7,52,,,,,False,Premium Free,5/6,27500.0,DVB-S2,,
+,,126-40900,,11387 H,tp C9,52,,,,,False,Premium Free,5/6,27500.0,DVB-S2,,
+,Vivacom,1-81,,11152 H,tp G3,0,,https://www.lyngsat.com/providers/bg/Vivacom.html,,,True,Vivacom,2/3,4165.0,DVB-S2,,
+1.0,WGB Lucky Balls,MPEG-4/SD,581.0,11152 H,tp G3,0,,,WGB Lucky Balls,https://www.lyngsat.com/tvchannels/ng/WGB-Lucky-Balls.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,ng
+2.0,WGB Dog Racing,MPEG-4/SD,481.0,11152 H,tp G3,0,,,WGB Dog Racing,https://www.lyngsat.com/tvchannels/ng/WGB-Dog-Racing.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,ng
+4.0,WGB LaLiga,MPEG-4/SD,781.0,11152 H,tp G3,0,,,WGB LaLiga,https://www.lyngsat.com/tvchannels/ng/WGB-LaLiga.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,ng
+5.0,Elbet Lucky Greek,MPEG-4/SD,881.0,11152 H,tp G3,0,,,Elbet Lucky Greek,https://www.lyngsat.com/tvchannels/rs/Elbet-Lucky-Greek.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,rs
+6.0,WGB Champions League,MPEG-4/SD,981.0,11152 H,tp G3,0,,,WGB Champions League,https://www.lyngsat.com/tvchannels/ng/WGB-Champions-League.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,ng
+7.0,WGB Global Football,MPEG-4/SD,381.0,11152 H,tp G3,0,,,WGB Global Football,https://www.lyngsat.com/tvchannels/ng/WGB-Global-Football.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,ng
+8.0,Elbet Video Roulette,MPEG-4/SD,281.0,11152 H,tp G3,0,,,Elbet Video Roulette,https://www.lyngsat.com/tvchannels/rs/Elbet-Video-Roulette.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,rs
+11.0,Elbet Lucky Color,MPEG-4/SD,81.0,11152 H,tp G3,0,,,Elbet Lucky Color,https://www.lyngsat.com/tvchannels/rs/Elbet-Lucky-Color.html,False,Vivacom,2/3,4165.0,DVB-S2,Eng,rs
+302.0,Erfan Halgheh TV,MPEG-2/SD,3021.0,11262 H,tp C3,52,,,Erfan Halgheh TV,https://www.lyngsat.com/tvchannels/au/Erfan-Halgheh-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,,au
+302.0,Erfan Halgheh TV,MPEG-2/SD,3021.0,11262 H,tp C3,52,,,Erfan Halgheh TV,https://www.lyngsat.com/tvchannels/au/Erfan-Halgheh-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,,au
+311.0,Sun Music TV,MPEG-4/HD,3111.0,11262 H,tp C3,52,,,Sun Music TV,https://www.lyngsat.com/tvchannels/my/Sun-Music-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,my
+311.0,Sun Music TV,MPEG-4/HD,3111.0,11262 H,tp C3,52,,,Sun Music TV,https://www.lyngsat.com/tvchannels/my/Sun-Music-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,my
+312.0,PMC,MPEG-4/HD,3121.0,11262 H,tp C3,52,,,PMC,https://www.lyngsat.com/tvchannels/ch/PMC.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,ch
+313.0,Tapesh 2,MPEG-4/HD,3131.0,11262 H,tp C3,52,,,Tapesh 2,https://www.lyngsat.com/tvchannels/us/Tapesh-2.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,us
+314.0,Oxir TV,MPEG-4/HD,3141.0,11262 H,tp C3,52,,,Oxir TV,https://www.lyngsat.com/tvchannels/--/Oxir-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,,--
+315.0,YourTime TV,MPEG-4/HD,3151.0,11262 H,tp C3,52,,,YourTime TV,https://www.lyngsat.com/tvchannels/us/YourTime-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,us
+315.0,YourTime TV,MPEG-4/HD,3151.0,11262 H,tp C3,52,,,YourTime TV,https://www.lyngsat.com/tvchannels/us/YourTime-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,us
+316.0,Classic TV,MPEG-4/HD,3161.0,11262 H,tp C3,52,,,Classic TV,https://www.lyngsat.com/tvchannels/--/Classic-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,--
+317.0,Persiana Cinema,MPEG-4/HD,3171.0,11262 H,tp C3,52,,,Persiana Cinema,https://www.lyngsat.com/tvchannels/fr/Persiana-Cinema.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+317.0,Persiana Cinema,MPEG-4/HD,3171.0,11262 H,tp C3,52,,,Persiana Cinema,https://www.lyngsat.com/tvchannels/fr/Persiana-Cinema.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+318.0,Persiana Junior,MPEG-4/HD,3181.0,11262 H,tp C3,52,,,Persiana Junior,https://www.lyngsat.com/tvchannels/fr/Persiana-Junior.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+318.0,Persiana Junior,MPEG-4/HD,3181.0,11262 H,tp C3,52,,,Persiana Junior,https://www.lyngsat.com/tvchannels/fr/Persiana-Junior.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+319.0,Persiana Korea,MPEG-4/HD,3191.0,11262 H,tp C3,52,,,Persiana Korea,https://www.lyngsat.com/tvchannels/fr/Persiana-Korea.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+319.0,Persiana Korea,MPEG-4/HD,3191.0,11262 H,tp C3,52,,,Persiana Korea,https://www.lyngsat.com/tvchannels/fr/Persiana-Korea.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,fr
+320.0,4 Music,MPEG-4/HD,3201.0,11262 H,tp C3,52,,,4 Music,https://www.lyngsat.com/tvchannels/fr/4-Music.html,False,Vivacom,2/3,27500.0,DVB-S2,,fr
+321.0,Toronto Farsi Network promo,MPEG-4/HD,3211.0,11262 H,tp C3,52,,,,,False,Vivacom,2/3,27500.0,DVB-S2,Per,
+366.0,4U TV,MPEG-2/SD,3661.0,11262 H,tp C3,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,tr
+366.0,4U TV,MPEG-2/SD,3661.0,11262 H,tp C3,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,tr
+366.0,4U TV,MPEG-2/SD,3661.0,11262 H,tp C3,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,tr
+366.0,4U TV,MPEG-2/SD,3661.0,11262 H,tp C3,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,2/3,27500.0,DVB-S2,Per,tr
+1905.0,4U TV,MPEG-4/HD,510.0,11387 H,tp C9,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,tr
+1905.0,4U TV,MPEG-4/HD,510.0,11387 H,tp C9,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,tr
+1905.0,4U TV,MPEG-4/HD,510.0,11387 H,tp C9,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,tr
+1905.0,4U TV,MPEG-4/HD,510.0,11387 H,tp C9,52,,,4U TV,https://www.lyngsat.com/tvchannels/tr/4U-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,tr
+510.0,AVA Family,MPEG-4/HD,5101.0,11304 H,tp C5,52,,,AVA Family,https://www.lyngsat.com/tvchannels/iq/AVA-Family.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,iq
+510.0,AVA Family,MPEG-4/HD,5101.0,11304 H,tp C5,52,,,AVA Family,https://www.lyngsat.com/tvchannels/iq/AVA-Family.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,iq
+512.0,DXB One,MPEG-4/HD,5121.0,11304 H,tp C5,52,,,DXB One,https://www.lyngsat.com/tvchannels/ae/DXB-One.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,ae
+512.0,DXB One,MPEG-4/HD,5121.0,11304 H,tp C5,52,,,DXB One,https://www.lyngsat.com/tvchannels/ae/DXB-One.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,ae
+514.0,Radio Javan TV,MPEG-4/HD,5141.0,11304 H,tp C5,52,,,Radio Javan TV,https://www.lyngsat.com/tvchannels/us/Radio-Javan-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+514.0,Radio Javan TV,MPEG-4/HD,5141.0,11304 H,tp C5,52,,,Radio Javan TV,https://www.lyngsat.com/tvchannels/us/Radio-Javan-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+515.0,Persiana HD,MPEG-4/HD,5151.0,11304 H,tp C5,52,,,Persiana HD,https://www.lyngsat.com/tvchannels/fr/Persiana-HD.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,fr
+515.0,Persiana HD,MPEG-4/HD,5151.0,11304 H,tp C5,52,,,Persiana HD,https://www.lyngsat.com/tvchannels/fr/Persiana-HD.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,fr
+517.0,Today TV,MPEG-4/HD,5171.0,11304 H,tp C5,52,,,Today TV,https://www.lyngsat.com/tvchannels/us/Today-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+518.0,PBC Tapesh,MPEG-4/HD,5181.0,11304 H,tp C5,52,,,PBC Tapesh,https://www.lyngsat.com/tvchannels/us/PBC-Tapesh.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+519.0,FX 1,MPEG-4/HD,5191.0,11304 H,tp C5,52,,,FX 1,https://www.lyngsat.com/tvchannels/fr/FX-1.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,fr
+519.0,FX 1,MPEG-4/HD,5191.0,11304 H,tp C5,52,,,FX 1,https://www.lyngsat.com/tvchannels/fr/FX-1.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,fr
+520.0,Eenak Farsi,MPEG-4/HD,5201.0,11304 H,tp C5,52,,,Eenak Farsi,https://www.lyngsat.com/tvchannels/uk/Eenak-Farsi.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,uk
+2063.0,TM TV (USA),MPEG-4/HD,631.0,11324 V,tp C6,52,,,TM TV (USA),https://www.lyngsat.com/tvchannels/us/TM-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+2065.0,Avang TV,MPEG-4/HD,651.0,11324 V,tp C6,52,,,Avang TV,https://www.lyngsat.com/tvchannels/us/Avang-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+2065.0,Avang TV,MPEG-4/HD,651.0,11324 V,tp C6,52,,,Avang TV,https://www.lyngsat.com/tvchannels/us/Avang-TV.html,False,Vivacom,2/3,29700.0,DVB-S2,Per,us
+303.0,Navahang TV,MPEG-2/SD,3031.0,11345 H,tp C7,52,,,Navahang TV,https://www.lyngsat.com/tvchannels/fi/Navahang-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,fi
+303.0,Navahang TV,MPEG-2/SD,3031.0,11345 H,tp C7,52,,,Navahang TV,https://www.lyngsat.com/tvchannels/fi/Navahang-TV.html,False,Vivacom,5/6,27500.0,DVB-S2,Per,fi
+,Zim Digital,1-3,,11356 H,tp N3,0,,https://www.lyngsat.com/providers/zw/Zim-Digital.html,,,True,Zim Digital,2/3,35000.0,DVB-S2,,
+101.0,ZBC TV (Zimbabwe),MPEG-4/HD,800.0,11356 H,tp N3,0,,,ZBC TV (Zimbabwe),https://www.lyngsat.com/tvchannels/zw/ZBC-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+102.0,ZBC News,MPEG-4/HD,801.0,11356 H,tp N3,0,,,ZBC News,https://www.lyngsat.com/tvchannels/zw/ZBC-News.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+103.0,Jive TV,MPEG-4/HD,802.0,11356 H,tp N3,0,,,Jive TV,https://www.lyngsat.com/tvchannels/zw/Jive-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+106.0,Zimbabwe National TV,MPEG-4/HD,806.0,11356 H,tp N3,0,,,Zimbabwe National TV,https://www.lyngsat.com/tvchannels/zw/Zimbabwe-National-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+203.0,KeYona TV,MPEG-4/HD,822.0,11356 H,tp N3,0,,,KeYona TV,https://www.lyngsat.com/tvchannels/zw/KeYona-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+204.0,3K TV,MPEG-4/HD,823.0,11356 H,tp N3,0,,,3K TV,https://www.lyngsat.com/tvchannels/zw/3K-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,,zw
+205.0,Nkululeko Rusununguko TV,MPEG-4/HD,824.0,11356 H,tp N3,0,,,Nkululeko Rusununguko TV,https://www.lyngsat.com/tvchannels/zw/Nkululeko-Rusununguko-TV.html,False,Zim Digital,2/3,35000.0,DVB-S2,,zw
+206.0,ZTN Prime,MPEG-4/HD,256.0,11356 H,tp N3,0,,,ZTN Prime,https://www.lyngsat.com/tvchannels/zw/ZTN-Prime.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+107.0,National FM (Zimbabwe),,,11356 H,tp N3,0,,,National FM (Zimbabwe),https://www.lyngsat.com/radiochannels/zw/National-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,,zw
+108.0,Radio Zimbabwe,,,11356 H,tp N3,0,,,Radio Zimbabwe,https://www.lyngsat.com/radiochannels/zw/Radio-Zimbabwe.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+109.0,Classic 263,,,11356 H,tp N3,0,,,Classic 263,https://www.lyngsat.com/radiochannels/zw/Classic-263.html,False,Zim Digital,2/3,35000.0,DVB-S2,,zw
+110.0,Power FM (Zimbabwe),,,11356 H,tp N3,0,,,Power FM (Zimbabwe),https://www.lyngsat.com/radiochannels/zw/Power-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+111.0,Star FM (Zimbabwe),,,11356 H,tp N3,0,,,Star FM (Zimbabwe),https://www.lyngsat.com/radiochannels/zw/Star-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+111.0,Star FM (Zimbabwe),,,11356 H,tp N3,0,,,Star FM (Zimbabwe),https://www.lyngsat.com/radiochannels/zw/Star-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+112.0,Zi FM,,,11356 H,tp N3,0,,,Zi FM,https://www.lyngsat.com/radiochannels/zw/Zi-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+112.0,Zi FM,,,11356 H,tp N3,0,,,Zi FM,https://www.lyngsat.com/radiochannels/zw/Zi-FM.html,False,Zim Digital,2/3,35000.0,DVB-S2,Eng,zw
+1901.0,MBC Persia,MPEG-4/HD,110.0,11387 H,tp C9,52,,,MBC Persia,https://www.lyngsat.com/tvchannels/sa/MBC-Persia.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,sa
+1908.0,Kanal Jadid,MPEG-4/HD,810.0,11387 H,tp C9,52,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,se
+1908.0,Kanal Jadid,MPEG-4/HD,810.0,11387 H,tp C9,52,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,se
+1910.0,Iran TV Network,MPEG-4/HD,1010.0,11387 H,tp C9,52,,,Iran TV Network,https://www.lyngsat.com/tvchannels/us/Iran-TV-Network.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,us
+1910.0,Iran TV Network,MPEG-4/HD,1010.0,11387 H,tp C9,52,,,Iran TV Network,https://www.lyngsat.com/tvchannels/us/Iran-TV-Network.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,us
+1911.0,News of the World,MPEG-4/HD,1110.0,11387 H,tp C9,52,,,News of the World,https://www.lyngsat.com/tvchannels/us/News-of-the-World.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,us
+1912.0,ICC+,MPEG-4/HD,1210.0,11387 H,tp C9,52,,,ICC+,https://www.lyngsat.com/tvchannels/us/ICC-.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,us
+1912.0,ICC+,MPEG-4/HD,1210.0,11387 H,tp C9,52,,,ICC+,https://www.lyngsat.com/tvchannels/us/ICC-.html,False,Zim Digital,5/6,27500.0,DVB-S2,Per,us
+,MBC,65535-1,,11444 H,tp N4,0,"Cryptoworks,Irdeto",https://www.lyngsat.com/providers/mu/MBC.html,,,True,MBC,3/4,3210.0,DVB-S3,,
+1.0,MBC 1,MPEG-2/SD,308.0,11444 H,tp N4,0,"Cryptoworks,Irdeto",,MBC 1,https://www.lyngsat.com/tvchannels/mu/MBC-1.html,False,MBC,3/4,3210.0,DVB-S3,Fre,mu
+3.0,MBC 2 (Mauritius),MPEG-2/SD,309.0,11444 H,tp N4,0,"Cryptoworks,Irdeto",,MBC 2 (Mauritius),https://www.lyngsat.com/tvchannels/mu/MBC-2.html,False,MBC,3/4,3210.0,DVB-S3,,mu
+3.0,Radio Maurice,,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,Radio Maurice,https://www.lyngsat.com/radiochannels/mu/Radio-Maurice.html,False,MBC,3/4,3210.0,DVB-S3,,mu
+3.0,Radio Maurice,,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,Radio Maurice,https://www.lyngsat.com/radiochannels/mu/Radio-Maurice.html,False,MBC,3/4,3210.0,DVB-S3,,mu
+3.0,Kool FM,,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,Kool FM,https://www.lyngsat.com/radiochannels/mu/Kool-FM.html,False,MBC,3/4,3210.0,DVB-S3,,mu
+3.0,Kool FM,,,11444 H,tp N4,0,"Cryptoworks,Irdeto",,Kool FM,https://www.lyngsat.com/radiochannels/mu/Kool-FM.html,False,MBC,3/4,3210.0,DVB-S3,,mu
+257.0,Or Hachaim (20-23),8192-4096MPEG-4/HD,257.0,12530 H,tp F1,47-48,,,,,False,MBC,1/2,1480.0,DVB-S2,Eng,
+2.0,Peace TV English,MPEG-4/SD,61.0,12604 H,tp H3,0,,,Peace TV English,https://www.lyngsat.com/tvchannels/ae/Peace-TV-English.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ae
+3.0,Quran TV (Saudi Arabia),MPEG-4/SD,71.0,12604 H,tp H3,0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,MBC,2/3,30000.0,DVB-S2,Ara,sa
+3.0,Quran TV (Saudi Arabia),MPEG-4/SD,71.0,12604 H,tp H3,0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,MBC,2/3,30000.0,DVB-S2,Ara,sa
+4.0,Sunna TV (Saudi Arabia),MPEG-4/SD,81.0,12604 H,tp H3,0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,MBC,2/3,30000.0,DVB-S2,Ara,sa
+4.0,Sunna TV (Saudi Arabia),MPEG-4/SD,81.0,12604 H,tp H3,0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,MBC,2/3,30000.0,DVB-S2,Ara,sa
+9.0,Emmanuel TV,MPEG-4/SD,131.0,12604 H,tp H3,0,,,Emmanuel TV,https://www.lyngsat.com/tvchannels/ng/Emmanuel-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ng
+9.0,Emmanuel TV,MPEG-4/SD,131.0,12604 H,tp H3,0,,,Emmanuel TV,https://www.lyngsat.com/tvchannels/ng/Emmanuel-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ng
+10.0,Africa TV 2,MPEG-4/SD,4572.0,12604 H,tp H3,0,,,Africa TV 2,https://www.lyngsat.com/tvchannels/sd/Africa-TV-2.html,False,MBC,2/3,30000.0,DVB-S2,Swa,sd
+10.0,Africa TV 2,MPEG-4/SD,4572.0,12604 H,tp H3,0,,,Africa TV 2,https://www.lyngsat.com/tvchannels/sd/Africa-TV-2.html,False,MBC,2/3,30000.0,DVB-S2,Swa,sd
+11.0,Eagle TV (Ghana),MPEG-4/SD,151.0,12604 H,tp H3,0,,,Eagle TV (Ghana),https://www.lyngsat.com/tvchannels/gh/Eagle-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,gh
+154.0,IBN TV Africa,MPEG-4/SD,1541.0,12604 H,tp H3,0,,,IBN TV Africa,https://www.lyngsat.com/tvchannels/tz/IBN-TV-Africa.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+154.0,IBN TV Africa,MPEG-4/SD,1541.0,12604 H,tp H3,0,,,IBN TV Africa,https://www.lyngsat.com/tvchannels/tz/IBN-TV-Africa.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+187.0,JW Broadcasting,MPEG-4/SD,1871.0,12604 H,tp H3,0,,,JW Broadcasting,https://www.lyngsat.com/tvchannels/us/JW-Broadcasting.html,False,MBC,2/3,30000.0,DVB-S2,Eng Fre Por Swa Nya Zul Bem Amh Ibo Kin Rum Lin Mlg Sna Twi,us
+187.0,JW Broadcasting,MPEG-4/SD,1871.0,12604 H,tp H3,0,,,JW Broadcasting,https://www.lyngsat.com/tvchannels/us/JW-Broadcasting.html,False,MBC,2/3,30000.0,DVB-S2,Eng Fre Por Swa Nya Zul Bem Amh Ibo Kin Rum Lin Mlg Sna Twi,us
+195.0,JW Broadcasting,MPEG-4/SD,1951.0,12604 H,tp H3,0,,,JW Broadcasting,https://www.lyngsat.com/tvchannels/us/JW-Broadcasting.html,False,MBC,2/3,30000.0,DVB-S2,Nya Efi Ewe Gaa Lub Kon Orm Sot Swa Lua Tso Umb Xho Yor,us
+195.0,JW Broadcasting,MPEG-4/SD,1951.0,12604 H,tp H3,0,,,JW Broadcasting,https://www.lyngsat.com/tvchannels/us/JW-Broadcasting.html,False,MBC,2/3,30000.0,DVB-S2,Nya Efi Ewe Gaa Lub Kon Orm Sot Swa Lua Tso Umb Xho Yor,us
+196.0,Haleluya TV,MPEG-4/HD,1961.0,12604 H,tp H3,0,,,Haleluya TV,https://www.lyngsat.com/tvchannels/tz/Haleluya-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+237.0,Bloomberg TV Africa,MPEG-2/SD,2372.0,12604 H,tp H3,0,"Nagravision,Viaccess",,Bloomberg TV Africa,https://www.lyngsat.com/tvchannels/us/Bloomberg-TV-Africa.html,False,MBC,2/3,30000.0,DVB-S2,Eng,us
+375.0,Universal TV (UK),MPEG-2/SD,3752.0,12604 H,tp H3,0,"Nagravision,Viaccess",,Universal TV (UK),https://www.lyngsat.com/tvchannels/uk/Universal-TV.html,False,MBC,2/3,30000.0,DVB-S2,Som,uk
+375.0,Universal TV (UK),MPEG-2/SD,3752.0,12604 H,tp H3,0,"Nagravision,Viaccess",,Universal TV (UK),https://www.lyngsat.com/tvchannels/uk/Universal-TV.html,False,MBC,2/3,30000.0,DVB-S2,Som,uk
+6101.0,Revival TV (USA),MPEG-2/SD,1011.0,12604 H,tp H3,0,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,us
+6101.0,Revival TV (USA),MPEG-2/SD,1011.0,12604 H,tp H3,0,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,us
+6102.0,ORTC TV,MPEG-4/SD,1021.0,12604 H,tp H3,0,,,ORTC TV,https://www.lyngsat.com/tvchannels/km/ORTC-TV.html,False,MBC,2/3,30000.0,DVB-S2,Fre,km
+6105.0,Efatha TV,MPEG-4/SD,1051.0,12604 H,tp H3,0,,,Efatha TV,https://www.lyngsat.com/tvchannels/tz/Efatha-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+6108.0,2M Monde,MPEG-4/SD,1081.0,12604 H,tp H3,0,,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html,False,MBC,2/3,30000.0,DVB-S2,Ara,ma
+6125.0,Joy Gospel TV,MPEG-4/SD,1251.0,12604 H,tp H3,0,,,Joy Gospel TV,https://www.lyngsat.com/tvchannels/tz/Joy-Gospel-TV.html,False,MBC,2/3,30000.0,DVB-S2,Swa,tz
+6126.0,Jehova Jire TV,MPEG-4/SD,1261.0,12604 H,tp H3,0,,,Jehova Jire TV,https://www.lyngsat.com/tvchannels/tz/Jehova-Jire-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+6127.0,Top Plus,MPEG-4/SD,1271.0,12604 H,tp H3,0,,,Top Plus,https://www.lyngsat.com/tvchannels/tz/Top-Plus.html,False,MBC,2/3,30000.0,DVB-S2,,tz
+6130.0,NTR TV,MPEG-4/SD,1301.0,12604 H,tp H3,0,,,NTR TV,https://www.lyngsat.com/tvchannels/tr/NTR-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tr
+6130.0,NTR TV,MPEG-4/SD,1301.0,12604 H,tp H3,0,,,NTR TV,https://www.lyngsat.com/tvchannels/tr/NTR-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tr
+6132.0,Mzee Wa Upako TV,MPEG-4/SD,1320.0,12604 H,tp H3,0,,,Mzee Wa Upako TV,https://www.lyngsat.com/tvchannels/tz/Mzee-Wa-Upako-TV.html,False,MBC,2/3,30000.0,DVB-S2,,tz
+6136.0,Urejesho TV,MPEG-4/SD,1361.0,12604 H,tp H3,0,,,Urejesho TV,https://www.lyngsat.com/tvchannels/tz/Urejesho-TV.html,False,MBC,2/3,30000.0,DVB-S2,Swa,tz
+6138.0,Rabbi 1 TV,MPEG-4/SD,1381.0,12604 H,tp H3,0,,,Rabbi 1 TV,https://www.lyngsat.com/tvchannels/gh/Rabbi-1-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,gh
+6139.0,Holiness TV,MPEG-4/SD,1391.0,12604 H,tp H3,0,,,Holiness TV,https://www.lyngsat.com/tvchannels/ng/Holiness-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ng
+6141.0,Thunder TV,MPEG-4/SD,1411.0,12604 H,tp H3,0,,,Thunder TV,https://www.lyngsat.com/tvchannels/--/Thunder-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,--
+6142.0,Abood TV,MPEG-4/SD,1421.0,12604 H,tp H3,0,,,Abood TV,https://www.lyngsat.com/tvchannels/tz/Abood-TV.html,False,MBC,2/3,30000.0,DVB-S2,,tz
+6143.0,JN Power TV,MPEG-4/SD,1431.0,12604 H,tp H3,0,,,JN Power TV,https://www.lyngsat.com/tvchannels/tz/JN-Power-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+6144.0,ROC TV,MPEG-4/SD,1441.0,12604 H,tp H3,0,,,ROC TV,https://www.lyngsat.com/tvchannels/tz/ROC-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+6145.0,Habari Maalum TV,MPEG-4/HD,1451.0,12604 H,tp H3,0,,,Habari Maalum TV,https://www.lyngsat.com/tvchannels/tz/Habari-Maalum-TV.html,False,MBC,2/3,30000.0,DVB-S2,Swa,tz
+6146.0,Christ Mandate TV,MPEG-4/SD,1461.0,12604 H,tp H3,0,,,Christ Mandate TV,https://www.lyngsat.com/tvchannels/tz/Christ-Mandate-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+6147.0,World Evangelism TV,MPEG-4/SD,1471.0,12604 H,tp H3,0,,,World Evangelism TV,https://www.lyngsat.com/tvchannels/ke/World-Evangelism-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ke
+6147.0,World Evangelism TV,MPEG-4/SD,1471.0,12604 H,tp H3,0,,,World Evangelism TV,https://www.lyngsat.com/tvchannels/ke/World-Evangelism-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ke
+6148.0,Robert TV,MPEG-4/SD,1481.0,12604 H,tp H3,0,,,Robert TV,https://www.lyngsat.com/tvchannels/tz/Robert-TV.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+155.0,Radio Maarifa,,,12604 H,tp H3,0,,,Radio Maarifa,https://www.lyngsat.com/radiochannels/tz/Radio-Maarifa.html,False,MBC,2/3,30000.0,DVB-S2,Eng,tz
+156.0,Raga FM,,,12604 H,tp H3,0,,,Raga FM,https://www.lyngsat.com/radiochannels/cd/Raga-FM.html,False,MBC,2/3,30000.0,DVB-S2,,cd
+6103.0,Radio Vaovao Mahasoa,,,12604 H,tp H3,0,,,Radio Vaovao Mahasoa,https://www.lyngsat.com/radiochannels/mg/Radio-Vaovao-Mahasoa.html,False,MBC,2/3,30000.0,DVB-S2,,mg
+6135.0,Radio 2M,,,12604 H,tp H3,0,BISS,,Radio 2M,https://www.lyngsat.com/radiochannels/ma/Radio-2M.html,False,MBC,2/3,30000.0,DVB-S2,Ara,ma
+6135.0,Radio 2M,,,12604 H,tp H3,0,BISS,,Radio 2M,https://www.lyngsat.com/radiochannels/ma/Radio-2M.html,False,MBC,2/3,30000.0,DVB-S2,Ara,ma
+6149.0,Radio Tumaini,,,12604 H,tp H3,0,,,Radio Tumaini,https://www.lyngsat.com/radiochannels/ke/Radio-Tumaini.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ke
+6149.0,Radio Tumaini,,,12604 H,tp H3,0,,,Radio Tumaini,https://www.lyngsat.com/radiochannels/ke/Radio-Tumaini.html,False,MBC,2/3,30000.0,DVB-S2,Eng,ke
+,(APTN feeds),,,12614 V,tp F4,,,,,,False,MBC,5/6,4600.0,DVB-S2,,
+,(APTN feeds),,,12620 V,tp F4,,,,,,False,MBC,5/6,4600.0,DVB-S2,,
+,(APTN feeds),,,12626 V,tp F4,,,,,,False,MBC,5/6,4600.0,DVB-S2,,
+,(APTN feeds),,,12632 V,tp F4,,,,,,False,MBC,5/6,4600.0,DVB-S2,,
+1.0,Alforat TV,65535-1HEVC/HD,33.0,12657 H,tp F3,47-48,,,,,False,MBC,3/4,2475.0,DVB-S2,Ara,
+101.0,URHC TV,1-1MPEG-4/SD,33.0,21595 H,tp J2,,,,,,False,MBC,3/4,1100.0,DVB-S2,Fre,
+1.0,2S TV,1-1MPEG-4/HD,256.0,21620 H,tp J2,,,,,,False,MBC,2/3,2200.0,DVB-S2,Fre,
+1.0,Bantamba TV,1-1MPEG-4/SD,906.0,21638 H,tp J2,,,,,,False,MBC,2/3,1100.0,DVB-S2,Eng,
+312.0,QTV (Gambia),65535-1MPEG-4/SD,312.0,21640 H,tp J2,,,,,,False,MBC,2/3,1100.0,DVB-S2,Eng,
+,,,,,,,,,DVB-S2QPSK14801/2,,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,BISS 1,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,BISS 1,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK24753/4,,False,MBC,,,,,
+,,,,,,,,,DVB-S2QPSK11003/4,,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK22002/3,,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK11002/3,,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK11002/3,,False,MBC,,,,,
+,,,,,,,,,DVB-S28PSK11002/3,,False,MBC,,,,,

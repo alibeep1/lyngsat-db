@@ -1,0 +1,62 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL
+3659 Htp 11America,DVB-S6666,,(feeds),,,,,,A Camargo080406,3659 H,tp 11,,,
+3668 Htp 11America,DVB-S6666,,(feeds),,,,,,A Camargo080406,3668 H,tp 11,,,
+3948 Htp 16America,DVB-S4440,,(feeds),,,,,,N Chaves100131,3948 H,tp 16,,,
+3942 Vtp 6America0,DVB-S28PSK50003/4,,SBT Rio Grande,,,,7.9,BISS,Wilkherdasilva191105,3942 V,tp 6,0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html
+3942 Vtp 6America0,DVB-S28PSK50003/4,,SBT Rio Grande,,MPEG-4/1seg,257,258 Por,,,3942 V,tp 6,0,,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html
+3942 Vtp 6America0,DVB-S28PSK50003/4,51776,SBT Rio Grande,,MPEG-4/HD,1110,1211 Por,BISS,,3942 V,tp 6,0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html
+3960 Htp 16America0,DVB-S28PSK37502/3,,Assembleia Legislativa TV,,MPEG-2/HD,337,6.6 340 Por,,Edinho fta230723,3960 H,tp 16,0,,
+3970 Htp 16America0,DVB-S28PSK98752/3,,Grupo Vierci,,,,6.6,BISS,Edinho fta230723,3970 H,tp 16,0,BISS,https://www.lyngsat.com/providers/py/Grupo-Vierci.html
+3970 Htp 16America0,DVB-S28PSK98752/3,,E40 TV,,MPEG-4/SD,5408,512 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,1,Telefuturo (Paraguay),,MPEG-4/SD,101,501 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,2,Latele (Paraguay),,MPEG-4/SD,201,601 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,4,N PY,,MPEG-4/SD,301,701 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,5,Canal Pro,,MPEG-4/HD,105,5152 Spa,,,3970 H,tp 16,0,,
+3970 Htp 16America0,DVB-S28PSK98752/3,1,Estación 40,,,,502 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,2,Monumental 1080 AM,,,,602 Spa,BISS,,3970 H,tp 16,0,BISS,
+3970 Htp 16America0,DVB-S28PSK98752/3,3,Radio 1° de Marzo,,,,701 Spa,BISS,,3970 H,tp 16,0,BISS,
+3977 Htp 16America0,DVB-S28PSK25002/3,,TV ALESP,,MPEG-4/SD,512,6.64112 Por,,Wilkherdasilva201129,3977 H,tp 16,0,,
+3992 Htp 16America0,DVB-S2QPSK16664/5,,Telerama (Ecuador),,MPEG-4/SD,101,4.7 256 Spa,,Edinho fta230723,3992 H,tp 16,0,,
+3997 Htp 16America0,DVB-S28PSK20833/4,,TV Legislativa (Ecuador),,MPEG-4/HD,33,7.9  36 Spa,,Wilkherdasilva201129,3997 H,tp 16,0,,
+4022 Vtp 7America0,DVB-S28PSK50003/4,,TV Pajuçara,,,,7.9,,Edinho fta230723,4022 V,tp 7,0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html
+4022 Vtp 7America0,DVB-S28PSK50003/4,,TV Pajuçara,,MPEG-4/HD,273,274 Por,,,4022 V,tp 7,0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html
+4022 Vtp 7America0,DVB-S28PSK50003/4,,TV Pajuçara,,MPEG-4/1seg,529,530 Por,,,4022 V,tp 7,0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html
+4040 Vtp 7America0,DVB-S2QPSK233333/4,,CruiseSat,,,,4.0,Xcrypt,ML240226,4040 V,tp 7,0,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html
+4040 Vtp 7America0,DVB-S2QPSK233333/4,10,TCM US,,HEVC/HD,110,100 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,11,Cartoon Network Canada East,,HEVC/HD,910,900 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,12,CBS News,,HEVC/SD,481,482 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,13,HGTV East,,HEVC/SD,1001,53 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,14,Food Network East,,HEVC/SD,35,36 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,15,Travel Channel East,,HEVC/SD,38,39 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,16,Discovery Channel East,,HEVC/SD,41,42 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,17,Nickelodeon East,,HEVC/SD,44,45 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,21,ESPNU,,HEVC/HD,273,785 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,22,ESPN US,,HEVC/HD,274,786 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,23,ESPN 2 US,,HEVC/HD,275,787 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,24,SEC Network,,HEVC/HD,276,788 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,25,CNN USA,,HEVC/HD,710,700 Eng,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,300,Rai Italia Nord America,,HEVC/HD,811,821 Ita,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,350,TVE Internacional América,,HEVC/HD,3304,3305 Spa,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4040 Vtp 7America0,DVB-S2QPSK233333/4,9111,RTL Deutschland,,HEVC/HD,117,5102 Ger,Xcrypt,,4040 V,tp 7,0,Xcrypt,
+4139 Htp 19America0,DVB-S245433/4,1,La Gran Carpa Catedral TV,,?-?MPEG-4/HD,33,34 Spa,,R Castillo 2141115,4139 H,tp 19,0,,
+4156 Htp 19America0,DVB-S28PSK40002/3,,Grupo JBB,,,,6.6,,Edinho fta230723,4156 H,tp 19,0,,https://www.lyngsat.com/providers/py/Grupo-JBB.html
+4156 Htp 19America0,DVB-S28PSK40002/3,1,Trece (Paraguay),,MPEG-4/SD,66,67 Spa,,,4156 H,tp 19,0,,
+4156 Htp 19America0,DVB-S28PSK40002/3,2,Unicanal,,MPEG-4/SD,140,141 Spa,,,4156 H,tp 19,0,,
+4172 Vtp 10America0,DVB-S2QPSK16665/6,2,ABC TV (Paraguay),,?-?MPEG-4/HD,69,5.2  71 Spa,,Edinho fta230906,4172 V,tp 10,0,,
+4172 Vtp 10America0,DVB-S2QPSK16665/6,,ABC AM 730,,,,72 Spa,,,4172 V,tp 10,0,,
+4178 Htp 19America0,DVB-S25003/4,,TV Capixaba,,MPEG-2/SD,100,5.5 101 Por,,Wilkherdasilva190827,4178 H,tp 19,0,,
+4195 Vtp 10America0,DVB-S28PSK44443/4,,América Paraguay,,,,7.9,,Wilkherdasilva201129,4195 V,tp 10,0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html
+4195 Vtp 10America0,DVB-S28PSK44443/4,,América Paraguay,,MPEG-4/HD,49,51 Spa,,,4195 V,tp 10,0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html
+4195 Vtp 10America0,DVB-S28PSK44443/4,,A24 Paraguay,,MPEG-4/HD,69,71 Spa,,,4195 V,tp 10,0,,
+11026 VBrazil0,DVB-S28PSK108052/3,,DTCom,,,,6.6,,S Amorim130621,11026 V,,0,,https://www.lyngsat.com/providers/br/DTCom.html
+11026 VBrazil0,DVB-S28PSK108052/3,,DTCom Sat 1,,MPEG-4/SD,120,130 Por,,,11026 V,,0,,
+11026 VBrazil0,DVB-S28PSK108052/3,,DTCom Sat 2,,MPEG-4/SD,220,230 Por,,,11026 V,,0,,
+11026 VBrazil0,DVB-S28PSK108052/3,,[test card],,MPEG-4/SD,1220,1230,,,11026 V,,0,,
+11135 Vtp 25Brazil0,DVB-S28880,,,,,,,Nagravision,G Alexandre140716,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1003,NSC TV Florianópolis,,MPEG-2/SD,2597,3595 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1008,TV Globo Brasília,,MPEG-2/SD,2055,3057 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1014,TV Globo Nordeste,,MPEG-2/SD,2053,3053 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1016,TV Verdes Mares,,MPEG-2/SD,2054,3055 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1018,TV Integração,,MPEG-2/SD,2596,3587 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+11135 Vtp 25Brazil0,DVB-S28880,1150,Sexy Hot,,MPEG-2/SD,2067,3067 Por,Nagravision,,11135 V,tp 25,0,Nagravision,
+12060 Vtp 3North America,DVB-S18000,,(DCI feeds),,,,,,G Campbell101011,12060 V,tp 3,,,

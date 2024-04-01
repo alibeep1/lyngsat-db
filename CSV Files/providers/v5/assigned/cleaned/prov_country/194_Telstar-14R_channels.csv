@@ -1,0 +1,23 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,Anuvu,,,11564 H,tp A9,,PowerVu,https://www.lyngsat.com/providers/us/Anuvu.html,,,True,Anuvu,1/2,3320.0,DVB-S2,,,us
+501.0,BBC News,MPEG-4/SD,4673.0,11564 H,tp A9,,PowerVu,,BBC News,https://www.lyngsat.com/tvchannels/uk/BBC-News.html,False,Anuvu,1/2,3320.0,DVB-S2,Eng,uk,
+502.0,TFC Middle East,MPEG-4/SD,4929.0,11564 H,tp A9,,PowerVu,,TFC Middle East,https://www.lyngsat.com/tvchannels/ph/TFC-Middle-East.html,False,Anuvu,1/2,3320.0,DVB-S2,Eng,ph,
+503.0,Prime World,MPEG-4/SD,5185.0,11564 H,tp A9,,PowerVu,,Prime World,https://www.lyngsat.com/tvchannels/--/Prime-World.html,False,Anuvu,1/2,3320.0,DVB-S2,,--,
+504.0,Sport 24,MPEG-4/SD,5441.0,11564 H,tp A9,,PowerVu,,Sport 24,https://www.lyngsat.com/tvchannels/uk/Sport-24.html,False,Anuvu,1/2,3320.0,DVB-S2,Eng,uk,
+,Teletrak,,,11592 V,tp 40U,,,https://www.lyngsat.com/providers/cl/Teletrak.html,,,True,Teletrak,165,8.0,DVB-S2,,,cl
+1.0,Teletrak 1,MPEG-4/HD,102.0,11592 V,tp 40U,,,,Teletrak 1,https://www.lyngsat.com/tvchannels/cl/Teletrak-1.html,False,Teletrak,165,8.0,DVB-S2,Spa,cl,
+1.0,Teletrak 1,MPEG-4/HD,102.0,11592 V,tp 40U,,,,Teletrak 1,https://www.lyngsat.com/tvchannels/cl/Teletrak-1.html,False,Teletrak,165,8.0,DVB-S2,Spa,cl,
+2.0,Teletrak 2,MPEG-4/HD,202.0,11592 V,tp 40U,,,,Teletrak 2,https://www.lyngsat.com/tvchannels/cl/Teletrak-2.html,False,Teletrak,165,8.0,DVB-S2,Spa,cl,
+4.0,RTP Internacional América,?-?MPEG-2/SD,256.0,11870 H,,,,,,,False,Teletrak,2/3,3200.0,DVB-S3,Por,,
+5.0,RDP Internacional,,,11870 H,,,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html,False,Teletrak,2/3,3200.0,DVB-S3,Por,pt,
+5.0,RDP Internacional,,,11870 H,,,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html,False,Teletrak,2/3,3200.0,DVB-S3,Por,pt,
+,Unisa,,,11875 H,,,,https://www.lyngsat.com/providers/br/Unisa.html,,,True,Unisa,3/4,5832.0,DVB-S2,,,br
+1.0,Unisa 1,MPEG-4/SD,350.0,11875 H,,,,,Unisa 1,https://www.lyngsat.com/tvchannels/br/Unisa-1.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+2.0,Unisa 2,MPEG-4/SD,450.0,11875 H,,,,,Unisa 2,https://www.lyngsat.com/tvchannels/br/Unisa-2.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+3.0,Unisa 3,MPEG-4/SD,550.0,11875 H,,,,,Unisa 3,https://www.lyngsat.com/tvchannels/br/Unisa-3.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+4.0,Unisa 4,MPEG-4/SD,650.0,11875 H,,,,,Unisa 4,https://www.lyngsat.com/tvchannels/br/Unisa-4.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+5.0,Unisa 5,MPEG-4/SD,750.0,11875 H,,,,,Unisa 5,https://www.lyngsat.com/tvchannels/br/Unisa-5.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+6.0,Unisa 6,MPEG-4/SD,850.0,11875 H,,,,,Unisa 6,https://www.lyngsat.com/tvchannels/br/Unisa-6.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+7.0,Unisa 7,MPEG-4/SD,950.0,11875 H,,,,,Unisa 7,https://www.lyngsat.com/tvchannels/br/Unisa-7.html,False,Unisa,3/4,5832.0,DVB-S2,Por,br,
+,(feeds),,,11958 H,tp 7,,,,,,False,Unisa,255,3.0,DVB-S3,,,
+,,,,,,,,,DVB-S32002/3,,False,Unisa,,,,,,

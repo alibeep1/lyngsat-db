@@ -1,0 +1,17 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+3868 Vtp 9North America0,DVB-S66663/4,,Unitel (Greece),,,,5.5,BISS,M Kotsias070906,3868 V,tp 9,0,BISS,https://www.lyngsat.com/providers/gr/Unitel.html,,,True,Unitel (Greece)
+3868 Vtp 9North America0,DVB-S66663/4,,Mega Cosmos,,MPEG-2/SD,513.0,641 Gre,BISS,,3868 V,tp 9,0,BISS,,Mega Cosmos,https://www.lyngsat.com/tvchannels/gr/Mega-Cosmos.html,False,Unitel (Greece)
+3868 Vtp 9North America0,DVB-S66663/4,,[test card],,MPEG-2/SD,514.0,642,,,3868 V,tp 9,0,,,,,False,Unitel (Greece)
+3888 Htp 9Europe & Africa,DVB-S32503/4,,(feeds),,,,,,Onacila111105,3888 H,tp 9,,,,,,False,Unitel (Greece)
+3955 Htp 12South America0,DVB-S2QPSK24003/4,,Encadena TV,,,256.0,4.0 512 Spa,,D Dragos170724,3955 H,tp 12,0,,,,,False,Unitel (Greece)
+3955 Htp 12South America0,DVB-S2QPSK24003/4,,Radio Chetumal,,,,513 Spa,,,3955 H,tp 12,0,,,Radio Chetumal,https://www.lyngsat.com/radiochannels/mx/Radio-Chetumal.html,False,Unitel (Greece)
+3958 Htp 12South America0,DVB-S22223/4,,SQCS Canal 4,,MPEG-2/SD,4194.0,5.54197 Spa,,D Dragos170724,3958 H,tp 12,0,,,,,False,Unitel (Greece)
+3958 Htp 12South America0,DVB-S22223/4,,Caribe FM,,,,4195 Spa,,,3958 H,tp 12,0,,,Caribe FM,https://www.lyngsat.com/radiochannels/mx/Caribe-FM.html,False,Unitel (Greece)
+4068 Vtp 18Europe & Africa41-43,DVB-S25407/8,,@ SkyVision,,,,7.2,,DX Bozóth091109,4068 V,tp 18,41-43,,,,,False,Unitel (Greece)
+4083 Htp 19Europe & Africa41-43,DVB-S28PSK100002/3,,@ Xicom,,,,6.6,,C Szkarlat080912,4083 H,tp 19,41-43,,,,,False,Unitel (Greece)
+4176 Vtp 24North America0,DVB-S44113/4,,Antenna Group,,,,5.5,BISS,D Dragos170724,4176 V,tp 24,0,BISS,https://www.lyngsat.com/providers/gr/Antenna-Group.html,,,True,Antenna Group
+4176 Vtp 24North America0,DVB-S44113/4,,Ant1 Satellite,,MPEG-2/SD,516.0,701 Gre,BISS,,4176 V,tp 24,0,BISS,,Ant1 Satellite,https://www.lyngsat.com/tvchannels/gr/Ant1-Satellite.html,False,Antenna Group
+4176 Vtp 24North America0,DVB-S44113/4,,Easy 97.2,,,,702 Gre,BISS,,4176 V,tp 24,0,BISS,,Easy 97.2,https://www.lyngsat.com/radiochannels/gr/Easy-972.html,False,Antenna Group
+4176 Vtp 24North America0,DVB-S44113/4,,Easy 97.2,,,,702 Gre,BISS,,4176 V,tp 24,0,BISS,,Easy 97.2,https://www.lyngsat.com/radiochannels/gr/Easy-972.html,False,Antenna Group
+,,,,,,,,,,,,,,,DVB-S2QPSK24003/4,,False,Antenna Group
+,,,,,,,,,,,,,,,DVB-S22223/4,,False,Antenna Group

@@ -1,0 +1,451 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,RMS Radio,65535-1,,3871 L,,39.7-41.7,,https://www.lyngsat.com/providers/ke/RMS-Radio.html,,,True,RMS Radio,5/6,2150.0,DVB-S2,,
+1.0,Hot 96,,,3871 L,,39.7-41.7,,,Hot 96,https://www.lyngsat.com/radiochannels/ke/Hot-96.html,False,RMS Radio,5/6,2150.0,DVB-S2,Eng,ke
+1.0,Hot 96,,,3871 L,,39.7-41.7,,,Hot 96,https://www.lyngsat.com/radiochannels/ke/Hot-96.html,False,RMS Radio,5/6,2150.0,DVB-S2,Eng,ke
+1.0,Radio Citizen,,,3871 L,,39.7-41.7,,,Radio Citizen,https://www.lyngsat.com/radiochannels/ke/Radio-Citizen.html,False,RMS Radio,5/6,2150.0,DVB-S2,,ke
+1.0,Radio Citizen,,,3871 L,,39.7-41.7,,,Radio Citizen,https://www.lyngsat.com/radiochannels/ke/Radio-Citizen.html,False,RMS Radio,5/6,2150.0,DVB-S2,,ke
+,Kenyan mux,.-.,,3878 L,,39.7-41.7,,,,,False,RMS Radio,P 0,,DVB-S2,,
+,Kenyan mux,8192-4096,,3940 L,,39.7-41.7,,,,,False,RMS Radio,3/4,2083.0,DVB-S2,,
+1.0,NTV (Kenya),MPEG-4/SD,544.0,3878 L,,39.7-41.7,,,NTV (Kenya),https://www.lyngsat.com/tvchannels/ke/NTV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+1.0,NTV (Kenya),MPEG-4/SD,544.0,3878 L,,39.7-41.7,,,NTV (Kenya),https://www.lyngsat.com/tvchannels/ke/NTV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+2.0,Citizen TV,MPEG-4/SD,545.0,3878 L,,39.7-41.7,,,Citizen TV,https://www.lyngsat.com/tvchannels/ke/Citizen-TV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+2.0,Citizen TV,MPEG-4/SD,545.0,3878 L,,39.7-41.7,,,Citizen TV,https://www.lyngsat.com/tvchannels/ke/Citizen-TV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+3.0,Inooro TV,MPEG-4/SD,546.0,3878 L,,39.7-41.7,,,Inooro TV,https://www.lyngsat.com/tvchannels/ke/Inooro-TV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+3.0,Inooro TV,MPEG-4/SD,546.0,3878 L,,39.7-41.7,,,Inooro TV,https://www.lyngsat.com/tvchannels/ke/Inooro-TV.html,False,RMS Radio,P 0,,DVB-S2,Eng,ke
+4.0,QTV (Kenya),MPEG-4/SD,547.0,3878 L,,39.7-41.7,,,QTV (Kenya),https://www.lyngsat.com/tvchannels/ke/QTV.html,False,RMS Radio,P 0,,DVB-S2,Swa,ke
+5.0,Ramogi TV,MPEG-4/SD,548.0,3878 L,,39.7-41.7,,,Ramogi TV,https://www.lyngsat.com/tvchannels/ke/Ramogi-TV.html,False,RMS Radio,P 0,,DVB-S2,,ke
+5.0,Ramogi TV,MPEG-4/SD,548.0,3878 L,,39.7-41.7,,,Ramogi TV,https://www.lyngsat.com/tvchannels/ke/Ramogi-TV.html,False,RMS Radio,P 0,,DVB-S2,,ke
+1.0,Nation FM (Kenya),,,3940 L,,39.7-41.7,,,Nation FM (Kenya),https://www.lyngsat.com/radiochannels/ke/Nation-FM.html,False,RMS Radio,3/4,2083.0,DVB-S2,Eng,ke
+2.0,NRG Radio,,,3940 L,,39.7-41.7,,,NRG Radio,https://www.lyngsat.com/radiochannels/ke/NRG-Radio.html,False,RMS Radio,3/4,2083.0,DVB-S2,Eng,ke
+2.0,NRG Radio,,,3940 L,,39.7-41.7,,,NRG Radio,https://www.lyngsat.com/radiochannels/ke/NRG-Radio.html,False,RMS Radio,3/4,2083.0,DVB-S2,Eng,ke
+,Myanmar mux,,,4049 L,,,,,,,False,RMS Radio,3/4,15000.0,DVB-S2,,
+,Myanmar mux,,,4061 L,,,,,,,False,RMS Radio,3/4,5415.0,DVB-S2,,
+,Myanmar mux,,,11140 V,,,,,,,False,RMS Radio,3/4,30000.0,DVB-S2,,
+51.0,MRTV,MPEG-4/HD,100.0,4049 L,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,4049 L,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,4049 L,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,4049 L,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,11140 V,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,11140 V,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,11140 V,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+51.0,MRTV,MPEG-4/HD,100.0,11140 V,,,,,MRTV,https://www.lyngsat.com/tvchannels/mm/MRTV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,4049 L,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,4049 L,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,4049 L,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,4049 L,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,11140 V,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,11140 V,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,11140 V,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+52.0,MRTV News,MPEG-4/HD,101.0,11140 V,,,,,MRTV News,https://www.lyngsat.com/tvchannels/mm/MRTV-News.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+53.0,MRTV Parliament,MPEG-4/SD,102.0,4049 L,,,,,MRTV Parliament,https://www.lyngsat.com/tvchannels/mm/MRTV-Parliament.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+53.0,MRTV Parliament,MPEG-4/SD,102.0,4049 L,,,,,MRTV Parliament,https://www.lyngsat.com/tvchannels/mm/MRTV-Parliament.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+53.0,MRTV Parliament,MPEG-4/SD,102.0,11140 V,,,,,MRTV Parliament,https://www.lyngsat.com/tvchannels/mm/MRTV-Parliament.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+53.0,MRTV Parliament,MPEG-4/SD,102.0,11140 V,,,,,MRTV Parliament,https://www.lyngsat.com/tvchannels/mm/MRTV-Parliament.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,4049 L,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,15000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,4049 L,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,15000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,4049 L,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,15000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,4049 L,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,15000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,11140 V,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,30000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,11140 V,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,30000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,11140 V,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,30000.0,DVB-S2,,mm
+54.0,MRTV NRC,MPEG-4/HD,103.0,11140 V,,,,,MRTV NRC,https://www.lyngsat.com/tvchannels/mm/MRTV-NRC.html,False,RMS Radio,3/4,30000.0,DVB-S2,,mm
+55.0,MRTV Farmers,MPEG-4/SD,104.0,4049 L,,,,,MRTV Farmers,https://www.lyngsat.com/tvchannels/mm/MRTV-Farmers.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+55.0,MRTV Farmers,MPEG-4/SD,104.0,4049 L,,,,,MRTV Farmers,https://www.lyngsat.com/tvchannels/mm/MRTV-Farmers.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+55.0,MRTV Farmers,MPEG-4/SD,104.0,11140 V,,,,,MRTV Farmers,https://www.lyngsat.com/tvchannels/mm/MRTV-Farmers.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+55.0,MRTV Farmers,MPEG-4/SD,104.0,11140 V,,,,,MRTV Farmers,https://www.lyngsat.com/tvchannels/mm/MRTV-Farmers.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+56.0,MRTV Sports,MPEG-4/SD,105.0,4049 L,,,,,MRTV Sports,https://www.lyngsat.com/tvchannels/mm/MRTV-Sports.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+56.0,MRTV Sports,MPEG-4/SD,105.0,4049 L,,,,,MRTV Sports,https://www.lyngsat.com/tvchannels/mm/MRTV-Sports.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+56.0,MRTV Sports,MPEG-4/HD,105.0,11140 V,,,,,MRTV Sports,https://www.lyngsat.com/tvchannels/mm/MRTV-Sports.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+56.0,MRTV Sports,MPEG-4/HD,105.0,11140 V,,,,,MRTV Sports,https://www.lyngsat.com/tvchannels/mm/MRTV-Sports.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+57.0,Myanmar International TV,MPEG-4/SD,106.0,4049 L,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/SD,106.0,4049 L,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/SD,106.0,4049 L,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/SD,106.0,4049 L,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/HD,106.0,11140 V,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/HD,106.0,11140 V,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/HD,106.0,11140 V,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Eng,mm
+57.0,Myanmar International TV,MPEG-4/HD,106.0,11140 V,,,,,Myanmar International TV,https://www.lyngsat.com/tvchannels/mm/Myanmar-International-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Eng,mm
+58.0,Education Channel,MPEG-4/SD,107.0,4049 L,,,,,Education Channel,https://www.lyngsat.com/tvchannels/mm/Education-Channel.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+58.0,Education Channel,MPEG-4/SD,107.0,4049 L,,,,,Education Channel,https://www.lyngsat.com/tvchannels/mm/Education-Channel.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+58.0,Education Channel,MPEG-4/SD,107.0,11140 V,,,,,Education Channel,https://www.lyngsat.com/tvchannels/mm/Education-Channel.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+58.0,Education Channel,MPEG-4/SD,107.0,11140 V,,,,,Education Channel,https://www.lyngsat.com/tvchannels/mm/Education-Channel.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+59.0,M Entertainment,MPEG-4/SD,108.0,4049 L,,,,,M Entertainment,https://www.lyngsat.com/tvchannels/mm/M-Entertainment.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+59.0,M Entertainment,MPEG-4/SD,108.0,4049 L,,,,,M Entertainment,https://www.lyngsat.com/tvchannels/mm/M-Entertainment.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+59.0,M Entertainment,MPEG-4/HD,108.0,11140 V,,,,,M Entertainment,https://www.lyngsat.com/tvchannels/mm/M-Entertainment.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+59.0,M Entertainment,MPEG-4/HD,108.0,11140 V,,,,,M Entertainment,https://www.lyngsat.com/tvchannels/mm/M-Entertainment.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/SD,109.0,4049 L,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/SD,109.0,4049 L,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/SD,109.0,4049 L,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/SD,109.0,4049 L,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/HD,109.0,11140 V,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/HD,109.0,11140 V,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/HD,109.0,11140 V,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+60.0,MRTV 4,MPEG-4/HD,109.0,11140 V,,,,,MRTV 4,https://www.lyngsat.com/tvchannels/mm/MRTV-4.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/SD,110.0,4049 L,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/SD,110.0,4049 L,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/SD,110.0,4049 L,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/SD,110.0,4049 L,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/HD,110.0,11140 V,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/HD,110.0,11140 V,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/HD,110.0,11140 V,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+61.0,Channel 7 (Myanmar),MPEG-4/HD,110.0,11140 V,,,,,Channel 7 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-7.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+62.0,5 Plus (Myanmar),MPEG-4/SD,111.0,4049 L,,,,,5 Plus (Myanmar),https://www.lyngsat.com/tvchannels/mm/5-Plus.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+63.0,MN TV,MPEG-4/SD,112.0,4049 L,,,,,MN TV,https://www.lyngsat.com/tvchannels/mm/MN-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+64.0,Channel 9 (Myanmar),MPEG-4/SD,113.0,4049 L,,,,,Channel 9 (Myanmar),https://www.lyngsat.com/tvchannels/mm/Channel-9.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+65.0,MWD,MPEG-4/SD,114.0,4049 L,,,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+65.0,MWD,MPEG-4/SD,114.0,4049 L,,,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+65.0,MWD,MPEG-4/SD,114.0,11140 V,,,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+65.0,MWD,MPEG-4/SD,114.0,11140 V,,,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/SD,117.0,4049 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/SD,117.0,4049 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/SD,117.0,4049 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+3.0,Channel K,MPEG-4/SD,115.0,4061 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+3.0,Channel K,MPEG-4/SD,115.0,4061 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+3.0,Channel K,MPEG-4/SD,115.0,4061 L,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/HD,115.0,11140 V,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/HD,115.0,11140 V,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+66.0,Channel K,MPEG-4/HD,115.0,11140 V,,,,,Channel K,https://www.lyngsat.com/tvchannels/mm/Channel-K.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+67.0,YTV,MPEG-4/SD,118.0,4049 L,,,,,YTV,https://www.lyngsat.com/tvchannels/mm/YTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+67.0,YTV,MPEG-4/SD,118.0,4049 L,,,,,YTV,https://www.lyngsat.com/tvchannels/mm/YTV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+4.0,YTV,MPEG-4/SD,118.0,4061 L,,,,,YTV,https://www.lyngsat.com/tvchannels/mm/YTV.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+4.0,YTV,MPEG-4/SD,118.0,4061 L,,,,,YTV,https://www.lyngsat.com/tvchannels/mm/YTV.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/SD,119.0,4049 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/SD,119.0,4049 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/SD,119.0,4049 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+5.0,Fortune TV,MPEG-4/SD,119.0,4061 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+5.0,Fortune TV,MPEG-4/SD,119.0,4061 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+5.0,Fortune TV,MPEG-4/SD,119.0,4061 L,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/HD,117.0,11140 V,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/HD,117.0,11140 V,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+68.0,Fortune TV,MPEG-4/HD,117.0,11140 V,,,,,Fortune TV,https://www.lyngsat.com/tvchannels/mm/Fortune-TV.html,False,RMS Radio,3/4,30000.0,DVB-S2,Bur,mm
+69.0,Myanmar Radio National,,,4049 L,,,,,Myanmar Radio National,https://www.lyngsat.com/radiochannels/mm/Myanmar-Radio-National.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+69.0,Myanmar Radio National,,,4049 L,,,,,Myanmar Radio National,https://www.lyngsat.com/radiochannels/mm/Myanmar-Radio-National.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+70.0,Upper Tineyinthar Radio,,,4049 L,,,,,Upper Tineyinthar Radio,https://www.lyngsat.com/radiochannels/mm/Upper-Tineyinthar-Radio.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+71.0,Lower Tineyinthar Radio,,,4049 L,,,,,Lower Tineyinthar Radio,https://www.lyngsat.com/radiochannels/mm/Lower-Tineyinthar-Radio.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+73.0,Myanmar Radio International,,,4049 L,,,,,Myanmar Radio International,https://www.lyngsat.com/radiochannels/mm/Myanmar-Radio-International.html,False,RMS Radio,3/4,15000.0,DVB-S2,,mm
+74.0,Tha Pyay,,,4049 L,,,,,Tha Pyay,https://www.lyngsat.com/radiochannels/mm/Tha-Pyay.html,False,RMS Radio,3/4,15000.0,DVB-S2,Bur,mm
+7.0,Mandalay FM,,,4061 L,,,,,Mandalay FM,https://www.lyngsat.com/radiochannels/mm/Mandalay-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+7.0,Mandalay FM,,,4061 L,,,,,Mandalay FM,https://www.lyngsat.com/radiochannels/mm/Mandalay-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+8.0,Mandalay FM,,,4061 L,,,,,Mandalay FM,https://www.lyngsat.com/radiochannels/mm/Mandalay-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+8.0,Mandalay FM,,,4061 L,,,,,Mandalay FM,https://www.lyngsat.com/radiochannels/mm/Mandalay-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+9.0,Teen Radio,,,4061 L,,,,,Teen Radio,https://www.lyngsat.com/radiochannels/mm/Teen-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+9.0,Teen Radio,,,4061 L,,,,,Teen Radio,https://www.lyngsat.com/radiochannels/mm/Teen-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+10.0,Teen Radio,,,4061 L,,,,,Teen Radio,https://www.lyngsat.com/radiochannels/mm/Teen-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+10.0,Teen Radio,,,4061 L,,,,,Teen Radio,https://www.lyngsat.com/radiochannels/mm/Teen-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+11.0,Shwe FM,,,4061 L,,,,,Shwe FM,https://www.lyngsat.com/radiochannels/mm/Shwe-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+11.0,Shwe FM,,,4061 L,,,,,Shwe FM,https://www.lyngsat.com/radiochannels/mm/Shwe-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+12.0,Shwe FM,,,4061 L,,,,,Shwe FM,https://www.lyngsat.com/radiochannels/mm/Shwe-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+12.0,Shwe FM,,,4061 L,,,,,Shwe FM,https://www.lyngsat.com/radiochannels/mm/Shwe-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+13.0,Padamyar FM,,,4061 L,,,,,Padamyar FM,https://www.lyngsat.com/radiochannels/mm/Padamyar-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+13.0,Padamyar FM,,,4061 L,,,,,Padamyar FM,https://www.lyngsat.com/radiochannels/mm/Padamyar-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+14.0,Padamyar FM,,,4061 L,,,,,Padamyar FM,https://www.lyngsat.com/radiochannels/mm/Padamyar-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+14.0,Padamyar FM,,,4061 L,,,,,Padamyar FM,https://www.lyngsat.com/radiochannels/mm/Padamyar-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+15.0,FM Bagan,,,4061 L,,,,,FM Bagan,https://www.lyngsat.com/radiochannels/mm/FM-Bagan.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+15.0,FM Bagan,,,4061 L,,,,,FM Bagan,https://www.lyngsat.com/radiochannels/mm/FM-Bagan.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+16.0,FM Bagan,,,4061 L,,,,,FM Bagan,https://www.lyngsat.com/radiochannels/mm/FM-Bagan.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+16.0,FM Bagan,,,4061 L,,,,,FM Bagan,https://www.lyngsat.com/radiochannels/mm/FM-Bagan.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+17.0,Cherry FM,,,4061 L,,,,,Cherry FM,https://www.lyngsat.com/radiochannels/mm/Cherry-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+17.0,Cherry FM,,,4061 L,,,,,Cherry FM,https://www.lyngsat.com/radiochannels/mm/Cherry-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+18.0,Cherry FM,,,4061 L,,,,,Cherry FM,https://www.lyngsat.com/radiochannels/mm/Cherry-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+18.0,Cherry FM,,,4061 L,,,,,Cherry FM,https://www.lyngsat.com/radiochannels/mm/Cherry-FM.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+19.0,Myanmar International Radio,,,4061 L,,,,,Myanmar International Radio,https://www.lyngsat.com/radiochannels/mm/Myanmar-International-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+19.0,Myanmar International Radio,,,4061 L,,,,,Myanmar International Radio,https://www.lyngsat.com/radiochannels/mm/Myanmar-International-Radio.html,False,RMS Radio,3/4,5415.0,DVB-S2,Bur,mm
+,(feeds),,,10962 V,tp 61,,,,,,False,RMS Radio,5/6,2500.0,DVB-S2,,
+,(feeds),,,10967 V,tp 61,,,,,,False,RMS Radio,5/6,1600.0,DVB-S1,,
+,(feeds),,,10969 V,tp 61,,,,,,False,RMS Radio,5/6,1660.0,DVB-S2,,
+,(feeds),,,10971 V,tp 61,,,,,,False,RMS Radio,5/6,1600.0,DVB-S2,,
+,(feeds),,,10975 V,tp 61,,,,,,False,RMS Radio,5/6,2100.0,DVB-S2,,
+,(feeds),,,10978 V,tp 61,,,,,,False,RMS Radio,5/6,2500.0,DVB-S2,,
+,(feeds),,,10981 V,tp 61,,,,,,False,RMS Radio,5/6,1600.0,DVB-S2,,
+,(feeds),,,10984 V,tp 61,,,,,,False,RMS Radio,5/6,1400.0,DVB-S2,,
+,(feeds),,,10987 V,tp 61,,,,,,False,RMS Radio,3/4,1240.0,DVB-S2,,
+,(feeds),,,11068 V,tp 62,,,,,,False,RMS Radio,3/4,27500.0,DVB-S2,,
+,(feeds),,,11101 V,tp 62,,,,,,False,RMS Radio,5/6,2200.0,DVB-S2,,
+,(feeds),,,11118 V,tp 62,,,,,,False,RMS Radio,3/4,1600.0,DVB-S2,,
+,(feeds),,,11457 V,tp 64,,,,,,False,RMS Radio,5/6,2000.0,DVB-S2,,
+,(feeds),,,11531 V,tp 64,,,,,,False,RMS Radio,3/4,22200.0,DVB-S2,,
+,(feeds),,,11536 V,tp 64,,,,,,False,RMS Radio,5/6,22200.0,DVB-S2,,
+,Taban TV,800-800,,10989 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Taban-TV.html,Taban TV,https://www.lyngsat.com/tvchannels/ir/Taban-TV.html,True,Taban TV,3/5,1600.0,DVB-S2,,ir
+182.0,Taban TV,MPEG-4/SD,1820.0,10989 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Taban-TV.html,Taban TV,https://www.lyngsat.com/tvchannels/ir/Taban-TV.html,True,Taban TV,3/5,1600.0,DVB-S2,Per,ir
+382.0,[Radio Yazd info card],MPEG-4/SD,3820.0,10989 V,tp 61,46.3-48.3,,,,,False,Taban TV,3/5,1600.0,DVB-S2,Per,
+482.0,Radio Yazd,,,10989 V,tp 61,46.3-48.3,,,Radio Yazd,https://www.lyngsat.com/radiochannels/ir/Radio-Yazd.html,False,Taban TV,3/5,1600.0,DVB-S2,Per,ir
+,Semnan TV,3622-104,,10991 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Semnan-TV.html,Semnan TV,https://www.lyngsat.com/tvchannels/ir/Semnan-TV.html,True,Semnan TV,3/5,1580.0,DVB-S2,,ir
+190.0,Semnan TV,MPEG-4/SD,1900.0,10991 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Semnan-TV.html,Semnan TV,https://www.lyngsat.com/tvchannels/ir/Semnan-TV.html,True,Semnan TV,3/5,1580.0,DVB-S2,Per,ir
+390.0,[Radio Semnan info card],MPEG-4/SD,3900.0,10991 V,tp 61,46.3-48.3,,,,,False,Semnan TV,3/5,1580.0,DVB-S2,Per,
+490.0,Radio Semnan,,,10991 V,tp 61,46.3-48.3,,,Radio Semnan,https://www.lyngsat.com/radiochannels/ir/Radio-Semnan.html,False,Semnan TV,3/5,1580.0,DVB-S2,Per,ir
+,Zanjan TV,3622-104,,10993 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Zanjan-TV.html,Zanjan TV,https://www.lyngsat.com/tvchannels/ir/Zanjan-TV.html,True,Zanjan TV,3/5,1560.0,DVB-S2,,ir
+187.0,Zanjan TV,MPEG-4/SD,1870.0,10993 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Zanjan-TV.html,Zanjan TV,https://www.lyngsat.com/tvchannels/ir/Zanjan-TV.html,True,Zanjan TV,3/5,1560.0,DVB-S2,Per,ir
+387.0,[Radio Zanjan info card],MPEG-4/SD,3870.0,10993 V,tp 61,46.3-48.3,,,,,False,Zanjan TV,3/5,1560.0,DVB-S2,Per,
+487.0,Radio Zanjan,,,10993 V,tp 61,46.3-48.3,,,Radio Zanjan,https://www.lyngsat.com/radiochannels/ir/Radio-Zanjan.html,False,Zanjan TV,3/5,1560.0,DVB-S2,Per,ir
+,Jahanbin TV,0-0,,10995 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Jahanbin-TV.html,Jahanbin TV,https://www.lyngsat.com/tvchannels/ir/Jahanbin-TV.html,True,Jahanbin TV,3/5,1540.0,DVB-S2,,ir
+181.0,Jahanbin TV,MPEG-4/SD,1810.0,10995 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Jahanbin-TV.html,Jahanbin TV,https://www.lyngsat.com/tvchannels/ir/Jahanbin-TV.html,True,Jahanbin TV,3/5,1540.0,DVB-S2,Per,ir
+381.0,[Radio Shahrekord info card],MPEG-4/SD,3810.0,10995 V,tp 61,46.3-48.3,,,,,False,Jahanbin TV,3/5,1540.0,DVB-S2,Per,
+481.0,Radio Shahrekord,,,10995 V,tp 61,46.3-48.3,,,Radio Shahrekord,https://www.lyngsat.com/radiochannels/ir/Radio-Shahrekord.html,False,Jahanbin TV,3/5,1540.0,DVB-S2,Per,ir
+,Isfahan TV,3622-104,,10997 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Isfahan-TV.html,Isfahan TV,https://www.lyngsat.com/tvchannels/ir/Isfahan-TV.html,True,Isfahan TV,3/5,1520.0,DVB-S2,,ir
+171.0,Isfahan TV,MPEG-4/SD,1710.0,10997 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Isfahan-TV.html,Isfahan TV,https://www.lyngsat.com/tvchannels/ir/Isfahan-TV.html,True,Isfahan TV,3/5,1520.0,DVB-S2,Per,ir
+371.0,[Radio Isfahan info card],MPEG-4/SD,3710.0,10997 V,tp 61,46.3-48.3,,,,,False,Isfahan TV,3/5,1520.0,DVB-S2,Per,
+471.0,Radio Isfahan,,,10997 V,tp 61,46.3-48.3,,,Radio Isfahan,https://www.lyngsat.com/radiochannels/ir/Radio-Isfahan.html,False,Isfahan TV,3/5,1520.0,DVB-S2,Per,ir
+471.0,Radio Isfahan,,,10997 V,tp 61,46.3-48.3,,,Radio Isfahan,https://www.lyngsat.com/radiochannels/ir/Radio-Isfahan.html,False,Isfahan TV,3/5,1520.0,DVB-S2,Per,ir
+471.0,Radio Isfahan,,,10997 V,tp 61,46.3-48.3,,,Radio Isfahan,https://www.lyngsat.com/radiochannels/ir/Radio-Isfahan.html,False,Isfahan TV,3/5,1520.0,DVB-S2,Per,ir
+471.0,Radio Isfahan,,,10997 V,tp 61,46.3-48.3,,,Radio Isfahan,https://www.lyngsat.com/radiochannels/ir/Radio-Isfahan.html,False,Isfahan TV,3/5,1520.0,DVB-S2,Per,ir
+,Azarbayjan-e Gharbi TV,3622-104,,10999 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Azarbayjan-e-Gharbi-TV.html,Azarbayjan-e Gharbi TV,https://www.lyngsat.com/tvchannels/ir/Azarbayjan-e-Gharbi-TV.html,True,Azarbayjan-e Gharbi TV,3/5,1500.0,DVB-S2,,ir
+169.0,Azarbayjan-e Gharbi TV,MPEG-4/SD,1690.0,10999 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/Azarbayjan-e-Gharbi-TV.html,Azarbayjan-e Gharbi TV,https://www.lyngsat.com/tvchannels/ir/Azarbayjan-e-Gharbi-TV.html,True,Azarbayjan-e Gharbi TV,3/5,1500.0,DVB-S2,Per,ir
+369.0,[Radio Azarbayjan info card],MPEG-4/SD,3690.0,10999 V,tp 61,46.3-48.3,,,,,False,Azarbayjan-e Gharbi TV,3/5,1500.0,DVB-S2,Per,
+469.0,Radio Azarbayjan,,,10999 V,tp 61,46.3-48.3,,,Radio Azarbayjan,https://www.lyngsat.com/radiochannels/ir/Radio-Azarbayjan.html,False,Azarbayjan-e Gharbi TV,3/5,1500.0,DVB-S2,Per,ir
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11002 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-508,,11006 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11009 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-506,,11012 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11016 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11020 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,43981-4660,,11023 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,1582-100,,11026 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,2300.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-500,,11030 V,tp 61,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,3500.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+,IRIB,3622-101,,11555 V,tp 65,46.3-48.3,,https://www.lyngsat.com/providers/ir/IRIB.html,,,True,IRIB,3/4,30000.0,DVB-S2,,
+179.0,Ilam TV,MPEG-4/SD,1790.0,11002 V,tp 61,46.3-48.3,,,Ilam TV,https://www.lyngsat.com/tvchannels/ir/Ilam-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+188.0,Kermanshah TV,MPEG-4/SD,1880.0,11002 V,tp 61,46.3-48.3,,,Kermanshah TV,https://www.lyngsat.com/tvchannels/ir/Kermanshah-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+191.0,Kordestan TV,MPEG-4/SD,1910.0,11002 V,tp 61,46.3-48.3,,,Kordestan TV,https://www.lyngsat.com/tvchannels/ir/Kordestan-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+379.0,[Radio Ilam info card],MPEG-4/SD,3790.0,11002 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+388.0,[Radio Kermanshah info card],MPEG-4/SD,3881.0,11002 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+391.0,[Radio Kordestan info card],MPEG-4/SD,3910.0,11002 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Kur,
+479.0,Radio Ilam,,,11002 V,tp 61,46.3-48.3,,,Radio Ilam,https://www.lyngsat.com/radiochannels/ir/Radio-Ilam.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+488.0,Radio Kermanshah,,,11002 V,tp 61,46.3-48.3,,,Radio Kermanshah,https://www.lyngsat.com/radiochannels/ir/Radio-Kermanshah.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+491.0,Radio Kordestan,,,11002 V,tp 61,46.3-48.3,,,Radio Kordestan,https://www.lyngsat.com/radiochannels/ir/Radio-Kordestan.html,False,IRIB,3/4,3500.0,DVB-S2,Kur,ir
+163.0,Golestan TV,MPEG-4/SD,1630.0,11006 V,tp 61,46.3-48.3,,,Golestan TV,https://www.lyngsat.com/tvchannels/ir/Golestan-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+174.0,Mazandaran TV,MPEG-4/SD,1740.0,11006 V,tp 61,46.3-48.3,,,Mazandaran TV,https://www.lyngsat.com/tvchannels/ir/Mazandaran-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+363.0,[Radio Gorgan info card],MPEG-4/SD,3630.0,11006 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,2300.0,DVB-S2,Per,
+374.0,[Radio Mazandaran info card],MPEG-4/SD,3740.0,11006 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,2300.0,DVB-S2,Per,
+463.0,Radio Gorgan,,,11006 V,tp 61,46.3-48.3,,,Radio Gorgan,https://www.lyngsat.com/radiochannels/ir/Radio-Gorgan.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+474.0,Radio Mazandaran,,,11006 V,tp 61,46.3-48.3,,,Radio Mazandaran,https://www.lyngsat.com/radiochannels/ir/Radio-Mazandaran.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+497.0,IRIB World Service Turkmen Radio,,,11006 V,tp 61,46.3-48.3,,,IRIB World Service Turkmen Radio,https://www.lyngsat.com/radiochannels/ir/IRIB-World-Service-Turkmen-Radio.html,False,IRIB,3/4,2300.0,DVB-S2,Tuk,ir
+173.0,Kerman TV,MPEG-4/SD,1730.0,11009 V,tp 61,46.3-48.3,,,Kerman TV,https://www.lyngsat.com/tvchannels/ir/Kerman-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+177.0,Hamoon TV,MPEG-4/SD,1770.0,11009 V,tp 61,46.3-48.3,,,Hamoon TV,https://www.lyngsat.com/tvchannels/ir/Hamoon-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+185.0,Khalij-e Fars TV,MPEG-4/SD,1850.0,11009 V,tp 61,46.3-48.3,,,Khalij-e Fars TV,https://www.lyngsat.com/tvchannels/ir/Khalij-e-Fars-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+373.0,[Radio Kerman info card],MPEG-4/SD,3730.0,11009 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+377.0,[Radio Zahedan info card],MPEG-4/SD,3770.0,11009 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+385.0,[Radio Khalij-e Fars info card],MPEG-4/SD,3850.0,11009 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+473.0,Radio Kerman,,,11009 V,tp 61,46.3-48.3,,,Radio Kerman,https://www.lyngsat.com/radiochannels/ir/Radio-Kerman.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+477.0,Radio Zahedan,,,11009 V,tp 61,46.3-48.3,,,Radio Zahedan,https://www.lyngsat.com/radiochannels/ir/Radio-Zahedan.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+485.0,Radio Bandarabas,,,11009 V,tp 61,46.3-48.3,,,Radio Bandarabas,https://www.lyngsat.com/radiochannels/ir/Radio-Bandarabas.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+167.0,Guilan TV,MPEG-4/SD,1670.0,11012 V,tp 61,46.3-48.3,,,Guilan TV,https://www.lyngsat.com/tvchannels/ir/Guilan-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+193.0,Qazvin TV,MPEG-4/SD,1930.0,11012 V,tp 61,46.3-48.3,,,Qazvin TV,https://www.lyngsat.com/tvchannels/ir/Qazvin-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+367.0,[Radio Rasht info card],MPEG-4/SD,3670.0,11012 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,2300.0,DVB-S2,Per,
+393.0,[Radio Qazvin info card],MPEG-4/SD,3930.0,11012 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,2300.0,DVB-S2,Per,
+467.0,Radio Rasht,,,11012 V,tp 61,46.3-48.3,,,Radio Rasht,https://www.lyngsat.com/radiochannels/ir/Radio-Rasht.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+493.0,Radio Qazvin,,,11012 V,tp 61,46.3-48.3,,,Radio Qazvin,https://www.lyngsat.com/radiochannels/ir/Radio-Qazvin.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+496.0,Radio Broonmarzi,,,11012 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+496.0,Radio Broonmarzi,,,11012 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+496.0,Radio Broonmarzi,,,11012 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+496.0,Radio Broonmarzi,,,11012 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+498.0,Radio Broonmarzi,,,11026 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+498.0,Radio Broonmarzi,,,11026 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+498.0,Radio Broonmarzi,,,11026 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+498.0,Radio Broonmarzi,,,11026 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+495.0,Radio Broonmarzi,,,11030 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+495.0,Radio Broonmarzi,,,11030 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+495.0,Radio Broonmarzi,,,11030 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+495.0,Radio Broonmarzi,,,11030 V,tp 61,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+260.0,Radio Broonmarzi,,,11555 V,tp 65,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+260.0,Radio Broonmarzi,,,11555 V,tp 65,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+260.0,Radio Broonmarzi,,,11555 V,tp 65,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+260.0,Radio Broonmarzi,,,11555 V,tp 65,46.3-48.3,,,Radio Broonmarzi,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+175.0,Qom TV,MPEG-4/SD,1750.0,11016 V,tp 61,46.3-48.3,,,Qom TV,https://www.lyngsat.com/tvchannels/ir/Qom-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+180.0,Hamedan TV,MPEG-4/SD,1800.0,11016 V,tp 61,46.3-48.3,,,Hamedan TV,https://www.lyngsat.com/tvchannels/ir/Hamedan-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+186.0,Aftab TV (Iran),MPEG-4/SD,1860.0,11016 V,tp 61,46.3-48.3,,,Aftab TV (Iran),https://www.lyngsat.com/tvchannels/ir/Aftab-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+375.0,[Radio Qom info card],MPEG-4/SD,3750.0,11016 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+380.0,[Radio Hamedan info card],MPEG-4/SD,3800.0,11016 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+386.0,[Radio Aftab info card],MPEG-4/SD,3860.0,11016 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+475.0,Radio Qom,,,11016 V,tp 61,46.3-48.3,,,Radio Qom,https://www.lyngsat.com/radiochannels/ir/Radio-Qom.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+480.0,Radio Hamedan,,,11016 V,tp 61,46.3-48.3,,,Radio Hamedan,https://www.lyngsat.com/radiochannels/ir/Radio-Hamedan.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+486.0,Radio Aftab,,,11016 V,tp 61,46.3-48.3,,,Radio Aftab,https://www.lyngsat.com/radiochannels/ir/Radio-Aftab.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+165.0,Aflak TV,MPEG-4/SD,1650.0,11020 V,tp 61,46.3-48.3,,,Aflak TV,https://www.lyngsat.com/tvchannels/ir/Aflak-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+172.0,Khozestan TV,MPEG-4/SD,1720.0,11020 V,tp 61,46.3-48.3,,,Khozestan TV,https://www.lyngsat.com/tvchannels/ir/Khozestan-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+365.0,[Radio Lorestan info card],MPEG-4/SD,3650.0,11020 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,2300.0,DVB-S2,Per,
+465.0,Radio Lorestan,,,11020 V,tp 61,46.3-48.3,,,Radio Lorestan,https://www.lyngsat.com/radiochannels/ir/Radio-Lorestan.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+472.0,Radio Khozestan,,,11020 V,tp 61,46.3-48.3,,,Radio Khozestan,https://www.lyngsat.com/radiochannels/ir/Radio-Khozestan.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+164.0,Fars TV,MPEG-4/SD,1640.0,11023 V,tp 61,46.3-48.3,,,Fars TV,https://www.lyngsat.com/tvchannels/ir/Fars-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+178.0,Boushehr TV,MPEG-4/SD,1780.0,11023 V,tp 61,46.3-48.3,,,Boushehr TV,https://www.lyngsat.com/tvchannels/ir/Boushehr-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+189.0,Dena TV,MPEG-4/SD,1890.0,11023 V,tp 61,46.3-48.3,,,Dena TV,https://www.lyngsat.com/tvchannels/ir/Dena-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+364.0,[Radio Fars info card],MPEG-4/SD,3640.0,11023 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+389.0,[Radio Kohgiloyeh info card],MPEG-4/SD,3890.0,11023 V,tp 61,46.3-48.3,,,,,False,IRIB,3/4,3500.0,DVB-S2,Per,
+464.0,Radio Fars,,,11023 V,tp 61,46.3-48.3,,,Radio Fars,https://www.lyngsat.com/radiochannels/ir/Radio-Fars.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+478.0,Radio Boushehr,,,11023 V,tp 61,46.3-48.3,,,Radio Boushehr,https://www.lyngsat.com/radiochannels/ir/Radio-Boushehr.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+489.0,Radio Kohgiloyeh,,,11023 V,tp 61,46.3-48.3,,,Radio Kohgiloyeh,https://www.lyngsat.com/radiochannels/ir/Radio-Kohgiloyeh.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+162.0,Sahand TV,MPEG-4/SD,1620.0,11026 V,tp 61,46.3-48.3,,,Sahand TV,https://www.lyngsat.com/tvchannels/ir/Sahand-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+183.0,Sabalan TV,MPEG-4/SD,1830.0,11026 V,tp 61,46.3-48.3,,,Sabalan TV,https://www.lyngsat.com/tvchannels/ir/Sabalan-TV.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+462.0,Radio Tabriz,,,11026 V,tp 61,46.3-48.3,,,Radio Tabriz,https://www.lyngsat.com/radiochannels/ir/Radio-Tabriz.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+483.0,Radio Ardabil,,,11026 V,tp 61,46.3-48.3,,,Radio Ardabil,https://www.lyngsat.com/radiochannels/ir/Radio-Ardabil.html,False,IRIB,3/4,2300.0,DVB-S2,Per,ir
+161.0,Khorasan Razavi TV,MPEG-4/SD,1610.0,11030 V,tp 61,46.3-48.3,,,Khorasan Razavi TV,https://www.lyngsat.com/tvchannels/ir/Khorasan-Razavi-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+192.0,Khorasan Jonoobi TV,MPEG-4/SD,1920.0,11030 V,tp 61,46.3-48.3,,,Khorasan Jonoobi TV,https://www.lyngsat.com/tvchannels/ir/Khorasan-Jonoobi-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+502.0,Khorasan Shomali TV,MPEG-4/SD,5020.0,11030 V,tp 61,46.3-48.3,,,Khorasan Shomali TV,https://www.lyngsat.com/tvchannels/ir/Khorasan-Shomali-TV.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+461.0,Radio Khorasan e Razavi,,,11030 V,tp 61,46.3-48.3,,,Radio Khorasan e Razavi,https://www.lyngsat.com/radiochannels/ir/Radio-Khorasan-e-Razavi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+476.0,Radio Khorasan Shomali,,,11030 V,tp 61,46.3-48.3,,,Radio Khorasan Shomali,https://www.lyngsat.com/radiochannels/ir/Radio-Khorasan-Shomali.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+492.0,Radio Khorasan Jonoobi,,,11030 V,tp 61,46.3-48.3,,,Radio Khorasan Jonoobi,https://www.lyngsat.com/radiochannels/ir/Radio-Khorasan-Jonoobi.html,False,IRIB,3/4,3500.0,DVB-S2,Per,ir
+69.0,Mahar TV,MPEG-4/HD,711.0,11140 V,,,,,Mahar TV,https://www.lyngsat.com/tvchannels/mm/Mahar-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+69.0,Mahar TV,MPEG-4/HD,711.0,11140 V,,,,,Mahar TV,https://www.lyngsat.com/tvchannels/mm/Mahar-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+70.0,Mahar Esports,MPEG-4/HD,911.0,11140 V,,,,,Mahar Esports,https://www.lyngsat.com/tvchannels/mm/Mahar-Esports.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+70.0,Mahar Esports,MPEG-4/HD,911.0,11140 V,,,,,Mahar Esports,https://www.lyngsat.com/tvchannels/mm/Mahar-Esports.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+71.0,[New Images HD test card],MPEG-4/HD,1000.0,11140 V,,,,,,,False,IRIB,3/4,30000.0,DVB-S2,,
+72.0,Mahar Bawdi,MPEG-4/SD,1011.0,11140 V,,,,,Mahar Bawdi,https://www.lyngsat.com/tvchannels/mm/Mahar-Bawdi.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+72.0,Mahar Bawdi,MPEG-4/SD,1011.0,11140 V,,,,,Mahar Bawdi,https://www.lyngsat.com/tvchannels/mm/Mahar-Bawdi.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+73.0,Readers Channel,MPEG-4/SD,5122.0,11140 V,,,,,Readers Channel,https://www.lyngsat.com/tvchannels/mm/Readers-Channel.html,False,IRIB,3/4,30000.0,DVB-S2,Bur,mm
+101.0,IRIB 1,MPEG-4/SD,1010.0,11555 V,tp 65,46.3-48.3,,,IRIB 1,https://www.lyngsat.com/tvchannels/ir/IRIB-1.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+101.0,IRIB 1,MPEG-4/SD,1010.0,11555 V,tp 65,46.3-48.3,,,IRIB 1,https://www.lyngsat.com/tvchannels/ir/IRIB-1.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+102.0,IRIB 2,MPEG-4/SD,1020.0,11555 V,tp 65,46.3-48.3,,,IRIB 2,https://www.lyngsat.com/tvchannels/ir/IRIB-2.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+102.0,IRIB 2,MPEG-4/SD,1020.0,11555 V,tp 65,46.3-48.3,,,IRIB 2,https://www.lyngsat.com/tvchannels/ir/IRIB-2.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+103.0,IRIB 3,MPEG-4/SD,1030.0,11555 V,tp 65,46.3-48.3,,,IRIB 3,https://www.lyngsat.com/tvchannels/ir/IRIB-3.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+103.0,IRIB 3,MPEG-4/SD,1030.0,11555 V,tp 65,46.3-48.3,,,IRIB 3,https://www.lyngsat.com/tvchannels/ir/IRIB-3.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+197.0,IRIB 3,MPEG-4/HD,1970.0,11555 V,tp 65,46.3-48.3,,,IRIB 3,https://www.lyngsat.com/tvchannels/ir/IRIB-3.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+197.0,IRIB 3,MPEG-4/HD,1970.0,11555 V,tp 65,46.3-48.3,,,IRIB 3,https://www.lyngsat.com/tvchannels/ir/IRIB-3.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+104.0,IRIB 4,MPEG-4/SD,1040.0,11555 V,tp 65,46.3-48.3,,,IRIB 4,https://www.lyngsat.com/tvchannels/ir/IRIB-4.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+104.0,IRIB 4,MPEG-4/SD,1040.0,11555 V,tp 65,46.3-48.3,,,IRIB 4,https://www.lyngsat.com/tvchannels/ir/IRIB-4.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+105.0,Nasim,MPEG-4/SD,1050.0,11555 V,tp 65,46.3-48.3,,,Nasim,https://www.lyngsat.com/tvchannels/ir/Nasim.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+105.0,Nasim,MPEG-4/SD,1050.0,11555 V,tp 65,46.3-48.3,,,Nasim,https://www.lyngsat.com/tvchannels/ir/Nasim.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+106.0,IRINN,MPEG-4/SD,1060.0,11555 V,tp 65,46.3-48.3,,,IRINN,https://www.lyngsat.com/tvchannels/ir/IRINN.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+106.0,IRINN,MPEG-4/SD,1060.0,11555 V,tp 65,46.3-48.3,,,IRINN,https://www.lyngsat.com/tvchannels/ir/IRINN.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+107.0,Amouzesh TV (07-20 UTC),MPEG-4/SD,1070.0,11555 V,tp 65,46.3-48.3,,,Amouzesh TV (07-20 UTC),https://www.lyngsat.com/tvchannels/ir/Amouzesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+108.0,Quran TV (Iran),MPEG-4/SD,1080.0,11555 V,tp 65,46.3-48.3,,,Quran TV (Iran),https://www.lyngsat.com/tvchannels/ir/Quran-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+108.0,Quran TV (Iran),MPEG-4/SD,1080.0,11555 V,tp 65,46.3-48.3,,,Quran TV (Iran),https://www.lyngsat.com/tvchannels/ir/Quran-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+109.0,Doc TV,MPEG-4/SD,1090.0,11555 V,tp 65,46.3-48.3,,,Doc TV,https://www.lyngsat.com/tvchannels/ir/Doc-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+109.0,Doc TV,MPEG-4/SD,1090.0,11555 V,tp 65,46.3-48.3,,,Doc TV,https://www.lyngsat.com/tvchannels/ir/Doc-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+198.0,Doc TV,MPEG-4/HD,1980.0,11555 V,tp 65,46.3-48.3,,,Doc TV,https://www.lyngsat.com/tvchannels/ir/Doc-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+198.0,Doc TV,MPEG-4/HD,1980.0,11555 V,tp 65,46.3-48.3,,,Doc TV,https://www.lyngsat.com/tvchannels/ir/Doc-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+110.0,Omid TV (Iran),MPEG-4/SD,1100.0,11555 V,tp 65,46.3-48.3,,,Omid TV (Iran),https://www.lyngsat.com/tvchannels/ir/Omid-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+111.0,Pooya TV (08-14),MPEG-4/SD,1180.0,11555 V,tp 65,46.3-48.3,,,Pooya TV (08-14),https://www.lyngsat.com/tvchannels/ir/Pooya-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+111.0,Nahal TV (14-19),MPEG-4/SD,1180.0,11555 V,tp 65,46.3-48.3,,,Nahal TV (14-19),https://www.lyngsat.com/tvchannels/ir/Nahal-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+111.0,Nahal TV (14-19),MPEG-4/SD,1180.0,11555 V,tp 65,46.3-48.3,,,Nahal TV (14-19),https://www.lyngsat.com/tvchannels/ir/Nahal-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+112.0,Namayesh TV,MPEG-4/SD,1120.0,11555 V,tp 65,46.3-48.3,,,Namayesh TV,https://www.lyngsat.com/tvchannels/ir/Namayesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+113.0,Ofogh TV,MPEG-4/SD,1130.0,11555 V,tp 65,46.3-48.3,,,Ofogh TV,https://www.lyngsat.com/tvchannels/ir/Ofogh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+114.0,IFilm Persian,MPEG-4/SD,1140.0,11555 V,tp 65,46.3-48.3,,,IFilm Persian,https://www.lyngsat.com/tvchannels/ir/IFilm-Persian.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+114.0,IFilm Persian,MPEG-4/SD,1140.0,11555 V,tp 65,46.3-48.3,,,IFilm Persian,https://www.lyngsat.com/tvchannels/ir/IFilm-Persian.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+115.0,Tamasha,MPEG-4/SD,1150.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+115.0,Tamasha,MPEG-4/SD,1150.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+115.0,Tamasha,MPEG-4/SD,1150.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+115.0,Tamasha,MPEG-4/SD,1150.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+196.0,Tamasha,MPEG-4/HD,1960.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+196.0,Tamasha,MPEG-4/HD,1960.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+196.0,Tamasha,MPEG-4/HD,1960.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+196.0,Tamasha,MPEG-4/HD,1960.0,11555 V,tp 65,46.3-48.3,,,Tamasha,https://www.lyngsat.com/tvchannels/ir/Tamasha.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+116.0,IRINN 2,MPEG-4/SD,1160.0,11555 V,tp 65,46.3-48.3,,,IRINN 2,https://www.lyngsat.com/tvchannels/ir/IRINN-2.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+116.0,IRINN 2,MPEG-4/SD,1160.0,11555 V,tp 65,46.3-48.3,,,IRINN 2,https://www.lyngsat.com/tvchannels/ir/IRINN-2.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+117.0,Varzesh TV,MPEG-4/SD,1170.0,11555 V,tp 65,46.3-48.3,,,Varzesh TV,https://www.lyngsat.com/tvchannels/ir/Varzesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+117.0,Varzesh TV,MPEG-4/SD,1170.0,11555 V,tp 65,46.3-48.3,,,Varzesh TV,https://www.lyngsat.com/tvchannels/ir/Varzesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+199.0,Varzesh TV,MPEG-4/HD,1990.0,11555 V,tp 65,46.3-48.3,,,Varzesh TV,https://www.lyngsat.com/tvchannels/ir/Varzesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+199.0,Varzesh TV,MPEG-4/HD,1990.0,11555 V,tp 65,46.3-48.3,,,Varzesh TV,https://www.lyngsat.com/tvchannels/ir/Varzesh-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+119.0,Salamat TV,MPEG-4/SD,1190.0,11555 V,tp 65,46.3-48.3,,,Salamat TV,https://www.lyngsat.com/tvchannels/ir/Salamat-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+119.0,Salamat TV,MPEG-4/SD,1190.0,11555 V,tp 65,46.3-48.3,,,Salamat TV,https://www.lyngsat.com/tvchannels/ir/Salamat-TV.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+120.0,IRIB 5,MPEG-4/SD,1200.0,11555 V,tp 65,46.3-48.3,,,IRIB 5,https://www.lyngsat.com/tvchannels/ir/IRIB-5.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+127.0,Sepehr,MPEG-4/HD,1270.0,11555 V,tp 65,46.3-48.3,,,Sepehr,https://www.lyngsat.com/tvchannels/ir/Sepehr.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+127.0,Sepehr,MPEG-4/HD,1270.0,11555 V,tp 65,46.3-48.3,,,Sepehr,https://www.lyngsat.com/tvchannels/ir/Sepehr.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+241.0,Radio Iran,,,11555 V,tp 65,46.3-48.3,,,Radio Iran,https://www.lyngsat.com/radiochannels/ir/Radio-Iran.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+242.0,Radio Ava,,,11555 V,tp 65,46.3-48.3,,,Radio Ava,https://www.lyngsat.com/radiochannels/ir/Radio-Ava.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+243.0,Radio Javan,,,11555 V,tp 65,46.3-48.3,,,Radio Javan,https://www.lyngsat.com/radiochannels/ir/Radio-Javan.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+244.0,Radio Payam,,,11555 V,tp 65,46.3-48.3,,,Radio Payam,https://www.lyngsat.com/radiochannels/ir/Radio-Payam.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+245.0,Radio Varzesh,,,11555 V,tp 65,46.3-48.3,,,Radio Varzesh,https://www.lyngsat.com/radiochannels/ir/Radio-Varzesh.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+246.0,Radio Maaref,,,11555 V,tp 65,46.3-48.3,,,Radio Maaref,https://www.lyngsat.com/radiochannels/ir/Radio-Maaref.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+247.0,Radio Quran (Iran),,,11555 V,tp 65,46.3-48.3,,,Radio Quran (Iran),https://www.lyngsat.com/radiochannels/ir/Radio-Quran.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+247.0,Radio Quran (Iran),,,11555 V,tp 65,46.3-48.3,,,Radio Quran (Iran),https://www.lyngsat.com/radiochannels/ir/Radio-Quran.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+248.0,Radio Farhang,,,11555 V,tp 65,46.3-48.3,,,Radio Farhang,https://www.lyngsat.com/radiochannels/ir/Radio-Farhang.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+249.0,Radio Salamat,,,11555 V,tp 65,46.3-48.3,,,Radio Salamat,https://www.lyngsat.com/radiochannels/ir/Radio-Salamat.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+250.0,Radio Eghtesad,,,11555 V,tp 65,46.3-48.3,,,Radio Eghtesad,https://www.lyngsat.com/radiochannels/ir/Radio-Eghtesad.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+251.0,Radio Goftogoo,,,11555 V,tp 65,46.3-48.3,,,Radio Goftogoo,https://www.lyngsat.com/radiochannels/ir/Radio-Goftogoo.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+252.0,Radio Namayesh,,,11555 V,tp 65,46.3-48.3,,,Radio Namayesh,https://www.lyngsat.com/radiochannels/ir/Radio-Namayesh.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+253.0,Radio Tehran,,,11555 V,tp 65,46.3-48.3,,,Radio Tehran,https://www.lyngsat.com/radiochannels/ir/Radio-Tehran.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+254.0,Radio Saba,,,11555 V,tp 65,46.3-48.3,,,Radio Saba,https://www.lyngsat.com/radiochannels/ir/Radio-Saba.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+255.0,Radio Monasebati,,,11555 V,tp 65,46.3-48.3,,,Radio Monasebati,https://www.lyngsat.com/radiochannels/ir/Radio-Monasebati.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+256.0,Radio Telavat,,,11555 V,tp 65,46.3-48.3,,,Radio Telavat,https://www.lyngsat.com/radiochannels/ir/Radio-Telavat.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+257.0,Radio Tartil,,,11555 V,tp 65,46.3-48.3,,,Radio Tartil,https://www.lyngsat.com/radiochannels/ir/Radio-Tartil.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+258.0,IRIB World Service Radio 7,,,11555 V,tp 65,46.3-48.3,,,IRIB World Service Radio 7,https://www.lyngsat.com/radiochannels/ir/IRIB-World-Service-Radio-7.html,False,IRIB,3/4,30000.0,DVB-S2,Eng,ir
+259.0,IRIB World Service Radio 3,,,11555 V,tp 65,46.3-48.3,,,IRIB World Service Radio 3,https://www.lyngsat.com/radiochannels/ir/IRIB-World-Service-Radio-3.html,False,IRIB,3/4,30000.0,DVB-S2,Ara,ir
+261.0,Radio Broonmarzi Dari,,,11555 V,tp 65,46.3-48.3,,,Radio Broonmarzi Dari,https://www.lyngsat.com/radiochannels/ir/Radio-Broonmarzi-Dari.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir
+262.0,Radio Ziarat,,,11555 V,tp 65,46.3-48.3,,,Radio Ziarat,https://www.lyngsat.com/radiochannels/ir/Radio-Ziarat.html,False,IRIB,3/4,30000.0,DVB-S2,Per,ir

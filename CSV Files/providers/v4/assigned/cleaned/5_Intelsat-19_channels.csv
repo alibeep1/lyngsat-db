@@ -1,0 +1,295 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,3708 V,tp WH1C,,,,False,,3/4,7000,DVB-S2,
+,(feeds),,,3716 V,tp WH1C,,,,False,,3/4,5630,DVB-S2,
+,(feeds),,,3726 H,tp WH2C,,,,False,,3/4,3260,DVB-S2,
+,(feeds),,,3807 H,tp WH6C,,,,False,,3/4,7500,DVB-S2,
+,(feeds),,,3825 H,tp WH6C,,,,False,,3/4,7500,DVB-S2,
+,(feeds),,,4023 H,tp WH16C,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12390 H,tp 26K,,,,False,,2/3,7200,DVB-S2,
+,(feeds),,,12399 H,tp 26K,,,,False,,2/3,7200,DVB-S2,
+,(feeds),,,12412 V,tp 7K,,,,False,,400,14,DVB-S2,
+,(feeds),,,12441 V,tp 9K,,,,False,,200,7,DVB-S7,
+,(feeds),,,12498 H,tp 12K,,,,False,,200,8,DVB-S2,
+,(feeds),,,12511 H,tp 14K,,,,False,,500,8,DVB-S2,
+,(feeds),,,12520 H,tp 14K,,,,False,,500,8,DVB-S2,
+,(feeds),,,12538 H,tp 14K,,,,False,,500,8,DVB-S2,
+,(feeds),,,12591 V,tp 17K,,,,False,,5/6,7200,DVB-S2,
+,(feeds),,,12600 V,tp 17K,,,,False,,5/6,7200,DVB-S2,
+,(feeds),,,12609 V,tp 17K,,,,False,,5/6,7200,DVB-S2,
+,(feeds),,,12618 V,tp 17K,,,,False,,500,8,DVB-S2,
+,(ABS-CBN feeds),,,3723 H,tp WH2C,,,,False,,7/8,3000,DVB-S3,
+,(ABS-CBN feeds),,,3729 H,tp WH2C,,,,False,,3/4,3260,DVB-S2,
+,(ABS-CBN feeds),,,3733 H,tp WH2C,,,,False,,7/8,3000,DVB-S3,
+,(ABS-CBN feeds),,,3737 H,tp WH2C,,,,False,,7/8,3000,DVB-S3,
+,(EM TV feeds),,,3810 V,tp WH5C,,,,False,,5/6,3333,DVB-S2,
+,Warner Bros. Discovery,,,3840 V,tp WH7C,0.0,"PowerVu,PowerVu",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,3840 V,tp WH7C,0.0,"PowerVu,PowerVu",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,3840 V,tp WH7C,0.0,"PowerVu,PowerVu",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,3840 V,tp WH7C,0.0,"PowerVu,PowerVu",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-1,,3980 H,tp WH14C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-1,,3980 H,tp WH14C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-1,,3980 H,tp WH14C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-1,,3980 H,tp WH14C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,4040 V,tp WH17C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,4040 V,tp WH17C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,4040 V,tp WH17C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,,,4040 V,tp WH17C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-101,,4080 V,tp WH19C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-101,,4080 V,tp WH19C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-101,,4080 V,tp WH19C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+,Warner Bros. Discovery,1-101,,4080 V,tp WH19C,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,True,Warner Bros. Discovery,3/4,30000,DVB-S2,
+301,Animal Planet Taiwan,MPEG-4/HD,4400.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Chi Eng
+302,TLC Taiwan,MPEG-4/HD,4500.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+303,Discovery Channel Taiwan,MPEG-4/HD,4800.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Chi Eng
+333,TLC New Zealand,MPEG-4/SD,4100.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+340,Discovery Channel Philippines,MPEG-4/HD,4600.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+341,TLC Philippines,MPEG-4/HD,4700.0,3840 V,tp WH7C,0.0,PowerVu,,False,Warner Bros. Discovery,3/4,30000,DVB-S2,Eng
+1,EM TV (Papua New Guinea),0-0MPEG-2/SD,103.0,3882 V,tp WH9C,0.0,,,False,Warner Bros. Discovery,3/4,3960,DVB-S2,
+,,,,3900 H,tp WH10C,0.0,,,False,Warner Bros. Discovery,,,,
+,,,,12613 H,tp 34K,,,,False,Warner Bros. Discovery,,,,
+,,,,12646 H,tp 20K,0.0,,,False,Warner Bros. Discovery,,,,
+,,,,12686 H,tp 22K,0.0,,,False,Warner Bros. Discovery,,,,
+,,,,12726 H,tp 24K,0.0,,,False,Warner Bros. Discovery,,,,
+,Sky Pacific,2-2,,3920 V,tp WH11C,0.0,"Nagravision,Verimatrix",,False,Warner Bros. Discovery,3/5,28800,DVB-S2,
+,Paramount International Networks,,,3931 H,tp WH12C,0.0,Viaccess,https://www.lyngsat.com/providers/us/Paramount-International-Networks.html,True,Paramount International Networks,3/4,15000,DVB-S2,
+41,Nickelodeon South East Asia,MPEG-4/HD,4101.0,3931 H,tp WH12C,0.0,Viaccess,,False,Paramount International Networks,3/4,15000,DVB-S2,Eng May Chi Tha
+46,MTV 90s,MPEG-4/HD,4601.0,3931 H,tp WH12C,0.0,Viaccess,,False,Paramount International Networks,3/4,15000,DVB-S2,Eng
+47,MTV Live Australia,MPEG-4/HD,4701.0,3931 H,tp WH12C,0.0,Viaccess,,False,Paramount International Networks,3/4,15000,DVB-S2,Eng
+49,[Paramount Network Asia info card],MPEG-4/SD,4901.0,3931 H,tp WH12C,0.0,Viaccess,,False,Paramount International Networks,3/4,15000,DVB-S2,Eng
+51,Nick Jr Asia,MPEG-4/HD,5101.0,3931 H,tp WH12C,0.0,Viaccess,,False,Paramount International Networks,3/4,15000,DVB-S2,Eng Tha May Chi Ind
+,ABS-CBN,1-101,,3949 H,tp WH12C,0.0,PowerVu,https://www.lyngsat.com/providers/ph/ABS-CBN.html,True,ABS-CBN,2/3,30000,DVB-S2,
+,ABS-CBN,1-101,,3949 H,tp WH12C,0.0,PowerVu,https://www.lyngsat.com/providers/ph/ABS-CBN.html,True,ABS-CBN,2/3,30000,DVB-S2,
+,ABS-CBN,1-101,,4180 H,tp WH24C,0.0,PowerVu,https://www.lyngsat.com/providers/ph/ABS-CBN.html,True,ABS-CBN,2/3,30000,DVB-S2,
+,ABS-CBN,1-101,,4180 H,tp WH24C,0.0,PowerVu,https://www.lyngsat.com/providers/ph/ABS-CBN.html,True,ABS-CBN,2/3,30000,DVB-S2,
+3,Kapamilya Channel,MPEG-4/SD,210.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+12,Kapamilya Channel,MPEG-4/SD,420.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+3,Kapamilya Channel,MPEG-4/SD,210.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+12,Kapamilya Channel,MPEG-4/SD,420.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+5,Jeepney TV,MPEG-4/SD,230.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+5,Jeepney TV,MPEG-4/SD,230.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+6,ANC,MPEG-4/SD,310.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+6,ANC,MPEG-4/SD,310.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+7,Metro Channel,MPEG-4/SD,130.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+7,Metro Channel,MPEG-4/SD,130.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+8,Cinema 1 Philippines,MPEG-4/SD,320.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+8,Cinema 1 Philippines,MPEG-4/SD,320.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+9,Myx Philippines,MPEG-4/SD,140.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+9,Myx Philippines,MPEG-4/SD,140.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Eng
+10,Knowledge Channel,MPEG-4/SD,240.0,3949 H,tp WH12C,0.0,,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+10,Knowledge Channel,MPEG-4/SD,240.0,4180 H,tp WH24C,0.0,,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+11,TeleRadyo Serbisyo,MPEG-4/SD,410.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+11,TeleRadyo Serbisyo,MPEG-4/SD,410.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+18,Cine Mo!,MPEG-4/SD,110.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+18,Cine Mo!,MPEG-4/SD,110.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+19,Kapamilya Channel Luzon,MPEG-4/SD,220.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+19,Kapamilya Channel Luzon,MPEG-4/SD,220.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+20,Kapamilya Channel Mindanao,MPEG-4/SD,330.0,3949 H,tp WH12C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+20,Kapamilya Channel Mindanao,MPEG-4/SD,330.0,4180 H,tp WH24C,0.0,PowerVu,,False,ABS-CBN,2/3,30000,DVB-S2,Tgl
+,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+2,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+7,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+15,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+36,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+51,China Radio International,,,3956 V,tp WH13C,0.0,,https://www.lyngsat.com/providers/cn/China-Radio-International.html,True,China Radio International,3/4,3555,DVB-S3,
+35,China Plus Radio,,,3956 V,tp WH13C,0.0,,,False,China Radio International,3/4,3555,DVB-S3,Eng
+45,CRI Newsradio,,,3956 V,tp WH13C,0.0,,,False,China Radio International,3/4,3555,DVB-S3,Chi
+1,PacificAus TV,4124-1MPEG-4/SD,101.0,3976 V,tp WH13C,0.0,BISS,,False,China Radio International,2/3,3600,DVB-S2,Eng
+1411,Animal Planet Australia,MPEG-4/SD,3100.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1413,Animal Planet New Zealand,MPEG-4/SD,2600.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1414,Discovery Channel New Zealand,MPEG-4/SD,2300.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1416,TLC Australia,MPEG-4/SD,2800.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1418,Eurosport Asia,MPEG-4/HD,3300.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1420,Investigation Discovery Australia,MPEG-4/SD,2400.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1423,Discovery Channel Australia,MPEG-4/HD,3000.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1424,Discovery Turbo Australia,MPEG-4/SD,2200.0,3980 H,tp WH14C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1701,Eve,MPEG-4/HD,1100.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Eng
+1702,Discovery Science Southeast Asia,MPEG-4/HD,1200.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Eng
+1703,DMAX Southeast Asia,MPEG-4/HD,1300.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Eng
+1704*,Animal Planet Southeast Asia,MPEG-4/HD,1400.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Vie Chi
+1705*,Discovery Channel Southeast Asia,MPEG-4/HD,1500.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Ind Vie
+1706*,TLC Southeast Asia,MPEG-4/HD,1600.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Ind May
+1716,Discovery Channel China Hotels,MPEG-4/HD,1700.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng
+1717,Discovery Asia,MPEG-4/HD,1800.0,4040 V,tp WH17C,0.0,PowerVu,,False,China Radio International,3/4,30000,DVB-S2,Eng Tha Vie Eng
+,Intelsat,,,4060 H,tp WH18C,0.0,"BISS 1,Director,PowerVu",https://www.lyngsat.com/providers/lu/Intelsat.html,True,Intelsat,3/4,30000,DVB-S2,
+5,VoA TV Global,MPEG-4/HD,100.0,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+6,VoA/RFA News,MPEG-4/HD,500.0,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Bur
+7,VoA TV China,MPEG-4/HD,800.0,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Chi
+8,VoA TV Africa,MPEG-4/HD,600.0,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+14,BBC News Asia Pacific,MPEG-2/SD,2160.0,4060 H,tp WH18C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng Jpn
+1004,BBC News Asia Pacific,MPEG-4/HD,1400.0,4060 H,tp WH18C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+15,EWTN Asia - Pacific,MPEG-2/SD,2560.0,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+115,EWTN Asia - Pacific,MPEG-2/SD,1151.0,12606 H,tp 18K,0.0,,,False,Intelsat,5/6,30000,DVB-S3,Eng
+26,ESPN Pacific Rim,MPEG-2/SD,2660.0,4060 H,tp WH18C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+101,CNBC Asia-Pacific,MPEG-4/SD,512.0,4060 H,tp WH18C,0.0,Director,,False,Intelsat,3/4,30000,DVB-S2,Eng
+104,CNBC Asia-Pacific,MPEG-4/HD,515.0,4060 H,tp WH18C,0.0,Director,,False,Intelsat,3/4,30000,DVB-S2,Eng
+102,CNBC Australia,MPEG-4/SD,513.0,4060 H,tp WH18C,0.0,Director,,False,Intelsat,3/4,30000,DVB-S2,Eng
+1001,Dog TV,MPEG-4/HD,1000.0,4060 H,tp WH18C,0.0,BISS 1,,False,Intelsat,3/4,30000,DVB-S2,Eng Eng
+1,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+2,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+2,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+3,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+10,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+10,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+11,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+11,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+12,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+12,Voice of America,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+4,VoA Djibouti MW,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+9,VoA Urdu,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Urd
+13,VoA 1,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+13,VoA East Timor,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+15,EWTN Radio,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+16,Radio Free Asia,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+16,Radio Free Asia,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+17,Radio Free Asia,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+17,Radio Free Asia,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+18,VoA Tibetan,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+18,VoA Madagascar,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+19,VoA Mongolia,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+21,Angel 5,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+22,Palau FM,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Eng
+23,VoA Djibouti FM,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+24,Deewa Radio,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+27,Deewa Radio,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+25,Radio Farda,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,Per
+27,Radio Free Ashna,,,4060 H,tp WH18C,0.0,,,False,Intelsat,3/4,30000,DVB-S2,
+68,Discovery Channel Japan,MPEG-4/HD,910.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Jpn Eng
+168,Animal Planet Japan,MPEG-4/HD,1210.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Jpn Eng
+1901,Asian Food Network,MPEG-4/HD,131.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+1902,Food Network Asia,MPEG-4/HD,141.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+1903,Travel Channel Asia,MPEG-4/HD,111.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+1904,HGTV Asia,MPEG-4/HD,121.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+1905,Investigation Discovery New Zealand,MPEG-4/HD,151.0,4080 V,tp WH19C,0.0,PowerVu,,False,Intelsat,3/4,30000,DVB-S2,Eng
+8,KBS World,100-1MPEG-4/HD,81.0,4128 V,tp WH21C,0.0,Xcrypt,,False,Intelsat,3/4,5185,DVB-S5,Kor
+1,YTN World,?-?MPEG-2/SD,308.0,4133 V,tp WH21C,0.0,,,False,Intelsat,3/4,2962,DVB-S2,Kor
+,NHK World Network,2102-101,,4146 H,tp WH22C,0.0,Conax,https://www.lyngsat.com/providers/jp/NHK-World-Network.html,True,NHK World Network,1/2,19910,DVB-S2,
+21,NHK World Japan,MPEG-4/HD,1260.0,4146 H,tp WH22C,0.0,,,False,NHK World Network,1/2,19910,DVB-S2,Eng
+41,NHK World Premium,MPEG-4/HD,1460.0,4146 H,tp WH22C,0.0,Conax,,False,NHK World Network,1/2,19910,DVB-S2,Eng Jpn
+51,NHK World Japan Radio,,,4146 H,tp WH22C,0.0,,,False,NHK World Network,1/2,19910,DVB-S2,
+61,NHK World Japan Radio,,,4146 H,tp WH22C,0.0,,,False,NHK World Network,1/2,19910,DVB-S2,
+71,NHK World Japan Radio,,,4146 H,tp WH22C,0.0,,,False,NHK World Network,1/2,19910,DVB-S2,
+,Pasifika TV,1337-10,,4146 V,tp WH23C,0.0,BISS,https://www.lyngsat.com/providers/nz/Pasifika-TV.html,True,Pasifika TV,3/5,8400,DVB-S2,
+100,Pasifika TV,MPEG-4/HD,101.0,4146 V,tp WH23C,0.0,BISS,https://www.lyngsat.com/providers/nz/Pasifika-TV.html,True,Pasifika TV,3/5,8400,DVB-S2,
+200,[TVNZ test card],MPEG-4/HD,201.0,4146 V,tp WH23C,0.0,,,False,Pasifika TV,3/5,8400,DVB-S2,Eng
+1,RNZ Pacific,,,4146 V,tp WH23C,0.0,,,False,Pasifika TV,3/5,8400,DVB-S2,Eng
+2,531 Pi,,,4146 V,tp WH23C,0.0,,,False,Pasifika TV,3/5,8400,DVB-S2,Eng
+,BBC World Service,3004-319,,4161 V,tp WH23C,0.0,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,3/5,3448,DVB-S2,
+13903,BBC World Service English Americas,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13904,BBC World Service English East Asia,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13905,BBC World Service English South Asia,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13909,BBC World Service English Australasia,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13910,BBC World Service English News,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13913,BBC World Service English News,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13994,BBC World Service English News,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Eng
+13916,BBC World Service Arabic,,,4161 V,tp WH23C,0.0,,,False,BBC World Service,3/5,3448,DVB-S2,Ara
+,Arirang World,MPEG-2/SD,1860.0,4174 V,tp WH23C,0.0,,,False,BBC World Service,3/4,4400,DVB-S4,Eng
+22,(A2Z Channel 11 feeds),,520.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,
+23,(A2Z Channel 11 feeds),,340.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,
+102,ANC Global,MPEG-4/HD,4143.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Eng
+104,TFC Asia-Pacific,MPEG-4/HD,4175.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+111,Cinema One Global,MPEG-4/HD,4383.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+113,Myx USA,MPEG-4/HD,4415.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Eng Eng
+114,Cine Mo! Global,MPEG-4/HD,4431.0,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+48,MOR Philippines,,,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+131,MOR Philippines,,,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+130,DWPM Radyo 630,,,4180 H,tp WH24C,0.0,PowerVu,,False,BBC World Service,2/3,30000,DVB-S2,Tgl
+,(TVNZ feeds),,,12432 H,tp 10K,,,,False,BBC World Service,632,5,DVB-S5,
+,(Channel Nine feeds),,,12550 V,tp 15K,,,,False,BBC World Service,2/3,4280,DVB-S2,
+,Nine Entertainment,4114-1072,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,161,,DVB-S2,
+,Nine Entertainment,4114-1072,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,161,,DVB-S2,
+,Nine Entertainment,4114-1072,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,161,,DVB-S2,
+,Nine Entertainment,4114-1072,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,161,,DVB-S2,
+,Nine Entertainment,4114-1024,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,162,,DVB-S2,
+,Nine Entertainment,4114-1024,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,162,,DVB-S2,
+,Nine Entertainment,4114-1024,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,162,,DVB-S2,
+,Nine Entertainment,4114-1024,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,162,,DVB-S2,
+,Nine Entertainment,4114-1104,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,163,,DVB-S2,
+,Nine Entertainment,4114-1104,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,163,,DVB-S2,
+,Nine Entertainment,4114-1104,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,163,,DVB-S2,
+,Nine Entertainment,4114-1104,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,163,,DVB-S2,
+,Nine Entertainment,4114-1120,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,164,,DVB-S2,
+,Nine Entertainment,4114-1120,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,164,,DVB-S2,
+,Nine Entertainment,4114-1120,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,164,,DVB-S2,
+,Nine Entertainment,4114-1120,,12569 V,tp 15K,0.0,,https://www.lyngsat.com/providers/au/Nine-Entertainment.html,True,Nine Entertainment,164,,DVB-S2,
+1017,Channel Nine Melbourne,MPEG-4/SD,519.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1073,Channel Nine Melbourne,MPEG-4/HD,513.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1074,9 Go!,MPEG-2/SD,517.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1030,9 Go!,MPEG-2/SD,517.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1107,9 Go!,MPEG-2/SD,514.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1123,9 Go!,MPEG-2/SD,513.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1075,9 Life,MPEG-2/SD,520.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1031,9 Life,MPEG-2/SD,520.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1108,9 Life,MPEG-2/SD,516.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1124,9 Life,MPEG-2/SD,514.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1076,9 GEM Melbourne,MPEG-4/HD,521.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1078,9 GEM Melbourne,MPEG-2/SD,512.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1080,9 Rush Melbourne,MPEG-2/SD,522.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,161,,DVB-S2,Eng
+1025,Channel Nine Brisbane,MPEG-4/SD,513.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1152,Channel Nine Brisbane,MPEG-4/HD,514.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1032,9 GEM Brisbane,MPEG-4/HD,521.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1034,9 GEM Brisbane,MPEG-2/SD,512.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1036,9 Rush Brisbane,MPEG-2/SD,522.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,162,,DVB-S2,Eng
+1105,Channel Nine Adelaide,MPEG-4/SD,512.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1106,Channel Nine Adelaide,MPEG-4/HD,515.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1111,9 GEM Adelaide,MPEG-2/SD,513.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1113,9 Rush Adelaide,MPEG-2/SD,518.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,163,,DVB-S2,Eng
+1122,Channel Nine Perth,MPEG-4/HD,515.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1721,Channel Nine Perth,MPEG-4/SD,512.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1125,9 GEM Perth,MPEG-4/HD,517.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1127,9 GEM Perth,MPEG-2/SD,516.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+1129,9 Rush Perth,MPEG-2/SD,519.0,12569 V,tp 15K,0.0,,,False,Nine Entertainment,164,,DVB-S2,Eng
+,EXRN Radio Network,,,12590 H,tp 34K,,,https://www.lyngsat.com/providers/us/EXRN-Radio-Network.html,True,EXRN Radio Network,3/4,2893,DVB-S2,
+50,EXRN Radio Network 1,,,12590 H,tp 34K,,,,False,EXRN Radio Network,3/4,2893,DVB-S2,Eng
+51,EXRN Radio Network 2,,,12590 H,tp 34K,,,,False,EXRN Radio Network,3/4,2893,DVB-S2,Eng
+,Telstra Broadcast Services,,,12606 H,tp 18K,0.0,,https://www.lyngsat.com/providers/au/Telstra-Broadcast-Services.html,True,Telstra Broadcast Services,5/6,30000,DVB-S3,
+41,Mega TV,MPEG-4/SD,4752.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+42,Open Beyond TV,MPEG-4/SD,4768.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+43,Star Channel (Greece),MPEG-4/SD,4784.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+44,Alpha TV,MPEG-4/SD,4800.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+45,Action 24,MPEG-4/SD,4816.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+47,Attica TV,MPEG-4/SD,4848.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+48,One Channel,MPEG-4/SD,4864.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+49,Kanal 7 Avrupa,MPEG-4/SD,4880.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+50,Dream Türk,MPEG-4/SD,4896.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+51,Show Turk,MPEG-4/SD,4912.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+52,ATV Avrupa,MPEG-4/SD,4928.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+53,Habertürk,MPEG-4/SD,4944.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+54,TRT 1,MPEG-4/SD,4960.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+55,Euro D,MPEG-4/SD,4976.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+56,Kanal 5 (North Macedonia),MPEG-4/SD,4992.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Mac
+57,Sitel TV,MPEG-4/SD,5008.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Mac
+58,Arena Sport 1 (Serbia),MPEG-4/SD,5024.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Srp
+60,Pink Premium,MPEG-4/SD,5056.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Srp
+61,Mis TV,MPEG-4/SD,5072.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Srp
+62,Prva Srpska TV,MPEG-4/SD,5088.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Srp
+63,Canal 24 Horas,MPEG-4/SD,5104.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Spa
+64,TVE Internacional Asia,MPEG-4/SD,5120.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Spa
+65,RTP Internacional Ásia,MPEG-4/SD,5136.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Por
+101,Ant1 Pacific,MPEG-4/SD,1011.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Gre
+102,Rai Italia Australia,MPEG-4/SD,1021.0,12606 H,tp 18K,0.0,Irdeto,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ita
+106,Alkarma TV Middle East,MPEG-2/SD,1061.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+107,Oman TV,MPEG-2/SD,1071.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+108,Al-Fady TV,MPEG-2/SD,1081.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+109,ERI TV 1,MPEG-4/SD,1091.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,
+111,KTV 1 (Kuwait),MPEG-2/SD,1111.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+112,SSBC TV,MPEG-2/SD,1121.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+113,TRT Türk,MPEG-2/SD,1131.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tur
+114,Daystar TV,MPEG-2/SD,1141.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+116,SBN International,MPEG-2/SD,1161.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+117,The Kingdom Sat,MPEG-2/SD,1171.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+118,3ABN International,MPEG-4/SD,1181.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+119,Angel TV Australia,MPEG-2/SD,1191.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tam
+120,Supreme Master TV,MPEG-2/SD,1201.0,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+201,K Mart Radio 1,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+202,Radio Oman,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+204,Vision Christian Radio,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+205,Dimtsi Hafash,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,
+206,Radio Zara FM,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Tir
+207,Radio Numa,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,
+208,3ABN Radio Network,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+209,3ABN Australia Radio,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+210,Raw FM,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng
+211,Kuwait Radio One,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+212,Kuwait Radio Two,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+213,SSBC Radio,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Ara
+214,RSN Racing & Sport,,,12606 H,tp 18K,0.0,,,False,Telstra Broadcast Services,5/6,30000,DVB-S3,Eng

@@ -1,0 +1,979 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,TV Globo Rio de Janeiro,,,3720 H,tp 1ANC,,,,,,False,,PAL,,PAL,Por,,
+,TV Verdade,,,3730 V,tp 1BNC,,,,TV Verdade,https://www.lyngsat.com/tvchannels/br/TV-Verdade.html,False,,PAL,,PAL,Por,br,
+1.0,TV Verdade,?-?MPEG-4/HD,273.0,4105 V,tp 10BNC,,,,TV Verdade,https://www.lyngsat.com/tvchannels/br/TV-Verdade.html,False,,5/6,3200.0,DVB-S2,Por,br,
+1033.0,TV Verdade,MPEG-4/HD,3301.0,11780 H,tp 2ANK,0.0,,,TV Verdade,https://www.lyngsat.com/tvchannels/br/TV-Verdade.html,False,,2/3,29900.0,DVB-S2,Por,br,
+13984.0,TV Verdes Mares Cariri,?-?MPEG-4/HD,273.0,3734 H,tp 1ANC,,"Verimatrix (B),Irdeto,Nagravision",,TV Verdes Mares Cariri,https://www.lyngsat.com/tvchannels/br/TV-Verdes-Mares-Cariri.html,False,,2/3,5000.0,DVB-S2,Por,br,
+351.0,TV Verdes Mares Cariri,MPEG-4/HD,3933.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,TV Verdes Mares Cariri,https://www.lyngsat.com/tvchannels/br/TV-Verdes-Mares-Cariri.html,False,,2/3,29900.0,DVB-S2,Por,br,
+59360.0,SBT Nacional,?-?MPEG-4/HD,513.0,3744 V,tp 1BNC,,"Verimatrix (B),Nagravision",,SBT Nacional,https://www.lyngsat.com/tvchannels/br/SBT-Nacional.html,False,,3/4,5700.0,DVB-S2,Por,br,
+,SBT Nacional,,,4170 V,tp 12BNC,,,,SBT Nacional,https://www.lyngsat.com/tvchannels/br/SBT-Nacional.html,False,,PAL,,PAL,Por,br,
+325.0,SBT Nacional,MPEG-4/HD,3343.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,SBT Nacional,https://www.lyngsat.com/tvchannels/br/SBT-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1.0,TV Horizonte,?-?MPEG-4/HD,512.0,3744 H,tp 2ANC,,,,TV Horizonte,https://www.lyngsat.com/tvchannels/br/TV-Horizonte.html,False,,3/5,2500.0,DVB-S2,Por,br,
+1.0,TV Horizonte,?-?MPEG-4/HD,512.0,3744 H,tp 2ANC,,,,TV Horizonte,https://www.lyngsat.com/tvchannels/br/TV-Horizonte.html,False,,3/5,2500.0,DVB-S2,Por,br,
+320.0,TV Horizonte,MPEG-4/HD,5293.0,12120 V,tp 11BNK,0.0,,,TV Horizonte,https://www.lyngsat.com/tvchannels/br/TV-Horizonte.html,False,,2/3,29900.0,DVB-S2,Por,br,
+320.0,TV Horizonte,MPEG-4/HD,5293.0,12120 V,tp 11BNK,0.0,,,TV Horizonte,https://www.lyngsat.com/tvchannels/br/TV-Horizonte.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1.0,América AM 750,,,3744 H,tp 2ANC,,,,América AM 750,https://www.lyngsat.com/radiochannels/br/America-AM-750.html,False,,3/5,2500.0,DVB-S2,Por,br,
+1.0,Cultura AM 830,,,3744 H,tp 2ANC,,,,Cultura AM 830,https://www.lyngsat.com/radiochannels/br/Cultura-AM-830.html,False,,3/5,2500.0,DVB-S2,Por,br,
+1.0,Canal Gov,MPEG-2/SD,101.0,3747 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,5000.0,DVB-S5,Por,br,
+1.0,Canal Gov,MPEG-2/SD,101.0,3747 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,5000.0,DVB-S5,Por,br,
+1.0,Canal Gov,MPEG-2/SD,101.0,3747 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,5000.0,DVB-S5,Por,br,
+1.0,Canal Gov,MPEG-2/SD,101.0,3747 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,5000.0,DVB-S5,Por,br,
+16161.0,Canal Gov,MPEG-4/HD,201.0,3756 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16161.0,Canal Gov,MPEG-4/HD,201.0,3756 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16161.0,Canal Gov,MPEG-4/HD,201.0,3756 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16161.0,Canal Gov,MPEG-4/HD,201.0,3756 H,tp 2ANC,,,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,3/4,7500.0,DVB-S2,Por,br,
+805.0,Canal Gov,MPEG-4/HD,3963.0,12000 V,tp 8BNK,0.0,Nagravision,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,2/3,29900.0,DVB-S2,Por,br,
+805.0,Canal Gov,MPEG-4/HD,3963.0,12000 V,tp 8BNK,0.0,Nagravision,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,2/3,29900.0,DVB-S2,Por,br,
+805.0,Canal Gov,MPEG-4/HD,3963.0,12000 V,tp 8BNK,0.0,Nagravision,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,2/3,29900.0,DVB-S2,Por,br,
+805.0,Canal Gov,MPEG-4/HD,3963.0,12000 V,tp 8BNK,0.0,Nagravision,,Canal Gov,https://www.lyngsat.com/tvchannels/br/Canal-Gov.html,False,,2/3,29900.0,DVB-S2,Por,br,
+2.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+2.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+2.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+2.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+8.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+8.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+8.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+8.0,Rádio Nacional FM,,,3747 H,tp 2ANC,,,,Rádio Nacional FM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+3.0,MEC FM,,,3747 H,tp 2ANC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+3.0,MEC FM,,,3747 H,tp 2ANC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+3.0,MEC FM,,,3747 H,tp 2ANC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+3.0,MEC FM,,,3747 H,tp 2ANC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+23333.0,MEC FM,,,4094 V,tp 10BNC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,11429.0,DVB-S2,Por,br,
+23333.0,MEC FM,,,4094 V,tp 10BNC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,11429.0,DVB-S2,Por,br,
+23333.0,MEC FM,,,4094 V,tp 10BNC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,11429.0,DVB-S2,Por,br,
+23333.0,MEC FM,,,4094 V,tp 10BNC,,,,MEC FM,https://www.lyngsat.com/radiochannels/br/MEC-FM.html,False,,3/4,11429.0,DVB-S2,Por,br,
+4.0,Rádio Nacional Amazônia,,,3747 H,tp 2ANC,,,,Rádio Nacional Amazônia,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Amazonia.html,False,,3/4,5000.0,DVB-S5,Por,br,
+4.0,Rádio Nacional Amazônia,,,3747 H,tp 2ANC,,,,Rádio Nacional Amazônia,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Amazonia.html,False,,3/4,5000.0,DVB-S5,Por,br,
+5.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+5.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+5.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+5.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+6.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+6.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+6.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+6.0,Rádio Nacional Brasília AM,,,3747 H,tp 2ANC,,,,Rádio Nacional Brasília AM,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Brasilia-AM.html,False,,3/4,5000.0,DVB-S5,Por,br,
+7.0,Rádio Nacional Rio de Janeiro,,,3747 H,tp 2ANC,,,,Rádio Nacional Rio de Janeiro,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Rio-de-Janeiro.html,False,,3/4,5000.0,DVB-S5,Por,br,
+7.0,Rádio Nacional Rio de Janeiro,,,3747 H,tp 2ANC,,,,Rádio Nacional Rio de Janeiro,https://www.lyngsat.com/radiochannels/br/Radio-Nacional-Rio-de-Janeiro.html,False,,3/4,5000.0,DVB-S5,Por,br,
+,,,,3756 H,tp 2ANC,,,,,,False,,3/4,7500.0,DVB-S2,,,
+,,,,3788 H,tp 3ANC,,,,,,False,,333,8.0,DVB-S2,,,
+,,,,3854 V,tp 4BNC,,,,,,False,,,,,,,
+,,,,3870 H,tp 5ANC,,,,,,False,,,,,,,
+,,,,3922 H,tp 6ANC,,,,,,False,,,,,,,
+,,,,3948 V,tp 6BNC,,"Verimatrix (B),Irdeto,Nagravision",,,,False,,2/3,17500.0,DVB-S2,,,
+,,1-1,,4045 H,tp 9ANC,,,,,,False,,2/3,7500.0,DVB-S2,,,
+,,,,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,,,False,,2/3,29900.0,DVB-S2,,,
+,,,,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,,,False,,2/3,29900.0,DVB-S2,,,
+,,,,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,,,False,,2/3,29900.0,DVB-S2,,,
+,,,,12160 V,tp 12BNK,0.0,,,,,False,,2/3,29900.0,DVB-S2,,,
+,,,,12180 H,tp 12ANK,0.0,,,,,False,,,,,,,
+16160.0,TV Brasil,MPEG-4/HD,101.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16160.0,TV Brasil,MPEG-4/HD,101.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16160.0,TV Brasil,MPEG-4/HD,101.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16184.0,TV Brasil,MPEG-4/1seg,501.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16184.0,TV Brasil,MPEG-4/1seg,501.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16184.0,TV Brasil,MPEG-4/1seg,501.0,3756 H,tp 2ANC,,,,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,3/4,7500.0,DVB-S2,Por,br,
+909.0,TV Brasil,MPEG-4/HD,2863.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,2/3,29900.0,DVB-S2,Por,br,
+909.0,TV Brasil,MPEG-4/HD,2863.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,2/3,29900.0,DVB-S2,Por,br,
+909.0,TV Brasil,MPEG-4/HD,2863.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,TV Brasil,https://www.lyngsat.com/tvchannels/br/TV-Brasil.html,False,,2/3,29900.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16162.0,Canal Educação Brasilia,MPEG-4/HD,301.0,3756 H,tp 2ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,3/4,7500.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+30337.0,Canal Educação Brasilia,MPEG-4/HD,501.0,3788 H,tp 3ANC,,,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,333,8.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+910.0,Canal Educação Brasilia,MPEG-4/HD,2873.0,11720 V,tp 1BNK,0.0,Verimatrix,,Canal Educação Brasilia,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Brasilia.html,False,,2/3,29900.0,DVB-S2,Por,br,
+16163.0,Canal Saúde,MPEG-4/SD,401.0,3756 H,tp 2ANC,,,,Canal Saúde,https://www.lyngsat.com/tvchannels/br/Canal-Saude.html,False,,3/4,7500.0,DVB-S2,Por,br,
+16163.0,Canal Saúde,MPEG-4/SD,401.0,3756 H,tp 2ANC,,,,Canal Saúde,https://www.lyngsat.com/tvchannels/br/Canal-Saude.html,False,,3/4,7500.0,DVB-S2,Por,br,
+1.0,Canal Saúde,?-?MPEG-2/SD,256.0,4085 V,tp 10BNC,,,,Canal Saúde,https://www.lyngsat.com/tvchannels/br/Canal-Saude.html,False,,3/4,4400.0,DVB-S4,Por,br,
+1.0,Canal Saúde,?-?MPEG-2/SD,256.0,4085 V,tp 10BNC,,,,Canal Saúde,https://www.lyngsat.com/tvchannels/br/Canal-Saude.html,False,,3/4,4400.0,DVB-S4,Por,br,
+1.0,Terraviva,?-?/HD,513.0,3762 H,tp 2ANC,,,,Terraviva,https://www.lyngsat.com/tvchannels/br/Terraviva.html,False,,3/4,4166.0,DVB-S2,Por,br,
+324.0,Terraviva,MPEG-4/HD,3333.0,12160 V,tp 12BNK,0.0,,,Terraviva,https://www.lyngsat.com/tvchannels/br/Terraviva.html,False,,2/3,29900.0,DVB-S2,Por,br,
+13.0,Band Sat,?-?MPEG-4/HD,512.0,3768 H,tp 2ANC,,"Verimatrix (B),Nagravision",,,,False,,3/5,4166.0,DVB-S2,Por,,
+1.0,TV Assembleia Legislativa do Estado de Mato Grosso,?-?MPEG-4/HD,257.0,3768 V,tp 2BNC,,,,,,False,,3/4,3750.0,DVB-S2,Por,,
+1.0,Canal Rural (Brazil),?-?MPEG-2/SD,1100.0,3772 V,tp 2BNC,,,,Canal Rural (Brazil),https://www.lyngsat.com/tvchannels/br/Canal-Rural.html,False,,3/4,3750.0,DVB-S2,Por,br,
+1.0,Canal Rural (Brazil),?-?MPEG-2/SD,1100.0,3772 V,tp 2BNC,,,,Canal Rural (Brazil),https://www.lyngsat.com/tvchannels/br/Canal-Rural.html,False,,3/4,3750.0,DVB-S2,Por,br,
+346.0,Canal Rural (Brazil),MPEG-4/HD,3883.0,12000 V,tp 8BNK,0.0,,,Canal Rural (Brazil),https://www.lyngsat.com/tvchannels/br/Canal-Rural.html,False,,2/3,29900.0,DVB-S2,Por,br,
+346.0,Canal Rural (Brazil),MPEG-4/HD,3883.0,12000 V,tp 8BNK,0.0,,,Canal Rural (Brazil),https://www.lyngsat.com/tvchannels/br/Canal-Rural.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1.0,Rede Super,?-?MPEG-4/HD,337.0,3773 H,tp 2ANC,,,,Rede Super,https://www.lyngsat.com/tvchannels/br/Rede-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+1.0,Rede Super,?-?MPEG-4/HD,337.0,3773 H,tp 2ANC,,,,Rede Super,https://www.lyngsat.com/tvchannels/br/Rede-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+347.0,Rede Super,MPEG-4/HD,3893.0,12000 V,tp 8BNK,0.0,,,Rede Super,https://www.lyngsat.com/tvchannels/br/Rede-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+347.0,Rede Super,MPEG-4/HD,3893.0,12000 V,tp 8BNK,0.0,,,Rede Super,https://www.lyngsat.com/tvchannels/br/Rede-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1.0,Rádio Super,,,3773 H,tp 2ANC,,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+1.0,Rádio Super,,,3773 H,tp 2ANC,,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+1.0,Rádio Super,,,3773 H,tp 2ANC,,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+1.0,Rádio Super,,,3773 H,tp 2ANC,,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,5/6,4166.0,DVB-S2,Por,br,
+347.0,Rádio Super,,,12000 V,tp 8BNK,0.0,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+347.0,Rádio Super,,,12000 V,tp 8BNK,0.0,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+347.0,Rádio Super,,,12000 V,tp 8BNK,0.0,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+347.0,Rádio Super,,,12000 V,tp 8BNK,0.0,,,Rádio Super,https://www.lyngsat.com/radiochannels/br/Radio-Super.html,False,,2/3,29900.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30334.0,TV Cultura Nacional,MPEG-4/SD,410.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30336.0,TV Cultura Nacional,MPEG-4/HD,611.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+30360.0,TV Cultura Nacional,MPEG-4/1seg,612.0,3788 H,tp 3ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,333,8.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+3.0,TV Cultura Nacional,MPEG-4/HD,310.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+4.0,TV Cultura Nacional,MPEG-2/SD,410.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59232.0,TV Cultura Nacional,MPEG-4/HD,610.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+59256.0,TV Cultura Nacional,MPEG-4/1seg,910.0,3830 H,tp 4ANC,,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,5/6,13333.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1001.0,TV Cultura Nacional,HEVC/HD,301.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1014.0,TV Cultura Nacional,MPEG-4/HD,1401.0,11740 H,tp 1ANK,0.0,,,TV Cultura Nacional,https://www.lyngsat.com/tvchannels/br/TV-Cultura-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+,Rede TV! Nacional,,,3790 V,tp 2BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,PAL,,PAL,Por,br,
+,Rede TV! Nacional,,,3790 V,tp 2BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,PAL,,PAL,Por,br,
+,Rede TV! Nacional,,,3790 V,tp 2BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,PAL,,PAL,Por,br,
+59617.0,Rede TV! Nacional,MPEG-4/HD,289.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+59617.0,Rede TV! Nacional,MPEG-4/HD,289.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+59617.0,Rede TV! Nacional,MPEG-4/HD,289.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+59640.0,Rede TV! Nacional,MPEG-4/1seg,529.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+59640.0,Rede TV! Nacional,MPEG-4/1seg,529.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+59640.0,Rede TV! Nacional,MPEG-4/1seg,529.0,4155 V,tp 11BNC,,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,5/6,7500.0,DVB-S2,Por,br,
+1002.0,Rede TV! Nacional,MPEG-4/HD,101.0,11740 H,tp 1ANK,0.0,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1002.0,Rede TV! Nacional,MPEG-4/HD,101.0,11740 H,tp 1ANK,0.0,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+1002.0,Rede TV! Nacional,MPEG-4/HD,101.0,11740 H,tp 1ANK,0.0,,,Rede TV! Nacional,https://www.lyngsat.com/tvchannels/br/Rede-TV-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+,Band Nacional,,,3810 H,tp 3ANC,,,,Band Nacional,https://www.lyngsat.com/tvchannels/br/Band-Nacional.html,False,,PAL,,PAL,Por,br,
+321.0,Band Nacional,MPEG-4/HD,3863.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band Nacional,https://www.lyngsat.com/tvchannels/br/Band-Nacional.html,False,,2/3,29900.0,DVB-S2,Por,br,
+,TV Morena Campo Grande,,,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,,br,br
+,TV Morena Campo Grande,,,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,,br,br
+,TV Morena Campo Grande,,,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,,br,br
+,TV Morena Campo Grande,MPEG-4/1seg,301.0,3816 V,tp 3BNC,,,https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+,TV Morena Campo Grande,MPEG-4/1seg,301.0,3816 V,tp 3BNC,,,https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+,TV Morena Campo Grande,MPEG-4/1seg,301.0,3816 V,tp 3BNC,,,https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+30144.0,TV Morena Campo Grande,MPEG-4/HD,201.0,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+30144.0,TV Morena Campo Grande,MPEG-4/HD,201.0,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+30144.0,TV Morena Campo Grande,MPEG-4/HD,201.0,3816 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,br
+306.0,TV Morena Campo Grande,MPEG-4/HD,5153.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,29900.0,DVB-S2,Por,br,br
+306.0,TV Morena Campo Grande,MPEG-4/HD,5153.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,29900.0,DVB-S2,Por,br,br
+306.0,TV Morena Campo Grande,MPEG-4/HD,5153.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Morena-Campo-Grande.html,TV Morena Campo Grande,https://www.lyngsat.com/tvchannels/br/TV-Morena-Campo-Grande.html,True,TV Morena Campo Grande,2/3,29900.0,DVB-S2,Por,br,br
+30146.0,Morena FM,,,3816 V,tp 3BNC,,,,Morena FM,https://www.lyngsat.com/radiochannels/br/Morena-FM.html,False,TV Morena Campo Grande,2/3,7500.0,DVB-S2,Por,br,
+,TV Centro América Cuiabá,,,3825 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,,br,br
+,TV Centro América Cuiabá,,,3825 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,,br,br
+30112.0,TV Centro América Cuiabá,MPEG-4/HD,104.0,3825 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,Por,br,br
+30112.0,TV Centro América Cuiabá,MPEG-4/HD,104.0,3825 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,Por,br,br
+304.0,TV Centro América Cuiabá,MPEG-4/HD,5133.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,29900.0,DVB-S2,Por,br,br
+304.0,TV Centro América Cuiabá,MPEG-4/HD,5133.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Centro-America-Cuiaba.html,TV Centro América Cuiabá,https://www.lyngsat.com/tvchannels/br/TV-Centro-America-Cuiaba.html,True,TV Centro América Cuiabá,2/3,29900.0,DVB-S2,Por,br,br
+30136.0,Easy Cuiabá,,,3825 V,tp 3BNC,,Irdeto,,Easy Cuiabá,https://www.lyngsat.com/radiochannels/br/Easy-Cuiaba.html,False,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,Por,br,
+30136.0,Easy Cuiabá,,,3825 V,tp 3BNC,,Irdeto,,Easy Cuiabá,https://www.lyngsat.com/radiochannels/br/Easy-Cuiaba.html,False,TV Centro América Cuiabá,2/3,7500.0,DVB-S2,Por,br,
+,Fundação Padre Anchieta,,,3830 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Fundacao-Padre-Anchieta.html,,,True,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,,,br
+5.0,TV Rá Tim Bum,MPEG-2/SD,510.0,3830 H,tp 4ANC,,,,TV Rá Tim Bum,https://www.lyngsat.com/tvchannels/br/TV-Ra-Tim-Bum.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+5.0,TV Rá Tim Bum,MPEG-2/SD,510.0,3830 H,tp 4ANC,,,,TV Rá Tim Bum,https://www.lyngsat.com/tvchannels/br/TV-Ra-Tim-Bum.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+10.0,TV Rá Tim Bum,MPEG-4/HD,1010.0,3830 H,tp 4ANC,,,,TV Rá Tim Bum,https://www.lyngsat.com/tvchannels/br/TV-Ra-Tim-Bum.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+10.0,TV Rá Tim Bum,MPEG-4/HD,1010.0,3830 H,tp 4ANC,,,,TV Rá Tim Bum,https://www.lyngsat.com/tvchannels/br/TV-Ra-Tim-Bum.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+59233.0,Univesp TV,MPEG-4/SD,710.0,3830 H,tp 4ANC,,,,Univesp TV,https://www.lyngsat.com/tvchannels/br/Univesp-TV.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+59234.0,TV Educação,MPEG-4/SD,810.0,3830 H,tp 4ANC,,,,TV Educação,https://www.lyngsat.com/tvchannels/br/TV-Educacao.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+1.0,Rádio Cultura Brasil,,,3830 H,tp 4ANC,,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+1.0,Rádio Cultura Brasil,,,3830 H,tp 4ANC,,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+1.0,Rádio Cultura Brasil,,,3830 H,tp 4ANC,,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+1.0,Rádio Cultura Brasil,,,3830 H,tp 4ANC,,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+239.0,Rádio Cultura Brasil,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+239.0,Rádio Cultura Brasil,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+239.0,Rádio Cultura Brasil,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+239.0,Rádio Cultura Brasil,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura Brasil,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-Brasil.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+2.0,Rádio Cultura FM,,,3830 H,tp 4ANC,,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+2.0,Rádio Cultura FM,,,3830 H,tp 4ANC,,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+2.0,Rádio Cultura FM,,,3830 H,tp 4ANC,,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+2.0,Rádio Cultura FM,,,3830 H,tp 4ANC,,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,5/6,13333.0,DVB-S2,Por,br,
+238.0,Rádio Cultura FM,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+238.0,Rádio Cultura FM,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+238.0,Rádio Cultura FM,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+238.0,Rádio Cultura FM,,,11720 V,tp 1BNK,0.0,,,Rádio Cultura FM,https://www.lyngsat.com/radiochannels/br/Radio-Cultura-FM.html,False,Fundação Padre Anchieta,2/3,29900.0,DVB-S2,Por,br,
+9536.0,TV Bahia,1-0MPEG-4/HD,273.0,3834 V,tp 3BNC,,"Verimatrix (B),Irdeto,Nagravision",,,,False,Fundação Padre Anchieta,2/3,7500.0,DVB-S2,Por,,
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+,Rede Gospel,,,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+1.0,Rede Gospel,/HD,273.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+3.0,Rede Gospel,/1seg,529.0,3840 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,000,25.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+349.0,Rede Gospel,MPEG-4/HD,3913.0,12000 V,tp 8BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Gospel.html,Rede Gospel,https://www.lyngsat.com/tvchannels/br/Rede-Gospel.html,True,Rede Gospel,2/3,29900.0,DVB-S2,Por,br,br
+2.0,Gospel FM,,,3840 H,tp 4ANC,,,,Gospel FM,https://www.lyngsat.com/radiochannels/br/Gospel-FM.html,False,Rede Gospel,000,25.0,DVB-S2,Por,br,
+2.0,Gospel FM,,,3840 H,tp 4ANC,,,,Gospel FM,https://www.lyngsat.com/radiochannels/br/Gospel-FM.html,False,Rede Gospel,000,25.0,DVB-S2,Por,br,
+,Boas Novas,,,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,,br,br
+,Boas Novas,,,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,,br,br
+,Boas Novas,,,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,,br,br
+,Boas Novas,,,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,,br,br
+1.0,Boas Novas,MPEG-4/HD,273.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1.0,Boas Novas,MPEG-4/HD,273.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1.0,Boas Novas,MPEG-4/HD,273.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1.0,Boas Novas,MPEG-4/HD,273.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1000.0,Boas Novas,MPEG-4/1seg,529.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1000.0,Boas Novas,MPEG-4/1seg,529.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1000.0,Boas Novas,MPEG-4/1seg,529.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1000.0,Boas Novas,MPEG-4/1seg,529.0,3847 H,tp 4ANC,,,https://www.lyngsat.com/providers/br/Boas-Novas.html,Boas Novas,https://www.lyngsat.com/tvchannels/br/Boas-Novas.html,True,Boas Novas,3/4,2500.0,DVB-S2,Por,br,br
+1.0,Record Rede,?-?MPEG-4/HD,273.0,3875 V,tp 4BNC,,,,,,False,Boas Novas,2/3,7500.0,DVB-S2,Por Qaa,,
+,TV Anhanguera Goiânia,,,3887 V,tp 5BNC,,"Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,,br,br
+,TV Anhanguera Goiânia,,,3887 V,tp 5BNC,,"Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,,br,br
+62.0,TV Anhanguera Goiânia,MPEG-4/HD,201.0,3887 V,tp 5BNC,,"Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,Por,br,br
+62.0,TV Anhanguera Goiânia,MPEG-4/HD,201.0,3887 V,tp 5BNC,,"Irdeto,Nagravision",https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,Por,br,br
+0.0,TV Anhanguera Goiânia,MPEG-4/1seg,301.0,3887 V,tp 5BNC,,Irdeto,https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,Por,br,br
+0.0,TV Anhanguera Goiânia,MPEG-4/1seg,301.0,3887 V,tp 5BNC,,Irdeto,https://www.lyngsat.com/providers/br/TV-Anhanguera-Goiania.html,TV Anhanguera Goiânia,https://www.lyngsat.com/tvchannels/br/TV-Anhanguera-Goiania.html,True,TV Anhanguera Goiânia,2/3,7500.0,DVB-S2,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,3890 H,tp 5ANC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,PAL,,PAL,Por,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+,Rede Vida,,,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60352.0,Rede Vida,MPEG-4/HD,501.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+60376.0,Rede Vida,MPEG-4/1seg,500.0,4115 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,5000.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+316.0,Rede Vida,MPEG-4/HD,5253.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Vida.html,Rede Vida,https://www.lyngsat.com/tvchannels/br/Rede-Vida.html,True,Rede Vida,2/3,29900.0,DVB-S2,Por,br,br
+1.0,TV Novo Tempo Brasil,?-?MPEG-2/SD,1200.0,3893 V,tp 5BNC,,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+1.0,TV Novo Tempo Brasil,?-?MPEG-2/SD,1200.0,3893 V,tp 5BNC,,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+,TV Novo Tempo Brasil,,,4130 V,tp 11BNC,,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,PAL,,PAL,Por,us,
+,TV Novo Tempo Brasil,,,4130 V,tp 11BNC,,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,PAL,,PAL,Por,us,
+307.0,TV Novo Tempo Brasil,MPEG-4/HD,5163.0,12120 V,tp 11BNK,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+307.0,TV Novo Tempo Brasil,MPEG-4/HD,5163.0,12120 V,tp 11BNK,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+1.0,Rádio Novo Tempo,,,3893 V,tp 5BNC,,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+1.0,Rádio Novo Tempo,,,3893 V,tp 5BNC,,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+1.0,Rádio Novo Tempo,,,3893 V,tp 5BNC,,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+1.0,Rádio Novo Tempo,,,3893 V,tp 5BNC,,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,3/4,2170.0,DVB-S2,Por,us,
+394.0,Rádio Novo Tempo,,,12000 V,tp 8BNK,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+394.0,Rádio Novo Tempo,,,12000 V,tp 8BNK,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+394.0,Rádio Novo Tempo,,,12000 V,tp 8BNK,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+394.0,Rádio Novo Tempo,,,12000 V,tp 8BNK,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,us,
+41.0,RPC Curitiba,?-?MPEG-4/SD,260.0,3897 V,tp 5BNC,,"Irdeto,Nagravision",,,,False,Rede Vida,000,25.0,DVB-S2,Por,,
+3.0,RBS TV Porto Alegre,?-?MPEG-4/HD,273.0,3905 V,tp 5BNC,,"Verimatrix (B),Irdeto,Nagravision",,,,False,Rede Vida,2/3,7500.0,DVB-S2,Por,,
+4.0,Gaúcha Porto Alegre,,,3905 V,tp 5BNC,,,,Gaúcha Porto Alegre,https://www.lyngsat.com/radiochannels/br/Gaucha-Porto-Alegre.html,False,Rede Vida,2/3,7500.0,DVB-S2,Por,br,
+4.0,Gaúcha Porto Alegre,,,3905 V,tp 5BNC,,,,Gaúcha Porto Alegre,https://www.lyngsat.com/radiochannels/br/Gaucha-Porto-Alegre.html,False,Rede Vida,2/3,7500.0,DVB-S2,Por,br,
+1.0,TV Globo São Paulo,?-?MPEG-4/HD,4097.0,3914 V,tp 5BNC,,"Verimatrix (B),Nagravision",,,,False,Rede Vida,2/3,7500.0,DVB-S2,Por,,
+1.0,TV Justiça,?-?MPEG-2/SD,389.0,3925 H,tp 6ANC,,,,TV Justiça,https://www.lyngsat.com/tvchannels/br/TV-Justica.html,False,Rede Vida,3/4,3328.0,DVB-S3,Por,br,
+1.0,TV Justiça,?-?MPEG-2/SD,389.0,3925 H,tp 6ANC,,,,TV Justiça,https://www.lyngsat.com/tvchannels/br/TV-Justica.html,False,Rede Vida,3/4,3328.0,DVB-S3,Por,br,
+811.0,TV Justiça,MPEG-4/HD,2883.0,11720 V,tp 1BNK,0.0,Nagravision,,TV Justiça,https://www.lyngsat.com/tvchannels/br/TV-Justica.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,br,
+811.0,TV Justiça,MPEG-4/HD,2883.0,11720 V,tp 1BNK,0.0,Nagravision,,TV Justiça,https://www.lyngsat.com/tvchannels/br/TV-Justica.html,False,Rede Vida,2/3,29900.0,DVB-S2,Por,br,
+1.0,Rádio Justiça,,,3925 H,tp 6ANC,,,,Rádio Justiça,https://www.lyngsat.com/radiochannels/br/Radio-Justica.html,False,Rede Vida,3/4,3328.0,DVB-S3,Por,br,
+,EPTV Sul de Minas,,,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,,br,br
+,EPTV Sul de Minas,,,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,,br,br
+,EPTV Sul de Minas,,,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,,br,br
+23424.0,EPTV Sul de Minas,MPEG-4/HD,273.0,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+23424.0,EPTV Sul de Minas,MPEG-4/HD,273.0,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+23424.0,EPTV Sul de Minas,MPEG-4/HD,273.0,3925 V,tp 6BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+0.0,EPTV Sul de Minas,MPEG-4/1seg,529.0,3925 V,tp 6BNC,,Irdeto,https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+0.0,EPTV Sul de Minas,MPEG-4/1seg,529.0,3925 V,tp 6BNC,,Irdeto,https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+0.0,EPTV Sul de Minas,MPEG-4/1seg,529.0,3925 V,tp 6BNC,,Irdeto,https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,5000.0,DVB-S2,Por,br,br
+303.0,EPTV Sul de Minas,MPEG-4/HD,5123.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,29900.0,DVB-S2,Por,br,br
+303.0,EPTV Sul de Minas,MPEG-4/HD,5123.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,29900.0,DVB-S2,Por,br,br
+303.0,EPTV Sul de Minas,MPEG-4/HD,5123.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/EPTV-Sul-de-Minas.html,EPTV Sul de Minas,https://www.lyngsat.com/tvchannels/br/EPTV-Sul-de-Minas.html,True,EPTV Sul de Minas,2/3,29900.0,DVB-S2,Por,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+,TV Câmara,,,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16512.0,TV Câmara,MPEG-4/SD,1002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16536.0,TV Câmara,MPEG-4/1seg,5002.0,3931 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3542.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16547.0,TV Câmara,MPEG-4/SD,3001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Camara.html,TV Câmara,https://www.lyngsat.com/tvchannels/br/TV-Camara.html,True,TV Câmara,2/3,3750.0,DVB-S2,Por,br,br
+16515.0,TV Senado,MPEG-4/SD,2002.0,3931 H,tp 6ANC,,,,TV Senado,https://www.lyngsat.com/tvchannels/br/TV-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16515.0,TV Senado,MPEG-4/SD,2002.0,3931 H,tp 6ANC,,,,TV Senado,https://www.lyngsat.com/tvchannels/br/TV-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16537.0,TV Senado,MPEG-4/1seg,7002.0,3931 H,tp 6ANC,,,,TV Senado,https://www.lyngsat.com/tvchannels/br/TV-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16537.0,TV Senado,MPEG-4/1seg,7002.0,3931 H,tp 6ANC,,,,TV Senado,https://www.lyngsat.com/tvchannels/br/TV-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16516.0,[Rádio Câmara test card],MPEG-4/HD,6002.0,3931 H,tp 6ANC,,,,,,False,TV Câmara,2/3,3542.0,DVB-S2,Por,,
+16517.0,Rádio Senado,,,3931 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16517.0,Rádio Senado,,,3931 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16517.0,Rádio Senado,,,3931 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16517.0,Rádio Senado,,,3931 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+16548.0,Rádio Senado,,,3935 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3750.0,DVB-S2,Por,br,
+16548.0,Rádio Senado,,,3935 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3750.0,DVB-S2,Por,br,
+16548.0,Rádio Senado,,,3935 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3750.0,DVB-S2,Por,br,
+16548.0,Rádio Senado,,,3935 H,tp 6ANC,,,,Rádio Senado,https://www.lyngsat.com/radiochannels/br/Radio-Senado.html,False,TV Câmara,2/3,3750.0,DVB-S2,Por,br,
+16520.0,Rádio Câmara,,,3931 H,tp 6ANC,,,,Rádio Câmara,https://www.lyngsat.com/radiochannels/br/Radio-Camara.html,False,TV Câmara,2/3,3542.0,DVB-S2,Por,br,
+,EPTV Campinas e região,,,3933 V,tp 6BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,,br,br
+,EPTV Campinas e região,,,3933 V,tp 6BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,,br,br
+59488.0,EPTV Campinas e região,MPEG-4/HD,273.0,3933 V,tp 6BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,Por,br,br
+59488.0,EPTV Campinas e região,MPEG-4/HD,273.0,3933 V,tp 6BNC,,"Verimatrix (B),Irdeto,Nagravision",https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,Por,br,br
+0.0,EPTV Campinas e região,MPEG-4/1seg,529.0,3933 V,tp 6BNC,,Irdeto,https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,Por,br,br
+0.0,EPTV Campinas e região,MPEG-4/1seg,529.0,3933 V,tp 6BNC,,Irdeto,https://www.lyngsat.com/providers/br/EPTV-Campinas-e-regiao.html,EPTV Campinas e região,https://www.lyngsat.com/tvchannels/br/EPTV-Campinas-e-regiao.html,True,EPTV Campinas e região,2/3,7500.0,DVB-S2,Por,br,br
+,TV Senado (Brazil),,,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,,br,br
+,TV Senado (Brazil),,,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,,br,br
+16544.0,TV Senado (Brazil),MPEG-4/SD,1001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,Por,br,br
+16544.0,TV Senado (Brazil),MPEG-4/SD,1001.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,Por,br,br
+16568.0,TV Senado (Brazil),MPEG-4/1seg,101.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,Por,br,br
+16568.0,TV Senado (Brazil),MPEG-4/1seg,101.0,3935 H,tp 6ANC,,,https://www.lyngsat.com/providers/br/TV-Senado.html,TV Senado (Brazil),https://www.lyngsat.com/tvchannels/br/TV-Senado.html,True,TV Senado (Brazil),2/3,3750.0,DVB-S2,Por,br,br
+100.0,Canal Futura,MPEG-4/HD,1160.0,3948 V,tp 6BNC,,,,Canal Futura,https://www.lyngsat.com/tvchannels/br/Canal-Futura.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+23104.0,TV Globo Minas,MPEG-4/HD,273.0,3948 V,tp 6BNC,,"Irdeto,Nagravision",,TV Globo Minas,https://www.lyngsat.com/tvchannels/br/TV-Globo-Minas.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+23104.0,TV Globo Minas,MPEG-4/HD,273.0,3948 V,tp 6BNC,,"Irdeto,Nagravision",,TV Globo Minas,https://www.lyngsat.com/tvchannels/br/TV-Globo-Minas.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+0.0,TV Globo Minas,MPEG-4/1seg,529.0,3948 V,tp 6BNC,,,,TV Globo Minas,https://www.lyngsat.com/tvchannels/br/TV-Globo-Minas.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+0.0,TV Globo Minas,MPEG-4/1seg,529.0,3948 V,tp 6BNC,,,,TV Globo Minas,https://www.lyngsat.com/tvchannels/br/TV-Globo-Minas.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+41664.0,TV Globo Nordeste,MPEG-4/HD,373.0,3948 V,tp 6BNC,,"Verimatrix (B),Nagravision",,TV Globo Nordeste,https://www.lyngsat.com/tvchannels/br/TV-Globo-Nordeste.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+41664.0,TV Globo Nordeste,MPEG-4/HD,373.0,3948 V,tp 6BNC,,"Verimatrix (B),Nagravision",,TV Globo Nordeste,https://www.lyngsat.com/tvchannels/br/TV-Globo-Nordeste.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+0.0,TV Globo Nordeste,MPEG-4/1seg,629.0,3948 V,tp 6BNC,,,,TV Globo Nordeste,https://www.lyngsat.com/tvchannels/br/TV-Globo-Nordeste.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+0.0,TV Globo Nordeste,MPEG-4/1seg,629.0,3948 V,tp 6BNC,,,,TV Globo Nordeste,https://www.lyngsat.com/tvchannels/br/TV-Globo-Nordeste.html,False,TV Senado (Brazil),2/3,17500.0,DVB-S2,Por,br,
+13824.0,TV Diário,?-?MPEG-4/HD,4097.0,3950 H,tp 7ANC,,"Verimatrix (B),Irdeto,Nagravision",,TV Diário,https://www.lyngsat.com/tvchannels/br/TV-Diario.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+13824.0,TV Diário,?-?MPEG-4/HD,4097.0,3950 H,tp 7ANC,,"Verimatrix (B),Irdeto,Nagravision",,TV Diário,https://www.lyngsat.com/tvchannels/br/TV-Diario.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+302.0,TV Diário,MPEG-4/HD,5113.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,TV Diário,https://www.lyngsat.com/tvchannels/br/TV-Diario.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+302.0,TV Diário,MPEG-4/HD,5113.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,TV Diário,https://www.lyngsat.com/tvchannels/br/TV-Diario.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+4.0,Rádio Tamoio 900,,,3950 H,tp 7ANC,,,,Rádio Tamoio 900,https://www.lyngsat.com/radiochannels/br/Radio-Tamoio-900.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+4.0,Rádio Tamoio 900,,,3950 H,tp 7ANC,,,,Rádio Tamoio 900,https://www.lyngsat.com/radiochannels/br/Radio-Tamoio-900.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+367.0,Rádio Tamoio 900,,,12000 V,tp 8BNK,0.0,,,Rádio Tamoio 900,https://www.lyngsat.com/radiochannels/br/Radio-Tamoio-900.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+367.0,Rádio Tamoio 900,,,12000 V,tp 8BNK,0.0,,,Rádio Tamoio 900,https://www.lyngsat.com/radiochannels/br/Radio-Tamoio-900.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+5.0,Verdinha,,,3950 H,tp 7ANC,,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+5.0,Verdinha,,,3950 H,tp 7ANC,,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+5.0,Verdinha,,,3950 H,tp 7ANC,,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+5.0,Verdinha,,,3950 H,tp 7ANC,,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+364.0,Verdinha,,,12000 V,tp 8BNK,0.0,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+364.0,Verdinha,,,12000 V,tp 8BNK,0.0,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+364.0,Verdinha,,,12000 V,tp 8BNK,0.0,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+364.0,Verdinha,,,12000 V,tp 8BNK,0.0,,,Verdinha,https://www.lyngsat.com/radiochannels/br/Verdinha.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+6.0,FM 93,,,3950 H,tp 7ANC,,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+6.0,FM 93,,,3950 H,tp 7ANC,,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+6.0,FM 93,,,3950 H,tp 7ANC,,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+6.0,FM 93,,,3950 H,tp 7ANC,,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+352.0,FM 93,,,12000 V,tp 8BNK,0.0,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+352.0,FM 93,,,12000 V,tp 8BNK,0.0,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+352.0,FM 93,,,12000 V,tp 8BNK,0.0,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+352.0,FM 93,,,12000 V,tp 8BNK,0.0,,,FM 93,https://www.lyngsat.com/radiochannels/br/FM-93.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+7.0,Rádio Sobral,,,3950 H,tp 7ANC,,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+7.0,Rádio Sobral,,,3950 H,tp 7ANC,,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+7.0,Rádio Sobral,,,3950 H,tp 7ANC,,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+7.0,Rádio Sobral,,,3950 H,tp 7ANC,,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+366.0,Rádio Sobral,,,12000 V,tp 8BNK,0.0,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+366.0,Rádio Sobral,,,12000 V,tp 8BNK,0.0,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+366.0,Rádio Sobral,,,12000 V,tp 8BNK,0.0,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+366.0,Rádio Sobral,,,12000 V,tp 8BNK,0.0,,,Rádio Sobral,https://www.lyngsat.com/radiochannels/br/Radio-Sobral.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+8.0,Rádio Cetama,,,3950 H,tp 7ANC,,,,Rádio Cetama,https://www.lyngsat.com/radiochannels/br/Radio-Cetama.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+8.0,Rádio Cetama,,,3950 H,tp 7ANC,,,,Rádio Cetama,https://www.lyngsat.com/radiochannels/br/Radio-Cetama.html,False,TV Senado (Brazil),2/3,2916.0,DVB-S2,Por,br,
+365.0,Rádio Cetama,,,12000 V,tp 8BNK,0.0,,,Rádio Cetama,https://www.lyngsat.com/radiochannels/br/Radio-Cetama.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+365.0,Rádio Cetama,,,12000 V,tp 8BNK,0.0,,,Rádio Cetama,https://www.lyngsat.com/radiochannels/br/Radio-Cetama.html,False,TV Senado (Brazil),2/3,29900.0,DVB-S2,Por,br,
+1.0,TV Ceará,65535-1MPEG-2/SD,33.0,3955 H,tp 7ANC,,,,,,False,TV Senado (Brazil),3/4,4400.0,DVB-S4,Por,,
+1.0,SBN International,?-?MPEG-2/SD,456.0,3959 H,tp 7ANC,,,,,,False,TV Senado (Brazil),3/4,1875.0,DVB-S1,Spa,,
+,TV Mirante São Luís,,,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,,br,br
+,TV Mirante São Luís,,,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,,br,br
+,TV Mirante São Luís,,,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,,br,br
+20992.0,TV Mirante São Luís,MPEG-4/HD,273.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+20992.0,TV Mirante São Luís,MPEG-4/HD,273.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+20992.0,TV Mirante São Luís,MPEG-4/HD,273.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+0.0,TV Mirante São Luís,MPEG-4/1seg,529.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+0.0,TV Mirante São Luís,MPEG-4/1seg,529.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+0.0,TV Mirante São Luís,MPEG-4/1seg,529.0,3965 H,tp 7ANC,,,https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,br
+305.0,TV Mirante São Luís,MPEG-4/HD,5143.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,29900.0,DVB-S2,Por,br,br
+305.0,TV Mirante São Luís,MPEG-4/HD,5143.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,29900.0,DVB-S2,Por,br,br
+305.0,TV Mirante São Luís,MPEG-4/HD,5143.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/TV-Mirante-Sao-Luis.html,TV Mirante São Luís,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Sao-Luis.html,True,TV Mirante São Luís,2/3,29900.0,DVB-S2,Por,br,br
+20993.0,TV Educação MA,MPEG-4/HD,265.0,3965 H,tp 7ANC,,,,TV Educação MA,https://www.lyngsat.com/tvchannels/br/TV-Educacao-MA.html,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,
+21017.0,Mirante FM,,,3965 H,tp 7ANC,,,,Mirante FM,https://www.lyngsat.com/radiochannels/br/Mirante-FM.html,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,
+21017.0,Mirante FM,,,3965 H,tp 7ANC,,,,Mirante FM,https://www.lyngsat.com/radiochannels/br/Mirante-FM.html,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,
+21019.0,Mirante AM,,,3965 H,tp 7ANC,,,,Mirante AM,https://www.lyngsat.com/radiochannels/br/Mirante-AM.html,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,
+21019.0,Mirante AM,,,3965 H,tp 7ANC,,,,Mirante AM,https://www.lyngsat.com/radiochannels/br/Mirante-AM.html,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por,br,
+1.0,TV Assembléia Ceará,?-?MPEG-2/SD,256.0,3970 V,tp 7BNC,,,,,,False,TV Mirante São Luís,5/6,1852.0,DVB-S1,Por,,
+1.0,FM Assembléia Ceará,,,3970 V,tp 7BNC,,,,FM Assembléia Ceará,https://www.lyngsat.com/radiochannels/br/FM-Assembleia-Ceara.html,False,TV Mirante São Luís,5/6,1852.0,DVB-S1,Por,br,
+13600.0,TV Verdes Mares,?-?MPEG-4/HD,273.0,3973 H,tp 7ANC,,"Verimatrix (B),Irdeto,Nagravision",,,,False,TV Mirante São Luís,2/3,7500.0,DVB-S2,Por Eng,,
+1.0,Canal do Criador,?-?MPEG-2/SD,1110.0,3974 V,tp 7BNC,,,,Canal do Criador,https://www.lyngsat.com/tvchannels/br/Canal-do-Criador.html,False,TV Mirante São Luís,3/4,3333.0,DVB-S2,Por,br,
+1.0,Canal do Criador,?-?MPEG-2/SD,1110.0,3974 V,tp 7BNC,,,,Canal do Criador,https://www.lyngsat.com/tvchannels/br/Canal-do-Criador.html,False,TV Mirante São Luís,3/4,3333.0,DVB-S2,Por,br,
+353.0,Canal do Criador,MPEG-4/HD,3953.0,12000 V,tp 8BNK,0.0,,,Canal do Criador,https://www.lyngsat.com/tvchannels/br/Canal-do-Criador.html,False,TV Mirante São Luís,2/3,29900.0,DVB-S2,Por,br,
+353.0,Canal do Criador,MPEG-4/HD,3953.0,12000 V,tp 8BNK,0.0,,,Canal do Criador,https://www.lyngsat.com/tvchannels/br/Canal-do-Criador.html,False,TV Mirante São Luís,2/3,29900.0,DVB-S2,Por,br,
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+,TV Aparecida,,,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+1.0,TV Aparecida,MPEG-4/HD,308.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+2.0,TV Aparecida,MPEG-4/1seg,641.0,3982 V,tp 7BNC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,3/4,4573.0,DVB-S2,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+,TV Aparecida,,,4030 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,PAL,,PAL,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1003.0,TV Aparecida,MPEG-4/HD,201.0,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/TV-Aparecida.html,TV Aparecida,https://www.lyngsat.com/tvchannels/br/TV-Aparecida.html,True,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,br
+1.0,TV Paraná Turismo,?-?MPEG-2/SD,289.0,3985 H,tp 8ANC,,,,TV Paraná Turismo,https://www.lyngsat.com/tvchannels/br/TV-Parana-Turismo.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+1.0,TV Paraná Turismo,?-?MPEG-2/SD,289.0,3985 H,tp 8ANC,,,,TV Paraná Turismo,https://www.lyngsat.com/tvchannels/br/TV-Parana-Turismo.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+374.0,TV Paraná Turismo,MPEG-4/HD,2723.0,11720 V,tp 1BNK,0.0,,,TV Paraná Turismo,https://www.lyngsat.com/tvchannels/br/TV-Parana-Turismo.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+374.0,TV Paraná Turismo,MPEG-4/HD,2723.0,11720 V,tp 1BNK,0.0,,,TV Paraná Turismo,https://www.lyngsat.com/tvchannels/br/TV-Parana-Turismo.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+1.0,Paraná Educativa FM,,,3985 H,tp 8ANC,,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+1.0,Paraná Educativa FM,,,3985 H,tp 8ANC,,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+1.0,Paraná Educativa FM,,,3985 H,tp 8ANC,,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+1.0,Paraná Educativa FM,,,3985 H,tp 8ANC,,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,3/4,2170.0,DVB-S2,Por,br,
+374.0,Paraná Educativa FM,,,11720 V,tp 1BNK,0.0,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+374.0,Paraná Educativa FM,,,11720 V,tp 1BNK,0.0,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+374.0,Paraná Educativa FM,,,11720 V,tp 1BNK,0.0,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+374.0,Paraná Educativa FM,,,11720 V,tp 1BNK,0.0,,,Paraná Educativa FM,https://www.lyngsat.com/radiochannels/br/Parana-Educativa-FM.html,False,TV Aparecida,2/3,29900.0,DVB-S2,Por,br,
+,Grupo Bandeirantes,,,3990 V,tp 7BNC,,"BISS,Conax",https://www.lyngsat.com/providers/br/Grupo-Bandeirantes.html,,,True,Grupo Bandeirantes,3/4,7400.0,DVB-S2,,,br
+1.0,Band Rede,MPEG-4/HD,269.0,3990 V,tp 7BNC,,Conax,,Band Rede,https://www.lyngsat.com/tvchannels/br/Band-Rede.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+2.0,Band São Paulo,MPEG-4/HD,259.0,3990 V,tp 7BNC,,BISS,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+2.0,Band São Paulo,MPEG-4/HD,259.0,3990 V,tp 7BNC,,BISS,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+2.0,Band São Paulo,MPEG-4/HD,259.0,3990 V,tp 7BNC,,BISS,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+3.0,Band São Paulo,MPEG-4/1seg,273.0,3990 V,tp 7BNC,,,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+3.0,Band São Paulo,MPEG-4/1seg,273.0,3990 V,tp 7BNC,,,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+3.0,Band São Paulo,MPEG-4/1seg,273.0,3990 V,tp 7BNC,,,,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,3/4,7400.0,DVB-S2,Por,br,
+322.0,Band São Paulo,MPEG-4/HD,3313.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,2/3,29900.0,DVB-S2,Por,br,
+322.0,Band São Paulo,MPEG-4/HD,3313.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,2/3,29900.0,DVB-S2,Por,br,
+322.0,Band São Paulo,MPEG-4/HD,3313.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band São Paulo,https://www.lyngsat.com/tvchannels/br/Band-Sao-Paulo.html,False,Grupo Bandeirantes,2/3,29900.0,DVB-S2,Por,br,
+,SBA,,,3993 H,tp 8ANC,,,https://www.lyngsat.com/providers/br/SBA.html,,,True,SBA,2/3,12416.0,DVB-S1,,,br
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+2.0,Canal do Boi,MPEG-2/SD,1100.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+101.0,Canal do Boi,MPEG-4/HD,373.0,3993 H,tp 8ANC,,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+362.0,Canal do Boi,MPEG-4/HD,4043.0,12000 V,tp 8BNK,0.0,,,Canal do Boi,https://www.lyngsat.com/tvchannels/br/Canal-do-Boi.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+3.0,AgroCanal,MPEG-2/SD,1200.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+102.0,AgroCanal,MPEG-4/HD,473.0,3993 H,tp 8ANC,,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,12416.0,DVB-S1,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+363.0,AgroCanal,MPEG-4/HD,4053.0,12000 V,tp 8BNK,0.0,,,AgroCanal,https://www.lyngsat.com/tvchannels/br/AgroCanal.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+59296.0,TV Gazeta São Paulo,?-?MPEG-2/SD,770.0,3996 V,tp 7BNC,,,,TV Gazeta São Paulo,https://www.lyngsat.com/tvchannels/br/TV-Gazeta-Sao-Paulo.html,False,SBA,3/4,2520.0,DVB-S2,Por,br,
+59296.0,TV Gazeta São Paulo,?-?MPEG-2/SD,770.0,3996 V,tp 7BNC,,,,TV Gazeta São Paulo,https://www.lyngsat.com/tvchannels/br/TV-Gazeta-Sao-Paulo.html,False,SBA,3/4,2520.0,DVB-S2,Por,br,
+334.0,TV Gazeta São Paulo,MPEG-4/HD,3433.0,12160 V,tp 12BNK,0.0,,,TV Gazeta São Paulo,https://www.lyngsat.com/tvchannels/br/TV-Gazeta-Sao-Paulo.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+334.0,TV Gazeta São Paulo,MPEG-4/HD,3433.0,12160 V,tp 12BNK,0.0,,,TV Gazeta São Paulo,https://www.lyngsat.com/tvchannels/br/TV-Gazeta-Sao-Paulo.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+,Ideal TV,,,4010 H,tp 8ANC,,,,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,False,SBA,PAL,,PAL,Por,br,
+310.0,Ideal TV,MPEG-4/HD,5193.0,12120 V,tp 11BNK,0.0,,,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+,Rede Internacional de TV,,,4010 V,tp 8BNC,,,,Rede Internacional de TV,https://www.lyngsat.com/tvchannels/br/Rede-Internacional-de-TV.html,False,SBA,PAL,,PAL,Por,br,
+,Rede Internacional de TV,,,4010 V,tp 8BNC,,,,Rede Internacional de TV,https://www.lyngsat.com/tvchannels/br/Rede-Internacional-de-TV.html,False,SBA,PAL,,PAL,Por,br,
+1068.0,Rede Internacional de TV,MPEG-4/HD,6801.0,11740 H,tp 1ANK,0.0,,,Rede Internacional de TV,https://www.lyngsat.com/tvchannels/br/Rede-Internacional-de-TV.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+1068.0,Rede Internacional de TV,MPEG-4/HD,6801.0,11740 H,tp 1ANK,0.0,,,Rede Internacional de TV,https://www.lyngsat.com/tvchannels/br/Rede-Internacional-de-TV.html,False,SBA,2/3,29900.0,DVB-S2,Por,br,
+,SBT Rede 1,,,4026 V,tp 8BNC,,BISS,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,,br,br
+,SBT Rede 1,,,4026 V,tp 8BNC,,BISS,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,,br,br
+59360.0,SBT Rede 1,MPEG-4/HD,513.0,4026 V,tp 8BNC,,BISS,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,Por,br,br
+59360.0,SBT Rede 1,MPEG-4/HD,513.0,4026 V,tp 8BNC,,BISS,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,Por,br,br
+59384.0,SBT Rede 1,MPEG-4/1seg,257.0,4026 V,tp 8BNC,,,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,Por,br,br
+59384.0,SBT Rede 1,MPEG-4/1seg,257.0,4026 V,tp 8BNC,,,https://www.lyngsat.com/providers/br/SBT-Rede-1.html,SBT Rede 1,https://www.lyngsat.com/tvchannels/br/SBT-Rede-1.html,True,SBT Rede 1,5/6,7140.0,DVB-S2,Por,br,br
+,TV Liberal,MPEG-4/1seg,529.0,4045 H,tp 9ANC,,,,TV Liberal,https://www.lyngsat.com/tvchannels/br/TV-Liberal.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+,TV Liberal,MPEG-4/1seg,529.0,4045 H,tp 9ANC,,,,TV Liberal,https://www.lyngsat.com/tvchannels/br/TV-Liberal.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+39104.0,TV Liberal,MPEG-4/HD,273.0,4045 H,tp 9ANC,,"Verimatrix (B),Irdeto,Nagravision",,TV Liberal,https://www.lyngsat.com/tvchannels/br/TV-Liberal.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+39104.0,TV Liberal,MPEG-4/HD,273.0,4045 H,tp 9ANC,,"Verimatrix (B),Irdeto,Nagravision",,TV Liberal,https://www.lyngsat.com/tvchannels/br/TV-Liberal.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+39105.0,TV Educativa do Pará,MPEG-4/HD,1001.0,4045 H,tp 9ANC,,,,TV Educativa do Pará,https://www.lyngsat.com/tvchannels/br/TV-Educativa-do-Para.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+2.0,Rádio Liberal FM,,,4045 H,tp 9ANC,,Irdeto,,Rádio Liberal FM,https://www.lyngsat.com/radiochannels/br/Radio-Liberal-FM.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+2.0,Rádio Liberal FM,,,4045 H,tp 9ANC,,Irdeto,,Rádio Liberal FM,https://www.lyngsat.com/radiochannels/br/Radio-Liberal-FM.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+3.0,Lib Music,,,4045 H,tp 9ANC,,Irdeto,,Lib Music,https://www.lyngsat.com/radiochannels/br/Lib-Music.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+3.0,Lib Music,,,4045 H,tp 9ANC,,Irdeto,,Lib Music,https://www.lyngsat.com/radiochannels/br/Lib-Music.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+4.0,O Liberal CBN,,,4045 H,tp 9ANC,,Irdeto,,O Liberal CBN,https://www.lyngsat.com/radiochannels/br/O-Liberal-CBN.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+56416.0,NSC TV Florianópolis,1-1MPEG-4/HD,273.0,4047 V,tp 9BNC,,"Verimatrix (B),Irdeto,Nagravision",,NSC TV Florianópolis,https://www.lyngsat.com/tvchannels/br/NSC-TV-Florianopolis.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+348.0,NSC TV Florianópolis,MPEG-4/HD,3903.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,NSC TV Florianópolis,https://www.lyngsat.com/tvchannels/br/NSC-TV-Florianopolis.html,False,SBT Rede 1,2/3,29900.0,DVB-S2,Por,br,
+56417.0,Rádio Atlântida Joinville,,,4047 V,tp 9BNC,,Irdeto,,Rádio Atlântida Joinville,https://www.lyngsat.com/radiochannels/br/Radio-Atlantida-Joinville.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+56417.0,Rádio Atlântida Joinville,,,4047 V,tp 9BNC,,Irdeto,,Rádio Atlântida Joinville,https://www.lyngsat.com/radiochannels/br/Radio-Atlantida-Joinville.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+56417.0,CBN Floripa,,,4047 V,tp 9BNC,,Irdeto,,CBN Floripa,https://www.lyngsat.com/radiochannels/br/CBN-Floripa.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+56417.0,CBN Floripa,,,4047 V,tp 9BNC,,Irdeto,,CBN Floripa,https://www.lyngsat.com/radiochannels/br/CBN-Floripa.html,False,SBT Rede 1,2/3,7500.0,DVB-S2,Por,br,
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+,Record News,,,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59456.0,Record News,MPEG-4/HD,273.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+59480.0,Record News,MPEG-4/1seg,641.0,4052 H,tp 9ANC,,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,3/4,3734.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+311.0,Record News,MPEG-4/HD,5203.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Record-News.html,Record News,https://www.lyngsat.com/tvchannels/br/Record-News.html,True,Record News,2/3,29900.0,DVB-S2,Por,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+,TV Canção Nova Rede,,,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58656.0,TV Canção Nova Rede,MPEG-4/HD,4130.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+58680.0,TV Canção Nova Rede,MPEG-4/1seg,4642.0,4056 V,tp 9BNC,,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,3/4,5833.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+318.0,TV Canção Nova Rede,MPEG-4/HD,5273.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Cancao-Nova-Rede.html,TV Canção Nova Rede,https://www.lyngsat.com/tvchannels/br/TV-Cancao-Nova-Rede.html,True,TV Canção Nova Rede,2/3,29900.0,DVB-S2,Por,br,br
+,Rede Minas,,,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,,br,br
+,Rede Minas,,,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,,br,br
+,Rede Minas,,,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,,br,br
+,Rede Minas,,,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,,br,br
+23328.0,Rede Minas,/HD,770.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23328.0,Rede Minas,/HD,770.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23328.0,Rede Minas,/HD,770.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23328.0,Rede Minas,/HD,770.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23352.0,Rede Minas,/1seg,768.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23352.0,Rede Minas,/1seg,768.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23352.0,Rede Minas,/1seg,768.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23352.0,Rede Minas,/1seg,768.0,4094 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Minas.html,Rede Minas,https://www.lyngsat.com/tvchannels/br/Rede-Minas.html,True,Rede Minas,3/4,11429.0,DVB-S2,Por,br,br
+23333.0,Rádio Inconfidência AM,,,4094 V,tp 10BNC,,,,Rádio Inconfidência AM,https://www.lyngsat.com/radiochannels/br/Radio-Inconfidencia-AM.html,False,Rede Minas,3/4,11429.0,DVB-S2,Por,br,
+23333.0,Rádio Inconfidência FM,,,4094 V,tp 10BNC,,,,Rádio Inconfidência FM,https://www.lyngsat.com/radiochannels/br/Radio-Inconfidencia-FM.html,False,Rede Minas,3/4,11429.0,DVB-S2,Por,br,
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+,TV Evangelizar,,,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+1.0,TV Evangelizar,/HD,512.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+2.0,TV Evangelizar,/1seg,711.0,4095 H,tp 10ANC,,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,000,25.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+329.0,TV Evangelizar,MPEG-4/HD,3383.0,12160 V,tp 12BNK,0.0,,https://www.lyngsat.com/providers/br/TV-Evangelizar.html,TV Evangelizar,https://www.lyngsat.com/tvchannels/br/TV-Evangelizar.html,True,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,br
+1.0,Rádio Evangelizar AM,,,4095 H,tp 10ANC,,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,000,25.0,DVB-S2,Por,br,
+1.0,Rádio Evangelizar AM,,,4095 H,tp 10ANC,,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,000,25.0,DVB-S2,Por,br,
+1.0,Rádio Evangelizar AM,,,4095 H,tp 10ANC,,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,000,25.0,DVB-S2,Por,br,
+1.0,Rádio Evangelizar AM,,,4095 H,tp 10ANC,,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,000,25.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar AM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar AM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar AM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar AM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar AM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-AM.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+1.0,TV Pai Eterno,?-?MPEG-4/HD,512.0,4105 H,tp 11ANC,,,,TV Pai Eterno,https://www.lyngsat.com/tvchannels/br/TV-Pai-Eterno.html,False,TV Evangelizar,3/4,5000.0,DVB-S5,Por,br,
+1.0,TV Pai Eterno,?-?MPEG-4/HD,512.0,4105 H,tp 11ANC,,,,TV Pai Eterno,https://www.lyngsat.com/tvchannels/br/TV-Pai-Eterno.html,False,TV Evangelizar,3/4,5000.0,DVB-S5,Por,br,
+331.0,TV Pai Eterno,MPEG-4/HD,3403.0,12160 V,tp 12BNK,0.0,,,TV Pai Eterno,https://www.lyngsat.com/tvchannels/br/TV-Pai-Eterno.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+331.0,TV Pai Eterno,MPEG-4/HD,3403.0,12160 V,tp 12BNK,0.0,,,TV Pai Eterno,https://www.lyngsat.com/tvchannels/br/TV-Pai-Eterno.html,False,TV Evangelizar,2/3,29900.0,DVB-S2,Por,br,
+,Rede Amazônica Porto Velho,,,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,,br,br
+,Rede Amazônica Porto Velho,,,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,,br,br
+,Rede Amazônica Porto Velho,,,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,,br,br
+49280.0,Rede Amazônica Porto Velho,MPEG-4/HD,273.0,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+49280.0,Rede Amazônica Porto Velho,MPEG-4/HD,273.0,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+49280.0,Rede Amazônica Porto Velho,MPEG-4/HD,273.0,4110 V,tp 10BNC,,"Verimatrix (B),Irdeto",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+0.0,Rede Amazônica Porto Velho,MPEG-4/1seg,529.0,4110 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+0.0,Rede Amazônica Porto Velho,MPEG-4/1seg,529.0,4110 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+0.0,Rede Amazônica Porto Velho,MPEG-4/1seg,529.0,4110 V,tp 10BNC,,,https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,5000.0,DVB-S2,Por,br,br
+377.0,Rede Amazônica Porto Velho,MPEG-4/HD,2753.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,29900.0,DVB-S2,Por,br,br
+377.0,Rede Amazônica Porto Velho,MPEG-4/HD,2753.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,29900.0,DVB-S2,Por,br,br
+377.0,Rede Amazônica Porto Velho,MPEG-4/HD,2753.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",https://www.lyngsat.com/providers/br/Rede-Amazonica-Porto-Velho.html,Rede Amazônica Porto Velho,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Porto-Velho.html,True,Rede Amazônica Porto Velho,2/3,29900.0,DVB-S2,Por,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+,Rede Século 21,,,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60736.0,Rede Século 21,MPEG-4/HD,1001.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+60760.0,Rede Século 21,MPEG-4/1seg,101.0,4111 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+,Rede Século 21,,,4150 H,tp 12ANC,,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,PAL,,PAL,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+315.0,Rede Século 21,MPEG-4/HD,5243.0,12120 V,tp 11BNK,0.0,,https://www.lyngsat.com/providers/br/Rede-Seculo-21.html,Rede Século 21,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21.html,True,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,br
+60737.0,Rede Século 21 Educa,MPEG-4/HD,2001.0,4111 H,tp 11ANC,,,,Rede Século 21 Educa,https://www.lyngsat.com/tvchannels/br/Rede-Seculo-21-Educa.html,False,Rede Século 21,2/3,5000.0,DVB-S2,Por,br,
+1.0,JP News,?-?MPEG-4/HD,512.0,4116 H,tp 11ANC,,,,JP News,https://www.lyngsat.com/tvchannels/br/JP-News.html,False,Rede Século 21,2/3,2500.0,DVB-S2,Por,br,
+1.0,JP News,?-?MPEG-4/HD,512.0,4116 H,tp 11ANC,,,,JP News,https://www.lyngsat.com/tvchannels/br/JP-News.html,False,Rede Século 21,2/3,2500.0,DVB-S2,Por,br,
+335.0,JP News,MPEG-4/HD,3443.0,12160 V,tp 12BNK,0.0,,,JP News,https://www.lyngsat.com/tvchannels/br/JP-News.html,False,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,
+335.0,JP News,MPEG-4/HD,3443.0,12160 V,tp 12BNK,0.0,,,JP News,https://www.lyngsat.com/tvchannels/br/JP-News.html,False,Rede Século 21,2/3,29900.0,DVB-S2,Por,br,
+,Rede CNT Satélite,,,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,,br,br
+,Rede CNT Satélite,,,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,,br,br
+44480.0,Rede CNT Satélite,MPEG-4/HD,273.0,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,Por,br,br
+44480.0,Rede CNT Satélite,MPEG-4/HD,273.0,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,Por,br,br
+44504.0,Rede CNT Satélite,MPEG-4/1seg,529.0,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,Por,br,br
+44504.0,Rede CNT Satélite,MPEG-4/1seg,529.0,4124 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Rede-CNT-Satelite.html,Rede CNT Satélite,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Satelite.html,True,Rede CNT Satélite,5/6,5000.0,DVB-S2,Por,br,br
+,Assembleia do Amazonas,,,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,,br,br
+,Assembleia do Amazonas,,,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,,br,br
+32.0,Assembleia do Amazonas,MPEG-4/HD,3002.0,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,Por,br,br
+32.0,Assembleia do Amazonas,MPEG-4/HD,3002.0,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,Por,br,br
+56.0,Assembleia do Amazonas,MPEG-4/1seg,101.0,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,Por,br,br
+56.0,Assembleia do Amazonas,MPEG-4/1seg,101.0,4130 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/Assembleia-do-Amazonas.html,Assembleia do Amazonas,https://www.lyngsat.com/tvchannels/br/Assembleia-do-Amazonas.html,True,Assembleia do Amazonas,3/4,3330.0,DVB-S2,Por,br,br
+,TV Brasil Central,,,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,,br,br
+,TV Brasil Central,,,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,,br,br
+,TV Brasil Central,,,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,,br,br
+,TV Brasil Central,,,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,,br,br
+1.0,TV Brasil Central,MPEG-4/HD,1160.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+1.0,TV Brasil Central,MPEG-4/HD,1160.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+1.0,TV Brasil Central,MPEG-4/HD,1160.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+1.0,TV Brasil Central,MPEG-4/HD,1160.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+2.0,TV Brasil Central,MPEG-4/1seg,1260.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+2.0,TV Brasil Central,MPEG-4/1seg,1260.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+2.0,TV Brasil Central,MPEG-4/1seg,1260.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+2.0,TV Brasil Central,MPEG-4/1seg,1260.0,4136 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Brasil-Central.html,TV Brasil Central,https://www.lyngsat.com/tvchannels/br/TV-Brasil-Central.html,True,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,br
+3.0,Rádio Brasil Central AM,,,4136 H,tp 11ANC,,,,Rádio Brasil Central AM,https://www.lyngsat.com/radiochannels/br/Radio-Brasil-Central-AM.html,False,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,
+4.0,Rádio Brasil Central FM,,,4136 H,tp 11ANC,,,,Rádio Brasil Central FM,https://www.lyngsat.com/radiochannels/br/Radio-Brasil-Central-FM.html,False,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,
+4.0,Rádio Brasil Central FM,,,4136 H,tp 11ANC,,,,Rádio Brasil Central FM,https://www.lyngsat.com/radiochannels/br/Radio-Brasil-Central-FM.html,False,TV Brasil Central,3/4,3750.0,DVB-S2,Por,br,
+59360.0,SBT Rede 2,?-?MPEG-4/HD,513.0,4145 V,tp 11BNC,,BISS,,,,False,TV Brasil Central,3/4,7500.0,DVB-S2,Por,,
+,Rede TV!,,,4155 V,tp 11BNC,,,https://www.lyngsat.com/providers/br/Rede-TV.html,,,True,Rede TV!,5/6,7500.0,DVB-S2,,,br
+225.0,(feeds),,100.0,4155 V,tp 11BNC,,,,,,False,Rede TV!,5/6,7500.0,DVB-S2,,,
+59616.0,Rede TV! Rede,MPEG-4/HD,273.0,4155 V,tp 11BNC,,,,Rede TV! Rede,https://www.lyngsat.com/tvchannels/br/Rede-TV-Rede.html,False,Rede TV!,5/6,7500.0,DVB-S2,Por,br,
+372.0,TV Imaculada,MPEG-4/HD,2703.0,11720 V,tp 1BNK,0.0,,,TV Imaculada,https://www.lyngsat.com/tvchannels/br/TV-Imaculada.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+372.0,TV Imaculada,MPEG-4/HD,2703.0,11720 V,tp 1BNK,0.0,,,TV Imaculada,https://www.lyngsat.com/tvchannels/br/TV-Imaculada.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+375.0,Rede Amazônica Rio Branco,MPEG-4/HD,2733.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,Rede Amazônica Rio Branco,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Rio-Branco.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+376.0,Rede Amazônica Macapá,MPEG-4/HD,2743.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,Rede Amazônica Macapá,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Macapa.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+378.0,Rede Amazônica Boa Vista,MPEG-4/HD,2773.0,11720 V,tp 1BNK,0.0,"Nagravision,Verimatrix",,Rede Amazônica Boa Vista,https://www.lyngsat.com/tvchannels/br/Rede-Amazonica-Boa-Vista.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+372.0,Rádio Imaculada Conceição,,,11720 V,tp 1BNK,0.0,,,Rádio Imaculada Conceição,https://www.lyngsat.com/radiochannels/br/Radio-Imaculada-Conceicao.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+372.0,Rádio Imaculada Conceição,,,11720 V,tp 1BNK,0.0,,,Rádio Imaculada Conceição,https://www.lyngsat.com/radiochannels/br/Radio-Imaculada-Conceicao.html,False,Rede TV!,2/3,29900.0,DVB-S2,Por,br,
+,Speedcast,,,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11740 H,tp 1ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11780 H,tp 2ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11780 H,tp 2ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11780 H,tp 2ANK,0.0,,https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+,Speedcast,,,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",https://www.lyngsat.com/providers/br/Speedcast.html,,,True,Speedcast,2/3,29900.0,DVB-S2,,,br
+1004.0,ISTV Nacional,MPEG-4/HD,401.0,11740 H,tp 1ANK,0.0,,,ISTV Nacional,https://www.lyngsat.com/tvchannels/br/ISTV-Nacional.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1004.0,ISTV Nacional,MPEG-4/HD,401.0,11740 H,tp 1ANK,0.0,,,ISTV Nacional,https://www.lyngsat.com/tvchannels/br/ISTV-Nacional.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1008.0,Rede Brasil,MPEG-4/HD,801.0,11740 H,tp 1ANK,0.0,,,Rede Brasil,https://www.lyngsat.com/tvchannels/br/Rede-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1008.0,Rede Brasil,MPEG-4/HD,801.0,11740 H,tp 1ANK,0.0,,,Rede Brasil,https://www.lyngsat.com/tvchannels/br/Rede-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1009.0,RBTV,MPEG-4/HD,901.0,11740 H,tp 1ANK,0.0,,,RBTV,https://www.lyngsat.com/tvchannels/br/RBTV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1010.0,TV Templo,MPEG-4/HD,1001.0,11740 H,tp 1ANK,0.0,,,TV Templo,https://www.lyngsat.com/tvchannels/br/TV-Templo.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1011.0,TV Padre Cícero,MPEG-4/HD,1101.0,11740 H,tp 1ANK,0.0,,,TV Padre Cícero,https://www.lyngsat.com/tvchannels/br/TV-Padre-Cicero.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1011.0,TV Padre Cícero,MPEG-4/HD,1101.0,11740 H,tp 1ANK,0.0,,,TV Padre Cícero,https://www.lyngsat.com/tvchannels/br/TV-Padre-Cicero.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1012.0,Rede Vida Educação 2,MPEG-4/HD,1201.0,11740 H,tp 1ANK,0.0,,,Rede Vida Educação 2,https://www.lyngsat.com/tvchannels/br/Rede-Vida-Educacao-2.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1013.0,Rede Vida Educação 3,MPEG-4/HD,1301.0,11740 H,tp 1ANK,0.0,,,Rede Vida Educação 3,https://www.lyngsat.com/tvchannels/br/Rede-Vida-Educacao-3.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1016.0,TV Mundo Maior,MPEG-4/HD,1601.0,11740 H,tp 1ANK,0.0,,,TV Mundo Maior,https://www.lyngsat.com/tvchannels/br/TV-Mundo-Maior.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1016.0,TV Mundo Maior,MPEG-4/HD,1601.0,11740 H,tp 1ANK,0.0,,,TV Mundo Maior,https://www.lyngsat.com/tvchannels/br/TV-Mundo-Maior.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1018.0,SBT Pará,MPEG-4/HD,1801.0,11740 H,tp 1ANK,0.0,"Nagravision,Verimatrix",,SBT Pará,https://www.lyngsat.com/tvchannels/br/SBT-Para.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1024.0,CNN Brasil,MPEG-4/HD,2401.0,11740 H,tp 1ANK,0.0,,,CNN Brasil,https://www.lyngsat.com/tvchannels/us/CNN-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,us,
+1025.0,Polishop,MPEG-4/HD,2501.0,11740 H,tp 1ANK,0.0,,,Polishop,https://www.lyngsat.com/tvchannels/br/Polishop.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1052.0,F11 TV promo,MPEG-4/HD,5201.0,11740 H,tp 1ANK,0.0,,,,,False,Speedcast,2/3,29900.0,DVB-S2,Por,,
+1005.0,Saudade FM,,,11740 H,tp 1ANK,0.0,,,Saudade FM,https://www.lyngsat.com/radiochannels/br/Saudade-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1005.0,Saudade FM,,,11740 H,tp 1ANK,0.0,,,Saudade FM,https://www.lyngsat.com/radiochannels/br/Saudade-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1006.0,Rádio Aparecida,,,11740 H,tp 1ANK,0.0,,,Rádio Aparecida,https://www.lyngsat.com/radiochannels/br/Radio-Aparecida.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1006.0,Rádio Aparecida,,,11740 H,tp 1ANK,0.0,,,Rádio Aparecida,https://www.lyngsat.com/radiochannels/br/Radio-Aparecida.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1007.0,Rádio Rede Vida,,,11740 H,tp 1ANK,0.0,,,Rádio Rede Vida,https://www.lyngsat.com/radiochannels/br/Radio-Rede-Vida.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1007.0,Rádio Rede Vida,,,11740 H,tp 1ANK,0.0,,,Rádio Rede Vida,https://www.lyngsat.com/radiochannels/br/Radio-Rede-Vida.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1021.0,Rádio Boa Nova,,,11740 H,tp 1ANK,0.0,,,Rádio Boa Nova,https://www.lyngsat.com/radiochannels/br/Radio-Boa-Nova.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1021.0,Rádio Boa Nova,,,11740 H,tp 1ANK,0.0,,,Rádio Boa Nova,https://www.lyngsat.com/radiochannels/br/Radio-Boa-Nova.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1027.0,Meio Norte FM,,,11740 H,tp 1ANK,0.0,,,Meio Norte FM,https://www.lyngsat.com/radiochannels/br/Meio-Norte-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1027.0,Meio Norte FM,,,11740 H,tp 1ANK,0.0,,,Meio Norte FM,https://www.lyngsat.com/radiochannels/br/Meio-Norte-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1028.0,Ótima FM,,,11740 H,tp 1ANK,0.0,,,Ótima FM,https://www.lyngsat.com/radiochannels/br/Otima-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1028.0,Ótima FM,,,11740 H,tp 1ANK,0.0,,,Ótima FM,https://www.lyngsat.com/radiochannels/br/Otima-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1029.0,Rede Mensageiros da Paz,,,11740 H,tp 1ANK,0.0,,,Rede Mensageiros da Paz,https://www.lyngsat.com/radiochannels/br/Rede-Mensageiros-da-Paz.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1029.0,Rede Mensageiros da Paz,,,11740 H,tp 1ANK,0.0,,,Rede Mensageiros da Paz,https://www.lyngsat.com/radiochannels/br/Rede-Mensageiros-da-Paz.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1048.0,Rádio Maanaim,,,11740 H,tp 1ANK,0.0,,,Rádio Maanaim,https://www.lyngsat.com/radiochannels/br/Radio-Maanaim.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1048.0,Rádio Maanaim,,,11740 H,tp 1ANK,0.0,,,Rádio Maanaim,https://www.lyngsat.com/radiochannels/br/Radio-Maanaim.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1053.0,100.7 ISFM,,,11740 H,tp 1ANK,0.0,,,100.7 ISFM,https://www.lyngsat.com/radiochannels/br/1007-ISFM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1053.0,100.7 ISFM,,,11740 H,tp 1ANK,0.0,,,100.7 ISFM,https://www.lyngsat.com/radiochannels/br/1007-ISFM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1072.0,Melphis FM,,,11740 H,tp 1ANK,0.0,,,Melphis FM,https://www.lyngsat.com/radiochannels/br/Melphis-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1072.0,Melphis FM,,,11740 H,tp 1ANK,0.0,,,Melphis FM,https://www.lyngsat.com/radiochannels/br/Melphis-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1030.0,Rede Meio Norte,MPEG-4/HD,3001.0,11780 H,tp 2ANK,0.0,,,Rede Meio Norte,https://www.lyngsat.com/tvchannels/br/Rede-Meio-Norte.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1030.0,Rede Meio Norte,MPEG-4/HD,3001.0,11780 H,tp 2ANK,0.0,,,Rede Meio Norte,https://www.lyngsat.com/tvchannels/br/Rede-Meio-Norte.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1031.0,TV Milagro Brasil,MPEG-4/HD,3101.0,11780 H,tp 2ANK,0.0,,,TV Milagro Brasil,https://www.lyngsat.com/tvchannels/br/TV-Milagro-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1032.0,TV Maná Brasil,MPEG-4/HD,3201.0,11780 H,tp 2ANK,0.0,,,TV Maná Brasil,https://www.lyngsat.com/tvchannels/pt/TV-Mana-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,pt,
+1032.0,TV Maná Brasil,MPEG-4/HD,3201.0,11780 H,tp 2ANK,0.0,,,TV Maná Brasil,https://www.lyngsat.com/tvchannels/pt/TV-Mana-Brasil.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,pt,
+1034.0,SBN Global,MPEG-4/HD,3401.0,11780 H,tp 2ANK,0.0,,,SBN Global,https://www.lyngsat.com/tvchannels/us/SBN-Global.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,us,
+1035.0,Vivax TV,MPEG-4/HD,3501.0,11780 H,tp 2ANK,0.0,,,Vivax TV,https://www.lyngsat.com/tvchannels/br/Vivax-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1035.0,Vivax TV,MPEG-4/HD,3501.0,11780 H,tp 2ANK,0.0,,,Vivax TV,https://www.lyngsat.com/tvchannels/br/Vivax-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1037.0,TV Tribuna PE,MPEG-4/HD,3701.0,11780 H,tp 2ANK,0.0,"Verimatrix (B),Nagravision",,TV Tribuna PE,https://www.lyngsat.com/tvchannels/br/TV-Tribuna-PE.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1039.0,Play TV,MPEG-4/HD,3901.0,11780 H,tp 2ANK,0.0,,,Play TV,https://www.lyngsat.com/tvchannels/br/Play-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1039.0,Play TV,MPEG-4/HD,3901.0,11780 H,tp 2ANK,0.0,,,Play TV,https://www.lyngsat.com/tvchannels/br/Play-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1041.0,TV Cel,MPEG-4/HD,4101.0,11780 H,tp 2ANK,0.0,,,TV Cel,https://www.lyngsat.com/tvchannels/br/TV-Cel.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1042.0,PT Sat,MPEG-4/HD,4201.0,11780 H,tp 2ANK,0.0,,,PT Sat,https://www.lyngsat.com/tvchannels/br/PT-Sat.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1043.0,BR8 TV,MPEG-4/HD,4301.0,11780 H,tp 2ANK,0.0,,,BR8 TV,https://www.lyngsat.com/tvchannels/br/BR8-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1043.0,BR8 TV,MPEG-4/HD,4301.0,11780 H,tp 2ANK,0.0,,,BR8 TV,https://www.lyngsat.com/tvchannels/br/BR8-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1044.0,Ypê TV,MPEG-4/HD,4401.0,11780 H,tp 2ANK,0.0,,,Ypê TV,https://www.lyngsat.com/tvchannels/br/Ype-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1044.0,Ypê TV,MPEG-4/HD,4401.0,11780 H,tp 2ANK,0.0,,,Ypê TV,https://www.lyngsat.com/tvchannels/br/Ype-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1045.0,Igreja Cristã Maranata,MPEG-4/HD,4501.0,11780 H,tp 2ANK,0.0,,,Igreja Cristã Maranata,https://www.lyngsat.com/tvchannels/br/Igreja-Crista-Maranata.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1046.0,Ultrafarma,MPEG-4/HD,4601.0,11780 H,tp 2ANK,0.0,,,Ultrafarma,https://www.lyngsat.com/tvchannels/br/Ultrafarma.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1049.0,Masper TV,MPEG-4/HD,4901.0,11780 H,tp 2ANK,0.0,,,Masper TV,https://www.lyngsat.com/tvchannels/br/Masper-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1050.0,Antena VIP,MPEG-4/HD,5001.0,11780 H,tp 2ANK,0.0,,,Antena VIP,https://www.lyngsat.com/tvchannels/br/Antena-VIP.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1051.0,TV Futuro,MPEG-4/HD,5101.0,11780 H,tp 2ANK,0.0,,,TV Futuro,https://www.lyngsat.com/tvchannels/br/TV-Futuro.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1051.0,TV Futuro,MPEG-4/HD,5101.0,11780 H,tp 2ANK,0.0,,,TV Futuro,https://www.lyngsat.com/tvchannels/br/TV-Futuro.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1075.0,VTV (Brazil),MPEG-4/HD,7501.0,11780 H,tp 2ANK,0.0,"Verimatrix (B),Nagravision",,VTV (Brazil),https://www.lyngsat.com/tvchannels/br/VTV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1075.0,VTV (Brazil),MPEG-4/HD,7501.0,11780 H,tp 2ANK,0.0,"Verimatrix (B),Nagravision",,VTV (Brazil),https://www.lyngsat.com/tvchannels/br/VTV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1054.0,Record RS,MPEG-4/HD,5401.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record RS,https://www.lyngsat.com/tvchannels/br/Record-RS.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1055.0,Record Belém,MPEG-4/HD,5501.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Belém,https://www.lyngsat.com/tvchannels/br/Record-Belem.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1056.0,Record Goiás,MPEG-4/HD,5601.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Goiás,https://www.lyngsat.com/tvchannels/br/Record-Goias.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1057.0,Record Bahia,MPEG-4/HD,5701.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Bahia,https://www.lyngsat.com/tvchannels/br/Record-Bahia.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1058.0,Record Paulista,MPEG-4/HD,5801.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Paulista,https://www.lyngsat.com/tvchannels/br/Record-Paulista.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1059.0,Record Manaus,MPEG-4/HD,5901.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Manaus,https://www.lyngsat.com/tvchannels/br/Record-Manaus.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1060.0,Record Rio,MPEG-4/HD,6001.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Rio,https://www.lyngsat.com/tvchannels/br/Record-Rio.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1061.0,Record Litoral e Vale,MPEG-4/HD,6101.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Litoral e Vale,https://www.lyngsat.com/tvchannels/br/Record-Litoral-e-Vale.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1063.0,Record Rio Preto,MPEG-4/HD,6301.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Rio Preto,https://www.lyngsat.com/tvchannels/br/Record-Rio-Preto.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1064.0,Record Interior RJ,MPEG-4/HD,6401.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Interior RJ,https://www.lyngsat.com/tvchannels/br/Record-Interior-RJ.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1065.0,Record Interior SP,MPEG-4/HD,6501.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Interior SP,https://www.lyngsat.com/tvchannels/br/Record-Interior-SP.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1066.0,Record Cabrália,MPEG-4/HD,6601.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Cabrália,https://www.lyngsat.com/tvchannels/br/Record-Cabralia.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1067.0,Record Minas,MPEG-4/HD,6701.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,Record Minas,https://www.lyngsat.com/tvchannels/br/Record-Minas.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1070.0,TV Cidade Fortaleza,MPEG-4/HD,7001.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1071.0,TV Antena 10,MPEG-4/HD,7101.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1071.0,TV Antena 10,MPEG-4/HD,7101.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1073.0,TV Correio,MPEG-4/HD,7301.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1074.0,BetBox TV,MPEG-4/HD,7401.0,11820 H,tp 3ANK,0.0,,,BetBox TV,https://www.lyngsat.com/tvchannels/br/BetBox-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+1076.0,TV Norte Amazonas,MPEG-4/HD,7601.0,11820 H,tp 3ANK,0.0,"Verimatrix (B),Nagravision",,TV Norte Amazonas,https://www.lyngsat.com/tvchannels/br/TV-Norte-Amazonas.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+345.0,Boa Vontade TV,MPEG-4/HD,3873.0,12000 V,tp 8BNK,0.0,,,Boa Vontade TV,https://www.lyngsat.com/tvchannels/br/Boa-Vontade-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+345.0,Boa Vontade TV,MPEG-4/HD,3873.0,12000 V,tp 8BNK,0.0,,,Boa Vontade TV,https://www.lyngsat.com/tvchannels/br/Boa-Vontade-TV.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+350.0,Gazin,MPEG-4/HD,3923.0,12000 V,tp 8BNK,0.0,,,Gazin,https://www.lyngsat.com/tvchannels/br/Gazin.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+355.0,Band RS,MPEG-4/HD,3973.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band RS,https://www.lyngsat.com/tvchannels/br/Band-RS.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+356.0,Band Paraná,MPEG-4/HD,3983.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band Paraná,https://www.lyngsat.com/tvchannels/br/Band-Parana.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+357.0,Band Campinas,MPEG-4/HD,3993.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band Campinas,https://www.lyngsat.com/tvchannels/br/Band-Campinas.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+358.0,Band Vale,MPEG-4/HD,4003.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band Vale,https://www.lyngsat.com/tvchannels/br/Band-Vale.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+359.0,Band SP Interior,MPEG-4/HD,4013.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band SP Interior,https://www.lyngsat.com/tvchannels/br/Band-SP-Interior.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+360.0,Band Amazonas,MPEG-4/HD,4023.0,12000 V,tp 8BNK,0.0,"Verimatrix (B),Nagravision",,Band Amazonas,https://www.lyngsat.com/tvchannels/br/Band-Amazonas.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+368.0,Rádio Gospel FM,,,12000 V,tp 8BNK,0.0,,,Rádio Gospel FM,https://www.lyngsat.com/radiochannels/br/Radio-Gospel-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+368.0,Rádio Gospel FM,,,12000 V,tp 8BNK,0.0,,,Rádio Gospel FM,https://www.lyngsat.com/radiochannels/br/Radio-Gospel-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+390.0,Rádio Band News FM,,,12000 V,tp 8BNK,0.0,,,Rádio Band News FM,https://www.lyngsat.com/radiochannels/br/Radio-Band-News-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+391.0,Rádio Bandeirantes AM,,,12000 V,tp 8BNK,0.0,,,Rádio Bandeirantes AM,https://www.lyngsat.com/radiochannels/br/Radio-Bandeirantes-AM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+392.0,Band FM,,,12000 V,tp 8BNK,0.0,,,Band FM,https://www.lyngsat.com/radiochannels/br/Band-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+393.0,Nativa FM São Paulo,,,12000 V,tp 8BNK,0.0,,,Nativa FM São Paulo,https://www.lyngsat.com/radiochannels/br/Nativa-FM-Sao-Paulo.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+,Nossa TV,,,12020 H,tp 8ANK,0.0,Nagravision,,,,False,Speedcast,3/4,28800.0,DVB-S2,,,
+,Claro Brasil,,,12080 V,tp 10BNK,0.0,Nagravision,,,,False,Speedcast,3/5,29890.0,DVB-S2,,,
+308.0,TV Paranaíba,MPEG-4/HD,5173.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,TV Paranaíba,https://www.lyngsat.com/tvchannels/br/TV-Paranaiba.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+308.0,TV Paranaíba,MPEG-4/HD,5173.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,TV Paranaíba,https://www.lyngsat.com/tvchannels/br/TV-Paranaiba.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+309.0,SBT Rio,MPEG-4/HD,5183.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,SBT Rio,https://www.lyngsat.com/tvchannels/br/SBT-Rio.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+313.0,SBT Brasília,MPEG-4/HD,5223.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,SBT Brasília,https://www.lyngsat.com/tvchannels/br/SBT-Brasilia.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+314.0,Record Nacional,MPEG-4/HD,5233.0,12120 V,tp 11BNK,0.0,"Verimatrix (B),Nagravision",,Record Nacional,https://www.lyngsat.com/tvchannels/br/Record-Nacional.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+323.0,Rede 21,MPEG-4/HD,3323.0,12160 V,tp 12BNK,0.0,,,Rede 21,https://www.lyngsat.com/tvchannels/br/Rede-21.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+330.0,TV Diversa,MPEG-4/HD,3393.0,12160 V,tp 12BNK,0.0,,,TV Diversa,https://www.lyngsat.com/tvchannels/br/TV-Diversa.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+332.0,Rede CNT Curitiba,MPEG-4/HD,3413.0,12160 V,tp 12BNK,0.0,,,Rede CNT Curitiba,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Curitiba.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+333.0,Rede CNT Rio de Janeiro,MPEG-4/HD,3423.0,12160 V,tp 12BNK,0.0,,,Rede CNT Rio de Janeiro,https://www.lyngsat.com/tvchannels/br/Rede-CNT-Rio-de-Janeiro.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+336.0,Band Minas,MPEG-4/HD,3453.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band Minas,https://www.lyngsat.com/tvchannels/br/Band-Minas.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+337.0,Band Bahia,MPEG-4/HD,3463.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band Bahia,https://www.lyngsat.com/tvchannels/br/Band-Bahia.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+340.0,SBT Rio Grande,MPEG-4/HD,3473.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+343.0,Band Rio,MPEG-4/HD,3483.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,Band Rio,https://www.lyngsat.com/tvchannels/br/Band-Rio.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+344.0,SBT SP,MPEG-4/HD,3493.0,12160 V,tp 12BNK,0.0,"Verimatrix (B),Nagravision",,SBT SP,https://www.lyngsat.com/tvchannels/br/SBT-SP.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar FM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar FM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+329.0,Rádio Evangelizar FM,,,12160 V,tp 12BNK,0.0,,,Rádio Evangelizar FM,https://www.lyngsat.com/radiochannels/br/Radio-Evangelizar-FM.html,False,Speedcast,2/3,29900.0,DVB-S2,Por,br,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,PAL,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK50002/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK57003/4,Verimatrix (B)Nagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S25003/5,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S25003/5,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S50003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S50003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S50003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S50003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK41663/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK41663/5,Verimatrix (B)Nagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK37503/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK41665/6,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK41665/6,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,Verimatrix (B)Nagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75002/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S21703/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S21703/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S21703/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S21703/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S25000,IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S33283/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S33283/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK29162/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK29162/3,Verimatrix (B)IrdetoNagravision,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S44003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S44003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S44003/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S18753/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S18525/6,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S18525/6,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK33333/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK33333/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S25203/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S25203/4,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK32005/6,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK25002/3,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK25002/3,,False,Speedcast,,,,,,
+,,,,,,,,,DVB-S28PSK75003/4,BISS,False,Speedcast,,,,,,

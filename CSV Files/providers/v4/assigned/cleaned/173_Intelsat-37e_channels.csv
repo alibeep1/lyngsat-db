@@ -1,0 +1,74 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,,,,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,
+,,,,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,
+,Rede Internacional de TV,MPEG-4/HD,102.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,Rede Internacional de TV,MPEG-4/SD,152.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,Rede Internacional de TV,MPEG-4/1seg,602.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,RIT Notícias,MPEG-4/SD,202.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,(feeds),,252.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,
+,(feeds),,,11474 H,,,,,False,,3/4,7500,DVB-S2,
+,(feeds),,,12616 H,,,,,False,,3/4,26900,DVB-S2,
+,Igreja Internacional da Graça de Deus,MPEG-4/SD,302.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,SOS Espiritual,MPEG-4/SD,402.0,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,Nossa Rádio,,,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,Rádio Relógio,,,3760 R,tp LAMRD,,,,False,,5/6,7567,DVB-S2,Por
+,TV Farol RS,MPEG-4/1seg,51.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Farol RS,MPEG-4/HD,102.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Nova Conexão,MPEG-4/HD,54.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Nova Conexão,MPEG-4/1seg,59.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Primavera,MPEG-4/SD,273.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Primavera,MPEG-4/1seg,527.0,3768 R,tp LAMRD,,,,False,,5/6,5980,DVB-S2,Por
+,TV Sul Bahia,,,3773 R,tp LAMRD,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,
+,TV Sul Bahia,MPEG-4/HD,102.0,3773 R,tp LAMRD,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,Por
+,TV Sul Bahia,MPEG-4/1seg,602.0,3773 R,tp LAMRD,,,https://www.lyngsat.com/providers/br/TV-Sul-Bahia.html,True,TV Sul Bahia,2/3,2397,DVB-S2,Por
+,TV Barriga Verde,,,3778 L,tp LAMLD,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,
+,TV Barriga Verde,MPEG-4/HD,273.0,3778 L,tp LAMLD,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,Por
+,TV Barriga Verde,MPEG-4/1seg,529.0,3778 L,tp LAMLD,,,https://www.lyngsat.com/providers/br/TV-Barriga-Verde.html,True,TV Barriga Verde,5/6,3993,DVB-S2,Por
+,Rede Centro Oeste,,,3778 R,tp LAMRD,,,https://www.lyngsat.com/providers/br/Rede-Centro-Oeste.html,True,Rede Centro Oeste,5/6,6333,DVB-S2,
+,TV Guanandi,MPEG-4/HD,102.0,3778 R,tp LAMRD,,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por
+,TV Guanandi,MPEG-4/1seg,602.0,3778 R,tp LAMRD,,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por
+,SBT MS,MPEG-4/1seg,272.0,3778 R,tp LAMRD,,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por
+,SBT MS,MPEG-4/HD,529.0,3778 R,tp LAMRD,,,,False,Rede Centro Oeste,5/6,6333,DVB-S2,Por
+,Ghanian mux,,,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,
+301.0,GBC News,MPEG-4/SD,111.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+303.0,GH One TV,MPEG-4/SD,131.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+304.0,TV 3 (Ghana),MPEG-4/SD,141.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+305.0,Metro TV (Ghana),MPEG-4/SD,151.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+307.0,Pent TV,MPEG-4/SD,171.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+308.0,Kessben TV,MPEG-4/SD,181.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+316.0,[Joy Prime test card],MPEG-4/SD,261.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,
+317.0,[Joy News test card],MPEG-4/SD,271.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,
+318.0,[Adom TV test card],MPEG-4/SD,281.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,
+320.0,United TV,MPEG-4/SD,301.0,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+304.0,Peace FM,,,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+308.0,YFM,,,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+317.0,Joy FM,,,3990 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,9036,DVB-S2,Eng
+,Mozambican mux,1-6,,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,
+601.0,Strong Live,MPEG-4/SD,111.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+602.0,Media Mais TV,MPEG-4/SD,121.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+603.0,Gloom Channel,MPEG-4/SD,131.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+604.0,Mega TV (Mozambique),MPEG-4/SD,141.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+605.0,Top TV (Mozambique),MPEG-4/SD,151.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+606.0,TV Miramar,MPEG-4/SD,161.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+607.0,Soico TV,MPEG-4/SD,171.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+608.0,TV Sucesso (Mozambique),MPEG-4/SD,181.0,4000 R,tp AFCRD,38.1,,,False,Rede Centro Oeste,5/6,7636,DVB-S2,Por
+,TPA,1-5,,4008 R,tp AFCRD,38.1,,https://www.lyngsat.com/providers/ao/TPA.html,True,TPA,3/4,6730,DVB-S2,
+1.0,TPA 1,MPEG-4/SD,101.0,4008 R,tp AFCRD,38.1,,,False,TPA,3/4,6730,DVB-S2,Por
+2.0,TPA 2,MPEG-4/SD,111.0,4008 R,tp AFCRD,38.1,,,False,TPA,3/4,6730,DVB-S2,Por
+1.0,ZBC TV (Zimbabwe),1-1MPEG-2/SD,33.0,4016 R,tp AFCRD,38.1,BISS,,False,TPA,2/3,4445,DVB-S4,Eng
+1.0,Radio Zimbabwe,,,4016 R,tp AFCRD,38.1,BISS,,False,TPA,2/3,4445,DVB-S4,Eng
+1.0,Power FM (Zimbabwe),,,4016 R,tp AFCRD,38.1,BISS,,False,TPA,2/3,4445,DVB-S4,Eng
+1.0,Emmanuel TV,65535-1MPEG-4/SD,33.0,4030 R,tp AFCRD,38.1,,,False,TPA,3/4,2500,DVB-S2,Eng
+,ORTM,,,4095 L,tp AFCLD,38.1,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,P 0,,DVB-S2,
+,ORTM,,,4095 L,tp AFCLD,38.1,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,P 0,,DVB-S2,
+,ORTM,1-1,,4129 L,tp GCLD,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,3/4,2060,DVB-S2,
+,ORTM,1-1,,4129 L,tp GCLD,,,https://www.lyngsat.com/providers/ml/ORTM.html,True,ORTM,3/4,2060,DVB-S2,
+1.0,ORTM 1,MPEG-4/HD,110.0,4095 L,tp AFCLD,38.1,,,False,ORTM,P 0,,DVB-S2,Fre
+1.0,ORTM 1,MPEG-4/SD,611.0,4129 L,tp GCLD,,,,False,ORTM,3/4,2060,DVB-S2,Fre
+2.0,ORTM 2,MPEG-4/HD,210.0,4095 L,tp AFCLD,38.1,,,False,ORTM,P 0,,DVB-S2,Fre
+2.0,ORTM 2,MPEG-4/SD,711.0,4129 L,tp GCLD,,,,False,ORTM,3/4,2060,DVB-S2,Fre
+3.0,TM1 TV,MPEG-4/SD,520.0,4095 L,tp AFCLD,38.1,,,False,ORTM,P 0,,DVB-S2,Fre
+4.0,Segou TV,MPEG-4/SD,2010.0,4095 L,tp AFCLD,38.1,,,False,ORTM,P 0,,DVB-S2,Fre
+5.0,Cherifla TV,MPEG-4/SD,1010.0,4095 L,tp AFCLD,38.1,,,False,ORTM,P 0,,DVB-S2,Fre
+3.0,ORTM Radio Mali,,,4129 L,tp GCLD,,,,False,ORTM,3/4,2060,DVB-S2,Fre
+4.0,ORTM Chaîne 2,,,4129 L,tp GCLD,,,,False,ORTM,3/4,2060,DVB-S2,Fre

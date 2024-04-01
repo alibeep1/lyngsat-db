@@ -1,0 +1,78 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+11747 Ltp 2Ku0,DVB-S28PSK238005/6,,SkyLife,,173-10,,9.4,Nagravision,Computech230626,11747 L,tp 2,0.0,Nagravision,,,,False,
+11785 Ltp 4Ku0,DVB-S28PSK23800,,SkyLife,,173-1,,,NagravisionVideoguard,Computech230626,11785 L,tp 4,0.0,"Nagravision,Videoguard",,,,False,
+11823 Ltp 6Ku0,DVB-S28PSK238005/6,,SkyLife,,173-2,,9.4,NagravisionVideoguard,Computech230626,11823 L,tp 6,0.0,"Nagravision,Videoguard",,,,False,
+11862 Ltp 8Ku0,DVB-S28PSK238005/6,,SkyLife,,173-3,,9.4,NagravisionVideoguard,Computech230626,11862 L,tp 8,0.0,"Nagravision,Videoguard",,,,False,
+11900 Ltp 10Ku0,DVB-S28PSK238003/4,,SkyLife,,173-4,,7.9,NagravisionVideoguard,Computech230626,11900 L,tp 10,0.0,"Nagravision,Videoguard",,,,False,
+11938 Ltp 12Ku0,DVB-S28PSK238005/6,,SkyLife,,173-5,,9.4,Nagravision,Computech230626,11938 L,tp 12,0.0,Nagravision,,,,False,
+12290 Htp CS2Ku0,DVB-S28PSK295003/4,,SkyLife,,173-16,,7.9,NagravisionVideoguard,Computech230626,12290 H,tp CS2,0.0,"Nagravision,Videoguard",,,,False,
+12330 Htp CS4Ku0,DVB-S28PSK295003/4,,SkyLife,,173-13,,7.9,NagravisionVideoguard,Computech230626,12330 H,tp CS4,0.0,"Nagravision,Videoguard",,,,False,
+12370 Htp CS6Ku0,DVB-S28PSK295003/4,,SkyLife,,173-18,,7.9,NagravisionVideoguard,Computech230626,12370 H,tp CS6,0.0,"Nagravision,Videoguard",,,,False,
+12410 Htp CS8Ku0,DVB-S28PSK295003/4,,SkyLife,,173-6,,7.9,NagravisionVideoguard,Computech230626,12410 H,tp CS8,0.0,"Nagravision,Videoguard",,,,False,
+12450 Htp CS10Ku0,DVB-S28PSK274893/4,,SkyLife,,173-7,,7.9,NagravisionVideoguard,Computech230627,12450 H,tp CS10,0.0,"Nagravision,Videoguard",,,,False,
+12490 Htp CS12Ku0,DVB-S28PSK295003/4,,SkyLife,,173-8,,7.9,NagravisionVideoguard,Computech230627,12490 H,tp CS12,0.0,"Nagravision,Videoguard",,,,False,
+12530 Htp CS14Ku0,DVB-S28PSK274893/4,,SkyLife,,173-9,,7.9,NagravisionVideoguard,Computech230627,12530 H,tp CS14,0.0,"Nagravision,Videoguard",,,,False,
+12570 Htp CS16Ku0,DVB-S28PSK295003/4,,SkyLife,,173-11,,7.9,NagravisionVideoguard,NHMPlay231015,12570 H,tp CS16,0.0,"Nagravision,Videoguard",,,,False,
+12610 Htp CS18Ku0,DVB-S28PSK295003/4,,SkyLife,,,,7.9,NagravisionVideoguard,Computech230626,12610 H,tp CS18,0.0,"Nagravision,Videoguard",,,,False,
+12650 Htp CS20Ku0,DVB-S28PSK295003/4,,SkyLife,,173-15,,7.9,Nagravision,Computech230627,12650 H,tp CS20,0.0,Nagravision,,,,False,
+12690 Htp CS22Ku0,DVB-S28PSK295003/4,,SkyLife,,173-17,,7.9,NagravisionVideoguard,Computech230626,12690 H,tp CS22,0.0,"Nagravision,Videoguard",,,,False,
+12730 Htp CS24Ku0,DVB-S28PSK295003/4,,SkyLife,,173-12,,7.9,NagravisionVideoguard,Computech230627,12730 H,tp CS24,0.0,"Nagravision,Videoguard",,,,False,
+11900 Ltp 10Ku0,DVB-S28PSK238003/4,403.0,KBS 1 TV,,MPEG-4/HD,1072.0,1075 Kor,,,11900 L,tp 10,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+11900 Ltp 10Ku0,DVB-S28PSK238003/4,403.0,KBS 1 TV,,MPEG-4/HD,1072.0,1075 Kor,,,11900 L,tp 10,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+11900 Ltp 10Ku0,DVB-S28PSK238003/4,403.0,KBS 1 TV,,MPEG-4/HD,1072.0,1075 Kor,,,11900 L,tp 10,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS 1 TV,,MPEG-4/HD,101.0,111 Kor,,,12523 V,tp CS13,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS 1 TV,,MPEG-4/HD,101.0,111 Kor,,,12523 V,tp CS13,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS 1 TV,,MPEG-4/HD,101.0,111 Kor,,,12523 V,tp CS13,0.0,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12670 Vtp CS21Ku0,DVB-S267007/8,10.0,KBS 1 TV,,MPEG-2/SD,1391.0,1393 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12670 Vtp CS21Ku0,DVB-S267007/8,10.0,KBS 1 TV,,MPEG-2/SD,1391.0,1393 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+12670 Vtp CS21Ku0,DVB-S267007/8,10.0,KBS 1 TV,,MPEG-2/SD,1391.0,1393 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,
+11938 Ltp 12Ku0,DVB-S28PSK238005/6,521.0,Latest popular song,,,,1539 Kor,,,11938 L,tp 12,0.0,,,Latest popular song,https://www.lyngsat.com/radiochannels/kr/Latest-popular-song.html,False,
+11938 Ltp 12Ku0,DVB-S28PSK238005/6,522.0,Is it popular?,,,,1540 Kor,,,11938 L,tp 12,0.0,,,Is it popular?,https://www.lyngsat.com/radiochannels/kr/Is-it-popular.html,False,
+11938 Ltp 12Ku0,DVB-S28PSK238005/6,523.0,Old Pop Song of Memories,,,,1541 Eng,,,11938 L,tp 12,0.0,,,Old Pop Song of Memories,https://www.lyngsat.com/radiochannels/kr/Old-Pop-Song-of-Memories.html,False,
+11938 Ltp 12Ku0,DVB-S28PSK238005/6,524.0,EQ songs with mom,,,,1542 Kor,,,11938 L,tp 12,0.0,,,EQ songs with mom,https://www.lyngsat.com/radiochannels/kr/EQ-songs-with-mom.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,,,,4369-1,,7.2,Codicrypt,T Kameda201114,12390 V,tp CS7,0.0,Codicrypt,,,,False,
+12670 Vtp CS21Ku0,DVB-S267007/8,,,,4369-1,,7.2,Codicrypt,Computech230628,12670 V,tp CS21,0.0,Codicrypt,,,,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,508.0,Ch W,,MPEG-2/SD,1871.0,1872 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,Ch W,https://www.lyngsat.com/tvchannels/kr/Ch-W.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,801.0,JEI Talent TV,,MPEG-2/SD,784.0,785 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,JEI Talent TV,https://www.lyngsat.com/tvchannels/kr/JEI-Talent-TV.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,803.0,MTN,,MPEG-2/SD,912.0,913 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,MTN,https://www.lyngsat.com/tvchannels/kr/MTN.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,805.0,JTBC Golf,,MPEG-2/SD,1040.0,1041 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,JTBC Golf,https://www.lyngsat.com/tvchannels/kr/JTBC-Golf.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,806.0,Arirang Korea,,MPEG-2/SD,1168.0,1169 Eng,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,Arirang Korea,https://www.lyngsat.com/tvchannels/kr/Arirang-Korea.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,806.0,Arirang Korea,,MPEG-2/SD,1168.0,1169 Eng,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,Arirang Korea,https://www.lyngsat.com/tvchannels/kr/Arirang-Korea.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,807.0,K Shopping,,MPEG-2/SD,1232.0,1233 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,K Shopping,https://www.lyngsat.com/tvchannels/kr/K-Shopping.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,808.0,SBS Plus,,MPEG-2/SD,1296.0,1297 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,SBS Plus,https://www.lyngsat.com/tvchannels/kr/SBS-Plus.html,False,
+12390 Vtp CS7Ku0,DVB-S267007/8,809.0,SBS Biz,,MPEG-2/SD,1360.0,1361 Kor,Codicrypt,,12390 V,tp CS7,0.0,Codicrypt,,SBS Biz,https://www.lyngsat.com/tvchannels/kr/SBS-Biz.html,False,
+12406 Vtp CS7Ku0,DVB-S2400,,MBN,,MPEG-4/SD,308.0,256 Kor,,Computech230629,12406 V,tp CS7,0.0,,,,,False,
+12467 Vtp CS11Ku,DVB-S2123003/4,,(feeds),,,,,,N Kawano131229,12467 V,tp CS11,,,,,,False,
+12506 Vtp CS13Ku,DVB-S35153/4,,(feeds),,,,,,M Nyugaku 3100516,12506 V,tp CS13,,,,,,False,
+12511 Vtp CS13Ku,DVB-S35153/4,,(feeds),,,,,,M Nyugaku 3100520,12511 V,tp CS13,,,,,,False,
+12517 Vtp CS13Ku,DVB-S35153/4,,(feeds),,,,,,N Kawano100929,12517 V,tp CS13,,,,,,False,
+12695 Vtp CS23Ku,DVB-S35153/4,,(feeds),,,,,,N Kawano101126,12695 V,tp CS23,,,,,,False,
+12706 Vtp CS23Ku,DVB-S60003/4,,(feeds),,,,,,N Kawano130806,12706 V,tp CS23,,,,,,False,
+12724 Vtp CS23Ku,DVB-S28PSK53303/4,,(feeds),,,,,,N Kawano131231,12724 V,tp CS23,,,,,,False,
+12498 Vtp CS13Ku0,DVB-S88667/8,1.0,Kkachi TV,,?-?MPEG-2/SD,1001.0,7.21002 Eng,,T Pappagallo220715,12498 V,tp CS13,0.0,,,,,False,
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,,KBS,,4369-1,,9.4,,N Kawano150103,12523 V,tp CS13,0.0,,https://www.lyngsat.com/providers/kr/KBS.html,,,True,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,2.0,KBS 2 TV,,MPEG-4/HD,201.0,211 Kor,,,12523 V,tp CS13,0.0,,,KBS 2 TV,https://www.lyngsat.com/tvchannels/kr/KBS-2-TV.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS 1 Radio,,,,113 Kor,,,12523 V,tp CS13,0.0,,,KBS 1 Radio,https://www.lyngsat.com/radiochannels/kr/KBS-1-Radio.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS 1 Radio,,,,113 Kor,,,12523 V,tp CS13,0.0,,,KBS 1 Radio,https://www.lyngsat.com/radiochannels/kr/KBS-1-Radio.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS Classic FM,,,,.14 Kor,,,12523 V,tp CS13,0.0,,,KBS Classic FM,https://www.lyngsat.com/radiochannels/kr/KBS-Classic-FM.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,1.0,KBS Classic FM,,,,.14 Kor,,,12523 V,tp CS13,0.0,,,KBS Classic FM,https://www.lyngsat.com/radiochannels/kr/KBS-Classic-FM.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,2.0,KBS Happy FM,,,,213 Kor,,,12523 V,tp CS13,0.0,,,KBS Happy FM,https://www.lyngsat.com/radiochannels/kr/KBS-Happy-FM.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,2.0,KBS Happy FM,,,,213 Kor,,,12523 V,tp CS13,0.0,,,KBS Happy FM,https://www.lyngsat.com/radiochannels/kr/KBS-Happy-FM.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,2.0,KBS 3 Radio,,,,214 Kor,,,12523 V,tp CS13,0.0,,,KBS 3 Radio,https://www.lyngsat.com/radiochannels/kr/KBS-3-Radio.html,False,KBS
+12523 Vtp CS13Ku0,DVB-S28PSK79005/6,2.0,KBS 3 Radio,,,,214 Kor,,,12523 V,tp CS13,0.0,,,KBS 3 Radio,https://www.lyngsat.com/radiochannels/kr/KBS-3-Radio.html,False,KBS
+12545 Vtp CS15Ku0,DVB-S28PSK25005/6,1.0,SBS (South Korea),,?-?MPEG-4/HD,33.0,9.4  36 Kor,,Computech230626,12545 V,tp CS15,0.0,,,,,False,KBS
+12560 Vtp CS15Ku0,DVB-S28PSK38183/4,1.0,MBC (South Korea),,8192-4096MPEG-4/HD,513.0,7.94112 Kor,,Computech230630,12560 V,tp CS15,0.0,,,,,False,KBS
+12560 Vtp CS15Ku0,DVB-S28PSK38183/4,1.0,MBC Standard FM,,,,4114 Kor,,,12560 V,tp CS15,0.0,,,MBC Standard FM,https://www.lyngsat.com/radiochannels/kr/MBC-Standard-FM.html,False,KBS
+12560 Vtp CS15Ku0,DVB-S28PSK38183/4,1.0,MBC FM4U,,,,4115 Kor,,,12560 V,tp CS15,0.0,,,MBC FM4U,https://www.lyngsat.com/radiochannels/kr/MBC-FM4U.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,1.0,Ching,,MPEG-2/SD,1301.0,1303 Chi,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,Ching,https://www.lyngsat.com/tvchannels/kr/Ching.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,2.0,ENA Story,,MPEG-2/SD,1311.0,1313 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,ENA Story,https://www.lyngsat.com/tvchannels/kr/ENA-Story.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,3.0,Indie Film,,MPEG-2/SD,1321.0,1323 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,Indie Film,https://www.lyngsat.com/tvchannels/kr/Indie-Film.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,4.0,Baduk TV,,MPEG-2/SD,1331.0,1333 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,Baduk TV,https://www.lyngsat.com/tvchannels/kr/Baduk-TV.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,5.0,China TV,,MPEG-2/SD,1341.0,1343 Chi,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,China TV,https://www.lyngsat.com/tvchannels/kr/China-TV.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,6.0,Fashion N,,MPEG-2/SD,1351.0,1353 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,Fashion N,https://www.lyngsat.com/tvchannels/kr/Fashion-N.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,7.0,Screen,,MPEG-2/SD,1361.0,1363 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,Screen,https://www.lyngsat.com/tvchannels/kr/Screen.html,False,KBS
+12670 Vtp CS21Ku0,DVB-S267007/8,8.0,View,,MPEG-2/SD,1371.0,1373 Kor,Codicrypt,,12670 V,tp CS21,0.0,Codicrypt,,View,https://www.lyngsat.com/tvchannels/kr/View.html,False,KBS
+,,,,,,,,,,,,,,,DVB-S2400,,False,KBS
+,,,,,,,,,,,,,,,DVB-S88667/8,,False,KBS
+,,,,,,,,,,,,,,,DVB-S28PSK25005/6,,False,KBS
+,,,,,,,,,,,,,,,DVB-S28PSK38183/4,,False,KBS

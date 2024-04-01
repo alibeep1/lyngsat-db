@@ -1,0 +1,17 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL
+12276 V,DVB-S28PSK74572/3,,(feeds),,,,,,T Kameda131112,12276 V,,,,,,
+12306 Vtp 13Japan,DVB-S28PSK74572/3,,(feeds),,,,,,T Kameda130626,12306 V,tp 13,,,,,
+12319 Vtp 13Japan,DVB-S149103/4,,(feeds),,,,,,T Kameda130424,12319 V,tp 13,,,,,
+12336 Vtp 13Japan,DVB-S216APSK74572/3,,(feeds),,,,,,T Kameda150105,12336 V,tp 13,,,,,
+12394 Vtp 14NE Asia,DVB-S216APSK74572/3,,(feeds),,,,,,T Kameda150105,12394 V,tp 14,,,,,
+12403 Vtp 14NE Asia,DVB-S28PSK74572/3,,(feeds),,,,,,T Kameda130626,12403 V,tp 14,,,,,
+12546 Htp 5Japan,DVB-S28PSK93653/5,,(feeds),,,,,,T Kameda130616,12546 H,tp 5,,,,,
+12363 Vtp 14NE Asia0,DVB-S216APSK74582/3,1,NHK Educational TV,,?-?MPEG-4/HD,133,134 Jpn,BISS,T Kameda200714,12363 V,tp 14,0,BISS,,,
+12385 Vtp 14NE Asia0,DVB-S2QPSK74581/2,1,NHK General TV,,?-?MPEG-4/HD,133,1.0 134 Jpn,,T Kameda200903,12385 V,tp 14,0,,,,
+12508 Vtp 17Japan0,DVB-S210963/4,,Sound Planet,,5-1,,5.5,StarGuide,T Kameda091231,12508 V,tp 17,0,StarGuide,,,
+12598 Vtp 20Japan0,DVB-S210963/4,,Sound Planet,,5-2,,5.5,StarGuide,T Kameda091231,12598 V,tp 20,0,StarGuide,,,
+12658 Vtp 22Japan0,DVB-S210963/4,,Sound Planet,,5-3,,5.5,StarGuide,T Moll180106,12658 V,tp 22,0,StarGuide,,,
+12558 Vtp 19Japan0,DVB-S35153/4,1,Medekiku TV (Tue/Thu/Sat 12.00-22.30),,1-1MPEG-2/SD,164,5.5 163 Jpn,,T Kameda110903,12558 V,tp 19,0,,,,
+,,,,,,,,,,,,,,,DVB-S216APSK74582/3,BISS
+,,,,,,,,,,,,,,,DVB-S2QPSK74581/2,
+,,,,,,,,,,,,,,,DVB-S35153/4,

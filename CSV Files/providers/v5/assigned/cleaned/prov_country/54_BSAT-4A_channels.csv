@@ -1,0 +1,5 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,BS Digital,,,11862 L,tp 8,,ACAS,,,,False,,56.0,337,ISDB-S,,,
+,BS Digital,,,11977 L,tp 14,,ACAS,,,,False,,56.0,337,ISDB-S,,,
+45184.0,Shop Channel 4K,HEVC/UHD,,11862 L,tp 8,,ACAS,,Shop Channel 4K,https://www.lyngsat.com/tvchannels/jp/Shop-Channel-4K.html,False,,56.0,337,ISDB-S,Jpn,jp,
+45185.0,QVC Japan 4K,HEVC/UHD,,11862 L,tp 8,,ACAS,,QVC Japan 4K,https://www.lyngsat.com/tvchannels/us/QVC-Japan-4K.html,False,,56.0,337,ISDB-S,Jpn,us,

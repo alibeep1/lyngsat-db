@@ -1,0 +1,64 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,TVD,1-3,,12270 V,,0,Irdeto,,,,False,,2/3,30000,DVB-S2,,
+,TVD,1-2,,12310 V,,0,Irdeto,,,,False,,2/3,30000,DVB-S2,,
+,TVD,1-1,,12350 V,,0,Irdeto,,,,False,,1/2,30000,DVB-S2,,
+951.0,CDTV,MPEG-4/HD,911.0,12270 V,,0,,,CDTV,https://www.lyngsat.com/tvchannels/cl/CDTV.html,False,,2/3,30000,DVB-S2,Spa,cl
+951.0,CDTV,MPEG-4/HD,911.0,12270 V,,0,,,CDTV,https://www.lyngsat.com/tvchannels/cl/CDTV.html,False,,2/3,30000,DVB-S2,Spa,cl
+1952.0,CDTV,MPEG-4/1seg,931.0,12270 V,,0,,,CDTV,https://www.lyngsat.com/tvchannels/cl/CDTV.html,False,,2/3,30000,DVB-S2,Spa,cl
+1952.0,CDTV,MPEG-4/1seg,931.0,12270 V,,0,,,CDTV,https://www.lyngsat.com/tvchannels/cl/CDTV.html,False,,2/3,30000,DVB-S2,Spa,cl
+952.0,TV Senado (Chile),MPEG-4/HD,921.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+952.0,TV Senado (Chile),MPEG-4/HD,921.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+952.0,TV Senado (Chile),MPEG-4/HD,921.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+952.0,TV Senado (Chile),MPEG-4/HD,921.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+2053.0,TV Senado (Chile),MPEG-4/1seg,1031.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+2053.0,TV Senado (Chile),MPEG-4/1seg,1031.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+2053.0,TV Senado (Chile),MPEG-4/1seg,1031.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+2053.0,TV Senado (Chile),MPEG-4/1seg,1031.0,12270 V,,0,,,TV Senado (Chile),https://www.lyngsat.com/tvchannels/cl/TV-Senado.html,False,,2/3,30000,DVB-S2,Spa,cl
+3054.0,El Conquistador FM,,,12270 V,,0,,,El Conquistador FM,https://www.lyngsat.com/radiochannels/cl/El-Conquistador-FM.html,False,,2/3,30000,DVB-S2,Spa,cl
+3054.0,El Conquistador FM,,,12270 V,,0,,,El Conquistador FM,https://www.lyngsat.com/radiochannels/cl/El-Conquistador-FM.html,False,,2/3,30000,DVB-S2,Spa,cl
+4054.0,El Conquistador FM Red Norte,,,12270 V,,0,,,El Conquistador FM Red Norte,https://www.lyngsat.com/radiochannels/cl/El-Conquistador-FM-Red-Norte.html,False,,2/3,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12270 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,2/3,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12270 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,2/3,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12270 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,2/3,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12270 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,2/3,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12350 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,1/2,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12350 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,1/2,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12350 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,1/2,30000,DVB-S2,Spa,cl
+5701.0,ADN 97.1,,,12350 V,,0,,,ADN 97.1,https://www.lyngsat.com/radiochannels/cl/ADN-971.html,False,,1/2,30000,DVB-S2,Spa,cl
+5702.0,Los 40 Chile,,,12270 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,2/3,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12270 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,2/3,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12270 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,2/3,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12270 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,2/3,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12350 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,1/2,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12350 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,1/2,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12350 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,1/2,30000,DVB-S2,Spa,es
+5702.0,Los 40 Chile,,,12350 V,,0,,,Los 40 Chile,https://www.lyngsat.com/radiochannels/es/Los-40-Chile.html,False,,1/2,30000,DVB-S2,Spa,es
+5703.0,Corazón,,,12270 V,,0,,,Corazón,https://www.lyngsat.com/radiochannels/cl/Corazon.html,False,,2/3,30000,DVB-S2,Spa,cl
+5703.0,Corazón,,,12270 V,,0,,,Corazón,https://www.lyngsat.com/radiochannels/cl/Corazon.html,False,,2/3,30000,DVB-S2,Spa,cl
+5704.0,Futuro,,,12270 V,,0,,,Futuro,https://www.lyngsat.com/radiochannels/cl/Futuro.html,False,,2/3,30000,DVB-S2,Spa,cl
+5704.0,Futuro,,,12270 V,,0,,,Futuro,https://www.lyngsat.com/radiochannels/cl/Futuro.html,False,,2/3,30000,DVB-S2,Spa,cl
+5705.0,RadioActiva,,,12270 V,,0,,,RadioActiva,https://www.lyngsat.com/radiochannels/cl/RadioActiva.html,False,,2/3,30000,DVB-S2,Spa,cl
+5705.0,RadioActiva,,,12270 V,,0,,,RadioActiva,https://www.lyngsat.com/radiochannels/cl/RadioActiva.html,False,,2/3,30000,DVB-S2,Spa,cl
+5706.0,Concierto,,,12270 V,,0,,,Concierto,https://www.lyngsat.com/radiochannels/cl/Concierto.html,False,,2/3,30000,DVB-S2,Spa,cl
+5706.0,Concierto,,,12270 V,,0,,,Concierto,https://www.lyngsat.com/radiochannels/cl/Concierto.html,False,,2/3,30000,DVB-S2,Spa,cl
+5707.0,FM Dos,,,12270 V,,0,,,FM Dos,https://www.lyngsat.com/radiochannels/cl/FM-Dos.html,False,,2/3,30000,DVB-S2,Spa,cl
+5707.0,FM Dos,,,12270 V,,0,,,FM Dos,https://www.lyngsat.com/radiochannels/cl/FM-Dos.html,False,,2/3,30000,DVB-S2,Spa,cl
+5708.0,Rock & Pop,,,12270 V,,0,,,Rock & Pop,https://www.lyngsat.com/radiochannels/cl/Rock-and-Pop.html,False,,2/3,30000,DVB-S2,Spa,cl
+5709.0,Radio Imagina,,,12270 V,,0,,,Radio Imagina,https://www.lyngsat.com/radiochannels/cl/Radio-Imagina.html,False,,2/3,30000,DVB-S2,Spa,cl
+5709.0,Radio Imagina,,,12270 V,,0,,,Radio Imagina,https://www.lyngsat.com/radiochannels/cl/Radio-Imagina.html,False,,2/3,30000,DVB-S2,Spa,cl
+5710.0,Pudahuel FM,,,12270 V,,0,,,Pudahuel FM,https://www.lyngsat.com/radiochannels/cl/Pudahuel-FM.html,False,,2/3,30000,DVB-S2,Spa,cl
+5710.0,Pudahuel FM,,,12270 V,,0,,,Pudahuel FM,https://www.lyngsat.com/radiochannels/cl/Pudahuel-FM.html,False,,2/3,30000,DVB-S2,Spa,cl
+5718.0,Radio Beethoven,,,12270 V,,0,,,Radio Beethoven,https://www.lyngsat.com/radiochannels/cl/Radio-Beethoven.html,False,,2/3,30000,DVB-S2,Spa,cl
+5718.0,Radio Beethoven,,,12270 V,,0,,,Radio Beethoven,https://www.lyngsat.com/radiochannels/cl/Radio-Beethoven.html,False,,2/3,30000,DVB-S2,Spa,cl
+5719.0,Duna 89.7,,,12270 V,,0,,,Duna 89.7,https://www.lyngsat.com/radiochannels/cl/Duna-897.html,False,,2/3,30000,DVB-S2,Spa,cl
+5719.0,Duna 89.7,,,12270 V,,0,,,Duna 89.7,https://www.lyngsat.com/radiochannels/cl/Duna-897.html,False,,2/3,30000,DVB-S2,Spa,cl
+5720.0,Radio Elquina,,,12270 V,,0,,,Radio Elquina,https://www.lyngsat.com/radiochannels/cl/Radio-Elquina.html,False,,2/3,30000,DVB-S2,Spa,cl
+5721.0,Radio Puclaro,,,12270 V,,0,,,Radio Puclaro,https://www.lyngsat.com/radiochannels/cl/Radio-Puclaro.html,False,,2/3,30000,DVB-S2,Spa,cl
+5722.0,Radio Agricultura,,,12270 V,,0,,,Radio Agricultura,https://www.lyngsat.com/radiochannels/cl/Radio-Agricultura.html,False,,2/3,30000,DVB-S2,Spa,cl
+5722.0,Radio Agricultura,,,12270 V,,0,,,Radio Agricultura,https://www.lyngsat.com/radiochannels/cl/Radio-Agricultura.html,False,,2/3,30000,DVB-S2,Spa,cl
+5723.0,Radio Pauta,,,12270 V,,0,,,Radio Pauta,https://www.lyngsat.com/radiochannels/cl/Radio-Pauta.html,False,,2/3,30000,DVB-S2,Spa,cl
+351.0,Telecanal,MPEG-4/HD,311.0,12310 V,,0,,,Telecanal,https://www.lyngsat.com/tvchannels/cl/Telecanal.html,False,,2/3,30000,DVB-S2,Spa,cl
+351.0,Telecanal,MPEG-4/HD,311.0,12310 V,,0,,,Telecanal,https://www.lyngsat.com/tvchannels/cl/Telecanal.html,False,,2/3,30000,DVB-S2,Spa,cl
+1353.0,Telecanal,MPEG-4/1seg,331.0,12310 V,,0,,,Telecanal,https://www.lyngsat.com/tvchannels/cl/Telecanal.html,False,,2/3,30000,DVB-S2,Spa,cl
+1353.0,Telecanal,MPEG-4/1seg,331.0,12310 V,,0,,,Telecanal,https://www.lyngsat.com/tvchannels/cl/Telecanal.html,False,,2/3,30000,DVB-S2,Spa,cl
+32.0,La Red,MPEG-4/SD,49.0,12350 V,,0,,,La Red,https://www.lyngsat.com/tvchannels/cl/La-Red.html,False,,1/2,30000,DVB-S2,Spa,cl

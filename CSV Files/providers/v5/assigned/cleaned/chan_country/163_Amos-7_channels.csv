@@ -1,0 +1,46 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Yes,171-1,,10972 V,tp 1L,54.0,Videoguard,,,,False,,2/3,30000.0,DVB-S2,,
+,Yes,171-10,,11030 V,,54.0,Videoguard,,,,False,,5/6,27500.0,DVB-S2,,
+,Yes,171-2,,11058 V,,54.0,Videoguard,,,,False,,2/3,15000.0,DVB-S2,,
+,Yes,171-15,,11103 V,,54.0,Videoguard,,,,False,,3/4,30000.0,DVB-S2,,
+,Yes,171-3,,11474 V,,54.0,Videoguard,,,,False,,3/4,27500.0,DVB-S2,,
+,Yes,171-6,,11501 V,,54.0,Videoguard,,,,False,,5/6,13750.0,DVB-S1,,
+2.0,Makan TV,?-?MPEG-4/HD,1212.0,11034 H,,54.0,,,,,False,,2/3,3625.0,DVB-S2,Ara,
+3.0,Kan Tarbut,,,11034 H,,54.0,,,Kan Tarbut,https://www.lyngsat.com/radiochannels/il/Kan-Tarbut.html,False,,2/3,3625.0,DVB-S2,Heb,il
+3.0,Kan Tarbut,,,11034 H,,54.0,,,Kan Tarbut,https://www.lyngsat.com/radiochannels/il/Kan-Tarbut.html,False,,2/3,3625.0,DVB-S2,Heb,il
+4.0,Kan Bet,,,11034 H,,54.0,,,Kan Bet,https://www.lyngsat.com/radiochannels/il/Kan-Bet.html,False,,2/3,3625.0,DVB-S2,Heb,il
+4.0,Kan Bet,,,11034 H,,54.0,,,Kan Bet,https://www.lyngsat.com/radiochannels/il/Kan-Bet.html,False,,2/3,3625.0,DVB-S2,Heb,il
+5.0,Kan Gimmel,,,11034 H,,54.0,,,Kan Gimmel,https://www.lyngsat.com/radiochannels/il/Kan-Gimmel.html,False,,2/3,3625.0,DVB-S2,Heb,il
+5.0,Kan Gimmel,,,11034 H,,54.0,,,Kan Gimmel,https://www.lyngsat.com/radiochannels/il/Kan-Gimmel.html,False,,2/3,3625.0,DVB-S2,Heb,il
+6.0,Makan Radio,,,11034 H,,54.0,,,Makan Radio,https://www.lyngsat.com/radiochannels/il/Makan-Radio.html,False,,2/3,3625.0,DVB-S2,Ara,il
+6.0,Makan Radio,,,11034 H,,54.0,,,Makan Radio,https://www.lyngsat.com/radiochannels/il/Makan-Radio.html,False,,2/3,3625.0,DVB-S2,Ara,il
+7.0,Kan Reka,,,11034 H,,54.0,,,Kan Reka,https://www.lyngsat.com/radiochannels/il/Kan-Reka.html,False,,2/3,3625.0,DVB-S2,,il
+7.0,Kan Reka,,,11034 H,,54.0,,,Kan Reka,https://www.lyngsat.com/radiochannels/il/Kan-Reka.html,False,,2/3,3625.0,DVB-S2,,il
+8.0,Kan Kol HaMusica,,,11034 H,,54.0,,,Kan Kol HaMusica,https://www.lyngsat.com/radiochannels/il/Kan-Kol-HaMusica.html,False,,2/3,3625.0,DVB-S2,Heb,il
+8.0,Kan Kol HaMusica,,,11034 H,,54.0,,,Kan Kol HaMusica,https://www.lyngsat.com/radiochannels/il/Kan-Kol-HaMusica.html,False,,2/3,3625.0,DVB-S2,Heb,il
+9.0,Kan Moreshet,,,11034 H,,54.0,,,Kan Moreshet,https://www.lyngsat.com/radiochannels/il/Kan-Moreshet.html,False,,2/3,3625.0,DVB-S2,Heb,il
+9.0,Kan Moreshet,,,11034 H,,54.0,,,Kan Moreshet,https://www.lyngsat.com/radiochannels/il/Kan-Moreshet.html,False,,2/3,3625.0,DVB-S2,Heb,il
+10.0,Kan 88,,,11034 H,,54.0,,,Kan 88,https://www.lyngsat.com/radiochannels/il/Kan-88.html,False,,2/3,3625.0,DVB-S2,Heb,il
+10.0,Kan 88,,,11034 H,,54.0,,,Kan 88,https://www.lyngsat.com/radiochannels/il/Kan-88.html,False,,2/3,3625.0,DVB-S2,Heb,il
+,,,,11069 H,,54.0,,,,,False,,3/4,3702.0,DVB-S3,,
+,,,,11091 H,,54.0,,,,,False,,1/2,4500.0,DVB-S4,,
+1.0,SBN International,MPEG-2/SD,2001.0,11069 H,,54.0,,,SBN International,https://www.lyngsat.com/tvchannels/us/SBN-International.html,False,,3/4,3702.0,DVB-S3,Eng,us
+4.0,The Word Network,MPEG-2/SD,2004.0,11069 H,,54.0,,,The Word Network,https://www.lyngsat.com/tvchannels/us/The-Word-Network.html,False,,3/4,3702.0,DVB-S3,Eng,us
+10.0,The Overcomer,,,11069 H,,54.0,,,The Overcomer,https://www.lyngsat.com/radiochannels/us/The-Overcomer.html,False,,3/4,3702.0,DVB-S3,Eng,us
+10.0,The Overcomer,,,11069 H,,54.0,,,The Overcomer,https://www.lyngsat.com/radiochannels/us/The-Overcomer.html,False,,3/4,3702.0,DVB-S3,Eng,us
+3.0,Middle East TV,MPEG-4/SD,1160.0,11091 H,,54.0,,,Middle East TV,https://www.lyngsat.com/tvchannels/cy/Middle-East-TV.html,False,,1/2,4500.0,DVB-S4,Eng,cy
+3.0,Middle East TV,MPEG-4/SD,1160.0,11091 H,,54.0,,,Middle East TV,https://www.lyngsat.com/tvchannels/cy/Middle-East-TV.html,False,,1/2,4500.0,DVB-S4,Eng,cy
+4.0,It's Supernatural! Network,MPEG-4/SD,69.0,11091 H,,54.0,,,It's Supernatural! Network,https://www.lyngsat.com/tvchannels/us/Its-Supernatural-Network.html,False,,1/2,4500.0,DVB-S4,Eng,us
+4.0,It's Supernatural! Network,MPEG-4/SD,69.0,11091 H,,54.0,,,It's Supernatural! Network,https://www.lyngsat.com/tvchannels/us/Its-Supernatural-Network.html,False,,1/2,4500.0,DVB-S4,Eng,us
+,(feeds),,,12358 H,,,,,,,False,,3/4,3200.0,DVB-S3,,
+,(feeds),,,12375 H,,,,,,,False,,3/4,23700.0,DVB-S2,,
+,(feeds),,,12382 H,,,,,,,False,,5/6,4610.0,DVB-S2,,
+,(feeds),,,12391 H,,,,,,,False,,3/4,3200.0,DVB-S3,,
+,(feeds),,,12403 H,,,,,,,False,,2/3,3200.0,DVB-S2,,
+,(feeds),,,12408 H,,,,,,,False,,5/6,4610.0,DVB-S2,,
+,(feeds),,,12417 H,,,,,,,False,,5/6,2500.0,DVB-S2,,
+1.0,România TV,65535-1MPEG-2/SD,256.0,12396 H,,0.0,,,,,False,,3/4,3333.0,DVB-S3,Rum,
+,,,,,,,,,DVB-S28PSK36252/3,,False,,,,,,
+,,,,,,,,,DVB-S28PSK36252/3,,False,,,,,,
+,,,,,,,,,DVB-S33333/4,,False,,,,,,
+,,,,,,,,,DVB-S33333/4,,False,,,,,,

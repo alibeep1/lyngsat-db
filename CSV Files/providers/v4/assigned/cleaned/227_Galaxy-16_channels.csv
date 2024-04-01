@@ -1,0 +1,93 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,3793 V,tp 4,,,,False,,1/2,27030,DVB-S2,
+,(feeds),,,3980 V,tp 14,,,,False,,5/6,26470,DVB-S2,
+,(feeds),,,4091 V,tp 20,,,,False,,3/4,13235,DVB-S1,
+,(feeds),,,4194 V,tp 24,,,,False,,3/4,7500,DVB-S2,
+1.0,CV Shopping,65535-1MPEG-4/SD,33.0,3855 V,tp 8,0.0,,,False,,5/6,1667,DVB-S2,Spa
+,,,,3866 V,tp 8,0.0,PowerVu,,False,,5/6,17140,DVB-S2,
+,,,,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,
+1.0,Las Estrellas México,HEVC/HD,2001.0,3866 V,tp 8,0.0,PowerVu,,False,,5/6,17140,DVB-S2,Spa
+1.0,Las Estrellas México,HEVC/HD,2001.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+2.0,Canal 5 (Mexico City),HEVC/HD,2002.0,3866 V,tp 8,0.0,PowerVu,,False,,5/6,17140,DVB-S2,Spa
+2.0,Canal 5 (Mexico City),HEVC/HD,2002.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+3.0,Nu9ve,HEVC/HD,2003.0,3866 V,tp 8,0.0,PowerVu,,False,,5/6,17140,DVB-S2,Spa
+3.0,Nu9ve,HEVC/HD,2003.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+4.0,Foro TV (Mexico),HEVC/HD,2004.0,3866 V,tp 8,0.0,PowerVu,,False,,5/6,17140,DVB-S2,Spa
+10.0,Foro TV (Mexico),HEVC/HD,2010.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+,(Televisa feeds),,,3928 H,tp 11,,,,False,,7/8,3125,DVB-S3,
+4.0,Las Estrellas México +1,HEVC/HD,2004.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+5.0,Las Estrellas México +2,HEVC/HD,2005.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+6.0,Canal 5 +1,HEVC/HD,2006.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+7.0,Canal 5 +2,HEVC/HD,2007.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+8.0,Nu9ve +1,HEVC/HD,2008.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+9.0,Nu9ve +2,HEVC/HD,2009.0,3940 V,tp 12,0.0,Director,,False,,5/6,34286,DVB-S2,Spa
+,(Roberts Communications Network feeds),,,4007 V,tp 16,,,,False,,5/6,2482,DVB-S2,
+,(Roberts Communications Network feeds),,,4022 V,tp 16,,,,False,,5/6,2483,DVB-S2,
+,(Roberts Communications Network feeds),,,4060 V,tp 18,,,,False,,5/6,2482,DVB-S2,
+1.0,Gem Shopping Network,65535-1MPEG-4/HD,257.0,4037 V,tp 16,0.0,,,False,,8/9,1266,DVB-S2,Eng
+,Family Broadcasting Corporation,65535-1,,4040 H,tp 17,0.0,,https://www.lyngsat.com/providers/us/Family-Broadcasting-Corporation.html,True,Family Broadcasting Corporation,3/4,26400,DVB-S2,
+1.0,Family Entertainment TV,MPEG-2/SD,100.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng Eng
+19.0,Family Entertainment TV,MPEG-2/HD,400.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng Eng
+2.0,WHME-TV (South Bend),MPEG-4/HD,200.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+3.0,World Harvest TV,MPEG-2/SD,300.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+20.0,KWHE-TV (Honolulu),MPEG-4/HD,500.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+22.0,Family Movie Classics,MPEG-4/SD,700.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng Eng
+23.0,Family Movie Classics,MPEG-4/HD,800.0,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng Eng
+4.0,Angel 1,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+4.0,Angel 2,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+5.0,Angel 3,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+5.0,Angel 4,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+7.0,Angel 5,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+7.0,Angel 6,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+8.0,T8WH,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+9.0,Pulse FM,,,4040 H,tp 17,0.0,,,False,Family Broadcasting Corporation,3/4,26400,DVB-S2,Eng
+,(Fox feeds),,,4080 H,tp 19,,,,False,Family Broadcasting Corporation,3/4,31250,DVB-S2,
+,(Fox feeds),,,11851 H,tp 7,,,,False,Family Broadcasting Corporation,3/4,6900,DVB-S2,
+,(ABC feeds),,,4120 H,tp 21,,,,False,Family Broadcasting Corporation,/10,00009,DVB-S2,
+,Azteca,1-1,,4140 V,tp 22,0.0,,https://www.lyngsat.com/providers/mx/Azteca.html,True,Azteca,3/4,31450,DVB-S2,
+1.0,Azteca Uno,MPEG-2/HD,49.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+2.0,Azteca 7 Mexico City,MPEG-2/HD,65.0,4140 V,tp 22,0.0,HRT,,False,Azteca,3/4,31450,DVB-S2,Spa
+3.0,ADN 40,MPEG-2/SD,81.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+5.0,ADN 40,MPEG-4/HD,113.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+4.0,Azteca America Pacífico,MPEG-4/HD,97.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+6.0,Azteca America Este,MPEG-4/HD,129.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+9.0,A Más +,MPEG-2/SD,177.0,4140 V,tp 22,0.0,,,False,Azteca,3/4,31450,DVB-S2,Spa
+1.0,Victory Channel (USA),1-0MPEG-4/SD,512.0,4144 H,tp 23,0.0,,,False,Azteca,3/4,2400,DVB-S2,Eng
+2.0,WAPA America (San Juan),1-1MPEG-2/SD,33.0,4151 H,tp 23,0.0,,,False,Azteca,3/4,3775,DVB-S3,Spa Spa
+1.0,Montana PBS,65535-1MPEG-4/SD,101.0,11718 H,tp 1,0.0,,,False,Azteca,2/3,2390,DVB-S2,Eng
+,NBC,,,11760 H,tp 3,0.0,BISS,https://www.lyngsat.com/providers/us/NBC.html,True,NBC,5/6,30000,DVB-S2,
+28.0,Cozi TV,MPEG-2/SD,280.0,11760 H,tp 3,0.0,,,False,NBC,5/6,30000,DVB-S2,Eng
+61.0,NBC East,MPEG-4/HD,610.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng
+62.0,NBC Central,MPEG-4/HD,620.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng
+63.0,NBC Mountain,MPEG-4/HD,630.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng
+64.0,NBC West,MPEG-4/HD,640.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,Eng
+65.0,(NBC feeds),,650.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,
+66.0,(NBC feeds),,660.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,
+67.0,(NBC feeds),,670.0,11760 H,tp 3,0.0,BISS,,False,NBC,5/6,30000,DVB-S2,
+,(Nexstar feeds),,,11768 V,tp 4,,,,False,NBC,750,8,DVB-S2,
+,(Fox feeds) (1),,,11825 H,tp 7,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (1),,,11865 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (1),,,11905 H,tp 11,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (2),,,11830 H,tp 7,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (2),,,11871 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (2),,,11911 H,tp 11,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (3),,,11836 H,tp 7,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (3),,,11876 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (3),,,11917 H,tp 11,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (4),,,11842 H,tp 7,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (4),,,11882 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (5),,,11888 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,(Fox feeds) (6),,,11894 H,tp 9,,,,False,NBC,3/4,3979,DVB-S3,
+,Family Radio (USA),,,11993 V,tp 14,0.0,,https://www.lyngsat.com/providers/us/Family-Radio.html,True,Family Radio (USA),2/3,1075,DVB-S2,
+1.0,Family Radio East,,,11993 V,tp 14,0.0,,,False,Family Radio (USA),2/3,1075,DVB-S2,Eng
+2.0,Family Radio West,,,11993 V,tp 14,0.0,,,False,Family Radio (USA),2/3,1075,DVB-S2,Eng
+3.0,Family Radio New York,,,11993 V,tp 14,0.0,,,False,Family Radio (USA),2/3,1075,DVB-S2,Eng
+,InfoWars,MPEG-4/SD,4642.0,12095 H,tp 19,0.0,,,False,Family Radio (USA),4/5,3676,DVB-S2,Eng
+,PBS,,,12140 V,tp 22,0.0,,https://www.lyngsat.com/providers/us/PBS.html,True,PBS,3/4,30000,DVB-S2,
+3.0,PBS East,MPEG-4/HD,49.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng
+4.0,PBS West,MPEG-4/HD,65.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng
+5.0,(PBS feeds),,81.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,
+6.0,PBS Kids,MPEG-4/HD,97.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng
+12.0,Create,MPEG-4/SD,193.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng Spa
+14.0,World,MPEG-4/SD,225.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng
+15.0,First Nations Experience,MPEG-4/SD,241.0,12140 V,tp 22,0.0,,,False,PBS,3/4,30000,DVB-S2,Eng

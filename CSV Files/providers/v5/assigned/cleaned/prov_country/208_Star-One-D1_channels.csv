@@ -1,0 +1,97 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+1.0,TV Tapajós,?-?MPEG-2/SD,256.0,3890 V,tp 5BNC,0.0,,,,,False,,5/6,4000.0,DVB-S4,Por,,
+2.0,94 FM (Santarém),,,3890 V,tp 5BNC,0.0,,,94 FM (Santarém),https://www.lyngsat.com/radiochannels/br/94-FM.html,False,,5/6,4000.0,DVB-S4,Por,br,
+2.0,94 FM (Santarém),,,3890 V,tp 5BNC,0.0,,,94 FM (Santarém),https://www.lyngsat.com/radiochannels/br/94-FM.html,False,,5/6,4000.0,DVB-S4,Por,br,
+,TV Mirante,,,3908 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Mirante.html,,,True,TV Mirante,3/4,8333.0,DVB-S2,,,br
+,TV Mirante Imperatriz,MPEG-4/1seg,101.0,3908 H,tp 6ANC,0.0,,,TV Mirante Imperatriz,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Imperatriz.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,TV Mirante Imperatriz,MPEG-4/1seg,101.0,3908 H,tp 6ANC,0.0,,,TV Mirante Imperatriz,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Imperatriz.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,TV Mirante Imperatriz,MPEG-4/HD,1001.0,3908 H,tp 6ANC,0.0,,,TV Mirante Imperatriz,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Imperatriz.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,TV Mirante Imperatriz,MPEG-4/HD,1001.0,3908 H,tp 6ANC,0.0,,,TV Mirante Imperatriz,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Imperatriz.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,TV Educação MA,MPEG-4/HD,265.0,3908 H,tp 6ANC,0.0,,,TV Educação MA,https://www.lyngsat.com/tvchannels/br/TV-Educacao-MA.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,TV Mirante Cocais,MPEG-4/HD,273.0,3908 H,tp 6ANC,0.0,,,TV Mirante Cocais,https://www.lyngsat.com/tvchannels/br/TV-Mirante-Cocais.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,Mirante FM,,,3908 H,tp 6ANC,0.0,,,Mirante FM,https://www.lyngsat.com/radiochannels/br/Mirante-FM.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,Mirante FM,,,3908 H,tp 6ANC,0.0,,,Mirante FM,https://www.lyngsat.com/radiochannels/br/Mirante-FM.html,False,TV Mirante,3/4,8333.0,DVB-S2,Por,br,
+,,,,3918 H,tp 6ANC,0.0,,,,,False,TV Mirante,3/4,8232.0,DVB-S2,,,
+,Rede Clube,MPEG-4/1seg,101.0,3918 H,tp 6ANC,0.0,,,Rede Clube,https://www.lyngsat.com/tvchannels/br/Rede-Clube.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,Rede Clube,MPEG-4/1seg,101.0,3918 H,tp 6ANC,0.0,,,Rede Clube,https://www.lyngsat.com/tvchannels/br/Rede-Clube.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,Rede Clube,MPEG-4/HD,273.0,3918 H,tp 6ANC,0.0,,,Rede Clube,https://www.lyngsat.com/tvchannels/br/Rede-Clube.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,Rede Clube,MPEG-4/HD,273.0,3918 H,tp 6ANC,0.0,,,Rede Clube,https://www.lyngsat.com/tvchannels/br/Rede-Clube.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,Canal Educação Piauí,MPEG-4/HD,301.0,3918 H,tp 6ANC,0.0,,,Canal Educação Piauí,https://www.lyngsat.com/tvchannels/br/Canal-Educacao-Piaui.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,TV Alvorada,MPEG-4/HD,1001.0,3918 H,tp 6ANC,0.0,,,TV Alvorada,https://www.lyngsat.com/tvchannels/br/TV-Alvorada.html,False,TV Mirante,3/4,8232.0,DVB-S2,Por,br,
+,TV Encontro das Águas,,,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,,br,br
+,TV Encontro das Águas,,,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,,br,br
+,TV Encontro das Águas,,,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,,br,br
+,TV Encontro das Águas,,,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,,br,br
+,TV Encontro das Águas,MPEG-4/1seg,101.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/1seg,101.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/1seg,101.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/1seg,101.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/HD,1001.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/HD,1001.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/HD,1001.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas,MPEG-4/HD,1001.0,3925 H,tp 6ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Encontro-das-Aguas.html,TV Encontro das Águas,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas.html,True,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,br
+,TV Encontro das Águas 2.2,MPEG-4/HD,2001.0,3925 H,tp 6ANC,0.0,,,TV Encontro das Águas 2.2,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas-22.html,False,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,
+,TV Encontro das Águas 2.3,MPEG-4/HD,3001.0,3925 H,tp 6ANC,0.0,,,TV Encontro das Águas 2.3,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas-23.html,False,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,
+,TV Encontro das Águas 2.4,MPEG-4/HD,4001.0,3925 H,tp 6ANC,0.0,,,TV Encontro das Águas 2.4,https://www.lyngsat.com/tvchannels/br/TV-Encontro-das-Aguas-24.html,False,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,
+,Rádio Encontro das Águas,,,3925 H,tp 6ANC,0.0,,,Rádio Encontro das Águas,https://www.lyngsat.com/radiochannels/br/Radio-Encontro-das-Aguas.html,False,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,
+,Rádio Encontro das Águas,,,3925 H,tp 6ANC,0.0,,,Rádio Encontro das Águas,https://www.lyngsat.com/radiochannels/br/Radio-Encontro-das-Aguas.html,False,TV Encontro das Águas,5/6,4665.0,DVB-S2,Por,br,
+,Rede Massa,,,3966 H,tp 7ANC,0.0,BISS,https://www.lyngsat.com/providers/br/Rede-Massa.html,,,True,Rede Massa,3/4,14235.0,DVB-S2,,,br
+1.0,TV Iguaçu,MPEG-4/HD,110.0,3966 H,tp 7ANC,0.0,BISS,,TV Iguaçu,https://www.lyngsat.com/tvchannels/br/TV-Iguacu.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+1.0,TV Iguaçu,MPEG-4/HD,110.0,3966 H,tp 7ANC,0.0,BISS,,TV Iguaçu,https://www.lyngsat.com/tvchannels/br/TV-Iguacu.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+2.0,TV Iguaçu,MPEG-4/1seg,160.0,3966 H,tp 7ANC,0.0,BISS,,TV Iguaçu,https://www.lyngsat.com/tvchannels/br/TV-Iguacu.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+2.0,TV Iguaçu,MPEG-4/1seg,160.0,3966 H,tp 7ANC,0.0,BISS,,TV Iguaçu,https://www.lyngsat.com/tvchannels/br/TV-Iguacu.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+3.0,TV Cidade Londrina,MPEG-4/HD,210.0,3966 H,tp 7ANC,0.0,BISS,,TV Cidade Londrina,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Londrina.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+3.0,TV Cidade Londrina,MPEG-4/HD,210.0,3966 H,tp 7ANC,0.0,BISS,,TV Cidade Londrina,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Londrina.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+4.0,TV Cidade Londrina,MPEG-4/1seg,260.0,3966 H,tp 7ANC,0.0,BISS,,TV Cidade Londrina,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Londrina.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+4.0,TV Cidade Londrina,MPEG-4/1seg,260.0,3966 H,tp 7ANC,0.0,BISS,,TV Cidade Londrina,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Londrina.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+5.0,TV Tibagi,MPEG-4/HD,310.0,3966 H,tp 7ANC,0.0,BISS,,TV Tibagi,https://www.lyngsat.com/tvchannels/br/TV-Tibagi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+5.0,TV Tibagi,MPEG-4/HD,310.0,3966 H,tp 7ANC,0.0,BISS,,TV Tibagi,https://www.lyngsat.com/tvchannels/br/TV-Tibagi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+6.0,TV Tibagi,MPEG-4/1seg,360.0,3966 H,tp 7ANC,0.0,BISS,,TV Tibagi,https://www.lyngsat.com/tvchannels/br/TV-Tibagi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+6.0,TV Tibagi,MPEG-4/1seg,360.0,3966 H,tp 7ANC,0.0,BISS,,TV Tibagi,https://www.lyngsat.com/tvchannels/br/TV-Tibagi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+7.0,TV Naipi,MPEG-4/HD,410.0,3966 H,tp 7ANC,0.0,BISS,,TV Naipi,https://www.lyngsat.com/tvchannels/br/TV-Naipi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+7.0,TV Naipi,MPEG-4/HD,410.0,3966 H,tp 7ANC,0.0,BISS,,TV Naipi,https://www.lyngsat.com/tvchannels/br/TV-Naipi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+8.0,TV Naipi,MPEG-4/1seg,460.0,3966 H,tp 7ANC,0.0,BISS,,TV Naipi,https://www.lyngsat.com/tvchannels/br/TV-Naipi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+8.0,TV Naipi,MPEG-4/1seg,460.0,3966 H,tp 7ANC,0.0,BISS,,TV Naipi,https://www.lyngsat.com/tvchannels/br/TV-Naipi.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+9.0,TV Guará,MPEG-4/HD,510.0,3966 H,tp 7ANC,0.0,BISS,,TV Guará,https://www.lyngsat.com/tvchannels/br/TV-Guara.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+9.0,TV Guará,MPEG-4/HD,510.0,3966 H,tp 7ANC,0.0,BISS,,TV Guará,https://www.lyngsat.com/tvchannels/br/TV-Guara.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+10.0,TV Guará,MPEG-4/1seg,560.0,3966 H,tp 7ANC,0.0,BISS,,TV Guará,https://www.lyngsat.com/tvchannels/br/TV-Guara.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+10.0,TV Guará,MPEG-4/1seg,560.0,3966 H,tp 7ANC,0.0,BISS,,TV Guará,https://www.lyngsat.com/tvchannels/br/TV-Guara.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+11.0,Massa FM,,,3966 H,tp 7ANC,0.0,,,Massa FM,https://www.lyngsat.com/radiochannels/br/Massa-FM.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+12.0,Massa FM Curitiba,,,3966 H,tp 7ANC,0.0,,,Massa FM Curitiba,https://www.lyngsat.com/radiochannels/br/Massa-FM-Curitiba.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+12.0,Massa FM Curitiba,,,3966 H,tp 7ANC,0.0,,,Massa FM Curitiba,https://www.lyngsat.com/radiochannels/br/Massa-FM-Curitiba.html,False,Rede Massa,3/4,14235.0,DVB-S2,Por,br,
+,(feeds),,,3966 V,tp 7BNC,,,,,,False,Rede Massa,000,25.0,DVB-S2,,,
+,(feeds),,,3974 V,tp 7BNC,,,,,,False,Rede Massa,570,8.0,DVB-S2,,,
+,TV Cultura do Pará,,,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,,br,br
+,TV Cultura do Pará,,,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,,br,br
+38464.0,TV Cultura do Pará,MPEG-4/HD,1001.0,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,Por,br,br
+38464.0,TV Cultura do Pará,MPEG-4/HD,1001.0,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,Por,br,br
+38488.0,TV Cultura do Pará,MPEG-4/1seg,101.0,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,Por,br,br
+38488.0,TV Cultura do Pará,MPEG-4/1seg,101.0,3984 H,tp 8ANC,0.0,,https://www.lyngsat.com/providers/br/TV-Cultura-do-Para.html,TV Cultura do Pará,https://www.lyngsat.com/tvchannels/br/TV-Cultura-do-Para.html,True,TV Cultura do Pará,3/4,5000.0,DVB-S2,Por,br,br
+,Canais Globo,,,4020 V,tp 8BNC,0.0,PowerVu,,,,False,TV Cultura do Pará,4/5,34280.0,DVB-S2,,,
+,Canais Globo,,,4100 V,tp 10BNC,0.0,PowerVu,,,,False,TV Cultura do Pará,4/5,34280.0,DVB-S2,,,
+,TV Assembléia Piauí,,,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,,br,br
+,TV Assembléia Piauí,,,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,,br,br
+,TV Assembléia Piauí,MPEG-4/HD,273.0,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,Por,br,br
+,TV Assembléia Piauí,MPEG-4/HD,273.0,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,Por,br,br
+,TV Assembléia Piauí,MPEG-4/1seg,529.0,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,Por,br,br
+,TV Assembléia Piauí,MPEG-4/1seg,529.0,4045 V,tp 9BNC,0.0,,https://www.lyngsat.com/providers/br/TV-Assembleia-Piaui.html,TV Assembléia Piauí,https://www.lyngsat.com/tvchannels/br/TV-Assembleia-Piaui.html,True,TV Assembléia Piauí,3/4,5000.0,DVB-S2,Por,br,br
+,Rádio Imaculada Conceição,,,4077 V,tp 9BNC,0.0,,,,,False,TV Assembléia Piauí,3/4,800.0,DVB-S8,Por,,
+,NET,,,4140 V,tp 11BNC,0.0,BISS,https://www.lyngsat.com/providers/br/NET.html,,,True,NET,5/6,30000.0,DVB-S2,,,br
+,NET promo,MPEG-2/SD,1110.0,4140 V,tp 11BNC,0.0,BISS,,,,False,NET,5/6,30000.0,DVB-S2,Por,,
+,NET promo,MPEG-4/HD,1210.0,4140 V,tp 11BNC,0.0,BISS,,,,False,NET,5/6,30000.0,DVB-S2,Por,,
+,L!ke,MPEG-4/HD,1130.0,4140 V,tp 11BNC,0.0,BISS,,L!ke,https://www.lyngsat.com/tvchannels/br/Lke.html,False,NET,5/6,30000.0,DVB-S2,Por,br,
+,Dog TV,MPEG-4/SD,1180.0,4140 V,tp 11BNC,0.0,BISS,,Dog TV,https://www.lyngsat.com/tvchannels/us/Dog-TV.html,False,NET,5/6,30000.0,DVB-S2,Eng,us,
+,Copa do Nordeste 1,MPEG-4/HD,1260.0,4140 V,tp 11BNC,0.0,BISS,,Copa do Nordeste 1,https://www.lyngsat.com/tvchannels/br/Copa-do-Nordeste-1.html,False,NET,5/6,30000.0,DVB-S2,Por,br,
+,TV Executiva,MPEG-2/SD,1310.0,4140 V,tp 11BNC,0.0,BISS,,TV Executiva,https://www.lyngsat.com/tvchannels/br/TV-Executiva.html,False,NET,5/6,30000.0,DVB-S2,Por,br,
+,Copa do Nordeste 2,MPEG-4/HD,1410.0,4140 V,tp 11BNC,0.0,BISS,,Copa do Nordeste 2,https://www.lyngsat.com/tvchannels/br/Copa-do-Nordeste-2.html,False,NET,5/6,30000.0,DVB-S2,Por,br,
+,TV PE,,,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,,br,br
+,TV PE,,,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,,br,br
+41600.0,TV PE,MPEG-4/HD,273.0,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,Por,br,br
+41600.0,TV PE,MPEG-4/HD,273.0,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,Por,br,br
+41624.0,TV PE,MPEG-4/1seg,529.0,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,Por,br,br
+41624.0,TV PE,MPEG-4/1seg,529.0,4170 V,tp 12BNC,0.0,,https://www.lyngsat.com/providers/br/TV-PE.html,TV PE,https://www.lyngsat.com/tvchannels/br/TV-PE.html,True,TV PE,2/3,5000.0,DVB-S2,Por,br,br
+,TV Sagres,MPEG-4/HD,273.0,4188 V,tp 12BNC,0.0,,,,,False,TV PE,3/4,2500.0,DVB-S2,Por,,
+,,,,,,,,,DVB-S40005/6,,False,TV PE,,,,,,
+,,,,,,,,,DVB-S8003/4,,False,TV PE,,,,,,
+,,,,,,,,,DVB-S8003/4,,False,TV PE,,,,,,
+,,,,,,,,,DVB-S28PSK25003/4,,False,TV PE,,,,,,

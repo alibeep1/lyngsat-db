@@ -1,0 +1,12 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,DirecTV USA,,,11720 H,tp 1,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,11840 H,tp 7,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,11900 H,tp 10,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,11930 H,tp 12,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,11960 H,tp 13,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,11990 H,tp 15,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,DirecTV USA,,,12140 H,tp 22,0.0,Videoguard,,,,False,,2/3,20000.0,DSS200,,
+,(Azteca feeds),,,12110 H,tp 21,,,,,,False,,220,2.0,DVB-S2,,
+65535-1,Once México,65535-1MPEG-4/HD,101.0,12121 H,tp 21,0.0,,,,,False,,5/6,2653.0,DVB-S2,Spa,
+,,,,,,,,,DVB-S28PSK26535/6,,False,,,,,,
+,,,,,,,,,DVB-S28PSK26535/6,,False,,,,,,

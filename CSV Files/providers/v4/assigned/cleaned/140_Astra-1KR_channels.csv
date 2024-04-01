@@ -1,0 +1,85 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,,,,10729 V,tp 50,0.0,,,False,,,,,
+,SES,1-1053,,10773 H,tp 53,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1053,,10773 H,tp 53,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1053,,10773 H,tp 53,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1053,,10773 H,tp 53,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1053,,10773 H,tp 53,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1055,,10803 H,tp 55,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1055,,10803 H,tp 55,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1055,,10803 H,tp 55,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1055,,10803 H,tp 55,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,1-1055,,10803 H,tp 55,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,22000,DVB-S2,
+,SES,133-15,,10921 H,tp 63,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,7/8,22000,DVB-S2,
+,SES,133-15,,10921 H,tp 63,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,7/8,22000,DVB-S2,
+,SES,133-15,,10921 H,tp 63,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,7/8,22000,DVB-S2,
+,SES,133-15,,10921 H,tp 63,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,7/8,22000,DVB-S2,
+,SES,133-15,,10921 H,tp 63,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,7/8,22000,DVB-S2,
+,SES,1-1002,,11229 V,tp 2,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,22000,DVB-S2,
+,SES,1-1002,,11229 V,tp 2,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,22000,DVB-S2,
+,SES,1-1002,,11229 V,tp 2,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,22000,DVB-S2,
+,SES,1-1002,,11229 V,tp 2,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,22000,DVB-S2,
+,SES,1-1002,,11229 V,tp 2,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,22000,DVB-S2,
+,SES,1-1015,,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1015,,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1015,,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1015,,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1015,,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+21100,Anixe HD Serie,MPEG-4/HD,255.0,10773 H,tp 53,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+21103,QVC Deutschland,MPEG-4/HD,1023.0,10773 H,tp 53,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+21104,HSE,MPEG-4/HD,1279.0,10773 H,tp 53,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+21107,Shop LC Deutschland,MPEG-4/HD,511.0,10773 H,tp 53,0.0,,,False,SES,3/4,22000,DVB-S2,Ger Eng
+21108*,Welt,MPEG-4/HD,767.0,10773 H,tp 53,0.0,"Irdeto,Marlin,Nagravision,Videoguard",,False,SES,3/4,22000,DVB-S2,Ger
+21113,Genius Plus TV,MPEG-4/SD,3327.0,10773 H,tp 53,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+5500*,Disney Channel Deutschland,MPEG-4/HD,255.0,10803 H,tp 55,0.0,"Marlin,Nagravision,Viaccess,Videoguard",,False,SES,3/4,22000,DVB-S2,Ger
+5501,HSE Extra,MPEG-4/HD,511.0,10803 H,tp 55,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+5502,1-2-3 TV,MPEG-4/HD,767.0,10803 H,tp 55,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+5503*,Deluxe Music,MPEG-4/HD,1023.0,10803 H,tp 55,0.0,"Marlin,Nagravision,Viaccess,Videoguard",,False,SES,3/4,22000,DVB-S2,Ger
+5504,QVC Zwei,MPEG-4/HD,1279.0,10803 H,tp 55,0.0,,,False,SES,3/4,22000,DVB-S2,Ger
+5505,Sport 1 (Germany),MPEG-4/HD,1535.0,10803 H,tp 55,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",,False,SES,3/4,22000,DVB-S2,Ger
+,HD+,1-1057,,10832 H,tp 57,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",,False,SES,2/3,22000,DVB-S2,
+,Movistar+,1-1062,,10906 V,tp 62,0.0,Nagravision,,False,SES,2/3,22000,DVB-S2,
+,Movistar+,1-1044,,11127 V,tp 44,0.0,"Mediaguard,Nagravision",,False,SES,5/6,22000,DVB-S2,
+,Movistar+,1-1046,,11156 V,tp 46,0.0,"Mediaguard,Nagravision",,False,SES,5/6,22000,DVB-S2,
+,Movistar+,1-1004,,11259 V,tp 4,0.0,Nagravision,,False,SES,2/3,22000,DVB-S2,
+,Movistar+,1-1008,,11318 V,tp 8,0.0,"Mediaguard,Nagravision",,False,SES,5/6,22000,DVB-S2,
+35,Schlager Deluxe,MPEG-2/SD,511.0,10921 H,tp 63,0.0,,,False,SES,7/8,22000,DVB-S2,Ger
+38,HGTV Deutschland,MPEG-2/SD,1023.0,10921 H,tp 63,0.0,,,False,SES,7/8,22000,DVB-S2,Ger
+39,SchwarzRotGold TV,MPEG-4/SD,1279.0,10921 H,tp 63,0.0,,,False,SES,7/8,22000,DVB-S2,Ger
+,{},,,11141 H,tp 45,0.0,,,False,SES,3/4,23500,DVB-S2,
+30505,Canal Sur Andalucía,MPEG-2/SD,166.0,11156 V,tp 46,0.0,,,False,SES,5/6,22000,DVB-S2,Spa
+,Sky Deutschland,133-9,,11171 H,tp 47,0.0,,,False,SES,3/4,22000,DVB-S2,
+5001,BBC News Europe,MPEG-4/HD,2091.0,11229 V,tp 2,0.0,,,False,SES,2/3,22000,DVB-S2,Eng
+5021,NHK World Japan,MPEG-4/HD,1760.0,11229 V,tp 2,0.0,,,False,SES,2/3,22000,DVB-S2,Eng
+5031,Aljazeera English,MPEG-4/HD,3101.0,11229 V,tp 2,0.0,,,False,SES,2/3,22000,DVB-S2,Eng Eng
+,ORF Digital,1-1003,,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,
+,ORF Digital,1-1005,,11273 H,tp 5,0.0,"Cryptoworks,Irdeto,Viaccess,Videoguard",,False,SES,2/3,22000,DVB-S2,
+13222,Volksmusik TV,MPEG-4/SD,2220.0,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,Ger
+13224,Bibel TV,MPEG-4/HD,2240.0,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,Ger
+13225,Kurier TV,MPEG-4/HD,2250.0,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,Ger
+13227,Hope TV Deutsch,MPEG-4/HD,2270.0,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,Ger
+13229,RTL Up Österreich,MPEG-4/SD,2290.0,11244 H,tp 3,0.0,,,False,SES,5/6,22000,DVB-S2,Ger
+13311,Mein TV Shop,MPEG-4/SD,3110.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13312,R9,MPEG-4/HD,3120.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13313,Krone TV,MPEG-4/SD,3130.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13314,Oe24 TV,MPEG-4/HD,3140.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13316,Stimmungsgarten TV,MPEG-4/SD,3160.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13317,Melodie Express (06-19),MPEG-4/SD,3170.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+13317,Melodie TV (19-06),MPEG-4/SD,3170.0,11273 H,tp 5,0.0,,,False,SES,2/3,22000,DVB-S2,Ger
+29811,Aragón TV Internacional,MPEG-2/SD,172.0,11318 V,tp 8,0.0,,,False,SES,5/6,22000,DVB-S2,Spa
+,ZDF Vision,1-1010,,11347 V,tp 10,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,True,ZDF Vision,2/3,22000,DVB-S2,
+,ZDF Vision,1-1010,,11347 V,tp 10,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,True,ZDF Vision,2/3,22000,DVB-S2,
+,ZDF Vision,1-1011,,11362 H,tp 11,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,True,ZDF Vision,2/3,22000,DVB-S2,
+,ZDF Vision,1-1011,,11362 H,tp 11,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,True,ZDF Vision,2/3,22000,DVB-S2,
+11150,3sat,MPEG-4/HD,6510.0,11347 V,tp 10,0.0,,,False,ZDF Vision,2/3,22000,DVB-S2,Ger Qaa Ger
+11160,KIKA (06-21),MPEG-4/HD,6610.0,11347 V,tp 10,0.0,,,False,ZDF Vision,2/3,22000,DVB-S2,Ger Ger
+11170,ZDF Info,MPEG-4/HD,6710.0,11347 V,tp 10,0.0,,,False,ZDF Vision,2/3,22000,DVB-S2,Ger Qaa Ger
+11110,ZDF,MPEG-4/HD,6110.0,11362 H,tp 11,0.0,,,False,ZDF Vision,2/3,22000,DVB-S2,Ger Ger Qaa
+11130,ZDF Neo,MPEG-4/HD,6310.0,11362 H,tp 11,0.0,,,False,ZDF Vision,2/3,22000,DVB-S2,Ger Qaa Ger
+12410,RTL UHD,1-1013HEVC/UHD,2815.0,11391 H,tp 13,0.0,"Marlin,Nagravision,TVkey,Viaccess,Videoguard",,False,ZDF Vision,5/6,22000,DVB-S2,Ger
+4704,3+,MPEG-4/HD,1279.0,11421 H,tp 15,0.0,Viaccess,,False,ZDF Vision,5/6,22000,DVB-S2,Ger
+4718,[test card],MPEG-2/SD,5119.0,11421 H,tp 15,0.0,"Irdeto,Marlin,Nagravision",,False,ZDF Vision,5/6,22000,DVB-S2,
+4719,[test card],MPEG-2/SD,5375.0,11421 H,tp 15,0.0,"Marlin,Nagravision,TVkey,Videoguard",,False,ZDF Vision,5/6,22000,DVB-S2,
+4720,[test card],MPEG-2/SD,5631.0,11421 H,tp 15,0.0,Nagravision,,False,ZDF Vision,5/6,22000,DVB-S2,
+,(feeds),,,11429 V,tp 16,,,,False,ZDF Vision,3/4,9874,DVB-S2,
+,(feeds),,,11442 V,tp 16,,,,False,ZDF Vision,3/4,9874,DVB-S2,

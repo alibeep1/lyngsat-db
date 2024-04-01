@@ -1,0 +1,51 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,GMA Network,,,4015 V,tp 15,0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,True,GMA Network,2/3,4444,DVB-S2,
+1.0,GMA Life TV,MPEG-4/SD,1160.0,4015 V,tp 15,0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl
+2.0,GMA Pinoy TV USA & Canada,MPEG-4/SD,1260.0,4015 V,tp 15,0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl
+9.0,GMA News TV,MPEG-4/SD,1460.0,4015 V,tp 15,0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl
+100.0,Barangay LS 97.1,,,4015 V,tp 15,0,PowerVu,,False,GMA Network,2/3,4444,DVB-S2,Tgl
+,,,,4020 H,tp 16,0,,,False,GMA Network,,,,
+,,,,4050 H,tp 18,0,,,False,GMA Network,5/6,15000,DVB-S2,
+,,10-101,,4100 H,tp 20,0,PowerVu,,False,GMA Network,5/6,30000,DVB-S2,
+,In Demand,,,4030 V,tp 17,0,PowerVu,https://www.lyngsat.com/providers/us/In-Demand.html,True,In Demand,3/4,15000,DVB-S2,
+101.0,In Demand PPV,MPEG-4/HD,110.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+102.0,In Demand PPV 2,MPEG-4/HD,210.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+301.0,In Demand 1,MPEG-2/SD,310.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+302.0,In Demand 2,MPEG-2/SD,410.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+303.0,In Demand 3,MPEG-2/SD,510.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+304.0,In Demand en Español,MPEG-2/SD,610.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Spa
+305.0,Hot Choice,MPEG-2/SD,710.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+407.0,In Demand 7,MPEG-2/SD,351.0,4030 V,tp 17,0,PowerVu,,False,In Demand,3/4,15000,DVB-S2,Eng
+1.0,Canal Sur (USA),MPEG-4/HD,101.0,4050 H,tp 18,0,Compunicate,,False,In Demand,5/6,15000,DVB-S2,Spa
+3.0,The Africa Channel,MPEG-4/HD,121.0,4050 H,tp 18,0,Compunicate,,False,In Demand,5/6,15000,DVB-S2,Eng
+4.0,God TV US,MPEG-4/HD,131.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Eng
+7.0,Shop LC,MPEG-4/HD,161.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Eng
+9.0,Living Faith TV,MPEG-2/SD,181.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Spa
+10.0,Telefe Internacional,MPEG-4/HD,191.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Spa
+11.0,Venevisión,MPEG-4/HD,201.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Spa
+14.0,Z Living USA,MPEG-4/HD,232.0,4050 H,tp 18,0,,,False,In Demand,5/6,15000,DVB-S2,Eng
+100.0,Cleo TV,MPEG-4/HD,101.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+200.0,Cleo TV,MPEG-4/SD,200.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+300.0,Playboy TV USA,MPEG-4/HD,300.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+400.0,Playboy TV en Español,MPEG-4/HD,400.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Spa
+500.0,This TV,MPEG-4/SD,500.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+600.0,Cine Sony,MPEG-4/HD,600.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Spa
+700.0,Sony Movies USA,MPEG-4/HD,700.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+800.0,Ovation (USA),MPEG-4/HD,800.0,4100 H,tp 20,0,PowerVu,,False,In Demand,5/6,30000,DVB-S2,Eng
+,ION Media Networks,,,4180 H,tp 24,0,,https://www.lyngsat.com/providers/us/ION-Media-Networks.html,True,ION Media Networks,5/6,30000,DVB-S2,
+10.0,Grit,MPEG-4/HD,1000.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+201.0,Grit,MPEG-2/SD,612.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+11.0,Court TV,MPEG-4/HD,1100.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+203.0,Court TV,MPEG-2/SD,622.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+17.0,ION TV West,MPEG-4/HD,1700.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+18.0,ION TV East,MPEG-4/HD,1800.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+27.0,Laff,MPEG-2/SD,2701.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+29.0,Bounce,MPEG-4/HD,2900.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+205.0,Bounce,MPEG-2/SD,632.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+30.0,Scripps News,MPEG-4/HD,3000.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+218.0,Scripps News,MPEG-2/SD,693.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+204.0,ION Mystery,MPEG-2/SD,627.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+212.0,HSN,MPEG-2/SD,667.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+213.0,QVC US,MPEG-2/SD,672.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+216.0,Jewelry TV,MPEG-4/SD,679.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng
+217.0,Defy TV,MPEG-4/SD,686.0,4180 H,tp 24,0,,,False,ION Media Networks,5/6,30000,DVB-S2,Eng

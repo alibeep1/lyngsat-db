@@ -1,0 +1,55 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,,702-1,,10730 H,,,BISS 1,,,,False,,3/4,30000.0,DVB-S2,,
+1.0,RIK Sat,MPEG-2/SD,108.0,10730 H,,,,,RIK Sat,https://www.lyngsat.com/tvchannels/cy/RIK-Sat.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+1.0,RIK Sat,MPEG-2/SD,108.0,10730 H,,,,,RIK Sat,https://www.lyngsat.com/tvchannels/cy/RIK-Sat.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+6.0,4E,MPEG-4/SD,1151.0,10730 H,,,,,4E,https://www.lyngsat.com/tvchannels/gr/4E.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+6.0,4E,MPEG-4/SD,1151.0,10730 H,,,,,4E,https://www.lyngsat.com/tvchannels/gr/4E.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+11.0,Eurobet Canale Arancione,HEVC,7201.0,10730 H,,,BISS 1,,Eurobet Canale Arancione,https://www.lyngsat.com/tvchannels/it/Eurobet-Canale-Arancione.html,False,,3/4,30000.0,DVB-S2,Ita,it
+12.0,Eurobet Canale Nero,HEVC,7301.0,10730 H,,,BISS 1,,Eurobet Canale Nero,https://www.lyngsat.com/tvchannels/it/Eurobet-Canale-Nero.html,False,,3/4,30000.0,DVB-S2,Ita,it
+13.0,Eurobet mosaic,HEVC,7401.0,10730 H,,,BISS 1,,Eurobet mosaic,https://www.lyngsat.com/tvchannels/it/Eurobet-mosaic.html,False,,3/4,30000.0,DVB-S2,Ita,it
+14.0,Eurobet Canale Verde,HEVC,7501.0,10730 H,,,BISS 1,,Eurobet Canale Verde,https://www.lyngsat.com/tvchannels/it/Eurobet-Canale-Verde.html,False,,3/4,30000.0,DVB-S2,Ita,it
+15.0,Eurobet Canale Azzurro,HEVC,7601.0,10730 H,,,BISS 1,,Eurobet Canale Azzurro,https://www.lyngsat.com/tvchannels/it/Eurobet-Canale-Azzurro.html,False,,3/4,30000.0,DVB-S2,Ita,it
+101.0,Pame Stoichima Virtual Sports 1,HEVC/HD,2501.0,10730 H,,,BISS 1,,Pame Stoichima Virtual Sports 1,https://www.lyngsat.com/tvchannels/gr/Pame-Stoichima-Virtual-Sports-1.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+102.0,Pame Stoichima Virtual Sports 2,HEVC/HD,2502.0,10730 H,,,BISS 1,,Pame Stoichima Virtual Sports 2,https://www.lyngsat.com/tvchannels/gr/Pame-Stoichima-Virtual-Sports-2.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+103.0,Opap Powerspin,HEVC/HD,2503.0,10730 H,,,BISS 1,,Opap Powerspin,https://www.lyngsat.com/tvchannels/gr/Opap-Powerspin.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+104.0,Pame Stoichima Racing,HEVC/HD,2504.0,10730 H,,,BISS 1,,Pame Stoichima Racing,https://www.lyngsat.com/tvchannels/gr/Pame-Stoichima-Racing.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+105.0,Pame Stoichima Lepto Pros Lepto,HEVC/HD,2505.0,10730 H,,,BISS 1,,Pame Stoichima Lepto Pros Lepto,https://www.lyngsat.com/tvchannels/gr/Pame-Stoichima-Lepto-Pros-Lepto.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+106.0,Pame Stoichima Virtual Sports Mpasket tests,HEVC/HD,2506.0,10730 H,,,BISS 1,,,,False,,3/4,30000.0,DVB-S2,Gre,
+353.0,ERT World,MPEG-4/HD,48.0,10730 H,,,,,ERT World,https://www.lyngsat.com/tvchannels/gr/ERT-World.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+2.0,RIK 1 Proto,,,10730 H,,,,,RIK 1 Proto,https://www.lyngsat.com/radiochannels/cy/RIK-1-Proto.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+2.0,RIK 1 Proto,,,10730 H,,,,,RIK 1 Proto,https://www.lyngsat.com/radiochannels/cy/RIK-1-Proto.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+4.0,RIK 3 Trito,,,10730 H,,,,,RIK 3 Trito,https://www.lyngsat.com/radiochannels/cy/RIK-3-Trito.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+4.0,RIK 3 Trito,,,10730 H,,,,,RIK 3 Trito,https://www.lyngsat.com/radiochannels/cy/RIK-3-Trito.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+5.0,RIK 4 Classic,,,10730 H,,,,,RIK 4 Classic,https://www.lyngsat.com/radiochannels/cy/RIK-4-Classic.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+5.0,RIK 4 Classic,,,10730 H,,,,,RIK 4 Classic,https://www.lyngsat.com/radiochannels/cy/RIK-4-Classic.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+7.0,Ellada FM,,,10730 H,,,,,Ellada FM,https://www.lyngsat.com/radiochannels/gr/Ellada-FM.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+7.0,Ellada FM,,,10730 H,,,,,Ellada FM,https://www.lyngsat.com/radiochannels/gr/Ellada-FM.html,False,,3/4,30000.0,DVB-S2,Gre,gr
+32.0,I Foni tis Elladas,,,10730 H,,,,,I Foni tis Elladas,https://www.lyngsat.com/radiochannels/gr/I-Foni-tis-Elladas.html,False,,3/4,30000.0,DVB-S2,,gr
+32.0,I Foni tis Elladas,,,10730 H,,,,,I Foni tis Elladas,https://www.lyngsat.com/radiochannels/gr/I-Foni-tis-Elladas.html,False,,3/4,30000.0,DVB-S2,,gr
+33.0,Capital Radio Cyprus,,,10730 H,,,,,Capital Radio Cyprus,https://www.lyngsat.com/radiochannels/cy/Capital-Radio-Cyprus.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+33.0,Capital Radio Cyprus,,,10730 H,,,,,Capital Radio Cyprus,https://www.lyngsat.com/radiochannels/cy/Capital-Radio-Cyprus.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+36.0,Kanali 6,,,10730 H,,,,,Kanali 6,https://www.lyngsat.com/radiochannels/cy/Kanali-6.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+36.0,Kanali 6,,,10730 H,,,,,Kanali 6,https://www.lyngsat.com/radiochannels/cy/Kanali-6.html,False,,3/4,30000.0,DVB-S2,Gre,cy
+,Tring,926-1010,,10890 H,,,Conax,,,,False,,5/6,30000.0,DVB-S2,,
+,Tring,926-1020,,10930 H,,,Conax,,,,False,,5/6,30000.0,DVB-S2,,
+1610.0,Kanali 7,MPEG-4/SD,1700.0,10890 H,,,,,Kanali 7,https://www.lyngsat.com/tvchannels/al/Kanali-7.html,False,,5/6,30000.0,DVB-S2,Alb,al
+,(feeds),,,10954 V,,,,,,,False,,3/4,2400.0,DVB-S2,,
+,(feeds),,,10969 V,,,,,,,False,,3/4,6666.0,DVB-S6,,
+,(feeds),,,10998 V,,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11007 V,,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11016 V,,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11025 V,,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11087 V,,,,,,,False,,3/4,3750.0,DVB-S2,,
+,(feeds),,,11109 V,,,,,,,False,,3/4,27200.0,DVB-S2,,
+,(feeds),,,11119 V,,,,,,,False,,3/4,3333.0,DVB-S3,,
+,(feeds),,,11135 V,,,,,,,False,,2/3,4500.0,DVB-S2,,
+,(feeds),,,11143 V,,,,,,,False,,5/6,2400.0,DVB-S2,,
+,(feeds),,,11151 V,,,,,,,False,,3/4,4936.0,DVB-S2,,
+,(feeds),,,11162 V,,,,,,,False,,3/4,7200.0,DVB-S2,,
+,(feeds),,,11168 V,,,,,,,False,,3/4,5000.0,DVB-S2,,
+,(feeds),,,11173 V,,,,,,,False,,3/4,5000.0,DVB-S2,,
+,(feeds),,,11178 V,,,,,,,False,,3/4,25000.0,DVB-S2,,
+,(feeds),,,11185 V,,,,,,,False,,3/4,5000.0,DVB-S2,,
+,(feeds),,,11190 V,,,,,,,False,,3/4,6666.0,DVB-S2,,
+7188.0,Equ TV,0-160MPEG-4/SD,512.0,11139 V,,,,,,,False,,5/6,1000.0,DVB-S2,Ita,
+,,,,,,,,,DVB-S2QPSK10005/6,,False,,,,,,

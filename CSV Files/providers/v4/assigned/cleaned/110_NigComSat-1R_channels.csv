@@ -1,0 +1,68 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,OPM Doctor Jesus TV,MPEG-4/HD,101.0,3668 L,,,,,False,,3/4,1055,DVB-S2,Eng
+2.0,OPM Doctor Jesus TV,MPEG-4/SD,36.0,12518 H,,,,,False,,3/5,29500,DVB-S2,Eng
+,Sairtek,,,12518 H,,,,https://www.lyngsat.com/providers/ng/Sairtek.html,True,Sairtek,3/5,29500,DVB-S2,
+,Christian Reformed TV,MPEG-4/SD,46.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+1.0,NTA International,MPEG-4/SD,45.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+4.0,Impact Africa TV,MPEG-4/SD,270.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+6.0,Sunna TV (Nigeria),MPEG-4/SD,1211.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,
+7.0,Alu TV,MPEG-4/SD,82.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,
+10.0,Benue TV,MPEG-4/SD,67.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+14.0,Advocate Broadcasting Network,MPEG-4/SD,76.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+17.0,MBC 2 (Saudi Arabia),MPEG-2/SD,701.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Ara
+19.0,Honour TV,MPEG-4/SD,1141.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+23.0,Epiphany TV,MPEG-4/SD,59.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+24.0,Manara TV,MPEG-4/SD,256.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Hau
+26.0,Glorious Vision TV,MPEG-4/SD,1793.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+32.0,Trust TV,MPEG-4/SD,481.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+36.0,Alive Unto God TV,MPEG-4/SD,53.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+37.0,KSMC,MPEG-4/SD,1181.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+38.0,OneSound Revival TV,MPEG-4/SD,1191.0,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+41.0,Hi-Impact TV,,,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+44.0,Elijah's Voice TV,,,12518 H,,,,,False,Sairtek,3/5,29500,DVB-S2,Eng
+,TFMediaCast,,,12538 H,,,,https://www.lyngsat.com/providers/ng/TFMediaCast.html,True,TFMediaCast,3/4,5000,DVB-S2,
+,Sebioba Royal TV,MPEG-4/SD,66.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+,OYJ TV,MPEG-4/SD,130.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+,Our Sports,MPEG-4/SD,137.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+120.0,Our Sports,HEVC/SD,72.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+7.0,Mercy of God TV,MPEG-4/SD,101.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+101.0,Borno TV,MPEG-4/SD,102.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+105.0,Aflame TV,MPEG-4/SD,60.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+150.0,The Church TV,MPEG-4/SD,65.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+151.0,Catholic TV,MPEG-4/SD,95.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+170.0,Catholic TV,HEVC/SD,48.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+157.0,Al-Irshaad TV,MPEG-4/SD,105.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Ara
+158.0,Favour TV (Nigeria),MPEG-4/SD,280.0,12538 H,,,,,False,TFMediaCast,3/4,5000,DVB-S2,Eng
+,Our TV,,,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,
+102.0,Our Movies Nolly,HEVC/SD,63.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+103.0,Our Movies Globe,HEVC/SD,66.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+133.0,Aljazeera English,HEVC/SD,42.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+150.0,Our Kiddies,HEVC/SD,81.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+160.0,Our Music,HEVC/SD,84.0,12545 H,,,,,False,TFMediaCast,3/4,6166,DVB-S2,Eng
+,Nixsat,,,12555 H,,,,https://www.lyngsat.com/providers/za/Nixsat.html,True,Nixsat,3/4,8200,DVB-S2,
+1.0,Blessed TV,MPEG-4/SD,3001.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+2.0,Kingdom Life Network,MPEG-4/SD,3003.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+3.0,Reigners TV,MPEG-4/SD,3007.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+4.0,Praiseland TV,MPEG-4/SD,3005.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+6.0,Rootzz Sport,MPEG-4/SD,3011.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+8.0,MIO,MPEG-4/SD,3015.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+9.0,Ark of Safety TV,MPEG-4/SD,,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+10.0,Dunamis TV,MPEG-4/SD,,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+11.0,Rhema TV (Nigeria),MPEG-4/SD,,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+13.0,Nixsat promo,MPEG-4/SD,3021.0,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+20.0,Possibility TV,MPEG-4/SD,,12555 H,,,,,False,Nixsat,3/4,8200,DVB-S2,Eng
+,TSTV Africa,,,12589 H,,,,https://www.lyngsat.com/providers/ng/TSTV-Africa.html,True,TSTV Africa,3/4,30000,DVB-S2,
+4.0,MBC 3 (Saudi Arabia),,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+9.0,MBC Bollywood,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+10.0,MBC Drama (Saudi Arabia),,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+11.0,MBC 4,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Eng
+12.0,MBC 5,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+14.0,Alarabiya,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+18.0,MBC Action,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Eng
+19.0,MBC Max,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Ara
+8159.0,NTA Sports 24,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Eng
+8187.0,AIT National,,,12589 H,,,,,False,TSTV Africa,3/4,30000,DVB-S2,Eng
+3401.0,TSTV Dish TV,?-?HEVC/SD,513.0,12625 H,,,,,False,TSTV Africa,2/3,30000,DVB-S2,Eng
+1.0,TV Taraba,?-?MPEG-4/SD,308.0,12727 V,,,,,False,TSTV Africa,3/4,1750,DVB-S2,
+1.0,DITV Network,?-?MPEG-4/SD,257.0,12729 V,,,,,False,TSTV Africa,3/4,1700,DVB-S2,Eng
+1.0,Spectrum TV,?-?MPEG-4/SD,101.0,12733 V,,,,,False,TSTV Africa,3/4,3500,DVB-S2,Eng

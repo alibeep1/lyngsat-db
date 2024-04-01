@@ -1,0 +1,69 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL
+4009 Vtp 15C0,DVB-S28PSK150003/4,,IKO MG,,1-11,,7.9,,Mike 4230610,4009 V,tp 15,0,,https://www.lyngsat.com/providers/it/IKO-MG.html
+4009 Vtp 15C0,DVB-S28PSK150003/4,2,RT Arabic,,MPEG-4/HD,121,122 Ara,,,4009 V,tp 15,0,,
+4009 Vtp 15C0,DVB-S28PSK150003/4,3,3ABN English,,MPEG-2/SD,131,132 Eng,,,4009 V,tp 15,0,,
+4009 Vtp 15C0,DVB-S28PSK150003/4,5,The Israeli Network,,MPEG-4/SD,151,152 Heb,Viaccess,,4009 V,tp 15,0,Viaccess,
+4040 Vtp 17C0,DVB-S28PSK300003/4,,Trinity Broadcasting,,17-17,,7.9,,M Kealing210505,4040 V,tp 17,0,,https://www.lyngsat.com/providers/us/Trinity-Broadcasting.html
+4040 Vtp 17C0,DVB-S28PSK300003/4,1,TBN USA,,MPEG-2/HD,257,260 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,2,TBN USA,,MPEG-4/HD,513,516 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,3,TBN USA,,MPEG-2/SD,769,772 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,4,TBN Inspire USA,,MPEG-2/SD,1025,1028 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,10,TBN Inspire USA,,MPEG-4/HD,273,274 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,5,Positiv,,MPEG-2/SD,1281,1284 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,19,Positiv,,MPEG-4/HD,401,404 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,6,Smile TV,,MPEG-2/SD,1537,1540 Eng,,,4040 V,tp 17,0,,
+4040 Vtp 17C0,DVB-S28PSK300003/4,7,Enlace,,MPEG-2/SD,1793,1796 Spa,,,4040 V,tp 17,0,,
+4060 Htp 18C0,DVB-S292703/4,,,,9-?,,5.5,PowerVu,C Juds220726,4060 H,tp 18,0,PowerVu,
+12020 Htp 16Ku0,,,,,,,,,Cyberham240308,12020 H,tp 16,0,,
+4060 Htp 18C0,DVB-S292703/4,11,(WGN feeds),,,710,700,PowerVu,,4060 H,tp 18,0,PowerVu,
+4060 Htp 18C0,DVB-S292703/4,30,Antenna TV,,MPEG-4/SD,510,501 Eng,PowerVu,,4060 H,tp 18,0,PowerVu,
+4060 Htp 18C0,DVB-S292703/4,50,NewsNation,,MPEG-4/HD,310,300 Eng,PowerVu,,4060 H,tp 18,0,PowerVu,
+4060 Htp 18C0,DVB-S292703/4,55,Rewind TV,,MPEG-4/HD,410,400 Eng,PowerVu,,4060 H,tp 18,0,PowerVu,
+4060 Htp 18C0,DVB-S292703/4,20,WGN Radio,,,,102 Eng,PowerVu,,4060 H,tp 18,0,PowerVu,
+4080 Vtp 19C,DVB-S216APSK342802/3,,(Bally Sports feeds),,,,,,Mike 4230204,4080 V,tp 19,,,
+4100 Htp 20C0,DVB-S28PSK300003/4,,Univisión,,,,7.9,PowerVu,Montana220604,4100 H,tp 20,0,PowerVu,https://www.lyngsat.com/providers/us/Univision.html
+4100 Htp 20C0,DVB-S28PSK300003/4,211,Univisión Este,,MPEG-4/HD,2110,2136 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,212,Univisión Oeste,,MPEG-4/HD,2210,2236 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,213,Galavisión Este,,MPEG-4/HD,2510,2536 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,214,Galavisión Oeste,,MPEG-4/HD,2610,2636 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,215,TUDN Estados Unidos,,MPEG-4/HD,2710,2730 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,216,TUDN Dos,,MPEG-4/SD,2810,2836 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,218,UniMás Este,,MPEG-4/HD,2310,2330 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4100 Htp 20C0,DVB-S28PSK300003/4,219,UniMás Oeste,,MPEG-4/HD,2410,2430 Spa,PowerVu,,4100 H,tp 20,0,PowerVu,
+4120 Vtp 21C0,DVB-S28PSK300005/6,,MLB Network,,,,9.4,PowerVu,NOS482210206,4120 V,tp 21,0,PowerVu,https://www.lyngsat.com/providers/us/MLB-Network.html
+4120 Vtp 21C0,DVB-S28PSK300005/6,1,MLB Network,,HEVC/HD,101,102 Eng,PowerVu,,4120 V,tp 21,0,PowerVu,https://www.lyngsat.com/providers/us/MLB-Network.html
+4120 Vtp 21C0,DVB-S28PSK300005/6,2,MLB Network Alternate,,HEVC/HD,201,202 Eng,PowerVu,,4120 V,tp 21,0,PowerVu,
+4120 Vtp 21C0,DVB-S28PSK300005/6,3,[MLB test card],,HEVC/HD,301,302 Eng,PowerVu,,4120 V,tp 21,0,PowerVu,
+4120 Vtp 21C0,DVB-S28PSK300005/6,4,MLB Strike Zone,,HEVC/HD,401,402 Eng,PowerVu,,4120 V,tp 21,0,PowerVu,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,,Walt Disney TV,,,,,Digicipher,L Brown211027,4140 H,tp 22,0,Digicipher,https://www.lyngsat.com/providers/us/Walt-Disney-TV.html
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3001,Disney Channel East,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3002,Freeform East,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3003,Disney XD East,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3004,Disney Junior East,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3005,Disney Channel West,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3006,Freeform West,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3007,Disney XD West,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4140 Htp 22C0,DVB-S2X16APSK3428625/36,3008,Disney Junior West,,HEVC/HD,,Eng,Digicipher,,4140 H,tp 22,0,Digicipher,
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,,ESPN,,,,,Digicipher,L Brown211027,4160 V,tp 23,0,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,,ESPN,,,,,Digicipher,L Brown211027,4160 V,tp 23,0,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,,ESPN,,,,,Digicipher,L Brown211027,4180 H,tp 24,0,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,,ESPN,,,,,Digicipher,L Brown211027,4180 H,tp 24,0,Digicipher,https://www.lyngsat.com/providers/us/ESPN.html
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,1001,ESPN US,,HEVC/HD,,Eng,Digicipher,,4160 V,tp 23,0,Digicipher,
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,1002,SEC Network,,HEVC/HD,,Eng,Digicipher,,4160 V,tp 23,0,Digicipher,
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,1003,ESPNews,,HEVC/HD,,Eng,Digicipher,,4160 V,tp 23,0,Digicipher,
+4160 Vtp 23C0,DVB-S2X16APSK3428625/36,1004,SEC Network Alternate,,HEVC/HD,,Eng,Digicipher,,4160 V,tp 23,0,Digicipher,
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,2001,ESPN 2 US,,HEVC/HD,,Eng,Digicipher,,4180 H,tp 24,0,Digicipher,
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,2002,ACC Network,,HEVC/HD,,Eng,Digicipher,,4180 H,tp 24,0,Digicipher,
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,2003,ESPNU,,HEVC/HD,,Eng,Digicipher,,4180 H,tp 24,0,Digicipher,
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,2004,ESPN Deportes,,HEVC/HD,,Eng,Digicipher,,4180 H,tp 24,0,Digicipher,
+4180 Htp 24C0,DVB-S2X16APSK3428625/36,2005,Longhorn Network,,HEVC/HD,,Eng,Digicipher,,4180 H,tp 24,0,Digicipher,
+11731 Vtp 1Ku0,DVB-S55003/4,1,Aprende TV,,65535-1MPEG-2/SD,3601,5.53604 Spa,,Cyberham240307,11731 V,tp 1,0,,
+11747 Vtp 3Ku,DVB-S2667,,(feeds),,,,,,Jose060728,11747 V,tp 3,,,
+11916 Htp 16Ku0,DVB-S28943/4,,EXRN Radio Network,,1-1,,5.5,,Cyberham240308,11916 H,tp 16,0,,https://www.lyngsat.com/providers/us/EXRN-Radio-Network.html
+11916 Htp 16Ku0,DVB-S28943/4,50,EXRN Radio Network 1,,,,4156 Eng,,,11916 H,tp 16,0,,
+11916 Htp 16Ku0,DVB-S28943/4,51,EXRN Radio Network 2,,,,4157 Eng,,,11916 H,tp 16,0,,
+12008 Htp 16Ku0,DVB-S126603/4,,Daystar TV,,,,5.5,,S Baker221109,12008 H,tp 16,0,,https://www.lyngsat.com/providers/us/Daystar-TV.html
+12008 Htp 16Ku0,DVB-S126603/4,1,Daystar TV,,MPEG-2/HD,49,52 Eng,,,12008 H,tp 16,0,,https://www.lyngsat.com/providers/us/Daystar-TV.html
+12008 Htp 16Ku0,DVB-S126603/4,2,Daystar TV Español,,MPEG-2/HD,65,68 Spa,,,12008 H,tp 16,0,,
+12008 Htp 16Ku0,DVB-S126603/4,3,Daystar Reflections,,MPEG-2/SD,81,84 Eng,,,12008 H,tp 16,0,,
+12078 Vtp 19Ku0,DVB-S36803/4,,KBS World,,MPEG-2/SD,33,5.5  36 Kor,,A Rybnikov170628,12078 V,tp 19,0,,

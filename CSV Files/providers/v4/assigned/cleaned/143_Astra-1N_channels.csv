@@ -1,0 +1,211 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Sky Deutschland,1-1041,,11082 H,tp 41,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",,False,,3/4,22000,DVB-S2,
+,Sky Deutschland,133-6,,11914 H,tp 75,0.0,Videoguard,,False,,/10,75009,DVB-S2,
+,Sky Deutschland,133-4,,12032 H,tp 81,0.0,Videoguard,,False,,/10,75009,DVB-S2,
+,Sky Deutschland,133-12,,12304 H,tp 95,0.0,Videoguard,,False,,/10,75009,DVB-S2,
+,Sky Deutschland,133-11,,12382 H,tp 99,0.0,Videoguard,,False,,3/4,27500,DVB-S2,
+,HD+,1-1017,,11464 H,tp 17,0.0,"Irdeto,Marlin,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,True,HD+,2/3,22000,DVB-S2,
+,HD+,1-1114,,12640 V,tp 114,0.0,"Marlin,Nagravision,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,True,HD+,3/4,23500,DVB-S2,
+,HD+,1-1116,,12670 V,tp 116,0.0,"Marlin,Nagravision,Videoguard",https://www.lyngsat.com/providers/de/HD-.html,True,HD+,3/4,23500,DVB-S2,
+61300,Sat. 1 Deutschland,MPEG-4/HD,255.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+61301,ProSieben Deutschland,MPEG-4/HD,511.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+61302*,Kabel Eins Deutschland,MPEG-4/HD,767.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+61303*,Sixx Deutschland,MPEG-4/HD,1023.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+61304*,ProSieben Maxx Deutschland,MPEG-4/HD,1279.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+61305*,Kabel Eins Doku Deutschland,MPEG-4/HD,1535.0,11464 H,tp 17,0.0,"Marlin,Nagravision,Videoguard",,False,HD+,2/3,22000,DVB-S2,Ger
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1019,,11494 H,tp 19,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1025,,11582 H,tp 25,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,2/3,22000,DVB-S2,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,3/4,27500,DVB-S2,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,3/4,27500,DVB-S2,
+,ARD Digital,1-1101,,11836 H,tp 71,0.0,,https://www.lyngsat.com/providers/de/ARD-Digital.html,True,ARD Digital,3/4,27500,DVB-S2,
+10301,Das Erste,MPEG-4/HD,5101.0,11494 H,tp 19,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+28106,Das Erste,MPEG-2/SD,101.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger Ger
+10302,ARTE Deutsch,MPEG-4/HD,5111.0,11494 H,tp 19,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Fre Qaa
+10303,SWR Fernsehen Baden-Württemberg,MPEG-4/HD,5121.0,11494 H,tp 19,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+28113,SWR Fernsehen Baden-Württemberg,MPEG-2/SD,801.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger Ger
+10304,SWR Fernsehen Rheinland-Pfalz (Mon-Sun 18-20 & Thu 20.15-21.00 & Mon-Fri 21.45-22.00 & Sun 21.45-22.45),MPEG-4/HD,5131.0,11494 H,tp 19,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+,(feeds),,,11568 V,tp 24,,,,False,ARD Digital,3/4,22000,DVB-S2,
+,(feeds),,,11605 H,tp 27,,,,False,ARD Digital,3/4,9874,DVB-S2,
+,(feeds),,,11618 H,tp 27,,,,False,ARD Digital,3/4,9600,DVB-S2,
+,(feeds),,,11649 V,tp 30,,,,False,ARD Digital,3/4,7200,DVB-S2,
+,(feeds),,,11662 V,tp 30,,,,False,ARD Digital,3/4,9874,DVB-S2,
+10325,Bayerisches Fernsehen Süd,MPEG-4/HD,5201.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+28107,Bayerisches Fernsehen Süd,MPEG-2/SD,201.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger Ger
+10326,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-4/HD,5211.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+28110,Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15),MPEG-2/SD,501.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger
+10327,NDR Fernsehen Niedersachsen,MPEG-4/HD,5221.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+10328,NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5231.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+10329,NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5241.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+10330,NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00),MPEG-4/HD,5251.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa Ger
+10331,Phoenix,MPEG-4/HD,5261.0,11582 H,tp 25,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger Qaa
+,HD Austria,1-1031,,11671 H,tp 31,0.0,"Cryptoworks,Irdeto,Viaccess,Videoguard",,False,ARD Digital,2/3,22000,DVB-S2,
+5305,[4Mediathek info card],MPEG-4/HD,1535.0,11671 H,tp 31,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger
+13112,[4Mediathek info card],MPEG-4/SD,2120.0,12663 H,tp 115,0.0,,,False,ARD Digital,5/6,22000,DVB-S2,Ger
+5309,Sixx Austria,MPEG-2/SD,2559.0,11671 H,tp 31,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger
+5310,Sat. 1 Gold Österreich,MPEG-2/SD,2815.0,11671 H,tp 31,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger
+5311,ProSieben Maxx Austria,MPEG-2/SD,3071.0,11671 H,tp 31,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger
+5312,Kabel Eins Doku Austria,MPEG-2/SD,3327.0,11671 H,tp 31,0.0,,,False,ARD Digital,2/3,22000,DVB-S2,Ger
+28108,HR Fernsehen,MPEG-2/SD,301.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger
+28111,WDR Fernsehen Köln,MPEG-2/SD,601.0,11836 H,tp 71,0.0,,,False,ARD Digital,3/4,27500,DVB-S2,Ger
+,,,,11876 H,tp 73,0.0,,,False,ARD Digital,,,,
+,ZDF Vision,1-1079,,11954 H,tp 77,0.0,,https://www.lyngsat.com/providers/de/ZDF-Vision.html,True,ZDF Vision,3/4,27500,DVB-S2,
+28006,ZDF,MPEG-2/SD,110.0,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger Ger
+28007,3sat,MPEG-2/SD,210.0,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger Ger
+28008,KIKA (06-21),MPEG-2/SD,310.0,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger Ger
+28011,ZDF Info,MPEG-2/SD,610.0,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger Ger
+28014,ZDF Neo,MPEG-2/SD,660.0,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger Ger
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger
+28012,Deutschlandfunk Kultur,,,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger
+28013,Deutschlandfunk,,,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger
+28015,Dokumente und Debatten,,,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger
+28017,Deutschlandfunk Nova,,,11954 H,tp 77,0.0,,,False,ZDF Vision,3/4,27500,DVB-S2,Ger
+,ProSiebenSat. 1 Media,1-1082,,12051 V,tp 82,0.0,,https://www.lyngsat.com/providers/de/ProSiebenSat-1-Media.html,True,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,
+20002,ProSieben Austria,MPEG-2/SD,161.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger Ger
+20004,Kabel Eins Austria,MPEG-2/SD,166.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger
+20005,Sat. 1 Österreich,MPEG-2/SD,800.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger Ger
+20007,Puls 4,MPEG-2/SD,1791.0,12051 V,tp 82,0.0,"Cryptoworks,Irdeto,Viaccess,Videoguard",,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger
+20008,Sat. 1 Hamburg und Schleswig-Holstein,MPEG-2/SD,2047.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger Ger
+20009,Sat. 1 Niedersachsen und Bremen (Mon-Fri 17.30-17.55),MPEG-2/SD,2303.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger Ger
+20010,Sat. 1 Rheinland-Pfalz/Hessen (Mon-Fri 17.30-17.55),MPEG-2/SD,2559.0,12051 V,tp 82,0.0,,,False,ProSiebenSat. 1 Media,3/4,27500,DVB-S2,Ger Ger
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,133-7,,12148 H,tp 87,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1108,,12552 V,tp 108,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+,SES,1-1111,,12604 H,tp 111,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,22000,DVB-S2,
+54,Genius Exklusiv,MPEG-4/SD,3071.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+61,Nickelodeon Austria,MPEG-2/SD,1791.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger Eng
+65,Deluxe Music,MPEG-2/SD,3327.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+71,TLC Austria,MPEG-2/SD,511.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+73,DMAX Austria,MPEG-2/SD,3583.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+514,MediaShop Immer etwas Neues TV,MPEG-2/SD,2303.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+765,Pearl TV,MPEG-2/SD,2047.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+769,Channel 21,MPEG-2/SD,1023.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+774,Folx Music TV,MPEG-4/SD,768.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+775,MediaShop Meine Einkaufswelt,MPEG-2/SD,1279.0,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+160,Rock Antenne,,,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+169,Sunshine Live,,,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+170,Antenne Bayern,,,12148 H,tp 87,0.0,,,False,SES,3/4,27500,DVB-S2,Ger
+,Canal + France,1-1088,,12168 V,tp 88,0.0,"Mediaguard,Nagravision,Viaccess",,False,SES,2/3,29700,DVB-S2,
+,Canal + France,1-1090,,12207 V,tp 90,0.0,"Mediaguard,Nagravision,Viaccess",,False,SES,2/3,29700,DVB-S2,
+,Canal + France,1-1094,,12285 V,tp 94,0.0,"Mediaguard,Nagravision,Viaccess",,False,SES,2/3,29700,DVB-S2,
+,Canal + France,1-1096,,12324 V,tp 96,0.0,"Mediaguard,Nagravision,Viaccess",,False,SES,2/3,29700,DVB-S2,
+,Canal + France,1-1098,,12363 V,tp 98,0.0,Nagravision,,False,SES,3/4,27500,DVB-S2,
+,Canal + France,1-1100,,12402 V,tp 100,0.0,"Mediaguard,Nagravision,Viaccess",,False,SES,2/3,29700,DVB-S2,
+9308,Public Sénat,MPEG-4/HD,810.0,12168 V,tp 88,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9308,LCP Assemblée Nationale,MPEG-4/HD,810.0,12168 V,tp 88,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9311,Canal + promo,MPEG-4/SD,1110.0,12168 V,tp 88,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9014,C News,MPEG-4/HD,1410.0,12207 V,tp 90,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9109,Sud Radio,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9140,Fun Radio (France),,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9142,BBC World Service English Europe,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Eng
+9144,Melody Vintage Radio,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9153,Mouv',,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9154,France Musique,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9155,FIP,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9156,Franceinfo:,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9157,France Inter,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9158,France Culture,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9159,France Bleu Paris,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9163,Radio France Internationale,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9164,Radio Classique,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9165,RTL,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9166,Europe 1,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9168,Rire & Chansons,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9175,TSF Jazz,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9176,Oüi FM,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9177,Jazz Radio,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9178,Radio Nova (France),,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9179,FG,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9180,Radio Contact (France),,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9181,Nostalgie,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9182,NRJ France,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9183,RFM (France),,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9184,Europe 2,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9185,Chérie FM,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9186,RTL 2,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9187,Skyrock,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9194,Radio Notre Dame,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+9198,Beur FM,,,12285 V,tp 94,0.0,,,False,SES,2/3,29700,DVB-S2,Fre
+125,CNBC Europe,MPEG-4/HD,2303.0,12382 H,tp 99,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+,{},,,12441 V,tp 102,0.0,,,False,SES,5/6,27500,DVB-S2,
+,Globecast,1-1106,,12522 V,tp 106,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,2/3,22000,DVB-S2,
+6801,CGTN,MPEG-4/HD,6811.0,12522 V,tp 106,0.0,,,False,Globecast,2/3,22000,DVB-S2,Eng
+6802,CGTN Documentary,MPEG-4/HD,6821.0,12522 V,tp 106,0.0,,,False,Globecast,2/3,22000,DVB-S2,Eng
+6803,CGTN Français,MPEG-4/HD,6831.0,12522 V,tp 106,0.0,,,False,Globecast,2/3,22000,DVB-S2,Fre
+3394,QVC Zwei,MPEG-2/SD,168.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+12100,QVC Deutschland,MPEG-2/SD,165.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+12122,Bibel TV,MPEG-2/SD,33.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+12137,Canal Algérie 2,MPEG-2/SD,515.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ara
+12138,Thalitha A3,MPEG-2/SD,514.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ara
+12140,Chérie 25,MPEG-4/HD,5301.0,12552 V,tp 108,0.0,"Nagravision,Viaccess",,False,Globecast,5/6,22000,DVB-S2,Fre Qaa
+12145,NRJ 12,MPEG-4/HD,5501.0,12552 V,tp 108,0.0,"Nagravision,Viaccess",,False,Globecast,5/6,22000,DVB-S2,Fre Qaa
+12186,SBN International,MPEG-2/SD,2001.0,12552 V,tp 108,0.0,,,False,Globecast,5/6,22000,DVB-S2,Eng Spa
+7200,Bloomberg TV Europe,MPEG-2/SD,48.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Eng
+7290,Sky News International,MPEG-2/SD,1290.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Eng
+28534,WDR Fernsehen Aachen,MPEG-2/SD,3401.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+28535,WDR Studio Wuppertal (Mon-Fri 19.30-20.00),MPEG-2/SD,3501.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+28536,WDR Studio Bonn (Mon-Fri 19.30-20.00),MPEG-2/SD,3601.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+28537,WDR Studio Duisburg (Mon-Fri 19.30-20.00),MPEG-2/SD,3701.0,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+7289,Radio Horeb,,,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+7931,RTL Radio,,,12604 H,tp 111,0.0,,,False,Globecast,5/6,22000,DVB-S2,Ger
+,Media Broadcast Satellite,1-1113,,12633 H,tp 113,0.0,,https://www.lyngsat.com/providers/de/Media-Broadcast-Satellite.html,True,Media Broadcast Satellite,5/6,22000,DVB-S2,
+12600,Media Broadcast Satellite promo,MPEG-4/SD,1113.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12601,K-TV,MPEG-2/SD,202.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12604,Deutsches Musik Fernsehen,MPEG-4/SD,53.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12612,Deutschlands GayChat,MPEG-2/SD,212.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12614,Juwelo,MPEG-2/SD,1041.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12622,Männersache TV (04-21),MPEG-2/SD,222.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12623,Date Line (04-21),MPEG-2/SD,223.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12624,Fotohandy TV (04-21),MPEG-2/SD,224.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12625,Mobile-Sex (04-21),MPEG-2/SD,225.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12626,My Dirty Mobile (04-21),MPEG-2/SD,226.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12629,Traumfrauen TV,MPEG-2/SD,229.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12630,Heiss und Sexy TV,MPEG-2/SD,230.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12633,Lilo TV,MPEG-4/SD,233.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12635,Babestation 24 (21-04),MPEG-2/SD,235.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12639,Erotika TV (04-21),MPEG-2/SD,239.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12640,BunnyClub 24 (04-21),MPEG-2/SD,240.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12641,Clipmobile (04-21),MPEG-2/SD,241.0,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12654,FFN,,,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12655,Radio Paloma,,,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12656,Radio HBR,,,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12657,Radio HCJB Deutschland,,,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+12659,Radio Gloria,,,12633 H,tp 113,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+,ORF Digital,1-1115,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,
+,ORF Digital,1-1117,,12692 H,tp 117,0.0,"Cryptoworks,Irdeto,Videoguard",,False,Media Broadcast Satellite,5/6,22000,DVB-S2,
+13102,Nitro Austria,MPEG-2/SD,1020.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13103,Dokusat,MPEG-4/SD,1030.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13104,LT 1 (21:30-17:00 & 17:30-21:00),MPEG-4/SD,1040.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13104,HT 1 Innviertel (17:00-17:30 & 21:00-21:30),MPEG-4/SD,1040.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13106,Shop LC Deutschland,MPEG-4/SD,1060.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13107,Visit-X TV,MPEG-2/SD,1070.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13110,Genius TV+,MPEG-4/SD,1110.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13113,L TV,MPEG-4/SD,2130.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13141,AstroTV,MPEG-4/HD,2410.0,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13121,Ö1,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13123,Radio Wien,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13124,Radio Niederösterreich,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13125,Radio Burgenland,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13126,Radio Oberösterreich,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13127,Radio Salzburg,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13128,Radio Tirol,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13129,Radio Vorarlberg,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13130,Radio Steiermark,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13131,Radio Kärnten,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13133,Hitradio Ö3,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13013,Hitradio Ö3,MPEG-4/HD,130.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13134,Radio FM 4,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13140,Radio Maria Österreich,,,12663 H,tp 115,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13014,ORF 2 Europe,MPEG-2/SD,170.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13018,Volksmusik TV,MPEG-4/SD,180.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13019,RiC,MPEG-2/SD,190.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13021,N-TV Austria,MPEG-4/SD,3020.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger
+13023,TV 1 Oberösterreich,MPEG-4/SD,3040.0,12692 H,tp 117,0.0,,,False,Media Broadcast Satellite,5/6,22000,DVB-S2,Ger

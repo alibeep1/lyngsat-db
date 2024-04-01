@@ -1,0 +1,9 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Medianet,,,3975 H,,,Tongfang,,False,,3/4,34284,DVB-S2,
+17042.0,Al Quran,HEVC/SD,806.0,3975 H,,,,,False,,3/4,34284,DVB-S2,
+17093.0,SSTV,HEVC,634.0,3975 H,,,,,False,,3/4,34284,DVB-S2,
+,Medianet,,,3975 V,,,Tongfang,,False,,3/4,34284,DVB-S2,
+17014.0,VFM 99,,,3975 V,,,,,False,,3/4,34284,DVB-S2,
+,(feeds),,,11596 V,,,,,False,,7/8,1600,DVB-S1,
+,(feeds),,,11600 V,,,,,False,,7/8,1600,DVB-S1,
+,(feeds),,,11658 V,,,,,False,,5/6,2400,DVB-S2,

@@ -1,0 +1,14 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,12276 V,,,,,False,,2/3,7457,DVB-S2,
+,(feeds),,,12306 V,tp 13,,,,False,,2/3,7457,DVB-S2,
+,(feeds),,,12319 V,tp 13,,,,False,,3/4,14910,DVB-S1,
+,(feeds),,,12336 V,tp 13,,,,False,,2/3,7457,DVB-S2,
+1.0,NHK Educational TV,?-?MPEG-4/HD,133.0,12363 V,tp 14,0.0,BISS,,False,,2/3,7458,DVB-S2,Jpn
+1.0,NHK General TV,?-?MPEG-4/HD,133.0,12385 V,tp 14,0.0,,,False,,1/2,7458,DVB-S2,Jpn
+,(feeds),,,12394 V,tp 14,,,,False,,2/3,7457,DVB-S2,
+,(feeds),,,12403 V,tp 14,,,,False,,2/3,7457,DVB-S2,
+,Sound Planet,5-1,,12508 V,tp 17,0.0,StarGuide,,False,,3/4,21096,DVB-S2,
+,(feeds),,,12546 H,tp 5,,,,False,,3/5,9365,DVB-S2,
+1.0,Medekiku TV (Tue/Thu/Sat 12.00-22.30),1-1MPEG-2/SD,164.0,12558 V,tp 19,0.0,,,False,,3/4,3515,DVB-S3,Jpn
+,Sound Planet,5-2,,12598 V,tp 20,0.0,StarGuide,,False,,3/4,21096,DVB-S2,
+,Sound Planet,5-3,,12658 V,tp 22,0.0,StarGuide,,False,,3/4,21096,DVB-S2,

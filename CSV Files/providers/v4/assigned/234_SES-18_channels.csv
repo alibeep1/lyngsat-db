@@ -1,0 +1,101 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3940 Vtp 12,DVB-S28PSK280003/4,,Gulfcom,,1-1,,7.9,PowerVu,ML231130,3940 V,tp 12,,PowerVu,https://www.lyngsat.com/providers/bb/Gulfcom.html,True,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,100.0,CBC Toronto,,MPEG-4/HD,900.0,910 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,101.0,WWOR-TV (My - Secaucus),,MPEG-4/HD,700.0,710 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,102.0,WSVN-TV (Fox - Miami),,MPEG-4/HD,1000.0,1010 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,103.0,CTV Toronto,,MPEG-4/HD,2700.0,2710 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,104.0,WPIX-TV (CW - New York),,MPEG-4/HD,1100.0,1110 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,105.0,WGN-TV (Chicago),,MPEG-4/HD,2400.0,2410 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,106.0,Citytv Toronto,,MPEG-4/HD,3100.0,3110 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,107.0,KTLA-TV (CW - Los Angeles),,MPEG-4/HD,3200.0,3210 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,108.0,TVO,,MPEG-4/HD,3400.0,3410 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,109.0,WPBT-TV (PBS - Miami),,MPEG-4/HD,3500.0,3510 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,121.0,Gone Viral TV,,MPEG-4/HD,2800.0,2810 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,122.0,Gone Viral Music,,MPEG-4/HD,2900.0,2910 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,123.0,Gone Viral Vogue,,MPEG-4/HD,2200.0,2210 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,124.0,Gone Viral X-treme,,MPEG-4/HD,2300.0,2310 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,403.0,Bounce,,MPEG-4/SD,2100.0,2110 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+4040 Htp 17,DVB-S28PSK300002/3,29.0,Bounce,,MPEG-4/HD,2900.0,2901 Eng,,,4040 H,tp 17,,,,False,Gulfcom
+4040 Htp 17,DVB-S28PSK300002/3,205.0,Bounce,,MPEG-2/SD,632.0,633 Eng,,,4040 H,tp 17,,,,False,Gulfcom
+3940 Vtp 12,DVB-S28PSK280003/4,421.0,WNED-TV (PBS - Buffalo),,MPEG-4/SD,3300.0,3310 Eng,PowerVu,,3940 V,tp 12,,PowerVu,,False,Gulfcom
+3980 Vtp 14,,,,,,,,,ML240106,3980 V,tp 14,,,,False,Gulfcom
+4009 Htp 15,,,,,,,,,ML240301,4009 H,tp 15,,,,False,Gulfcom
+4060 Vtp 18,DVB-S28PSK300005/6,,,,,,9.4,Digicipher,Mike 4230127,4060 V,tp 18,,Digicipher,,False,Gulfcom
+4140 Vtp 22,DVB-S28PSK300005/6,,,,1-2,,9.4,,Mike 4230729,4140 V,tp 22,,,,False,Gulfcom
+4040 Htp 17,DVB-S28PSK300002/3,,ION Media Networks,,1-4,,6.6,,NOS482231007,4040 H,tp 17,,,https://www.lyngsat.com/providers/us/ION-Media-Networks.html,True,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,10.0,Grit,,MPEG-4/HD,1000.0,1001 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,201.0,Grit,,MPEG-2/SD,612.0,613 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,11.0,Court TV,,MPEG-4/SD,1100.0,1101 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,203.0,Court TV,,MPEG-2/SD,622.0,623 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,17.0,ION TV West,,MPEG-4/HD,1700.0,1701 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,18.0,ION TV East,,MPEG-4/HD,1800.0,1801 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,27.0,Laff,,MPEG-2/SD,2701.0,2702 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,30.0,Scripps News,,MPEG-4/HD,3000.0,3001 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,204.0,ION Mystery,,MPEG-2/SD,627.0,628 Eng,,,4040 H,tp 17,,,,False,ION Media Networks
+4040 Htp 17,DVB-S28PSK300002/3,212.0,HSN,,MPEG-2/SD,667.0,668 Eng,,,4040 H,tp 17,,,https://www.lyngsat.com/providers/us/HSN.html,True,HSN
+4160 Htp 23,DVB-S292703/4,,HSN,,1-?,,5.5,,NOS482240130,4160 H,tp 23,,,https://www.lyngsat.com/providers/us/HSN.html,True,HSN
+4160 Htp 23,DVB-S292703/4,1.0,HSN,,MPEG-2/SD,110.0,171 Eng,,,4160 H,tp 23,,,https://www.lyngsat.com/providers/us/HSN.html,True,HSN
+4160 Htp 23,DVB-S292703/4,102.0,HSN,,MPEG-2/HD,210.0,271 Eng,,,4160 H,tp 23,,,https://www.lyngsat.com/providers/us/HSN.html,True,HSN
+4040 Htp 17,DVB-S28PSK300002/3,213.0,QVC US,,MPEG-2/SD,672.0,673 Eng,,,4040 H,tp 17,,,,False,HSN
+4080 Htp 19,DVB-S28PSK300005/6,1.0,QVC US,,MPEG-2/SD,200.0,201 Eng,,,4080 H,tp 19,,,,False,HSN
+4080 Htp 19,DVB-S28PSK300005/6,2.0,QVC US,,MPEG-2/HD,100.0,101 Eng,,,4080 H,tp 19,,,,False,HSN
+4040 Htp 17,DVB-S28PSK300002/3,216.0,Jewelry TV,,MPEG-4/SD,679.0,680 Eng,,,4040 H,tp 17,,,,False,HSN
+4040 Htp 17,DVB-S28PSK300002/3,217.0,Defy TV,,MPEG-4/SD,686.0,687 Eng,,,4040 H,tp 17,,,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,1.0,AccuWeather Network,,MPEG-4/HD,100.0,101 Eng 102 Spa,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,2.0,Aspire TV,,MPEG-4/HD,200.0,201 Eng 202 Spa,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,3.0,Impact TV Network (USA),,MPEG-4/HD,300.0,301 Rus,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,4.0,Game Show Network East,,MPEG-4/HD,400.0,401 Eng 402 Spa,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,10.0,Game Show Network East,,MPEG-4/SD,1000.0,1001 Eng,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,5.0,Game Show Network West,,MPEG-4/HD,500.0,501 Eng 501 Spa,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,9.0,Game Show Network West,,MPEG-4/SD,900.0,901 Eng,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,6.0,Up TV,,MPEG-4/HD,600.0,601 Eng,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,7.0,Free Speech TV,,MPEG-4/SD,700.0,701 Eng,,,4060 V,tp 18,,,,False,HSN
+4060 Vtp 18,DVB-S28PSK300005/6,8.0,TV One (USA),,MPEG-4/SD,800.0,801 Eng,Digicipher,,4060 V,tp 18,,Digicipher,,False,HSN
+4080 Htp 19,DVB-S28PSK300005/6,,QVC,,1-?,,9.4,,Kyl 416210405,4080 H,tp 19,,,https://www.lyngsat.com/providers/us/QVC.html,True,QVC
+4080 Htp 19,DVB-S28PSK300005/6,5.0,QVC Over the Air,,MPEG-2/SD,500.0,501 Eng,,,4080 H,tp 19,,,,False,QVC
+4080 Htp 19,DVB-S28PSK300005/6,6.0,QVC 2 Over the Air,,MPEG-2/SD,600.0,601 Eng,,,4080 H,tp 19,,,,False,QVC
+4080 Htp 19,DVB-S28PSK300005/6,7.0,QVC 3,,MPEG-4/SD,700.0,701 Eng,,,4080 H,tp 19,,,,False,QVC
+4080 Htp 19,DVB-S28PSK300005/6,8.0,QVC 3,,MPEG-4/HD,800.0,801 Eng,,,4080 H,tp 19,,,,False,QVC
+4100 Vtp 20,DVB-S28PSK300003/4,,Univisión,,,,7.9,RAS,Mike 4210131,4100 V,tp 20,,RAS,https://www.lyngsat.com/providers/us/Univision.html,True,Univisión
+4100 Vtp 20,DVB-S28PSK300003/4,111.0,Univisión Este,,MPEG-4/HD,1001.0,1002 Spa,RAS,,4100 V,tp 20,,RAS,,False,Univisión
+4100 Vtp 20,DVB-S28PSK300003/4,112.0,Univisión Oeste,,MPEG-4/HD,2001.0,2002 Spa,RAS,,4100 V,tp 20,,RAS,,False,Univisión
+4100 Vtp 20,DVB-S28PSK300003/4,113.0,Univisión Mountain,,MPEG-4/HD,3001.0,3002 Spa,RAS,,4100 V,tp 20,,RAS,,False,Univisión
+4120 Htp 21,DVB-S28PSK300005/6,,(ION feeds),,,,,,ML240129,4120 H,tp 21,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,210.0,Classic Arts Showcase,,MPEG-4/HD,211.0,212 Eng,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,7001.0,Ant1 Satellite,,MPEG-4/SD,100.0,110 Gre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,7005.0,Ant1 Satellite,,MPEG-4/HD,116.0,1.7 Gre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8001.0,Rai Italia Nord America,,MPEG-4/SD,811.0,821 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8002.0,Rai News 24,,MPEG-4/SD,812.0,822 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8003.0,Rai World Premium,,MPEG-4/SD,813.0,823 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8020.0,Pasiones Estados Unidos,,MPEG-4/SD,3001.0,3002 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8021.0,Centroamérica TV,,MPEG-4/SD,4001.0,4002 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8022.0,TV Dominicana,,MPEG-4/SD,5001.0,5002 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8023.0,HITN,,MPEG-4/SD,121.0,122 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8024.0,Law & Crime,,MPEG-4/HD,151.0,152 Eng,PowerVu,,4140 V,tp 22,,PowerVu,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8025.0,CineLatino Estados Unidos,,MPEG-4/SD,531.0,532 Spa,PowerVu,,4140 V,tp 22,,PowerVu,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8030.0,France 24 English,,MPEG-4/HD,1304.0,1504 Eng,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8031.0,France 24 Español,,MPEG-4/HD,1311.0,1511 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,7002.0,Easy 97.2,,,,111 Gre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,7003.0,Rythmos 949,,,,1.4 Gre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,7004.0,Spor FM,,,,115 Gre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8004.0,Rai Radio 1,,,,824 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8005.0,Rai Radio 2,,,,825 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8006.0,Rai Radio 3,,,,826 Ita,Irdeto,,4140 V,tp 22,,Irdeto,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8035.0,RFI Latine,,,,1609 Spa,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8036.0,RFI Français,,,,1500 Fre,,,4140 V,tp 22,,,,False,Univisión
+4140 Vtp 22,DVB-S28PSK300005/6,8037.0,RFI Langues,,,,1000,,,4140 V,tp 22,,,,False,Univisión
+4160 Htp 23,DVB-S292703/4,2.0,HSN Over the Air,,MPEG-4/SD,510.0,571 Eng,,,4160 H,tp 23,,,,False,Univisión
+4160 Htp 23,DVB-S292703/4,103.0,HSN 2,,MPEG-2/SD,310.0,371 Eng,,,4160 H,tp 23,,,,False,Univisión
+4160 Htp 23,DVB-S292703/4,109.0,HSN 2,,MPEG-2/HD,410.0,471 Eng,,,4160 H,tp 23,,,,False,Univisión
+4180 Vtp 24,DVB-S28PSK300005/6,,Showtime HD West Plex 2,,,,9.4,Digicipher,Abbie200117,4180 V,tp 24,,Digicipher,https://www.lyngsat.com/providers/us/Showtime-HD-West-Plex-2.html,True,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,1.0,Showtime West,,MPEG-4/HD,17.0,18 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,2.0,The Movie Channel West,,MPEG-4/HD,33.0,34 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,3.0,Showtime 2 West,,MPEG-4/HD,49.0,50 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,4.0,Showtime Showcase West,,MPEG-4/HD,65.0,66 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,5.0,The Movie Channel Xtra West,,MPEG-4/HD,81.0,82 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,6.0,Showtime Extreme West,,MPEG-4/HD,97.0,98 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,7.0,Sho x Bet West,,MPEG-4/HD,113.0,114 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,8.0,Showtime Next West,,MPEG-4/HD,129.0,130 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,9.0,Showtime Women West,,MPEG-4/HD,145.0,146 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,10.0,Flix West,,MPEG-4/HD,161.0,162 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2
+4180 Vtp 24,DVB-S28PSK300005/6,11.0,Showtime Family Zone West,,MPEG-4/HD,177.0,178 Eng,Digicipher,,4180 V,tp 24,,Digicipher,,False,Showtime HD West Plex 2

@@ -1,0 +1,434 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+10972 Vtp B2Transalpine0,DVB-S28PSK299502/3,,Fransat,,1375-20600,,6.6,Viaccess,N Stanislav221126,10972 V,tp B2,0,Viaccess,,False,
+11054 Vtp B6Transalpine0,DVB-S28PSK299502/3,,Fransat,,1375-20500,,6.6,Viaccess,N Stanislav221022,11054 V,tp B6,0,Viaccess,,False,
+11096 Vtp B8Transalpine0,DVB-S28PSK299503/4,,Fransat,,1375-20400,,7.9,Viaccess,N Schlammer210626,11096 V,tp B8,0,Viaccess,,False,
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,,Fransat,,1375-20100,,7.9,Viaccess,D de Jong230104,11471 V,tp D2,0,Viaccess,,False,
+11554 Vtp D6Transalpine0,DVB-S28PSK299503/4,,Fransat,,1375-20300,,7.9,Viaccess,M Al-Taie231023,11554 V,tp D6,0,Viaccess,,False,
+11679 Vtp D12Transalpine0,DVB-S28PSK299502/3,,Fransat,,1375-20800,,6.6,Viaccess,M Al-Taie220706,11679 V,tp D12,0,Viaccess,,False,
+12522 Vtp F2Transalpine0,DVB-S28PSK299502/3,,Fransat,,1375-20700,,6.6,Viaccess,EnoSat231207,12522 V,tp F2,0,Viaccess,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,,RAI mux MR 1,,8572-113,,6.6,,D de Jong230924,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1101.0,Rai 1,,MPEG-4/HD,201.0,300 Ita 501 Qaa,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1451.0,Rai 1,,MPEG-4/HD,201.0,300 Ita 501 Qaa,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1151.0,Rai 1,,MPEG-4/HD,201.0,300 Ita 501 Qaa,,,11013 V,tp B4,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1301.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1551.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1201.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1501.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1601.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,11637 V,tp D10,0,,,False,
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1401.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,12606 V,tp F6,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1351.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1251.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1401.0,Rai 1,,MPEG-4/HD,201.0,301 Ita 501 Qaa,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1102.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1452.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1152.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11013 V,tp B4,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1302.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1552.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1202.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1502.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1602.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,11637 V,tp D10,0,,,False,
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1402.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,12606 V,tp F6,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1352.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1252.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1402.0,Rai 2,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1103.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1453.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1153.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11013 V,tp B4,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1303.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1553.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1203.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1503.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1603.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,11637 V,tp D10,0,,,False,
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1009.0,Rai News 24,,MPEG-4/HD,209.0,309 Ita,,,12606 V,tp F6,0,,,False,
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1403.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,12606 V,tp F6,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1353.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1253.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1403.0,Rai News 24,,MPEG-4/SD,203.0,303 Ita,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1110.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1460.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1160.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11013 V,tp B4,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1310.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1560.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 1,3403.0,Rai 3,,MPEG-2/SD,514.0,652 Ita,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1210.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1510.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11637 V,tp D10,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1610.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,11637 V,tp D10,0,,,False,
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1410.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,12606 V,tp F6,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1360.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1260.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,12627 H,tp F5,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1410.0,Rai 3,,MPEG-4/HD,270.0,370 Ita,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1111.0,Rai 3 Lombardia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/HD,271.0,371 Ita,,,11013 V,tp B4,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1363.0,Rai 3 Lombardia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1112.0,Rai 3 Piemonte (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/HD,272.0,.72 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1113.0,Rai 3 Emilia Romagna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11013 V,tp B4,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1362.0,Rai 3 Emilia Romagna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/HD,272.0,372 Ita,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,,RAI mux MR 8,,8572-183,,6.6,,D de Jong230501,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1461.0,Rai 3 Liguria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1462.0,Rai 3 Sardegna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 3,1463.0,Rai 3 Toscana (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11013 V,tp B4,0,,,False,
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1262.0,Rai 3 Toscana (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,12627 H,tp F5,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,,RAI mux MR 2,,8572-123,,6.6,,D de Jong230501,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1161.0,Rai 3 Trentino-Alto Adige Trento (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1162.0,Rai 3 Trentino-Alto Adige Bolzano (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11013 V,tp B4,0,,,False,
+11013 Vtp B4Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1163.0,Rai Südtirol (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & Mon 19.55-22.55 & Tue-Fri 19.55-23.20 & Sat-Sun 18.00-23.20),,MPEG-4/HD,273.0,373 Ita,,,11013 V,tp B4,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,,RAI mux MR 5,,8572-153,,6.6,,D de Jong230501,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1311.0,Rai 3 Puglia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1312.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1563.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1612.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11637 V,tp D10,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 1,1313.0,Rai 3 Molise (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1212.0,Rai 3 Molise (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11637 V,tp D10,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,,RAI mux MR 10,,8572-203,,6.6,,D de Jong230501,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1561.0,Rai 3 Sicilia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11016 H,tp B3,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1562.0,Rai 3 Calabria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11016 H,tp B3,0,,,False,
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1613.0,Rai 3 Calabria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11637 V,tp D10,0,,,False,
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,,Rai Way Sicilia 1,,8572-40960,,6.6,,EnoSat240318,11016 H,tp B3,0,,https://www.lyngsat.com/providers/--/Rai-Way-Sicilia-1.html,True,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,89.0,Antenna Sicilia,,MPEG-4/HD,489.0,689 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,90.0,Video Regione 14,,MPEG-4/HD,490.0,690 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,91.0,Tele Color,,MPEG-4/HD,491.0,691 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,92.0,Rei TV,,MPEG-4/HD,492.0,692 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,93.0,Video Mediterraneo,,MPEG-4/HD,493.0,693 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,94.0,TGS,,MPEG-4/HD,494.0,694 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,95.0,Tele One 16,,MPEG-4/HD,495.0,695 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,96.0,TRM 13,,MPEG-4/HD,496.0,696 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,97.0,TeleRent 7 Gold,,MPEG-4/HD,497.0,697 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,98.0,Siciliachannel,,MPEG-4/HD,498.0,698 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,99.0,Ciak Telesud,,MPEG-4/SD,499.0,699 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,100.0,Tele Star,,MPEG-4/SD,500.0,700 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,101.0,6 Sestarete TV,,MPEG-4/SD,501.0,701 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,102.0,TriS,,MPEG-4/SD,502.0,702 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,103.0,Canale Italia,,MPEG-4/SD,503.0,703 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9913.0,Canale Italia,,MPEG-4/SD,1030.0,1031 Ita,,,12585 H,tp F3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,104.0,TeleMistretta,,MPEG-4/HD,504.0,704 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,105.0,Tele Normanna,,MPEG-4/SD,505.0,705 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11016 Htp B3Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 12,144.0,Etna Channel,,MPEG-4/HD,544.0,744 Ita,,new,11016 H,tp B3,0,,,False,Rai Way Sicilia 1
+11096 Vtp B8Transalpine0,DVB-S28PSK299503/4,426.0,Vosges TV,,MPEG-4/SD,2461.0,2462 Fre,,,11096 V,tp B8,0,,,False,Rai Way Sicilia 1
+11096 Vtp B8Transalpine0,DVB-S28PSK299503/4,427.0,KTO,,MPEG-2/SD,2471.0,2472 Fre,,,11096 V,tp B8,0,,,False,Rai Way Sicilia 1
+11179 Vtp B12Transalpine0,,,,,,,,,M Al-TaieN StanislavD de Jong240210,11179 V,tp B12,0,,,False,Rai Way Sicilia 1
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,,,,1375-13010,,4.7,,N Schlammer220413,11472 H,tp D1,0,,,False,Rai Way Sicilia 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,,,,8442-10,,10.7,,R Lambley160413,12648 V,tp F8,0,,,False,Rai Way Sicilia 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,,,,8442-2,,10.7,,Lexzie160428,12648 V,tp F8,0,,,False,Rai Way Sicilia 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,,,,8442-3,,10.7,MediaguardNagravision,D Lita180723,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Rai Way Sicilia 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 1,,,,8442-1,,10.7,,K Bamik210630,12732 V,tp F12,0,,,False,Rai Way Sicilia 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,,,,8442-4,,10.7,,D Shimoni210520,12732 V,tp F12,0,,,False,Rai Way Sicilia 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,,,,8442-6,,10.7,,D Shimoni210520,12732 V,tp F12,0,,,False,Rai Way Sicilia 1
+11453.9 Htp D1Transalpine0,DVB-S5431/2,,TowerCast,,1-1000,,2.7,,Jamie A210725,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11453.9 Htp D1Transalpine0,DVB-S5431/2,,TowerCast,,1-1000,,2.7,,Jamie A210725,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11453.9 Htp D1Transalpine0,DVB-S5431/2,,TowerCast,,1-1000,,2.7,,Jamie A210725,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11456 Htp D1Transalpine0,DVB-S2QPSK25483/4,,TowerCast,,8442-4,,4.0,,EnoSat231024,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11456 Htp D1Transalpine0,DVB-S2QPSK25483/4,,TowerCast,,8442-4,,4.0,,EnoSat231024,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11456 Htp D1Transalpine0,DVB-S2QPSK25483/4,,TowerCast,,8442-4,,4.0,,EnoSat231024,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,,TowerCast,,8442-3,,4.0,,D de Jong230104,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,,TowerCast,,8442-3,,4.0,,D de Jong230104,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,,TowerCast,,8442-3,,4.0,,D de Jong230104,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast
+11453.9 Htp D1Transalpine0,DVB-S5431/2,1001.0,Nostalgie Belgique,,,,101 Fre,,,11453.9H,tp D1,0,,,False,TowerCast
+11453.9 Htp D1Transalpine0,DVB-S5431/2,1002.0,NRJ Belgique,,,,111 Fre,,,11453.9H,tp D1,0,,,False,TowerCast
+11456 Htp D1Transalpine0,DVB-S2QPSK25483/4,22.0,Nostalgie,,,,221 Fre,,,11456 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,14.0,Nostalgie,,,,141 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,22.0,Nostalgie,,,,221 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3072.0,Nostalgie,,,,2722 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,11.0,NRJ France,,,,111 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,21.0,NRJ France,,,,211 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3073.0,NRJ France,,,,2732 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,12.0,Chérie FM,,,,121 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3075.0,Chérie FM,,,,1973 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,13.0,Rire & Chansons,,,,131 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3074.0,Rire & Chansons,,,,2742 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,41.0,RTL,,,,411 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,42.0,RTL 2,,,,421 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,43.0,Fun Radio (France),,,,431 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,44.0,Europe 1,,,,441 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3076.0,Europe 1,,,,2762 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,45.0,RFM (France),,,,451 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3078.0,RFM (France),,,,2782 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,46.0,Europe 2,,,,461 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3077.0,Europe 2,,,,2772 Fre,,,11471 V,tp D2,0,,,False,TowerCast
+11461 Htp D1Transalpine0,DVB-S2QPSK57803/4,1001.0,Skyrock,,,,1002 Fre,,,11461 H,tp D1,0,,,False,TowerCast
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,,Alouette,,1-1,,5.5,,EnoSat200702,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,1000.0,Alouette,,,,101 Fre,,,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,5000.0,Alouette,,,,501 Fre,,,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,2000.0,Magic Alouette Haute-Vienne,,,,201 Fre,,,11465.2H,tp D1,0,,,False,Alouette
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,3000.0,Tempo Alouette,,,,301 Fre,,,11465.2H,tp D1,0,,,False,Alouette
+11465.2 Htp D1Transalpine0,DVB-S28PSK6673/5,4000.0,Magic Alouette Creuse,,,,401 Fre,,,11465.2H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3020.0,France Bleu Paris,,,,2202 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,100.0,France Bleu Paris,,,,1001 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3021.0,France Bleu Alsace,,,,2212 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,101.0,France Bleu Alsace,,,,1011 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3022.0,France Bleu Armorique,,,,2222 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,102.0,France Bleu Armorique,,,,1021 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3023.0,France Bleu Auxerre,,,,2232 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,103.0,France Bleu Auxerre,,,,1031 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3024.0,France Bleu Azur,,,,2242 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,104.0,France Bleu Azur,,,,1041 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3025.0,France Bleu Normandie Calvados - Orne,,,,2252 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,105.0,France Bleu Normandie Calvados - Orne,,,,1051 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3026.0,France Bleu Béarn Bigorre,,,,2262 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,106.0,France Bleu Béarn Bigorre,,,,1061 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3027.0,France Bleu Belfort-Montbéliard,,,,2272 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,107.0,France Bleu Belfort-Montbéliard,,,,1071 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3028.0,France Bleu Berry,,,,2282 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,108.0,France Bleu Berry,,,,1081 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3029.0,France Bleu Besançon,,,,2292 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,109.0,France Bleu Besançon,,,,1091 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3030.0,France Bleu Bourgogne,,,,2302 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,110.0,France Bleu Bourgogne,,,,1101 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3031.0,France Bleu Breizh Izel,,,,2312 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,111.0,France Bleu Breizh Izel,,,,1111 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3032.0,France Bleu Champagne-Ardenne,,,,2322 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,112.0,France Bleu Champagne-Ardenne,,,,1121 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3033.0,France Bleu Cotentin,,,,2332 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,113.0,France Bleu Cotentin,,,,1131 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3034.0,France Bleu Creuse,,,,2342 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,114.0,France Bleu Creuse,,,,1141 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3035.0,France Bleu Drôme Ardèche,,,,2352 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,115.0,France Bleu Drôme Ardèche,,,,1151 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3036.0,France Bleu RCFM,,,,2362 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,116.0,France Bleu RCFM,,,,1161 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3037.0,France Bleu Gard Lozère,,,,2372 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,117.0,France Bleu Gard Lozère,,,,1171 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3038.0,France Bleu Gascogne,,,,2382 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,118.0,France Bleu Gascogne,,,,.181 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3039.0,France Bleu Gironde,,,,2392 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,119.0,France Bleu Gironde,,,,1191 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3040.0,France Bleu Normandie Seine-Maritime - Eure,,,,2402 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,120.0,France Bleu Normandie Seine-Maritime - Eure,,,,1201 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3041.0,France Bleu Hérault,,,,2412 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,121.0,France Bleu Hérault,,,,1211 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3042.0,France Bleu Isère,,,,2422 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,122.0,France Bleu Isère,,,,1221 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3043.0,France Bleu La Rochelle,,,,2432 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,123.0,France Bleu La Rochelle,,,,1231 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3044.0,France Bleu Limousin,,,,2442 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,124.0,France Bleu Limousin,,,,1241 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3045.0,France Bleu Loire Océan,,,,2452 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,125.0,France Bleu Loire Océan,,,,1251 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3046.0,France Bleu Lorraine Nord,,,,2462 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,126.0,France Bleu Lorraine Nord,,,,1261 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3047.0,France Bleu Maine,,,,2472 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,127.0,France Bleu Maine,,,,1271 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3048.0,France Bleu Mayenne,,,,2482 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,128.0,France Bleu Mayenne,,,,1281 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3049.0,France Bleu Nord,,,,2492 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,130.0,France Bleu Nord,,,,1301 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3050.0,France Bleu Orléans,,,,2502 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,131.0,France Bleu Orléans,,,,1311 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3051.0,France Bleu Pays Basque,,,,2512 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,132.0,France Bleu Pays Basque,,,,1321 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3052.0,France Bleu Pays d'Auvergne,,,,2522 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,133.0,France Bleu Pays d'Auvergne,,,,1331 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3053.0,France Bleu Pays de Savoie,,,,2532 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,134.0,France Bleu Pays de Savoie,,,,1341 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3054.0,France Bleu Périgord,,,,2542 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,135.0,France Bleu Périgord,,,,1351 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3055.0,France Bleu Picardie,,,,2552 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,136.0,France Bleu Picardie,,,,1361 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3056.0,France Bleu Poitou,,,,2562 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,137.0,France Bleu Poitou,,,,1371 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3057.0,France Bleu Provence,,,,2572 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,138.0,France Bleu Provence,,,,1381 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3058.0,France Bleu Roussillon,,,,2582 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,139.0,France Bleu Roussillon,,,,1391 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3059.0,France Bleu Saint-Étienne Loire,,,,2592 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,140.0,France Bleu Saint-Étienne Loire,,,,1401 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3060.0,France Bleu Sud Lorraine,,,,2602 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,141.0,France Bleu Sud Lorraine,,,,1411 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3061.0,France Bleu Occitanie,,,,2612 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,142.0,France Bleu Occitanie,,,,1421 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3062.0,France Bleu Touraine,,,,2622 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,143.0,France Bleu Touraine,,,,1431 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3063.0,France Bleu Vaucluse,,,,2.32 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,144.0,France Bleu Vaucluse,,,,1441 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3064.0,France Inter,,,,2642 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5100.0,France Inter,,,,5130 Fre,,,11480 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3065.0,France Culture,,,,2652 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5200.0,France Culture,,,,5230 Fre,,,11480 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3066.0,France Musique,,,,2662 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5300.0,France Musique,,,,5330 Fre,,,11480 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3067.0,FIP,,,,2672 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5400.0,FIP,,,,5430 Fre,,,11480 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3068.0,Franceinfo:,,,,2682 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5600.0,Franceinfo:,,,,5630 Fre,,,11480 H,tp D1,0,,,False,Alouette
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 1,262.0,Franceinfo:,,MPEG-4/HD,620.0,630 Fre,,,12732 V,tp F12,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3069.0,Mouv',,,,2692 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,5800.0,Mouv',,,,5830 Fre,,,11480 H,tp D1,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3079.0,Africa Radio,,,,2792 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11471 Vtp D2Transalpine0,DVB-S28PSK299503/4,3080.0,Radio Nova (France),,,,2802 Fre,,,11471 V,tp D2,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,196.0,(feeds),,,1962.0,1961,Viaccess,,11472 H,tp D1,0,Viaccess,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,129.0,France Bleu,,,,1.91 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,150.0,RCF National,,,,1501 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,151.0,RCF Pays de l'Ain,,,,1511 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,152.0,RCF Allier,,,,1521 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,153.0,RCF Alpes-Provence,,,,1531 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,154.0,RCF Orne,,,,1541 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,155.0,RCF Pays d'Aude,,,,1551 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,156.0,RCF en Berry,,,,1561 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,157.0,RCF en Bourgogne,,,,1571 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,158.0,RCF Besançon,,,,1581 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,159.0,RCF Drôme,,,,1591 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,160.0,RCF Bordeaux,,,,1601 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,161.0,RCF Alpha,,,,1611 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,162.0,RCF Touraine,,,,1621 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,163.0,RCF Isère,,,,1631 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,164.0,RCF Loir-et-Cher,,,,1641 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,165.0,RCF Haute-Loire,,,,1651 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,166.0,RCF Anjou,,,,1661 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,167.0,RCF Reims-Ardennes,,,,1671 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,168.0,RCF Cur de Champagne,,,,1681 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,169.0,RCF Lyon,,,,1691 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,170.0,RCF Savoie,,,,1701 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,171.0,RCF Haute-Savoie,,,,1711 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,172.0,RCF Haute-Normandie,,,,1721 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,173.0,RCF Vaucluse,,,,1731 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,174.0,RCF Vendée,,,,1741 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,175.0,RCF Poitou,,,,1751 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,176.0,RCF Limousin,,,,1761 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,177.0,RCF Corrèze,,,,1.71 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,178.0,RCF Jerico Moselle,,,,1781 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11472 Htp D1Transalpine0,DVB-S2QPSK99004/5,194.0,Radio Espérance,,,,1941 Fre,,,11472 H,tp D1,0,,,False,Alouette
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,,TDF,,144-10001,,4.0,,M Al-Taie230607,11480 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TDF.html,True,TDF
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,2100.0,Radio Classique,,,,2130 Fre,,,11480 H,tp D1,0,,,False,TDF
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,4100.0,RMC,,,,4130 Fre,,,11480 H,tp D1,0,,,False,TDF
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,4200.0,BFM Business Radio,,,,4230 Fre,,,11480 H,tp D1,0,,,False,TDF
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,6100.0,M Radio,,,,6130 Fre,,,11480 H,tp D1,0,,,False,TDF
+11480 Htp D1Transalpine0,DVB-S2QPSK31673/4,7100.0,Sud Radio,,,,7130 Fre,,,11480 H,tp D1,0,,,False,TDF
+11512 Vtp D4Transalpine0,DVB-S28PSK299502/3,,Bis TV,,1375-20200,,6.6,Viaccess,E Macedo200820,11512 V,tp D4,0,Viaccess,,False,TDF
+11554 Vtp D6Transalpine0,DVB-S28PSK299503/4,322.0,Fransat Info promo,,MPEG-4/HD,241.0,242 Fre,,,11554 V,tp D6,0,,,False,TDF
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 1,,RAI,,318-1,,6.6,,M Al-Taie220308,11637 V,tp D10,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 1,,RAI,,318-1,,6.6,,M Al-Taie220308,11637 V,tp D10,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,,RAI,,1-1,,6.6,,EnoSat231029,12627 H,tp F5,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,,RAI,,1-1,,6.6,,EnoSat231029,12627 H,tp F5,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,,RAI mux MR 3,,8572-133,,6.6,,D de Jong230501,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1211.0,Rai 3 Abruzzo (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1513.0,Rai 3 Abruzzo (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 7,1213.0,Rai 3 Lazio (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,11637 V,tp D10,0,,,False,RAI
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1261.0,Rai 3 Lazio (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/HD,271.0,371 Ita,,,12627 H,tp F5,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,,RAI mux MR 9,,8572-193,,6.6,,D de Jong230501,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1511.0,Rai 3 Marche (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 8,1512.0,Rai 3 Umbria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,272.0,372 Ita,,,11637 V,tp D10,0,,,False,RAI
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,1263.0,Rai 3 Umbria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,12627 H,tp F5,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,,RAI mux MR 11,,8572-213,,6.6,,D de Jong230501,11637 V,tp D10,0,,,False,RAI
+11637 Vtp D10Transalpine0,DVB-S28PSK352962/3PLSGold 131070MultistreamStream 10,1611.0,Rai 3 Campania (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,11637 V,tp D10,0,,,False,RAI
+11679 Vtp D12Transalpine0,DVB-S28PSK299502/3,801.0,[Opsis TV & Docs TV info card],,MPEG-4/HD,1911.0,Fre,,,11679 V,tp D12,0,,,False,RAI
+11679 Vtp D12Transalpine0,DVB-S28PSK299502/3,804.0,[TNT info card],,MPEG-4/HD,1921.0,,,,11679 V,tp D12,0,,,False,RAI
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,,Cairo Communication,,8572-263,,6.6,,M Al-Taie240214,12585 H,tp F3,0,,https://www.lyngsat.com/providers/it/Cairo-Communication.html,True,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,711.0,La 7,,MPEG-4/SD,650.0,.51 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,751.0,La 7,,MPEG-4/HD,1530.0,1532 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,712.0,La 7 d,,MPEG-4/SD,590.0,591 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,801.0,Zona DAZN,,MPEG-4/HD,1470.0,1471 Ita,NagravisionVideoguard,,12585 H,tp F3,0,"Nagravision,Videoguard",,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3001.0,Italia 121,,MPEG-4/SD,3011.0,3012 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3002.0,Arte Italia 124,,MPEG-4/SD,3021.0,3022 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3003.0,Arte Italia 125,,MPEG-4/SD,3031.0,3032 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3004.0,Italia 126,,MPEG-4/SD,3041.0,3042 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3005.0,Italia 127,,MPEG-4/SD,3051.0,3052 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3006.0,Italia 135,,MPEG-4/SD,3061.0,3062 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,3007.0,Italia 134,,MPEG-4/SD,3071.0,3072 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,4002.0,Donna TV,,MPEG-4/SD,412.0,413 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,4003.0,Alma TV,,MPEG-4/SD,422.0,423 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,4004.0,TeleCampione,,MPEG-4/SD,432.0,433 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 1,4010.0,Parole di Vita,,MPEG-4/SD,492.0,493 Ita,,,12585 H,tp F3,0,,,False,Cairo Communication
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,,Sardegna Locale 1,,8572-43009,,6.6,,M Al-Taie240214,12585 H,tp F3,0,,https://www.lyngsat.com/providers/it/Sardegna-Locale-1.html,True,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9901.0,Videolina,,MPEG-4/HD,1062.0,1541 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9902.0,L'Unione TV,,MPEG-4/HD,1282.0,1538 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9903.0,Sardegna 1,,MPEG-4/SD,1283.0,1539 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9904.0,Tele Costa Smeralda,,MPEG-4/HD,1285.0,1542 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9905.0,Supersound,,MPEG-4/HD,950.0,951 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9906.0,Terranova TV Sardegna,,MPEG-4/SD,960.0,961 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9907.0,Teleregione Live,,MPEG-4/HD,970.0,971 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9908.0,Telesardegna,,MPEG-4/HD,980.0,981 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9909.0,Uno 4,,MPEG-4/SD,990.0,991 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9910.0,Catalan TV,,MPEG-4/SD,1000.0,1001 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9912.0,Radio TV Sarda,,MPEG-4/HD,1020.0,1021 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9914.0,Canale Italia Sardegna,,MPEG-4/SD,1040.0,1041 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9915.0,Super TV Aristanis,,MPEG-4/HD,1050.0,1051 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9916.0,Odeon 24,,MPEG-4/SD,1060.0,1061 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12585 Htp F3Transalpine0,DVB-S28PSK355002/3PLSGold 262140MultistreamStream 11,9917.0,Radio Sintony,,,,1071 Ita,,,12585 H,tp F3,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,,RAI mux A,,8572-1,,6.6,,N Stanislav240119,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1001.0,Rai Sport HD,,MPEG-4/HD,201.0,301 Ita 401 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1051.0,Rai Sport HD,,HEVC/HD,201.0,301 Ita 401 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1002.0,Rai Movie,,MPEG-4/HD,202.0,302 Ita 502 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1004.0,Rai Gulp,,MPEG-4/SD,204.0,304 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1005.0,Rai Yoyo,,MPEG-4/SD,205.0,305 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1006.0,Rai Premium,,MPEG-4/SD,206.0,306 Ita 506 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1007.0,Rai Storia,,MPEG-4/SD,207.0,307 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1012.0,[Rai Radio info card],,MPEG-4/SD,208.0,308 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1061.0,[Rai Radio info card],,MPEG-4/SD,210.0,310 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1010.0,Rai Radio 2,,,,310 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,59.0,Rai Radio 2,,,,359 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1011.0,Rai Radio 3,,,,311 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,57.0,Rai Radio 3,,,,357 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 4,1022.0,Rai Radio 1,,,,322 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,56.0,Rai Radio 1,,,,356 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,,RAI mux B,,8572-2,,6.6,,N Stanislav240119,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1053.0,Rai Radio 2 Visual,,MPEG-4/SD,203.0,303 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1054.0,Rai Scuola,,MPEG-4/SD,204.0,304 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1056.0,Rai 4,,MPEG-4/SD,206.0,306 Ita 506 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1057.0,Rai 5,,MPEG-4/SD,207.0,307 Ita 507 Qaa,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 5,1058.0,San Marino RTV,,MPEG-4/SD,208.0,308 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,,RAI mux MR 7,,8572-173,,6.6,,N Stanislav240119,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,,RAI mux MR 7,,8572-173,,6.6,,EnoSat231029,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1411.0,Rai 3 Friuli Venezia Giulia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1411.0,Rai 3 Friuli Venezia Giulia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1412.0,Rai 3 Bis (various),,MPEG-4/SD,272.0,372 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1412.0,Rai 3 Bis (various),,MPEG-4/SD,272.0,372 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12606 Vtp F6Transalpine0,DVB-S28PSK353002/3PLSGold 131070MultistreamStream 6,1413.0,Rai 3 Valle d'Aosta (Mon-Fri 07.30-08.00 & Sun 09:15-10.45 & 14.00-14.20 & Mon-Fri 19.30-20.30 & Sat-Sun 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,12606 V,tp F6,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 5,1413.0,Rai 3 Valle d'Aosta (Mon-Fri 07.30-08.00 & Sun 09:15-10.45 & 14.00-14.20 & Mon-Fri 19.30-20.30 & Sat-Sun 19.30-20.00),,MPEG-4/SD,273.0,373 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,,RAI mux MR 6,,8572-163,,6.6,,EnoSat231029,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 1,1361.0,Rai 3 Veneto (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),,MPEG-4/SD,271.0,371 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,1.0,Rai Radio 1 Lazio,,,,301 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,2.0,Rai Radio 1 Valle d'Aosta,,,,302 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,3.0,Rai Radio 1 Marche,,,,303 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,4.0,Rai Radio 1 Puglia,,,,304 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,5.0,Rai Radio 1 Emilia Romagna,,,,305 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,6.0,Rai Radio 1 Alto Adige,,,,306 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,7.0,Rai Radio 1 Sardegna,,,,307 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,8.0,Rai Radio 1 Molise,,,,308 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,9.0,Rai Radio 1 Calabria,,,,30. Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,10.0,Rai Radio 1 Toscana,,,,310 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,11.0,Rai Radio 1 Liguria,,,,311 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,12.0,Rai Radio 1 Lombardia,,,,312 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,13.0,Rai Radio 1 Campania,,,,313 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,14.0,Rai Radio 1 Sicilia,,,,314 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,15.0,Rai Radio 1 Abruzzo,,,,315 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,16.0,Rai Radio 1 Umbria,,,,316 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,17.0,Rai Radio 1 Basilicata,,,,317 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,18.0,Rai Radio 1 Trentino Alto Adige,,,,318 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,19.0,Rai Radio 1 Piemonte,,,,319 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,20.0,Rai Radio 1 Friuli Venezia Giulia,,,,320 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,21.0,Rai Radio 1 Veneto,,,,321 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,22.0,Rai Südtirol Radio,,,,322 Ger,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,23.0,Rai Radio Trst A,,,,323 Slv,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,58.0,Rai Gr Parlamento,,,,358 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,60.0,Rai Radio 3 Classica,,,,360 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 2,61.0,Rai Isoradio,,,,361 Ita,,,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12627 Htp F5Transalpine0,DVB-S28PSK352952/3PLSGold 131070MultistreamStream 3,,RAI mux MR 4,,8572-143,,6.6,,EnoSat231029,12627 H,tp F5,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,2561.0,TF 1 Séries Films,,MPEG-4/HD,120.0,130 Fre 13. Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,2562.0,L'Équipe,,MPEG-4/HD,220.0,230 Fre,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,2563.0,Chérie 25,,MPEG-4/HD,320.0,330 Fre 331 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,2564.0,RMC Découverte,,MPEG-4/HD,420.0,430 Fre 431 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 1,2565.0,RMC Story,,MPEG-4/HD,520.0,530 Fre 531 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,513.0,C8,,MPEG-4/HD,120.0,130 Fre 131 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,515.0,BFM TV,,MPEG-4/HD,320.0,330 Fre,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,516.0,C News,,MPEG-4/HD,420.0,430 Fre,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,517.0,C Star,,MPEG-4/HD,520.0,530 Fre 531 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 2,518.0,Gulli,,MPEG-4/HD,620.0,630 Fre 631 Qaa,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,769.0,Canal + France,,MPEG-4/HD,910.0,921 Fre,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,778.0,Canal + France,,MPEG-4/HD,110.0,121 Fre 122 Qaa,MediaguardNagravision,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,770.0,Canal + Cinéma France,,MPEG-4/HD,210.0,221 Fre 222 Qaa,MediaguardNagravision,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,771.0,Canal + Sport France,,MPEG-4/HD,310.0,321 Fre 322 Qaa,MediaguardNagravision,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,772.0,Planète +,,MPEG-4/HD,410.0,421 Fre,MediaguardNagravision,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,776.0,LCI,,MPEG-4/SD,510.0,521 Fre,,,12648 V,tp F8,0,,,False,Sardegna Locale 1
+12648 Vtp F8Transalpine0,DVB-S28PSK295008/9PLSGold 121212MultistreamStream 3,777.0,Paris Première,,MPEG-4/SD,610.0,621 Fre 622 Qaa,MediaguardNagravision,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 1,257.0,France 2,,MPEG-4/HD,120.0,130 Fre 132 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 1,260.0,France 4,,MPEG-4/HD,320.0,330 Fre 332 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 1,272.0,France 3,,MPEG-4/HD,220.0,230 Fre 232 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,1025.0,M6,,MPEG-4/HD,120.0,130 Fre 132 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,1026.0,W9,,MPEG-4/HD,220.0,230 Fre 232 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,1031.0,ARTE Français,,MPEG-4/HD,320.0,330 Fre 332 Qaa 333 Ger,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,1045.0,France 5,,MPEG-4/HD,420.0,430 Fre 432 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 4,1046.0,6ter,,MPEG-4/HD,520.0,530 Fre 532 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1537.0,TF 1,,MPEG-4/HD,120.0,130 Fre 131 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1538.0,NRJ 12,,MPEG-4/HD,220.0,230 Fre 231 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1542.0,TMC,,MPEG-4/HD,620.0,630 Fre 631 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1544.0,TFX,,MPEG-4/HD,520.0,530 Fre 531 Qaa,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1545.0,LCP Assemblée Nationale,,MPEG-4/HD,720.0,730 Fre,,,12732 V,tp F12,0,,,False,Sardegna Locale 1
+12732 Vtp F12Transalpine0,DVB-S28PSK295008/9PLSGold 50416MultistreamStream 6,1545.0,Public Sénat,,MPEG-4/HD,720.0,730 Fre,,,12732 V,tp F12,0,,,False,Sardegna Locale 1

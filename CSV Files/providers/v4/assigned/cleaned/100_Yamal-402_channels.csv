@@ -1,0 +1,120 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,@ KiteNet,,,10925 V,tp 13,0.0,,,False,,288,34,DVB-S2,
+,TPA,,,10962 V,tp 1,,,https://www.lyngsat.com/providers/ao/TPA.html,True,TPA,5/6,25926,DVB-S2,
+1.0,TPA 1,,308.0,10962 V,tp 1,,,,False,TPA,5/6,25926,DVB-S2,Por
+2.0,TPA 2,,309.0,10962 V,tp 1,,,,False,TPA,5/6,25926,DVB-S2,Por
+,Telemedia,,,10984 V,tp 1,,,https://www.lyngsat.com/providers/za/Telemedia.html,True,Telemedia,5/6,9100,DVB-S2,
+,Gallop TV 2,,101.0,10984 V,tp 1,,,,False,Telemedia,5/6,9100,DVB-S2,Eng
+,Gallop TV,,3004.0,10984 V,tp 1,,,,False,Telemedia,5/6,9100,DVB-S2,Eng
+13.0,Biafra TV,MPEG-2/SD,256.0,10984 V,tp 1,,,,False,Telemedia,5/6,9100,DVB-S2,Eng
+,Biafra Human Rights & Freedom Radio,,,10984 V,tp 1,,,,False,Telemedia,5/6,9100,DVB-S2,Eng
+14.0,Radio Biafra,,,10984 V,tp 1,,,,False,Telemedia,5/6,9100,DVB-S2,Eng
+,Gazprom Space Systems,1-9,,11056 H,tp 2A,,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,10000,DVB-S2,
+,Gazprom Space Systems,1-9,,11056 H,tp 2A,,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,10000,DVB-S2,
+,Gazprom Space Systems,1-9,,11056 H,tp 2A,,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,10000,DVB-S2,
+,Gazprom Space Systems,1-9,,11056 H,tp 2A,,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,10000,DVB-S2,
+,Gazprom Space Systems,100-55,,11265 V,tp 15,0.0,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S3,
+,Gazprom Space Systems,100-55,,11265 V,tp 15,0.0,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S3,
+,Gazprom Space Systems,100-55,,11265 V,tp 15,0.0,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S3,
+,Gazprom Space Systems,100-55,,11265 V,tp 15,0.0,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S3,
+,Gazprom Space Systems,1374-16,,11345 V,tp 17,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,1374-16,,11345 V,tp 17,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,1374-16,,11345 V,tp 17,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,1374-16,,11345 V,tp 17,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,,,11385 H,tp 18A,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,,,11385 H,tp 18A,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,,,11385 H,tp 18A,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+,Gazprom Space Systems,,,11385 H,tp 18A,0.0,BISS,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,30000,DVB-S2,
+1.0,RTR Planeta,MPEG-4/SD,33.0,11056 H,tp 2A,,,,False,Gazprom Space Systems,3/4,10000,DVB-S2,Rus
+4.0,[test card],MPEG-4/SD,42.0,11056 H,tp 2A,,,,False,Gazprom Space Systems,3/4,10000,DVB-S2,
+,(feeds),,,11086 H,tp 3A,,,,False,Gazprom Space Systems,170,13,DVB-S2,
+,(feeds),,,11120 H,tp 3A,,,,False,Gazprom Space Systems,070,5,DVB-S2,
+,(feeds),,,11126 H,tp 3A,,,,False,Gazprom Space Systems,250,6,DVB-S2,
+,(feeds),,,12508 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12511 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12514 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12516 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12519 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12522 V,tp 8,,,,False,Gazprom Space Systems,5/6,2200,DVB-S2,
+,(feeds),,,12542 V,tp 8,,,,False,Gazprom Space Systems,5/6,23320,DVB-S2,
+,(feeds),,,12547 V,tp 8,,,,False,Gazprom Space Systems,5/6,23320,DVB-S2,
+,(feeds),,,12553 V,tp 8,,,,False,Gazprom Space Systems,5/6,3320,DVB-S2,
+,(feeds),,,12571 V,tp 8,,,,False,Gazprom Space Systems,5/6,3320,DVB-S2,
+,(feeds),,,12576 V,tp 8,,,,False,Gazprom Space Systems,5/6,1700,DVB-S2,
+,(feeds),,,12588 V,tp 9,,,,False,Gazprom Space Systems,3/4,7500,DVB-S2,
+,(feeds),,,12602 V,tp 9,,,,False,Gazprom Space Systems,5/6,3750,DVB-S2,
+,(feeds),,,12630 H,tp 9A,,,,False,Gazprom Space Systems,3/4,3333,DVB-S3,
+,(feeds),,,12636 V,tp 9,,,,False,Gazprom Space Systems,5/6,3333,DVB-S2,
+,(feeds),,,12637 H,tp 9A,,,,False,Gazprom Space Systems,500,8,DVB-S2,
+,(feeds),,,12644 H,tp 9A,,,,False,Gazprom Space Systems,7/8,5000,DVB-S5,
+,(feeds),,,12652 H,tp 9A,,,,False,Gazprom Space Systems,3/4,3333,DVB-S3,
+,(feeds),,,12665 H,tp 10A,,,,False,Gazprom Space Systems,3/4,3330,DVB-S2,
+,(feeds),,,12675 V,tp 10,,,,False,Gazprom Space Systems,500,2,DVB-S2,
+,(feeds),,,12698 H,tp 10A,,,,False,Gazprom Space Systems,3/4,7500,DVB-S2,
+,(feeds),,,12729 V,tp 10,,,,False,Gazprom Space Systems,3/4,5000,DVB-S2,
+,,,,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+,,,,12531 H,tp 8A,,,,False,Gazprom Space Systems,5/6,500,DVB-S2,
+2.0,Star TV (Tanzania),MPEG-4/SD,68.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Swa
+3.0,ITV (Tanzania),MPEG-4/SD,84.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+4.0,EATV 5,MPEG-4/SD,100.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+5.0,TBC 1,MPEG-4/SD,116.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+6.0,Channel Ten,MPEG-4/SD,132.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+7.0,Clouds TV,MPEG-4/SD,148.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+8.0,Uhai TV,MPEG-4/SD,164.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Swa
+12.0,Tanzania Safari Channel,MPEG-4/SD,228.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+17.0,TBC 2,MPEG-4/SD,308.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+26.0,Star Movies +,MPEG-4/SD,452.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+30.0,Star Tollywood,MPEG-4/SD,516.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+31.0,Star Religion,MPEG-4/SD,532.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+39.0,Star Kids,MPEG-4/SD,660.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+46.0,KTN Home,MPEG-4/SD,772.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+48.0,Citizen TV,MPEG-4/SD,804.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+49.0,K24,MPEG-4/SD,820.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+70.0,Hope Channel Tanzania,MPEG-4/SD,1156.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+92.0,VoA TV Africa,MPEG-4/SD,1508.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+95.0,TV Imaan,MPEG-4/SD,1512.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+98.0,Efatha TV,MPEG-4/SD,1518.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+102.0,Aljazeera English,MPEG-4/SD,1524.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+116.0,CGTN,MPEG-4/SD,1588.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+227.0,NHK World Japan,MPEG-4/SD,1636.0,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,Eng
+233.0,Radio Free Africa,,,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+246.0,Kiss FM (Tanzania),,,11150 V,tp 4,,,,False,Gazprom Space Systems,665,16,DVB-S2,
+,@ Gazprom Space Systems Internet,,,11225 V,tp 14,0.0,,,False,Gazprom Space Systems,00.,250,DVB-S2,
+,@ Gazprom Space Systems Internet,,,11385 V,tp 18,0.0,,,False,Gazprom Space Systems,00.,300,DVB-S2,
+,@ Gazprom Space Systems Internet,,,11425 V,tp 19,0.0,,,False,Gazprom Space Systems,1/2,30000,DVB-S2,
+49.0,Radio Chanson (+2h),,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+490.0,Dorognoe FM,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+510.0,Radio Chanson (0h),,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+540.0,Europa Plus,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+550.0,Radio 7,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+560.0,Studio 21,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+570.0,Retro FM Rossiya,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+580.0,Kazak FM,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+590.0,Pervoe Radio,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+630.0,Radio 7 Tyumen,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+640.0,Radio VERA Tyumen,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+650.0,Tavria,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+660.0,Radio Priuralje,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+670.0,Love Radio Tyumen,,,11265 V,tp 15,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S3,Rus
+5.0,BetBoom,MPEG-4/HD,501.0,11345 V,tp 17,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+9.0,STS (+2h),MPEG-4/SD,63.0,11345 V,tp 17,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+13.0,STS (0h),MPEG-4/SD,66.0,11345 V,tp 17,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+45.0,7 TV,MPEG-4/SD,58.0,11345 V,tp 17,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+58.0,Schelkovo TV,MPEG-4/SD,580.0,11345 V,tp 17,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+57.0,Radio Record,,,11345 V,tp 17,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+58.0,Z FM,,,11345 V,tp 17,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+4.0,TNT Music,MPEG-4/SD,46.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+7.0,Solntse (+2h),MPEG-4/SD,201.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+8.0,U (+2h),MPEG-4/SD,60.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+9.0,Krim 24,MPEG-4/SD,63.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+10.0,1 Krim,MPEG-4/SD,66.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+13.0,STS Love (0h),MPEG-4/SD,180.0,11385 H,tp 18A,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+14.0,STS Love (+2h),MPEG-4/SD,190.0,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+15.0,Che! (0h),MPEG-4/SD,76.0,11385 H,tp 18A,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+16.0,Che! (+2h),MPEG-4/SD,79.0,11385 H,tp 18A,0.0,BISS,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+11.0,Radio More,,,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+12.0,Radio Krim,,,11385 H,tp 18A,0.0,,,False,Gazprom Space Systems,3/4,30000,DVB-S2,Rus
+1.0,Rossiya 24,.-.MPEG-4/SD,101.0,12506 V,tp 8,,,,False,Gazprom Space Systems,7/8,1000,DVB-S1,Rus
+418.0,Business FM,,,12531 H,tp 8A,,,,False,Gazprom Space Systems,5/6,500,DVB-S2,Rus
+424.0,Militseyskaya Volna,,,12531 H,tp 8A,,,,False,Gazprom Space Systems,5/6,500,DVB-S2,Rus
+441.0,Radio Kniga,,,12531 H,tp 8A,,,,False,Gazprom Space Systems,5/6,500,DVB-S2,Rus

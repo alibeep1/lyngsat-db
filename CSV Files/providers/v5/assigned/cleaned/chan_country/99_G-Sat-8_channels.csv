@@ -1,0 +1,9 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,T-Sat,0-1,,10968 V,,,,https://www.lyngsat.com/providers/in/T-Sat.html,,,True,T-Sat,3/4,11630,DVB-S1,,
+10101.0,T-Sat Nipuna,MPEG-4/SD,101.0,10968 V,,,,,T-Sat Nipuna,https://www.lyngsat.com/tvchannels/in/T-Sat-Nipuna.html,False,T-Sat,3/4,11630,DVB-S1,Tel,in
+10102.0,T-Sat Vidya,MPEG-4/SD,201.0,10968 V,,,,,T-Sat Vidya,https://www.lyngsat.com/tvchannels/in/T-Sat-Vidya.html,False,T-Sat,3/4,11630,DVB-S1,Tel,in
+10103.0,[T-Sat 1 test card],MPEG-4/SD,301.0,10968 V,,,,,,,False,T-Sat,3/4,11630,DVB-S1,,
+10104.0,[T-Sat 2 test card],MPEG-4/SD,401.0,10968 V,,,,,,,False,T-Sat,3/4,11630,DVB-S1,,
+10105.0,T-Sat Disha,MPEG-4/SD,501.0,10968 V,,,,,T-Sat Disha,https://www.lyngsat.com/tvchannels/in/T-Sat-Disha.html,False,T-Sat,3/4,11630,DVB-S1,,in
+10106.0,[Mana TV Channel 2 test card],MPEG-4/SD,601.0,10968 V,,,,,,,False,T-Sat,3/4,11630,DVB-S1,,
+,(ISRO feeds),,,11686 H,,,,,,,False,T-Sat,2/3,3333,DVB-S3,,

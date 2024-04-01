@@ -1,0 +1,77 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3418 Htp 15AC0,DVB-S28PSK192002/3,,VTV,,,,6.6,Director,NHMPlay230301,3418 H,tp 15A,0.0,Director,https://www.lyngsat.com/providers/vn/VTV.html,True,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,1.0,VTV 1,,MPEG-4/SD,1011.0,1012 Vie,,,3418 H,tp 15A,0.0,,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,11.0,VTV 1,,MPEG-4/HD,1111.0,1112 Vie1114 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,2.0,VTV 2,,MPEG-4/SD,1021.0,1022 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,12.0,VTV 2,,MPEG-4/HD,1121.0,1122 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,4.0,VTV 4,,MPEG-4/SD,1041.0,1.42 Vie,,,3418 H,tp 15A,0.0,,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,5.0,VTV 5,,MPEG-4/HD,1051.0,1052 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,7.0,VTV 7,,MPEG-4/SD,1071.0,1072 Vie,,,3418 H,tp 15A,0.0,,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,8.0,VTV 8,,MPEG-4/HD,1081.0,1082 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,13.0,VTV 3,,MPEG-4/HD,1131.0,1132 Vie1134 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,16.0,VTV Can Tho,,MPEG-4/HD,1161.0,1162 Vie1164 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,19.0,VTV 9,,MPEG-4/HD,1191.0,1192 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,51.0,VTV 5 Tay Nam Bo,,MPEG-4/HD,1511.0,1512 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3418 Htp 15AC0,DVB-S28PSK192002/3,52.0,VTV 5 Tay Nguyen,,MPEG-4/HD,1521.0,1522 Vie,Director,,3418 H,tp 15A,0.0,Director,,False,VTV
+3804 Htp 5AC,DVB-S28PSK72003/4,,(feeds),,,,,,Anonymous200215,3804 H,tp 5A,,,,False,VTV
+3855 Htp 6AC,DVB-S2QPSK48001/2,,(feeds),,,,,,Albert I220702,3855 H,tp 6A,,,,False,VTV
+4025 Htp 11AC,DVB-S2QPSK32005/6,,(feeds),,,,,,Anonymous190911,4025 H,tp 11A,,,,False,VTV
+4068 Htp 12AC,DVB-S28PSK72003/4,,(feeds),,,,,,Albert I200101,4068 H,tp 12A,,,,False,VTV
+4164 Htp 14AC,DVB-S2QPSK48001/2,,(feeds),,,,,,Albert I201117,4164 H,tp 14A,,,,False,VTV
+3812 Htp 5AC,DVB-S28PSK72003/4,,(CBS feeds),,,,,,Albert I200208,3812 H,tp 5A,,,,False,VTV
+3920 Htp 8AC0,,,,,,,,,C Sutton240110,3920 H,tp 8A,0.0,,,False,VTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,3940 V,tp 8B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4020 V,tp 10B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,,CCTV,,,,7.9,Videoguard,C SuttonAlbert I200101,4060 V,tp 11B,0.0,Videoguard,https://www.lyngsat.com/providers/cn/CCTV.html,True,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,3297.0,CCTV TV Guide,,AVS+/HD,514.0,670 Chi,,,3940 V,tp 8B,0.0,,,False,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,3428.0,CCTV Weapon Technology Channel,,AVS+/HD,513.0,660 Chi,Videoguard,,3940 V,tp 8B,0.0,Videoguard,,False,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,3905.0,CCTV Health,,AVS+/HD,512.0,650 Chi,Videoguard,,3940 V,tp 8B,0.0,Videoguard,,False,CCTV
+3940 Vtp 8BC0,DVB-S28PSK288003/4,3936.0,CCTV Home Shopping,,MPEG-2/SD,515.0,680 Chi,,,3940 V,tp 8B,0.0,,,False,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,3552.0,CCTV Billiards,,AVS+/HD,514.0,670 Chi,Videoguard,,4020 V,tp 10B,0.0,Videoguard,,False,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,3558.0,CCTV Soccer,,AVS+/HD,512.0,650 Chi,Videoguard,,4020 V,tp 10B,0.0,Videoguard,,False,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,3559.0,CCTV Golf & Tennis,,AVS+/HD,513.0,660 Chi,Videoguard,,4020 V,tp 10B,0.0,Videoguard,,False,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,3777.0,CCTV World Geography,,AVS+/HD,515.0,680 Chi,Videoguard,,4020 V,tp 10B,0.0,Videoguard,,False,CCTV
+4020 Vtp 10BC0,DVB-S28PSK288003/4,3969.0,CCTV Fashionable Woman,,AVS+/HD,516.0,690 Chi,Videoguard,,4020 V,tp 10B,0.0,Videoguard,,False,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,3426.0,CCTV Classic,,AVS+/HD,516.0,690 Chi,Videoguard,,4060 V,tp 11B,0.0,Videoguard,,False,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,3521.0,CCTV Fashion Music,,AVS+/HD,515.0,680 Chi,Videoguard,,4060 V,tp 11B,0.0,Videoguard,,False,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,3523.0,CCTV Nostalgia Theater,,AVS+/HD,512.0,650 Chi,Videoguard,,4060 V,tp 11B,0.0,Videoguard,,False,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,3585.0,CCTV Theater,,AVS+/HD,513.0,660 Chi,Videoguard,,4060 V,tp 11B,0.0,Videoguard,,False,CCTV
+4060 Vtp 11BC0,DVB-S28PSK288003/4,3617.0,CCTV Drama,,AVS+/HD,514.0,670 Chi,Videoguard,,4060 V,tp 11B,0.0,Videoguard,,False,CCTV
+4145 Htp 14AC,DVB-S2QPSK32003/5,,(Pitmasters feeds),,,,,,Albert I201117,4145 H,tp 14A,,,,False,CCTV
+4158 Htp 14AC,DVB-S2QPSK48003/5,,(Pitmasters feeds),,,,,,Albert I200208,4158 H,tp 14A,,,,False,CCTV
+4187 Htp 14AC,DVB-S2QPSK32003/5,,(Pitmasters feeds),,,,,,Albert I200726,4187 H,tp 14A,,,,False,CCTV
+4191 Htp 14AC,DVB-S2QPSK32003/5,,(Pitmasters feeds),,,,,,Albert I200801,4191 H,tp 14A,,,,False,CCTV
+12269 Vtp 1China0,DVB-S180001/2,,China National Radio,,32802-101,,2.7,,T Kameda171024,12269 V,tp 1,0.0,,https://www.lyngsat.com/providers/cn/China-National-Radio.html,True,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,101.0,CNR 1 Voice of China,,,,80 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,110.0,CNR 1 Voice of China,,,,116 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,102.0,CNR 2 Voice of Finance,,,,84 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,103.0,CNR 3 Music Radio,,,,88 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,104.0,CNR 4 Golden Radio,,,,92 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,105.0,CNR 5 Taiwan service 1,,,,96 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,106.0,CNR 6 Taiwan service 2,,,,100 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,107.0,CNR 7 Radio The Greater Bay,,,,104 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,119.0,CNR 7 Radio The Greater Bay,,,,152 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,108.0,CNR 8 Minorities service,,,,108,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,109.0,CNR 9 FM 106.6,,,,112 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,118.0,China Radio International,,,,148,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,120.0,China Radio International,,,,156,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,121.0,China Radio International,,,,160,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,141.0,CRI Ez FM,,,,240 Eng,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,142.0,CRI Hit FM 88.7,,,,244 Eng,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,143.0,CRI Newsradio,,,,248 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,144.0,CRI Newsradio,,,,252 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12269 Vtp 1China0,DVB-S180001/2,150.0,CRI Newsradio,,,,276 Chi,,,12269 V,tp 1,0.0,,,False,China National Radio
+12395 Vtp 4China0,DVB-S275003/4,,CEN TV,,65534-1,,5.5,,DL Rose TV140111,12395 V,tp 4,0.0,,https://www.lyngsat.com/providers/cn/CEN-TV.html,True,CEN TV
+12395 Vtp 4China0,DVB-S275003/4,1.0,CETV 1,,MPEG-2/SD,41.0,42 Chi,,,12395 V,tp 4,0.0,,,False,CEN TV
+12395 Vtp 4China0,DVB-S275003/4,2.0,CETV 2,,MPEG-2/SD,45.0,46 Chi,,,12395 V,tp 4,0.0,,,False,CEN TV
+12395 Vtp 4China0,DVB-S275003/4,3.0,CETV 4,,MPEG-2/SD,49.0,50 Chi,,,12395 V,tp 4,0.0,,,False,CEN TV
+12435 Vtp 5China0,DVB-S275003/4,,CBTV Sat,,65-3,,5.5,Irdeto,Robiul240102,12435 V,tp 5,0.0,Irdeto,,False,CEN TV
+12515 Vtp 7China0,DVB-S275003/4,,CBTV Sat,,65-4,,5.5,Irdeto,NHMPlay211117,12515 V,tp 7,0.0,Irdeto,,False,CEN TV
+12595 Vtp 9China0,DVB-S275003/4,,CBTV Sat,,65-5,,5.5,Irdeto,RoseTV240120,12595 V,tp 9,0.0,Irdeto,,False,CEN TV
+12675 Vtp 11China0,DVB-S275003/4,,CBTV Sat,,65-6,,5.5,Irdeto,NHMPlay211117,12675 V,tp 11,0.0,Irdeto,,False,CEN TV

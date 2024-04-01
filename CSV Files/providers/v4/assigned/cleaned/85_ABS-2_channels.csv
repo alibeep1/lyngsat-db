@@ -1,0 +1,100 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,News 24 (Nepal),?-?MPEG-4/SD,257.0,3521 V,,36-37,,,False,,5/6,1666,DVB-S1,Nep
+,AP1 HD,MPEG-4/HD,1000.0,3542 V,,36-37,,,False,,3/4,3333,DVB-S2,Nep
+,(feeds),,,3765 V,,,,,False,,3/4,1666,DVB-S2,
+,(feeds),,,3776 V,,,,,False,,3/4,3332,DVB-S3,
+,(feeds),,,3936 V,tp 13B,,,,False,,3/4,3200,DVB-S2,
+,(feeds),,,4045 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4050 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4060 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4072 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4077 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4132 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4137 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4142 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4148 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,4154 V,,,,,False,,3/4,4488,DVB-S2,
+,(feeds),,,11118 H,tp 7,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11618 H,tp 15,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11627 H,tp 15,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11651 H,tp 16,,,,False,,3/4,21600,DVB-S2,
+,(feeds),,,11669 H,tp 16,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11678 H,tp 16,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,12326 V,,,,,False,,5/6,1888,DVB-S1,
+,MYTV Broadcasting,8650-1,,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,True,MYTV Broadcasting,P 0,,DVB-S2,
+,MYTV Broadcasting,8650-1,,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,True,MYTV Broadcasting,P 0,,DVB-S2,
+,MYTV Broadcasting,8650-2,,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,True,MYTV Broadcasting,P 0,,DVB-S2,
+,MYTV Broadcasting,8650-2,,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,True,MYTV Broadcasting,P 0,,DVB-S2,
+103.0,TV 3 (Malaysia),MPEG-4/HD,4112.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+104.0,WowShop,MPEG-4/SD,1032.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+105.0,Enjoy TV 5,MPEG-4/HD,4152.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Chi
+107.0,NTV 7,MPEG-4/SD,1052.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+108.0,8TV (Malaysia),MPEG-4/HD,1062.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Chi
+109.0,TV 9 (Malaysia),MPEG-4/SD,1072.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+112.0,Awesome TV,MPEG-4/HD,4122.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+116.0,Suke TV,MPEG-4/HD,4162.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+122.0,TVS (Malaysia),MPEG-4/HD,4142.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+712.0,Hot FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+713.0,Fly FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Eng
+714.0,Molek FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+715.0,Eight FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Chi
+726.0,Manis FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+101.0,RTM TV 1,MPEG-4/HD,4212.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+102.0,RTM TV 2,MPEG-4/HD,4222.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+110.0,RTM TV Okey,MPEG-4/HD,4232.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+111.0,Sukan RTM,MPEG-4/HD,4242.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+113.0,RTM TV 6,MPEG-4/HD,4262.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+114.0,TV Alhijrah,MPEG-4/HD,4512.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+121.0,Bernama TV,MPEG-4/HD,4522.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+123.0,Berita RTM,MPEG-4/HD,4252.0,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+701.0,Nasional FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+702.0,Traxx FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Eng
+703.0,Minnal FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Tam
+704.0,Ai FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,Chi
+705.0,Radio Klasik,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+706.0,Asyik FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+707.0,Sabah FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+708.0,Sabah V FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+709.0,Sarawak FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+710.0,Wai FM,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+711.0,Bernama Radio,,,3871 H,,0,,,False,MYTV Broadcasting,P 0,,DVB-S2,May
+,TAP DMV,,,4093 V,,0,Irdeto,https://www.lyngsat.com/providers/ph/TAP-DMV.html,True,TAP DMV,5/6,15000,DVB-S2,
+1110.0,Hope Channel Philippines,MPEG-4/HD,1113.0,4093 V,,0,,,False,TAP DMV,5/6,15000,DVB-S2,Tgl
+1410.0,TAP Action Flix,MPEG-4/HD,8117.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1420.0,TAP Sports,MPEG-4/HD,8119.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1430.0,TAP Movies,MPEG-4/HD,1201.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1440.0,Premier Sports,MPEG-4/HD,1301.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1450.0,TAP TV,MPEG-4/SD,102.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1460.0,TAP Edge,MPEG-4/SD,103.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1470.0,Premier Football,MPEG-4/SD,4112.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1480.0,Premier Sports 2 (Philippines),MPEG-4/SD,2124.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+1490.0,Edge Sport,MPEG-4/SD,481.0,4093 V,,0,Irdeto,,False,TAP DMV,5/6,15000,DVB-S2,Eng
+,,100-1,,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,
+1.0,Supreme Master TV,MPEG-2/SD,2001.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Eng
+2.0,TBN Inspire International,MPEG-4/SD,1360.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Eng
+19.0,SBN International,MPEG-2/SD,211.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Eng Spa
+117.0,TBN Asia,MPEG-4/SD,1701.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Eng
+410.0,Daystar TV,MPEG-2/SD,413.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Eng
+5040.0,Hwazan Satellite TV,MPEG-4/SD,5040.0,12524 H,tp 43,43-45,,,False,TAP DMV,1/2,30000,DVB-S3,Chi
+,BFBS,,,12730 H,,43-45,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,True,BFBS,1/2,23330,DVB-S2,
+8101.0,BBC One,MPEG-4/SD,101.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8102.0,CBBC (07-18),MPEG-4/SD,102.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8102.0,BBC Two (18-07),MPEG-4/SD,102.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8103.0,ITV 1 London,MPEG-4/SD,103.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8104.0,BFBS Extra,MPEG-4/SD,104.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8105.0,Sky Sports Main Event UK,MPEG-4/SD,105.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8106.0,TNT Sports 1,MPEG-4/SD,106.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8107.0,BFBS Sport,MPEG-4/SD,107.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8108.0,Sky News UK,MPEG-4/SD,108.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8109.0,Channel 4 London,MPEG-4/SD,109.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8110.0,Channel 5 (UK),MPEG-4/SD,110.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8117.0,Sky Cinema Delay,MPEG-4/SD,117.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8118.0,NTV National,MPEG-4/SD,118.0,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Nep
+8121.0,BFBS Ops,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8123.0,BFBS UK Bases,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8124.0,BFBS Radio 2,,,12730 H,,43-45,Irdeto,,False,BFBS,1/2,23330,DVB-S2,Eng
+8126.0,BFBS Rewind,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8127.0,BFBS UK National,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8131.0,BFBS UK,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8135.0,BFBS Best of British,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng
+8138.0,BFBS Falklands,,,12730 H,,43-45,,,False,BFBS,1/2,23330,DVB-S2,Eng

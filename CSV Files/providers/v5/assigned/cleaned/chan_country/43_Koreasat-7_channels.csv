@@ -1,0 +1,10 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,SkyLife,,,11977 H,,,Nagravision,,,,False,,800,223,DVB-S2,,
+,SkyLife,,,12015 H,,,Nagravision,,,,False,,800,223,DVB-S2,,
+,SkyLife,,,12054 H,,,Nagravision,,,,False,,5/6,23800,DVB-S2,,
+,SkyLife,,,12092 H,,,Nagravision,,,,False,,800,223,DVB-S2,,
+,SkyLife,,,12130 H,,,Nagravision,,,,False,,800,223,DVB-S2,,
+,SkyLife,,,12169 H,,,Nagravision,,,,False,,3/4,21300,DVB-S2,,
+,KBS 1 TV,,5664.0,12054 H,,,,,KBS 1 TV,https://www.lyngsat.com/tvchannels/kr/KBS-1-TV.html,False,,5/6,23800,DVB-S2,Kor,kr
+,SatLite,,,12719 H,tp CS24,,Conax,,,,False,,3/4,45000,DVB-S2,,
+2880.0,TV 5 (Philippines),MPEG-4/1seg,2882.0,12719 H,tp CS24,,,,TV 5 (Philippines),https://www.lyngsat.com/tvchannels/ph/TV-5.html,False,,3/4,45000,DVB-S2,Tgl,ph

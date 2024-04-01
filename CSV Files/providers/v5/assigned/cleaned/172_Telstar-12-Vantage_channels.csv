@@ -1,0 +1,98 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,TuVes HD,,,10983 H,tp 8,0.0,"Verimatrix (B),StreamGuard",,,,False,,4/5,45000.0,DVB-S2,,
+,TuVes HD,,,11733 H,tp 12,0.0,"Verimatrix (B),StreamGuard",,,,False,,4/5,45000.0,DVB-S2,,
+,TuVes HD,,,11795 H,tp 13,0.0,"Verimatrix (B),StreamGuard",,,,False,,4/5,45000.0,DVB-S2,,
+,TuVes HD,?-1,,11857 H,tp 14,0.0,"Verimatrix (B),Irdeto,StreamGuard",,,,False,,4/5,45000.0,DVB-S2,,
+,TuVes HD,,,11919 H,tp 15,0.0,"Verimatrix (B),Irdeto,StreamGuard",,,,False,,000,45.0,DVB-S2,,
+9990.0,[Avalpa test card],MPEG-4/SD,1501.0,10983 H,tp 8,0.0,,,,,False,,4/5,45000.0,DVB-S2,,
+,Voice of America,,,11026 H,tp 9,0.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,,,True,Voice of America,1/2,12500.0,DVB-S1,,
+340.0,VoA TV Global,MPEG-4/HD,100.0,11026 H,tp 9,0.0,,,VoA TV Global,https://www.lyngsat.com/tvchannels/us/VoA-TV-Global.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+350.0,TV Martí,MPEG-4/HD,110.0,11026 H,tp 9,0.0,,,TV Martí,https://www.lyngsat.com/tvchannels/us/TV-Marti.html,False,Voice of America,1/2,12500.0,DVB-S1,Spa,us
+350.0,TV Martí,MPEG-4/HD,110.0,11026 H,tp 9,0.0,,,TV Martí,https://www.lyngsat.com/tvchannels/us/TV-Marti.html,False,Voice of America,1/2,12500.0,DVB-S1,Spa,us
+300.0,Voz de América,,,11026 H,tp 9,0.0,,,Voz de América,https://www.lyngsat.com/radiochannels/us/Voz-de-America.html,False,Voice of America,1/2,12500.0,DVB-S1,Spa,us
+301.0,VoA 1,,,11026 H,tp 9,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+301.0,VoA 1,,,11026 H,tp 9,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+302.0,VoA 1,,,11026 H,tp 9,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+302.0,VoA 1,,,11026 H,tp 9,0.0,,,VoA 1,https://www.lyngsat.com/radiochannels/us/VoA-1.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+303.0,Radio Martí,,,11026 H,tp 9,0.0,,,Radio Martí,https://www.lyngsat.com/radiochannels/us/Radio-Marti.html,False,Voice of America,1/2,12500.0,DVB-S1,Spa,us
+303.0,Radio Martí,,,11026 H,tp 9,0.0,,,Radio Martí,https://www.lyngsat.com/radiochannels/us/Radio-Marti.html,False,Voice of America,1/2,12500.0,DVB-S1,Spa,us
+304.0,VoA Global Live,,,11026 H,tp 9,0.0,,,VoA Global Live,https://www.lyngsat.com/radiochannels/us/VoA-Global-Live.html,False,Voice of America,1/2,12500.0,DVB-S1,Eng,us
+,Freeview,,,11043 V,,,BISS,https://www.lyngsat.com/providers/uk/Freeview.html,,,True,Freeview,/10,41009.0,DVB-S2,,
+0.0,BBC One North East & Cumbria,MPEG-2/SD,101.0,11043 V,,,BISS,,BBC One North East & Cumbria,https://www.lyngsat.com/tvchannels/uk/BBC-One-North-East-and-Cumbria.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One North East & Cumbria,MPEG-2/SD,101.0,11043 V,,,BISS,,BBC One North East & Cumbria,https://www.lyngsat.com/tvchannels/uk/BBC-One-North-East-and-Cumbria.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One North East & Cumbria,MPEG-4/HD,6601.0,11043 V,,,BISS,,BBC One North East & Cumbria,https://www.lyngsat.com/tvchannels/uk/BBC-One-North-East-and-Cumbria.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One North East & Cumbria,MPEG-4/HD,6601.0,11043 V,,,BISS,,BBC One North East & Cumbria,https://www.lyngsat.com/tvchannels/uk/BBC-One-North-East-and-Cumbria.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Two,MPEG-2/SD,201.0,11043 V,,,BISS,,BBC Two,https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Two,MPEG-2/SD,201.0,11043 V,,,BISS,,BBC Two,https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Two,MPEG-4/HD,6101.0,11043 V,,,BISS,,BBC Two,https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Two,MPEG-4/HD,6101.0,11043 V,,,BISS,,BBC Two,https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBBC (07-19),MPEG-2/SD,301.0,11043 V,,,BISS,,CBBC (07-19),https://www.lyngsat.com/tvchannels/uk/CBBC.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBBC (07-19),MPEG-2/SD,301.0,11043 V,,,BISS,,CBBC (07-19),https://www.lyngsat.com/tvchannels/uk/CBBC.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBBC (07-19),MPEG-4/HD,7001.0,11043 V,,,BISS,,CBBC (07-19),https://www.lyngsat.com/tvchannels/uk/CBBC.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBBC (07-19),MPEG-4/HD,7001.0,11043 V,,,BISS,,CBBC (07-19),https://www.lyngsat.com/tvchannels/uk/CBBC.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Three (19-04),MPEG-2/SD,301.0,11043 V,,,BISS,,BBC Three (19-04),https://www.lyngsat.com/tvchannels/uk/BBC-Three.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Three (19-04),MPEG-2/SD,301.0,11043 V,,,BISS,,BBC Three (19-04),https://www.lyngsat.com/tvchannels/uk/BBC-Three.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Three (19-04),MPEG-4/HD,7001.0,11043 V,,,BISS,,BBC Three (19-04),https://www.lyngsat.com/tvchannels/uk/BBC-Three.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Three (19-04),MPEG-4/HD,7001.0,11043 V,,,BISS,,BBC Three (19-04),https://www.lyngsat.com/tvchannels/uk/BBC-Three.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBeebies UK (06-19),MPEG-2/SD,401.0,11043 V,,,BISS,,CBeebies UK (06-19),https://www.lyngsat.com/tvchannels/uk/CBeebies-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBeebies UK (06-19),MPEG-2/SD,401.0,11043 V,,,BISS,,CBeebies UK (06-19),https://www.lyngsat.com/tvchannels/uk/CBeebies-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBeebies UK (06-19),MPEG-4/HD,6701.0,11043 V,,,BISS,,CBeebies UK (06-19),https://www.lyngsat.com/tvchannels/uk/CBeebies-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,CBeebies UK (06-19),MPEG-4/HD,6701.0,11043 V,,,BISS,,CBeebies UK (06-19),https://www.lyngsat.com/tvchannels/uk/CBeebies-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Four (19-04),MPEG-2/SD,401.0,11043 V,,,BISS,,BBC Four (19-04),https://www.lyngsat.com/tvchannels/uk/BBC-Four.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC News UK,MPEG-2/SD,501.0,11043 V,,,BISS,,BBC News UK,https://www.lyngsat.com/tvchannels/uk/BBC-News-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Parliament,MPEG-2/SD,601.0,11043 V,,,BISS,,BBC Parliament,https://www.lyngsat.com/tvchannels/uk/BBC-Parliament.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Red Button 1,MPEG-2/SD,901.0,11043 V,,,BISS,,BBC Red Button 1,https://www.lyngsat.com/tvchannels/uk/BBC-Red-Button-1.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One Wales,MPEG-2/SD,3101.0,11043 V,,,BISS,,BBC One Wales,https://www.lyngsat.com/tvchannels/uk/BBC-One-Wales.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One Scotland,MPEG-2/SD,4101.0,11043 V,,,BISS,,BBC One Scotland,https://www.lyngsat.com/tvchannels/uk/BBC-One-Scotland.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC One Northern Ireland,MPEG-2/SD,5101.0,11043 V,,,BISS,,BBC One Northern Ireland,https://www.lyngsat.com/tvchannels/uk/BBC-One-Northern-Ireland.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,ITV 1 Granada,MPEG-4/HD,6201.0,11043 V,,,BISS,,ITV 1 Granada,https://www.lyngsat.com/tvchannels/uk/ITV-1-Granada.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,Channel 4 London,MPEG-4/HD,6301.0,11043 V,,,BISS,,Channel 4 London,https://www.lyngsat.com/tvchannels/uk/Channel-4-London.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,Channel 5 (UK),MPEG-4/HD,6401.0,11043 V,,,BISS,,Channel 5 (UK),https://www.lyngsat.com/tvchannels/uk/Channel-5.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,5 Select,MPEG-4/SD,7501.0,11043 V,,,BISS,,5 Select,https://www.lyngsat.com/tvchannels/uk/5-Select.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,TBN UK,MPEG-4/SD,7901.0,11043 V,,,BISS,,TBN UK,https://www.lyngsat.com/tvchannels/us/TBN-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,us
+0.0,BBC Radio 1,,,11043 V,,,BISS,,BBC Radio 1,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-1.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 1,,,11043 V,,,BISS,,BBC Radio 1,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-1.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 2,,,11043 V,,,BISS,,BBC Radio 2,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-2.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 2,,,11043 V,,,BISS,,BBC Radio 2,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-2.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 3,,,11043 V,,,BISS,,BBC Radio 3,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-3.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 3,,,11043 V,,,BISS,,BBC Radio 3,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-3.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 4 FM,,,11043 V,,,BISS,,BBC Radio 4 FM,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-4-FM.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 4 FM,,,11043 V,,,BISS,,BBC Radio 4 FM,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-4-FM.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 5 Live,,,11043 V,,,BISS,,BBC Radio 5 Live,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-5-Live.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 5 Live,,,11043 V,,,BISS,,BBC Radio 5 Live,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-5-Live.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 5 Live Sports Extra,,,11043 V,,,BISS,,BBC Radio 5 Live Sports Extra,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-5-Live-Sports-Extra.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 6 Music,,,11043 V,,,BISS,,BBC Radio 6 Music,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-6-Music.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 6 Music,,,11043 V,,,BISS,,BBC Radio 6 Music,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-6-Music.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 4 Extra,,,11043 V,,,BISS,,BBC Radio 4 Extra,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-4-Extra.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 4 Extra,,,11043 V,,,BISS,,BBC Radio 4 Extra,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-4-Extra.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 1Xtra,,,11043 V,,,BISS,,BBC Radio 1Xtra,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-1Xtra.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio 1Xtra,,,11043 V,,,BISS,,BBC Radio 1Xtra,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-1Xtra.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC Radio Asian Network,,,11043 V,,,BISS,,BBC Radio Asian Network,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-Asian-Network.html,False,Freeview,/10,41009.0,DVB-S2,,uk
+0.0,BBC Radio Asian Network,,,11043 V,,,BISS,,BBC Radio Asian Network,https://www.lyngsat.com/radiochannels/uk/BBC-Radio-Asian-Network.html,False,Freeview,/10,41009.0,DVB-S2,,uk
+0.0,BBC World Service UK,,,11043 V,,,BISS,,BBC World Service UK,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+0.0,BBC World Service UK,,,11043 V,,,BISS,,BBC World Service UK,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-UK.html,False,Freeview,/10,41009.0,DVB-S2,Eng,uk
+,EXRN Radio Network,1-1,,11506 V,tp 51,,,https://www.lyngsat.com/providers/us/EXRN-Radio-Network.html,,,True,EXRN Radio Network,3/4,2894.0,DVB-S2,,
+50.0,EXRN Radio Network 1,,,11506 V,tp 51,,,,EXRN Radio Network 1,https://www.lyngsat.com/radiochannels/us/EXRN-Radio-Network-1.html,False,EXRN Radio Network,3/4,2894.0,DVB-S2,Eng,us
+51.0,EXRN Radio Network 2,,,11506 V,tp 51,,,,EXRN Radio Network 2,https://www.lyngsat.com/radiochannels/us/EXRN-Radio-Network-2.html,False,EXRN Radio Network,3/4,2894.0,DVB-S2,Eng,us
+,,,,11530 H,tp 48,,,,,,False,EXRN Radio Network,,,,,
+730.0,EWTN España - Latinoamérica,MPEG-4/SD,3200.0,11795 H,tp 13,0.0,,,EWTN España - Latinoamérica,https://www.lyngsat.com/tvchannels/us/EWTN-Espana---Latinoamerica.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,us
+730.0,EWTN España - Latinoamérica,MPEG-4/SD,3200.0,11795 H,tp 13,0.0,,,EWTN España - Latinoamérica,https://www.lyngsat.com/tvchannels/us/EWTN-Espana---Latinoamerica.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,us
+732.0,Bethel TV (Peru),MPEG-4/SD,1616.0,11795 H,tp 13,0.0,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,pe
+732.0,Bethel TV (Peru),MPEG-4/SD,1616.0,11795 H,tp 13,0.0,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,pe
+9999.0,ESPN Dos México,MPEG-4/SD,38.0,11795 H,tp 13,0.0,,,ESPN Dos México,https://www.lyngsat.com/tvchannels/us/ESPN-Dos-Mexico.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,us
+2031.0,Bethel Radio,,,11795 H,tp 13,0.0,,,Bethel Radio,https://www.lyngsat.com/radiochannels/pe/Bethel-Radio.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,pe
+2031.0,Bethel Radio,,,11795 H,tp 13,0.0,,,Bethel Radio,https://www.lyngsat.com/radiochannels/pe/Bethel-Radio.html,False,EXRN Radio Network,4/5,45000.0,DVB-S2,Spa,pe
+1.0,TV Luiza,?-?MPEG-4/HD,256.0,12112 H,tp 19,,,,,,False,EXRN Radio Network,3/4,4444.0,DVB-S4,Por,
+40.0,Finote Democracy,?-?,,12550 H,tp 33,,,,,,False,EXRN Radio Network,2/3,4411.0,DVB-S4,Eng,
+,(feeds),,,12582 H,tp 20,,,,,,False,EXRN Radio Network,3/4,1300.0,DVB-S2,,
+,(feeds),,,12593 H,tp 20,,,,,,False,EXRN Radio Network,3/4,2900.0,DVB-S2,,
+8051.0,BFBS Navy,.-.MPEG-4/SD,33.0,12597 V,tp 2,,,,,,False,EXRN Radio Network,3/4,45000.0,DVB-S2,Eng,
+8051.0,BFBS Navy,.-.MPEG-4/SD,33.0,12717 V,tp 4,,,,,,False,EXRN Radio Network,4/5,24910.0,DVB-S2,Eng,
+,ESPN,0-1,,12609 H,tp 20,,BISS,https://www.lyngsat.com/providers/us/ESPN.html,,,True,ESPN,3/4,7552.0,DVB-S7,,
+901.0,ESPNU,MPEG-2/SD,308.0,12609 H,tp 20,,BISS,,ESPNU,https://www.lyngsat.com/tvchannels/us/ESPNU.html,False,ESPN,3/4,7552.0,DVB-S7,Eng,us
+902.0,ESPN 2 US,MPEG-2/SD,309.0,12609 H,tp 20,,BISS,,ESPN 2 US,https://www.lyngsat.com/tvchannels/us/ESPN-2-US.html,False,ESPN,3/4,7552.0,DVB-S7,Eng,us
+,,,,,,,,,DVB-S44443/4,,False,ESPN,,,,,
+,,,,,,,,,DVB-S44112/3,,False,ESPN,,,,,
+,,,,,,,,,DVB-S44112/3,,False,ESPN,,,,,
+,,,,,,,,,DVB-S28PSK450003/4,,False,ESPN,,,,,
+,,,,,,,,,DVB-S2QPSK249104/5,,False,ESPN,,,,,

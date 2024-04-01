@@ -1,0 +1,140 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,DD Meghalaya,,,3711 H,tp 1,,,https://www.lyngsat.com/providers/in/DD-Meghalaya.html,True,DD Meghalaya,3/4,6250,DVB-S6,
+1.0,DD Meghalaya,MPEG-2/SD,257.0,3711 H,tp 1,,,https://www.lyngsat.com/providers/in/DD-Meghalaya.html,True,DD Meghalaya,3/4,6250,DVB-S6,
+2.0,(DD Meghalaya feeds),,513.0,3711 H,tp 1,,,,False,DD Meghalaya,3/4,6250,DVB-S6,
+,DD Mizoram,,,3721 H,tp 1,,,https://www.lyngsat.com/providers/in/DD-Mizoram.html,True,DD Mizoram,3/4,6250,DVB-S6,
+2.0,DD Mizoram,MPEG-2/SD,513.0,3721 H,tp 1,,,https://www.lyngsat.com/providers/in/DD-Mizoram.html,True,DD Mizoram,3/4,6250,DVB-S6,
+1.0,(DD Mizoram feeds),,257.0,3721 H,tp 1,,,,False,DD Mizoram,3/4,6250,DVB-S6,
+1.0,DD Tripura,?-?MPEG-2/SD,308.0,3728 H,tp 1,,,,False,DD Mizoram,3/4,4250,DVB-S4,
+1.0,DD Arun Prabha,?-?MPEG-2/SD,308.0,3734 H,tp 1,,,,False,DD Mizoram,3/4,4250,DVB-S4,
+1.0,DD Nagaland,?-?MPEG-2/SD,308.0,3740 H,tp 1,,,,False,DD Mizoram,3/4,4250,DVB-S4,
+,(DD feeds),,,3750 H,tp 2,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(DD feeds),,,3756 H,tp 2,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(DD feeds),,,3762 H,tp 2,,,,False,DD Mizoram,3/4,3800,DVB-S3,
+,(DD feeds),,,3768 H,tp 2,,,,False,DD Mizoram,3/4,3000,DVB-S2,
+,(DD feeds),,,3774 H,tp 2,,,,False,DD Mizoram,3/4,4250,DVB-S4,
+,(DD feeds),,,3780 H,tp 2,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(DD feeds),,,3790 H,tp 3,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(DD feeds),,,3797 H,tp 3,,,,False,DD Mizoram,3/4,2900,DVB-S2,
+,(DD feeds),,,3808 H,tp 3,,,,False,DD Mizoram,3/4,4250,DVB-S2,
+,(DD feeds),,,3820 H,tp 3,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(DD feeds),,,3834 H,tp 4,,,,False,DD Mizoram,3/4,2900,DVB-S2,
+,(DD feeds),,,3854 H,tp 4,,,,False,DD Mizoram,3/4,3800,DVB-S3,
+,(DD feeds),,,4003 H,tp 8,,,,False,DD Mizoram,3/4,2900,DVB-S2,
+,(DD feeds),,,4043 H,tp 9,,,,False,DD Mizoram,3/4,2900,DVB-S2,
+,(DD feeds),,,4110 H,tp 11,,,,False,DD Mizoram,3/4,4250,DVB-S4,
+,(feeds),,,3814 H,tp 3,,,,False,DD Mizoram,3/4,3800,DVB-S2,
+,(feeds),,,4014 H,tp 8,,,,False,DD Mizoram,3/4,5400,DVB-S2,
+,(feeds),,,4134 H,tp 11,,,,False,DD Mizoram,3/4,4250,DVB-S2,
+1.0,DD Bihar,1-1MPEG-2/SD,512.0,3830 H,tp 4,,,,False,DD Mizoram,3/4,3330,DVB-S3,Hin
+,DD Assam,0-1,,3840 H,tp 4,,,https://www.lyngsat.com/providers/in/DD-Assam.html,True,DD Assam,3/4,6250,DVB-S6,
+1.0,DD Assam,MPEG-2/SD,257.0,3840 H,tp 4,,,https://www.lyngsat.com/providers/in/DD-Assam.html,True,DD Assam,3/4,6250,DVB-S6,Asm
+2.0,(DD Assam feeds),,513.0,3840 H,tp 4,,,,False,DD Assam,3/4,6250,DVB-S6,
+,DD Assamese,,,3848 H,tp 4,,,https://www.lyngsat.com/providers/in/DD-Assamese.html,True,DD Assamese,3/4,4250,DVB-S4,
+1.0,DD Assamese,MPEG-2/SD,512.0,3848 H,tp 4,,,https://www.lyngsat.com/providers/in/DD-Assamese.html,True,DD Assamese,3/4,4250,DVB-S4,Asm
+2.0,(DD Assamese feeds),,513.0,3848 H,tp 4,,,,False,DD Assamese,3/4,4250,DVB-S4,
+1.0,DD Goa,?-?MPEG-2/SD,308.0,3860 H,tp 4,,,,False,DD Assamese,3/4,4250,DVB-S4,
+,Doordarshan,45-45,,3925 H,tp 6,,,https://www.lyngsat.com/providers/in/Doordarshan.html,True,Doordarshan,3/4,27500,DVB-S2,
+1.0,DD National,MPEG-2/SD,2304.0,3925 H,tp 6,,,,False,Doordarshan,3/4,27500,DVB-S2,Hin
+2.0,DD News,MPEG-2/SD,2306.0,3925 H,tp 6,,,,False,Doordarshan,3/4,27500,DVB-S2,Hin
+3.0,DD India,MPEG-2/SD,2308.0,3925 H,tp 6,,,,False,Doordarshan,3/4,27500,DVB-S2,Hin
+4.0,DD Bharati,MPEG-2/SD,2310.0,3925 H,tp 6,,,,False,Doordarshan,3/4,27500,DVB-S2,Hin
+5.0,DD Bangla,MPEG-4/SD,2312.0,3925 H,tp 6,,,https://www.lyngsat.com/providers/in/DD-Bangla.html,True,DD Bangla,3/4,27500,DVB-S2,Ben
+,DD Bangla,,,3952 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Bangla.html,True,DD Bangla,3/4,6250,DVB-S6,
+7.0,DD Bangla,MPEG-2/SD,4470.0,3952 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Bangla.html,True,DD Bangla,3/4,6250,DVB-S6,Ben
+6.0,DD Tamil,MPEG-2/SD,2314.0,3925 H,tp 6,,,https://www.lyngsat.com/providers/in/DD-Tamil.html,True,DD Tamil,3/4,27500,DVB-S2,Tam
+,DD Tamil,1-1,,4051 H,tp 9,,,https://www.lyngsat.com/providers/in/DD-Tamil.html,True,DD Tamil,3/4,8600,DVB-S8,
+1.0,DD Tamil,MPEG-2/SD,4420.0,4051 H,tp 9,,,https://www.lyngsat.com/providers/in/DD-Tamil.html,True,DD Tamil,3/4,8600,DVB-S8,Tam
+7.0,DD Yadagiri,MPEG-2/SD,2316.0,3925 H,tp 6,,,,False,DD Tamil,3/4,27500,DVB-S2,Tel
+1.0,DD Yadagiri,?-?MPEG-2/SD,33.0,4040 H,tp 9,,,,False,DD Tamil,3/4,3330,DVB-S3,Tel
+8.0,[DD Port Blair test card],MPEG-4/SD,2326.0,3925 H,tp 6,,,,False,DD Tamil,3/4,27500,DVB-S2,
+9.0,DD Malayalam,MPEG-2/SD,2320.0,3925 H,tp 6,,,https://www.lyngsat.com/providers/in/DD-Malayalam.html,True,DD Malayalam,3/4,27500,DVB-S2,Mal
+,DD Malayalam,,,4032 H,tp 9,,,https://www.lyngsat.com/providers/in/DD-Malayalam.html,True,DD Malayalam,3/4,6250,DVB-S6,
+3.0,DD Malayalam,MPEG-2/SD,4430.0,4032 H,tp 9,,,https://www.lyngsat.com/providers/in/DD-Malayalam.html,True,DD Malayalam,3/4,6250,DVB-S6,Mal
+10.0,DD Urdu,MPEG-2/SD,2322.0,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,Urd
+12.0,AIR Vividh Bharati,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,
+13.0,AIR FM Rainbow Delhi,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,
+14.0,AIR Hindi,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,Hin
+15.0,AIR Tamil,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,Tam
+16.0,AIR Bangla,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,Ben
+17.0,AIR Port Blair,,,3925 H,tp 6,,,,False,DD Malayalam,3/4,27500,DVB-S2,
+71.0,(DD Bangla feeds),,513.0,3952 H,tp 7,,,,False,DD Malayalam,3/4,6250,DVB-S6,
+,DD Punjabi,65525-1,,3960 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Punjabi.html,True,DD Punjabi,3/4,6250,DVB-S6,
+8.0,DD Punjabi,MPEG-2/SD,4480.0,3960 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Punjabi.html,True,DD Punjabi,3/4,6250,DVB-S6,Pan
+9.0,(DD Punjab feeds),,513.0,3960 H,tp 7,,,,False,DD Punjabi,3/4,6250,DVB-S6,
+,DD Girnar,,,3970 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Girnar.html,True,DD Girnar,3/4,6250,DVB-S6,
+5.0,DD Girnar,MPEG-2/SD,4450.0,3970 H,tp 7,,,https://www.lyngsat.com/providers/in/DD-Girnar.html,True,DD Girnar,3/4,6250,DVB-S6,Guj
+51.0,(DD Girnar feeds),,4451.0,3970 H,tp 7,,,,False,DD Girnar,3/4,6250,DVB-S6,
+1.0,DD Chandana,?-?MPEG-2/SD,4410.0,3976 H,tp 7,,,,False,DD Girnar,3/4,3330,DVB-S3,Kan
+,(DD Chandana feeds),,,3981 H,tp 7,,,,False,DD Girnar,3/4,2900,DVB-S2,
+,DD Odia,,,3992 H,tp 8,,,https://www.lyngsat.com/providers/in/DD-Odia.html,True,DD Odia,3/4,6250,DVB-S6,
+6.0,DD Odia,MPEG-2/SD,4460.0,3992 H,tp 8,,,https://www.lyngsat.com/providers/in/DD-Odia.html,True,DD Odia,3/4,6250,DVB-S6,Ori
+55.0,(DD Odia feeds),,513.0,3992 H,tp 8,,,,False,DD Odia,3/4,6250,DVB-S6,
+1.0,DD Kashir,?-?MPEG-2/SD,4741.0,4000 H,tp 8,,,,False,DD Odia,3/4,3330,DVB-S3,
+10.0,DD Sahyadri,?-?MPEG-2/SD,257.0,4008 H,tp 8,,,,False,DD Odia,3/4,3330,DVB-S3,Mar
+,DD Jalpaiguri,MPEG-2/SD,308.0,4020 H,tp 8,,,,False,DD Odia,3/4,4250,DVB-S4,
+103.0,(DD Malayalam feeds),,513.0,4032 H,tp 9,,,,False,DD Odia,3/4,6250,DVB-S6,
+51.0,DD Puducherry,MPEG-2/SD,513.0,4051 H,tp 9,,,,False,DD Odia,3/4,8600,DVB-S8,Tam
+52.0,(DD Tamil feeds),,514.0,4051 H,tp 9,,,,False,DD Odia,3/4,8600,DVB-S8,
+1.0,DD Saptagiri,?-?MPEG-2/SD,308.0,4060 H,tp 9,,,,False,DD Odia,3/4,4250,DVB-S4,Tel
+,DD Himachal Pradesh,,,4072 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Himachal-Pradesh.html,True,DD Himachal Pradesh,3/4,6250,DVB-S6,
+182.0,DD Himachal Pradesh,MPEG-2/SD,4520.0,4072 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Himachal-Pradesh.html,True,DD Himachal Pradesh,3/4,6250,DVB-S6,
+181.0,(DD Himachal Pradesh feeds),,4521.0,4072 H,tp 10,,,,False,DD Himachal Pradesh,3/4,6250,DVB-S6,
+,ITV Network,,,4074 V,,,,https://www.lyngsat.com/providers/in/ITV-Network.html,True,ITV Network,8/9,12500,DVB-S2,
+1.0,India News Haryana,MPEG-4/SD,611.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Hin
+2.0,India News Rajasthan,MPEG-4/SD,711.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+3.0,India News,MPEG-4/SD,811.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+6.0,India News Uttar Pradesh,MPEG-4/SD,1011.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Hin
+7.0,India News Madhya Pradesh/Chhattisgarh,MPEG-4/SD,1111.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Hin
+8.0,News X,MPEG-4/SD,1211.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Eng
+10.0,Power TV (India),MPEG-4/SD,3021.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Kan
+14.0,India News Business,MPEG-4/SD,1423.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+15.0,Gulistan News,MPEG-4/SD,1523.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Pan
+18.0,India News Punjab,MPEG-4/SD,1823.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Pan
+19.0,India News Gujarati,MPEG-4/SD,1922.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Guj
+20.0,News Capital Gujarat,MPEG-4/SD,2011.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Guj
+22.0,News X World,MPEG-4/SD,2223.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+24.0,Janta TV,MPEG-4/SD,2423.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Hin
+26.0,News World,MPEG-4/SD,2623.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+29.0,Asian News,MPEG-4/SD,2941.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,
+30.0,India News Bangla,MPEG-4/SD,3012.0,4074 V,,,,,False,ITV Network,8/9,12500,DVB-S2,Ben
+,DD Rajasthan,200-100,,4080 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Rajasthan.html,True,DD Rajasthan,3/4,6250,DVB-S6,
+14.0,DD Rajasthan,MPEG-2/SD,4550.0,4080 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Rajasthan.html,True,DD Rajasthan,3/4,6250,DVB-S6,Hin
+19.0,(DD Rajasthan feeds),,4540.0,4080 H,tp 10,,,,False,DD Rajasthan,3/4,6250,DVB-S6,
+,DD Madhya Pradesh,1-0,,4090 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Madhya-Pradesh.html,True,DD Madhya Pradesh,3/4,6250,DVB-S6,
+17.0,DD Madhya Pradesh,MPEG-2/SD,4530.0,4090 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Madhya-Pradesh.html,True,DD Madhya Pradesh,3/4,6250,DVB-S6,Hin
+171.0,(DD Madhya Pradesh feeds),,4531.0,4090 H,tp 10,,,,False,DD Madhya Pradesh,3/4,6250,DVB-S6,
+,DD Uttar Pradesh,1-0,,4098 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Uttar-Pradesh.html,True,DD Uttar Pradesh,3/4,6250,DVB-S6,
+1.0,DD Uttar Pradesh,MPEG-2/SD,4540.0,4098 H,tp 10,,,https://www.lyngsat.com/providers/in/DD-Uttar-Pradesh.html,True,DD Uttar Pradesh,3/4,6250,DVB-S6,Hin
+2.0,(DD Uttar Pradesh feeds),,4541.0,4098 H,tp 10,,,,False,DD Uttar Pradesh,3/4,6250,DVB-S6,
+1.0,DD Manipur,?-?MPEG-2/SD,308.0,4116 H,tp 11,,,,False,DD Uttar Pradesh,3/4,4250,DVB-S4,
+1.0,DD Sikkim,?-?MPEG-2/SD,308.0,4122 H,tp 11,,,,False,DD Uttar Pradesh,3/4,4250,DVB-S4,
+1.0,DD Jammu,?-?MPEG-2/SD,512.0,4128 H,tp 11,,,,False,DD Uttar Pradesh,3/4,4250,DVB-S4,Hin
+1.0,RTA,?-?MPEG-2/SD,308.0,4149 H,tp 12,,,,False,DD Uttar Pradesh,3/4,4000,DVB-S4,Per
+2.0,Afghanistan National Radio,,,4149 H,tp 12,,,,False,DD Uttar Pradesh,3/4,4000,DVB-S4,Per
+,,,,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,
+,,,,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+1.0,Popcorn Movies,MPEG-4/SD,101.0,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,Pan
+2.0,Swara Sagar,MPEG-4/SD,201.0,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,Tel
+8.0,Grace TV (India),MPEG-4/SD,801.0,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,Eng
+9.0,Studio N News,MPEG-4/SD,901.0,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,Tel
+10.0,Vistaar News,MPEG-4/SD,1001.0,4160 H,tp 12,,,,False,DD Uttar Pradesh,3/4,8444,DVB-S2,
+1.0,Sanskriti 24x7,MPEG-4/SD,1001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+2.0,Sadhna News Madhya Pradesh/Chhattisgarh,MPEG-4/SD,2001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Hin
+3.0,Living India News,MPEG-4/SD,3001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Pan
+4.0,Vip News,MPEG-4/SD,4001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Hin
+5.0,World Punjabi,MPEG-4/SD,5001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Pan
+6.0,AMV Network,MPEG-4/SD,6001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+7.0,FM News,MPEG-4/SD,7001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+8.0,Har Khabar,MPEG-4/SD,8001.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Hin
+9.0,Sadhna Plus News,MPEG-4/SD,8004.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+10.0,Bhakti Sagar,MPEG-4/SD,8007.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+11.0,BVG,MPEG-4/SD,8010.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+13.0,Soham TV,MPEG-4/SD,8016.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Hin
+14.0,Onkar Only Truth TV,MPEG-4/SD,8019.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Ben
+15.0,News Hour,MPEG-4/SD,8022.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Ben
+16.0,Enrich TV,MPEG-4/SD,8025.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+17.0,TV 24 (India),MPEG-4/SD,8028.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Hin
+18.0,Daily Post,MPEG-4/SD,8031.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,
+19.0,Lokshahi Marathi,MPEG-4/SD,8034.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,Mar
+20.0,Sadhna Gold,MPEG-4/SD,8037.0,4176 H,tp 12,,,,False,DD Uttar Pradesh,5/6,13600,DVB-S2,

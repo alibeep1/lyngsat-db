@@ -1,0 +1,19 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,TV Paranaíba,,,4104 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Paranaiba.html,True,TV Paranaíba,2/3,5000,DVB-S2,
+,TV Paranaíba,MPEG-4/1seg,101.0,4104 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Paranaiba.html,True,TV Paranaíba,2/3,5000,DVB-S2,Por
+,TV Paranaíba,MPEG-4/HD,1001.0,4104 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Paranaiba.html,True,TV Paranaíba,2/3,5000,DVB-S2,Por
+,TV Guararapes,,,4110 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,
+,TV Guararapes,MPEG-4/HD,273.0,4110 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,Por
+,TV Guararapes,MPEG-4/1seg,641.0,4110 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Guararapes.html,True,TV Guararapes,3/4,4780,DVB-S2,Por
+,TV Sucesso (Brazil),,,4116 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Sucesso.html,True,TV Sucesso (Brazil),5/6,3450,DVB-S2,
+,TV Sucesso (Brazil),MPEG-4/HD,273.0,4116 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Sucesso.html,True,TV Sucesso (Brazil),5/6,3450,DVB-S2,Por
+,TV Sucesso (Brazil),MPEG-4/1seg,641.0,4116 H,tp 11ANC,,,https://www.lyngsat.com/providers/br/TV-Sucesso.html,True,TV Sucesso (Brazil),5/6,3450,DVB-S2,Por
+,Transamérica,,,4142 H,tp 12ANC,,FlexKey,https://www.lyngsat.com/providers/br/Transamerica.html,True,Transamérica,000,8,DVB-S2,
+1.0,Transamérica Pop,,,4142 H,tp 12ANC,,FlexKey,,False,Transamérica,000,8,DVB-S2,Por
+3.0,Transamérica Light,,,4142 H,tp 12ANC,,FlexKey,,False,Transamérica,000,8,DVB-S2,
+,Rede Brasil,MPEG-2/SD,473.0,4150 V,tp 11BNC,,,,False,Transamérica,3/4,2500,DVB-S2,Por
+,Rede Brasil,MPEG-4/HD,473.0,4156 V,tp 11BNC,,,,False,Transamérica,5/6,5000,DVB-S2,Por
+,Rede Brasil,MPEG-4/1seg,573.0,4156 V,tp 11BNC,,,,False,Transamérica,5/6,5000,DVB-S2,Por
+,,,,4156 V,tp 11BNC,,,,False,Transamérica,5/6,5000,DVB-S2,
+,RBTV,MPEG-4/HD,273.0,4156 V,tp 11BNC,,,,False,Transamérica,5/6,5000,DVB-S2,Por
+,RBTV,MPEG-4/1seg,373.0,4156 V,tp 11BNC,,,,False,Transamérica,5/6,5000,DVB-S2,Por

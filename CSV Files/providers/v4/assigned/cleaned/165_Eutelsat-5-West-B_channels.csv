@@ -1,0 +1,434 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Fransat,1375-20600,,10972 V,tp B2,0,Viaccess,,False,,2/3,29950,DVB-S2,
+,Fransat,1375-20500,,11054 V,tp B6,0,Viaccess,,False,,2/3,29950,DVB-S2,
+,Fransat,1375-20400,,11096 V,tp B8,0,Viaccess,,False,,3/4,29950,DVB-S2,
+,Fransat,1375-20100,,11471 V,tp D2,0,Viaccess,,False,,3/4,29950,DVB-S2,
+,Fransat,1375-20300,,11554 V,tp D6,0,Viaccess,,False,,3/4,29950,DVB-S2,
+,Fransat,1375-20800,,11679 V,tp D12,0,Viaccess,,False,,2/3,29950,DVB-S2,
+,Fransat,1375-20700,,12522 V,tp F2,0,Viaccess,,False,,2/3,29950,DVB-S2,
+,RAI mux MR 1,8572-113,,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,
+1101.0,Rai 1,MPEG-4/HD,201.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1451.0,Rai 1,MPEG-4/HD,201.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita Qaa
+1151.0,Rai 1,MPEG-4/HD,201.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita Qaa
+1301.0,Rai 1,MPEG-4/HD,201.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1551.0,Rai 1,MPEG-4/HD,201.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita Qaa
+1201.0,Rai 1,MPEG-4/HD,201.0,11637 V,tp D10,0,,,False,,m 7,,DVB-S2,Ita Qaa
+1501.0,Rai 1,MPEG-4/HD,201.0,11637 V,tp D10,0,,,False,,m 8,,DVB-S2,Ita Qaa
+1601.0,Rai 1,MPEG-4/HD,201.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita Qaa
+1401.0,Rai 1,MPEG-4/HD,201.0,12606 V,tp F6,0,,,False,,m 6,,DVB-S2,Ita Qaa
+1351.0,Rai 1,MPEG-4/HD,201.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1251.0,Rai 1,MPEG-4/HD,201.0,12627 H,tp F5,0,,,False,,m 3,,DVB-S2,Ita Qaa
+1401.0,Rai 1,MPEG-4/HD,201.0,12627 H,tp F5,0,,,False,,m 5,,DVB-S2,Ita Qaa
+1102.0,Rai 2,MPEG-4/HD,202.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1452.0,Rai 2,MPEG-4/HD,202.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita Qaa
+1152.0,Rai 2,MPEG-4/HD,202.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita Qaa
+1302.0,Rai 2,MPEG-4/HD,202.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1552.0,Rai 2,MPEG-4/HD,202.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita Qaa
+1202.0,Rai 2,MPEG-4/HD,202.0,11637 V,tp D10,0,,,False,,m 7,,DVB-S2,Ita Qaa
+1502.0,Rai 2,MPEG-4/HD,202.0,11637 V,tp D10,0,,,False,,m 8,,DVB-S2,Ita Qaa
+1602.0,Rai 2,MPEG-4/HD,202.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita Qaa
+1402.0,Rai 2,MPEG-4/HD,202.0,12606 V,tp F6,0,,,False,,m 6,,DVB-S2,Ita Qaa
+1352.0,Rai 2,MPEG-4/HD,202.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita Qaa
+1252.0,Rai 2,MPEG-4/HD,202.0,12627 H,tp F5,0,,,False,,m 3,,DVB-S2,Ita Qaa
+1402.0,Rai 2,MPEG-4/HD,202.0,12627 H,tp F5,0,,,False,,m 5,,DVB-S2,Ita Qaa
+1103.0,Rai News 24,MPEG-4/SD,203.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita
+1453.0,Rai News 24,MPEG-4/SD,203.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita
+1153.0,Rai News 24,MPEG-4/SD,203.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita
+1303.0,Rai News 24,MPEG-4/SD,203.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita
+1553.0,Rai News 24,MPEG-4/SD,203.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita
+1203.0,Rai News 24,MPEG-4/SD,203.0,11637 V,tp D10,0,,,False,,m 7,,DVB-S2,Ita
+1503.0,Rai News 24,MPEG-4/SD,203.0,11637 V,tp D10,0,,,False,,m 8,,DVB-S2,Ita
+1603.0,Rai News 24,MPEG-4/SD,203.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita
+1009.0,Rai News 24,MPEG-4/HD,209.0,12606 V,tp F6,0,,,False,,m 4,,DVB-S2,Ita
+1403.0,Rai News 24,MPEG-4/SD,203.0,12606 V,tp F6,0,,,False,,m 6,,DVB-S2,Ita
+1353.0,Rai News 24,MPEG-4/SD,203.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita
+1253.0,Rai News 24,MPEG-4/SD,203.0,12627 H,tp F5,0,,,False,,m 3,,DVB-S2,Ita
+1403.0,Rai News 24,MPEG-4/SD,203.0,12627 H,tp F5,0,,,False,,m 5,,DVB-S2,Ita
+1110.0,Rai 3,MPEG-4/HD,270.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita
+1460.0,Rai 3,MPEG-4/HD,270.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita
+1160.0,Rai 3,MPEG-4/HD,270.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita
+1310.0,Rai 3,MPEG-4/HD,270.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita
+1560.0,Rai 3,MPEG-4/HD,270.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita
+3403.0,Rai 3,MPEG-2/SD,514.0,11637 V,tp D10,0,,,False,,m 1,,DVB-S2,Ita
+1210.0,Rai 3,MPEG-4/HD,270.0,11637 V,tp D10,0,,,False,,m 7,,DVB-S2,Ita
+1510.0,Rai 3,MPEG-4/HD,270.0,11637 V,tp D10,0,,,False,,m 8,,DVB-S2,Ita
+1610.0,Rai 3,MPEG-4/HD,270.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita
+1410.0,Rai 3,MPEG-4/HD,270.0,12606 V,tp F6,0,,,False,,m 6,,DVB-S2,Ita
+1360.0,Rai 3,MPEG-4/HD,270.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita
+1260.0,Rai 3,MPEG-4/HD,270.0,12627 H,tp F5,0,,,False,,m 3,,DVB-S2,Ita
+1410.0,Rai 3,MPEG-4/HD,270.0,12627 H,tp F5,0,,,False,,m 5,,DVB-S2,Ita
+1111.0,Rai 3 Lombardia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/HD,271.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita
+1363.0,Rai 3 Lombardia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita
+1112.0,Rai 3 Piemonte (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/HD,272.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita
+1113.0,Rai 3 Emilia Romagna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11013 V,tp B4,0,,,False,,m 1,,DVB-S2,Ita
+1362.0,Rai 3 Emilia Romagna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/HD,272.0,12627 H,tp F5,0,,,False,,m 1,,DVB-S2,Ita
+,RAI mux MR 8,8572-183,,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,
+1461.0,Rai 3 Liguria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita
+1462.0,Rai 3 Sardegna (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita
+1463.0,Rai 3 Toscana (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11013 V,tp B4,0,,,False,,m 3,,DVB-S2,Ita
+1262.0,Rai 3 Toscana (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,12627 H,tp F5,0,,,False,,m 3,,DVB-S2,Ita
+,RAI mux MR 2,8572-123,,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,
+1161.0,Rai 3 Trentino-Alto Adige Trento (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita
+1162.0,Rai 3 Trentino-Alto Adige Bolzano (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita
+1163.0,Rai Südtirol (Mon-Fri 07.30-08.00 & Sun 09.00-10.00 & 14.00-14.20 & Mon 19.55-22.55 & Tue-Fri 19.55-23.20 & Sat-Sun 18.00-23.20),MPEG-4/HD,273.0,11013 V,tp B4,0,,,False,,m 5,,DVB-S2,Ita
+,RAI mux MR 5,8572-153,,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,
+1311.0,Rai 3 Puglia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita
+1312.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita
+1563.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita
+1612.0,Rai 3 Basilicata (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita
+1313.0,Rai 3 Molise (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11016 H,tp B3,0,,,False,,m 1,,DVB-S2,Ita
+1212.0,Rai 3 Molise (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11637 V,tp D10,0,,,False,,m 7,,DVB-S2,Ita
+,RAI mux MR 10,8572-203,,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,
+1561.0,Rai 3 Sicilia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita
+1562.0,Rai 3 Calabria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11016 H,tp B3,0,,,False,,m 4,,DVB-S2,Ita
+1613.0,Rai 3 Calabria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11637 V,tp D10,0,,,False,, 10,,DVB-S2,Ita
+,Rai Way Sicilia 1,8572-40960,,11016 H,tp B3,0,,https://www.lyngsat.com/providers/--/Rai-Way-Sicilia-1.html,True,Rai Way Sicilia 1, 12,,DVB-S2,
+89.0,Antenna Sicilia,MPEG-4/HD,489.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+90.0,Video Regione 14,MPEG-4/HD,490.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+91.0,Tele Color,MPEG-4/HD,491.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+92.0,Rei TV,MPEG-4/HD,492.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+93.0,Video Mediterraneo,MPEG-4/HD,493.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+94.0,TGS,MPEG-4/HD,494.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+95.0,Tele One 16,MPEG-4/HD,495.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+96.0,TRM 13,MPEG-4/HD,496.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+97.0,TeleRent 7 Gold,MPEG-4/HD,497.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+98.0,Siciliachannel,MPEG-4/HD,498.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+99.0,Ciak Telesud,MPEG-4/SD,499.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+100.0,Tele Star,MPEG-4/SD,500.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+101.0,6 Sestarete TV,MPEG-4/SD,501.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+102.0,TriS,MPEG-4/SD,502.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+103.0,Canale Italia,MPEG-4/SD,503.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+9913.0,Canale Italia,MPEG-4/SD,1030.0,12585 H,tp F3,0,,,False,Rai Way Sicilia 1, 11,,DVB-S2,Ita
+104.0,TeleMistretta,MPEG-4/HD,504.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+105.0,Tele Normanna,MPEG-4/SD,505.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+144.0,Etna Channel,MPEG-4/HD,544.0,11016 H,tp B3,0,,,False,Rai Way Sicilia 1, 12,,DVB-S2,Ita
+426.0,Vosges TV,MPEG-4/SD,2461.0,11096 V,tp B8,0,,,False,Rai Way Sicilia 1,3/4,29950,DVB-S2,Fre
+427.0,KTO,MPEG-2/SD,2471.0,11096 V,tp B8,0,,,False,Rai Way Sicilia 1,3/4,29950,DVB-S2,Fre
+,,,,11179 V,tp B12,0,,,False,Rai Way Sicilia 1,,,,
+,,1375-13010,,11472 H,tp D1,0,,,False,Rai Way Sicilia 1,4/5,9900,DVB-S2,
+,,8442-10,,12648 V,tp F8,0,,,False,Rai Way Sicilia 1,m 1,,DVB-S2,
+,,8442-2,,12648 V,tp F8,0,,,False,Rai Way Sicilia 1,m 2,,DVB-S2,
+,,8442-3,,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Rai Way Sicilia 1,m 3,,DVB-S2,
+,,8442-1,,12732 V,tp F12,0,,,False,Rai Way Sicilia 1,m 1,,DVB-S2,
+,,8442-4,,12732 V,tp F12,0,,,False,Rai Way Sicilia 1,m 4,,DVB-S2,
+,,8442-6,,12732 V,tp F12,0,,,False,Rai Way Sicilia 1,m 6,,DVB-S2,
+,TowerCast,1-1000,,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,1/2,543,DVB-S5,
+,TowerCast,1-1000,,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,1/2,543,DVB-S5,
+,TowerCast,1-1000,,11453.9H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,1/2,543,DVB-S5,
+,TowerCast,8442-4,,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,2548,DVB-S2,
+,TowerCast,8442-4,,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,2548,DVB-S2,
+,TowerCast,8442-4,,11456 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,2548,DVB-S2,
+,TowerCast,8442-3,,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,5780,DVB-S2,
+,TowerCast,8442-3,,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,5780,DVB-S2,
+,TowerCast,8442-3,,11461 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TowerCast.html,True,TowerCast,3/4,5780,DVB-S2,
+1001.0,Nostalgie Belgique,,,11453.9H,tp D1,0,,,False,TowerCast,1/2,543,DVB-S5,Fre
+1002.0,NRJ Belgique,,,11453.9H,tp D1,0,,,False,TowerCast,1/2,543,DVB-S5,Fre
+22.0,Nostalgie,,,11456 H,tp D1,0,,,False,TowerCast,3/4,2548,DVB-S2,Fre
+14.0,Nostalgie,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+22.0,Nostalgie,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3072.0,Nostalgie,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+11.0,NRJ France,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+21.0,NRJ France,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3073.0,NRJ France,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+12.0,Chérie FM,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3075.0,Chérie FM,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+13.0,Rire & Chansons,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3074.0,Rire & Chansons,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+41.0,RTL,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+42.0,RTL 2,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+43.0,Fun Radio (France),,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+44.0,Europe 1,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3076.0,Europe 1,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+45.0,RFM (France),,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3078.0,RFM (France),,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+46.0,Europe 2,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+3077.0,Europe 2,,,11471 V,tp D2,0,,,False,TowerCast,3/4,29950,DVB-S2,Fre
+1001.0,Skyrock,,,11461 H,tp D1,0,,,False,TowerCast,3/4,5780,DVB-S2,Fre
+,Alouette,1-1,,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette,3/5,667,DVB-S2,
+1000.0,Alouette,,,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette,3/5,667,DVB-S2,Fre
+5000.0,Alouette,,,11465.2H,tp D1,0,,https://www.lyngsat.com/providers/fr/Alouette.html,True,Alouette,3/5,667,DVB-S2,Fre
+2000.0,Magic Alouette Haute-Vienne,,,11465.2H,tp D1,0,,,False,Alouette,3/5,667,DVB-S2,Fre
+3000.0,Tempo Alouette,,,11465.2H,tp D1,0,,,False,Alouette,3/5,667,DVB-S2,Fre
+4000.0,Magic Alouette Creuse,,,11465.2H,tp D1,0,,,False,Alouette,3/5,667,DVB-S2,Fre
+3020.0,France Bleu Paris,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+100.0,France Bleu Paris,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3021.0,France Bleu Alsace,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+101.0,France Bleu Alsace,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3022.0,France Bleu Armorique,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+102.0,France Bleu Armorique,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3023.0,France Bleu Auxerre,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+103.0,France Bleu Auxerre,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3024.0,France Bleu Azur,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+104.0,France Bleu Azur,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3025.0,France Bleu Normandie Calvados - Orne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+105.0,France Bleu Normandie Calvados - Orne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3026.0,France Bleu Béarn Bigorre,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+106.0,France Bleu Béarn Bigorre,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3027.0,France Bleu Belfort-Montbéliard,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+107.0,France Bleu Belfort-Montbéliard,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3028.0,France Bleu Berry,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+108.0,France Bleu Berry,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3029.0,France Bleu Besançon,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+109.0,France Bleu Besançon,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3030.0,France Bleu Bourgogne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+110.0,France Bleu Bourgogne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3031.0,France Bleu Breizh Izel,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+111.0,France Bleu Breizh Izel,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3032.0,France Bleu Champagne-Ardenne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+112.0,France Bleu Champagne-Ardenne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3033.0,France Bleu Cotentin,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+113.0,France Bleu Cotentin,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3034.0,France Bleu Creuse,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+114.0,France Bleu Creuse,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3035.0,France Bleu Drôme Ardèche,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+115.0,France Bleu Drôme Ardèche,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3036.0,France Bleu RCFM,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+116.0,France Bleu RCFM,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3037.0,France Bleu Gard Lozère,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+117.0,France Bleu Gard Lozère,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3038.0,France Bleu Gascogne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+118.0,France Bleu Gascogne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3039.0,France Bleu Gironde,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+119.0,France Bleu Gironde,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3040.0,France Bleu Normandie Seine-Maritime - Eure,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+120.0,France Bleu Normandie Seine-Maritime - Eure,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3041.0,France Bleu Hérault,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+121.0,France Bleu Hérault,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3042.0,France Bleu Isère,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+122.0,France Bleu Isère,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3043.0,France Bleu La Rochelle,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+123.0,France Bleu La Rochelle,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3044.0,France Bleu Limousin,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+124.0,France Bleu Limousin,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3045.0,France Bleu Loire Océan,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+125.0,France Bleu Loire Océan,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3046.0,France Bleu Lorraine Nord,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+126.0,France Bleu Lorraine Nord,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3047.0,France Bleu Maine,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+127.0,France Bleu Maine,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3048.0,France Bleu Mayenne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+128.0,France Bleu Mayenne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3049.0,France Bleu Nord,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+130.0,France Bleu Nord,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3050.0,France Bleu Orléans,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+131.0,France Bleu Orléans,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3051.0,France Bleu Pays Basque,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+132.0,France Bleu Pays Basque,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3052.0,France Bleu Pays d'Auvergne,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+133.0,France Bleu Pays d'Auvergne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3053.0,France Bleu Pays de Savoie,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+134.0,France Bleu Pays de Savoie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3054.0,France Bleu Périgord,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+135.0,France Bleu Périgord,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3055.0,France Bleu Picardie,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+136.0,France Bleu Picardie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3056.0,France Bleu Poitou,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+137.0,France Bleu Poitou,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3057.0,France Bleu Provence,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+138.0,France Bleu Provence,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3058.0,France Bleu Roussillon,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+139.0,France Bleu Roussillon,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3059.0,France Bleu Saint-Étienne Loire,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+140.0,France Bleu Saint-Étienne Loire,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3060.0,France Bleu Sud Lorraine,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+141.0,France Bleu Sud Lorraine,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3061.0,France Bleu Occitanie,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+142.0,France Bleu Occitanie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3062.0,France Bleu Touraine,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+143.0,France Bleu Touraine,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3063.0,France Bleu Vaucluse,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+144.0,France Bleu Vaucluse,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+3064.0,France Inter,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5100.0,France Inter,,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+3065.0,France Culture,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5200.0,France Culture,,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+3066.0,France Musique,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5300.0,France Musique,,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+3067.0,FIP,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5400.0,FIP,,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+3068.0,Franceinfo:,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5600.0,Franceinfo:,,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+262.0,Franceinfo:,MPEG-4/HD,620.0,12732 V,tp F12,0,,,False,Alouette,m 1,,DVB-S2,Fre
+3069.0,Mouv',,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+5800.0,Mouv',,,11480 H,tp D1,0,,,False,Alouette,3/4,3167,DVB-S2,Fre
+3079.0,Africa Radio,,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+3080.0,Radio Nova (France),,,11471 V,tp D2,0,,,False,Alouette,3/4,29950,DVB-S2,Fre
+196.0,(feeds),,1962.0,11472 H,tp D1,0,Viaccess,,False,Alouette,4/5,9900,DVB-S2,
+129.0,France Bleu,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+150.0,RCF National,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+151.0,RCF Pays de l'Ain,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+152.0,RCF Allier,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+153.0,RCF Alpes-Provence,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+154.0,RCF Orne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+155.0,RCF Pays d'Aude,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+156.0,RCF en Berry,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+157.0,RCF en Bourgogne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+158.0,RCF Besançon,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+159.0,RCF Drôme,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+160.0,RCF Bordeaux,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+161.0,RCF Alpha,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+162.0,RCF Touraine,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+163.0,RCF Isère,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+164.0,RCF Loir-et-Cher,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+165.0,RCF Haute-Loire,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+166.0,RCF Anjou,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+167.0,RCF Reims-Ardennes,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+168.0,RCF Cur de Champagne,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+169.0,RCF Lyon,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+170.0,RCF Savoie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+171.0,RCF Haute-Savoie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+172.0,RCF Haute-Normandie,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+173.0,RCF Vaucluse,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+174.0,RCF Vendée,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+175.0,RCF Poitou,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+176.0,RCF Limousin,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+177.0,RCF Corrèze,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+178.0,RCF Jerico Moselle,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+194.0,Radio Espérance,,,11472 H,tp D1,0,,,False,Alouette,4/5,9900,DVB-S2,Fre
+,TDF,144-10001,,11480 H,tp D1,0,,https://www.lyngsat.com/providers/fr/TDF.html,True,TDF,3/4,3167,DVB-S2,
+2100.0,Radio Classique,,,11480 H,tp D1,0,,,False,TDF,3/4,3167,DVB-S2,Fre
+4100.0,RMC,,,11480 H,tp D1,0,,,False,TDF,3/4,3167,DVB-S2,Fre
+4200.0,BFM Business Radio,,,11480 H,tp D1,0,,,False,TDF,3/4,3167,DVB-S2,Fre
+6100.0,M Radio,,,11480 H,tp D1,0,,,False,TDF,3/4,3167,DVB-S2,Fre
+7100.0,Sud Radio,,,11480 H,tp D1,0,,,False,TDF,3/4,3167,DVB-S2,Fre
+,Bis TV,1375-20200,,11512 V,tp D4,0,Viaccess,,False,TDF,2/3,29950,DVB-S2,
+322.0,Fransat Info promo,MPEG-4/HD,241.0,11554 V,tp D6,0,,,False,TDF,3/4,29950,DVB-S2,Fre
+,RAI,318-1,,11637 V,tp D10,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI,m 1,,DVB-S2,
+,RAI,318-1,,11637 V,tp D10,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI,m 1,,DVB-S2,
+,RAI,1-1,,12627 H,tp F5,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI,m 2,,DVB-S2,
+,RAI,1-1,,12627 H,tp F5,0,,https://www.lyngsat.com/providers/it/RAI.html,True,RAI,m 2,,DVB-S2,
+,RAI mux MR 3,8572-133,,11637 V,tp D10,0,,,False,RAI,m 7,,DVB-S2,
+1211.0,Rai 3 Abruzzo (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11637 V,tp D10,0,,,False,RAI,m 7,,DVB-S2,Ita
+1513.0,Rai 3 Abruzzo (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11637 V,tp D10,0,,,False,RAI,m 8,,DVB-S2,Ita
+1213.0,Rai 3 Lazio (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,11637 V,tp D10,0,,,False,RAI,m 7,,DVB-S2,Ita
+1261.0,Rai 3 Lazio (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/HD,271.0,12627 H,tp F5,0,,,False,RAI,m 3,,DVB-S2,Ita
+,RAI mux MR 9,8572-193,,11637 V,tp D10,0,,,False,RAI,m 8,,DVB-S2,
+1511.0,Rai 3 Marche (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11637 V,tp D10,0,,,False,RAI,m 8,,DVB-S2,Ita
+1512.0,Rai 3 Umbria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,272.0,11637 V,tp D10,0,,,False,RAI,m 8,,DVB-S2,Ita
+1263.0,Rai 3 Umbria (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,273.0,12627 H,tp F5,0,,,False,RAI,m 3,,DVB-S2,Ita
+,RAI mux MR 11,8572-213,,11637 V,tp D10,0,,,False,RAI, 10,,DVB-S2,
+1611.0,Rai 3 Campania (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,11637 V,tp D10,0,,,False,RAI, 10,,DVB-S2,Ita
+801.0,[Opsis TV & Docs TV info card],MPEG-4/HD,1911.0,11679 V,tp D12,0,,,False,RAI,2/3,29950,DVB-S2,Fre
+804.0,[TNT info card],MPEG-4/HD,1921.0,11679 V,tp D12,0,,,False,RAI,2/3,29950,DVB-S2,
+,Cairo Communication,8572-263,,12585 H,tp F3,0,,https://www.lyngsat.com/providers/it/Cairo-Communication.html,True,Cairo Communication,m 1,,DVB-S2,
+711.0,La 7,MPEG-4/SD,650.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+751.0,La 7,MPEG-4/HD,1530.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+712.0,La 7 d,MPEG-4/SD,590.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+801.0,Zona DAZN,MPEG-4/HD,1470.0,12585 H,tp F3,0,"Nagravision,Videoguard",,False,Cairo Communication,m 1,,DVB-S2,Ita
+3001.0,Italia 121,MPEG-4/SD,3011.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3002.0,Arte Italia 124,MPEG-4/SD,3021.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3003.0,Arte Italia 125,MPEG-4/SD,3031.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3004.0,Italia 126,MPEG-4/SD,3041.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3005.0,Italia 127,MPEG-4/SD,3051.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3006.0,Italia 135,MPEG-4/SD,3061.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+3007.0,Italia 134,MPEG-4/SD,3071.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4002.0,Donna TV,MPEG-4/SD,412.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4003.0,Alma TV,MPEG-4/SD,422.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4004.0,TeleCampione,MPEG-4/SD,432.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+4010.0,Parole di Vita,MPEG-4/SD,492.0,12585 H,tp F3,0,,,False,Cairo Communication,m 1,,DVB-S2,Ita
+,Sardegna Locale 1,8572-43009,,12585 H,tp F3,0,,https://www.lyngsat.com/providers/it/Sardegna-Locale-1.html,True,Sardegna Locale 1, 11,,DVB-S2,
+9901.0,Videolina,MPEG-4/HD,1062.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9902.0,L'Unione TV,MPEG-4/HD,1282.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9903.0,Sardegna 1,MPEG-4/SD,1283.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9904.0,Tele Costa Smeralda,MPEG-4/HD,1285.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9905.0,Supersound,MPEG-4/HD,950.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9906.0,Terranova TV Sardegna,MPEG-4/SD,960.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9907.0,Teleregione Live,MPEG-4/HD,970.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9908.0,Telesardegna,MPEG-4/HD,980.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9909.0,Uno 4,MPEG-4/SD,990.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9910.0,Catalan TV,MPEG-4/SD,1000.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9912.0,Radio TV Sarda,MPEG-4/HD,1020.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9914.0,Canale Italia Sardegna,MPEG-4/SD,1040.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9915.0,Super TV Aristanis,MPEG-4/HD,1050.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9916.0,Odeon 24,MPEG-4/SD,1060.0,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+9917.0,Radio Sintony,,,12585 H,tp F3,0,,,False,Sardegna Locale 1, 11,,DVB-S2,Ita
+,RAI mux A,8572-1,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,
+1001.0,Rai Sport HD,MPEG-4/HD,201.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita Qaa
+1051.0,Rai Sport HD,HEVC/HD,201.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita Qaa
+1002.0,Rai Movie,MPEG-4/HD,202.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita Qaa
+1004.0,Rai Gulp,MPEG-4/SD,204.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+1005.0,Rai Yoyo,MPEG-4/SD,205.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+1006.0,Rai Premium,MPEG-4/SD,206.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita Qaa
+1007.0,Rai Storia,MPEG-4/SD,207.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+1012.0,[Rai Radio info card],MPEG-4/SD,208.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+1061.0,[Rai Radio info card],MPEG-4/SD,210.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+1010.0,Rai Radio 2,,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+59.0,Rai Radio 2,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+1011.0,Rai Radio 3,,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+57.0,Rai Radio 3,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+1022.0,Rai Radio 1,,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Ita
+56.0,Rai Radio 1,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+,RAI mux B,8572-2,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,
+1053.0,Rai Radio 2 Visual,MPEG-4/SD,203.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+1054.0,Rai Scuola,MPEG-4/SD,204.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+1056.0,Rai 4,MPEG-4/SD,206.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita Qaa
+1057.0,Rai 5,MPEG-4/SD,207.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita Qaa
+1058.0,San Marino RTV,MPEG-4/SD,208.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+,RAI mux MR 7,8572-173,,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,
+,RAI mux MR 7,8572-173,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,
+1411.0,Rai 3 Friuli Venezia Giulia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Ita
+1411.0,Rai 3 Friuli Venezia Giulia (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+1412.0,Rai 3 Bis (various),MPEG-4/SD,272.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Ita
+1412.0,Rai 3 Bis (various),MPEG-4/SD,272.0,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+1413.0,Rai 3 Valle d'Aosta (Mon-Fri 07.30-08.00 & Sun 09:15-10.45 & 14.00-14.20 & Mon-Fri 19.30-20.30 & Sat-Sun 19.30-20.00),MPEG-4/SD,273.0,12606 V,tp F6,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Ita
+1413.0,Rai 3 Valle d'Aosta (Mon-Fri 07.30-08.00 & Sun 09:15-10.45 & 14.00-14.20 & Mon-Fri 19.30-20.30 & Sat-Sun 19.30-20.00),MPEG-4/SD,273.0,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 5,,DVB-S2,Ita
+,RAI mux MR 6,8572-163,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,
+1361.0,Rai 3 Veneto (Mon-Fri 07.30-08.00 & 14.00-14.20 & 19.30-20.00),MPEG-4/SD,271.0,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Ita
+1.0,Rai Radio 1 Lazio,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+2.0,Rai Radio 1 Valle d'Aosta,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+3.0,Rai Radio 1 Marche,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+4.0,Rai Radio 1 Puglia,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+5.0,Rai Radio 1 Emilia Romagna,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+6.0,Rai Radio 1 Alto Adige,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+7.0,Rai Radio 1 Sardegna,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+8.0,Rai Radio 1 Molise,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+9.0,Rai Radio 1 Calabria,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+10.0,Rai Radio 1 Toscana,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+11.0,Rai Radio 1 Liguria,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+12.0,Rai Radio 1 Lombardia,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+13.0,Rai Radio 1 Campania,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+14.0,Rai Radio 1 Sicilia,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+15.0,Rai Radio 1 Abruzzo,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+16.0,Rai Radio 1 Umbria,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+17.0,Rai Radio 1 Basilicata,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+18.0,Rai Radio 1 Trentino Alto Adige,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+19.0,Rai Radio 1 Piemonte,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+20.0,Rai Radio 1 Friuli Venezia Giulia,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+21.0,Rai Radio 1 Veneto,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+22.0,Rai Südtirol Radio,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ger
+23.0,Rai Radio Trst A,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Slv
+58.0,Rai Gr Parlamento,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+60.0,Rai Radio 3 Classica,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+61.0,Rai Isoradio,,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Ita
+,RAI mux MR 4,8572-143,,12627 H,tp F5,0,,,False,Sardegna Locale 1,m 3,,DVB-S2,
+2561.0,TF 1 Séries Films,MPEG-4/HD,120.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+2562.0,L'Équipe,MPEG-4/HD,220.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre
+2563.0,Chérie 25,MPEG-4/HD,320.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+2564.0,RMC Découverte,MPEG-4/HD,420.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+2565.0,RMC Story,MPEG-4/HD,520.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+513.0,C8,MPEG-4/HD,120.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Fre Qaa
+515.0,BFM TV,MPEG-4/HD,320.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Fre
+516.0,C News,MPEG-4/HD,420.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Fre
+517.0,C Star,MPEG-4/HD,520.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Fre Qaa
+518.0,Gulli,MPEG-4/HD,620.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 2,,DVB-S2,Fre Qaa
+769.0,Canal + France,MPEG-4/HD,910.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 3,,DVB-S2,Fre
+778.0,Canal + France,MPEG-4/HD,110.0,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1,m 3,,DVB-S2,Fre Qaa
+770.0,Canal + Cinéma France,MPEG-4/HD,210.0,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1,m 3,,DVB-S2,Fre Qaa
+771.0,Canal + Sport France,MPEG-4/HD,310.0,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1,m 3,,DVB-S2,Fre Qaa
+772.0,Planète +,MPEG-4/HD,410.0,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1,m 3,,DVB-S2,Fre
+776.0,LCI,MPEG-4/SD,510.0,12648 V,tp F8,0,,,False,Sardegna Locale 1,m 3,,DVB-S2,Fre
+777.0,Paris Première,MPEG-4/SD,610.0,12648 V,tp F8,0,"Mediaguard,Nagravision",,False,Sardegna Locale 1,m 3,,DVB-S2,Fre Qaa
+257.0,France 2,MPEG-4/HD,120.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+260.0,France 4,MPEG-4/HD,320.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+272.0,France 3,MPEG-4/HD,220.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 1,,DVB-S2,Fre Qaa
+1025.0,M6,MPEG-4/HD,120.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Fre Qaa
+1026.0,W9,MPEG-4/HD,220.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Fre Qaa
+1031.0,ARTE Français,MPEG-4/HD,320.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Fre Qaa Ger
+1045.0,France 5,MPEG-4/HD,420.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Fre Qaa
+1046.0,6ter,MPEG-4/HD,520.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 4,,DVB-S2,Fre Qaa
+1537.0,TF 1,MPEG-4/HD,120.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre Qaa
+1538.0,NRJ 12,MPEG-4/HD,220.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre Qaa
+1542.0,TMC,MPEG-4/HD,620.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre Qaa
+1544.0,TFX,MPEG-4/HD,520.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre Qaa
+1545.0,LCP Assemblée Nationale,MPEG-4/HD,720.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre
+1545.0,Public Sénat,MPEG-4/HD,720.0,12732 V,tp F12,0,,,False,Sardegna Locale 1,m 6,,DVB-S2,Fre

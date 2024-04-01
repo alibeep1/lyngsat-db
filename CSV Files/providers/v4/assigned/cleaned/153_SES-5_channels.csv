@@ -1,0 +1,228 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,3835 L,tp HEL4,,,,False,,3/4,2000,DVB-S2,
+2020.0,(feeds),,2006.0,11919 H,tp 951,0.0,,,False,,3/4,27500,DVB-S2,
+,,,,3843 R,tp HER5,39.0,,,False,,,,,
+,,,,3913 L,tp HEL8,39.0,,,False,,,,,
+,,,,3918 L,tp HEL8,39.0,,,False,,,,,
+,,,,11747 V,tp 942,0.0,,,False,,,,,
+,,,,11900 V,tp 450,0.0,,,False,,,,,
+1.0,Resurrection TV,0-1MPEG-4/SD,308.0,3845 R,tp HER5,39.0,,,False,,2/3,1945,DVB-S2,Eng
+10.0,Resurrection TV,MPEG-4/SD,2010.0,11919 H,tp 951,0.0,,,False,,3/4,27500,DVB-S2,Eng
+1.0,TVGE Internacional,?-?MPEG-2/SD,301.0,3853 R,tp HER5,39.0,,,False,,2/3,2270,DVB-S2,Spa
+2.0,TVGE Radio,,,3853 R,tp HER5,39.0,,,False,,2/3,2270,DVB-S2,Spa
+1.0,Dove TV (Nigeria),1-15MPEG-4/HD,2001.0,3906 L,tp HEL8,39.0,,,False,,3/5,6732,DVB-S2,Eng
+2.0,Wedding Channel Africa,1-1MPEG-4/SD,201.0,3922 L,tp HEL8,39.0,,,False,,2/3,1415,DVB-S2,Eng
+1.0,Hip TV,?-?MPEG-4/SD,512.0,3924 L,tp HEL8,39.0,,,False,,3/4,1200,DVB-S2,Eng
+1.0,Liberty TV (Nigeria),0-1MPEG-4/SD,258.0,3926 L,tp HEL8,39.0,,,False,,3/4,1210,DVB-S2,Eng
+1.0,Fufa TV,0-0MPEG-4/SD,257.0,3928 L,tp HEL8,39.0,,,False,,2/3,2060,DVB-S2,Eng
+,TV Continental,8192-4096,,3934 L,tp HEL8,39.0,,https://www.lyngsat.com/providers/ng/TV-Continental.html,True,TV Continental,3/5,6270,DVB-S2,
+1.0,TVC News,MPEG-4/SD,613.0,3934 L,tp HEL8,39.0,,,False,TV Continental,3/5,6270,DVB-S2,Eng
+2.0,TVC (Nigeria),MPEG-4/SD,612.0,3934 L,tp HEL8,39.0,,,False,TV Continental,3/5,6270,DVB-S2,Eng
+,BBC World Service,1-315,,4000 R,tp HER9,39.0,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,1/2,18200,DVB-S2,
+,BBC World Service,1-315,,4000 R,tp HER9,39.0,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,1/2,18200,DVB-S2,
+,BBC World Service,3004-322,,4087 L,tp GLL16,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,5/6,1000,DVB-S2,
+,BBC World Service,3004-322,,4087 L,tp GLL16,,,https://www.lyngsat.com/providers/uk/BBC-World-Service.html,True,BBC World Service,5/6,1000,DVB-S2,
+13911.0,(BBC Africa feeds),,6701.0,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,
+13912.0,(BBC Africa feeds),,6711.0,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,
+13914.0,(BBC Africa feeds),,6731.0,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,
+13917.0,(BBC Africa feeds),,6761.0,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,
+13901.0,BBC World Service English East Africa,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Eng
+13901.0,BBC World Service English East Africa,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Eng
+13902.0,BBC World Service English West Africa,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Eng
+13902.0,BBC World Service English West Africa,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Eng
+13907.0,BBC World Service English Europe,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Eng
+13908.0,BBC World Service English Middle East,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Eng
+13910.0,BBC World Service English News,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Eng
+13910.0,BBC World Service English News,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Eng
+13916.0,BBC World Service Arabic,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Ara
+13916.0,BBC World Service Arabic,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Ara
+13928.0,BBC World Service Dari,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Prs
+13929.0,BBC World Service Persian,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Per
+13930.0,BBC World Service Afrique,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Fre
+13930.0,BBC World Service Afrique,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Fre
+13931.0,BBC Gahuza,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,
+13931.0,BBC Gahuza,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,
+13932.0,BBC Hausa Rediyo,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Hau
+13932.0,BBC Hausa Rediyo,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Hau
+13942.0,BBC World Service Pashto,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Pus
+13955.0,BBC World Service Somali,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Som
+13955.0,BBC World Service Somali,,,4087 L,tp GLL16,,,,False,BBC World Service,5/6,1000,DVB-S2,Som
+13960.0,BBC World Service Swahili,,,4000 R,tp HER9,39.0,,,False,BBC World Service,1/2,18200,DVB-S2,Swa
+,Voice of America,196-196,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,True,Voice of America,2/3,1820,DVB-S2,
+1.0,Voice of America,,,4014 R,tp HER9,39.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,True,Voice of America,2/3,1820,DVB-S2,
+62.0,Voice of America,,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/us/Voice-of-America.html,True,Voice of America,3/4,27500,DVB-S2,
+2.0,VoA Rwanda,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+63.0,VoA Rwanda,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+3.0,VoA 1,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,Eng
+64.0,VoA 1,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+4.0,VoA Congo-Brazzaville,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+65.0,VoA Congo-Brazzaville,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+5.0,Radio Sawa Mauritania,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,Ara
+66.0,Radio Sawa Mauritania,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Ara
+6.0,VoA Bambara,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+67.0,VoA Bambara,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+7.0,VoA Somali,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+68.0,VoA Somali,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+9.0,VoA Burundi,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+71.0,VoA Burundi,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+10.0,VoA South Sudan,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+72.0,VoA South Sudan,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+11.0,VoA Ghana,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+73.0,VoA Ghana,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+12.0,VoA Togo,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+74.0,VoA Togo,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+13.0,Khartoum FM,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,Ara
+75.0,Khartoum FM,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Ara
+14.0,VoA Chad,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+76.0,VoA Chad,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+15.0,VoA Central Africa,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+78.0,VoA Central Africa,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+16.0,VoA Kenya,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+79.0,VoA Kenya,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+17.0,VoA Sierra Leone,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+80.0,VoA Sierra Leone,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+18.0,VoA Burkina Faso,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+81.0,VoA Burkina Faso,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+19.0,VoA Senegal,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+82.0,VoA Senegal,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+20.0,VoA Niger,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+83.0,VoA Niger,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+21.0,VoA Congo DRC,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+84.0,VoA Congo DRC,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+22.0,VoA Madagascar,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+86.0,VoA Madagascar,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+23.0,VoA Zambia,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+87.0,VoA Zambia,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+24.0,VoA Zimbabwe,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+88.0,VoA Zimbabwe,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+25.0,VoA Swahili,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+89.0,VoA Swahili,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Swa
+26.0,VoA Accra,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+90.0,VoA Accra,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+27.0,VoA Ethiopia,,,4014 R,tp HER9,39.0,,,False,Voice of America,2/3,1820,DVB-S2,
+91.0,VoA Ethiopia,,,11919 H,tp 951,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+,Channels TV,MPEG-4/HD,308.0,4089 L,tp GLL16,,,,False,Voice of America,2/3,2500,DVB-S2,Eng
+1.0,Wap TV,1-1MPEG-4/SD,100.0,4094 L,tp GLL16,,,,False,Voice of America,3/5,1551,DVB-S2,Eng
+1.0,NTA International,1-1MPEG-4/HD,481.0,4097 L,tp GLL16,,,,False,Voice of America,3/5,3365,DVB-S2,Eng
+,Zuku,4-4941,,11727 H,tp 941,0.0,"Conax,Viaccess,Verimatrix",,False,Voice of America,3/4,27500,DVB-S2,
+,Zuku,4-4945,,11804 H,tp 945,0.0,"Conax,Verimatrix",,False,Voice of America,3/4,27500,DVB-S2,
+,Zuku,4-4946,,11823 V,tp 946,0.0,"Conax,Verimatrix",,False,Voice of America,3/4,27500,DVB-S2,
+,Zuku,4-4949,,11881 H,tp 949,0.0,"Conax,Verimatrix",,False,Voice of America,3/4,27500,DVB-S2,
+962.0,ITT FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+964.0,Dodoma FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Swa
+965.0,Salt FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+966.0,Radio Simba,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Lug
+968.0,Wasafi FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+972.0,Nation FM (Kenya),,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+973.0,Sibuka FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+977.0,Clouds FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+984.0,DW-Radio FM 1,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+1021.0,Radio Icengelo,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+1022.0,Hope FM,,,11727 H,tp 941,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+,StarSat,222-4243,,11766 H,tp 243,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4244,,11785 V,tp 244,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4248,,11862 V,tp 248,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4252,,11938 V,tp 252,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4253,,11958 H,tp 953,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4254,,11977 V,tp 254,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4255,,11996 H,tp 255,0.0,"Conax,Panaccess",,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4259,,12073 H,tp 259,0.0,"Conax,Panaccess",,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4269,,12265 H,tp 269,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4271,,12303 H,tp 271,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4273,,12341 H,tp 273,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4275,,12380 H,tp 275,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+,StarSat,222-4277,,12418 H,tp 277,0.0,Conax,,False,Voice of America,3/4,27500,DVB-S2,
+7912.0,Super FM (Mozambique),,,11785 V,tp 244,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Por
+7916.0,Radio Indico,,,11785 V,tp 244,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Por
+7932.0,Radio Haq,,,11785 V,tp 244,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Por
+1.0,Zuku Zone,MPEG-4/SD,1010.0,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+963.0,Mazingira FM,,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Swa
+974.0,Capital FM (Kenya),,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+975.0,HomeBoyz Radio,,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+976.0,East FM (Kenya),,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+986.0,Eiraka Radio,,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+988.0,East Africa Radio,,,11804 H,tp 945,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+967.0,Zodiak Radio,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+969.0,Kass FM,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+970.0,Q FM (Zambia),,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+978.0,Radio Waumini,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+979.0,Radio Maisha,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,
+980.0,MBC Radio 1,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+981.0,MBC Radio 2,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+985.0,Uvinza FM,,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+987.0,Radio One (Tanzania),,,11881 H,tp 949,0.0,,,False,Voice of America,3/4,27500,DVB-S2,Eng
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,1-21,,11919 H,tp 951,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,4-4957,,12034 H,tp 957,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,27500,DVB-S2,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,30000,DVB-S2,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,30000,DVB-S2,
+,SES,4-4958,,12054 V,tp 958,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,3/4,30000,DVB-S2,
+4.0,Hope Channel Africa,MPEG-4/SD,2004.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+5.0,Bet 9JA Virtual Game 2,MPEG-4/SD,2005.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+11.0,Bet 9JA Virtual Game,MPEG-4/SD,2011.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+61.0,VoA TV Africa,MPEG-4/HD,2061.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+69.0,VoA TV Global,MPEG-4/HD,2069.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2003.0,Kiron UK Numbers,MPEG-4/HD,481.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2013.0,SBN International,MPEG-2/SD,2003.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng Som
+2021.0,Kiron Fast League,MPEG-4/HD,49.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2022.0,Kiron SoccerBet,MPEG-4/HD,64.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2023.0,Kiron Champions,MPEG-4/HD,52.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2027.0,Kiron Spin & Win,MPEG-4/HD,51.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2028.0,Kiron Tournament,MPEG-4/HD,33.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2029.0,Highlight Games Soccerbet,MPEG-4/HD,67.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+2101.0,The Word Network,MPEG-4/HD,61.0,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+51.0,The Liberty Radio Network,,,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+57.0,TWR Africa 2,,,11919 H,tp 951,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+8100.0,StarTimes TV Guide promo,MPEG-4/SD,1110.0,11996 H,tp 255,0.0,,,False,SES,3/4,27500,DVB-S2,Eng
+,Globecast,4-4956,,12015 V,tp 956,0.0,,https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,3/4,29950,DVB-S2,
+1201.0,BYU TV Global,MPEG-4/SD,4608.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Spa Por Ibo Swa Ara Yor Eng Fre
+5808.0,France 24 Français,MPEG-2/SD,1208.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Fre
+5811.0,Tele Congo,MPEG-2/SD,1211.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Fre
+5816.0,Vatican Media,MPEG-2/SD,1216.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Ita
+5818.0,France 24 English,MPEG-2/SD,1218.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Eng
+5822.0,TRT World,MPEG-4/HD,1222.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Eng
+5841.0,Africanews,MPEG-2/SD,1241.0,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Eng Fre
+834.0,RFI Langues 2,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,
+856.0,RFI Français,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Fre
+857.0,RFI Português,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Por
+861.0,RFI Português,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Por
+858.0,RFI Kiswahili,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Swa
+860.0,RFI Hausa,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Hau
+862.0,RFI Mandenkan,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Man
+868.0,RFI Fulfulde,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Ful
+5844.0,West Africa Democracy Radio,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Eng
+5891.0,Radio Congo,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,Fre
+5892.0,Radio Vaticana Europa,,,12015 V,tp 956,0.0,,,False,Globecast,3/4,29950,DVB-S2,
+8005.0,Gabriele TV Africa,MPEG-2/SD,611.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,
+8020.0,DW English,MPEG-4/SD,811.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng
+5906.0,DW English,MPEG-4/HD,1110.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+8031.0,CCTV 4 Europe,MPEG-2/SD,105.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Chi
+8032.0,CGTN Documentary,MPEG-2/SD,107.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng
+8033.0,CGTN Français,MPEG-2/SD,110.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Fre
+8034.0,CGTN,MPEG-2/SD,111.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng
+8036.0,MTA 4 Africa,MPEG-2/SD,1219.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng Fre Urd Swa
+8064.0,Bet 9JA Stadium LaLiga,MPEG-4/SD,2001.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng
+8065.0,Bet 9JA Stadium Serie A,MPEG-4/SD,2002.0,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Eng
+8021.0,DW-Radio FM 2,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Hau
+8022.0,DW-Radio FM 3,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Swa
+8023.0,DW-Radio FM 4,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Fre
+8024.0,DW-Radio FM 5,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,Por
+8025.0,DW-Radio 8,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,
+8026.0,DW-Radio 9,,,12034 H,tp 957,0.0,,,False,Globecast,3/4,27500,DVB-S2,
+5908.0,Bet 9JA League 2,MPEG-4/SD,57.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5915.0,Bet 9JA Football,MPEG-4/SD,2004.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5916.0,Bet 9JA Dog Racing,MPEG-4/SD,55.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5917.0,Bet 9JA Gold,MPEG-4/SD,53.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5920.0,Tivi5Monde,MPEG-2/SD,304.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Fre
+5921.0,TV5Monde Style,MPEG-4/HD,1225.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Fre
+5922.0,TV5Monde Afrique,MPEG-2/SD,1226.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Fre
+5929.0,Bet 9JA Serie A,MPEG-4/SD,65.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5937.0,Bet 9JA Spin and Win,MPEG-4/SD,2007.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5938.0,Bet 9JA Stadium Premier,MPEG-4/SD,2006.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+5980.0,Reuters Live,MPEG-4/HD,3551.0,12054 V,tp 958,0.0,,,False,Globecast,3/4,30000,DVB-S2,Eng
+7715.0,TBC FM,,,12265 H,tp 269,0.0,,,False,Globecast,3/4,27500,DVB-S2,Swa
+7721.0,TBC Taifa,,,12265 H,tp 269,0.0,,,False,Globecast,3/4,27500,DVB-S2,Swa
+7605.0,StarTimes TV Guide Français,MPEG-4/SD,367.0,12303 H,tp 271,0.0,,,False,Globecast,3/4,27500,DVB-S2,Fre

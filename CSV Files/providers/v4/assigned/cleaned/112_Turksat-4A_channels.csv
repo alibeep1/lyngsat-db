@@ -1,0 +1,463 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+16300.0,TRT 4K,1070-43104HEVC/UHD,4855.0,11767 V,tp 31,46-50,,,False,,3/4,15000,DVB-S2,Tur
+,Tivibu,1070-43203,,11789 H,tp 32,50-53,"Irdeto,Videoguard",,False,,3/4,20000,DVB-S2,
+,Tivibu,1070-43401,,11853 H,tp 34,50-53,"BISS,Irdeto,Videoguard",,False,,3/4,25000,DVB-S2,
+,Tivibu,1070-43402,,11880 H,tp 34,50-53,"Irdeto,Videoguard",,False,,3/4,20000,DVB-S2,
+,TRT,1070-43105,,11794 V,tp 31,46-50,,https://www.lyngsat.com/providers/tr/TRT.html,True,TRT,3/4,30000,DVB-S2,
+,TRT,1070-43105,,11794 V,tp 31,46-50,,https://www.lyngsat.com/providers/tr/TRT.html,True,TRT,3/4,30000,DVB-S2,
+,TRT,1070-40301,,11958 V,tp 3,46-50,,https://www.lyngsat.com/providers/tr/TRT.html,True,TRT,5/6,27500,DVB-S2,
+,TRT,1070-40301,,11958 V,tp 3,46-50,,https://www.lyngsat.com/providers/tr/TRT.html,True,TRT,5/6,27500,DVB-S2,
+10600.0,TRT Çocuk,MPEG-4/HD,1600.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur
+10504.0,TRT Çocuk,MPEG-2/SD,1504.0,11958 V,tp 3,46-50,,,False,TRT,5/6,27500,DVB-S2,Tur
+10601.0,TRT 1,MPEG-4/HD,1601.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur
+10500.0,TRT 1,MPEG-2/SD,1500.0,11958 V,tp 3,46-50,,,False,TRT,5/6,27500,DVB-S2,Tur
+10603.0,TRT Spor,MPEG-4/HD,1603.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur
+10604.0,TRT Belgesel,MPEG-4/HD,1604.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur Eng
+10505.0,TRT Belgesel,MPEG-2/SD,1505.0,11958 V,tp 3,46-50,,,False,TRT,5/6,27500,DVB-S2,Tur Eng
+10608.0,TRT Müzik,MPEG-4/HD,1608.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur
+10507.0,TRT Müzik,MPEG-2/SD,1507.0,11958 V,tp 3,46-50,,,False,TRT,5/6,27500,DVB-S2,Tur
+10630.0,TRT Diyanet Çocuk,MPEG-4/HD,1630.0,11794 V,tp 31,46-50,,,False,TRT,3/4,30000,DVB-S2,Tur
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-43301,,11837 V,tp 33,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,30000,DVB-S2,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-40101,,11916 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41901,,12344 V,tp 19L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-41902,,12380 V,tp 19U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42101,,12422 V,tp 21L,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,27500,DVB-S2,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42201,,12422 H,tp 22L,50-53,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42102,,12458 V,tp 21U,46-50,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,3/4,30000,DVB-S3,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,12630 V,tp 26,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+,Türksat,1070-42801,,18710 L,,,,https://www.lyngsat.com/providers/tr/Turksat.html,True,Türksat,2/3,12500,DVB-S2,
+52200.0,TV 100 (Turkey),MPEG-4/HD,7500.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+51312.0,TV 100 (Turkey),MPEG-2/SD,6312.0,11916 V,tp 1,46-50,,,False,Türksat,3/4,30000,DVB-S3,Tur
+52201.0,Ekotürk,MPEG-4/HD,7501.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52202.0,Cadde TV,MPEG-4/SD,7502.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52205.0,SZC,MPEG-4/HD,7505.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52207.0,Gözde TV,MPEG-4/HD,7507.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52210.0,Kibris Genç TV,MPEG-4/SD,7510.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52211.0,Agro TV (Turkey),MPEG-4/HD,7511.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52212.0,Van TV,MPEG-4/SD,7512.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52213.0,Kanal 3 (Turkey),MPEG-4/HD,7513.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52214.0,Tek Rumeli TV,MPEG-4/HD,7514.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52217.0,Kibris TV,MPEG-4/HD,7517.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+52220.0,7/24 Spor,MPEG-4/HD,7520.0,11837 V,tp 33,46-50,,,False,Türksat,2/3,30000,DVB-S2,Tur
+14800.0,Tivibu promo,MPEG-4/HD,3800.0,11853 H,tp 34,50-53,,,False,Türksat,3/4,25000,DVB-S2,Tur
+14801.0,Tivibu Spor,MPEG-4/HD,3801.0,11853 H,tp 34,50-53,,,False,Türksat,3/4,25000,DVB-S2,Tur
+,(feeds),,,11856 V,tp 33,,,,False,Türksat,5/6,2500,DVB-S2,
+,(feeds),,,12442 H,tp 22,,,,False,Türksat,3/4,3333,DVB-S3,
+,Turkuvaz,1070-40102,,11883 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,4800,DVB-S4,
+,Turkuvaz,1070-40102,,11883 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,4800,DVB-S4,
+,Turkuvaz,1070-40102,,11883 V,tp 1,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,4800,DVB-S4,
+,Turkuvaz,1070-40504,,11999 V,tp 5,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,3/4,11666,DVB-S2,
+,Turkuvaz,1070-40504,,11999 V,tp 5,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,3/4,11666,DVB-S2,
+,Turkuvaz,1070-40504,,11999 V,tp 5,46-50,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,3/4,11666,DVB-S2,
+,Turkuvaz,1070-40801,,12054 H,tp 8,50-53,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,27500,DVB-S2,
+,Turkuvaz,1070-40801,,12054 H,tp 8,50-53,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,27500,DVB-S2,
+,Turkuvaz,1070-40801,,12054 H,tp 8,50-53,,https://www.lyngsat.com/providers/tr/Turkuvaz.html,True,Turkuvaz,5/6,27500,DVB-S2,
+10400.0,ATV Avrupa,MPEG-2/SD,1400.0,11883 V,tp 1,46-50,,,False,Turkuvaz,5/6,4800,DVB-S4,Tur
+10401.0,A Haber,MPEG-2/SD,1401.0,11883 V,tp 1,46-50,,,False,Turkuvaz,5/6,4800,DVB-S4,Tur
+10301.0,A Haber,MPEG-2/SD,1301.0,12054 H,tp 8,50-53,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10306.0,A Haber,MPEG-4/HD,1306.0,12054 H,tp 8,50-53,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+51300.0,Kanal B,MPEG-2/SD,6300.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+51302.0,TRT EBA,MPEG-2/SD,6302.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+52002.0,TRT EBA,MPEG-4/HD,7102.0,12083 H,tp 10,50-53,,,False,Turkuvaz,2/3,13750,DVB-S2,Tur
+51304.0,Türksat promo,MPEG-2/SD,6304.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+51305.0,Türksat promo,MPEG-4/HD,6305.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+52004.0,Türksat promo,MPEG-4/SD,7104.0,12083 H,tp 10,50-53,,,False,Turkuvaz,2/3,13750,DVB-S2,Tur
+50201.0,Türksat promo,MPEG-2/SD,5201.0,12422 H,tp 22L,50-53,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+50301.0,Türksat promo,MPEG-4/SD,5301.0,12458 V,tp 21U,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+50302.0,Türksat promo,MPEG-4/HD,5302.0,12458 V,tp 21U,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+50303.0,Türksat promo,MPEG-4/HD,5303.0,12458 V,tp 21U,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+50304.0,Türksat promo,MPEG-4/HD,5304.0,12458 V,tp 21U,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+52100.0,Türksat promo,MPEG-2/SD,7200.0,12630 V,tp 26,,,,False,Turkuvaz,2/3,12500,DVB-S2,Tur
+52100.0,Türksat promo,MPEG-2/SD,7200.0,18710 L,,,,,False,Turkuvaz,2/3,12500,DVB-S2,Tur
+51306.0,[Türksat info card],MPEG-2/SD,6306.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+51307.0,Kablo Info,MPEG-4/HD,6307.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+50705.0,Kablo Info,MPEG-4/HD,5705.0,12344 V,tp 19L,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+51311.0,EuroStar,MPEG-2/SD,6311.0,11916 V,tp 1,46-50,,,False,Turkuvaz,3/4,30000,DVB-S3,Tur
+10501.0,TRT Haber,MPEG-2/SD,1501.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10502.0,TRT Türk,MPEG-2/SD,1502.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10503.0,TBMM TV (Mon-Wed 14-19),MPEG-4/HD,1503.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10503.0,TRT 3 Spor (Mon-Wed 19-14 & Thu-Sun),MPEG-4/HD,1503.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur Qaa
+10506.0,TRT 2,MPEG-4/HD,1506.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10525.0,TRT Spor Yildiz,MPEG-4/HD,1525.0,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10508.0,TRT Radyo 1,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10509.0,TRT Radyo 3,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10510.0,TRT GAP Diyarbakir,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10511.0,TRT FM,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10512.0,TRT Radyo Haber,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10513.0,TRT Radyo Kurdî,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Kur
+10514.0,TRT World,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+12.0,TRT World,MPEG-4/HD,547.0,12554 V,tp 24,,,,False,Turkuvaz,3/4,22500,DVB-S2,Eng
+52104.0,TRT World,MPEG-4/HD,7204.0,12630 V,tp 26,,,,False,Turkuvaz,2/3,12500,DVB-S2,Eng Eng
+12.0,TRT World,MPEG-4/HD,547.0,18634 L,,,,,False,Turkuvaz,3/4,22500,DVB-S2,Eng
+52104.0,TRT World,MPEG-4/HD,7204.0,18710 L,,,,,False,Turkuvaz,2/3,12500,DVB-S2,Eng Eng
+10515.0,TRT TSR,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10516.0,Meteorolojinin Sesi Radyosu,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10517.0,TRT Voice of Turkey West,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+10519.0,TRT Nagme,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10520.0,TRT Memleketim FM,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10521.0,TRT Türkü,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+10523.0,TRT Voice of Turkey East,,,11958 V,tp 3,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+,D-Smart,66-1,,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+,D-Smart,66-3,,12034 V,tp 7,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+,D-Smart,66-9,,12188 V,tp 11,46-50,"Irdeto,Videoguard",,False,Turkuvaz,5/6,27500,DVB-S2,
+,D-Smart,66-7,,12245 H,tp 16,46-50,"Irdeto,Videoguard",,False,Turkuvaz,5/6,27500,DVB-S2,
+1101.0,Kanal D (Turkey),MPEG-2/SD,101.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+1701.0,Kanal D (Turkey),MPEG-4/HD,101.0,12245 H,tp 16,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+1103.0,FHM Turk,MPEG-2/SD,103.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+1105.0,NHK World Japan,MPEG-2/SD,105.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Eng
+1115.0,Cartoon Network Türkiye,MPEG-2/SD,115.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur Qaa
+1121.0,Ilke TV,MPEG-2/SD,121.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+1155.0,[test card],MPEG-2/SD,155.0,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,
+51202.0,[test card],MPEG-4/SD,6202.0,12380 V,tp 19U,46-50,,,False,Turkuvaz,3/4,27500,DVB-S2,
+1167.0,Show Radyo,,,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+1169.0,Radyo Viva,,,11977 H,tp 6,46-50,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+16400.0,A News,MPEG-4/HD,4905.0,11999 V,tp 5,46-50,,,False,Turkuvaz,3/4,11666,DVB-S2,Eng
+16401.0,A Para,MPEG-4/HD,4906.0,11999 V,tp 5,46-50,,,False,Turkuvaz,3/4,11666,DVB-S2,Tur
+16402.0,A2,MPEG-4/HD,4907.0,11999 V,tp 5,46-50,,,False,Turkuvaz,3/4,11666,DVB-S2,Tur
+10314.0,A2,MPEG-2/SD,1314.0,12054 H,tp 8,50-53,,,False,Turkuvaz,5/6,27500,DVB-S2,Tur
+16403.0,Vav TV,MPEG-4/HD,4908.0,11999 V,tp 5,46-50,,,False,Turkuvaz,3/4,11666,DVB-S2,Tur
+1.0,Türkmeneli TV,65535-1MPEG-4/HD,33.0,12009 V,tp 5,46-50,,,False,Turkuvaz,3/4,4444,DVB-S2,Tur
+1.0,Türkmeneli FM,,,12009 V,tp 5,46-50,,,False,Turkuvaz,3/4,4444,DVB-S2,Tur
+,Dogus Yayin Grubu,1070-40601,,12015 H,tp 6,46-50,,https://www.lyngsat.com/providers/tr/Dogus-Yayin-Grubu.html,True,Dogus Yayin Grubu,5/6,27500,DVB-S2,
+10800.0,Star TV (Turkey),MPEG-2/SD,1800.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10805.0,Star TV (Turkey),MPEG-4/HD,1805.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10801.0,NTV (Turkey),MPEG-2/SD,1801.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10806.0,NTV (Turkey),MPEG-4/HD,1806.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10802.0,DMAX Türkiye,MPEG-2/SD,1802.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10815.0,DMAX Türkiye,MPEG-4/HD,1815.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10819.0,TLC Türkiye,MPEG-4/HD,1819.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10820.0,TLC Türkiye,MPEG-2/SD,1820.0,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10807.0,NTV Radyo,,,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10809.0,Kral Pop Radyo,,,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10810.0,Kral FM,,,12015 H,tp 6,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1301.0,CNN Türk,MPEG-2/SD,101.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur Eng
+1702.0,CNN Türk,MPEG-4/HD,102.0,12245 H,tp 16,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1303.0,Teve 2,MPEG-2/SD,103.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1703.0,Teve 2,MPEG-4/HD,103.0,12245 H,tp 16,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur Qaa
+1304.0,Zaza TV,MPEG-2/SD,104.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1305.0,Serhat TV,MPEG-2/SD,129.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1307.0,Dream Türk,MPEG-2/SD,107.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1706.0,Dream Türk,MPEG-4/HD,106.0,12245 H,tp 16,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1309.0,Euro D,MPEG-4/HD,109.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1318.0,TV 8 International,MPEG-2/SD,118.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1320.0,Tele 1,MPEG-4/HD,120.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1321.0,Tele 1,MPEG-2/SD,121.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1325.0,Anadolu Dernek TV,MPEG-2/SD,125.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1339.0,Rumeli TV,MPEG-2/SD,139.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1343.0,Ekin Türk,MPEG-2/SD,143.0,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1371.0,CNN Türk Radyo,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1373.0,Radyo D,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1375.0,Slow Türk,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1379.0,Radyo Seymen,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1380.0,Radyo 45'lik,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1381.0,Metro FM (Turkey),,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1383.0,Süper FM,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1385.0,JoyTurk,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1387.0,Virgin Radio Türkiye,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1389.0,Joy FM (Turkey),,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+1399.0,CGTN Türk,,,12034 V,tp 7,46-50,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10300.0,ATV Türkiye,MPEG-2/SD,1300.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10305.0,ATV Türkiye,MPEG-4/HD,1305.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10302.0,A Spor,MPEG-2/SD,1302.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10307.0,A Spor,MPEG-4/HD,1307.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10303.0,Minika Çocuk,MPEG-2/SD,1303.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur Qaa
+10304.0,Minika Go,MPEG-2/SD,1304.0,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur Qaa
+10308.0,A Haber Radyo,,,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10309.0,A Spor Radyo,,,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10313.0,Vav Radyo,,,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+10315.0,Radyo Turkuvaz,,,12054 H,tp 8,50-53,,,False,Dogus Yayin Grubu,5/6,27500,DVB-S2,Tur
+,Digiturk,42-40901,,12073 V,tp 9,46-50,Irdeto,,False,Dogus Yayin Grubu,3/4,27500,DVB-S2,
+,Digiturk,1070-42001,,12379 H,tp 20U,46-50,Irdeto,,False,Dogus Yayin Grubu,3/4,30000,DVB-S3,
+,,1070-41005,,12083 H,tp 10,50-53,,,False,Dogus Yayin Grubu,2/3,13750,DVB-S2,
+,Kanal 7,1070-41002,,12095 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,5/6,4800,DVB-S4,
+,Kanal 7,1070-41002,,12095 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,5/6,4800,DVB-S4,
+11500.0,Kanal 7,MPEG-2/SD,2500.0,12095 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,5/6,4800,DVB-S4,Tur
+11500.0,Kanal 7,MPEG-2/SD,2500.0,12095 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,5/6,4800,DVB-S4,Tur
+,Kanal 7,1070-41003,,12103 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,2/3,8333,DVB-S2,
+,Kanal 7,1070-41003,,12103 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,2/3,8333,DVB-S2,
+11600.0,Kanal 7,MPEG-4/HD,2525.0,12103 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,2/3,8333,DVB-S2,Tur
+11600.0,Kanal 7,MPEG-4/HD,2525.0,12103 H,tp 10,50-53,,https://www.lyngsat.com/providers/tr/Kanal-7.html,True,Kanal 7,2/3,8333,DVB-S2,Tur
+11502.0,Ülke TV,MPEG-2/SD,2502.0,12095 H,tp 10,50-53,,,False,Kanal 7,5/6,4800,DVB-S4,Tur
+11601.0,Ülke TV,MPEG-4/HD,2526.0,12103 H,tp 10,50-53,,,False,Kanal 7,2/3,8333,DVB-S2,Tur
+11501.0,Radyo 7,,,12095 H,tp 10,50-53,,,False,Kanal 7,5/6,4800,DVB-S4,Tur
+,The Walt Disney Company Turkey,1-41404,,12196 H,tp 14,50-53,"Irdeto,Videoguard",https://www.lyngsat.com/providers/us/The-Walt-Disney-Company-Turkey.html,True,The Walt Disney Company Turkey,3/4,10400,DVB-S2,
+13105.0,National Geographic Wild Türkiye,MPEG-4/HD,2955.0,12196 H,tp 14,50-53,"Irdeto,Videoguard",,False,The Walt Disney Company Turkey,3/4,10400,DVB-S2,Tur Eng
+13106.0,National Geographic Türkiye,MPEG-4/HD,2956.0,12196 H,tp 14,50-53,"Irdeto,Videoguard",,False,The Walt Disney Company Turkey,3/4,10400,DVB-S2,Tur Eng
+13107.0,FX Türkiye,MPEG-4/HD,2957.0,12196 H,tp 14,50-53,"Irdeto,Videoguard",,False,The Walt Disney Company Turkey,3/4,10400,DVB-S2,Tur Eng
+13108.0,Disney Junior Türkiye & Polska,MPEG-4/HD,2958.0,12196 H,tp 14,50-53,"Irdeto,Videoguard",,False,The Walt Disney Company Turkey,3/4,10400,DVB-S2,Tur Eng
+,Ciner,1070-41401,,12209 H,tp 14,50-53,,https://www.lyngsat.com/providers/tr/Ciner.html,True,Ciner,3/4,10000,DVB-S2,
+11000.0,Show TV,MPEG-4/HD,2000.0,12209 H,tp 14,50-53,,,False,Ciner,3/4,10000,DVB-S2,Tur
+11100.0,Show TV,1070-41402MPEG-2/SD,2100.0,12219 H,tp 14,50-53,,,False,Ciner,3/4,6500,DVB-S6,Tur
+11001.0,Habertürk,MPEG-4/HD,2001.0,12209 H,tp 14,50-53,,,False,Ciner,3/4,10000,DVB-S2,Tur
+11002.0,Bloomberg HT,MPEG-4/HD,2002.0,12209 H,tp 14,50-53,,,False,Ciner,3/4,10000,DVB-S2,Tur
+11003.0,Show Max,MPEG-4/HD,2003.0,12209 H,tp 14,50-53,,,False,Ciner,3/4,10000,DVB-S2,Tur
+11004.0,Haberturk Radyo,,,12209 H,tp 14,50-53,,,False,Ciner,3/4,10000,DVB-S2,Tur
+12500.0,TV Net,1070-41301MPEG-4/HD,1450.0,12213 V,tp 13,46-50,,,False,Ciner,2/3,5833,DVB-S2,Tur
+12501.0,TV Net Radyo,,,12213 V,tp 13,46-50,,,False,Ciner,2/3,5833,DVB-S2,Tur
+,TGRT,1070-41302,,12228 V,tp 13,46-50,,https://www.lyngsat.com/providers/tr/TGRT.html,True,TGRT,5/6,8400,DVB-S8,
+12600.0,TGRT Haber,MPEG-2/SD,2800.0,12228 V,tp 13,46-50,,,False,TGRT,5/6,8400,DVB-S8,Tur
+12601.0,TGRT Belgesel,MPEG-2/SD,2801.0,12228 V,tp 13,46-50,,,False,TGRT,5/6,8400,DVB-S8,Tur
+12602.0,TGRT EU,MPEG-2/SD,2802.0,12228 V,tp 13,46-50,,,False,TGRT,5/6,8400,DVB-S8,Tur
+12603.0,TGRT FM,,,12228 V,tp 13,46-50,,,False,TGRT,5/6,8400,DVB-S8,Tur
+1707.0,Lider Haber,MPEG-4/HD,107.0,12245 H,tp 16,46-50,,,False,TGRT,5/6,27500,DVB-S2,Tur
+1710.0,TAY TV,MPEG-4/HD,110.0,12245 H,tp 16,46-50,,,False,TGRT,5/6,27500,DVB-S2,Tur
+1719.0,Kocaeli TV,MPEG-4/SD,119.0,12245 H,tp 16,46-50,,,False,TGRT,5/6,27500,DVB-S2,Tur
+1721.0,[EYmen info card],MPEG-4/SD,121.0,12245 H,tp 16,46-50,,,False,TGRT,5/6,27500,DVB-S2,Tur
+,Güç Telekom Medya ve Iletisim Ticaret,1070-41501,,12265 V,tp 15,46-50,,https://www.lyngsat.com/providers/tr/Guc-Telekom-Medya-ve-Iletisim-Ticaret.html,True,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,
+14600.0,Sun RTV,MPEG-4/SD,3400.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14601.0,Kanal V,MPEG-4/SD,3401.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14603.0,Tatlises TV,MPEG-4/SD,3403.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14604.0,Tivi 6,MPEG-4/SD,3404.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14606.0,Kanal 26,MPEG-4/SD,3406.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14607.0,GRT TV,MPEG-4/HD,3407.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14608.0,Aksu TV,MPEG-4/SD,3408.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14610.0,ES TV,MPEG-4/SD,3410.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14611.0,Çiftçi TV,MPEG-4/SD,3411.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14612.0,ERTV,MPEG-4/SD,3412.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14613.0,Mercan TV,MPEG-4/SD,3413.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14614.0,Kanal Firat,MPEG-4/SD,3414.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14615.0,BRTV,MPEG-4/SD,3415.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14616.0,Kanal 68,MPEG-4/SD,3416.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14617.0,TV 41,MPEG-4/SD,3417.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14618.0,Mavi Karadeniz TV,MPEG-4/SD,3418.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14619.0,Tempo TV (Turkey),MPEG-4/SD,3419.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14620.0,Ekol TV,MPEG-4/SD,3420.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14621.0,Kanal 23,MPEG-4/SD,3421.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14622.0,Kanal 15,MPEG-4/SD,3422.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14633.0,Ton TV,MPEG-4/HD,3433.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14634.0,Sat 7 Türk,MPEG-4/SD,3434.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14635.0,Cine 1,MPEG-4/SD,3435.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14636.0,Malatya Vuslat TV,MPEG-4/SD,3436.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14637.0,Bir TV,MPEG-4/SD,3437.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14638.0,Trakya Türk,MPEG-4/SD,3438.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14639.0,World Turk,MPEG-4/SD,3439.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14640.0,Diyar TV,MPEG-4/SD,3440.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14641.0,TVA (Turkey),MPEG-4/SD,3441.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14642.0,Kanal 58,MPEG-4/SD,3442.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14645.0,Kanal 12,MPEG-4/SD,3445.0,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14623.0,Power FM (Turkey),,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14624.0,Power Türk FM,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14625.0,Radyo BoomBox,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14626.0,Fenomen Türk,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14627.0,Radyo Fenomen,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14631.0,Seyr FM,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+14647.0,Kafa Radyo,,,12265 V,tp 15,46-50,,,False,Güç Telekom Medya ve Iletisim Ticaret,5/6,27500,DVB-S2,Tur
+,TürkMedya,1070-41702,,12298 V,tp 17L,46-50,,https://www.lyngsat.com/providers/tr/TurkMedya.html,True,TürkMedya,5/6,4800,DVB-S4,
+,TürkMedya,1070-41702,,12298 V,tp 17L,46-50,,https://www.lyngsat.com/providers/tr/TurkMedya.html,True,TürkMedya,5/6,4800,DVB-S4,
+,TürkMedya,1070-41703,,12310 V,tp 17U,46-50,,https://www.lyngsat.com/providers/tr/TurkMedya.html,True,TürkMedya,3/4,15000,DVB-S2,
+,TürkMedya,1070-41703,,12310 V,tp 17U,46-50,,https://www.lyngsat.com/providers/tr/TurkMedya.html,True,TürkMedya,3/4,15000,DVB-S2,
+16600.0,24 TV,MPEG-2/SD,3100.0,12298 V,tp 17L,46-50,,,False,TürkMedya,5/6,4800,DVB-S4,Tur
+16700.0,24 TV,MPEG-4/HD,5055.0,12310 V,tp 17U,46-50,,,False,TürkMedya,3/4,15000,DVB-S2,Tur
+16601.0,360,MPEG-2/SD,3101.0,12298 V,tp 17L,46-50,,,False,TürkMedya,5/6,4800,DVB-S4,Tur
+16701.0,360,MPEG-4/HD,5056.0,12310 V,tp 17U,46-50,,,False,TürkMedya,3/4,15000,DVB-S2,Tur
+16602.0,Alem FM,,,12298 V,tp 17L,46-50,,,False,TürkMedya,5/6,4800,DVB-S4,Tur
+16603.0,Lig Radyo,,,12298 V,tp 17L,46-50,,,False,TürkMedya,5/6,4800,DVB-S4,Tur
+16605.0,Radyo ABC,,,12298 V,tp 17L,46-50,,,False,TürkMedya,5/6,4800,DVB-S4,Tur
+16702.0,TV 4 (Turkey),MPEG-4/HD,5057.0,12310 V,tp 17U,46-50,,,False,TürkMedya,3/4,15000,DVB-S2,Tur
+12700.0,Now,1070-42002MPEG-4/HD,2850.0,12329 H,tp 20L,46-50,,,False,TürkMedya,2/3,6666,DVB-S2,Tur
+12800.0,Now,1070-42003MPEG-2/SD,2875.0,12336 H,tp 20L,46-50,,,False,TürkMedya,3/4,5520,DVB-S5,Tur
+50709.0,Yildiz TV En,MPEG-2/SD,5709.0,12344 V,tp 19L,46-50,,,False,TürkMedya,3/4,30000,DVB-S3,Tur
+50714.0,Bayram FM,,,12344 V,tp 19L,46-50,,,False,TürkMedya,3/4,30000,DVB-S3,Tur
+50721.0,Radyo 2000,,,12344 V,tp 19L,46-50,,,False,TürkMedya,3/4,30000,DVB-S3,Tur
+,Acunmedya,1070-42004,,12346 H,tp 20L,46-50,,https://www.lyngsat.com/providers/tr/Acunmedya.html,True,Acunmedya,3/4,9600,DVB-S9,
+,Acunmedya,1070-42004,,12346 H,tp 20L,46-50,,https://www.lyngsat.com/providers/tr/Acunmedya.html,True,Acunmedya,3/4,9600,DVB-S9,
+,Acunmedya,1070-42005,,12356 H,tp 20L,46-50,,https://www.lyngsat.com/providers/tr/Acunmedya.html,True,Acunmedya,2/3,7100,DVB-S2,
+,Acunmedya,1070-42005,,12356 H,tp 20L,46-50,,https://www.lyngsat.com/providers/tr/Acunmedya.html,True,Acunmedya,2/3,7100,DVB-S2,
+12900.0,TV 8 (Turkey),MPEG-2/SD,2900.0,12346 H,tp 20L,46-50,,,False,Acunmedya,3/4,9600,DVB-S9,Tur Qaa
+15300.0,TV 8 (Turkey),MPEG-4/HD,4300.0,12356 H,tp 20L,46-50,,,False,Acunmedya,2/3,7100,DVB-S2,Tur Qaa
+12901.0,TV 8.5,MPEG-2/SD,2901.0,12346 H,tp 20L,46-50,,,False,Acunmedya,3/4,9600,DVB-S9,Tur
+15301.0,TV 8.5,MPEG-4/HD,4301.0,12356 H,tp 20L,46-50,,,False,Acunmedya,2/3,7100,DVB-S2,Tur
+51420.0,BeIn Sports Haber,MPEG-4/HD,6420.0,12379 H,tp 20U,46-50,,,False,Acunmedya,3/4,30000,DVB-S3,Tur
+51200.0,Berat TV,MPEG-4/SD,6200.0,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50208.0,Berat TV,MPEG-2/SD,5208.0,12422 H,tp 22L,50-53,,,False,Acunmedya,3/4,30000,DVB-S3,Tur
+51201.0,Beyaz TV,MPEG-4/HD,6201.0,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51203.0,Diyanet TV,MPEG-4/HD,6203.0,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50204.0,Diyanet TV,MPEG-2/SD,5204.0,12422 H,tp 22L,50-53,,,False,Acunmedya,3/4,30000,DVB-S3,Tur
+51207.0,Haber Global,MPEG-4/SD,6207.0,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51211.0,Türkiye Polis Radyosu,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50215.0,Türkiye Polis Radyosu,,,12422 H,tp 22L,50-53,,,False,Acunmedya,3/4,30000,DVB-S3,Tur
+51212.0,Diyanet Radyo,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51214.0,Diyanet Kur'an Radyo,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51216.0,Diyanet Risalet Radyo,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51217.0,Küpe FM,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51218.0,Radyo Trio,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51219.0,Radyo Spor,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+51221.0,ST Endüstri Radyo,,,12380 V,tp 19U,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50100.0,Halk TV,MPEG-2/SD,5100.0,12422 V,tp 21L,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50110.0,Gonca TV,MPEG-2/SD,5110.0,12422 V,tp 21L,46-50,,,False,Acunmedya,3/4,27500,DVB-S2,Tur
+50205.0,TRT Avaz Rossiya,MPEG-4/HD,5205.0,12422 H,tp 22L,50-53,BISS,,False,Acunmedya,3/4,30000,DVB-S3,Rus
+50309.0,Al Hadath,MPEG-2/SD,5309.0,12458 V,tp 21U,46-50,,,False,Acunmedya,3/4,30000,DVB-S3,Ara
+,Mega-Choice,6000-3000,,12554 V,tp 24,,,https://www.lyngsat.com/providers/gh/Mega-Choice.html,True,Mega-Choice,3/4,22500,DVB-S2,
+,Mega-Choice,6000-3000,,12554 V,tp 24,,,https://www.lyngsat.com/providers/gh/Mega-Choice.html,True,Mega-Choice,3/4,22500,DVB-S2,
+,Mega-Choice,6000-3000,,18634 L,,,,https://www.lyngsat.com/providers/gh/Mega-Choice.html,True,Mega-Choice,3/4,22500,DVB-S2,
+,Mega-Choice,6000-3000,,18634 L,,,,https://www.lyngsat.com/providers/gh/Mega-Choice.html,True,Mega-Choice,3/4,22500,DVB-S2,
+1.0,Crystal TV Plus,MPEG-4/SD,562.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+1.0,Crystal TV Plus,MPEG-4/SD,562.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+2.0,Crystal TV Prime,MPEG-4/SD,560.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+2.0,Crystal TV Prime,MPEG-4/SD,560.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+4.0,Mega-Choice promo,MPEG-4/SD,2721.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+4.0,Mega-Choice promo,MPEG-4/SD,2721.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+8.0,DW English,MPEG-4/SD,563.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+8.0,DW English,MPEG-4/SD,563.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+11.0,MBC 2 (Saudi Arabia),MPEG-2/SD,62.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Ara
+11.0,MBC 2 (Saudi Arabia),MPEG-2/SD,62.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Ara
+16.0,Lumen Christi TV,MPEG-4/SD,529.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+16.0,Lumen Christi TV,MPEG-4/SD,529.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+18.0,Footprint TV,MPEG-4/SD,1940.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+18.0,Footprint TV,MPEG-4/SD,1940.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+19.0,Max TV,MPEG-4/SD,544.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+19.0,Max TV,MPEG-4/SD,544.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+21.0,MBC Max,MPEG-2/SD,801.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Ara
+21.0,MBC Max,MPEG-2/SD,801.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Ara
+22.0,Aljazeera English,MPEG-4/HD,4872.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+207.0,Aljazeera English,MPEG-4/SD,81.0,12659 V,tp 27,,,,False,Mega-Choice,2/3,22500,DVB-S2,Eng
+22.0,Aljazeera English,MPEG-4/HD,4872.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+207.0,Aljazeera English,MPEG-4/SD,81.0,18739 L,,,,,False,Mega-Choice,2/3,22500,DVB-S2,Eng
+24.0,Faculty TV,MPEG-4/SD,2707.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+24.0,Faculty TV,MPEG-4/SD,2707.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+25.0,Kpegah TV,MPEG-4/SD,325.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+25.0,Kpegah TV,MPEG-4/SD,325.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+30.0,Metro TV (Ghana),MPEG-4/SD,1122.0,12554 V,tp 24,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+30.0,Metro TV (Ghana),MPEG-4/SD,1122.0,18634 L,,,,,False,Mega-Choice,3/4,22500,DVB-S2,Eng
+,Satview Network,1-1,,12659 V,tp 27,,,https://www.lyngsat.com/providers/ng/Satview-Network.html,True,Satview Network,2/3,22500,DVB-S2,
+,Satview Network,1-1,,12659 V,tp 27,,,https://www.lyngsat.com/providers/ng/Satview-Network.html,True,Satview Network,2/3,22500,DVB-S2,
+,Satview Network,1-1,,18739 L,,,,https://www.lyngsat.com/providers/ng/Satview-Network.html,True,Satview Network,2/3,22500,DVB-S2,
+,Satview Network,1-1,,18739 L,,,,https://www.lyngsat.com/providers/ng/Satview-Network.html,True,Satview Network,2/3,22500,DVB-S2,
+100.0,Satview Network Info,MPEG-4/SD,108.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+100.0,Satview Network Info,MPEG-4/SD,108.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+103.0,Game Show 24,MPEG-4/SD,51.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+103.0,Game Show 24,MPEG-4/SD,51.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+151.0,Block Buster 24,MPEG-4/SD,54.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+151.0,Block Buster 24,MPEG-4/SD,54.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+152.0,Telenovela 24,MPEG-4/SD,48.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+152.0,Telenovela 24,MPEG-4/SD,48.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+153.0,Teleseries 24,MPEG-4/SD,63.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+153.0,Teleseries 24,MPEG-4/SD,63.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+154.0,Bollywood 24,HEVC/SD,60.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+154.0,Bollywood 24,HEVC/SD,60.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+155.0,Korean Drama 24,MPEG-4/SD,66.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+155.0,Korean Drama 24,MPEG-4/SD,66.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+157.0,Kingdom Movies 24,MPEG-4/SD,69.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+157.0,Kingdom Movies 24,MPEG-4/SD,69.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+158.0,Nollywood 24,MPEG-4/SD,72.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+158.0,Nollywood 24,MPEG-4/SD,72.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+159.0,Animation 24,MPEG-4/SD,93.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+159.0,Animation 24,MPEG-4/SD,93.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+160.0,Sci-Fi 24,MPEG-4/SD,75.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+160.0,Sci-Fi 24,MPEG-4/SD,75.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+205.0,TVC News,MPEG-4/SD,78.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+205.0,TVC News,MPEG-4/SD,78.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+206.0,Channels TV,MPEG-4/SD,114.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+206.0,Channels TV,MPEG-4/SD,114.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+251.0,Juniors Network,MPEG-4/SD,84.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+251.0,Juniors Network,MPEG-4/SD,84.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+253.0,Spinn TV,HEVC/SD,90.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+253.0,Spinn TV,HEVC/SD,90.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+302.0,Sport On,MPEG-4/SD,96.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+302.0,Sport On,MPEG-4/SD,96.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+351.0,Gbedu TV,MPEG-4/SD,99.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+351.0,Gbedu TV,MPEG-4/SD,99.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+352.0,D'Vibez,MPEG-4/SD,102.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+352.0,D'Vibez,MPEG-4/SD,102.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+401.0,Kingdom Africa TV,MPEG-4/SD,132.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+401.0,Kingdom Africa TV,MPEG-4/SD,132.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+408.0,IWO TV Plus,MPEG-4/SD,135.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+408.0,IWO TV Plus,MPEG-4/SD,135.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+409.0,Pathway TV,MPEG-4/SD,87.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+409.0,Pathway TV,MPEG-4/SD,87.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+451.0,Docu TV 24,HEVC/SD,105.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+451.0,Docu TV 24,HEVC/SD,105.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+453.0,Reality TV 24,MPEG-4/SD,33.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+453.0,Reality TV 24,MPEG-4/SD,33.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+454.0,Animal Channel 24,MPEG-4/SD,111.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+454.0,Animal Channel 24,MPEG-4/SD,111.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+457.0,Crime TV 24,MPEG-4/SD,117.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+457.0,Crime TV 24,MPEG-4/SD,117.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+460.0,Court Show 24,MPEG-4/SD,120.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+460.0,Court Show 24,MPEG-4/SD,120.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+501.0,AmuLudun TV,MPEG-4/SD,42.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+501.0,AmuLudun TV,MPEG-4/SD,42.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+502.0,Ngwanu,MPEG-4/SD,126.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+502.0,Ngwanu,MPEG-4/SD,126.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+503.0,Hasken Rana,MPEG-4/SD,123.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+503.0,Hasken Rana,MPEG-4/SD,123.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+504.0,Ìtàgé TV,MPEG-4/SD,39.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+504.0,Ìtàgé TV,MPEG-4/SD,39.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+505.0,Aremo Global TV,MPEG-4/SD,36.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+505.0,Aremo Global TV,MPEG-4/SD,36.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+552.0,TV School Primary,MPEG-4/SD,129.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+552.0,TV School Primary,MPEG-4/SD,129.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+553.0,TV School Junior Secondary,MPEG-4/SD,138.0,12659 V,tp 27,,,,False,Satview Network,2/3,22500,DVB-S2,Eng
+553.0,TV School Junior Secondary,MPEG-4/SD,138.0,18739 L,,,,,False,Satview Network,2/3,22500,DVB-S2,Eng

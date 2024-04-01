@@ -1,0 +1,11 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1.0,Nippon TV,?-?HEVC/HD,512.0,12314 H,,,BISS,,False,,3/4,5180,DVB-S2,Jpn
+1.0,[NTV test card],?-?HEVC/HD,512.0,12319 H,,,BISS,,False,,2/3,5179,DVB-S2,
+1.0,NTV News 24,?-?HEVC/HD,512.0,12324 H,,,BISS,,False,,1/2,5179,DVB-S2,Jpn
+,(TBS feeds),,,12348 H,,,,,False,,2/3,5179,DVB-S2,
+,(NTV feeds),,,12354 H,,,,,False,,2/3,5179,DVB-S2,
+,(Fuji TV feeds),,,12395 H,,,,,False,,3/4,7072,DVB-S2,
+,(feeds),,,12403 V,,,,,False,,3/4,15150,DVB-S2,
+,(feeds),,,12419 V,,,,,False,,3/4,11707,DVB-S2,
+,(feeds),,,12441 V,,,,,False,,3/4,12222,DVB-S2,
+1.0,[test card],?-?HEVC/SD,1241.0,12523 H,,,,,False,,3/4,5454,DVB-S2,

@@ -1,0 +1,20 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Anuvu,,,11564 H,tp A9,,PowerVu,https://www.lyngsat.com/providers/us/Anuvu.html,True,Anuvu,1/2,3320,DVB-S2,
+501.0,BBC News,MPEG-4/SD,4673.0,11564 H,tp A9,,PowerVu,,False,Anuvu,1/2,3320,DVB-S2,Eng
+502.0,TFC Middle East,MPEG-4/SD,4929.0,11564 H,tp A9,,PowerVu,,False,Anuvu,1/2,3320,DVB-S2,Eng
+503.0,Prime World,MPEG-4/SD,5185.0,11564 H,tp A9,,PowerVu,,False,Anuvu,1/2,3320,DVB-S2,
+504.0,Sport 24,MPEG-4/SD,5441.0,11564 H,tp A9,,PowerVu,,False,Anuvu,1/2,3320,DVB-S2,Eng
+,Teletrak,,,11592 V,tp 40U,,,https://www.lyngsat.com/providers/cl/Teletrak.html,True,Teletrak,165,8,DVB-S2,
+1.0,Teletrak 1,MPEG-4/HD,102.0,11592 V,tp 40U,,,,False,Teletrak,165,8,DVB-S2,Spa
+2.0,Teletrak 2,MPEG-4/HD,202.0,11592 V,tp 40U,,,,False,Teletrak,165,8,DVB-S2,Spa
+4.0,RTP Internacional América,?-?MPEG-2/SD,256.0,11870 H,,,,,False,Teletrak,2/3,3200,DVB-S3,Por
+5.0,RDP Internacional,,,11870 H,,,,,False,Teletrak,2/3,3200,DVB-S3,Por
+,Unisa,,,11875 H,,,,https://www.lyngsat.com/providers/br/Unisa.html,True,Unisa,3/4,5832,DVB-S2,
+1.0,Unisa 1,MPEG-4/SD,350.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+2.0,Unisa 2,MPEG-4/SD,450.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+3.0,Unisa 3,MPEG-4/SD,550.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+4.0,Unisa 4,MPEG-4/SD,650.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+5.0,Unisa 5,MPEG-4/SD,750.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+6.0,Unisa 6,MPEG-4/SD,850.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+7.0,Unisa 7,MPEG-4/SD,950.0,11875 H,,,,,False,Unisa,3/4,5832,DVB-S2,Por
+,(feeds),,,11958 H,tp 7,,,,False,Unisa,255,3,DVB-S3,

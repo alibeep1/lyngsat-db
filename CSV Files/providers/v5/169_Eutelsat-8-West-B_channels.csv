@@ -1,0 +1,831 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL
+3826 Rtp 3CC40,DVB-S2QPSK138304/5,,,,1918-8031,,4.7,,Edinho fta220522,3826 R,tp 3C,40,,,,
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,,,,42-1,,9.4,Verimatrix (B),R Cervi231114,11137 H,tp BEM9,51-52,Verimatrix (B),,,
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,,,,2048-73,,7.9,,Lexzie240209,11137 V,tp BEM10,51-52,,,,
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,,,,2048-74,,6.5,,M Al-Taie231204,11179 V,tp BEM12,51-52,,,,
+11512 Vtp DAE4East52,,,,,,,,,Hadowooalsatan240317,11512 V,tp DAE4,52,,,,
+3826 Rtp 3CC40,DVB-S2QPSK138304/5,361,Tele Congo,,MPEG-4/SD,138,139 Fre,,,3826 R,tp 3C,40,,,Tele Congo,https://www.lyngsat.com/tvchannels/cg/Tele-Congo.html
+3977 Rtp 7CC40,DVB-S28PSK34102/3,108,Tele Congo,,65535-1MPEG-4/SD,138,6.6 139 Fre,,N Stanislav240128,3977 R,tp 7C,40,,,Tele Congo,https://www.lyngsat.com/tvchannels/cg/Tele-Congo.html
+3826 Rtp 3CC40,DVB-S2QPSK138304/5,364,Equidia Pro 1,,MPEG-4/SD,1511,1521 Fre1531 Eng1541 Ger,Viaccess,,3826 R,tp 3C,40,Viaccess,,Equidia Pro 1,https://www.lyngsat.com/tvchannels/fr/Equidia-Pro-1.html
+3826 Rtp 3CC40,DVB-S2QPSK138304/5,362,Radio Congo,,,,1139 Fre,,,3826 R,tp 3C,40,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html
+3826 Rtp 3CC40,DVB-S2QPSK138304/5,362,Radio Congo,,,,1139 Fre,,,3826 R,tp 3C,40,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html
+3977 Rtp 7CC40,DVB-S28PSK34102/3,108,Radio Congo,,,,1139 Fre,,,3977 R,tp 7C,40,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html
+3977 Rtp 7CC40,DVB-S28PSK34102/3,108,Radio Congo,,,,1139 Fre,,,3977 R,tp 7C,40,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html
+3832 Ltp 4CC40,DVB-S28PSK75852/3,,CRTV,,1-1,,6.6,,Zelda230909,3832 L,tp 4C,40,,https://www.lyngsat.com/providers/cm/CRTV.html,CRTV,https://www.lyngsat.com/tvchannels/cm/CRTV.html
+3832 Ltp 4CC40,DVB-S28PSK75852/3,1,CRTV,,MPEG-4/SD,125,135 Fre,,,3832 L,tp 4C,40,,https://www.lyngsat.com/providers/cm/CRTV.html,CRTV,https://www.lyngsat.com/tvchannels/cm/CRTV.html
+3832 Ltp 4CC40,DVB-S28PSK75852/3,2,CRTV News,,MPEG-4/HD,225,235 Fre,,,3832 L,tp 4C,40,,,CRTV News,https://www.lyngsat.com/tvchannels/cm/CRTV-News.html
+3832 Ltp 4CC40,DVB-S28PSK75852/3,3,CRTV Sports and Entertainment,,MPEG-4/HD,325,335 Fre,,,3832 L,tp 4C,40,,,CRTV Sports and Entertainment,https://www.lyngsat.com/tvchannels/cm/CRTV-Sports-and-Entertainment.html
+3832 Ltp 4CC40,DVB-S28PSK75852/3,1,CRTV National Radio,,,,145 Fre,,,3832 L,tp 4C,40,,,CRTV National Radio,https://www.lyngsat.com/radiochannels/cm/CRTV-National-Radio.html
+3840 Ltp 4CC,DVB-S2QPSK50005/6,,(CRTV feeds),,,,,,N Stanislav230702,3840 L,tp 4C,,,,,
+3850 Rtp 3CC40,DVB-S28PSK163303/4,,TopStar,,136-8,,7.9,,N Stanislav231202,3850 R,tp 3C,40,,https://www.lyngsat.com/providers/zm/TopStar.html,,
+3850 Rtp 3CC40,DVB-S28PSK163303/4,3,Mozo TV,,MPEG-4/SD,1000,2000 Eng,,,3850 R,tp 3C,40,,,Mozo TV,https://www.lyngsat.com/tvchannels/zm/Mozo-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,6,Zanis TV,,HEVC/SD,1006,2006 Eng,,,3850 R,tp 3C,40,,,Zanis TV,https://www.lyngsat.com/tvchannels/zm/Zanis-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,9,ZNBC TV 4,,MPEG-4/SD,2009,1009 Eng,,,3850 R,tp 3C,40,,,ZNBC TV 4,https://www.lyngsat.com/tvchannels/zm/ZNBC-TV-4.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,88,Revelation TV (Zambia),,MPEG-4/SD,1088,2088 Eng,,,3850 R,tp 3C,40,,,Revelation TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Revelation-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,89,Crown TV (Zambia),,MPEG-4/SD,4098,4097 Eng,,,3850 R,tp 3C,40,,,Crown TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Crown-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,91,Sun FM TV,,MPEG-4/SD,1091,2091 Eng,,,3850 R,tp 3C,40,,,Sun FM TV,https://www.lyngsat.com/tvchannels/zm/Sun-FM-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,92,Beats TV,,MPEG-4/SD,1092,2092 Eng,,,3850 R,tp 3C,40,,,Beats TV,https://www.lyngsat.com/tvchannels/zm/Beats-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,95,Millennium TV (Zambia),,MPEG-4/SD,1095,2095 Eng,,,3850 R,tp 3C,40,,,Millennium TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Millennium-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,98,Q TV (Zambia),,MPEG-4/SD,1098,2098 Eng,,,3850 R,tp 3C,40,,,Q TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Q-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,101,ZNBC TV 1,,MPEG-4/SD,2101,1101 Eng,,,3850 R,tp 3C,40,,,ZNBC TV 1,https://www.lyngsat.com/tvchannels/zm/ZNBC-TV-1.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,102,ZNBC TV 2,,MPEG-4/SD,2102,1102 Eng,,,3850 R,tp 3C,40,,,ZNBC TV 2,https://www.lyngsat.com/tvchannels/zm/ZNBC-TV-2.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,103,ZNBC TV 3,,MPEG-4/SD,2103,1103 Eng,,,3850 R,tp 3C,40,,,ZNBC TV 3,https://www.lyngsat.com/tvchannels/zm/ZNBC-TV-3.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,107,ABN TV (Zambia),,MPEG-4/SD,1107,2107 Eng,,,3850 R,tp 3C,40,,,ABN TV (Zambia),https://www.lyngsat.com/tvchannels/zm/ABN-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,112,Parliament TV (Zambia),,MPEG-4/SD,2112,1112 Eng,,,3850 R,tp 3C,40,,,Parliament TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Parliament-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,113,Healing Center TV,,MPEG-4/SD,1113,2113 Eng,,,3850 R,tp 3C,40,,,Healing Center TV,https://www.lyngsat.com/tvchannels/zm/Healing-Center-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,116,Chipata TV,,MPEG-4/SD,1116,2116 Eng,,,3850 R,tp 3C,40,,,Chipata TV,https://www.lyngsat.com/tvchannels/zm/Chipata-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,118,North West TV,,MPEG-4/SD,1118,2118 Eng,,,3850 R,tp 3C,40,,,North West TV,https://www.lyngsat.com/tvchannels/zm/North-West-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,150,KBN TV,,MPEG-4/SD,1150,2150 Eng,,,3850 R,tp 3C,40,,,KBN TV,https://www.lyngsat.com/tvchannels/zm/KBN-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,301,Prime TV (Zambia),,MPEG-4/SD,1301,2301 Eng,,,3850 R,tp 3C,40,,,Prime TV (Zambia),https://www.lyngsat.com/tvchannels/zm/Prime-TV.html
+3850 Rtp 3CC40,DVB-S28PSK163303/4,450,Hope Channel Zambia,,HEVC,1450,2450 Eng,,,3850 R,tp 3C,40,,,Hope Channel Zambia,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Zambia.html
+3889 Ltp 6CC40,DVB-S29823/4,1,ORTB TV,,177-176MPEG-2/SD,776,5.5 .98 Fre,,HunterSat190608,3889 L,tp 6C,40,,,,
+3889 Ltp 6CC40,DVB-S29823/4,1,Radio Bénin,,,,768 Fre,,,3889 L,tp 6C,40,,,Radio Bénin,https://www.lyngsat.com/radiochannels/bj/Radio-Benin.html
+3889 Ltp 6CC40,DVB-S29823/4,1,Radio Bénin,,,,768 Fre,,,3889 L,tp 6C,40,,,Radio Bénin,https://www.lyngsat.com/radiochannels/bj/Radio-Benin.html
+3889 Ltp 6CC40,DVB-S29823/4,1,Atlantic FM,,,,768 Fre,,,3889 L,tp 6C,40,,,Atlantic FM,https://www.lyngsat.com/radiochannels/bj/Atlantic-FM.html
+3889 Ltp 6CC40,DVB-S29823/4,1,Atlantic FM,,,,768 Fre,,,3889 L,tp 6C,40,,,Atlantic FM,https://www.lyngsat.com/radiochannels/bj/Atlantic-FM.html
+3896 Ltp 6CC40,DVB-S2QPSK35005/6,3580,TVE Internacional Europa,,8916-1MPEG-4/HD,3554,5.23553,,N Schlammer190331,3896 L,tp 6C,40,,,,
+3896 Ltp 6CC40,DVB-S2QPSK35005/6,3581,RNE Radio Nacional,,,,3523 Spa,,,3896 L,tp 6C,40,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html
+3896 Ltp 6CC40,DVB-S2QPSK35005/6,3581,RNE Radio Nacional,,,,3523 Spa,,,3896 L,tp 6C,40,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html
+3896 Ltp 6CC40,DVB-S2QPSK35005/6,3585,Radio Exterior,,,,3555 Spa,,,3896 L,tp 6C,40,,,Radio Exterior,https://www.lyngsat.com/radiochannels/es/Radio-Exterior.html
+3900 Rtp 5CC40,DVB-S28PSK14583/4,2,Asonga TV,,1-1MPEG-4/HD,513,7.9 514 Spa,,DX Bozóth200326,3900 R,tp 5C,40,,,,
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,,Vivacom MCPC,,1-8125,,5.2,IrdetoViaccess,N Stanislav231202,3925 R,tp 5C,40,"Irdeto,Viaccess",https://www.lyngsat.com/providers/bg/Vivacom-MCPC.html,,
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,201,ESPN Africa,,MPEG-4/SD,501,601 Eng 701 Fre,Irdeto,,3925 R,tp 5C,40,Irdeto,,ESPN Africa,https://www.lyngsat.com/tvchannels/us/ESPN-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,202,ESPN 2 Africa,,MPEG-4/SD,502,602 Eng,Irdeto,,3925 R,tp 5C,40,Irdeto,,ESPN 2 Africa,https://www.lyngsat.com/tvchannels/us/ESPN-2-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,203,National Geographic South Africa,,MPEG-4/SD,503,603 Eng,Irdeto,,3925 R,tp 5C,40,Irdeto,,National Geographic South Africa,https://www.lyngsat.com/tvchannels/us/National-Geographic-South-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,204,National Geographic Wild South Africa,,MPEG-4/SD,504,604 Eng,Irdeto,,3925 R,tp 5C,40,Irdeto,,National Geographic Wild South Africa,https://www.lyngsat.com/tvchannels/us/National-Geographic-Wild-South-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,207,MTV Base Africa,,MPEG-2/SD,507,607 Eng,Viaccess,,3925 R,tp 5C,40,Viaccess,,MTV Base Africa,https://www.lyngsat.com/tvchannels/us/MTV-Base-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,208,BET Africa,,MPEG-2/SD,508,608 Eng,Viaccess,,3925 R,tp 5C,40,Viaccess,,BET Africa,https://www.lyngsat.com/tvchannels/us/BET-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,211,National Geographic France,,MPEG-4/SD,511,611 Fre,Irdeto,,3925 R,tp 5C,40,Irdeto,,National Geographic France,https://www.lyngsat.com/tvchannels/us/National-Geographic-France.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,212,National Geographic Wild France,,MPEG-4/SD,512,612 Fre,Irdeto,,3925 R,tp 5C,40,Irdeto,,National Geographic Wild France,https://www.lyngsat.com/tvchannels/us/National-Geographic-Wild-France.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,214,FashionTV Africa,,MPEG-4/SD,514,614,,,3925 R,tp 5C,40,,,FashionTV Africa,https://www.lyngsat.com/tvchannels/fr/FashionTV-Africa.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,215,Nina TV English,,MPEG-4/SD,515,615 Fre,Irdeto,,3925 R,tp 5C,40,Irdeto,,Nina TV English,https://www.lyngsat.com/tvchannels/fr/Nina-TV-English.html
+3925 Rtp 5CC40,DVB-S2QPSK300005/6,216,Nina TV Français,,MPEG-4/SD,516,616 Fre,Irdeto,,3925 R,tp 5C,40,Irdeto,,Nina TV Français,https://www.lyngsat.com/tvchannels/fr/Nina-TV-Francais.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,,RFI,,1918-8071,,1.0,,Onacila201226,3964 R,tp 7C,40,,https://www.lyngsat.com/providers/fr/RFI.html,,
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1701,Monte Carlo Doualiya,,,,881 Ara,,,3964 R,tp 7C,40,,,Monte Carlo Doualiya,https://www.lyngsat.com/radiochannels/fr/Monte-Carlo-Doualiya.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1701,Monte Carlo Doualiya,,,,881 Ara,,,3964 R,tp 7C,40,,,Monte Carlo Doualiya,https://www.lyngsat.com/radiochannels/fr/Monte-Carlo-Doualiya.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1702,RFI Français,,,,882 Fre,,,3964 R,tp 7C,40,,,RFI Français,https://www.lyngsat.com/radiochannels/fr/RFI-Francais.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1733,RFI Langues 1,,,,883,,,3964 R,tp 7C,40,,,RFI Langues 1,https://www.lyngsat.com/radiochannels/fr/RFI-Langues-1.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1734,RFI Langues 2,,,,884,,,3964 R,tp 7C,40,,,RFI Langues 2,https://www.lyngsat.com/radiochannels/fr/RFI-Langues-2.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1735,RFI Musique,,,,885 Fre,,,3964 R,tp 7C,40,,,RFI Musique,https://www.lyngsat.com/radiochannels/fr/RFI-Musique.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1736,RFI Diverse 1,,,,886,,,3964 R,tp 7C,40,,,RFI Diverse 1,https://www.lyngsat.com/radiochannels/fr/RFI-Diverse-1.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1737,RFI Diverse 2,,,,887,,,3964 R,tp 7C,40,,,RFI Diverse 2,https://www.lyngsat.com/radiochannels/fr/RFI-Diverse-2.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1738,RFI Diverse 3,,,,888,,,3964 R,tp 7C,40,,,RFI Diverse 3,https://www.lyngsat.com/radiochannels/fr/RFI-Diverse-3.html
+3964 Rtp 7CC40,DVB-S2QPSK41661/2,1780,Radio Notre Dame International,,,,2191 Fre,,,3964 R,tp 7C,40,,,Radio Notre Dame International,https://www.lyngsat.com/radiochannels/fr/Radio-Notre-Dame-International.html
+3986 Rtp 7CC40,DVB-S2QPSK45433/4,1,La Gran Carpa Catedral TV,,0-0MPEG-2/HD,256,4.0 512 Spa 513 Eng 513 Por 514 Fre 515 Kin 515 Swa,,N Stanislav240120,3986 R,tp 7C,40,,,,
+3995 Rtp 7CC,DVB-S28PSK49373/4,,(feeds),,,,,,Onacila200604,3995 R,tp 7C,,,,,
+12509 Vtp FUU2Europe,DVB-S28PSK30003/4,,(feeds),,,,,,Roli220603,12509 V,tp FUU2,,,,,
+12515 Vtp FUU2Europe,DVB-S28PSK48003/4,,(feeds),,,,,,Jamie A231209,12515 V,tp FUU2,,,,,
+12523 Vtp FUU2Europe,DVB-S28PSK46673/4,,(feeds),,,,,,Roli231118,12523 V,tp FUU2,,,,,
+12532 Vtp FUU2Europe,DVB-S28PSK96003/4,,(feeds),,,,,,Roli231005,12532 V,tp FUU2,,,,,
+12547 Vtp FUU4Europe,DVB-S28PSK46673/4,,(feeds),,,,,,Jamie A230603,12547 V,tp FUU4,,,,,
+12551 Vtp FUU4Europe,DVB-S28PSK22673/4,,(feeds),,,,,,Jamie A230603,12551 V,tp FUU4,,,,,
+12560 Vtp FUU4Europe,DVB-S28PSK46673/4,,(feeds),,,,,,DX Bozóth231230,12560 V,tp FUU4,,,,,
+12564 Vtp FUU4Europe,DVB-S28PSK36743/4,,(feeds),,,,,,Roli220916,12564 V,tp FUU4,,,,,
+12569 Vtp FUU4Europe,DVB-S28PSK48003/4,,(feeds),,,,,,Jamie A231209,12569 V,tp FUU4,,,,,
+12589 Vtp FUU6Europe,DVB-S216APSK75003/4,,(feeds),,,,,,Roli220219,12589 V,tp FUU6,,,,,
+12598 Vtp FUU6Europe,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A210619,12598 V,tp FUU6,,,,,
+12606 Vtp FUU6Europe,DVB-S28PSK36155/6,,(feeds),,,,,,Roli230402,12606 V,tp FUU6,,,,,
+12610 Vtp FUU6Europe,DVB-S28PSK24003/4,,(feeds),,,,,,Jamie A230617,12610 V,tp FUU6,,,,,
+12613 Vtp FUU6Europe,DVB-S28PSK23945/6,,(feeds),,,,,,Roli220424,12613 V,tp FUU6,,,,,
+12616 Vtp FUU6Europe,DVB-S28PSK24005/6,,(feeds),,,,,,Roli151011,12616 V,tp FUU6,,,,,
+12630 Vtp FUU8Europe,DVB-S28PSK48003/4,,(feeds),,,,,,DX Bozóth240116,12630 V,tp FUU8,,,,,
+12636 Vtp FUU8Europe,DVB-S28PSK46673/4,,(feeds),,,,,,Roli231118,12636 V,tp FUU8,,,,,
+12648 Vtp FUU8Europe,DVB-S28PSK46673/4,,(feeds),,,,,,William-1210627,12648 V,tp FUU8,,,,,
+12656 Vtp FUU8Europe,DVB-S28PSK50003/4,,(feeds),,,,,,DX Bozóth240116,12656 V,tp FUU8,,,,,
+12660 Vtp FUU8Europe,DVB-S28PSK25005/6,,(feeds),,,,,,DX Bozóth240116,12660 V,tp FUU8,,,,,
+12672 Vtp FUU10Europe,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A231209,12672 V,tp FUU10,,,,,
+12681 Vtp FUU10Europe,DVB-S28PSK72003/4,,(feeds),,,,,,Jamie A231209,12681 V,tp FUU10,,,,,
+12714 Vtp FUU12Europe,DVB-S28PSK75003/4,,(feeds),,,,,,Roli220913,12714 V,tp FUU12,,,,,
+12723 Vtp FUU12Europe,DVB-S28PSK75003/4,,(feeds),,,,,,Roli220913,12723 V,tp FUU12,,,,,
+12732 Vtp FUU12Europe,DVB-S28PSK75003/4,,(feeds),,,,,,Roli220913,12732 V,tp FUU12,,,,,
+12742 Vtp FUU12Europe,DVB-S28PSK24003/4,,(feeds),,,,,,Jamie A230120,12742 V,tp FUU12,,,,,
+12745 Vtp FUU12Europe,DVB-S28PSK24003/4,,(feeds),,,,,,Roli230924,12745 V,tp FUU12,,,,,
+10971 Htp BEM1MENA51-52,DVB-S275007/8,,My TV,,20480-800,,7.2,,Karbalaeia TV240223,10971 H,tp BEM1,51-52,,https://www.lyngsat.com/providers/--/My-TV.html,,
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5190,Alaraby TV,,MPEG-2/SD,5192,5193 Ara,,,10971 H,tp BEM1,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5190,Alaraby TV,,MPEG-2/SD,5192,5193 Ara,,,10971 H,tp BEM1,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5190,Alaraby TV,,MPEG-2/SD,5192,5193 Ara,,,10971 H,tp BEM1,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5190,Alaraby TV,,MPEG-2/SD,5192,5193 Ara,,,10971 H,tp BEM1,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3800,Alaraby TV,,MPEG-4/HD,3802,3803 Ara,,,12646 H,tp FEM7,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3800,Alaraby TV,,MPEG-4/HD,3802,3803 Ara,,,12646 H,tp FEM7,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3800,Alaraby TV,,MPEG-4/HD,3802,3803 Ara,,,12646 H,tp FEM7,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3800,Alaraby TV,,MPEG-4/HD,3802,3803 Ara,,,12646 H,tp FEM7,51-52,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5200,Al Hiwar TV,,MPEG-4/HD,5202,5203 Ara,,,10971 H,tp BEM1,51-52,,,Al Hiwar TV,https://www.lyngsat.com/tvchannels/uk/Al-Hiwar-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5200,Al Hiwar TV,,MPEG-4/HD,5202,5203 Ara,,,10971 H,tp BEM1,51-52,,,Al Hiwar TV,https://www.lyngsat.com/tvchannels/uk/Al-Hiwar-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5210,Syria TV,,MPEG-2/SD,5212,5213 Ara,,,10971 H,tp BEM1,51-52,,,Syria TV,https://www.lyngsat.com/tvchannels/tr/Syria-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5210,Syria TV,,MPEG-2/SD,5212,5213 Ara,,,10971 H,tp BEM1,51-52,,,Syria TV,https://www.lyngsat.com/tvchannels/tr/Syria-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5220,Al Shoor TV,,MPEG-4/SD,5222,5223 Ara,,,10971 H,tp BEM1,51-52,,,Al Shoor TV,https://www.lyngsat.com/tvchannels/iq/Al-Shoor-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5230,Karbalaeia TV,,MPEG-4/HD,5232,Ara,,,10971 H,tp BEM1,51-52,,,Karbalaeia TV,https://www.lyngsat.com/tvchannels/iq/Karbalaeia-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5250,Marjaeyat TV Arabic,,MPEG-4/HD,5252,5253 Ara,,,10971 H,tp BEM1,51-52,,,Marjaeyat TV Arabic,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Arabic.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5270,1TV,,MPEG-4/HD,5272,5273 Ara,,,10971 H,tp BEM1,51-52,,,1TV,https://www.lyngsat.com/tvchannels/iq/1TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5270,1TV,,MPEG-4/HD,5272,5273 Ara,,,10971 H,tp BEM1,51-52,,,1TV,https://www.lyngsat.com/tvchannels/iq/1TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5280,1 Iraq TV,,MPEG-4/SD,5282,5283 Ara,,,10971 H,tp BEM1,51-52,,,1 Iraq TV,https://www.lyngsat.com/tvchannels/iq/1-Iraq-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5290,Salam TV (Libya),,MPEG-4/HD,5292,5293 Ara,,,10971 H,tp BEM1,51-52,,,Salam TV (Libya),https://www.lyngsat.com/tvchannels/ly/Salam-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5290,Salam TV (Libya),,MPEG-4/HD,5292,5293 Ara,,,10971 H,tp BEM1,51-52,,,Salam TV (Libya),https://www.lyngsat.com/tvchannels/ly/Salam-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5320,February Satellite Channel,,MPEG-4/SD,5322,5323 Ara,,,10971 H,tp BEM1,51-52,,,February Satellite Channel,https://www.lyngsat.com/tvchannels/ly/February-Satellite-Channel.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5320,February Satellite Channel,,MPEG-4/SD,5322,5323 Ara,,,10971 H,tp BEM1,51-52,,,February Satellite Channel,https://www.lyngsat.com/tvchannels/ly/February-Satellite-Channel.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5450,Al Aqila TV,,MPEG-2/SD,5452,5453 Ara,,,10971 H,tp BEM1,51-52,,,Al Aqila TV,https://www.lyngsat.com/tvchannels/--/Al-Aqila-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5680,Falastini TV,,MPEG-2/SD,5682,5683 Ara,,,10971 H,tp BEM1,51-52,,,Falastini TV,https://www.lyngsat.com/tvchannels/tr/Falastini-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5680,Falastini TV,,MPEG-2/SD,5682,5683 Ara,,,10971 H,tp BEM1,51-52,,,Falastini TV,https://www.lyngsat.com/tvchannels/tr/Falastini-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5690,Hebron Sat,,MPEG-4/SD,5692,5693 Ara,,,10971 H,tp BEM1,51-52,,,Hebron Sat,https://www.lyngsat.com/tvchannels/ps/Hebron-Sat.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5730,Shehab News Agency,,MPEG-4/HD,5732,5733 Ara,,,10971 H,tp BEM1,51-52,,,Shehab News Agency,https://www.lyngsat.com/tvchannels/ps/Shehab-News-Agency.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5750,Alanwar TV,,MPEG-4/HD,5752,5753 Ara,,,10971 H,tp BEM1,51-52,,,Alanwar TV,https://www.lyngsat.com/tvchannels/kw/Alanwar-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5760,Roghayah TV,,MPEG-4/SD,5762,5763 Ara,,,10971 H,tp BEM1,51-52,,,Roghayah TV,https://www.lyngsat.com/tvchannels/iq/Roghayah-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5770,Fursan Al Iraq TV,,MPEG-4/SD,5772,5773 Ara,,,10971 H,tp BEM1,51-52,,,Fursan Al Iraq TV,https://www.lyngsat.com/tvchannels/iq/Fursan-Al-Iraq-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5780,Alshaaer TV,,MPEG-4/HD,5782,5783 Ara,,,10971 H,tp BEM1,51-52,,,Alshaaer TV,https://www.lyngsat.com/tvchannels/iq/Alshaaer-TV.html
+10971 Htp BEM1MENA51-52,DVB-S275007/8,5790,Albaghdadia,,MPEG-4/HD,5792,5793 Ara,,,10971 H,tp BEM1,51-52,,,Albaghdadia,https://www.lyngsat.com/tvchannels/iq/Albaghdadia.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,,Aljazeera,,1918-20200,,5.5,,DX Bozóth200929,10971 V,tp BEM2,51-52,,https://www.lyngsat.com/providers/qa/Aljazeera.html,,
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,,Aljazeera,,1918-20200,,5.5,,DX Bozóth200929,10971 V,tp BEM2,51-52,,https://www.lyngsat.com/providers/qa/Aljazeera.html,,
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,,Aljazeera,,1918-60100,,6.6,,Lexzie190109,12521 H,tp FEM1,51-52,,https://www.lyngsat.com/providers/qa/Aljazeera.html,,
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,,Aljazeera,,1918-60100,,6.6,,Lexzie190109,12521 H,tp FEM1,51-52,,https://www.lyngsat.com/providers/qa/Aljazeera.html,,
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,401,Aljazeera Channel,,MPEG-2/SD,512,650 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,401,Aljazeera Channel,,MPEG-2/SD,512,650 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,401,Aljazeera Channel,,MPEG-2/SD,512,650 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,401,Aljazeera Channel,,MPEG-2/SD,512,650 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,501,Aljazeera Channel,,MPEG-4/HD,601,810 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,501,Aljazeera Channel,,MPEG-4/HD,601,810 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,501,Aljazeera Channel,,MPEG-4/HD,601,810 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,501,Aljazeera Channel,,MPEG-4/HD,601,810 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,402,Aljazeera Mubasher,,MPEG-2/SD,513,660 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,405,Aljazeera Mubasher,,MPEG-2/SD,520,730 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,502,Aljazeera Mubasher,,MPEG-4/HD,602,820 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,505,Aljazeera Mubasher,,MPEG-4/HD,605,850 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,403,Aljazeera English,,MPEG-2/SD,514,670 Eng,,,10971 V,tp BEM2,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,403,Aljazeera English,,MPEG-2/SD,514,670 Eng,,,10971 V,tp BEM2,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,403,Aljazeera English,,MPEG-2/SD,514,670 Eng,,,10971 V,tp BEM2,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,403,Aljazeera English,,MPEG-2/SD,514,670 Eng,,,10971 V,tp BEM2,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,503,Aljazeera English,,MPEG-4/HD,603,830 Eng 831 Eng,,,12521 H,tp FEM1,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,503,Aljazeera English,,MPEG-4/HD,603,830 Eng 831 Eng,,,12521 H,tp FEM1,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,503,Aljazeera English,,MPEG-4/HD,603,830 Eng 831 Eng,,,12521 H,tp FEM1,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,503,Aljazeera English,,MPEG-4/HD,603,830 Eng 831 Eng,,,12521 H,tp FEM1,51-52,,,Aljazeera English,https://www.lyngsat.com/tvchannels/qa/Aljazeera-English.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,404,Aljazeera Documentary,,MPEG-2/SD,517,700 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Documentary,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Documentary.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,404,Aljazeera Documentary,,MPEG-2/SD,517,700 Ara,,,10971 V,tp BEM2,51-52,,,Aljazeera Documentary,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Documentary.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,504,Aljazeera Documentary,,MPEG-4/HD,604,840 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Documentary,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Documentary.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,504,Aljazeera Documentary,,MPEG-4/HD,604,840 Ara,,,12521 H,tp FEM1,51-52,,,Aljazeera Documentary,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Documentary.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,406,[test card],,MPEG-2/SD,521,740,,,10971 V,tp BEM2,51-52,,,,
+12582 VEurope,DVB-S22221/2,1,[test card],,235-3400MPEG-2/SD,512,2.7,,DX Bozóth240116,12582 V,,,,,,
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,411,Al Rayyan Radio,,,,770 Ara,,,10971 V,tp BEM2,51-52,,,Al Rayyan Radio,https://www.lyngsat.com/radiochannels/qa/Al-Rayyan-Radio.html
+10971 Vtp BEM2MENA51-52,DVB-S275003/4,412,Sout Al Islam,,,,780 Ara,,,10971 V,tp BEM2,51-52,,,Sout Al Islam,https://www.lyngsat.com/radiochannels/qa/Sout-Al-Islam.html
+11013 Htp BEM3MENA51-52,DVB-S28PSK275002/3,,BeIn,,1918-100,,6.6,IrdetoVideoguard,M Al-Taie240212,11013 H,tp BEM3,51-52,"Irdeto,Videoguard",,,
+11054 Htp BEM5MENA51-52,DVB-S28PSK275002/3,,BeIn,,1918-200,,6.6,IrdetoVideoguard,M Al-Taie230905,11054 H,tp BEM5,51-52,"Irdeto,Videoguard",,,
+12604 Htp FEM5MENA51-52,DVB-S28PSK275002/3,,BeIn,,1918-300,,6.6,IrdetoVideoguard,M Al-Taie240212,12604 H,tp FEM5,51-52,"Irdeto,Videoguard",,,
+11013 Htp BEM3MENA51-52,DVB-S28PSK275002/3,2005,[BeIn Sports Max 3 info card],,MPEG-4/HD,451,Eng,,,11013 H,tp BEM3,51-52,,,,
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,,Sharjah Broadcasting Authority,,702-520,,6.5,,M Al-Taie220102,11013 V,tp BEM4,51-52,,https://www.lyngsat.com/providers/ae/Sharjah-Broadcasting-Authority.html,,
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,1,Sharjah TV,,MPEG-4/HD,100,110 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,1,Sharjah TV,,MPEG-4/HD,100,110 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,1,Sharjah TV,,MPEG-4/HD,100,110 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,1,Sharjah TV,,MPEG-4/HD,100,110 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,2,Sharjah TV,,MPEG-2/SD,310,311 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,2,Sharjah TV,,MPEG-2/SD,310,311 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,2,Sharjah TV,,MPEG-2/SD,310,311 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,2,Sharjah TV,,MPEG-2/SD,310,311 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,3,Sharqiya TV,,MPEG-4/HD,64,66 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,3,Sharqiya TV,,MPEG-4/HD,64,66 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,3,Sharqiya TV,,MPEG-4/HD,64,66 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,3,Sharqiya TV,,MPEG-4/HD,64,66 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,4,Sharqiya TV,,MPEG-2/SD,330,331 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,4,Sharqiya TV,,MPEG-2/SD,330,331 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,4,Sharqiya TV,,MPEG-2/SD,330,331 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,4,Sharqiya TV,,MPEG-2/SD,330,331 Ara,,,11013 V,tp BEM4,51-52,,,Sharqiya TV,https://www.lyngsat.com/tvchannels/ae/Sharqiya-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,5,Al Wousta TV,,MPEG-4/HD,350,351 Ara,,,11013 V,tp BEM4,51-52,,,Al Wousta TV,https://www.lyngsat.com/tvchannels/ae/Al-Wousta-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,5,Al Wousta TV,,MPEG-4/HD,350,351 Ara,,,11013 V,tp BEM4,51-52,,,Al Wousta TV,https://www.lyngsat.com/tvchannels/ae/Al-Wousta-TV.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,6,Sharjah Sports,,MPEG-4/HD,200,210 Ara 220 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,6,Sharjah Sports,,MPEG-4/HD,200,210 Ara 220 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,6,Sharjah Sports,,MPEG-4/HD,200,210 Ara 220 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,6,Sharjah Sports,,MPEG-4/HD,200,210 Ara 220 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,7,Sharjah Sports,,MPEG-2/SD,320,321 Ara 322 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,7,Sharjah Sports,,MPEG-2/SD,320,321 Ara 322 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,7,Sharjah Sports,,MPEG-2/SD,320,321 Ara 322 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,7,Sharjah Sports,,MPEG-2/SD,320,321 Ara 322 Eng,,,11013 V,tp BEM4,51-52,,,Sharjah Sports,https://www.lyngsat.com/tvchannels/ae/Sharjah-Sports.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,9,Sharjah Radio,,,,120 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,9,Sharjah Radio,,,,120 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,10,Sharjah Quran,,,,125 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah Quran,https://www.lyngsat.com/radiochannels/ae/Sharjah-Quran.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,10,Sharjah Quran,,,,125 Ara,,,11013 V,tp BEM4,51-52,,,Sharjah Quran,https://www.lyngsat.com/radiochannels/ae/Sharjah-Quran.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,11,Pulse 95,,,,126 Eng,,,11013 V,tp BEM4,51-52,,,Pulse 95,https://www.lyngsat.com/radiochannels/ae/Pulse-95.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,11,Pulse 95,,,,126 Eng,,,11013 V,tp BEM4,51-52,,,Pulse 95,https://www.lyngsat.com/radiochannels/ae/Pulse-95.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,12,Watar FM,,,,150 Ara,,,11013 V,tp BEM4,51-52,,,Watar FM,https://www.lyngsat.com/radiochannels/ae/Watar-FM.html
+11013 Vtp BEM4MENA51-52,DVB-S275005/6,12,Watar FM,,,,150 Ara,,,11013 V,tp BEM4,51-52,,,Watar FM,https://www.lyngsat.com/radiochannels/ae/Watar-FM.html
+11054 Htp BEM5MENA51-52,DVB-S28PSK275002/3,2106,BeIn Sports,,MPEG-4/HD,501,502 Ara 503 Eng,,,11054 H,tp BEM5,51-52,,,BeIn Sports,https://www.lyngsat.com/tvchannels/qa/BeIn-Sports.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,,Kuwait TV,,1918-30100,,6.6,,M Al-Taie220607,11054 V,tp BEM6,51-52,,https://www.lyngsat.com/providers/kw/Kuwait-TV.html,,
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1101,KTV 1,,MPEG-4/HD,102,103 Ara,,,11054 V,tp BEM6,51-52,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1101,KTV 1,,MPEG-4/HD,102,103 Ara,,,11054 V,tp BEM6,51-52,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1102,KTV 2 (Kuwait),,MPEG-4/HD,34,40 Eng,,,11054 V,tp BEM6,51-52,,,KTV 2 (Kuwait),https://www.lyngsat.com/tvchannels/kw/KTV-2.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1102,KTV 2 (Kuwait),,MPEG-4/HD,34,40 Eng,,,11054 V,tp BEM6,51-52,,,KTV 2 (Kuwait),https://www.lyngsat.com/tvchannels/kw/KTV-2.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1103,KTV Sport,,MPEG-4/HD,112,113 Ara,,,11054 V,tp BEM6,51-52,,,KTV Sport,https://www.lyngsat.com/tvchannels/kw/KTV-Sport.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1103,KTV Sport,,MPEG-4/HD,112,113 Ara,,,11054 V,tp BEM6,51-52,,,KTV Sport,https://www.lyngsat.com/tvchannels/kw/KTV-Sport.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1104,KTV Sport 2,,MPEG-4/HD,43,297 Ara,,,11054 V,tp BEM6,51-52,,,KTV Sport 2,https://www.lyngsat.com/tvchannels/kw/KTV-Sport-2.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1104,KTV Sport 2,,MPEG-4/HD,43,297 Ara,,,11054 V,tp BEM6,51-52,,,KTV Sport 2,https://www.lyngsat.com/tvchannels/kw/KTV-Sport-2.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1105,KTV Ethraa,,MPEG-4/HD,41,293 Ara,,,11054 V,tp BEM6,51-52,,,KTV Ethraa,https://www.lyngsat.com/tvchannels/kw/KTV-Ethraa.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1105,KTV Ethraa,,MPEG-4/HD,41,293 Ara,,,11054 V,tp BEM6,51-52,,,KTV Ethraa,https://www.lyngsat.com/tvchannels/kw/KTV-Ethraa.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1106,KTV Arabe,,MPEG-4/HD,46,274 Ara,,,11054 V,tp BEM6,51-52,,,KTV Arabe,https://www.lyngsat.com/tvchannels/kw/KTV-Arabe.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1106,KTV Arabe,,MPEG-4/HD,46,274 Ara,,,11054 V,tp BEM6,51-52,,,KTV Arabe,https://www.lyngsat.com/tvchannels/kw/KTV-Arabe.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1107,Al-Majlis TV,,MPEG-4/HD,53,.4 Ara,,,11054 V,tp BEM6,51-52,,,Al-Majlis TV,https://www.lyngsat.com/tvchannels/kw/Al-Majlis-TV.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1107,Al-Majlis TV,,MPEG-4/HD,53,.4 Ara,,,11054 V,tp BEM6,51-52,,,Al-Majlis TV,https://www.lyngsat.com/tvchannels/kw/Al-Majlis-TV.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1108,KTV Al Qurain,,MPEG-4/HD,50,49 Ara,,,11054 V,tp BEM6,51-52,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1108,KTV Al Qurain,,MPEG-4/HD,50,49 Ara,,,11054 V,tp BEM6,51-52,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1110,KTV Drama,,MPEG-4/HD,1112,1113 Ara,,,11054 V,tp BEM6,51-52,,,KTV Drama,https://www.lyngsat.com/tvchannels/kw/KTV-Drama.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,1110,KTV Drama,,MPEG-4/HD,1112,1113 Ara,,,11054 V,tp BEM6,51-52,,,KTV Drama,https://www.lyngsat.com/tvchannels/kw/KTV-Drama.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,11,Kuwait Radio One,,,,63 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,11,Kuwait Radio One,,,,63 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,11,Kuwait Radio One,,,,63 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,11,Kuwait Radio One,,,,63 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,20,Kuwait Radio One,,,,44 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,20,Kuwait Radio One,,,,44 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,20,Kuwait Radio One,,,,44 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,20,Kuwait Radio One,,,,44 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio One,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-One.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,12,Kuwait Radio Two,,,,61 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio Two,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-Two.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,12,Kuwait Radio Two,,,,61 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait Radio Two,https://www.lyngsat.com/radiochannels/kw/Kuwait-Radio-Two.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,13,AlQuran Alkarem,,,,65 Ara,,,11054 V,tp BEM6,51-52,,,AlQuran Alkarem,https://www.lyngsat.com/radiochannels/kw/AlQuran-Alkarem.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,13,AlQuran Alkarem,,,,65 Ara,,,11054 V,tp BEM6,51-52,,,AlQuran Alkarem,https://www.lyngsat.com/radiochannels/kw/AlQuran-Alkarem.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,14,Easy FM,,,,69 Eng,,,11054 V,tp BEM6,51-52,,,Easy FM,https://www.lyngsat.com/radiochannels/kw/Easy-FM.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,14,Easy FM,,,,69 Eng,,,11054 V,tp BEM6,51-52,,,Easy FM,https://www.lyngsat.com/radiochannels/kw/Easy-FM.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,15,Kuwait FM,,,,67 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait FM,https://www.lyngsat.com/radiochannels/kw/Kuwait-FM.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,15,Kuwait FM,,,,67 Ara,,,11054 V,tp BEM6,51-52,,,Kuwait FM,https://www.lyngsat.com/radiochannels/kw/Kuwait-FM.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,16,Super Station,,,,57 Ara,,,11054 V,tp BEM6,51-52,,,Super Station,https://www.lyngsat.com/radiochannels/kw/Super-Station.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,16,Super Station,,,,57 Ara,,,11054 V,tp BEM6,51-52,,,Super Station,https://www.lyngsat.com/radiochannels/kw/Super-Station.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,17,The Old Arabic Singing,,,,71 Ara,,,11054 V,tp BEM6,51-52,,,The Old Arabic Singing,https://www.lyngsat.com/radiochannels/kw/The-Old-Arabic-Singing.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,17,The Old Arabic Singing,,,,71 Ara,,,11054 V,tp BEM6,51-52,,,The Old Arabic Singing,https://www.lyngsat.com/radiochannels/kw/The-Old-Arabic-Singing.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,18,Traditional Station,,,,59 Ara,,,11054 V,tp BEM6,51-52,,,Traditional Station,https://www.lyngsat.com/radiochannels/kw/Traditional-Station.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,18,Traditional Station,,,,59 Ara,,,11054 V,tp BEM6,51-52,,,Traditional Station,https://www.lyngsat.com/radiochannels/kw/Traditional-Station.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,19,OFM,,,,47 Ara,,,11054 V,tp BEM6,51-52,,,OFM,https://www.lyngsat.com/radiochannels/kw/OFM.html
+11054 Vtp BEM6MENA51-52,DVB-S28PSK275002/3,19,OFM,,,,47 Ara,,,11054 V,tp BEM6,51-52,,,OFM,https://www.lyngsat.com/radiochannels/kw/OFM.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,,ViewMedia,,65535-8,,7.2,,Lexzie240202,11096 H,tp BEM7,51-52,,https://www.lyngsat.com/providers/uk/ViewMedia.html,,
+11096 Htp BEM7MENA51-52,DVB-S275007/8,1,TV Lamasat,,MPEG-2/SD,769,1025 Ara,,,11096 H,tp BEM7,51-52,,,TV Lamasat,https://www.lyngsat.com/tvchannels/eg/TV-Lamasat.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,2,Alkarma TV Middle East,,MPEG-2/SD,770,1026 Ara,,,11096 H,tp BEM7,51-52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,2,Alkarma TV Middle East,,MPEG-2/SD,770,1026 Ara,,,11096 H,tp BEM7,51-52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,2,Alkarma TV Middle East,,MPEG-2/SD,770,1026 Ara,,,11096 H,tp BEM7,51-52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,2,Alkarma TV Middle East,,MPEG-2/SD,770,1026 Ara,,,11096 H,tp BEM7,51-52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+12563 Vtp FEE4East52,DVB-S275007/8,250,Alkarma TV Middle East,,MPEG-2/SD,1250,2250 Ara,,,12563 V,tp FEE4,52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+12563 Vtp FEE4East52,DVB-S275007/8,250,Alkarma TV Middle East,,MPEG-2/SD,1250,2250 Ara,,,12563 V,tp FEE4,52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+12563 Vtp FEE4East52,DVB-S275007/8,250,Alkarma TV Middle East,,MPEG-2/SD,1250,2250 Ara,,,12563 V,tp FEE4,52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+12563 Vtp FEE4East52,DVB-S275007/8,250,Alkarma TV Middle East,,MPEG-2/SD,1250,2250 Ara,,,12563 V,tp FEE4,52,,,Alkarma TV Middle East,https://www.lyngsat.com/tvchannels/us/Alkarma-TV-Middle-East.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,4,Al-Sahat TV,,MPEG-2/SD,772,1028 Ara,,,11096 H,tp BEM7,51-52,,,Al-Sahat TV,https://www.lyngsat.com/tvchannels/ye/Al-Sahat-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,5,Mahdi has appeared TV,,MPEG-2/SD,773,1029 Ara,,,11096 H,tp BEM7,51-52,,,Mahdi has appeared TV,https://www.lyngsat.com/tvchannels/--/Mahdi-has-appeared-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,6,Alhawyah,,MPEG-2/SD,774,1.30 Ara,,,11096 H,tp BEM7,51-52,,,Alhawyah,https://www.lyngsat.com/tvchannels/ye/Alhawyah.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,8,Al Basira TV,,MPEG-2/SD,776,1032 Ara,,,11096 H,tp BEM7,51-52,,,Al Basira TV,https://www.lyngsat.com/tvchannels/--/Al-Basira-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,13,LN24 SA,,MPEG-2/SD,787,1043 Eng,,,11096 H,tp BEM7,51-52,,,LN24 SA,https://www.lyngsat.com/tvchannels/za/LN24-SA.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,13,LN24 SA,,MPEG-2/SD,787,1043 Eng,,,11096 H,tp BEM7,51-52,,,LN24 SA,https://www.lyngsat.com/tvchannels/za/LN24-SA.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,14,Al-Fady TV,,MPEG-2/SD,788,2022 Ara,,,11096 H,tp BEM7,51-52,,,Al-Fady TV,https://www.lyngsat.com/tvchannels/us/Al-Fady-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,15,Al Horreya TV,,MPEG-2/SD,789,1045 Ara,,,11096 H,tp BEM7,51-52,,,Al Horreya TV,https://www.lyngsat.com/tvchannels/us/Al-Horreya-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,15,Al Horreya TV,,MPEG-2/SD,789,1045 Ara,,,11096 H,tp BEM7,51-52,,,Al Horreya TV,https://www.lyngsat.com/tvchannels/us/Al-Horreya-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,16,Almasirah Mubasher,,MPEG-2/SD,790,1046 Ara,,,11096 H,tp BEM7,51-52,,,Almasirah Mubasher,https://www.lyngsat.com/tvchannels/ye/Almasirah-Mubasher.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,16,Almasirah Mubasher,,MPEG-2/SD,790,1046 Ara,,,11096 H,tp BEM7,51-52,,,Almasirah Mubasher,https://www.lyngsat.com/tvchannels/ye/Almasirah-Mubasher.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,17,Alanwar TV 2,,MPEG-2/SD,791,1047 Ara,,,11096 H,tp BEM7,51-52,,,Alanwar TV 2,https://www.lyngsat.com/tvchannels/kw/Alanwar-TV-2.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,17,Alanwar TV 2,,MPEG-2/SD,791,1047 Ara,,,11096 H,tp BEM7,51-52,,,Alanwar TV 2,https://www.lyngsat.com/tvchannels/kw/Alanwar-TV-2.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,18,Misr AlBalad,,MPEG-2/SD,792,1048 Ara,,,11096 H,tp BEM7,51-52,,,Misr AlBalad,https://www.lyngsat.com/tvchannels/eg/Misr-AlBalad.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,21,Allahdhah TV,,MPEG-2/SD,801,1057 Ara,,,11096 H,tp BEM7,51-52,,,Allahdhah TV,https://www.lyngsat.com/tvchannels/ye/Allahdhah-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,23,Logos TV (USA),,MPEG-2/SD,803,1059 Ara,,,11096 H,tp BEM7,51-52,,,Logos TV (USA),https://www.lyngsat.com/tvchannels/us/Logos-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,23,Logos TV (USA),,MPEG-2/SD,803,1059 Ara,,,11096 H,tp BEM7,51-52,,,Logos TV (USA),https://www.lyngsat.com/tvchannels/us/Logos-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,26,Koogi TV,,MPEG-2/SD,806,1062 Ara,,,11096 H,tp BEM7,51-52,,,Koogi TV,https://www.lyngsat.com/tvchannels/eg/Koogi-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,26,Koogi TV,,MPEG-2/SD,806,1062 Ara,,,11096 H,tp BEM7,51-52,,,Koogi TV,https://www.lyngsat.com/tvchannels/eg/Koogi-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,28,Wasat TV,,MPEG-4/HD,808,1064 Ara,,,11096 H,tp BEM7,51-52,,,Wasat TV,https://www.lyngsat.com/tvchannels/ly/Wasat-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,28,Wasat TV,,MPEG-4/HD,808,1064 Ara,,,11096 H,tp BEM7,51-52,,,Wasat TV,https://www.lyngsat.com/tvchannels/ly/Wasat-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,29,Alkeraza TV,,MPEG-2/SD,809,1065 Per,,,11096 H,tp BEM7,51-52,,,Alkeraza TV,https://www.lyngsat.com/tvchannels/us/Alkeraza-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,29,Alkeraza TV,,MPEG-2/SD,809,1065 Per,,,11096 H,tp BEM7,51-52,,,Alkeraza TV,https://www.lyngsat.com/tvchannels/us/Alkeraza-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,31,The Savior,,MPEG-2/SD,817,1073 Ara,,,11096 H,tp BEM7,51-52,,,The Savior,https://www.lyngsat.com/tvchannels/--/The-Savior.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,32,Almasirah TV,,MPEG-2/SD,818,1074 Ara,,,11096 H,tp BEM7,51-52,,,Almasirah TV,https://www.lyngsat.com/tvchannels/ye/Almasirah-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,32,Almasirah TV,,MPEG-2/SD,818,1074 Ara,,,11096 H,tp BEM7,51-52,,,Almasirah TV,https://www.lyngsat.com/tvchannels/ye/Almasirah-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,35,Iraq Future TV,,MPEG-2/SD,47,48 Ara,,,11096 H,tp BEM7,51-52,,,Iraq Future TV,https://www.lyngsat.com/tvchannels/--/Iraq-Future-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,38,Mariam TV,,MPEG-2/SD,824,1080 Ara,,,11096 H,tp BEM7,51-52,,,Mariam TV,https://www.lyngsat.com/tvchannels/lb/Mariam-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,38,Mariam TV,,MPEG-2/SD,824,1080 Ara,,,11096 H,tp BEM7,51-52,,,Mariam TV,https://www.lyngsat.com/tvchannels/lb/Mariam-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,40,Al Ons TV,,MPEG-2/SD,832,1088 Ara,,,11096 H,tp BEM7,51-52,,,Al Ons TV,https://www.lyngsat.com/tvchannels/ma/Al-Ons-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,43,Suboro TV,,MPEG-2/SD,835,1091 Ara,,,11096 H,tp BEM7,51-52,,,Suboro TV,https://www.lyngsat.com/tvchannels/sy/Suboro-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,43,Suboro TV,,MPEG-2/SD,835,1091 Ara,,,11096 H,tp BEM7,51-52,,,Suboro TV,https://www.lyngsat.com/tvchannels/sy/Suboro-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,,Suboro TV,,,1002,1003 Ara,,new,12687 V,tp FEE10,52,,,Suboro TV,https://www.lyngsat.com/tvchannels/sy/Suboro-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,,Suboro TV,,,1002,1003 Ara,,new,12687 V,tp FEE10,52,,,Suboro TV,https://www.lyngsat.com/tvchannels/sy/Suboro-TV.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,44,Nour Kids,,MPEG-2/SD,836,1092 Ara,,,11096 H,tp BEM7,51-52,,,Nour Kids,https://www.lyngsat.com/tvchannels/lb/Nour-Kids.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,44,Nour Kids,,MPEG-2/SD,836,1092 Ara,,,11096 H,tp BEM7,51-52,,,Nour Kids,https://www.lyngsat.com/tvchannels/lb/Nour-Kids.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,45,Nour Al Koddass,,MPEG-2/SD,837,1093 Ara,,,11096 H,tp BEM7,51-52,,,Nour Al Koddass,https://www.lyngsat.com/tvchannels/lb/Nour-Al-Koddass.html
+11096 Htp BEM7MENA51-52,DVB-S275007/8,45,Nour Al Koddass,,MPEG-2/SD,837,1093 Ara,,,11096 H,tp BEM7,51-52,,,Nour Al Koddass,https://www.lyngsat.com/tvchannels/lb/Nour-Al-Koddass.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,,Dubai Media,,2048-47,,5.5,,M Al-Taie230929,11096 V,tp BEM8,51-52,,https://www.lyngsat.com/providers/ae/Dubai-Media.html,,
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4710,Dubai TV,,MPEG-2/SD,201,401 Ara,,,11096 V,tp BEM8,51-52,,,Dubai TV,https://www.lyngsat.com/tvchannels/ae/Dubai-TV.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4710,Dubai TV,,MPEG-2/SD,201,401 Ara,,,11096 V,tp BEM8,51-52,,,Dubai TV,https://www.lyngsat.com/tvchannels/ae/Dubai-TV.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4711,Sama Dubai,,MPEG-2/SD,211,411 Ara,,,11096 V,tp BEM8,51-52,,,Sama Dubai,https://www.lyngsat.com/tvchannels/ae/Sama-Dubai.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4711,Sama Dubai,,MPEG-2/SD,211,411 Ara,,,11096 V,tp BEM8,51-52,,,Sama Dubai,https://www.lyngsat.com/tvchannels/ae/Sama-Dubai.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4712,Dubai Sports,,MPEG-2/SD,221,.21 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Sports,https://www.lyngsat.com/tvchannels/ae/Dubai-Sports.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4712,Dubai Sports,,MPEG-2/SD,221,.21 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Sports,https://www.lyngsat.com/tvchannels/ae/Dubai-Sports.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4713,Dubai Sports 2,,MPEG-2/SD,231,431 Ara 432 Eng,,,11096 V,tp BEM8,51-52,,,Dubai Sports 2,https://www.lyngsat.com/tvchannels/ae/Dubai-Sports-2.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4713,Dubai Sports 2,,MPEG-2/SD,231,431 Ara 432 Eng,,,11096 V,tp BEM8,51-52,,,Dubai Sports 2,https://www.lyngsat.com/tvchannels/ae/Dubai-Sports-2.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4714,Dubai Sports 3,,MPEG-2/SD,241,441 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Sports 3,https://www.lyngsat.com/tvchannels/ae/Dubai-Sports-3.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4715,Dubai Racing 2,,MPEG-2/SD,251,451 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Racing 2,https://www.lyngsat.com/tvchannels/ae/Dubai-Racing-2.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4716,Dubai Racing 3,,MPEG-2/SD,261,461 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Racing 3,https://www.lyngsat.com/tvchannels/ae/Dubai-Racing-3.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4719,Dubai One,,MPEG-2/SD,291,292 Eng,,,11096 V,tp BEM8,51-52,,,Dubai One,https://www.lyngsat.com/tvchannels/ae/Dubai-One.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4719,Dubai One,,MPEG-2/SD,291,292 Eng,,,11096 V,tp BEM8,51-52,,,Dubai One,https://www.lyngsat.com/tvchannels/ae/Dubai-One.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4730,Noor Dubai Radio,,,,301 Eng,,,11096 V,tp BEM8,51-52,,,Noor Dubai Radio,https://www.lyngsat.com/radiochannels/ae/Noor-Dubai-Radio.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4731,Dubai Radio 93,,,,311 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Radio 93,https://www.lyngsat.com/radiochannels/ae/Dubai-Radio-93.html
+11096 Vtp BEM8MENA51-52,DVB-S275003/4,4731,Dubai Radio 93,,,,311 Ara,,,11096 V,tp BEM8,51-52,,,Dubai Radio 93,https://www.lyngsat.com/radiochannels/ae/Dubai-Radio-93.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2701,Al Yawm,,MPEG-4/HD,42,41 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Al Yawm,https://www.lyngsat.com/tvchannels/ae/Al-Yawm.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2702,Al Safwa,,MPEG-4/SD,39,38 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Al Safwa,https://www.lyngsat.com/tvchannels/ae/Al-Safwa.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2703,Cinema 1,,MPEG-4/SD,36,35 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Cinema 1,https://www.lyngsat.com/tvchannels/ae/Cinema-1.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2704,Cinema 2,,MPEG-4/SD,33,1534 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Cinema 2,https://www.lyngsat.com/tvchannels/ae/Cinema-2.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2705,Musalsalat +2,,MPEG-4/HD,54,53 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Musalsalat +2,https://www.lyngsat.com/tvchannels/ae/Musalsalat--2.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2706,Musalsalat,,MPEG-4/HD,51,50 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Musalsalat,https://www.lyngsat.com/tvchannels/ae/Musalsalat.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2707,Fann,,MPEG-4/SD,48,47 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Fann,https://www.lyngsat.com/tvchannels/ae/Fann.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2708,Music Now,,MPEG-4/HD,45,44 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Music Now,https://www.lyngsat.com/tvchannels/ae/Music-Now.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2712,DW Arabia,,MPEG-4/HD,7121,7122 Ara,,,11137 H,tp BEM9,51-52,,,DW Arabia,https://www.lyngsat.com/tvchannels/de/DW-Arabia.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2712,DW Arabia,,MPEG-4/HD,7121,7122 Ara,,,11137 H,tp BEM9,51-52,,,DW Arabia,https://www.lyngsat.com/tvchannels/de/DW-Arabia.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2716,Sat TV promo,,MPEG-4/HD,7161,7162 Eng,,,11137 H,tp BEM9,51-52,,,,
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2717,Alkofiya TV,,MPEG-4/HD,7171,7172 Ara,,,11137 H,tp BEM9,51-52,,,Alkofiya TV,https://www.lyngsat.com/tvchannels/ps/Alkofiya-TV.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2717,Alkofiya TV,,MPEG-4/HD,7171,7172 Ara,,,11137 H,tp BEM9,51-52,,,Alkofiya TV,https://www.lyngsat.com/tvchannels/ps/Alkofiya-TV.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2709,Tarabiya't,,,,57 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Tarabiya't,https://www.lyngsat.com/radiochannels/ae/Tarabiyat.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2710,Khalijya't,,,,59 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Khalijya't,https://www.lyngsat.com/radiochannels/ae/Khalijyat.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2711,Monawa't,,,,65 Ara,Verimatrix (B),,11137 H,tp BEM9,51-52,Verimatrix (B),,Monawa't,https://www.lyngsat.com/radiochannels/ae/Monawat.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2713,DW-Radio A2,,,,7132,,,11137 H,tp BEM9,51-52,,,DW-Radio A2,https://www.lyngsat.com/radiochannels/de/DW-Radio-A2.html
+11137 Htp BEM9MENA51-52,DVB-S28PSK275005/6,2714,DW-Radio 5,,,,7142 Ara,,,11137 H,tp BEM9,51-52,,,DW-Radio 5,https://www.lyngsat.com/radiochannels/de/DW-Radio-5.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7302,Sham TV,,MPEG-2/SD,7304,7305 Ara,,,11137 V,tp BEM10,51-52,,,Sham TV,https://www.lyngsat.com/tvchannels/sy/Sham-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7302,Sham TV,,MPEG-2/SD,7304,7305 Ara,,,11137 V,tp BEM10,51-52,,,Sham TV,https://www.lyngsat.com/tvchannels/sy/Sham-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,2211,Sham TV,,MPEG-2/SD,33,2101 Ara,,,12604 V,tp FEE6,52,,,Sham TV,https://www.lyngsat.com/tvchannels/sy/Sham-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,2211,Sham TV,,MPEG-2/SD,33,2101 Ara,,,12604 V,tp FEE6,52,,,Sham TV,https://www.lyngsat.com/tvchannels/sy/Sham-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7303,Alhurra TV,,MPEG-4/HD,7307,7308 Ara,,,11137 V,tp BEM10,51-52,,,Alhurra TV,https://www.lyngsat.com/tvchannels/us/Alhurra-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7303,Alhurra TV,,MPEG-4/HD,7307,7308 Ara,,,11137 V,tp BEM10,51-52,,,Alhurra TV,https://www.lyngsat.com/tvchannels/us/Alhurra-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7305,Bin Othaimeen,,MPEG-2/SD,7313,7314 Ara,,,11137 V,tp BEM10,51-52,,,Bin Othaimeen,https://www.lyngsat.com/tvchannels/sa/Bin-Othaimeen.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7305,Bin Othaimeen,,MPEG-2/SD,7313,7314 Ara,,,11137 V,tp BEM10,51-52,,,Bin Othaimeen,https://www.lyngsat.com/tvchannels/sa/Bin-Othaimeen.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7306,ERI TV 1,,MPEG-4/SD,7315,7616,,,11137 V,tp BEM10,51-52,,,ERI TV 1,https://www.lyngsat.com/tvchannels/er/ERI-TV-1.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7307,(Majd feeds),,,7318,7319,,,11137 V,tp BEM10,51-52,,,,
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7308,El Mehwar TV,,MPEG-4/HD,7321,7322 Ara,,,11137 V,tp BEM10,51-52,,,El Mehwar TV,https://www.lyngsat.com/tvchannels/eg/El-Mehwar-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7308,El Mehwar TV,,MPEG-4/HD,7321,7322 Ara,,,11137 V,tp BEM10,51-52,,,El Mehwar TV,https://www.lyngsat.com/tvchannels/eg/El-Mehwar-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7507,El Mehwar TV,,MPEG-2/SD,7518,7519 Ara,,,12729 H,tp FEM11,51-52,,,El Mehwar TV,https://www.lyngsat.com/tvchannels/eg/El-Mehwar-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7507,El Mehwar TV,,MPEG-2/SD,7518,7519 Ara,,,12729 H,tp FEM11,51-52,,,El Mehwar TV,https://www.lyngsat.com/tvchannels/eg/El-Mehwar-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7310,Alerth Alnabawi Channel,,MPEG-2/SD,7327,4230 Ara,,,11137 V,tp BEM10,51-52,,,Alerth Alnabawi Channel,https://www.lyngsat.com/tvchannels/jo/Alerth-Alnabawi-Channel.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7313,Kaifa TV,,MPEG-2/SD,7336,7337 Ara,,,11137 V,tp BEM10,51-52,,,Kaifa TV,https://www.lyngsat.com/tvchannels/jo/Kaifa-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7316,Alforat TV,,MPEG-4/HD,7344,7345 Ara,,,11137 V,tp BEM10,51-52,,,Alforat TV,https://www.lyngsat.com/tvchannels/iq/Alforat-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7317,CNBC Arabiya,,MPEG-4/HD,7347,7348 Ara,,,11137 V,tp BEM10,51-52,,,CNBC Arabiya,https://www.lyngsat.com/tvchannels/us/CNBC-Arabiya.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7317,CNBC Arabiya,,MPEG-4/HD,7347,7348 Ara,,,11137 V,tp BEM10,51-52,,,CNBC Arabiya,https://www.lyngsat.com/tvchannels/us/CNBC-Arabiya.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7319,Drama Al Badya,,MPEG-4/HD,7353,7354 Ara,,,11137 V,tp BEM10,51-52,,,Drama Al Badya,https://www.lyngsat.com/tvchannels/--/Drama-Al-Badya.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7322,Al M3ali TV,,MPEG-2/SD,7362,7363 Ara,,,11137 V,tp BEM10,51-52,,,Al M3ali TV,https://www.lyngsat.com/tvchannels/kw/Al-M3ali-TV.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7330,Radio Zara FM,,,,7390 Tir,,,11137 V,tp BEM10,51-52,,,Radio Zara FM,https://www.lyngsat.com/radiochannels/er/Radio-Zara-FM.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7330,Radio Zara FM,,,,7390 Tir,,,11137 V,tp BEM10,51-52,,,Radio Zara FM,https://www.lyngsat.com/radiochannels/er/Radio-Zara-FM.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7332,Radio Zara FM,,,,7393 Tir,,,11137 V,tp BEM10,51-52,,,Radio Zara FM,https://www.lyngsat.com/radiochannels/er/Radio-Zara-FM.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7332,Radio Zara FM,,,,7393 Tir,,,11137 V,tp BEM10,51-52,,,Radio Zara FM,https://www.lyngsat.com/radiochannels/er/Radio-Zara-FM.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7331,Dimtsi Hafash,,,,7392,,,11137 V,tp BEM10,51-52,,,Dimtsi Hafash,https://www.lyngsat.com/radiochannels/er/Dimtsi-Hafash.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7331,Dimtsi Hafash,,,,7392,,,11137 V,tp BEM10,51-52,,,Dimtsi Hafash,https://www.lyngsat.com/radiochannels/er/Dimtsi-Hafash.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7333,Dimtsi Hafash,,,,7394,,,11137 V,tp BEM10,51-52,,,Dimtsi Hafash,https://www.lyngsat.com/radiochannels/er/Dimtsi-Hafash.html
+11137 Vtp BEM10MENA51-52,DVB-S28PSK275003/4,7333,Dimtsi Hafash,,,,7394,,,11137 V,tp BEM10,51-52,,,Dimtsi Hafash,https://www.lyngsat.com/radiochannels/er/Dimtsi-Hafash.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7401,ERTU 3 Al Kahera,,MPEG-2/SD,7401,7402 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 3 Al Kahera,https://www.lyngsat.com/tvchannels/eg/ERTU-3-Al-Kahera.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7402,ERTU 4 Al Kanal,,MPEG-2/SD,7404,7405 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 4 Al Kanal,https://www.lyngsat.com/tvchannels/eg/ERTU-4-Al-Kanal.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7403,ERTU 5 Al Askandria,,MPEG-2/SD,7407,7408 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 5 Al Askandria,https://www.lyngsat.com/tvchannels/eg/ERTU-5-Al-Askandria.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7404,ERTU 6 Al Delta,,MPEG-2/SD,7410,7411 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 6 Al Delta,https://www.lyngsat.com/tvchannels/eg/ERTU-6-Al-Delta.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7405,ERTU 7 Al Saeed,,MPEG-2/SD,7413,7414 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 7 Al Saeed,https://www.lyngsat.com/tvchannels/eg/ERTU-7-Al-Saeed.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7406,ERTU 8 Teba,,MPEG-2/SD,7416,7417 Ara,,,11179 V,tp BEM12,51-52,,,ERTU 8 Teba,https://www.lyngsat.com/tvchannels/eg/ERTU-8-Teba.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7407,Al Masriyah,,MPEG-2/SD,7419,7420 Ara,,,11179 V,tp BEM12,51-52,,,Al Masriyah,https://www.lyngsat.com/tvchannels/eg/Al-Masriyah.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7407,Al Masriyah,,MPEG-2/SD,7419,7420 Ara,,,11179 V,tp BEM12,51-52,,,Al Masriyah,https://www.lyngsat.com/tvchannels/eg/Al-Masriyah.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7408,Diwan TV,,MPEG-4/HD,7422,7423 Ara,,,11179 V,tp BEM12,51-52,,,Diwan TV,https://www.lyngsat.com/tvchannels/iq/Diwan-TV.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7409,Madrasetna 2,,MPEG-2/SD,7425,7426 Ara,,,11179 V,tp BEM12,51-52,,,Madrasetna 2,https://www.lyngsat.com/tvchannels/eg/Madrasetna-2.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7410,Nile Education Channel,,MPEG-2/SD,7429,7430 Ara,,,11179 V,tp BEM12,51-52,,,Nile Education Channel,https://www.lyngsat.com/tvchannels/eg/Nile-Education-Channel.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7411,Sudan Basic Edu,,MPEG-2/SD,7432,7433 Ara,,,11179 V,tp BEM12,51-52,,,Sudan Basic Edu,https://www.lyngsat.com/tvchannels/sd/Sudan-Basic-Edu.html
+11179 Vtp BEM12MENA51-52,DVB-S275005/6,7412,[Sudan Secondary Edu info card],,MPEG-2/SD,7435,7436 Ara,,,11179 V,tp BEM12,51-52,,,,
+11471 Vtp DAE2East52,DVB-S275005/6,,MBC,,2048-59,,6.5,,S Suzkin231025,11471 V,tp DAE2,52,,https://www.lyngsat.com/providers/sa/MBC.html,,
+11471 Vtp DAE2East52,DVB-S275005/6,2,Al Hadath,,MPEG-2/SD,201,202 Ara,,,11471 V,tp DAE2,52,,,Al Hadath,https://www.lyngsat.com/tvchannels/sa/Al-Hadath.html
+11471 Vtp DAE2East52,DVB-S275005/6,2,Al Hadath,,MPEG-2/SD,201,202 Ara,,,11471 V,tp DAE2,52,,,Al Hadath,https://www.lyngsat.com/tvchannels/sa/Al-Hadath.html
+11471 Vtp DAE2East52,DVB-S275005/6,3,MBC 5,,MPEG-2/SD,301,302 Ara,,,11471 V,tp DAE2,52,,,MBC 5,https://www.lyngsat.com/tvchannels/sa/MBC-5.html
+11471 Vtp DAE2East52,DVB-S275005/6,3,MBC 5,,MPEG-2/SD,301,302 Ara,,,11471 V,tp DAE2,52,,,MBC 5,https://www.lyngsat.com/tvchannels/sa/MBC-5.html
+11471 Vtp DAE2East52,DVB-S275005/6,4,MBC (Saudi Arabia),,MPEG-2/SD,401,402 Ara,,,11471 V,tp DAE2,52,,,MBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC.html
+11471 Vtp DAE2East52,DVB-S275005/6,4,MBC (Saudi Arabia),,MPEG-2/SD,401,402 Ara,,,11471 V,tp DAE2,52,,,MBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC.html
+11471 Vtp DAE2East52,DVB-S275005/6,5,MBC 4,,MPEG-2/SD,501,502 Eng,,,11471 V,tp DAE2,52,,,MBC 4,https://www.lyngsat.com/tvchannels/sa/MBC-4.html
+11471 Vtp DAE2East52,DVB-S275005/6,6,MBC Drama (Saudi Arabia),,MPEG-2/SD,601,602 Ara,,,11471 V,tp DAE2,52,,,MBC Drama (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-Drama.html
+11471 Vtp DAE2East52,DVB-S275005/6,6,MBC Drama (Saudi Arabia),,MPEG-2/SD,601,602 Ara,,,11471 V,tp DAE2,52,,,MBC Drama (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-Drama.html
+11471 Vtp DAE2East52,DVB-S275005/6,7,Citruss TV,,MPEG-2/SD,701,702 Ara,,,11471 V,tp DAE2,52,,,Citruss TV,https://www.lyngsat.com/tvchannels/sa/Citruss-TV.html
+11471 Vtp DAE2East52,DVB-S275005/6,8,MBC Bollywood,,MPEG-2/SD,801,802 Ara,,,11471 V,tp DAE2,52,,,MBC Bollywood,https://www.lyngsat.com/tvchannels/sa/MBC-Bollywood.html
+11471 Vtp DAE2East52,DVB-S275005/6,9,MBC 2 (Saudi Arabia),,MPEG-2/SD,901,902 Ara,,,11471 V,tp DAE2,52,,,MBC 2 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-2.html
+11471 Vtp DAE2East52,DVB-S275005/6,10,MBC Action,,MPEG-2/SD,1001,1002 Eng,,,11471 V,tp DAE2,52,,,MBC Action,https://www.lyngsat.com/tvchannels/sa/MBC-Action.html
+11471 Vtp DAE2East52,DVB-S275005/6,11,MBC 3 (Saudi Arabia),,MPEG-2/SD,1101,1102 Ara,,,11471 V,tp DAE2,52,,,MBC 3 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-3.html
+11471 Vtp DAE2East52,DVB-S275005/6,11,MBC 3 (Saudi Arabia),,MPEG-2/SD,1101,1102 Ara,,,11471 V,tp DAE2,52,,,MBC 3 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-3.html
+11471 Vtp DAE2East52,DVB-S275005/6,12,Alarabiya Business,,MPEG-4/HD,1201,1202 Ara,,,11471 V,tp DAE2,52,,,Alarabiya Business,https://www.lyngsat.com/tvchannels/sa/Alarabiya-Business.html
+11471 Vtp DAE2East52,DVB-S275005/6,12,Alarabiya Business,,MPEG-4/HD,1201,1202 Ara,,,11471 V,tp DAE2,52,,,Alarabiya Business,https://www.lyngsat.com/tvchannels/sa/Alarabiya-Business.html
+11471 Vtp DAE2East52,DVB-S275005/6,20,MBC Maser,,MPEG-2/SD,2001,2002 Ara,,,11471 V,tp DAE2,52,,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html
+11471 Vtp DAE2East52,DVB-S275005/6,20,MBC Maser,,MPEG-2/SD,2001,2002 Ara,,,11471 V,tp DAE2,52,,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html
+11471 Vtp DAE2East52,DVB-S275005/6,14,MBC FM,,,,1401 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,14,MBC FM,,,,1401 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,14,MBC FM,,,,1401 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,14,MBC FM,,,,1401 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,16,MBC FM,,,,1601 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,16,MBC FM,,,,1601 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,16,MBC FM,,,,1601 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,16,MBC FM,,,,1601 Ara,,,11471 V,tp DAE2,52,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,15,Panorama FM,,,,1501 Ara,,,11471 V,tp DAE2,52,,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html
+11471 Vtp DAE2East52,DVB-S275005/6,15,Panorama FM,,,,1501 Ara,,,11471 V,tp DAE2,52,,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html
+11554 Vtp DAE6East52,DVB-S275007/8,,Gulfsat,,20480-300,,7.2,,Hadowooalsatan240315,11554 V,tp DAE6,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11554 Vtp DAE6East52,DVB-S275007/8,,Gulfsat,,20480-300,,7.2,,Hadowooalsatan240315,11554 V,tp DAE6,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11554 Vtp DAE6East52,DVB-S275007/8,,Gulfsat,,20480-300,,7.2,,Hadowooalsatan240315,11554 V,tp DAE6,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11678 Vtp DAE12East52,DVB-S275007/8,,Gulfsat,,20480-700,,7.2,,R Cervi240328,11678 V,tp DAE12,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11678 Vtp DAE12East52,DVB-S275007/8,,Gulfsat,,20480-700,,7.2,,R Cervi240328,11678 V,tp DAE12,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11678 Vtp DAE12East52,DVB-S275007/8,,Gulfsat,,20480-700,,7.2,,R Cervi240328,11678 V,tp DAE12,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,,Gulfsat,,20480-950,,7.9,,HadowooalsatanR Cervi240328,12687 V,tp FEE10,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,,Gulfsat,,20480-950,,7.9,,HadowooalsatanR Cervi240328,12687 V,tp FEE10,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,,Gulfsat,,20480-950,,7.9,,HadowooalsatanR Cervi240328,12687 V,tp FEE10,52,,https://www.lyngsat.com/providers/kw/Gulfsat.html,,
+11554 Vtp DAE6East52,DVB-S275007/8,2200,[Gulfsat info card],,MPEG-2/SD,2202,,,,11554 V,tp DAE6,52,,,,
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3890,[Gulfsat info card],,MPEG-2/SD,3892,3893,,,12646 H,tp FEM7,51-52,,,,
+11554 Vtp DAE6East52,DVB-S275007/8,2210,Alahvaz TV,,MPEG-2/SD,2212,2213 Per,,,11554 V,tp DAE6,52,,,Alahvaz TV,https://www.lyngsat.com/tvchannels/ir/Alahvaz-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2220,Alwilayah TV,,MPEG-2/SD,2222,2223 Per,,,11554 V,tp DAE6,52,,,Alwilayah TV,https://www.lyngsat.com/tvchannels/ir/Alwilayah-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2220,Alwilayah TV,,MPEG-2/SD,2222,2223 Per,,,11554 V,tp DAE6,52,,,Alwilayah TV,https://www.lyngsat.com/tvchannels/ir/Alwilayah-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2260,12 Baghdad,,MPEG-2/SD,2262,2263 Ara,,,11554 V,tp DAE6,52,,,12 Baghdad,https://www.lyngsat.com/tvchannels/--/12-Baghdad.html
+11554 Vtp DAE6East52,DVB-S275007/8,2270,Nesiha TV,,MPEG-2/SD,2272,2273 Amh,,,11554 V,tp DAE6,52,,,Nesiha TV,https://www.lyngsat.com/tvchannels/et/Nesiha-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2310,Al Basrah 1,,MPEG-4/SD,2312,2313 Ara,,,11554 V,tp DAE6,52,,,Al Basrah 1,https://www.lyngsat.com/tvchannels/iq/Al-Basrah-1.html
+11554 Vtp DAE6East52,DVB-S275007/8,2320,QTV (Iraq),,MPEG-2/SD,2322,2323 Ara,,,11554 V,tp DAE6,52,,,QTV (Iraq),https://www.lyngsat.com/tvchannels/iq/QTV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2360,ATV (Kuwait),,MPEG-4/HD,2362,2364 Ara,,,11554 V,tp DAE6,52,,,ATV (Kuwait),https://www.lyngsat.com/tvchannels/kw/ATV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2410,Al-Sabah TV,,MPEG-2/SD,2412,2413 Ara,,,11554 V,tp DAE6,52,,,Al-Sabah TV,https://www.lyngsat.com/tvchannels/kw/Al-Sabah-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2420,Al-Mahdi Satellite Channel,,MPEG-2/SD,2422,2423 Ara,,,11554 V,tp DAE6,52,,,Al-Mahdi Satellite Channel,https://www.lyngsat.com/tvchannels/kw/Al-Mahdi-Satellite-Channel.html
+11554 Vtp DAE6East52,DVB-S275007/8,2420,Al-Mahdi Satellite Channel,,MPEG-2/SD,2422,2423 Ara,,,11554 V,tp DAE6,52,,,Al-Mahdi Satellite Channel,https://www.lyngsat.com/tvchannels/kw/Al-Mahdi-Satellite-Channel.html
+11554 Vtp DAE6East52,DVB-S275007/8,2430,Salam TV (Turkey),,MPEG-4/SD,2432,2433,,,11554 V,tp DAE6,52,,,Salam TV (Turkey),https://www.lyngsat.com/tvchannels/tr/Salam-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2430,Salam TV (Turkey),,MPEG-4/SD,2432,2433,,,11554 V,tp DAE6,52,,,Salam TV (Turkey),https://www.lyngsat.com/tvchannels/tr/Salam-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2470,Al Fallujah TV,,MPEG-2/SD,2472,2474 Ara,,,11554 V,tp DAE6,52,,,Al Fallujah TV,https://www.lyngsat.com/tvchannels/iq/Al-Fallujah-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2480,New Alkazime TV,,MPEG-4/SD,2482,2483 Ara,,,11554 V,tp DAE6,52,,,New Alkazime TV,https://www.lyngsat.com/tvchannels/--/New-Alkazime-TV.html
+11554 Vtp DAE6East52,DVB-S275007/8,2510,Om-AlBaneen TV,,MPEG-4/SD,2512,2.13 Ara,,,11554 V,tp DAE6,52,,,Om-AlBaneen TV,https://www.lyngsat.com/tvchannels/--/Om-AlBaneen-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,,STN,,1918-50100,,9.4,,HadowooalsatanR Cervi240328,11637 V,tp DAE10,52,,https://www.lyngsat.com/providers/si/STN.html,,
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,1,Speda Channel,,MPEG-4/HD,512,650 Kur,,,11637 V,tp DAE10,52,,,Speda Channel,https://www.lyngsat.com/tvchannels/iq/Speda-Channel.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,1,Speda Channel,,MPEG-4/HD,512,650 Kur,,,11637 V,tp DAE10,52,,,Speda Channel,https://www.lyngsat.com/tvchannels/iq/Speda-Channel.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,2,Jin TV,,MPEG-4/HD,513,660 Kur,,,11637 V,tp DAE10,52,,,Jin TV,https://www.lyngsat.com/tvchannels/nl/Jin-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,2,Jin TV,,MPEG-4/HD,513,660 Kur,,,11637 V,tp DAE10,52,,,Jin TV,https://www.lyngsat.com/tvchannels/nl/Jin-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,3,7 Spirits TV,,MPEG-4/SD,514,670 Amh,,,11637 V,tp DAE10,52,,,7 Spirits TV,https://www.lyngsat.com/tvchannels/et/7-Spirits-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,4,Net TV,,MPEG-4/SD,515,680 Kur,,,11637 V,tp DAE10,52,,,Net TV,https://www.lyngsat.com/tvchannels/iq/Net-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,5,Neu TV,,MPEG-4/SD,516,690 Kur,,,11637 V,tp DAE10,52,,,Neu TV,https://www.lyngsat.com/tvchannels/--/Neu-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,6,Sudan Bukra,,MPEG-2/SD,517,700 Ara,,,11637 V,tp DAE10,52,,,Sudan Bukra,https://www.lyngsat.com/tvchannels/uk/Sudan-Bukra.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,8,Med Muzîk,,MPEG-4/SD,519,720 Kur,,,11637 V,tp DAE10,52,,,Med Muzîk,https://www.lyngsat.com/tvchannels/tr/Med-Muzik.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,8,Med Muzîk,,MPEG-4/SD,519,720 Kur,,,11637 V,tp DAE10,52,,,Med Muzîk,https://www.lyngsat.com/tvchannels/tr/Med-Muzik.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,9,Bilal TV,,MPEG-2/SD,520,730 Amh,,new,11637 V,tp DAE10,52,,,Bilal TV,https://www.lyngsat.com/tvchannels/et/Bilal-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,10,Mereja TV,,MPEG-4/SD,521,740 Amh,,,11637 V,tp DAE10,52,,,Mereja TV,https://www.lyngsat.com/tvchannels/et/Mereja-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,10,Mereja TV,,MPEG-4/SD,521,740 Amh,,,11637 V,tp DAE10,52,,,Mereja TV,https://www.lyngsat.com/tvchannels/et/Mereja-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,11,Stêrk,,MPEG-4/HD,522,750 Kur,,,11637 V,tp DAE10,52,,,Stêrk,https://www.lyngsat.com/tvchannels/no/Sterk.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,11,Stêrk,,MPEG-4/HD,522,750 Kur,,,11637 V,tp DAE10,52,,,Stêrk,https://www.lyngsat.com/tvchannels/no/Sterk.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,12,NRT 4,,MPEG-4/SD,523,760,,,11637 V,tp DAE10,52,,,NRT 4,https://www.lyngsat.com/tvchannels/iq/NRT-4.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,13,Africa TV 1 (Sudan),,,524,770 Amh,,,11637 V,tp DAE10,52,,,Africa TV 1 (Sudan),https://www.lyngsat.com/tvchannels/sd/Africa-TV-1.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,13,Africa TV 1 (Sudan),,,524,770 Amh,,,11637 V,tp DAE10,52,,,Africa TV 1 (Sudan),https://www.lyngsat.com/tvchannels/sd/Africa-TV-1.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,14,Gospel TV (Ethiopia),,MPEG-4/SD,525,780 Amh,,,11637 V,tp DAE10,52,,,Gospel TV (Ethiopia),https://www.lyngsat.com/tvchannels/et/Gospel-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,15,Africa TV 1 Quran,,,526,790 Amh,,,11637 V,tp DAE10,52,,,Africa TV 1 Quran,https://www.lyngsat.com/tvchannels/sd/Africa-TV-1-Quran.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,16,[Camel Owners Association test card],,MPEG-4/SD,527,800 Ara,,,11637 V,tp DAE10,52,,,,
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,17,Zawya TV,,,528,810 Amh,,new,11637 V,tp DAE10,52,,,Zawya TV,https://www.lyngsat.com/tvchannels/et/Zawya-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,17,Zawya TV,,,528,810 Amh,,new,11637 V,tp DAE10,52,,,Zawya TV,https://www.lyngsat.com/tvchannels/et/Zawya-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,82,Zawya TV,,MPEG-2/SD,8021,8022 Amh,,,12521 V,tp FEE2,52,,,Zawya TV,https://www.lyngsat.com/tvchannels/et/Zawya-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,82,Zawya TV,,MPEG-2/SD,8021,8022 Amh,,,12521 V,tp FEE2,52,,,Zawya TV,https://www.lyngsat.com/tvchannels/et/Zawya-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,19,TV Islaamaa,,,530,830 Ara,,new,11637 V,tp DAE10,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,19,TV Islaamaa,,,530,830 Ara,,new,11637 V,tp DAE10,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,19,TV Islaamaa,,,530,830 Ara,,new,11637 V,tp DAE10,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,19,TV Islaamaa,,,530,830 Ara,,new,11637 V,tp DAE10,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+12521 Vtp FEE2East52,DVB-S275007/8,84,TV Islaamaa,,MPEG-2/SD,8041,8042 Ara,,,12521 V,tp FEE2,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+12521 Vtp FEE2East52,DVB-S275007/8,84,TV Islaamaa,,MPEG-2/SD,8041,8042 Ara,,,12521 V,tp FEE2,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+12521 Vtp FEE2East52,DVB-S275007/8,84,TV Islaamaa,,MPEG-2/SD,8041,8042 Ara,,,12521 V,tp FEE2,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+12521 Vtp FEE2East52,DVB-S275007/8,84,TV Islaamaa,,MPEG-2/SD,8041,8042 Ara,,,12521 V,tp FEE2,52,,,TV Islaamaa,https://www.lyngsat.com/tvchannels/us/TV-Islaamaa.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,20,NRT,,MPEG-4/HD,531,840 Kur,,,11637 V,tp DAE10,52,,,NRT,https://www.lyngsat.com/tvchannels/iq/NRT.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,20,NRT,,MPEG-4/HD,531,840 Kur,,,11637 V,tp DAE10,52,,,NRT,https://www.lyngsat.com/tvchannels/iq/NRT.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,21,Amozhgary TV,,MPEG-4/SD,532,850 Kur,,,11637 V,tp DAE10,52,,,Amozhgary TV,https://www.lyngsat.com/tvchannels/iq/Amozhgary-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,21,Amozhgary TV,,MPEG-4/SD,532,850 Kur,,,11637 V,tp DAE10,52,,,Amozhgary TV,https://www.lyngsat.com/tvchannels/iq/Amozhgary-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,22,Daewa TV,,,533,860 Amh,,new,11637 V,tp DAE10,52,,,Daewa TV,https://www.lyngsat.com/tvchannels/ae/Daewa-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,23,NRT 3 Kids,,MPEG-4/SD,534,870,,,11637 V,tp DAE10,52,,,NRT 3 Kids,https://www.lyngsat.com/tvchannels/iq/NRT-3-Kids.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,25,Hamiltan TV,,,536,890 Som,,new,11637 V,tp DAE10,52,,,Hamiltan TV,https://www.lyngsat.com/tvchannels/et/Hamiltan-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,28,Sada FM TV,,MPEG-4/SD,540,920 Ara,,,11637 V,tp DAE10,52,,,Sada FM TV,https://www.lyngsat.com/tvchannels/--/Sada-FM-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,29,Kurdsat,,/HD,539,930 Kur,,new,11637 V,tp DAE10,52,,,Kurdsat,https://www.lyngsat.com/tvchannels/iq/Kurdsat.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,30,Kurdsat News,,,541,940 Kur,,new,11637 V,tp DAE10,52,,,Kurdsat News,https://www.lyngsat.com/tvchannels/iq/Kurdsat-News.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,30,Kurdsat News,,,541,940 Kur,,new,11637 V,tp DAE10,52,,,Kurdsat News,https://www.lyngsat.com/tvchannels/iq/Kurdsat-News.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,32,Al Karama News,,MPEG-2/SD,543,960 Ara,,,11637 V,tp DAE10,52,,,Al Karama News,https://www.lyngsat.com/tvchannels/--/Al-Karama-News.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,33,NRT 2,,MPEG-4/SD,544,970,,,11637 V,tp DAE10,52,,,NRT 2,https://www.lyngsat.com/tvchannels/iq/NRT-2.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,34,MaEzer Semay TV,,MPEG-4/SD,545,980 Amh,,,11637 V,tp DAE10,52,,,MaEzer Semay TV,https://www.lyngsat.com/tvchannels/er/MaEzer-Semay-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,36,GK Channel,,MPEG-4/SD,547,1000 Kur,,,11637 V,tp DAE10,52,,,GK Channel,https://www.lyngsat.com/tvchannels/iq/GK-Channel.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,36,GK Channel,,MPEG-4/SD,547,1000 Kur,,,11637 V,tp DAE10,52,,,GK Channel,https://www.lyngsat.com/tvchannels/iq/GK-Channel.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,39,Christ Army TV,,MPEG-4/SD,550,1030 Amh,,,11637 V,tp DAE10,52,,,Christ Army TV,https://www.lyngsat.com/tvchannels/et/Christ-Army-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,43,[Al Watania 24 test card],,MPEG-4/SD,554,1070 Ara,,,11637 V,tp DAE10,52,,,,
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,44,Nuur TV,,MPEG-4/SD,555,1080,,,11637 V,tp DAE10,52,,,Nuur TV,https://www.lyngsat.com/tvchannels/za/Nuur-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,45,Medan TV,,MPEG-4/SD,556,1090,,,11637 V,tp DAE10,52,,,Medan TV,https://www.lyngsat.com/tvchannels/za/Medan-TV.html
+11637 Vtp DAE10East52,DVB-S28PSK275005/6,31,Alrai Radio,,,,950 Ara,,,11637 V,tp DAE10,52,,,Alrai Radio,https://www.lyngsat.com/radiochannels/kw/Alrai-Radio.html
+11678 Vtp DAE12East52,DVB-S275007/8,6440,Al Sukariya Hekayat,,MPEG-2/SD,6442,6443 Ara,,new,11678 V,tp DAE12,52,,,Al Sukariya Hekayat,https://www.lyngsat.com/tvchannels/--/Al-Sukariya-Hekayat.html
+11678 Vtp DAE12East52,DVB-S275007/8,6460,Al Shasha Cinema,,MPEG-2/SD,6462,6463 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Cinema,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Cinema.html
+11678 Vtp DAE12East52,DVB-S275007/8,6470,Al Shasha Muslslat,,MPEG-2/SD,6472,6473 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Muslslat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Muslslat.html
+11678 Vtp DAE12East52,DVB-S275007/8,6470,Al Shasha Muslslat,,MPEG-2/SD,6472,6473 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Muslslat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Muslslat.html
+12563 Vtp FEE4East52,DVB-S275007/8,241,Al Shasha Muslslat,,MPEG-2/SD,1241,2241 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Muslslat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Muslslat.html
+12563 Vtp FEE4East52,DVB-S275007/8,241,Al Shasha Muslslat,,MPEG-2/SD,1241,2241 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Muslslat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Muslslat.html
+11678 Vtp DAE12East52,DVB-S275007/8,6480,Al Sukariya Cinema,,MPEG-2/SD,6482,6483 Ara,,new,11678 V,tp DAE12,52,,,Al Sukariya Cinema,https://www.lyngsat.com/tvchannels/--/Al-Sukariya-Cinema.html
+11678 Vtp DAE12East52,DVB-S275007/8,6490,Fox Be Elaraby TV,,MPEG-2/SD,6492,6493 Ara,,new,11678 V,tp DAE12,52,,,Fox Be Elaraby TV,https://www.lyngsat.com/tvchannels/--/Fox-Be-Elaraby-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6500,Al Sukariya Zaman,,MPEG-2/SD,6502,6503 Ara,,new,11678 V,tp DAE12,52,,,Al Sukariya Zaman,https://www.lyngsat.com/tvchannels/--/Al-Sukariya-Zaman.html
+11678 Vtp DAE12East52,DVB-S275007/8,6510,Fox Hekayat,,MPEG-2/SD,6512,6513 Ara,,new,11678 V,tp DAE12,52,,,Fox Hekayat,https://www.lyngsat.com/tvchannels/us/Fox-Hekayat.html
+11678 Vtp DAE12East52,DVB-S275007/8,6520,West Elbalad Zaman,,MPEG-2/SD,6522,6523 Ara,,new,11678 V,tp DAE12,52,,,West Elbalad Zaman,https://www.lyngsat.com/tvchannels/--/West-Elbalad-Zaman.html
+11678 Vtp DAE12East52,DVB-S275007/8,6530,Beirut Aflam,,MPEG-2/SD,6532,6533 Ara,,,11678 V,tp DAE12,52,,,Beirut Aflam,https://www.lyngsat.com/tvchannels/--/Beirut-Aflam.html
+11678 Vtp DAE12East52,DVB-S275007/8,6540,Beirut Alyooom,,MPEG-2/SD,6542,6543 Ara,,,11678 V,tp DAE12,52,,,Beirut Alyooom,https://www.lyngsat.com/tvchannels/--/Beirut-Alyooom.html
+11678 Vtp DAE12East52,DVB-S275007/8,6550,Beirut Cinema,,MPEG-2/SD,6552,6553 Ara,,,11678 V,tp DAE12,52,,,Beirut Cinema,https://www.lyngsat.com/tvchannels/--/Beirut-Cinema.html
+11678 Vtp DAE12East52,DVB-S275007/8,6560,El Omda TV Alyom,,MPEG-2/SD,6562,6563 Ara,,new,11678 V,tp DAE12,52,,,El Omda TV Alyom,https://www.lyngsat.com/tvchannels/--/El-Omda-TV-Alyom.html
+11678 Vtp DAE12East52,DVB-S275007/8,6570,Beirut Drama,,MPEG-2/SD,6572,6573 Ara,,,11678 V,tp DAE12,52,,,Beirut Drama,https://www.lyngsat.com/tvchannels/--/Beirut-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,6580,Al Shasha Alwan,,MPEG-2/SD,6582,65.3 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Alwan,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Alwan.html
+11678 Vtp DAE12East52,DVB-S275007/8,6590,West Elbalad Drama,,MPEG-2/SD,6592,6593 Ara,,new,11678 V,tp DAE12,52,,,West Elbalad Drama,https://www.lyngsat.com/tvchannels/--/West-Elbalad-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,6600,Alking Drama,,MPEG-2/SD,6602,6603 Ara,,new,11678 V,tp DAE12,52,,,Alking Drama,https://www.lyngsat.com/tvchannels/--/Alking-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,6610,One Movies,,MPEG-2/SD,6612,6613 Ara,,new,11678 V,tp DAE12,52,,,One Movies,https://www.lyngsat.com/tvchannels/eg/One-Movies.html
+11678 Vtp DAE12East52,DVB-S275007/8,6650,Alassema TV,,MPEG-2/SD,6652,6653 Ara,,new,11678 V,tp DAE12,52,,,Alassema TV,https://www.lyngsat.com/tvchannels/eg/Alassema-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6660,Melody Drama,,MPEG-2/SD,6662,6663 Ara,,new,11678 V,tp DAE12,52,,,Melody Drama,https://www.lyngsat.com/tvchannels/eg/Melody-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,6670,Alrai TV,,MPEG-4/HD,6672,6673 Ara,,,11678 V,tp DAE12,52,,,Alrai TV,https://www.lyngsat.com/tvchannels/kw/Alrai-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6670,Alrai TV,,MPEG-4/HD,6672,6673 Ara,,,11678 V,tp DAE12,52,,,Alrai TV,https://www.lyngsat.com/tvchannels/kw/Alrai-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6680,Yarmouk TV,,MPEG-4/SD,6682,6683 Ara,,,11678 V,tp DAE12,52,,,Yarmouk TV,https://www.lyngsat.com/tvchannels/jo/Yarmouk-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6680,Yarmouk TV,,MPEG-4/SD,6682,6683 Ara,,,11678 V,tp DAE12,52,,,Yarmouk TV,https://www.lyngsat.com/tvchannels/jo/Yarmouk-TV.html
+11678 Vtp DAE12East52,DVB-S275007/8,6690,Al Sukariya Classic,,MPEG-2/SD,6692,6693 Ara,,new,11678 V,tp DAE12,52,,,Al Sukariya Classic,https://www.lyngsat.com/tvchannels/--/Al-Sukariya-Classic.html
+11678 Vtp DAE12East52,DVB-S275007/8,7010,Melody Aflam,,MPEG-2/SD,7012,7013 Ara,,new,11678 V,tp DAE12,52,,,Melody Aflam,https://www.lyngsat.com/tvchannels/eg/Melody-Aflam.html
+11678 Vtp DAE12East52,DVB-S275007/8,7060,Dolly Mosalsalat,,MPEG-4/SD,7062,7063 Ara,,new,11678 V,tp DAE12,52,,,Dolly Mosalsalat,https://www.lyngsat.com/tvchannels/--/Dolly-Mosalsalat.html
+11678 Vtp DAE12East52,DVB-S275007/8,7070,Cookies Kids,,MPEG-2/SD,7072,7073 Ara,,,11678 V,tp DAE12,52,,,Cookies Kids,https://www.lyngsat.com/tvchannels/eg/Cookies-Kids.html
+11678 Vtp DAE12East52,DVB-S275007/8,8020,Al Shasha Drama,,MPEG-2/SD,8022,8023 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Drama,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8020,Al Shasha Drama,,MPEG-2/SD,8022,8023 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Drama,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,234,Al Shasha Drama,,MPEG-2/SD,1234,2234 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Drama,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,234,Al Shasha Drama,,MPEG-2/SD,1234,2234 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Drama,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8030,Al Shasha Hakayat,,MPEG-2/SD,8032,8033 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Hakayat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Hakayat.html
+11678 Vtp DAE12East52,DVB-S275007/8,8030,Al Shasha Hakayat,,MPEG-2/SD,8032,8033 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Hakayat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Hakayat.html
+12563 Vtp FEE4East52,DVB-S275007/8,239,Al Shasha Hakayat,,MPEG-2/SD,1239,2239 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Hakayat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Hakayat.html
+12563 Vtp FEE4East52,DVB-S275007/8,239,Al Shasha Hakayat,,MPEG-2/SD,1239,2239 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Hakayat,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Hakayat.html
+11678 Vtp DAE12East52,DVB-S275007/8,8040,Gulfsat promo,,MPEG-2/SD,8042,Ara,,,11678 V,tp DAE12,52,,,,
+11678 Vtp DAE12East52,DVB-S275007/8,8100,Gulfsat promo,,MPEG-2/SD,8102,Ara,,,11678 V,tp DAE12,52,,,,
+11678 Vtp DAE12East52,DVB-S275007/8,8060,Al Shasha Film,,MPEG-2/SD,8062,8063 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Film,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Film.html
+11678 Vtp DAE12East52,DVB-S275007/8,8060,Al Shasha Film,,MPEG-2/SD,8062,8063 Ara,,new,11678 V,tp DAE12,52,,,Al Shasha Film,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Film.html
+12563 Vtp FEE4East52,DVB-S275007/8,240,Al Shasha Film,,MPEG-2/SD,1240,2240 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Film,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Film.html
+12563 Vtp FEE4East52,DVB-S275007/8,240,Al Shasha Film,,MPEG-2/SD,1240,2240 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Film,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Film.html
+11678 Vtp DAE12East52,DVB-S275007/8,8070,Alzaeem Drama,,MPEG-2/SD,8072,8073 Ara,,new,11678 V,tp DAE12,52,,,Alzaeem Drama,https://www.lyngsat.com/tvchannels/--/Alzaeem-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8080,Al Sukariya Drama,,MPEG-2/SD,8082,8083 Ara,,new,11678 V,tp DAE12,52,,,Al Sukariya Drama,https://www.lyngsat.com/tvchannels/--/Al-Sukariya-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8090,Alzaeem Cinema,,MPEG-2/SD,8092,8093 Ara,,new,11678 V,tp DAE12,52,,,Alzaeem Cinema,https://www.lyngsat.com/tvchannels/--/Alzaeem-Cinema.html
+11678 Vtp DAE12East52,DVB-S275007/8,8110,Alking Aflam,,MPEG-2/SD,8112,8113 Ara,,new,11678 V,tp DAE12,52,,,Alking Aflam,https://www.lyngsat.com/tvchannels/--/Alking-Aflam.html
+11678 Vtp DAE12East52,DVB-S275007/8,8140,El Omda TV Aflam,,MPEG-2/SD,8142,8143 Ara,,new,11678 V,tp DAE12,52,,,El Omda TV Aflam,https://www.lyngsat.com/tvchannels/--/El-Omda-TV-Aflam.html
+11678 Vtp DAE12East52,DVB-S275007/8,8150,El Omda TV Drama,,MPEG-2/SD,8152,8153 Ara,,,11678 V,tp DAE12,52,,,El Omda TV Drama,https://www.lyngsat.com/tvchannels/--/El-Omda-TV-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8160,Fox Drama,,MPEG-2/SD,8162,8163 Ara,,new,11678 V,tp DAE12,52,,,Fox Drama,https://www.lyngsat.com/tvchannels/--/Fox-Drama.html
+11678 Vtp DAE12East52,DVB-S275007/8,8000,Iraqi Health Broadcasting,,,,8002 Ara,,,11678 V,tp DAE12,52,,,Iraqi Health Broadcasting,https://www.lyngsat.com/radiochannels/iq/Iraqi-Health-Broadcasting.html
+11678 Vtp DAE12East52,DVB-S275007/8,8050,Radio Erena,,,,8053 Tir,,,11678 V,tp DAE12,52,,,Radio Erena,https://www.lyngsat.com/radiochannels/fr/Radio-Erena.html
+11678 Vtp DAE12East52,DVB-S275007/8,8050,Radio Erena,,,,8053 Tir,,,11678 V,tp DAE12,52,,,Radio Erena,https://www.lyngsat.com/radiochannels/fr/Radio-Erena.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,510,Al Rayyan,,MPEG-4/HD,610,900 Ara,,,12521 H,tp FEM1,51-52,,,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,510,Al Rayyan,,MPEG-4/HD,610,900 Ara,,,12521 H,tp FEM1,51-52,,,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html
+12521 Htp FEM1MENA51-52,DVB-S28PSK275002/3,511,Al Rayyan Al Qadeem,,MPEG-4/HD,611,910 Ara,,,12521 H,tp FEM1,51-52,,,Al Rayyan Al Qadeem,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan-Al-Qadeem.html
+12521 Vtp FEE2East52,DVB-S275007/8,,Eutelsat MENA,,110-34,,7.2,,Best gamer211211,12521 V,tp FEE2,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12521 Vtp FEE2East52,DVB-S275007/8,,Eutelsat MENA,,110-34,,7.2,,Best gamer211211,12521 V,tp FEE2,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12521 Vtp FEE2East52,DVB-S275007/8,,Eutelsat MENA,,110-34,,7.2,,Best gamer211211,12521 V,tp FEE2,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12563 Vtp FEE4East52,DVB-S275007/8,,Eutelsat MENA,,110-32,,7.2,,Hadowooalsatan240103,12563 V,tp FEE4,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12563 Vtp FEE4East52,DVB-S275007/8,,Eutelsat MENA,,110-32,,7.2,,Hadowooalsatan240103,12563 V,tp FEE4,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12563 Vtp FEE4East52,DVB-S275007/8,,Eutelsat MENA,,110-32,,7.2,,Hadowooalsatan240103,12563 V,tp FEE4,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12604 Vtp FEE6East52,DVB-S275007/8,,Eutelsat MENA,,110-29,,7.2,,Best gamer211112,12604 V,tp FEE6,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12604 Vtp FEE6East52,DVB-S275007/8,,Eutelsat MENA,,110-29,,7.2,,Best gamer211112,12604 V,tp FEE6,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12604 Vtp FEE6East52,DVB-S275007/8,,Eutelsat MENA,,110-29,,7.2,,Best gamer211112,12604 V,tp FEE6,52,,https://www.lyngsat.com/providers/fr/Eutelsat-MENA.html,,
+12521 Vtp FEE2East52,DVB-S275007/8,,Oromia Broadcasting Service,,MPEG-2/SD,1161,1162 Orm,,,12521 V,tp FEE2,52,,,Oromia Broadcasting Service,https://www.lyngsat.com/tvchannels/et/Oromia-Broadcasting-Service.html
+12521 Vtp FEE2East52,DVB-S275007/8,,Ethiopia Orthodox TV,,MPEG-2/SD,1171,1172 Amh,,,12521 V,tp FEE2,52,,,Ethiopia Orthodox TV,https://www.lyngsat.com/tvchannels/et/Ethiopia-Orthodox-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,1,Minber TV,,MPEG-2/SD,307,308 Amh,,,12521 V,tp FEE2,52,,,Minber TV,https://www.lyngsat.com/tvchannels/et/Minber-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,2,Presence TV Channel,,MPEG-2/SD,514,515 Amh,,,12521 V,tp FEE2,52,,,Presence TV Channel,https://www.lyngsat.com/tvchannels/et/Presence-TV-Channel.html
+12521 Vtp FEE2East52,DVB-S275007/8,3,Al Masrawia Aflam,,MPEG-2/SD,770,771 Ara,,,12521 V,tp FEE2,52,,,Al Masrawia Aflam,https://www.lyngsat.com/tvchannels/--/Al-Masrawia-Aflam.html
+12521 Vtp FEE2East52,DVB-S275007/8,7,Al Bait Baitak Cinema,,MPEG-2/SD,1794,1795 Ara,,,12521 V,tp FEE2,52,,,Al Bait Baitak Cinema,https://www.lyngsat.com/tvchannels/--/Al-Bait-Baitak-Cinema.html
+12521 Vtp FEE2East52,DVB-S275007/8,11,As-Sunnah TV,,MPEG-2/SD,2337,2338 Amh,,,12521 V,tp FEE2,52,,,As-Sunnah TV,https://www.lyngsat.com/tvchannels/et/As-Sunnah-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,13,Dolly Cinema,,MPEG-2/SD,2369,2370 Ara,,,12521 V,tp FEE2,52,,,Dolly Cinema,https://www.lyngsat.com/tvchannels/--/Dolly-Cinema.html
+12521 Vtp FEE2East52,DVB-S275007/8,36,Star Cinema 1,,MPEG-2/SD,3661,3662 Ara,,,12521 V,tp FEE2,52,,,Star Cinema 1,https://www.lyngsat.com/tvchannels/--/Star-Cinema-1.html
+12521 Vtp FEE2East52,DVB-S275007/8,37,Star Cinema 2,,MPEG-2/SD,3771,3772 Ara,,,12521 V,tp FEE2,52,,,Star Cinema 2,https://www.lyngsat.com/tvchannels/--/Star-Cinema-2.html
+12521 Vtp FEE2East52,DVB-S275007/8,50,Debub TV,,MPEG-2/SD,5001,5002 Amh,,,12521 V,tp FEE2,52,,,Debub TV,https://www.lyngsat.com/tvchannels/et/Debub-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,51,Amhara TV,,MPEG-2/SD,5101,5102 Amh,,,12521 V,tp FEE2,52,,,Amhara TV,https://www.lyngsat.com/tvchannels/et/Amhara-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,54,OBN,,MPEG-4/HD,5401,5402 Orm,,,12521 V,tp FEE2,52,,,OBN,https://www.lyngsat.com/tvchannels/et/OBN.html
+12521 Vtp FEE2East52,DVB-S275007/8,70,Sha3beyat,,MPEG-2/SD,7001,7002 Ara,,,12521 V,tp FEE2,52,,,Sha3beyat,https://www.lyngsat.com/tvchannels/eg/Sha3beyat.html
+12521 Vtp FEE2East52,DVB-S275007/8,80,Oromia Clergy Network,,MPEG-2/SD,8000,8002 Amh,,,12521 V,tp FEE2,52,,,Oromia Clergy Network,https://www.lyngsat.com/tvchannels/et/Oromia-Clergy-Network.html
+12521 Vtp FEE2East52,DVB-S275007/8,81,TV 9 Ethio,,MPEG-2/SD,8011,8012 Amh,,,12521 V,tp FEE2,52,,,TV 9 Ethio,https://www.lyngsat.com/tvchannels/et/TV-9-Ethio.html
+12521 Vtp FEE2East52,DVB-S275007/8,83,[Hamiltan TV test card],,MPEG-2/SD,8031,8032 Som,,,12521 V,tp FEE2,52,,,,
+12521 Vtp FEE2East52,DVB-S275007/8,1813,Ministry of Education TV,,MPEG-2/SD,1131,1132 Amh,,,12521 V,tp FEE2,52,,,Ministry of Education TV,https://www.lyngsat.com/tvchannels/et/Ministry-of-Education-TV.html
+12521 Vtp FEE2East52,DVB-S275007/8,49,Oromiyaa Radio,,,,4902 Orm,,,12521 V,tp FEE2,52,,,Oromiyaa Radio,https://www.lyngsat.com/radiochannels/et/Oromiyaa-Radio.html
+12521 Vtp FEE2East52,DVB-S275007/8,49,Oromiyaa Radio,,,,4902 Orm,,,12521 V,tp FEE2,52,,,Oromiyaa Radio,https://www.lyngsat.com/radiochannels/et/Oromiyaa-Radio.html
+12521 Vtp FEE2East52,DVB-S275007/8,55,Oromiyaa Radio,,,,5502 Orm,,,12521 V,tp FEE2,52,,,Oromiyaa Radio,https://www.lyngsat.com/radiochannels/et/Oromiyaa-Radio.html
+12521 Vtp FEE2East52,DVB-S275007/8,55,Oromiyaa Radio,,,,5502 Orm,,,12521 V,tp FEE2,52,,,Oromiyaa Radio,https://www.lyngsat.com/radiochannels/et/Oromiyaa-Radio.html
+12521 Vtp FEE2East52,DVB-S275007/8,60,Debub FM,,,,6002,,,12521 V,tp FEE2,52,,,Debub FM,https://www.lyngsat.com/radiochannels/et/Debub-FM.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,,Iraqi Media Network,,1-72,,6.5,,M Al-Taie240218,12563 H,tp FEM3,51-52,,https://www.lyngsat.com/providers/iq/Iraqi-Media-Network.html,,
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7201,Iraqia News,,MPEG-4/HD,7201,7202 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7201,Iraqia News,,MPEG-4/HD,7201,7202 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7201,Iraqia News,,MPEG-4/HD,7201,7202 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7201,Iraqia News,,MPEG-4/HD,7201,7202 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7202,Iraqia News,,MPEG-2/SD,7203,7204 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7202,Iraqia News,,MPEG-2/SD,7203,7204 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7202,Iraqia News,,MPEG-2/SD,7203,7204 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7202,Iraqia News,,MPEG-2/SD,7203,7204 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia News,https://www.lyngsat.com/tvchannels/iq/Iraqia-News.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7205,Iraqia Türkmen,,MPEG-2/SD,7209,7210 Tuk,,,12563 H,tp FEM3,51-52,,,Iraqia Türkmen,https://www.lyngsat.com/tvchannels/iq/Iraqia-Turkmen.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7206,Iraqia Kurdish,,MPEG-2/SD,7211,7212 Kur,,,12563 H,tp FEM3,51-52,,,Iraqia Kurdish,https://www.lyngsat.com/tvchannels/iq/Iraqia-Kurdish.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7207,Iraqia Sport,,MPEG-4/HD,7213,7214 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia Sport,https://www.lyngsat.com/tvchannels/iq/Iraqia-Sport.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7209,Iraqia General,,MPEG-4/HD,7217,7223 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia General,https://www.lyngsat.com/tvchannels/iq/Iraqia-General.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7209,Iraqia General,,MPEG-4/HD,7217,7223 Ara,,,12563 H,tp FEM3,51-52,,,Iraqia General,https://www.lyngsat.com/tvchannels/iq/Iraqia-General.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7213,Iraq Educational Sat,,MPEG-4/HD,7244,7245 Ara,,,12563 H,tp FEM3,51-52,,,Iraq Educational Sat,https://www.lyngsat.com/tvchannels/iq/Iraq-Educational-Sat.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7220,Iraqia Syriac,,MPEG-4/HD,7240,7242,,,12563 H,tp FEM3,51-52,,,Iraqia Syriac,https://www.lyngsat.com/tvchannels/iq/Iraqia-Syriac.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7210,Radio Iraqia,,,,7219 Ara,,,12563 H,tp FEM3,51-52,,,Radio Iraqia,https://www.lyngsat.com/radiochannels/iq/Radio-Iraqia.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7211,Forqan Radio,,,,7220 Ara,,,12563 H,tp FEM3,51-52,,,Forqan Radio,https://www.lyngsat.com/radiochannels/iq/Forqan-Radio.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7212,Radio Baghdad,,,,7221 Ara,,,12563 H,tp FEM3,51-52,,,Radio Baghdad,https://www.lyngsat.com/radiochannels/iq/Radio-Baghdad.html
+12563 Htp FEM3MENA51-52,DVB-S275005/6,7227,Ministry of Interior Radio,,,,7227 Ara,,,12563 H,tp FEM3,51-52,,,Ministry of Interior Radio,https://www.lyngsat.com/radiochannels/iq/Ministry-of-Interior-Radio.html
+12563 Vtp FEE4East52,DVB-S275007/8,201,Radio Alkul TV,,MPEG-2/SD,1201,220. Ara,,,12563 V,tp FEE4,52,,,Radio Alkul TV,https://www.lyngsat.com/tvchannels/sy/Radio-Alkul-TV.html
+12563 Vtp FEE4East52,DVB-S275007/8,202,Family Cinema,,MPEG-2/SD,1202,2202 Ara,,,12563 V,tp FEE4,52,,,Family Cinema,https://www.lyngsat.com/tvchannels/--/Family-Cinema.html
+12563 Vtp FEE4East52,DVB-S275007/8,203,Sowt Al-Arab TV,,MPEG-2/SD,1203,.203 Ara,,,12563 V,tp FEE4,52,,,Sowt Al-Arab TV,https://www.lyngsat.com/tvchannels/eg/Sowt-Al-Arab-TV.html
+12563 Vtp FEE4East52,DVB-S275007/8,205,Channel 24 Sports,,MPEG-4/HD,1205,2205 Ara,,,12563 V,tp FEE4,52,,,Channel 24 Sports,https://www.lyngsat.com/tvchannels/sa/Channel-24-Sports.html
+12563 Vtp FEE4East52,DVB-S275007/8,206,Zilzal Cinema,,MPEG-2/SD,1206,2206 Ara,,,12563 V,tp FEE4,52,,,Zilzal Cinema,https://www.lyngsat.com/tvchannels/--/Zilzal-Cinema.html
+12563 Vtp FEE4East52,DVB-S275007/8,207,Box,,MPEG-2/SD,1207,2207 Ara,,,12563 V,tp FEE4,52,,,Box,https://www.lyngsat.com/tvchannels/--/Box.html
+12563 Vtp FEE4East52,DVB-S275007/8,208,Al Shasha Classic,,MPEG-2/SD,1208,2208 Ara,,,12563 V,tp FEE4,52,,,Al Shasha Classic,https://www.lyngsat.com/tvchannels/--/Al-Shasha-Classic.html
+12563 Vtp FEE4East52,DVB-S275007/8,209,Alyaoum Drama,,MPEG-2/SD,1209,2209 Ara,,,12563 V,tp FEE4,52,,,Alyaoum Drama,https://www.lyngsat.com/tvchannels/--/Alyaoum-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,210,Dolly Drama,,MPEG-2/SD,1210,2210 Ara,,,12563 V,tp FEE4,52,,,Dolly Drama,https://www.lyngsat.com/tvchannels/--/Dolly-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,213,Sout Masr,,MPEG-2/SD,1213,2213 Ara,,,12563 V,tp FEE4,52,,,Sout Masr,https://www.lyngsat.com/tvchannels/eg/Sout-Masr.html
+12563 Vtp FEE4East52,DVB-S275007/8,218,Zilzal Alyoom,,MPEG-2/SD,1218,2218 Ara,,,12563 V,tp FEE4,52,,,Zilzal Alyoom,https://www.lyngsat.com/tvchannels/--/Zilzal-Alyoom.html
+12563 Vtp FEE4East52,DVB-S275007/8,219,Njoom Hollywood,,MPEG-2/SD,1219,2219 Ara,,,12563 V,tp FEE4,52,,,Njoom Hollywood,https://www.lyngsat.com/tvchannels/--/Njoom-Hollywood.html
+12563 Vtp FEE4East52,DVB-S275007/8,221,Apple Drama,,MPEG-2/SD,1221,2221 Ara,,,12563 V,tp FEE4,52,,,Apple Drama,https://www.lyngsat.com/tvchannels/--/Apple-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,222,Alyaoum Hakayat,,MPEG-2/SD,1222,2222 Ara,,,12563 V,tp FEE4,52,,,Alyaoum Hakayat,https://www.lyngsat.com/tvchannels/--/Alyaoum-Hakayat.html
+12563 Vtp FEE4East52,DVB-S275007/8,224,Al Sa3aa Cinema,,MPEG-2/SD,1224,2224 Ara,,,12563 V,tp FEE4,52,,,Al Sa3aa Cinema,https://www.lyngsat.com/tvchannels/--/Al-Sa3aa-Cinema.html
+12563 Vtp FEE4East52,DVB-S275007/8,225,PNC Yom,,MPEG-2/SD,1225,2225 Ara,,,12563 V,tp FEE4,52,,,PNC Yom,https://www.lyngsat.com/tvchannels/eg/PNC-Yom.html
+12563 Vtp FEE4East52,DVB-S275007/8,229,Al Sa3aa Drama,,MPEG-2/SD,1229,2229 Ara,,,12563 V,tp FEE4,52,,,Al Sa3aa Drama,https://www.lyngsat.com/tvchannels/--/Al-Sa3aa-Drama.html
+12563 Vtp FEE4East52,DVB-S275007/8,230,Sky Horror,,MPEG-2/SD,1230,2230 Ara,,,12563 V,tp FEE4,52,,,Sky Horror,https://www.lyngsat.com/tvchannels/--/Sky-Horror.html
+12563 Vtp FEE4East52,DVB-S275007/8,231,Al Sa3aa Classic,,MPEG-2/SD,1231,2231 Ara,,,12563 V,tp FEE4,52,,,Al Sa3aa Classic,https://www.lyngsat.com/tvchannels/--/Al-Sa3aa-Classic.html
+12563 Vtp FEE4East52,DVB-S275007/8,232,Family Hikayat,,MPEG-2/SD,1232,2232 Ara,,,12563 V,tp FEE4,52,,,Family Hikayat,https://www.lyngsat.com/tvchannels/--/Family-Hikayat.html
+12563 Vtp FEE4East52,DVB-S275007/8,235,Madh Elnaby TV,,MPEG-2/SD,1235,2235 Ara,,,12563 V,tp FEE4,52,,,Madh Elnaby TV,https://www.lyngsat.com/tvchannels/--/Madh-Elnaby-TV.html
+12563 Vtp FEE4East52,DVB-S275007/8,236,Zilzal Mosalsalat,,MPEG-2/SD,1236,2236 Ara,,,12563 V,tp FEE4,52,,,Zilzal Mosalsalat,https://www.lyngsat.com/tvchannels/--/Zilzal-Mosalsalat.html
+12563 Vtp FEE4East52,DVB-S275007/8,244,Alyaoum Comedy,,MPEG-2/SD,1244,2244 Ara,,,12563 V,tp FEE4,52,,,Alyaoum Comedy,https://www.lyngsat.com/tvchannels/--/Alyaoum-Comedy.html
+12563 Vtp FEE4East52,DVB-S275007/8,245,Alyaoum Aflam,,MPEG-2/SD,1245,2245 Ara,,,12563 V,tp FEE4,52,,,Alyaoum Aflam,https://www.lyngsat.com/tvchannels/--/Alyaoum-Aflam.html
+12563 Vtp FEE4East52,DVB-S275007/8,246,M Action,,MPEG-2/SD,1246,2246 Ara,,,12563 V,tp FEE4,52,,,M Action,https://www.lyngsat.com/tvchannels/--/M-Action.html
+12563 Vtp FEE4East52,DVB-S275007/8,247,Tatt7 TV,,MPEG-2/SD,1247,2247 Ara,,,12563 V,tp FEE4,52,,,Tatt7 TV,https://www.lyngsat.com/tvchannels/eg/Tatt7-TV.html
+12563 Vtp FEE4East52,DVB-S275007/8,249,Tanna w Ranna,,MPEG-2/SD,1249,2249 Ara,,,12563 V,tp FEE4,52,,,Tanna w Ranna,https://www.lyngsat.com/tvchannels/eg/Tanna-w-Ranna.html
+12563 Vtp FEE4East52,DVB-S275007/8,253,Al Sa3aa Comedy,,MPEG-2/SD,1253,2253 Ara,,,12563 V,tp FEE4,52,,,Al Sa3aa Comedy,https://www.lyngsat.com/tvchannels/--/Al-Sa3aa-Comedy.html
+12563 Vtp FEE4East52,DVB-S275007/8,212,Arta Radio,,,,2212 Ara,,,12563 V,tp FEE4,52,,,Arta Radio,https://www.lyngsat.com/radiochannels/sy/Arta-Radio.html
+12563 Vtp FEE4East52,DVB-S275007/8,212,Arta Radio,,,,2212 Ara,,,12563 V,tp FEE4,52,,,Arta Radio,https://www.lyngsat.com/radiochannels/sy/Arta-Radio.html
+12563 Vtp FEE4East52,DVB-S275007/8,215,Al-Furatiya,,,,567 Ara,,,12563 V,tp FEE4,52,,,Al-Furatiya,https://www.lyngsat.com/radiochannels/sy/Al-Furatiya.html
+12563 Vtp FEE4East52,DVB-S275007/8,215,Al-Furatiya,,,,567 Ara,,,12563 V,tp FEE4,52,,,Al-Furatiya,https://www.lyngsat.com/radiochannels/sy/Al-Furatiya.html
+12604 Htp FEM5MENA51-52,DVB-S28PSK275002/3,2202,BeIn Sports News,,MPEG-4/HD,515,680 Ara,,,12604 H,tp FEM5,51-52,,,BeIn Sports News,https://www.lyngsat.com/tvchannels/qa/BeIn-Sports-News.html
+12604 Htp FEM5MENA51-52,DVB-S28PSK275002/3,2203,[BeIn Sports Max 1 info card],,MPEG-4/HD,451,Ara,,,12604 H,tp FEM5,51-52,,,,
+12604 Htp FEM5MENA51-52,DVB-S28PSK275002/3,2208,[BeIn Sports Max 6 info card],,MPEG-4/HD,531,,,,12604 H,tp FEM5,51-52,,,,
+12604 Vtp FEE6East52,DVB-S275007/8,409,Queen Anime,,MPEG-2/SD,1009,1020 Ara,,,12604 V,tp FEE6,52,,,Queen Anime,https://www.lyngsat.com/tvchannels/eg/Queen-Anime.html
+12604 Vtp FEE6East52,DVB-S275007/8,616,Rojava TV (Syria),,MPEG-4/HD,1616,2616 Kur,,,12604 V,tp FEE6,52,,,Rojava TV (Syria),https://www.lyngsat.com/tvchannels/sy/Rojava-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4010,Imam Hussein TV 2,,MPEG-2/SD,1010,1021 Per,,,12604 V,tp FEE6,52,,,Imam Hussein TV 2,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-2.html
+12604 Vtp FEE6East52,DVB-S275007/8,4010,Imam Hussein TV 2,,MPEG-2/SD,1010,1021 Per,,,12604 V,tp FEE6,52,,,Imam Hussein TV 2,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-2.html
+12604 Vtp FEE6East52,DVB-S275007/8,4012,12 Iraqia,,MPEG-2/SD,1131,1123 Ara,,,12604 V,tp FEE6,52,,,12 Iraqia,https://www.lyngsat.com/tvchannels/--/12-Iraqia.html
+12604 Vtp FEE6East52,DVB-S275007/8,4013,Manu Chat,,MPEG-2/SD,1040,1024 Ara,,,12604 V,tp FEE6,52,,,Manu Chat,https://www.lyngsat.com/tvchannels/iq/Manu-Chat.html
+12604 Vtp FEE6East52,DVB-S275007/8,4016,Oromia News Network,,MPEG-4/SD,1070,1027 Orm,,,12604 V,tp FEE6,52,,,Oromia News Network,https://www.lyngsat.com/tvchannels/us/Oromia-News-Network.html
+12604 Vtp FEE6East52,DVB-S275007/8,4018,Karbala TV,,MPEG-4/HD,1090,1029 Ara,,,12604 V,tp FEE6,52,,,Karbala TV,https://www.lyngsat.com/tvchannels/iq/Karbala-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4018,Karbala TV,,MPEG-4/HD,1090,1029 Ara,,,12604 V,tp FEE6,52,,,Karbala TV,https://www.lyngsat.com/tvchannels/iq/Karbala-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4019,[AlIraq Alhadath info card],,MPEG-2/SD,1100,1030 Ara,,,12604 V,tp FEE6,52,,,,
+12604 Vtp FEE6East52,DVB-S275007/8,4020,Raqqa TV,,MPEG-2/SD,1110,1031 Ara,,,12604 V,tp FEE6,52,,,Raqqa TV,https://www.lyngsat.com/tvchannels/sy/Raqqa-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4021,Al Rabiaa Sport TV,,MPEG-2/SD,1120,1032 Ara,,,12604 V,tp FEE6,52,,,Al Rabiaa Sport TV,https://www.lyngsat.com/tvchannels/iq/Al-Rabiaa-Sport-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4022,Music Iraq,,MPEG-2/SD,1130,1033 Ara,,,12604 V,tp FEE6,52,,,Music Iraq,https://www.lyngsat.com/tvchannels/--/Music-Iraq.html
+12604 Vtp FEE6East52,DVB-S275007/8,4027,Alquran,,MPEG-4/SD,1180,1038 Ara,,,12604 V,tp FEE6,52,,,Alquran,https://www.lyngsat.com/tvchannels/iq/Alquran.html
+12604 Vtp FEE6East52,DVB-S275007/8,4027,Alquran,,MPEG-4/SD,1180,1038 Ara,,,12604 V,tp FEE6,52,,,Alquran,https://www.lyngsat.com/tvchannels/iq/Alquran.html
+12604 Vtp FEE6East52,DVB-S275007/8,4032,Fares TV,,MPEG-2/SD,1194,1043 Amh,,,12604 V,tp FEE6,52,,,Fares TV,https://www.lyngsat.com/tvchannels/et/Fares-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4033,OBN Horn of Africa,,MPEG-4/HD,1195,1044,,,12604 V,tp FEE6,52,,,OBN Horn of Africa,https://www.lyngsat.com/tvchannels/et/OBN-Horn-of-Africa.html
+12604 Vtp FEE6East52,DVB-S275007/8,4034,Prime Media,,MPEG-4/HD,1196,1045,,,12604 V,tp FEE6,52,,,Prime Media,https://www.lyngsat.com/tvchannels/et/Prime-Media.html
+12604 Vtp FEE6East52,DVB-S275007/8,4035,Al Husaynih,,MPEG-2/SD,1197,1046 Ara,,,12604 V,tp FEE6,52,,,Al Husaynih,https://www.lyngsat.com/tvchannels/--/Al-Husaynih.html
+12604 Vtp FEE6East52,DVB-S275007/8,4036,Al Salam TV,,MPEG-2/SD,1198,1047 Ara,,,12604 V,tp FEE6,52,,,Al Salam TV,https://www.lyngsat.com/tvchannels/iq/Al-Salam-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,4037,Alfarqadayn,,MPEG-2/SD,1199,1048 Ara,,,12604 V,tp FEE6,52,,,Alfarqadayn,https://www.lyngsat.com/tvchannels/--/Alfarqadayn.html
+12604 Vtp FEE6East52,DVB-S275007/8,4039,On TV,,MPEG-2/SD,1201,1250 Ara,,,12604 V,tp FEE6,52,,,On TV,https://www.lyngsat.com/tvchannels/--/On-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,5004,Azadi TV,,MPEG-2/SD,5007,1470 Per,,,12604 V,tp FEE6,52,,,Azadi TV,https://www.lyngsat.com/tvchannels/us/Azadi-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,5500,W.TV,,MPEG-4/HD,5008,1480 Ara,,,12604 V,tp FEE6,52,,,W.TV,https://www.lyngsat.com/tvchannels/iq/WTV.html
+12604 Vtp FEE6East52,DVB-S275007/8,5911,C Sat,,MPEG-2/SD,5011,1520 Ara,,,12604 V,tp FEE6,52,,,C Sat,https://www.lyngsat.com/tvchannels/us/C-Sat.html
+12604 Vtp FEE6East52,DVB-S275007/8,5911,C Sat,,MPEG-2/SD,5011,1520 Ara,,,12604 V,tp FEE6,52,,,C Sat,https://www.lyngsat.com/tvchannels/us/C-Sat.html
+12604 Vtp FEE6East52,DVB-S275007/8,5914,Red Sea Channel,,MPEG-2/SD,5014,1532 Ara,,,12604 V,tp FEE6,52,,,Red Sea Channel,https://www.lyngsat.com/tvchannels/sd/Red-Sea-Channel.html
+12604 Vtp FEE6East52,DVB-S275007/8,6111,Dabanga TV,,MPEG-2/SD,6000,6001 Ara,,,12604 V,tp FEE6,52,,,Dabanga TV,https://www.lyngsat.com/tvchannels/sd/Dabanga-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,6111,Dabanga TV,,MPEG-2/SD,6000,6001 Ara,,,12604 V,tp FEE6,52,,,Dabanga TV,https://www.lyngsat.com/tvchannels/sd/Dabanga-TV.html
+12604 Vtp FEE6East52,DVB-S275007/8,6999,Brhan TV,,MPEG-2/SD,6900,6901 Amh,,,12604 V,tp FEE6,52,,,Brhan TV,https://www.lyngsat.com/tvchannels/se/Brhan-TV.html
+12620 Vtp FUU6Europe,DVB-S8901/2,,Belgian mux,,,,2.7,,DX Bozóth181111,12620 V,tp FUU6,,,,,
+12620 Vtp FUU6Europe,DVB-S8901/2,400,Radio Contact (Belgium),,,,4. Fre,,,12620 V,tp FUU6,,,,Radio Contact (Belgium),https://www.lyngsat.com/radiochannels/be/Radio-Contact.html
+12620 Vtp FUU6Europe,DVB-S8901/2,400,Radio Contact (Belgium),,,,4. Fre,,,12620 V,tp FUU6,,,,Radio Contact (Belgium),https://www.lyngsat.com/radiochannels/be/Radio-Contact.html
+12620 Vtp FUU6Europe,DVB-S8901/2,401,Maximum,,,,50 Fre,,,12620 V,tp FUU6,,,,Maximum,https://www.lyngsat.com/radiochannels/be/Maximum.html
+12620 Vtp FUU6Europe,DVB-S8901/2,401,Maximum,,,,50 Fre,,,12620 V,tp FUU6,,,,Maximum,https://www.lyngsat.com/radiochannels/be/Maximum.html
+12620 Vtp FUU6Europe,DVB-S8901/2,402,Bel RTL,,,,60 Fre,,,12620 V,tp FUU6,,,,Bel RTL,https://www.lyngsat.com/radiochannels/be/Bel-RTL.html
+12621 Vtp FUU6Europe,DVB-S2QPSK4683/4,,French mux,,1-1,,4.0,,Wellikan230303,12621 V,tp FUU6,,,,,
+12621 Vtp FUU6Europe,DVB-S2QPSK4683/4,1000,Hit West,,,,101 Fre,,,12621 V,tp FUU6,,,,Hit West,https://www.lyngsat.com/radiochannels/fr/Hit-West.html
+12621 Vtp FUU6Europe,DVB-S2QPSK4683/4,1000,Hit West,,,,101 Fre,,,12621 V,tp FUU6,,,,Hit West,https://www.lyngsat.com/radiochannels/fr/Hit-West.html
+12621 Vtp FUU6Europe,DVB-S2QPSK4683/4,2000,Océane,,,,201 Fre,,,12621 V,tp FUU6,,,,Océane,https://www.lyngsat.com/radiochannels/fr/Oceane.html
+12621 Vtp FUU6Europe,DVB-S2QPSK4683/4,2000,Océane,,,,201 Fre,,,12621 V,tp FUU6,,,,Océane,https://www.lyngsat.com/radiochannels/fr/Oceane.html
+12622 Vtp FUU6Europe,DVB-S2551/2,1,Radio Maria Italia,,?-1,,2.7 769 Ita,,EnoSat200503,12622 V,tp FUU6,,,,,
+12646 Htp FEM7MENA51-52,DVB-S275007/8,,Palsat,,20480-900,,7.2,,Hadowooalsatan240313,12646 H,tp FEM7,51-52,,https://www.lyngsat.com/providers/ps/Palsat.html,,
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2980,Musawa,,MPEG-2/SD,2982,2983 Ara,,,12646 H,tp FEM7,51-52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2980,Musawa,,MPEG-2/SD,2982,2983 Ara,,,12646 H,tp FEM7,51-52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2980,Musawa,,MPEG-2/SD,2982,2983 Ara,,,12646 H,tp FEM7,51-52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2980,Musawa,,MPEG-2/SD,2982,2983 Ara,,,12646 H,tp FEM7,51-52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1170,Musawa,,MPEG-4/HD,1172,1173 Ara,,,12687 V,tp FEE10,52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1170,Musawa,,MPEG-4/HD,1172,1173 Ara,,,12687 V,tp FEE10,52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1170,Musawa,,MPEG-4/HD,1172,1173 Ara,,,12687 V,tp FEE10,52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1170,Musawa,,MPEG-4/HD,1172,1173 Ara,,,12687 V,tp FEE10,52,,,Musawa,https://www.lyngsat.com/tvchannels/ps/Musawa.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,2990,Palestine TV,,MPEG-2/SD,2992,2993 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3350,Palestine TV,,MPEG-2/SD,3352,3353 Ara,,,12646 H,tp FEM7,51-52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1160,Palestine TV,,MPEG-4/HD,1162,1163 Ara,,,12687 V,tp FEE10,52,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3320,Ma'an TV,,MPEG-2/SD,3322,3323,,,12646 H,tp FEM7,51-52,,,Ma'an TV,https://www.lyngsat.com/tvchannels/ps/Maan-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3330,Palestine Mobasher,,MPEG-2/SD,3332,3333 Ara,,,12646 H,tp FEM7,51-52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3330,Palestine Mobasher,,MPEG-2/SD,3332,3333 Ara,,,12646 H,tp FEM7,51-52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3330,Palestine Mobasher,,MPEG-2/SD,3332,3333 Ara,,,12646 H,tp FEM7,51-52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3330,Palestine Mobasher,,MPEG-2/SD,3332,3333 Ara,,,12646 H,tp FEM7,51-52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1180,Palestine Mobasher,,MPEG-4/HD,1182,1183 Ara,,,12687 V,tp FEE10,52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1180,Palestine Mobasher,,MPEG-4/HD,1182,1183 Ara,,,12687 V,tp FEE10,52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1180,Palestine Mobasher,,MPEG-4/HD,1182,1183 Ara,,,12687 V,tp FEE10,52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1180,Palestine Mobasher,,MPEG-4/HD,1182,1183 Ara,,,12687 V,tp FEE10,52,,,Palestine Mobasher,https://www.lyngsat.com/tvchannels/ps/Palestine-Mobasher.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3360,Awdeh,,MPEG-4/HD,3362,3363 Ara,,,12646 H,tp FEM7,51-52,,,Awdeh,https://www.lyngsat.com/tvchannels/ps/Awdeh.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3360,Awdeh,,MPEG-4/HD,3362,3363 Ara,,,12646 H,tp FEM7,51-52,,,Awdeh,https://www.lyngsat.com/tvchannels/ps/Awdeh.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3370,Awdeh,,MPEG-2/SD,3372,3373 Ara,,,12646 H,tp FEM7,51-52,,,Awdeh,https://www.lyngsat.com/tvchannels/ps/Awdeh.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3370,Awdeh,,MPEG-2/SD,3372,3373 Ara,,,12646 H,tp FEM7,51-52,,,Awdeh,https://www.lyngsat.com/tvchannels/ps/Awdeh.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3430,Palestine Sport,,MPEG-4/HD,3432,3433 Ara,,,12646 H,tp FEM7,51-52,,,Palestine Sport,https://www.lyngsat.com/tvchannels/ps/Palestine-Sport.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3830,GSN 7,,MPEG-4/SD,3832,3833 Ara,,new,12646 H,tp FEM7,51-52,,,GSN 7,https://www.lyngsat.com/tvchannels/us/GSN-7.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3840,El Fadjer TV,,MPEG-2/SD,3842,3843 Ara,,,12646 H,tp FEM7,51-52,,,El Fadjer TV,https://www.lyngsat.com/tvchannels/dz/El-Fadjer-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3860,Al Kalema TV,,MPEG-4/SD,3862,.863 Ara,,new,12646 H,tp FEM7,51-52,,,Al Kalema TV,https://www.lyngsat.com/tvchannels/us/Al-Kalema-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,3860,Al Kalema TV,,MPEG-4/SD,3862,.863 Ara,,new,12646 H,tp FEM7,51-52,,,Al Kalema TV,https://www.lyngsat.com/tvchannels/us/Al-Kalema-TV.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,5001,Voice of Palestine,,,,5001 Ara,,,12646 H,tp FEM7,51-52,,,Voice of Palestine,https://www.lyngsat.com/radiochannels/ps/Voice-of-Palestine.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,5001,Voice of Palestine,,,,5001 Ara,,,12646 H,tp FEM7,51-52,,,Voice of Palestine,https://www.lyngsat.com/radiochannels/ps/Voice-of-Palestine.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,5003,Quran Radio,,,,5003 Ara,,,12646 H,tp FEM7,51-52,,,Quran Radio,https://www.lyngsat.com/radiochannels/ps/Quran-Radio.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,5003,Quran Radio,,,,5003 Ara,,,12646 H,tp FEM7,51-52,,,Quran Radio,https://www.lyngsat.com/radiochannels/ps/Quran-Radio.html
+12646 Htp FEM7MENA51-52,DVB-S275007/8,5005,Radio Nablus,,,,5005 Ara,,,12646 H,tp FEM7,51-52,,,Radio Nablus,https://www.lyngsat.com/radiochannels/ps/Radio-Nablus.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,,Eutelsat,,1-65500,,7.2,,R Cervi230927,12687 H,tp FEM9,51-52,,https://www.lyngsat.com/providers/fr/Eutelsat.html,,
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1430,Elsharq,,MPEG-2/SD,1431,1432 Ara,,,12687 H,tp FEM9,51-52,,,Elsharq,https://www.lyngsat.com/tvchannels/tr/Elsharq.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1430,Elsharq,,MPEG-2/SD,1431,1432 Ara,,,12687 H,tp FEM9,51-52,,,Elsharq,https://www.lyngsat.com/tvchannels/tr/Elsharq.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1440,Yemen Documentary,,MPEG-2/SD,1441,1442 Ara,,,12687 H,tp FEM9,51-52,,,Yemen Documentary,https://www.lyngsat.com/tvchannels/ye/Yemen-Documentary.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1450,Mekameleen TV,,MPEG-2/SD,1451,1452 Ara,,,12687 H,tp FEM9,51-52,,,Mekameleen TV,https://www.lyngsat.com/tvchannels/eg/Mekameleen-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1450,Mekameleen TV,,MPEG-2/SD,1451,1452 Ara,,,12687 H,tp FEM9,51-52,,,Mekameleen TV,https://www.lyngsat.com/tvchannels/eg/Mekameleen-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1460,Yemen Education,,MPEG-2/SD,1461,1462 Ara,,,12687 H,tp FEM9,51-52,,,Yemen Education,https://www.lyngsat.com/tvchannels/ye/Yemen-Education.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1470,Suroyo TV,,MPEG-2/SD,1471,1472 Syr,,,12687 H,tp FEM9,51-52,,,Suroyo TV,https://www.lyngsat.com/tvchannels/se/Suroyo-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1480,Alyaum Channel,,MPEG-4/SD,1481,1482 Ara,,,12687 H,tp FEM9,51-52,,,Alyaum Channel,https://www.lyngsat.com/tvchannels/sy/Alyaum-Channel.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1480,Alyaum Channel,,MPEG-4/SD,1481,1482 Ara,,,12687 H,tp FEM9,51-52,,,Alyaum Channel,https://www.lyngsat.com/tvchannels/sy/Alyaum-Channel.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1490,Yemen TV,,MPEG-2/SD,1491,1492 Ara,,,12687 H,tp FEM9,51-52,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1490,Yemen TV,,MPEG-2/SD,1491,1492 Ara,,,12687 H,tp FEM9,51-52,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1500,Yemen Today TV,,MPEG-2/SD,1501,1502 Ara,,,12687 H,tp FEM9,51-52,,,Yemen Today TV,https://www.lyngsat.com/tvchannels/ye/Yemen-Today-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1510,Sheba TV,,MPEG-2/SD,1511,1512 Ara,,,12687 H,tp FEM9,51-52,,,Sheba TV,https://www.lyngsat.com/tvchannels/ye/Sheba-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1520,Aden TV 33,,MPEG-2/SD,1521,1522 Ara,,,12687 H,tp FEM9,51-52,,,Aden TV 33,https://www.lyngsat.com/tvchannels/ye/Aden-TV-33.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1530,Al-Eman,,MPEG-2/SD,1531,1532 Ara,,,12687 H,tp FEM9,51-52,,,Al-Eman,https://www.lyngsat.com/tvchannels/ye/Al-Eman.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1540,Watan TV (Egypt),,MPEG-2/SD,1541,1542 Ara,,,12687 H,tp FEM9,51-52,,,Watan TV (Egypt),https://www.lyngsat.com/tvchannels/eg/Watan-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1540,Watan TV (Egypt),,MPEG-2/SD,1541,1542 Ara,,,12687 H,tp FEM9,51-52,,,Watan TV (Egypt),https://www.lyngsat.com/tvchannels/eg/Watan-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1570,I24 News Arabic,,MPEG-4/SD,1571,1572 Ara,,,12687 H,tp FEM9,51-52,,,I24 News Arabic,https://www.lyngsat.com/tvchannels/il/I24-News-Arabic.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1580,Minbij TV,,MPEG-2/SD,1581,1582,,,12687 H,tp FEM9,51-52,,,Minbij TV,https://www.lyngsat.com/tvchannels/--/Minbij-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1590,Tanasuh Education TV,,MPEG-4/SD,1591,1592 Ara,,,12687 H,tp FEM9,51-52,,,Tanasuh Education TV,https://www.lyngsat.com/tvchannels/ly/Tanasuh-Education-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1600,Libya Ifta TV,,MPEG-4/SD,1601,1602 Ara,,,12687 H,tp FEM9,51-52,,,Libya Ifta TV,https://www.lyngsat.com/tvchannels/ly/Libya-Ifta-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1610,Al Shaoub TV,,MPEG-2/SD,1611,1612 Ara,,,12687 H,tp FEM9,51-52,,,Al Shaoub TV,https://www.lyngsat.com/tvchannels/--/Al-Shaoub-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1640,Al Qanat 9,,MPEG-2/SD,1641,1642 Ara,,,12687 H,tp FEM9,51-52,,,Al Qanat 9,https://www.lyngsat.com/tvchannels/tr/Al-Qanat-9.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1640,Al Qanat 9,,MPEG-2/SD,1641,1642 Ara,,,12687 H,tp FEM9,51-52,,,Al Qanat 9,https://www.lyngsat.com/tvchannels/tr/Al-Qanat-9.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1650,KNN Channel,,MPEG-4/HD,1651,1652 Kur,,,12687 H,tp FEM9,51-52,,,KNN Channel,https://www.lyngsat.com/tvchannels/iq/KNN-Channel.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1650,KNN Channel,,MPEG-4/HD,1651,1652 Kur,,,12687 H,tp FEM9,51-52,,,KNN Channel,https://www.lyngsat.com/tvchannels/iq/KNN-Channel.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1660,Rûdaw,,MPEG-2/SD,1661,1662 Kur,,,12687 H,tp FEM9,51-52,,,Rûdaw,https://www.lyngsat.com/tvchannels/iq/Rudaw.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1660,Rûdaw,,MPEG-2/SD,1661,1662 Kur,,,12687 H,tp FEM9,51-52,,,Rûdaw,https://www.lyngsat.com/tvchannels/iq/Rudaw.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1700,Daawah TV,,MPEG-2/SD,1701,1702 Ara,,,12687 H,tp FEM9,51-52,,,Daawah TV,https://www.lyngsat.com/tvchannels/tr/Daawah-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1700,Daawah TV,,MPEG-2/SD,1701,1702 Ara,,,12687 H,tp FEM9,51-52,,,Daawah TV,https://www.lyngsat.com/tvchannels/tr/Daawah-TV.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1550,Radio Sana'a,,,,1551 Ara,,,12687 H,tp FEM9,51-52,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1550,Radio Sana'a,,,,1551 Ara,,,12687 H,tp FEM9,51-52,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1620,Sawt Al Shaab FM,,,,1622 Ara,,,12687 H,tp FEM9,51-52,,,Sawt Al Shaab FM,https://www.lyngsat.com/radiochannels/ye/Sawt-Al-Shaab-FM.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1620,Sawt Al Shaab FM,,,,1622 Ara,,,12687 H,tp FEM9,51-52,,,Sawt Al Shaab FM,https://www.lyngsat.com/radiochannels/ye/Sawt-Al-Shaab-FM.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1630,Radio 21 September,,,,1631,,,12687 H,tp FEM9,51-52,,,Radio 21 September,https://www.lyngsat.com/radiochannels/ye/Radio-21-September.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1680,Rojava FM,,,,1682,,,12687 H,tp FEM9,51-52,,,Rojava FM,https://www.lyngsat.com/radiochannels/sy/Rojava-FM.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1690,Misk FM,,,,169. Ara,,,12687 H,tp FEM9,51-52,,,Misk FM,https://www.lyngsat.com/radiochannels/tr/Misk-FM.html
+12687 Htp FEM9MENA51-52,DVB-S275007/8,1690,Misk FM,,,,169. Ara,,,12687 H,tp FEM9,51-52,,,Misk FM,https://www.lyngsat.com/radiochannels/tr/Misk-FM.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,590,Blue Nile Channel,,MPEG-2/SD,592,593 Ara,,,12687 V,tp FEE10,52,,,Blue Nile Channel,https://www.lyngsat.com/tvchannels/sd/Blue-Nile-Channel.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,630,Shamalia TV,,MPEG-2/SD,632,633 Ara,,,12687 V,tp FEE10,52,,,Shamalia TV,https://www.lyngsat.com/tvchannels/sd/Shamalia-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,680,Ashorooq TV,,MPEG-2/SD,682,683 Ara,,,12687 V,tp FEE10,52,,,Ashorooq TV,https://www.lyngsat.com/tvchannels/sd/Ashorooq-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,790,Khartoum TV,,MPEG-4/SD,794,793 Ara,,,12687 V,tp FEE10,52,,,Khartoum TV,https://www.lyngsat.com/tvchannels/sd/Khartoum-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1020,[Hana Iraq Satellite Channel info card],,MPEG-2/SD,1022,1023 Ara,,,12687 V,tp FEE10,52,,,,
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1040,Manhaj TV,,MPEG-2/SD,1042,1043 Ara,,,12687 V,tp FEE10,52,,,Manhaj TV,https://www.lyngsat.com/tvchannels/--/Manhaj-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1070,Albawadi TV,,MPEG-4/HD,1072,1073 Ara,,,12687 V,tp FEE10,52,,,Albawadi TV,https://www.lyngsat.com/tvchannels/kw/Albawadi-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1080,Marina TV,,MPEG-4/HD,1082,1083 Ara,,,12687 V,tp FEE10,52,,,Marina TV,https://www.lyngsat.com/tvchannels/kw/Marina-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1080,Marina TV,,MPEG-4/HD,1082,1083 Ara,,,12687 V,tp FEE10,52,,,Marina TV,https://www.lyngsat.com/tvchannels/kw/Marina-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1090,Funoon TV,,MPEG-4/HD,1092,1093 Ara,,,12687 V,tp FEE10,52,,,Funoon TV,https://www.lyngsat.com/tvchannels/kw/Funoon-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1100,Al Shahed TV,,MPEG-4/HD,1102,1103 Ara,,,12687 V,tp FEE10,52,,,Al Shahed TV,https://www.lyngsat.com/tvchannels/kw/Al-Shahed-TV.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1190,Palestine News,,MPEG-4/HD,1192,1193 Ara,,,12687 V,tp FEE10,52,,,Palestine News,https://www.lyngsat.com/tvchannels/ps/Palestine-News.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,1200,Palestine Edu,,MPEG-4/HD,1202,1203 Ara,,,12687 V,tp FEE10,52,,,Palestine Edu,https://www.lyngsat.com/tvchannels/ps/Palestine-Edu.html
+12687 Vtp FEE10East52,DVB-S28PSK275003/4,780,Dongola Radio,,,,782 Ara,,,12687 V,tp FEE10,52,,,Dongola Radio,https://www.lyngsat.com/radiochannels/sd/Dongola-Radio.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,,Nilesat,,2048-75,,6.6,,Hadowooalsatan240323,12729 H,tp FEM11,51-52,,https://www.lyngsat.com/providers/eg/Nilesat.html,,
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7501,KurdMax Show,,MPEG-4/HD,49,7.02 Kur,,,12729 H,tp FEM11,51-52,,,KurdMax Show,https://www.lyngsat.com/tvchannels/iq/KurdMax-Show.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7501,KurdMax Show,,MPEG-4/HD,49,7.02 Kur,,,12729 H,tp FEM11,51-52,,,KurdMax Show,https://www.lyngsat.com/tvchannels/iq/KurdMax-Show.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7502,Almustafa TV,,MPEG-4/HD,7505,7506 Ara,,,12729 H,tp FEM11,51-52,,,Almustafa TV,https://www.lyngsat.com/tvchannels/--/Almustafa-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7503,Nilesat promo,,MPEG-4/HD,5707,5708,,,12729 H,tp FEM11,51-52,,,,
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7504,Libya Sport HD1,,MPEG-4/HD,7507,7508 Ara,,,12729 H,tp FEM11,51-52,,,Libya Sport HD1,https://www.lyngsat.com/tvchannels/ly/Libya-Sport-HD1.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7506,Libya Alrasmia Channel,,MPEG-2/SD,7514,7515 Ara,,,12729 H,tp FEM11,51-52,,,Libya Alrasmia Channel,https://www.lyngsat.com/tvchannels/ly/Libya-Alrasmia-Channel.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7523,Bahrain TV,,MPEG-4/HD,7322,7323 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7523,Bahrain TV,,MPEG-4/HD,7322,7323 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7523,Bahrain TV,,MPEG-4/HD,7322,7323 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7523,Bahrain TV,,MPEG-4/HD,7322,7323 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7524,Bahrain TV,,MPEG-2/SD,7332,7333 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7524,Bahrain TV,,MPEG-2/SD,7332,7333 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7524,Bahrain TV,,MPEG-2/SD,7332,7333 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7524,Bahrain TV,,MPEG-2/SD,7332,7333 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain TV,https://www.lyngsat.com/tvchannels/bh/Bahrain-TV.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7525,Bahrain International,,MPEG-2/SD,7342,7343 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain International,https://www.lyngsat.com/tvchannels/bh/Bahrain-International.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7525,Bahrain International,,MPEG-2/SD,7342,7343 Ara,,,12729 H,tp FEM11,51-52,,,Bahrain International,https://www.lyngsat.com/tvchannels/bh/Bahrain-International.html
+12729 Htp FEM11MENA51-52,DVB-S28PSK275002/3,7527,Hala London,,MPEG-4/HD,7362,7363 Ara,,,12729 H,tp FEM11,51-52,,,Hala London,https://www.lyngsat.com/tvchannels/uk/Hala-London.html
+,,,,,,,,,,,,,,,DVB-S29823/4,
+,,,,,,,,,,,,,,,DVB-S29823/4,
+,,,,,,,,,,,,,,,DVB-S2QPSK35005/6,
+,,,,,,,,,,,,,,,DVB-S28PSK14583/4,
+,,,,,,,,,,,,,,,DVB-S28PSK14583/4,
+,,,,,,,,,,,,,,,DVB-S28PSK34102/3,
+,,,,,,,,,,,,,,,DVB-S2QPSK45433/4,
+,,,,,,,,,,,,,,,DVB-S2551/2,
+,,,,,,,,,,,,,,,DVB-S2551/2,

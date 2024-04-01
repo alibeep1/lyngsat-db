@@ -1,0 +1,192 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,NBC,70-1,,3977 L,tp 104,0,Tongfang,https://www.lyngsat.com/providers/na/NBC.html,,,True,NBC,3/4,17777.0,DVB-S1,,
+1.0,NBC 1,MPEG-2/SD,32.0,3977 L,tp 104,0,,,NBC 1,https://www.lyngsat.com/tvchannels/na/NBC-1.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+1.0,NBC 1,MPEG-2/SD,32.0,3977 L,tp 104,0,,,NBC 1,https://www.lyngsat.com/tvchannels/na/NBC-1.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+64.0,NBC 1,MPEG-2/SD,81.0,3977 L,tp 104,0,Tongfang,,NBC 1,https://www.lyngsat.com/tvchannels/na/NBC-1.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+64.0,NBC 1,MPEG-2/SD,81.0,3977 L,tp 104,0,Tongfang,,NBC 1,https://www.lyngsat.com/tvchannels/na/NBC-1.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+2.0,(feeds),,34.0,3977 L,tp 104,0,Tongfang,,,,False,NBC,3/4,17777.0,DVB-S1,,
+26.0,(feeds),,59.0,3977 L,tp 104,0,Tongfang,,,,False,NBC,3/4,17777.0,DVB-S1,,
+,(feeds),,,10962 H,tp 71,,,,,,False,NBC,7/8,1550.0,DVB-S1,,
+,(feeds),,,10966 V,tp 61,,,,,,False,NBC,2/3,7120.0,DVB-S2,,
+,(feeds),,,11003 V,tp 61,,,,,,False,NBC,3/4,3600.0,DVB-S2,,
+,(feeds),,,11016 V,tp 61,,,,,,False,NBC,3/4,7200.0,DVB-S2,,
+,(feeds),,,11027 V,tp 61,,,,,,False,NBC,3/4,3600.0,DVB-S2,,
+,(feeds),,,11045 H,tp 72,,,,,,False,NBC,7/8,2100.0,DVB-S2,,
+,(feeds),,,11048 H,tp 72,,,,,,False,NBC,3/4,3100.0,DVB-S3,,
+,(feeds),,,11049 V,tp 62,,,,,,False,NBC,3/4,4800.0,DVB-S2,,
+,(feeds),,,11055 V,tp 62,,,,,,False,NBC,3/4,4800.0,DVB-S2,,
+,(feeds),,,11063 V,tp 62,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11080 V,tp 62,,,,,,False,NBC,3/4,9600.0,DVB-S2,,
+,(feeds),,,11080 H,tp 72,,,,,,False,NBC,3/4,1100.0,DVB-S1,,
+,(feeds),,,11090 V,tp 62,,,,,,False,NBC,5/6,5000.0,DVB-S2,,
+,(feeds),,,11096 V,tp 62,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11123 V,tp 63,,,,,,False,NBC,3/4,7200.0,DVB-S2,,
+,(feeds),,,11146 V,tp 63,,,,,,False,NBC,3/4,3600.0,DVB-S2,,
+,(feeds),,,11186 H,tp 73,,,,,,False,NBC,2/3,3580.0,DVB-S2,,
+,(feeds),,,11461 V,tp 65,,,,,,False,NBC,2/3,4990.0,DVB-S2,,
+,(feeds),,,11467 V,tp 65,,,,,,False,NBC,3/4,5000.0,DVB-S2,,
+,(feeds),,,11473 V,tp 65,,,,,,False,NBC,3/4,4800.0,DVB-S2,,
+,(feeds),,,11480 V,tp 65,,,,,,False,NBC,3/4,4936.0,DVB-S2,,
+,(feeds),,,11488 V,tp 65,,,,,,False,NBC,2/3,3750.0,DVB-S2,,
+,(feeds),,,11492 V,tp 65,,,,,,False,NBC,3/4,4936.0,DVB-S2,,
+,(feeds),,,11498 V,tp 65,,,,,,False,NBC,3/4,4936.0,DVB-S2,,
+,(feeds),,,11507 V,tp 65,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11511 V,tp 65,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11515 V,tp 65,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11529 V,tp 65,,,,,,False,NBC,5/6,3200.0,DVB-S2,,
+,(feeds),,,11536 V,tp 65,,,,,,False,NBC,3/4,6750.0,DVB-S6,,
+,(feeds),,,11542 V,tp 65,,,,,,False,NBC,3/4,4500.0,DVB-S2,,
+,(feeds),,,11553 V,tp 65,,,,,,False,NBC,2/3,7120.0,DVB-S2,,
+,(feeds),,,11559 V,tp 65,,,,,,False,NBC,3/4,3200.0,DVB-S2,,
+,(feeds),,,11563 V,tp 65,,,,,,False,NBC,3/4,3200.0,DVB-S2,,
+,(feeds),,,11574 V,tp 69,,,,,,False,NBC,3/5,6600.0,DVB-S2,,
+,(feeds),,,11584 V,tp 69,,,,,,False,NBC,3/4,27200.0,DVB-S2,,
+,(feeds),,,11602 V,tp 69,,,,,,False,NBC,3/4,27200.0,DVB-S2,,
+,(feeds),,,11613 V,tp 69,,,,,,False,NBC,3/4,7200.0,DVB-S2,,
+,(feeds),,,11627 V,tp 69,,,,,,False,NBC,3/4,27200.0,DVB-S2,,
+,(feeds),,,11646 V,tp 69,,,,,,False,NBC,3/4,29600.0,DVB-S2,,
+,(feeds),,,11686 V,tp 69,,,,,,False,NBC,3/4,27200.0,DVB-S2,,
+,(feeds),,,11691 H,tp 79,,,,,,False,NBC,5/6,1200.0,DVB-S2,,
+,(feeds),,,12509 V,tp 310X,,,,,,False,NBC,4/5,2600.0,DVB-S2,,
+,(feeds),,,12603 H,tp 311L,,,,,,False,NBC,3/4,9230.0,DVB-S2,,
+,(feeds),,,12611 H,tp 311L,,,,,,False,NBC,3/4,6111.0,DVB-S6,,
+1038.0,(feeds),,1238.0,12643 V,tp 311XU,0,PowerVu,,,,False,NBC,3/4,28800.0,DVB-S2,,
+,(feeds),,,12646 H,tp 311U,,,,,,False,NBC,3/4,7200.0,DVB-S2,,
+,(feeds),,,12742 V,tp 312XU,,,,,,False,NBC,2/3,24200.0,DVB-S2,,
+65.0,NBC 2,MPEG-2/SD,83.0,3977 L,tp 104,0,Tongfang,,NBC 2,https://www.lyngsat.com/tvchannels/na/NBC-2.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+66.0,NBC 3,MPEG-2/SD,85.0,3977 L,tp 104,0,Tongfang,,NBC 3,https://www.lyngsat.com/tvchannels/na/NBC-3.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,National FM,,,3977 L,tp 104,0,,,National FM,https://www.lyngsat.com/radiochannels/na/National-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Funkhaus Namibia,,,3977 L,tp 104,0,,,Funkhaus Namibia,https://www.lyngsat.com/radiochannels/na/Funkhaus-Namibia.html,False,NBC,3/4,17777.0,DVB-S1,Ger,na
+,Kati FM,,,3977 L,tp 104,0,,,Kati FM,https://www.lyngsat.com/radiochannels/na/Kati-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Omurari FM,,,3977 L,tp 104,0,,,Omurari FM,https://www.lyngsat.com/radiochannels/na/Omurari-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Kaisames FM,,,3977 L,tp 104,0,,,Kaisames FM,https://www.lyngsat.com/radiochannels/na/Kaisames-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,TYS FM,,,3977 L,tp 104,0,,,TYS FM,https://www.lyngsat.com/radiochannels/na/TYS-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,99 FM (Namibia),,,3977 L,tp 104,0,,,99 FM (Namibia),https://www.lyngsat.com/radiochannels/na/99-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,99 FM (Namibia),,,3977 L,tp 104,0,,,99 FM (Namibia),https://www.lyngsat.com/radiochannels/na/99-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Nova 103.5,,,3977 L,tp 104,0,,,Nova 103.5,https://www.lyngsat.com/radiochannels/na/Nova-1035.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Nova 103.5,,,3977 L,tp 104,0,,,Nova 103.5,https://www.lyngsat.com/radiochannels/na/Nova-1035.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Kanaal 7,,,3977 L,tp 104,0,,,Kanaal 7,https://www.lyngsat.com/radiochannels/na/Kanaal-7.html,False,NBC,3/4,17777.0,DVB-S1,Afr,na
+,Kanaal 7,,,3977 L,tp 104,0,,,Kanaal 7,https://www.lyngsat.com/radiochannels/na/Kanaal-7.html,False,NBC,3/4,17777.0,DVB-S1,Afr,na
+,Omulunga Radio,,,3977 L,tp 104,0,,,Omulunga Radio,https://www.lyngsat.com/radiochannels/na/Omulunga-Radio.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Omulunga Radio,,,3977 L,tp 104,0,,,Omulunga Radio,https://www.lyngsat.com/radiochannels/na/Omulunga-Radio.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Energy 100 FM,,,3977 L,tp 104,0,,,Energy 100 FM,https://www.lyngsat.com/radiochannels/na/Energy-100-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Energy 100 FM,,,3977 L,tp 104,0,,,Energy 100 FM,https://www.lyngsat.com/radiochannels/na/Energy-100-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Wato FM,,,3977 L,tp 104,0,,,Wato FM,https://www.lyngsat.com/radiochannels/na/Wato-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Wato FM,,,3977 L,tp 104,0,,,Wato FM,https://www.lyngsat.com/radiochannels/na/Wato-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Wato FM,,,3977 L,tp 104,0,,,Wato FM,https://www.lyngsat.com/radiochannels/na/Wato-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Wato FM,,,3977 L,tp 104,0,,,Wato FM,https://www.lyngsat.com/radiochannels/na/Wato-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Nwanyi FM,,,3977 L,tp 104,0,,,Nwanyi FM,https://www.lyngsat.com/radiochannels/na/Nwanyi-FM.html,False,NBC,3/4,17777.0,DVB-S1,,na
+,Kosmos 94.1,,,3977 L,tp 104,0,,,Kosmos 94.1,https://www.lyngsat.com/radiochannels/na/Kosmos-941.html,False,NBC,3/4,17777.0,DVB-S1,Afr,na
+,Kosmos 94.1,,,3977 L,tp 104,0,,,Kosmos 94.1,https://www.lyngsat.com/radiochannels/na/Kosmos-941.html,False,NBC,3/4,17777.0,DVB-S1,Afr,na
+,Fresh FM (Namibia),,,3977 L,tp 104,0,,,Fresh FM (Namibia),https://www.lyngsat.com/radiochannels/na/Fresh-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Fresh FM (Namibia),,,3977 L,tp 104,0,,,Fresh FM (Namibia),https://www.lyngsat.com/radiochannels/na/Fresh-FM.html,False,NBC,3/4,17777.0,DVB-S1,Eng,na
+,Hartklop FM,,,3977 L,tp 104,0,,,Hartklop FM,https://www.lyngsat.com/radiochannels/na/Hartklop-FM.html,False,NBC,3/4,17777.0,DVB-S1,Afr,na
+,Hitradio Namibia,,,3977 L,tp 104,0,,,Hitradio Namibia,https://www.lyngsat.com/radiochannels/na/Hitradio-Namibia.html,False,NBC,3/4,17777.0,DVB-S1,Ger,na
+,Hitradio Namibia,,,3977 L,tp 104,0,,,Hitradio Namibia,https://www.lyngsat.com/radiochannels/na/Hitradio-Namibia.html,False,NBC,3/4,17777.0,DVB-S1,Ger,na
+2.0,New Testament Baptist Radio,?-?,,10958 H,tp 71,50.9-53.9,,,,,False,NBC,1/2,1000.0,DVB-S1,Ara,
+261.0,New Life Radio,0-1,,11118 H,,50.9-53.9,,,,,False,NBC,1/2,1000.0,DVB-S2,Ara,
+,,,,11688 H,tp 79,50.9-53.9,,,,,False,NBC,,,,,
+,,10-12,,12687 V,tp 312XL,0,,,,,False,NBC,3/5,28800.0,DVB-S2,,
+,(Digi feeds),,,12520 V,tp 310X,,,,,,False,NBC,3/4,4150.0,DVB-S2,,
+,(Digi feeds),,,12526 V,tp 310X,,,,,,False,NBC,3/4,6660.0,DVB-S2,,
+,(Digi feeds),,,12533 V,tp 310X,,,,,,False,NBC,3/4,5700.0,DVB-S2,,
+,(Digi feeds),,,12540 V,tp 310X,,,,,,False,NBC,3/4,5700.0,DVB-S2,,
+,Slovak Telekom,187-2808,,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2808,,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2808,,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2810,,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2810,,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2810,,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2811,,12607 V,tp 311XL,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2811,,12607 V,tp 311XL,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+,Slovak Telekom,187-2811,,12607 V,tp 311XL,0,"Conax,Cryptoworks,Irdeto,Nagravision",https://www.lyngsat.com/providers/sk/Slovak-Telekom.html,,,True,Slovak Telekom,3/5,28800.0,DVB-S2,,
+8011.0,Film + Czechia,MPEG-4/SD,1102.0,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",,Film + Czechia,https://www.lyngsat.com/tvchannels/cz/Film---Czechia.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+8012.0,Nova Sport 5,MPEG-4/HD,1202.0,12527 H,tp 310L,0,Nagravision,,Nova Sport 5,https://www.lyngsat.com/tvchannels/cz/Nova-Sport-5.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+8013.0,Spektrum,MPEG-4/HD,1302.0,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",,Spektrum,https://www.lyngsat.com/tvchannels/hu/Spektrum.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Hun,hu
+8014.0,AMC Cesko,MPEG-4/HD,1402.0,12527 H,tp 310L,0,"Conax,Cryptoworks,Irdeto,Nagravision",,AMC Cesko,https://www.lyngsat.com/tvchannels/us/AMC-Cesko.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Eng,us
+8015.0,Nova Sport 6,MPEG-4/HD,1502.0,12527 H,tp 310L,0,Nagravision,,Nova Sport 6,https://www.lyngsat.com/tvchannels/cz/Nova-Sport-6.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+,{},,,12563 H,tp 310U,0,,,,,False,Slovak Telekom,3/5,28800.0,DVB-S2,,
+10011.0,CNN Prima News,MPEG-4/HD,1102.0,12563 V,tp 310X,0,Nagravision,,CNN Prima News,https://www.lyngsat.com/tvchannels/us/CNN-Prima-News.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,us
+10011.0,CNN Prima News,MPEG-4/HD,1102.0,12563 V,tp 310X,0,Nagravision,,CNN Prima News,https://www.lyngsat.com/tvchannels/us/CNN-Prima-News.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,us
+10013.0,CS Film,MPEG-4/SD,1302.0,12563 V,tp 310X,0,Nagravision,,CS Film,https://www.lyngsat.com/tvchannels/cz/CS-Film.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+10013.0,CS Horror (00-06),MPEG-4/SD,1302.0,12563 V,tp 310X,0,Nagravision,,CS Horror (00-06),https://www.lyngsat.com/tvchannels/cz/CS-Horror.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+10014.0,CT Décku (06-20),MPEG-4/HD,1402.0,12563 V,tp 310X,0,Nagravision,,CT Décku (06-20),https://www.lyngsat.com/tvchannels/cz/CT-Decku.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+10014.0,CT art (20-06),MPEG-4/HD,1402.0,12563 V,tp 310X,0,Nagravision,,CT art (20-06),https://www.lyngsat.com/tvchannels/cz/CT-art.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+10014.0,CT art (20-06),MPEG-4/HD,1402.0,12563 V,tp 310X,0,Nagravision,,CT art (20-06),https://www.lyngsat.com/tvchannels/cz/CT-art.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,cz
+10015.0,Joj 24,MPEG-4/HD,1502.0,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",,Joj 24,https://www.lyngsat.com/tvchannels/sk/Joj-24.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Slo,sk
+10016.0,Nova Lady,MPEG-4/SD,1602.0,12563 V,tp 310X,0,Nagravision,,Nova Lady,https://www.lyngsat.com/tvchannels/cz/Nova-Lady.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+10017.0,RTVS Sport,MPEG-4/HD,1702.0,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",,RTVS Sport,https://www.lyngsat.com/tvchannels/sk/RTVS-Sport.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Slo,sk
+10018.0,TV Seznam,MPEG-4/SD,1802.0,12563 V,tp 310X,0,Nagravision,,TV Seznam,https://www.lyngsat.com/tvchannels/cz/TV-Seznam.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+10019.0,TV Barrandov,MPEG-4/SD,1902.0,12563 V,tp 310X,0,"Conax,Cryptoworks,Irdeto,Nagravision",,TV Barrandov,https://www.lyngsat.com/tvchannels/cz/TV-Barrandov.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+11011.0,Auto Motor und Sport,MPEG-4/SD,1102.0,12607 V,tp 311XL,0,Nagravision,,Auto Motor und Sport,https://www.lyngsat.com/tvchannels/de/Auto-Motor-und-Sport.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Hun,de
+11012.0,Travelxp HD Europe,MPEG-4/SD,1202.0,12607 V,tp 311XL,0,Nagravision,,Travelxp HD Europe,https://www.lyngsat.com/tvchannels/in/Travelxp-HD-Europe.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Qaa,in
+11013.0,CNN International Europe,MPEG-4/SD,1302.0,12607 V,tp 311XL,0,Nagravision,,CNN International Europe,https://www.lyngsat.com/tvchannels/us/CNN-International-Europe.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Eng,us
+11014.0,Canal + Sport Slovakia,MPEG-4/HD,1402.0,12607 V,tp 311XL,0,Nagravision,,Canal + Sport Slovakia,https://www.lyngsat.com/tvchannels/lu/Canal---Sport-Slovakia.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Slo,lu
+11015.0,TV 2 Klub,MPEG-4/SD,1502.0,12607 V,tp 311XL,0,Nagravision,,TV 2 Klub,https://www.lyngsat.com/tvchannels/hu/TV-2-Klub.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Hun,hu
+11015.0,TV 2 Klub,MPEG-4/SD,1502.0,12607 V,tp 311XL,0,Nagravision,,TV 2 Klub,https://www.lyngsat.com/tvchannels/hu/TV-2-Klub.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Hun,hu
+17912.0,TV 2 Klub,MPEG-2/SD,2112.0,12723 V,tp 312XU,0,"Conax,Nagravision",,TV 2 Klub,https://www.lyngsat.com/tvchannels/hu/TV-2-Klub.html,False,Slovak Telekom,2/3,26667.0,DVB-S2,Hun,hu
+17912.0,TV 2 Klub,MPEG-2/SD,2112.0,12723 V,tp 312XU,0,"Conax,Nagravision",,TV 2 Klub,https://www.lyngsat.com/tvchannels/hu/TV-2-Klub.html,False,Slovak Telekom,2/3,26667.0,DVB-S2,Hun,hu
+11016.0,FilmBox Extra HD Czechia & Hungary,MPEG-4/HD,1602.0,12607 V,tp 311XL,0,Nagravision,,FilmBox Extra HD Czechia & Hungary,https://www.lyngsat.com/tvchannels/us/FilmBox-Extra-HD-Czechia-and-Hungary.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Eng Hun,us
+11017.0,FilmBox Family,MPEG-4/SD,1702.0,12607 V,tp 311XL,0,Nagravision,,FilmBox Family,https://www.lyngsat.com/tvchannels/us/FilmBox-Family.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze Eng Hun,us
+11018.0,Premier Sport 4,MPEG-4/HD,1802.0,12607 V,tp 311XL,0,Nagravision,,Premier Sport 4,https://www.lyngsat.com/tvchannels/sk/Premier-Sport-4.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Slo,sk
+11019.0,Canal + Action Slovakia,MPEG-4/HD,1902.0,12607 V,tp 311XL,0,Nagravision,,Canal + Action Slovakia,https://www.lyngsat.com/tvchannels/lu/Canal---Action-Slovakia.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,lu
+11020.0,Lala TV,MPEG-4/SD,2002.0,12607 V,tp 311XL,0,Nagravision,,Lala TV,https://www.lyngsat.com/tvchannels/sk/Lala-TV.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Slo Cze,sk
+11021.0,ATV (Hungary),MPEG-4/SD,2102.0,12607 V,tp 311XL,0,Nagravision,,ATV (Hungary),https://www.lyngsat.com/tvchannels/hu/ATV.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Hun,hu
+11022.0,Ócko,MPEG-4/SD,2202.0,12607 V,tp 311XL,0,"Conax,Cryptoworks,Irdeto,Nagravision",,Ócko,https://www.lyngsat.com/tvchannels/cz/Ocko.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+11022.0,Ócko,MPEG-4/SD,2202.0,12607 V,tp 311XL,0,"Conax,Cryptoworks,Irdeto,Nagravision",,Ócko,https://www.lyngsat.com/tvchannels/cz/Ocko.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,cz
+11023.0,Paramount Network Czechia,MPEG-4/SD,2302.0,12607 V,tp 311XL,0,Nagravision,,Paramount Network Czechia,https://www.lyngsat.com/tvchannels/us/Paramount-Network-Czechia.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Cze,us
+11025.0,Super TV 2,MPEG-4/SD,2502.0,12607 V,tp 311XL,0,Nagravision,,Super TV 2,https://www.lyngsat.com/tvchannels/hu/Super-TV-2.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Hun,hu
+11025.0,Super TV 2,MPEG-4/SD,2502.0,12607 V,tp 311XL,0,Nagravision,,Super TV 2,https://www.lyngsat.com/tvchannels/hu/Super-TV-2.html,False,Slovak Telekom,3/5,28800.0,DVB-S2,Hun,hu
+17902.0,Super TV 2,MPEG-2/SD,2102.0,12723 V,tp 312XU,0,Conax,,Super TV 2,https://www.lyngsat.com/tvchannels/hu/Super-TV-2.html,False,Slovak Telekom,2/3,26667.0,DVB-S2,Hun,hu
+17902.0,Super TV 2,MPEG-2/SD,2102.0,12723 V,tp 312XU,0,Conax,,Super TV 2,https://www.lyngsat.com/tvchannels/hu/Super-TV-2.html,False,Slovak Telekom,2/3,26667.0,DVB-S2,Hun,hu
+,TV5Monde,2-1305,,12643 V,tp 311XU,0,,https://www.lyngsat.com/providers/fr/TV5Monde.html,,,True,TV5Monde,3/4,28800.0,DVB-S2,,
+1021.0,TV5Monde Afrique,MPEG-4/HD,1221.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Afrique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Afrique.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1021.0,TV5Monde Afrique,MPEG-4/HD,1221.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Afrique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Afrique.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1040.0,TV5Monde Afrique,MPEG-2/SD,1240.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Afrique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Afrique.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1040.0,TV5Monde Afrique,MPEG-2/SD,1240.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Afrique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Afrique.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1031.0,Tivi5Monde,MPEG-4/HD,1231.0,12643 V,tp 311XU,0,PowerVu,,Tivi5Monde,https://www.lyngsat.com/tvchannels/fr/Tivi5Monde.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1031.0,Tivi5Monde,MPEG-4/HD,1231.0,12643 V,tp 311XU,0,PowerVu,,Tivi5Monde,https://www.lyngsat.com/tvchannels/fr/Tivi5Monde.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1039.0,Tivi5Monde,MPEG-2/SD,1239.0,12643 V,tp 311XU,0,PowerVu,,Tivi5Monde,https://www.lyngsat.com/tvchannels/fr/Tivi5Monde.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1039.0,Tivi5Monde,MPEG-2/SD,1239.0,12643 V,tp 311XU,0,PowerVu,,Tivi5Monde,https://www.lyngsat.com/tvchannels/fr/Tivi5Monde.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1041.0,TV5Monde Europe,MPEG-2/SD,1241.0,12643 V,tp 311XU,0,,,TV5Monde Europe,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Europe.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1041.0,TV5Monde Europe,MPEG-2/SD,1241.0,12643 V,tp 311XU,0,,,TV5Monde Europe,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Europe.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1042.0,TV5Monde Europe,MPEG-4/HD,1242.0,12643 V,tp 311XU,0,,,TV5Monde Europe,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Europe.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1042.0,TV5Monde Europe,MPEG-4/HD,1242.0,12643 V,tp 311XU,0,,,TV5Monde Europe,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Europe.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1043.0,TV5Monde France Belgique Suisse Monaco,MPEG-4/HD,1243.0,12643 V,tp 311XU,0,,,TV5Monde France Belgique Suisse Monaco,https://www.lyngsat.com/tvchannels/fr/TV5Monde-France-Belgique-Suisse-Monaco.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1044.0,TV5Monde Maghreb-Orient,MPEG-4/HD,1244.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Maghreb-Orient,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Maghreb-Orient.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1045.0,TV5Monde Pacifique,MPEG-4/SD,1245.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Pacifique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Pacifique.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+1046.0,TV5Monde Style,MPEG-4/HD,1246.0,12643 V,tp 311XU,0,PowerVu,,TV5Monde Style,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Style.html,False,TV5Monde,3/4,28800.0,DVB-S2,Fre,fr
+,Digi România,1-1,,12687 H,tp 312L,0,"Conax,Nagravision",,,,False,TV5Monde,3/4,27500.0,DVB-S2,,
+,Digi România,1-2,,12723 H,tp 312U,0,Nagravision,,,,False,TV5Monde,3/4,27500.0,DVB-S2,,
+1011.0,U TV (Romania),MPEG-2/SD,511.0,12687 H,tp 312L,0,,,U TV (Romania),https://www.lyngsat.com/tvchannels/ro/U-TV.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,ro
+2680.0,Mária Rádió Erdély,,,12687 H,tp 312L,0,,,Mária Rádió Erdély,https://www.lyngsat.com/radiochannels/it/Maria-Radio-Erdely.html,False,TV5Monde,3/4,27500.0,DVB-S2,Hun,it
+2680.0,Mária Rádió Erdély,,,12687 H,tp 312L,0,,,Mária Rádió Erdély,https://www.lyngsat.com/radiochannels/it/Maria-Radio-Erdely.html,False,TV5Monde,3/4,27500.0,DVB-S2,Hun,it
+3480.0,Rádió GaGa,,,12687 H,tp 312L,0,,,Rádió GaGa,https://www.lyngsat.com/radiochannels/ro/Radio-GaGa.html,False,TV5Monde,3/4,27500.0,DVB-S2,,ro
+3670.0,Radio Maria Romania,,,12687 H,tp 312L,0,,,Radio Maria Romania,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Romania.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,it
+3670.0,Radio Maria Romania,,,12687 H,tp 312L,0,,,Radio Maria Romania,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Romania.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,it
+104.0,NASA TV UHD,HEVC/UHD,4161.0,12687 V,tp 312XL,0,,,NASA TV UHD,https://www.lyngsat.com/tvchannels/us/NASA-TV-UHD.html,False,TV5Monde,3/5,28800.0,DVB-S2,Eng Eng,us
+111.0,History HD Europe,MPEG-4/HD,1101.0,12687 V,tp 312XL,0,,,History HD Europe,https://www.lyngsat.com/tvchannels/us/History-HD-Europe.html,False,TV5Monde,3/5,28800.0,DVB-S2,Eng Rus Cze Hun Tur,us
+112.0,History 2 Europe,MPEG-4/HD,1201.0,12687 V,tp 312XL,0,Conax,,History 2 Europe,https://www.lyngsat.com/tvchannels/us/History-2-Europe.html,False,TV5Monde,3/5,28800.0,DVB-S2,Eng Cze Rus,us
+2516.0,One World Radio,,,12723 H,tp 312U,0,,,One World Radio,https://www.lyngsat.com/radiochannels/ro/One-World-Radio.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,ro
+2516.0,One World Radio,,,12723 H,tp 312U,0,,,One World Radio,https://www.lyngsat.com/radiochannels/ro/One-World-Radio.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,ro
+2650.0,Sport Total FM,,,12723 H,tp 312U,0,,,Sport Total FM,https://www.lyngsat.com/radiochannels/ro/Sport-Total-FM.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,ro
+2650.0,Sport Total FM,,,12723 H,tp 312U,0,,,Sport Total FM,https://www.lyngsat.com/radiochannels/ro/Sport-Total-FM.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,ro
+3490.0,Virgin Radio Romania,,,12723 H,tp 312U,0,,,Virgin Radio Romania,https://www.lyngsat.com/radiochannels/uk/Virgin-Radio-Romania.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,uk
+3490.0,Virgin Radio Romania,,,12723 H,tp 312U,0,,,Virgin Radio Romania,https://www.lyngsat.com/radiochannels/uk/Virgin-Radio-Romania.html,False,TV5Monde,3/4,27500.0,DVB-S2,Rum,uk
+,TV 2 (Hungary),46300-1790,,12723 V,tp 312XU,0,"Conax,Nagravision",https://www.lyngsat.com/providers/hu/TV-2.html,TV 2 (Hungary),https://www.lyngsat.com/tvchannels/hu/TV-2.html,True,TV 2 (Hungary),2/3,26667.0,DVB-S2,,hu
+17901.0,TV 2 (Hungary),MPEG-2/SD,2101.0,12723 V,tp 312XU,0,Conax,https://www.lyngsat.com/providers/hu/TV-2.html,TV 2 (Hungary),https://www.lyngsat.com/tvchannels/hu/TV-2.html,True,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17903.0,Mozi +,MPEG-2/SD,2103.0,12723 V,tp 312XU,0,Conax,,Mozi +,https://www.lyngsat.com/tvchannels/hu/Mozi--.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17904.0,Prime (Hungary),MPEG-2/SD,2104.0,12723 V,tp 312XU,0,Conax,,Prime (Hungary),https://www.lyngsat.com/tvchannels/hu/Prime.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17905.0,TV 2 Comedy,MPEG-2/SD,2105.0,12723 V,tp 312XU,0,Conax,,TV 2 Comedy,https://www.lyngsat.com/tvchannels/hu/TV-2-Comedy.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17906.0,TV 2 Séf,MPEG-2/SD,2106.0,12723 V,tp 312XU,0,Conax,,TV 2 Séf,https://www.lyngsat.com/tvchannels/hu/TV-2-Sef.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17907.0,TV 2 Kids,MPEG-2/SD,2107.0,12723 V,tp 312XU,0,Conax,,TV 2 Kids,https://www.lyngsat.com/tvchannels/hu/TV-2-Kids.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17908.0,Moziverzum,MPEG-2/SD,2108.0,12723 V,tp 312XU,0,"Conax,Nagravision",,Moziverzum,https://www.lyngsat.com/tvchannels/hu/Moziverzum.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17909.0,Jocky TV,MPEG-2/SD,2109.0,12723 V,tp 312XU,0,"Conax,Nagravision",,Jocky TV,https://www.lyngsat.com/tvchannels/hu/Jocky-TV.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17910.0,Spíler TV 1,MPEG-2/SD,2110.0,12723 V,tp 312XU,0,Conax,,Spíler TV 1,https://www.lyngsat.com/tvchannels/hu/Spiler-TV-1.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17911.0,Spíler TV 2,MPEG-2/SD,2111.0,12723 V,tp 312XU,0,Conax,,Spíler TV 2,https://www.lyngsat.com/tvchannels/hu/Spiler-TV-2.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17913.0,Zenebutik,MPEG-2/SD,2113.0,12723 V,tp 312XU,0,"Conax,Nagravision",,Zenebutik,https://www.lyngsat.com/tvchannels/hu/Zenebutik.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+17914.0,Izaura TV,MPEG-2/SD,2114.0,12723 V,tp 312XU,0,"Conax,Nagravision",,Izaura TV,https://www.lyngsat.com/tvchannels/hu/Izaura-TV.html,False,TV 2 (Hungary),2/3,26667.0,DVB-S2,Hun,hu
+,,,,,,,,,DVB-S10001/2,,False,TV 2 (Hungary),,,,,
+,,,,,,,,,DVB-S10001/2,,False,TV 2 (Hungary),,,,,
+,,,,,,,,,DVB-S2QPSK10001/2,,False,TV 2 (Hungary),,,,,
+,,,,,,,,,DVB-S2QPSK10001/2,,False,TV 2 (Hungary),,,,,

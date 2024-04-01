@@ -1,0 +1,22 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3927 Vtp 6BNorth America C,DVB-S75003/4,,(APTN feeds),,,,,,J-G Belanger150825,3927 V,tp 6B,,,,False,
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,,CruiseSat,,1-1,,7.9,Xcrypt,NOS482240203,4120 H,tp 11A,,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html,True,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,10.0,TCM US,,HEVC/HD,110.0,100 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,11.0,Cartoon Network Canada East,,HEVC/HD,910.0,900 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,12.0,CBS News,,HEVC/SD,481.0,482 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,13.0,HGTV East,,HEVC/HD,1001.0,53 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,14.0,Food Network East,,HEVC/HD,38.0,3.42 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,15.0,Travel Channel East,,HEVC/HD,52.0,39 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,16.0,Discovery Channel East,,HEVC/HD,49.0,50 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,17.0,Nickelodeon East,,HEVC/HD,63.0,64 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,21.0,ESPNU,,HEVC/HD,7680.0,4128 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,22.0,ESPN US,,HEVC/HD,55.0,4131 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,210.0,ESPN US,,HEVC/HD,400.0,.16 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,23.0,ESPN 2 US,,HEVC/HD,48.0,51 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,211.0,ESPN 2 US,,HEVC/HD,72.0,107 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,24.0,SEC Network,,HEVC/HD,43.0,44 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,25.0,CNN USA,,HEVC/HD,710.0,700 Eng,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,300.0,Rai Italia Nord America,,HEVC/HD,811.0,821 Ita,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,301.0,RTL Deutschland,,HEVC/HD,105.0,104 Ger,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4120 Htp 11ASouth America C,DVB-S28PSK220003/4,350.0,TVE Internacional América,,HEVC/HD,3304.0,3305 Spa,Xcrypt,,4120 H,tp 11A,,Xcrypt,,False,CruiseSat
+4164 Vtp 12BNorth America C0,DVB-S19361/2,1.0,Legislative Assembly TV Nunavut,,?-?MPEG-2/SD,100.0,2.7 112 Eng,,E Okada220113,4164 V,tp 12B,0.0,,,False,CruiseSat

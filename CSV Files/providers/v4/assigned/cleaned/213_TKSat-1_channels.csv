@@ -1,0 +1,95 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+8.0,RT Español,?-?MPEG-4/HD,536.0,3662 R,,,,,False,,3/4,8333,DVB-S2,Spa
+100.0,RT Español,MPEG-4/HD,536.0,11866 V,,,,,False,,3/4,7500,DVB-S2,Spa
+,Bolivia TV 7.1,MPEG-2/SD,308.0,3680 R,,,,,False,,3/4,3300,DVB-S3,Spa
+,Bolivia TV 7.1,MPEG-2/SD,33.0,3684 R,,,,,False,,3/4,3300,DVB-S3,Spa
+7.0,Bolivia TV 7.1,MPEG-4/SD,523.0,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+,(feeds),,,11503 H,,,,,False,,000,2,DVB-S2,
+,(feeds),,,11884 V,,,,,False,,700,21,DVB-S2,
+,Entel,,,11520 V,,,Verimatrix (B),,False,,3/4,30000,DVB-S2,
+,Entel,,,11560 V,,,Verimatrix (B),,False,,3/4,30000,DVB-S2,
+,Entel,,,11600 V,,,Verimatrix (B),,False,,3/4,30000,DVB-S2,
+,Entel,,,11640 V,,,Verimatrix (B),,False,,3/4,30000,DVB-S2,
+4.0,RTP,MPEG-4/SD,76.0,11520 V,,,,,False,,3/4,30000,DVB-S2,Spa
+450.0,RTP,MPEG-4/HD,1106.0,12544 R,,,,,False,,5/6,30000,DVB-S2,Spa
+17.0,TVU,MPEG-4/SD,417.0,11520 V,,,,,False,,3/4,30000,DVB-S2,Spa
+33.0,Unitel Santa Cruz,MPEG-4/SD,993.0,11520 V,,,,,False,,3/4,30000,DVB-S2,Spa
+2.0,Unitel La Paz,MPEG-4/SD,353.0,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+20.0,TV Culturas,MPEG-4/SD,385.0,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+508.0,Radio Illimani,,,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+511.0,Radio Disney Bolivia,,,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+512.0,RPO's,,,11560 V,,,,,False,,3/4,30000,DVB-S2,Spa
+1.0,Entel TV HD,/HD,4801.0,11640 V,,,,,False,,3/4,30000,DVB-S2,Spa
+59.0,Entel TV HD,/HD,256.0,11640 V,,,,,False,,3/4,30000,DVB-S2,Spa
+,,,,11760 V,,,,,False,,,,,
+,,,,11807 V,,,,,False,,,,,
+,ABE,,,11866 V,,,,https://www.lyngsat.com/providers/bo/ABE.html,True,ABE,3/4,7500,DVB-S2,
+,ABE,,,11866 V,,,,https://www.lyngsat.com/providers/bo/ABE.html,True,ABE,3/4,7500,DVB-S2,
+,ABE,,,12544 R,,,,https://www.lyngsat.com/providers/bo/ABE.html,True,ABE,5/6,30000,DVB-S2,
+,ABE,,,12544 R,,,,https://www.lyngsat.com/providers/bo/ABE.html,True,ABE,5/6,30000,DVB-S2,
+,Red Uno,MPEG-4/HD,172.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+140.0,Red Uno,MPEG-4/HD,322.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+70.0,TV Off Travel,MPEG-4/HD,72.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+90.0,ATB,HEVC/HD,92.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+145.0,Seo TV,HEVC/HD,266.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+150.0,Poder de Dios TV,MPEG-4/SD,4114.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+160.0,ABE TV Internacional,MPEG-4/SD,4124.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+430.0,Red AD Venir,MPEG-4/HD,549.0,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+200.0,Radio Panamericana,,,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+,Radio Panamericana,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+210.0,Jerusalem Radio,,,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+220.0,Radio Sol,,,11866 V,,,,,False,ABE,3/4,7500,DVB-S2,Spa
+120.0,Bolivia TV 7.2,MPEG-4/HD,290.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+130.0,Red Uno Santa Cruz,MPEG-4/HD,306.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+150.0,TL Estrella,MPEG-4/SD,338.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+160.0,F10,MPEG-4/HD,354.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+170.0,Canal 11 TVU,MPEG-4/HD,370.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+180.0,Católica TV,MPEG-4/HD,386.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+190.0,TVU Pando,MPEG-4/HD,402.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+195.0,Fap TV,MPEG-4/SD,407.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+210.0,Plus TLT,MPEG-4/HD,530.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+220.0,TV Universitaria,MPEG-4/SD,546.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+230.0,Palenque TV,MPEG-4/SD,562.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+240.0,Cadena Sur,MPEG-4/HD,578.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+260.0,Xto TV,MPEG-4/HD,610.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+270.0,GogoPlay TV,MPEG-4/HD,626.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+280.0,PAT,MPEG-4/SD,642.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+290.0,Sitel,MPEG-4/SD,658.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+300.0,TEP,MPEG-4/SD,770.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+310.0,Agenda Minera TV,MPEG-4/HD,786.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+320.0,Bethel TV Bolivia,MPEG-4/SD,802.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+325.0,In TV (Bolivia),MPEG-4/SD,807.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+330.0,Red América TV,MPEG-4/SD,818.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+340.0,Gigavisión,MPEG-4/HD,834.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+370.0,Bolivisión,MPEG-4/HD,882.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+420.0,Cadena A,MPEG-4/HD,1058.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+430.0,DTV,MPEG-4/HD,1074.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+440.0,Abya Yala TV,MPEG-4/SD,1090.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+460.0,TV Nuevo Tiempo,MPEG-4/HD,1122.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+480.0,FM Bolivia TV,MPEG-4/SD,1154.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+500.0,ABE Educativo,MPEG-4/HD,1282.0,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Éxito,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Betania,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Betania,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Bethel Cochabamba,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio San Gabriel,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Bethel Bolivia,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Santa Cruz,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Recobro,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Kawsachun Coca,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Red ACLO Chuquisaca FM,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Pio XII Cochabamba,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,RTM Bolivia,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Red ACLO Tarija FM,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Fides,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Kollasuyo,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Cepra Cochabamba,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Cepra La Paz,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Erbol,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Plutón,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,ATB Radio,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,RQP Bolivia,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Kantuta,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Altiplano,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Solidaria RKM,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa
+,Radio Wiñay Jhata,,,12544 R,,,,,False,ABE,5/6,30000,DVB-S2,Spa

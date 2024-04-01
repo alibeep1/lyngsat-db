@@ -1,0 +1,38 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,KTN,1-1,,3703 L,tp 1C,,,https://www.lyngsat.com/providers/ke/KTN.html,True,KTN,3/4,4000,DVB-S2,
+1.0,KTN Home,MPEG-4/SD,101.0,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,Eng
+2.0,KTN News (Kenya),MPEG-4/SD,201.0,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,Eng
+3.0,BTV (Kenya),MPEG-4/SD,301.0,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,Eng
+4.0,KTN Farmers TV,MPEG-4/SD,401.0,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,Eng
+11.0,Radio Maisha,,,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,
+12.0,Spice FM,,,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,
+13.0,Vybez Radio,,,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,
+14.0,Berur FM,,,3703 L,tp 1C,,,,False,KTN,3/4,4000,DVB-S2,
+,(feeds),,,3754 L,tp 4C,,,,False,KTN,3/4,7500,DVB-S7,
+,(feeds),,,4067 R,tp 11C,,,,False,KTN,3/4,6111,DVB-S6,
+,,4660-1,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+,,,,3907 R,tp 7C,,,,False,KTN,,,,
+1.0,Kiss FM (Kenya),,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+2.0,Classic FM (Kenya),,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,Eng
+3.0,Radio Jambo,,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+4.0,East FM (Kenya),,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+5.0,Gukena FM,,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+7.0,HomeBoyz Radio,,,3781 L,tp 4C,,,,False,KTN,4/5,1915,DVB-S2,
+1.0,Efatha TV,1-1MPEG-4/SD,49.0,3917 R,tp 7C,,,,False,KTN,2/3,1667,DVB-S2,Eng
+,IPP Media,4369-2,,3928 R,tp 7C,,,https://www.lyngsat.com/providers/tz/IPP-Media.html,True,IPP Media,2/3,8572,DVB-S8,
+10.0,ITV (Tanzania),MPEG-2/SD,257.0,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+20.0,EATV 5,MPEG-2/SD,513.0,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+50.0,Capital TV (Tanzania),MPEG-2/SD,1281.0,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+110.0,Radio One,,,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+120.0,East Africa Radio,,,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+150.0,Capital Radio (Tanzania),,,3928 R,tp 7C,,,,False,IPP Media,2/3,8572,DVB-S8,Eng
+101.0,Times TV (Malawi),8192-4096MPEG-4/SD,1002.0,4025 R,tp 9C,,,,False,IPP Media,5/6,1665,DVB-S2,Eng
+2.0,Times Radio,,,4025 R,tp 9C,,,,False,IPP Media,5/6,1665,DVB-S2,Eng
+,TBC,,,4120 L,tp 14C,,,https://www.lyngsat.com/providers/tz/TBC.html,True,TBC,3/4,9583,DVB-S2,
+4001.0,TBC 1,MPEG-4/HD,33.0,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,
+4002.0,TBC 2,MPEG-4/HD,36.0,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,
+4003.0,Tanzania Safari Channel,MPEG-4/HD,39.0,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,Eng
+4004.0,TBC Taifa,,,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,Swa
+4005.0,TBC FM,,,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,Swa
+4006.0,TBC International,,,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,
+4007.0,Uhuru FM,,,4120 L,tp 14C,,,,False,TBC,3/4,9583,DVB-S2,Swa

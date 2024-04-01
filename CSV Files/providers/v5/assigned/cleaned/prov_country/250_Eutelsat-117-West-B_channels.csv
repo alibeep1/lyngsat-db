@@ -1,0 +1,13 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country,Provider_Country
+,Star TV México,1-1157,,10970 H,tp 11,0.0,Irdeto,,,,False,,3/4,30000.0,DVB-S2,,,
+,Star TV México,1-1154,,11480 H,tp 1,0.0,Irdeto,,,,False,,3/4,30000.0,DVB-S2,,,
+,Star TV México,1-1155,,11520 H,tp 3,0.0,Irdeto,,,,False,,3/4,30000.0,DVB-S2,,,
+,Star TV México,1-1156,,11560 H,tp 5,0.0,Irdeto,,,,False,,3/5,30000.0,DVB-S2,,,
+,Star TV México,1-1158,,11670 H,tp 9,0.0,Irdeto,,,,False,,3/4,30000.0,DVB-S2,,,
+145.0,Canal del Congreso 45.1 (Mexico),MPEG-4/SD,65.0,10970 H,tp 11,0.0,,,Canal del Congreso 45.1 (Mexico),https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,False,,3/4,30000.0,DVB-S2,Spa,mx,
+145.0,Canal del Congreso 45.1 (Mexico),MPEG-4/SD,65.0,10970 H,tp 11,0.0,,,Canal del Congreso 45.1 (Mexico),https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,False,,3/4,30000.0,DVB-S2,Spa,mx,
+,Tigo,,,11040 H,tp 33,,"Conax,Verimatrix",,,,False,,000,245.0,DVB-S2,,,
+1.0,CMB TV,?-?MPEG-4/HD,256.0,11155 H,tp 39,,,,,,False,,3/4,2500.0,DVB-S2,Spa,,
+252.0,Canal 22.2,MPEG-4/SD,1481.0,11520 H,tp 3,0.0,,,Canal 22.2,https://www.lyngsat.com/tvchannels/mx/Canal-222.html,False,,3/4,30000.0,DVB-S2,Spa,mx,
+,,,,,,,,,DVB-S28PSK25003/4,,False,,,,,,,
+,,,,,,,,,DVB-S28PSK25003/4,,False,,,,,,,

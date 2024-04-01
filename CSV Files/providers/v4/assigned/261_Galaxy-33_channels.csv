@@ -1,0 +1,110 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+4014 Htp 15North America C0,DVB-S28PSK75003/4,,Media-Comm,,,,7.9,Digicipher,C Tutt230926,4014 H,tp 15,0.0,Digicipher,https://www.lyngsat.com/providers/us/Media-Comm.html,True,Media-Comm
+4014 Htp 15North America C0,DVB-S28PSK75003/4,1.0,INSP,,MPEG-4/HD,80.0,81 Eng,Digicipher,,4014 H,tp 15,0.0,Digicipher,,False,Media-Comm
+4014 Htp 15North America C0,DVB-S28PSK75003/4,2.0,INSP,,MPEG-2/SD,23.0,24 Eng,Digicipher,,4014 H,tp 15,0.0,Digicipher,,False,Media-Comm
+4014 Htp 15North America C0,DVB-S28PSK75003/4,3.0,Inspiration TV,,MPEG-2/SD,20.0,21 Eng,Digicipher,,4014 H,tp 15,0.0,Digicipher,,False,Media-Comm
+4020 Vtp 16North America C0,DVB-S216APSK342862/3,,,,,,,PowerVu,NOS482230311,4020 V,tp 16,0.0,PowerVu,,False,Media-Comm
+4020 Vtp 16North America C0,DVB-S216APSK342862/3,6.0,Sinclair promo,,HEVC/HD,2010.0,2000 Eng,,,4020 V,tp 16,0.0,,,False,Media-Comm
+4120 Htp 21North America C0,DVB-S28PSK342863/4,4.0,Sinclair promo,,HEVC/UHD,2010.0,2000 Eng,,,4120 H,tp 21,0.0,,,False,Media-Comm
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,5.0,Sinclair promo,,HEVC/UHD,2010.0,2000 Eng,,,4140 V,tp 22,0.0,,,False,Media-Comm
+4020 Vtp 16North America C0,DVB-S216APSK342862/3,76.0,Yes Network,,HEVC/HD,110.0,100 Eng 102 Spa,PowerVu,,4020 V,tp 16,0.0,PowerVu,,False,Media-Comm
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,53.0,Yes Network,,HEVC/HD,310.0,300 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Media-Comm
+4020 Vtp 16North America C0,DVB-S216APSK342862/3,80.0,Marquee Sports Network,,MPEG-4/HD,510.0,500 Eng 502 Spa,PowerVu,,4020 V,tp 16,0.0,PowerVu,,False,Media-Comm
+4020 Vtp 16North America C0,DVB-S216APSK342862/3,84.0,Marquee Sports Network Alternate,,MPEG-4/HD,910.0,900 Eng 902 Spa,PowerVu,,4020 V,tp 16,0.0,PowerVu,,False,Media-Comm
+4040 Htp 17North America C,DVB-S216APSK342862/3,,(Bally Sports feeds),,,,,,Mike 4221119,4040 H,tp 17,,,,False,Media-Comm
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,,HBO The Works,,,,,Nagravision,NOS482221210,4060 V,tp 18,0.0,Nagravision,https://www.lyngsat.com/providers/us/HBO-The-Works.html,True,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,,HBO The Works,,,,,Nagravision,NOS482221210,4060 V,tp 18,0.0,Nagravision,https://www.lyngsat.com/providers/us/HBO-The-Works.html,True,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,,HBO The Works,,,,,Nagravision,NOS482221210,4080 H,tp 19,0.0,Nagravision,https://www.lyngsat.com/providers/us/HBO-The-Works.html,True,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,,HBO The Works,,,,,Nagravision,NOS482221210,4080 H,tp 19,0.0,Nagravision,https://www.lyngsat.com/providers/us/HBO-The-Works.html,True,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,100.0,HBO East,,HEVC/HD,1001.0,1002 Eng,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,101.0,HBO 2 East,,HEVC/HD,1011.0,1012 Eng1013 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,102.0,HBO Signature East,,HEVC/HD,1021.0,1022 Eng1023 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,103.0,HBO Family East,,HEVC/HD,1031.0,1032 Eng1033 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,104.0,HBO Latino Este,,HEVC/HD,1041.0,1042 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,105.0,Cinemax East,,HEVC/HD,1051.0,1052 Eng1053 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,106.0,MoreMax East,,HEVC/HD,1061.0,1062 Eng1063 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,107.0,ActionMax East,,HEVC/HD,1071.0,1072 Eng1073 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,108.0,HBO Comedy East,,HEVC/HD,1081.0,1082 Eng1083 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,109.0,HBO Zone East,,HEVC/HD,1091.0,1092 Eng1093 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,110.0,ThrillerMax East,,HEVC/HD,1101.0,1102 Eng,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,111.0,MovieMax,,HEVC/HD,1111.0,1112 Eng,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,112.0,MaxLatino,,HEVC/HD,1121.0,1122 Spa,Nagravision,,4060 V,tp 18,0.0,Nagravision,,False,HBO The Works
+4060 Vtp 18North America C0,DVB-S216APSK342862/3,113.0,[HBO East test card],,HEVC/HD,1131.0,1132 Eng,,,4060 V,tp 18,0.0,,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,115.0,HBO West,,HEVC/HD,1151.0,1152 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,116.0,HBO 2 West,,HEVC/HD,1163.0,1164 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,117.0,HBO Signature West,,HEVC/HD,1171.0,1172 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,118.0,HBO Family West,,HEVC/HD,1181.0,1182 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,119.0,HBO Latino Oeste,,HEVC/HD,1191.0,1192 Spa,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,120.0,Cinemax West,,HEVC/HD,1201.0,1202 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,121.0,MoreMax West,,HEVC/HD,1211.0,1212 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,122.0,ActionMax West,,HEVC/HD,1221.0,1222 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,123.0,HBO Comedy West,,HEVC/HD,1231.0,1232 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,124.0,HBO Zone West,,HEVC/HD,1241.0,1242 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,125.0,ThrillerMax West,,HEVC/HD,1251.0,1252 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,126.0,5 StarMax,,HEVC/HD,1261.0,1262 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,127.0,OuterMax,,HEVC/HD,1271.0,1272 Eng,Nagravision,,4080 H,tp 19,0.0,Nagravision,,False,HBO The Works
+4080 Htp 19North America C0,DVB-S216APSK342862/3,128.0,[HBO West test card],,HEVC/HD,1281.0,1282 Eng,,,4080 H,tp 19,0.0,,,False,HBO The Works
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,,Starz,,,,,Digicipher,Montana Satelite221106,4100 V,tp 20,0.0,Digicipher,https://www.lyngsat.com/providers/us/Starz.html,True,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,21.0,Starz West,,HEVC/HD,2100.0,2101 Eng2102 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,22.0,Starz Encore West,,HEVC/HD,2200.0,2201 Eng2202 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,23.0,Starz Encore Action West,,HEVC/HD,2300.0,2301 Eng2302 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,24.0,Starz Encore Black West,,HEVC/HD,2400.0,2401 Eng2402 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,25.0,Starz Encore Classic West,,HEVC/HD,2500.0,2501 Eng2502 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,26.0,Starz Encore Family West,,HEVC/HD,2600.0,2601 Eng2602 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,27.0,Starz Encore Suspense West,,HEVC/HD,2700.0,2701 Eng2702 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,28.0,Starz Encore Westerns West,,HEVC/HD,2800.0,2801 Eng2802 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,29.0,Starz Encore Español Oeste,,HEVC/HD,2900.0,2901 Spa2902 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,30.0,Starz Cinema West,,HEVC/HD,3000.0,3001 Eng3002 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,31.0,Starz Comedy West,,HEVC/HD,3100.0,3101 Eng3102 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,32.0,Starz Edge West,,HEVC/HD,3200.0,3201 Eng3202 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,33.0,Starz In Black West,,HEVC/HD,3300.0,3301 Eng3302 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,34.0,Starz Kids & Family West,,HEVC/HD,3400.0,3401 Eng3402 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,35.0,IndiePlex West,,HEVC/HD,3500.0,3501 Eng3502 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,36.0,RetroPlex West,,HEVC/HD,3600.0,3601 Eng3602 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4100 Vtp 20North America C0,DVB-S216APSK325003/4,37.0,MoviePlex West,,HEVC/HD,3700.0,3701 Eng3702 Spa,Digicipher,,4100 V,tp 20,0.0,Digicipher,,False,Starz
+4120 Htp 21North America C0,DVB-S28PSK342863/4,,Bally Sports,,,,7.9,PowerVu,NOS482230311,4120 H,tp 21,0.0,PowerVu,https://www.lyngsat.com/providers/us/Bally-Sports.html,True,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,,Bally Sports,,,,7.9,PowerVu,NOS482230311,4120 H,tp 21,0.0,PowerVu,https://www.lyngsat.com/providers/us/Bally-Sports.html,True,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,,Bally Sports,,,,7.9,PowerVu,NOS482230311,4140 V,tp 22,0.0,PowerVu,https://www.lyngsat.com/providers/us/Bally-Sports.html,True,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,,Bally Sports,,,,7.9,PowerVu,NOS482230311,4140 V,tp 22,0.0,PowerVu,https://www.lyngsat.com/providers/us/Bally-Sports.html,True,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,26.0,Bally Sports North,,HEVC/HD,110.0,100 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,27.0,Bally Sports Detroit,,HEVC/HD,210.0,200 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,28.0,Bally Sports Wisconsin,,HEVC/HD,310.0,300 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,30.0,Bally Sports South,,HEVC/HD,510.0,500 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,31.0,Bally Sports Southeast,,HEVC/HD,610.0,600 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,32.0,Bally Sports Florida,,HEVC/HD,710.0,700 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,33.0,Bally Sports Sun,,HEVC/HD,810.0,800 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,34.0,Bally Sports Midwest,,HEVC/HD,910.0,970 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,35.0,Bally Sports Ohio,,HEVC/HD,1010.0,100. Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4120 Htp 21North America C0,DVB-S28PSK342863/4,36.0,Bally Sports Great Lakes,,HEVC/HD,1110.0,1100 Eng,PowerVu,,4120 H,tp 21,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,51.0,Bally Sports Netbase,,HEVC/HD,110.0,100 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,52.0,Bally Sports SoCal,,HEVC/HD,210.0,200 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,54.0,Fox College Sports Atlantic,,HEVC/HD,410.0,400 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,55.0,Bally Sports West,,HEVC/HD,510.0,500 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,56.0,Bally Sports San Diego,,HEVC/HD,610.0,600 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,57.0,Bally Sports Alternate,,HEVC/HD,610.0,600 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,58.0,Fox College Sports Central,,HEVC/HD,810.0,800 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,59.0,Bally Sports Southwest,,HEVC/HD,910.0,970 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,60.0,Bally Sports Arizona,,HEVC/HD,1010.0,1000 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,61.0,Tennis Channel (USA),,HEVC/HD,1110.0,1100 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4140 Vtp 22North America C0,DVB-S28PSK342863/4,62.0,Fox College Sports Pacific,,HEVC/HD,1210.0,1200 Eng,PowerVu,,4140 V,tp 22,0.0,PowerVu,,False,Bally Sports
+4150 Htp 23North America C0,DVB-S119363/4,,EWTN,,,,5.5,,Montana Satelite221107,4150 H,tp 23,0.0,,https://www.lyngsat.com/providers/us/EWTN.html,True,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,,EWTN,,,,5.5,,Montana Satelite221107,4150 H,tp 23,0.0,,https://www.lyngsat.com/providers/us/EWTN.html,True,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,,EWTN,,,,,,Montana Satelite221107,4168 H,tp 23,0.0,,https://www.lyngsat.com/providers/us/EWTN.html,True,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,,EWTN,,,,,,Montana Satelite221107,4168 H,tp 23,0.0,,https://www.lyngsat.com/providers/us/EWTN.html,True,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,11.0,EWTN US,,MPEG-2/SD,1100.0,1001 Eng,,,4150 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,91.0,EWTN US,,MPEG-4/HD,8100.0,8101 Eng8102 Eng,,,4168 H,tp 23,0.0,,,False,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,12.0,EWTN EEUU,,MPEG-2/SD,1200.0,1201 Spa2201 Spa,,,4150 H,tp 23,0.0,,,False,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,13.0,EWTN Canada,,MPEG-2/SD,1300.0,1301 Eng1302 Fre2201 Eng,,,4150 H,tp 23,0.0,,,False,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,41.0,EWTN Radio,,,,4101 Eng,,,4150 H,tp 23,0.0,,,False,EWTN
+4150 Htp 23North America C0,DVB-S119363/4,41.0,EWTN Radio Católica Mundial,,,,4201 Spa,,,4150 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,41.0,EWTN Radio Católica Mundial,,,,4201 Spa,,,4168 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,31.0,EWTN Asia - Pacific,,MPEG-4/SD,3100.0,3101 Eng,,,4168 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,32.0,EWTN España - Latinoamérica,,MPEG-4/SD,3200.0,3201 Spa3202 Spa,,,4168 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,92.0,EWTN España - Latinoamérica,,MPEG-4/HD,8110.0,8111 Spa8112 Spa,,,4168 H,tp 23,0.0,,,False,EWTN
+4168 Htp 23North America C0,DVB-S28PSK163031/2,34.0,EWTN Africa - Asia,,MPEG-4/SD,3400.0,3401 Eng3402 Fre,,,4168 H,tp 23,0.0,,,False,EWTN
+4180 Vtp 24North America C0,DVB-S28PSK312455/6,,Big Ten Network,,,,9.4,Irdeto,NOS482221210,4180 V,tp 24,0.0,Irdeto,https://www.lyngsat.com/providers/us/Big-Ten-Network.html,True,Big Ten Network
+4180 Vtp 24North America C0,DVB-S28PSK312455/6,571.0,Big Ten Network,,HEVC/HD,101.0,102 Eng 103 Spa,Irdeto,,4180 V,tp 24,0.0,Irdeto,https://www.lyngsat.com/providers/us/Big-Ten-Network.html,True,Big Ten Network
+4180 Vtp 24North America C0,DVB-S28PSK312455/6,572.0,Big Ten Network Alternate,,HEVC/HD,201.0,202,Irdeto,,4180 V,tp 24,0.0,Irdeto,,False,Big Ten Network
+4180 Vtp 24North America C0,DVB-S28PSK312455/6,573.0,Big Ten Network Alternate,,HEVC/HD,301.0,302,Irdeto,,4180 V,tp 24,0.0,Irdeto,,False,Big Ten Network
+4180 Vtp 24North America C0,DVB-S28PSK312455/6,574.0,Big Ten Network Alternate,,HEVC/HD,401.0,402,Irdeto,,4180 V,tp 24,0.0,Irdeto,,False,Big Ten Network
+11980 H,DVB-S2122603/4,,Intelsat promo,,HEVC/UHD,1453.0,1285 Eng,,Montana Satelite221211,11980 H,,,,,False,Big Ten Network

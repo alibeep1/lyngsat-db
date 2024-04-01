@@ -1,0 +1,103 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Azercosmos,116-777,,11469 H,,0,Irdeto,https://www.lyngsat.com/providers/az/Azercosmos.html,True,Azercosmos,5/6,19000,DVB-S2,
+33.0,Perviy kanal Europa,MPEG-4/SD,33.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+440.0,Bober International,MPEG-4/SD,441.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+450.0,Dom Kino Premium International,MPEG-4/SD,451.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+460.0,Dom Kino International,MPEG-4/SD,461.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+470.0,Karusel International,MPEG-4/SD,471.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+520.0,Muzika Pervogo International,MPEG-4/SD,521.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+550.0,Telekanal O! International,MPEG-4/SD,551.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+600.0,Perviy kanal CIS,MPEG-4/SD,601.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+630.0,Pobeda International,MPEG-4/SD,631.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+640.0,Poehali! International,MPEG-4/SD,641.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+650.0,Telecafé International,MPEG-4/SD,651.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+700.0,Vremya International,MPEG-4/SD,701.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+880.0,Lapki Live International,MPEG-4/SD,881.0,11469 H,,0,Irdeto,,False,Azercosmos,5/6,19000,DVB-S2,Rus
+,Vivacom,213-6,,11475 V,,49.6-51.6,"Irdeto,Videoguard",,False,Azercosmos,5/6,30000,DVB-S2,
+,Vivacom,213-3,,11555 V,,49.6-51.6,"Irdeto,Videoguard",,False,Azercosmos,5/6,30000,DVB-S2,
+,Vivacom,213-1,,12520 V,,49.6-51.6,"Irdeto,Videoguard",,False,Azercosmos,5/6,30000,DVB-S2,
+,Vivacom,213-2,,12560 V,,49.6-51.6,"Irdeto,Videoguard",,False,Azercosmos,5/6,30000,DVB-S2,
+,Vivacom,213-4,,12600 V,,49.6-51.6,"Irdeto,Videoguard",,False,Azercosmos,5/6,30000,DVB-S2,
+5001.0,TV 1 (Bulgaria),MPEG-4/SD,5101.0,11475 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+5014.0,Freedom,MPEG-4/SD,5114.0,11475 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Rus
+5034.0,TV5Monde Europe,MPEG-4/SD,5134.0,11475 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Fre
+,Dialog TV,,,11510 V,,0,Irdeto,,False,Azercosmos,5/6,27690,DVB-S2,
+,Dialog TV,,,11555 V,,0,Irdeto,,False,Azercosmos,2/3,29900,DVB-S2,
+,Dialog TV,,,11592 V,,0,Irdeto,,False,Azercosmos,5/6,27690,DVB-S2,
+,Dialog TV,,,11637 V,,0,Irdeto,,False,Azercosmos,5/6,27690,DVB-S2,
+,Dialog TV,,,11675 V,,0,Irdeto,,False,Azercosmos,5/6,27690,DVB-S2,
+8.0,City TV (Bulgaria),MPEG-4/SD,59.0,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+33.0,BNT 4,MPEG-2/SD,165.0,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+41.0,Plovdivska Pravoslavna TV,MPEG-2/SD,174.0,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+100.0,France 24 Français,MPEG-4/SD,400.0,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Fre
+9.0,Radio 1 (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+10.0,BG Radio,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+11.0,Radio City (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+12.0,NRJ Bulgaria,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+13.0,Radio Veronika,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+14.0,Radio 1 Rock,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+15.0,Avtoradio,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+17.0,Radio Focus Sofia,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+18.0,Radio Focus Pirin,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+19.0,BNR Horizont,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+44.0,BNR Horizont,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+20.0,BNR Hristo Botev,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+23.0,Darik Radio,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+24.0,Darik Radio Plovdiv,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+25.0,Darik Radio Burgas,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+26.0,Eparkhiiski Glas,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+27.0,BNR Radio Kardzali,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+30.0,Radio Bulgaria On Air,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+31.0,B Radio,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+37.0,BNR Radio Burgas,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+38.0,BNR Radio Vidin,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+39.0,BNR Radio Stara Zagora,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+40.0,BNR Radio Varna,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+45.0,BNR Radio Plovdiv,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+46.0,Radio Fresh!,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+47.0,Radio FM+,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+48.0,BNR Radio Blagoevgrad,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+49.0,BNR Radio Shumen,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+50.0,BNR Radio Sofia,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+59.0,Radio Focus Veliko Tarnovo,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+60.0,Radio Vitosha East,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+61.0,The Voice Bulgaria,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+62.0,Radio Veselina South,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+63.0,Magic FM (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+64.0,Radio N-Joy,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+84.0,Radio N-Joy,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+65.0,Radio Z-Rock,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+85.0,Radio Z-Rock,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+66.0,Darik Radio Sofia,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+67.0,Radio Nova News,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+68.0,Start FM (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+70.0,Darik Radio Stara Zagora,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+76.0,Radio Focus Burgas,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+77.0,Radio Focus Varna,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+81.0,Jazz FM (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+83.0,Classic FM (Bulgaria),,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+86.0,Darik Radio Varna,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+87.0,Darik Radio Kiustendil,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+88.0,Darik Radio Ruse,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+89.0,Darik Radio Vraca,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+90.0,Darik Nostalgie,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+91.0,Radio Vitosha West,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+92.0,Radio Veselina North,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+93.0,Radio Veselina West,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+94.0,Radio Veselina East,,,11555 V,,49.6-51.6,,,False,Azercosmos,5/6,30000,DVB-S2,Bul
+,,,,11635 V,,0,,,False,Azercosmos,,,,
+,,,,12604 H,,,,,False,Azercosmos,,,,
+,Family TV (Kenya),,101.0,11655 V,,0,,,False,Azercosmos,664,2,DVB-S2,Eng
+,Family Radio (Kenya),,,11655 V,,0,,,False,Azercosmos,664,2,DVB-S2,Eng
+,Cosmonova Broadcast,2-2,,11666 H,,0,,https://www.lyngsat.com/providers/ua/Cosmonova-Broadcast.html,True,Cosmonova Broadcast,5/6,15000,DVB-S2,
+103.0,Rada,MPEG-4/HD,301.0,11666 H,,0,,,False,Cosmonova Broadcast,5/6,15000,DVB-S2,Ukr
+105.0,Chernomorskaya TV,MPEG-4/SD,501.0,11666 H,,0,,,False,Cosmonova Broadcast,5/6,15000,DVB-S2,Ukr
+106.0,Just Vogue TV,MPEG-4/HD,601.0,11666 H,,0,,,False,Cosmonova Broadcast,5/6,15000,DVB-S2,Eng
+205.0,ABC Australia India,MPEG-4/SD,2205.0,11675 V,,0,,,False,Cosmonova Broadcast,5/6,27690,DVB-S2,Eng
+141.0,DW English,MPEG-4/SD,1241.0,12520 V,,49.6-51.6,,,False,Cosmonova Broadcast,5/6,30000,DVB-S2,Eng
+204.0,Tiankov Folk,MPEG-4/SD,2204.0,12560 V,,49.6-51.6,,,False,Cosmonova Broadcast,5/6,30000,DVB-S2,Bul
+211.0,Folklor TV,MPEG-4/SD,2211.0,12560 V,,49.6-51.6,,,False,Cosmonova Broadcast,5/6,30000,DVB-S2,Bul
+216.0,Evrokom,MPEG-4/SD,2216.0,12560 V,,49.6-51.6,,,False,Cosmonova Broadcast,5/6,30000,DVB-S2,Bul
+260.0,EKids,MPEG-4/SD,2260.0,12560 V,,49.6-51.6,,,False,Cosmonova Broadcast,5/6,30000,DVB-S2,Bul
+2.0,MBC 2 (Malawi),?-?MPEG-4/SD,3021.0,12685 H,tp 52,0,,,False,Cosmonova Broadcast,2/3,5000,DVB-S2,Eng
+1.0,Abood FM,,,12685 H,tp 52,0,,,False,Cosmonova Broadcast,2/3,5000,DVB-S2,

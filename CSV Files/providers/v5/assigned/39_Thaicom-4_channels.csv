@@ -1,0 +1,32 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+11600 VThailand broadcast,DVB-S296711/2,211.0,TV Lao,,1-14,1511.0,1411 Lao,,K Ketkaew170401,11600 V,,,,,,,False,
+11618 VThailand broadcast,DVB-S227121/2,1001.0,OBEC TV 1,,1-10,301.0,401 Tha,BISS,K Ketkaew170401,11618 V,,,BISS,,,,False,
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,,Aora TV Satelit,,,,7.9,,NHMPlay211107,11686 V,,,,https://www.lyngsat.com/providers/id/Aora-TV-Satelit.html,,,True,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,8.0,Da Ai TV Indonesia,,MPEG-4/SD,140.0,156 Ind,,,11686 V,,,,,Da Ai TV Indonesia,https://www.lyngsat.com/tvchannels/tw/Da-Ai-TV-Indonesia.html,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,8.0,Da Ai TV Indonesia,,MPEG-4/SD,140.0,156 Ind,,,11686 V,,,,,Da Ai TV Indonesia,https://www.lyngsat.com/tvchannels/tw/Da-Ai-TV-Indonesia.html,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1000.0,[test card],,MPEG-4/SD,154.0,200,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1001.0,[test card],,MPEG-4/SD,360.0,196,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1002.0,[test card],,MPEG-4/SD,141.0,157,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1003.0,[test card],,MPEG-4/SD,143.0,159,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1004.0,[test card],,MPEG-4/SD,3009.0,290,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1005.0,[test card],,MPEG-4/SD,168.0,194,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1006.0,[test card],,MPEG-4/SD,3026.0,215,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1007.0,[test card],,MPEG-4/SD,193.0,203,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1008.0,[test card],,MPEG-4/SD,130.0,146,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1009.0,[test card],,MPEG-4/SD,214.0,320,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1010.0,[test card],,MPEG-4/SD,142.0,158,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1011.0,[test card],,MPEG-4/SD,221.0,207,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1012.0,[test card],,MPEG-4/SD,205.0,191,,,11686 V,,,,,,,False,Aora TV Satelit
+11686 VIndonesia broadcast,DVB-S28PSK66663/4,1205.0,[test card],,MPEG-4/SD,305.0,120,,,11686 V,,,,,,,False,Aora TV Satelit
+12206 VIndonesia,DVB-S2ACM100001/2,,@ MangoeSky,,,,,,Proluvies Lacus151001,12206 V,,,,,,,False,Aora TV Satelit
+12743 VIndonesia,DVB-S2ACM100001/2,,@ MangoeSky,,,,,,Proluvies Lacus151023,12743 V,,,,,,,False,Aora TV Satelit
+12390 VPhilippines,DVB-S28PSK20003/4,3.0,Oras ng Himala,,?-?MPEG-4/SD,770.0,7.9 771 Tgl,,Anonymous201119,12390 V,,,,,,,False,Aora TV Satelit
+12407 VPhilippines,DVB-S28PSK20833/4,101.0,DepEd TV,,?-?MPEG-4/SD,33.0,7.9  34 Tgl,,Anonymous201119,12407 V,,,,,,,False,Aora TV Satelit
+12494 VPhilippines,DVB-S28PSK20833/4,101.0,DepEd TV,,?-?MPEG-4/SD,33.0,7.9  34 Tgl,,Anonymous201119,12494 V,,,,,,,False,Aora TV Satelit
+12499 VPhilippines,DVB-S28PSK20833/4,101.0,DepEd TV,,?-?MPEG-4/SD,33.0,7.9  34 Tgl,,Anonymous201119,12499 V,,,,,,,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S296711/2,,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S227121/2,BISS,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S28PSK20003/4,,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S28PSK20833/4,,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S28PSK20833/4,,False,Aora TV Satelit
+,,,,,,,,,,,,,,,DVB-S28PSK20833/4,,False,Aora TV Satelit

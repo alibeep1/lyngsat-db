@@ -1,0 +1,120 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+1,UNTV,4-4248MPEG-4/SD,36.0,3706 H,,,,,False,,2/3,7500,DVB-S2,Tgl
+2,Radio La Verdad,,,3706 H,,,,,False,,2/3,7500,DVB-S2,Tgl
+3,Wish 107.5,,,3706 H,,,,,False,,2/3,7500,DVB-S2,Tgl
+1,Ang Dating Daan,0-1MPEG-2/SD,55.0,3714 H,,,Viewcrypt,,False,,1/2,4287,DVB-S4,Tgl
+,(feeds),,,3734 V,tp 1C,,,,False,,255,3,DVB-S2,
+,RTM Sabah,,,3864 V,,,,https://www.lyngsat.com/providers/my/RTM-Sabah.html,True,RTM Sabah,2/3,4444,DVB-S2,
+1,(RTM Sabah feeds),,101.0,3864 V,,,,,False,RTM Sabah,2/3,4444,DVB-S2,
+302,[RTM Sabah test card],MPEG-2/SD,200.0,3864 V,,,,,False,RTM Sabah,2/3,4444,DVB-S2,
+302,Sabah FM,,,3864 V,,,,,False,RTM Sabah,2/3,4444,DVB-S2,May
+502,Sabah FM,,,3864 V,,,,,False,RTM Sabah,2/3,4444,DVB-S2,May
+1013,Sabah FM,,,3880 V,,,,,False,RTM Sabah,2/3,12400,DVB-S2,May
+402,Sabah V FM,,,3864 V,,,,,False,RTM Sabah,2/3,4444,DVB-S2,May
+1011,Sabah V FM,,,3880 V,,,,,False,RTM Sabah,2/3,12400,DVB-S2,May
+1014,Sabah V FM,,,3880 V,,,,,False,RTM Sabah,2/3,12400,DVB-S2,May
+155,Sabah V FM,,,11062 V,tp A3,0.0,,,False,RTM Sabah,7/8,30000,DVB-S3,
+,RTM Sarawak,,,3870 V,,,,https://www.lyngsat.com/providers/my/RTM-Sarawak.html,True,RTM Sarawak,2/3,4444,DVB-S2,
+1001,(RTM Sarawak feeds),,100.0,3870 V,,,,,False,RTM Sarawak,2/3,4444,DVB-S2,
+1002,[RTM Sarawak test card],MPEG-2/SD,401.0,3870 V,,,,,False,RTM Sarawak,2/3,4444,DVB-S2,
+1002,Sarawak FM,,,3870 V,,,,,False,RTM Sarawak,2/3,4444,DVB-S2,May
+1015,Sarawak FM,,,3880 V,,,,,False,RTM Sarawak,2/3,12400,DVB-S2,May
+1003,Wai FM,,,3870 V,,,,,False,RTM Sarawak,2/3,4444,DVB-S2,May
+1005,Wai FM,,,3880 V,,,,,False,RTM Sarawak,2/3,12400,DVB-S2,May
+1012,Wai FM,,,3880 V,,,,,False,RTM Sarawak,2/3,12400,DVB-S2,May
+1016,Wai FM,,,3880 V,,,,,False,RTM Sarawak,2/3,12400,DVB-S2,May
+159,Wai FM,,,11062 V,tp A3,0.0,,,False,RTM Sarawak,7/8,30000,DVB-S3,May
+1004,Red FM,,,3870 V,,,,,False,RTM Sarawak,2/3,4444,DVB-S2,Eng
+,RTM,,,3880 V,,,"BISS,Director",https://www.lyngsat.com/providers/my/RTM.html,True,RTM,2/3,12400,DVB-S2,
+1001,RTM TV 1,MPEG-4/HD,101.0,3880 V,,,Director,,False,RTM,2/3,12400,DVB-S2,May
+1002,[RTM Angkasapuri test card],MPEG-4/HD,201.0,3880 V,,,BISS,,False,RTM,2/3,12400,DVB-S2,May
+1003,[RTM Angkasapuri test card],MPEG-2/SD,301.0,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+1011,[RTM Angkasapuri test card],MPEG-2/SD,1101.0,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+1019,[RTM Angkasapuri test card],MPEG-2/SD,1901.0,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+1003,Radio Klasik,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,May
+1004,Nasional FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,May
+151,Nasional FM,,,11062 V,tp A3,0.0,,,False,RTM,7/8,30000,DVB-S3,May
+1006,Asyik FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,May
+10353,Asyik FM,,,11062 V,tp A3,0.0,,,False,RTM,7/8,30000,DVB-S3,May
+1007,Traxx FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,Eng
+10350,Traxx FM,,,11062 V,tp A3,0.0,,,False,RTM,7/8,30000,DVB-S3,Eng
+1008,Ai FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,Chi
+10352,Ai FM,,,11062 V,tp A3,0.0,,,False,RTM,7/8,30000,DVB-S3,Chi
+1009,Minnal FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,Tam
+10351,Minnal FM,,,11062 V,tp A3,0.0,,,False,RTM,7/8,30000,DVB-S3,Tam
+1010,Pahang FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,May
+1019,Kelantan FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,May
+1020,Perak FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+1021,Terengganu FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+1022,Johor FM,,,3880 V,,,,,False,RTM,2/3,12400,DVB-S2,
+,Manila Broadcasting Company,,,3984 V,,,,https://www.lyngsat.com/providers/ph/Manila-Broadcasting-Company.html,True,Manila Broadcasting Company,2/3,3333,DVB-S2,
+9,DZRH TV,/SD,2306.0,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+1,Radyo Natin Luzon,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+2,Radyo Natin Visayas,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+3,Radyo Natin Mindanao,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+4,96.3 Easy Rock,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+5,90.7 Love Radio,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+6,Yes! FM Manila,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+7,DZRH,,,3984 V,,,,,False,Manila Broadcasting Company,2/3,3333,DVB-S2,Tgl
+1,TVK (Cambodia),?-?MPEG-4/HD,308.0,4006 V,,,,,False,Manila Broadcasting Company,3/4,4166,DVB-S2,Khm
+2,RNK AM,,,4006 V,,,,,False,Manila Broadcasting Company,3/4,4166,DVB-S2,Khm
+3,RNK FM,,,4006 V,,,,,False,Manila Broadcasting Company,3/4,4166,DVB-S2,Khm
+,Globecast,,,4120 V,tp 12C,,"Irdeto,PowerVu",https://www.lyngsat.com/providers/fr/Globecast.html,True,Globecast,5/6,29700,DVB-S2,
+4,VoA TV Global,MPEG-4/HD,400.0,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,Eng
+5,VoA TV Asia,MPEG-4/HD,300.0,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,Eng
+21*,BBC Earth Asia,MPEG-4/HD,2130.0,4120 V,tp 12C,,PowerVu,,False,Globecast,5/6,29700,DVB-S2,Eng Tha Vie Chi
+31*,BBC Lifestyle Asia,MPEG-4/HD,3131.0,4120 V,tp 12C,,PowerVu,,False,Globecast,5/6,29700,DVB-S2,Eng
+33,CBeebies Asia,MPEG-4/HD,3300.0,4120 V,tp 12C,,PowerVu,,False,Globecast,5/6,29700,DVB-S2,Eng Ind May Vie Chi
+34,CBeebies Asia,MPEG-4/SD,3400.0,4120 V,tp 12C,,PowerVu,,False,Globecast,5/6,29700,DVB-S2,Eng
+301,Da Vinci Asia,MPEG-4/HD,6130.0,4120 V,tp 12C,,Irdeto,,False,Globecast,5/6,29700,DVB-S2,Eng Ind
+303,Tech Storm,MPEG-4/HD,49.0,4120 V,tp 12C,,Irdeto,,False,Globecast,5/6,29700,DVB-S2,Eng Chi
+1807,BeIn Sports 2 Southeast Asia,MPEG-4/HD,1871.0,4120 V,tp 12C,,Irdeto,,False,Globecast,5/6,29700,DVB-S2,Eng
+1907,BeIn Sports 1 Indonesia,MPEG-4/HD,1971.0,4120 V,tp 12C,,Irdeto,,False,Globecast,5/6,29700,DVB-S2,Ind Eng
+1908,BeIn Sports 3 Indonesia,MPEG-4/HD,1981.0,4120 V,tp 12C,,Irdeto,,False,Globecast,5/6,29700,DVB-S2,Ind Eng
+6,VoA East Timor,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,
+6,Voice of America,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,
+7,VoA Mongolia,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,
+7,Deewa Radio,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,
+8,VoA Dari,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,Prs
+8,VoA Indonesia,,,4120 V,tp 12C,,,,False,Globecast,5/6,29700,DVB-S2,
+,KC Global Media Entertainment,,,4160 V,,,PowerVu,https://www.lyngsat.com/providers/us/KC-Global-Media-Entertainment.html,True,KC Global Media Entertainment,5/6,29700,DVB-S2,
+10*,AXN Taiwan,MPEG-4/HD,1050.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Eng Chi
+30,AXN Philippines,MPEG-4/HD,310.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Eng
+130,AXN Philippines,MPEG-4/SD,2360.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Eng
+50*,Animax Asia,MPEG-4/HD,550.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Jpn Chi Eng
+140*,Gem,MPEG-4/HD,2600.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Chi
+160,Gem,MPEG-4/SD,1610.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Eng
+146*,One (USA),MPEG-4/HD,2510.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Kor May Chi
+152,Animax Taiwan,MPEG-4/HD,1520.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Jpn Chi
+190,Animax Philippines,MPEG-4/SD,2920.0,4160 V,,,PowerVu,,False,KC Global Media Entertainment,5/6,29700,DVB-S2,Eng
+,Astro,2176-201,,10982 V,tp A1,0.0,Videoguard,,False,KC Global Media Entertainment,5/6,30000,DVB-S2,
+,Astro,2176-102,,11022 V,tp A2,0.0,Videoguard,,False,KC Global Media Entertainment,5/6,30000,DVB-S2,
+,Astro,2176-103,,11062 V,tp A3,0.0,Videoguard,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+,Astro,2176-104,,11102 V,tp A4,0.0,Videoguard,,False,KC Global Media Entertainment,3/4,30000,DVB-S2,
+,Astro,2176-203,,11142 V,tp A5,0.0,Videoguard,,False,KC Global Media Entertainment,5/6,30000,DVB-S2,
+,Astro,2176-106,,11182 V,tp A6,0.0,Videoguard,,False,KC Global Media Entertainment,5/6,30000,DVB-S2,
+,Astro,2176-101,,11232 V,tp C1,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+,Astro,2176-202,,11272 V,tp C2,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+,Astro,2176-105,,11312 V,tp C3,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+,Astro,2176-204,,11352 V,tp C4,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+,Astro,2176-205,,11392 V,tp C5,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+,Astro,2176-206,,11432 V,tp C6,0.0,Videoguard,,False,KC Global Media Entertainment,3/5,30000,DVB-S2,
+140,Era,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,May
+141,My,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Chi
+142,Opus,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Eng
+143,Hitz,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Eng
+144,Mix,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Eng
+145,Lite,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Eng
+146,Classic Rock,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+147,Gold,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+148,Gegar,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,May
+149,India Beat,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+150,Jazz,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+152,Sinar,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,May
+153,Osai FM,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Tam
+154,Melody,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Chi
+156,Raaga,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Tam
+157,Bayu Radio,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+158,Kenyalang,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,
+10354,Zayan,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,May
+10355,Goxuan,,,11062 V,tp A3,0.0,,,False,KC Global Media Entertainment,7/8,30000,DVB-S3,Chi

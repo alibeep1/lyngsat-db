@@ -1,0 +1,7 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,CGN TV,1-1,,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,True,CGN TV,2/3,10740,DVB-S1,
+1.0,CGN TV,MPEG-2/SD,512.0,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,True,CGN TV,2/3,10740,DVB-S1,Kor
+2.0,CGN TV Japan,MPEG-2/SD,513.0,12347 V,,,,,False,CGN TV,2/3,10740,DVB-S1,Jpn
+3.0,CGN TV Chinese,MPEG-2/SD,514.0,12347 V,,,,,False,CGN TV,2/3,10740,DVB-S1,Chi
+1.0,NTD TV China,?-?MPEG-2/SD,512.0,12363 V,,,,,False,CGN TV,3/4,3900,DVB-S2,Chi
+2.0,Sound of Hope,,,12363 V,,,,,False,CGN TV,3/4,3900,DVB-S2,Chi

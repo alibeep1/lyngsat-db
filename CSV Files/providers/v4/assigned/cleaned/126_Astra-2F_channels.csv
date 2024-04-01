@@ -1,0 +1,328 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Sky UK,2-2109,,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2110,,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,
+,Sky UK,2-2111,,11344 H,tp 111,0.0,Videoguard,,False,,5/6,27500,DVB-S2,
+,Sky UK,2-2112,,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,
+,Sky UK,2-2020,,12110 H,tp 21,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2022,,12129 V,tp 22,0.0,,,False,,5/6,27500,DVB-S2,
+,Sky UK,2-2023,,12148 H,tp 23,0.0,Videoguard,,False,,5/6,27500,DVB-S2,
+,Sky UK,2-2024,,12168 V,tp 24,0.0,,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2025,,12188 H,tp 25,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2026,,12207 V,tp 26,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2027,,12226 H,tp 27,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2028,,12246 V,tp 28,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2029,,12266 H,tp 29,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2030,,12285 V,tp 30,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2032,,12324 V,tp 32,0.0,Videoguard,,False,,2/3,27500,DVB-S2,
+,Sky UK,2-2035,,12382 H,tp 35,0.0,Videoguard,,False,,5/6,27500,DVB-S2,
+2101.0,Channel 5 (UK),MPEG-2/SD,2335.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2108.0,Channel 5 (UK),MPEG-4/HD,2349.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2102.0,5 USA,MPEG-2/SD,2323.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2103.0,5 USA +1,MPEG-2/SD,2329.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2104.0,5 Star,MPEG-2/SD,2305.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2105.0,5 Select,MPEG-2/SD,2317.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2106.0,5 Star +1,MPEG-2/SD,2311.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2107.0,Channel 5 +1,MPEG-2/SD,2341.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+2109.0,5 Action,MPEG-2/SD,2353.0,11305 H,tp 109,0.0,,,False,,2/3,27500,DVB-S2,Eng
+53300.0,Great! Movies Ireland,MPEG-2/SD,2308.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53305.0,Great! TV Ireland,MPEG-2/SD,2304.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53310.0,Great! Action,MPEG-2/SD,2306.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53315.0,Great! Movies UK,MPEG-2/SD,2349.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53320.0,Great! Romance,MPEG-2/SD,2313.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53325.0,Great! Romance +1,MPEG-2/SD,2317.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53335.0,Great! Real,MPEG-2/SD,2310.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53340.0,Pop,MPEG-2/SD,2315.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53350.0,Pop Max,MPEG-2/SD,2337.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53355.0,Great! Movies UK +1,MPEG-2/SD,2352.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53360.0,Pop Max +1,MPEG-2/SD,2333.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53365.0,Great! Action +1,MPEG-2/SD,2319.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53370.0,Pop +1,MPEG-2/SD,2339.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53375.0,Great! TV UK,MPEG-2/SD,2341.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53380.0,Great! TV UK +1,MPEG-2/SD,2344.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53385.0,Great! Real +1,MPEG-2/SD,2324.0,11306 V,tp 110,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53205.0,Must Have Ideas,MPEG-2/SD,2330.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53215.0,Chart Show Retro,MPEG-2/SD,2355.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53221.0,HGTV UK,MPEG-2/SD,2346.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53225.0,Really UK,MPEG-2/SD,2309.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53231.0,HGTV UK +1,MPEG-2/SD,2351.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+53235.0,Really Ireland,MPEG-2/SD,2342.0,11344 H,tp 111,0.0,,,False,,5/6,27500,DVB-S2,Eng
+50903.0,True Crime Xtra UK,MPEG-2/SD,3080.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55201.0,That's TV 2,MPEG-2/SD,2316.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55202.0,Legend Xtra,MPEG-2/SD,2307.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55207.0,That's 90s,MPEG-2/SD,2352.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55208.0,True Crime Xtra Ireland,MPEG-2/SD,2309.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55209.0,Legend,MPEG-2/SD,2644.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55213.0,PBS America,MPEG-2/SD,2373.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55214.0,True Crime UK,MPEG-2/SD,2650.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55216.0,True Crime Ireland,MPEG-2/SD,2351.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55217.0,True Crime UK +1,MPEG-2/SD,2312.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55218.0,Legend Xtra +1,MPEG-2/SD,2314.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55225.0,Talking Pictures TV,MPEG-2/SD,2300.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55230.0,That's TV UK,MPEG-2/SD,2357.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55235.0,That's 60s,MPEG-2/SD,2359.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55240.0,Babestation,MPEG-2/SD,2354.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55280.0,That's 80s,MPEG-2/SD,2322.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Eng
+55295.0,S4C,MPEG-2/SD,2360.0,11344 V,tp 112,0.0,,,False,,5/6,27500,DVB-S2,Wel Eng
+,WAP,2-2520,,11595 V,tp 520,0.0,,https://www.lyngsat.com/providers/--/WAP.html,True,WAP,5/6,30000,DVB-S2,
+55000.0,Lucky TV,MPEG-4/SD,1791.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55001.0,Strong TV,MPEG-4/SD,511.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55002.0,Atinka TV,MPEG-4/SD,767.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55003.0,MTA 5 Africa,MPEG-4/SD,1023.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55004.0,Powerline TV,MPEG-4/SD,1279.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55005.0,Adoa TV,MPEG-4/SD,1535.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55006.0,GBC News,MPEG-4/SD,255.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55007.0,Paradise TV (Ghana),MPEG-4/SD,2047.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55008.0,Citi TV,MPEG-4/SD,2303.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55010.0,Super A1 TV,MPEG-4/SD,2815.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55011.0,Fly TV,MPEG-4/SD,3071.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55012.0,Hot GH TV,MPEG-4/SD,3327.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55013.0,Philico TV,MPEG-4/SD,3583.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55014.0,Prophet 1 TV,MPEG-4/SD,3839.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55015.0,Metro TV (Ghana),MPEG-4/SD,4095.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55016.0,NTV (Ghana),MPEG-4/SD,4351.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55017.0,Wesleyan TV,MPEG-4/SD,4607.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55018.0,Sagani TV,MPEG-4/SD,4863.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55019.0,Amen TV (Ghana),MPEG-4/SD,5119.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55020.0,Hill TV,MPEG-4/SD,5375.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55021.0,Jericho TV,MPEG-4/SD,5631.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55022.0,Kiss TV (Ghana),MPEG-4/SD,5887.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55023.0,Ogyaba TV,MPEG-4/SD,6143.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55024.0,Thunder TV,MPEG-4/SD,6399.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55026.0,Power TV,MPEG-4/SD,6911.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55027.0,Wontumi TV,MPEG-4/SD,7167.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+55028.0,AgyaPa TV,MPEG-4/SD,7423.0,11595 V,tp 520,0.0,,,False,WAP,5/6,30000,DVB-S2,Eng
+,,2-2521,,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,
+,,2-2524,,11675 V,tp 524,0.0,,,False,WAP,5/6,30000,DVB-S2,
+,,,,11720 H,tp 1,0.0,,,False,WAP,,,,
+,,,,12304 H,tp 31,0.0,,,False,WAP,,,,
+,,,,12685 H,tp 533,0.0,,,False,WAP,,,,
+55401.0,Channels TV,MPEG-4/SD,287.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55403.0,Liberty TV (Nigeria),MPEG-4/SD,351.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55404.0,NTA Sports 24,MPEG-4/SD,383.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55406.0,NTA News 24,MPEG-4/SD,447.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55407.0,TVC News,MPEG-4/SD,479.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55408.0,GET TV,MPEG-4/SD,511.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55409.0,Galaxy TV,MPEG-4/SD,543.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55410.0,CNBC Africa,MPEG-4/SD,575.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55411.0,African Movie Net,MPEG-4/SD,607.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55412.0,1 Music,MPEG-4/SD,639.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55413.0,Kennis Music Channel,MPEG-4/SD,671.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55414.0,Brekete Family TV,MPEG-4/SD,703.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55415.0,AfroSport TV,MPEG-4/SD,735.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55416.0,Wazobia TV,MPEG-4/SD,767.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55417.0,Rave TV,MPEG-4/SD,799.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55418.0,Nolly Africa,MPEG-4/SD,831.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55419.0,Awa TV,MPEG-4/SD,863.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55420.0,TVC (Nigeria),MPEG-4/SD,895.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55421.0,Correct TV,MPEG-4/SD,927.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55423.0,AIT International,MPEG-4/SD,991.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55428.0,NTA Parliament,MPEG-4/SD,,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55429.0,Wap TV,MPEG-4/SD,1183.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+55430.0,Our Sports,MPEG-4/SD,1215.0,11635 H,tp 521,0.0,"Verimatrix (B),Nagravision",,False,WAP,5/6,30000,DVB-S2,Eng
+,SES,2-2522,,11635 V,tp 522,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2522,,11635 V,tp 522,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2522,,11635 V,tp 522,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2523,,11675 H,tp 523,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2523,,11675 H,tp 523,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2523,,11675 H,tp 523,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2530,,12605 V,tp 530,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2530,,12605 V,tp 530,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+,SES,2-2530,,12605 V,tp 530,0.0,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,5/6,30000,DVB-S2,
+55600.0,Shelter TV,MPEG-4/SD,255.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55601.0,United TV,MPEG-4/SD,287.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55602.0,Maranatha TV,MPEG-4/SD,319.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55603.0,Henne's TV,MPEG-4/SD,351.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55604.0,Asomafo TV,MPEG-4/SD,383.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55605.0,Nazareth TV,MPEG-4/SD,415.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Ewe
+55606.0,Passion TV,MPEG-4/SD,7135.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55607.0,Akasanoma TV,MPEG-4/SD,479.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55608.0,Starr TV,MPEG-4/SD,511.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55609.0,CACI TV,MPEG-4/SD,543.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55610.0,7DS GHTV,MPEG-4/SD,575.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55611.0,Love Revolution TV,MPEG-4/SD,607.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55612.0,Health TV,MPEG-4/SD,2163.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55614.0,Cosmopolitan TV,MPEG-4/SD,703.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55615.0,OK TV,MPEG-4/SD,735.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55616.0,Trinity TV,MPEG-4/SD,767.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55617.0,Adinkra TV,MPEG-4/SD,799.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55618.0,BOC TV,MPEG-4/SD,831.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55619.0,Cash TV (Ghana),MPEG-4/SD,863.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55621.0,Big TV,MPEG-4/SD,927.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55622.0,Second Chance TV,MPEG-4/SD,959.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55623.0,Boss TV,MPEG-4/SD,991.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55624.0,Best TV (Ghana),MPEG-4/SD,1023.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55625.0,AB TV,MPEG-4/SD,1055.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55626.0,Akwasi Awua TV,MPEG-4/SD,1087.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55628.0,Megyefo TV,MPEG-4/SD,1151.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55629.0,Mabesh TV,MPEG-4/SD,1183.0,11635 V,tp 522,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55101.0,LN247,MPEG-4/SD,511.0,11675 H,tp 523,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55104.0,Tattase TV,MPEG-4/SD,1279.0,11675 H,tp 523,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55106.0,Loud Silence TV,MPEG-4/SD,1791.0,11675 H,tp 523,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55107.0,SLBC TV,MPEG-4/SD,2047.0,11675 H,tp 523,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55900.0,HSM TV,MPEG-4/SD,255.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55901.0,Ororo TV,MPEG-4/SD,287.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55902.0,Pemsan TV,MPEG-4/SD,319.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55904.0,Unity TV (Ghana),MPEG-4/SD,383.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55905.0,Anigyie TV,MPEG-4/SD,415.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55906.0,Dove TV (Ghana),MPEG-4/SD,447.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55907.0,Ogya One TV,MPEG-4/SD,479.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55908.0,Holy TV (Ghana),MPEG-4/SD,511.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55909.0,TAC TV,MPEG-4/SD,543.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55910.0,Sompa TV,MPEG-4/SD,575.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,
+55911.0,Papabi TV,MPEG-4/SD,607.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55913.0,Home TV (Ghana),MPEG-4/SD,671.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55915.0,Fast TV,MPEG-4/SD,735.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55918.0,Promise TV,MPEG-4/SD,831.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55921.0,Oyerepa TV,MPEG-4/SD,927.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55922.0,Ahwenepa TV,MPEG-4/SD,959.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55924.0,King Tom TV,MPEG-4/SD,1023.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+55928.0,THM TV,MPEG-4/SD,1151.0,11675 V,tp 524,0.0,,,False,SES,5/6,30000,DVB-S2,Eng
+6505.0,Yesterday,MPEG-2/SD,2332.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6506.0,Dave UK,MPEG-2/SD,2308.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6520.0,W UK,MPEG-2/SD,2363.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6522.0,Drama UK,MPEG-2/SD,2372.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25110.0,W UK +1,MPEG-2/SD,2354.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25111.0,Drama Ireland,MPEG-2/SD,2348.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25112.0,Dave Ireland,MPEG-2/SD,2553.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25113.0,Drama UK +1,MPEG-2/SD,2380.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25114.0,Dave ja vu,MPEG-2/SD,2345.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25116.0,Yesterday +1,MPEG-2/SD,2337.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+25122.0,W Ireland,MPEG-2/SD,2621.0,12129 V,tp 22,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+5532.0,Sky News Arabia,MPEG-2/SD,518.0,12148 H,tp 23,0.0,,,False,SES,5/6,27500,DVB-S2,Ara
+1204.0,BBC One South,MPEG-4/HD,515.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng Eng
+5052.0,Sky Mix Ireland,MPEG-4/HD,521.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5088.0,CNBC UK,MPEG-4/HD,513.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5109.0,ITV 1 Central West,MPEG-4/HD,519.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5213.0,Channel 4 Midlands,MPEG-4/HD,518.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5249.0,Channel 4 North,MPEG-4/HD,512.0,12168 V,tp 24,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5246.0,Channel 4 Northern Ireland,MPEG-4/HD,518.0,12226 H,tp 27,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5831.0,Sky Mix UK,MPEG-4/HD,521.0,12226 H,tp 27,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+7502.0,ITV 1 Meridian East,MPEG-4/HD,512.0,12226 H,tp 27,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+5259.0,Sky News Radio,,,12246 V,tp 28,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+1002.0,Sky Intro,MPEG-4/HD,512.0,12324 V,tp 32,0.0,,,False,SES,2/3,27500,DVB-S2,Eng
+2905.0,DMAX UK +1,MPEG-2/SD,2389.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+2908.0,Food Network Ireland,MPEG-2/SD,2333.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+2910.0,Food Network UK,MPEG-2/SD,2352.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+2912.0,Food Network UK +1,MPEG-2/SD,2319.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+2916.0,DMAX UK,MPEG-2/SD,2384.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6211.0,Quest Red UK +1,MPEG-2/SD,2323.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6213.0,Quest UK,MPEG-2/SD,2364.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6214.0,Quest Red UK,MPEG-2/SD,2356.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+6215.0,Quest UK +1,MPEG-2/SD,2360.0,12382 H,tp 35,0.0,,,False,SES,5/6,27500,DVB-S2,Eng
+,(feeds),,,12505 H,tp 73,,,,False,SES,3/4,4500,DVB-S4,
+,(feeds),,,12510 H,tp 73,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12511 V,tp 74,,,,False,SES,2/3,5000,DVB-S2,
+,(feeds),,,12517 H,tp 73,,,,False,SES,3/4,4500,DVB-S4,
+,(feeds),,,12517 V,tp 74,,,,False,SES,2/3,5000,DVB-S2,
+,(feeds),,,12535 H,tp 75,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12542 H,tp 75,,,,False,SES,3/4,3750,DVB-S2,
+,(feeds),,,12542 V,tp 76,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12546 H,tp 75,,,,False,SES,2/3,5000,DVB-S2,
+,(feeds),,,12551 V,tp 76,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12552 H,tp 75,,,,False,SES,3/4,4500,DVB-S4,
+,(feeds),,,12564 H,tp 77,,,,False,SES,3/4,7500,DVB-S2,
+,(feeds),,,12570 V,tp 78,,,,False,SES,3/4,4800,DVB-S4,
+,(feeds),,,12573 H,tp 77,,,,False,SES,5/6,7500,DVB-S2,
+,(feeds),,,12578 V,tp 78,,,,False,SES,3/4,4500,DVB-S4,
+,(feeds),,,12580 H,tp 77,,,,False,SES,5/6,5000,DVB-S2,
+,(feeds),,,12588 V,tp 78,,,,False,SES,3/4,4500,DVB-S4,
+,(feeds),,,12594 H,tp 79,,,,False,SES,5/6,7500,DVB-S2,
+,(feeds),,,12602 V,tp 80,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12603 H,tp 79,,,,False,SES,5/6,7500,DVB-S2,
+,(feeds),,,12611 H,tp 79,,,,False,SES,5/6,7500,DVB-S2,
+,(feeds),,,12611 V,tp 80,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12618 V,tp 80,,,,False,SES,5/6,5000,DVB-S2,
+,(feeds),,,12627 H,tp 81,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12629 V,tp 82,,,,False,SES,5/6,5000,DVB-S2,
+,(feeds),,,12635 V,tp 82,,,,False,SES,5/6,5000,DVB-S2,
+,(feeds),,,12636 H,tp 81,,,,False,SES,2/3,7120,DVB-S2,
+,(feeds),,,12640 V,tp 82,,,,False,SES,3/4,5632,DVB-S5,
+,(feeds),,,12645 V,tp 82,,,,False,SES,5/6,5000,DVB-S2,
+,(feeds),,,12651 H,tp 83,,,,False,SES,2/3,3630,DVB-S2,
+,(feeds),,,12655 H,tp 83,,,,False,SES,2/3,3630,DVB-S2,
+,(feeds),,,12659 V,tp 84,,,,False,SES,3/4,3600,DVB-S2,
+,(feeds),,,12660 H,tp 83,,,,False,SES,2/3,3630,DVB-S2,
+,(feeds),,,12663 V,tp 84,,,,False,SES,3/4,3600,DVB-S2,
+,(feeds),,,12665 H,tp 83,,,,False,SES,2/3,3630,DVB-S2,
+,(feeds),,,12666 V,tp 84,,,,False,SES,8/9,2663,DVB-S2,
+,(feeds),,,12669 H,tp 83,,,,False,SES,2/3,3630,DVB-S2,
+,(feeds),,,12670 V,tp 84,,,,False,SES,8/9,1738,DVB-S2,
+,(feeds),,,12678 V,tp 84,,,,False,SES,3/4,5000,DVB-S2,
+,(feeds),,,12682 H,tp 85,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12689 V,tp 86,,,,False,SES,2/3,5000,DVB-S2,
+,(feeds),,,12693 H,tp 85,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12696 V,tp 86,,,,False,SES,2/3,3750,DVB-S2,
+,(feeds),,,12700 H,tp 85,,,,False,SES,5/6,7500,DVB-S2,
+,(feeds),,,12703 V,tp 86,,,,False,SES,3/4,6750,DVB-S2,
+,(feeds),,,12712 H,tp 87,,,,False,SES,3/4,7200,DVB-S2,
+,(feeds),,,12721 H,tp 87,,,,False,SES,3/4,7200,DVB-S2,
+,Multi TV,2-2526,,12525 V,tp 526,0.0,,https://www.lyngsat.com/providers/gh/Multi-TV.html,True,Multi TV,5/6,30000,DVB-S2,
+101.0,Joy Prime,MPEG-4/SD,1012.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+102.0,Adom TV,MPEG-4/SD,1022.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+103.0,Joy News,MPEG-4/SD,1032.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+104.0,GT1,MPEG-4/SD,1042.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+105.0,Fire TV (Ghana),MPEG-4/SD,1052.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+106.0,Rock TV (Ghana),MPEG-4/SD,1062.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+108.0,Sweet TV,MPEG-4/SD,1082.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+109.0,GH Police TV,MPEG-4/SD,1092.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+110.0,Pent TV,MPEG-4/SD,1102.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+111.0,TVT,MPEG-4/SD,1112.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Fre
+113.0,Woezor TV,MPEG-4/SD,1132.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+115.0,Alpha Gnosis TV,MPEG-4/SD,1152.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+116.0,Pan African TV,MPEG-4/SD,1162.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+117.0,Movement TV,MPEG-4/SD,1202.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+118.0,Liberia National TV,MPEG-4/SD,1182.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+119.0,TV 3 (Ghana),MPEG-4/SD,1192.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+121.0,Onua TV,MPEG-4/SD,1212.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+122.0,Zaa TV,MPEG-4/SD,1222.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+123.0,Precious TV,MPEG-4/SD,1232.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+124.0,Royal TV (Ghana),MPEG-4/SD,1242.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+125.0,OB TV,MPEG-4/SD,1252.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+126.0,Kessben TV,MPEG-4/SD,1262.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+127.0,Angel TV (Ghana),MPEG-4/SD,1272.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+128.0,Elijah TV,MPEG-4/SD,1282.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+129.0,GH One TV,MPEG-4/SD,1292.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+130.0,TV Xyz,MPEG-4/SD,1302.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+131.0,Green Gold TV,MPEG-4/SD,1312.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+132.0,ABC News GH,MPEG-4/SD,1322.0,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+201.0,Joy FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+202.0,Asempa FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+203.0,Luv FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+204.0,Adom FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+205.0,Hitz FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+206.0,Nhyira FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+207.0,Peace FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+209.0,Citi FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+211.0,Kessben FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+212.0,ELBC,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+213.0,Radio Gold 90.5,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+224.0,Radio Gold 90.5,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+215.0,Angel 96.1 FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+217.0,New Mercury 91.5 FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+218.0,Asaase Radio,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+219.0,Power 97.9 FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+220.0,Radio Lomé,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Fre
+221.0,Radio Kara,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Fre
+222.0,Heaven FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+223.0,Ahotor FM,,,12525 V,tp 526,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55700.0,Mothers TV,MPEG-4/SD,255.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55702.0,Brighter TV,MPEG-4/SD,319.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55703.0,Omanba TV,MPEG-4/SD,351.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55705.0,X TV,MPEG-4/SD,415.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55706.0,Hope Channel Ghana,MPEG-4/SD,447.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55707.0,Diamond TV GH (Ghana),MPEG-4/SD,479.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55708.0,Ghanaman TV,MPEG-4/SD,511.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55709.0,Globe TV,MPEG-4/SD,543.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55710.0,Northern Gold TV,MPEG-4/SD,575.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55711.0,Western Diamond TV,MPEG-4/SD,607.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55713.0,Sporty TV,MPEG-4/SD,671.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55715.0,Joy Learning,MPEG-4/SD,735.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55716.0,Akyedie TV,MPEG-4/SD,767.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55719.0,SBN International,MPEG-4/SD,863.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng Spa
+55723.0,Ezra TV,MPEG-4/SD,991.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55725.0,Days TV,MPEG-4/SD,1055.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55726.0,Truth TV (Ghana),MPEG-4/SD,1087.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55727.0,Lawson TV,MPEG-4/SD,1119.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55728.0,Asomdwie TV,MPEG-4/SD,1151.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+55729.0,Genesis TV (Ghana),MPEG-4/SD,1183.0,12605 V,tp 530,0.0,,,False,Multi TV,5/6,30000,DVB-S2,Eng
+,HD+ Ghana,2-2536,,12725 V,tp 536,0.0,Nagravision,,False,Multi TV,5/6,30000,DVB-S2,

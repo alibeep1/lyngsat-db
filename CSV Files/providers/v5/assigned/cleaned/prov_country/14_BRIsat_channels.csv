@@ -1,0 +1,13 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Provider_Country
+,Bricast,,,3532 H,,,"BISS 1,Xcrypt",https://www.lyngsat.com/providers/--/Bricast.html,True,Bricast,3/5,13330,DVB-S2,,--
+,Bricast,,,3532 H,,,"BISS 1,Xcrypt",https://www.lyngsat.com/providers/--/Bricast.html,True,Bricast,3/5,13330,DVB-S2,,--
+,Bricast,,,3855 V,,,"BISS 1,Xcrypt",https://www.lyngsat.com/providers/--/Bricast.html,True,Bricast,3/5,13330,DVB-S2,,--
+,Bricast,,,3855 V,,,"BISS 1,Xcrypt",https://www.lyngsat.com/providers/--/Bricast.html,True,Bricast,3/5,13330,DVB-S2,,--
+1.0,BRI Vision promo,MPEG-4/HD,121.0,3532 H,,,Xcrypt,,False,Bricast,3/5,13330,DVB-S2,Ind,
+2.0,BRI Vision promo,MPEG-4/HD,123.0,3532 H,,,Xcrypt,,False,Bricast,3/5,13330,DVB-S2,Ind,
+3.0,BRI Vision promo,MPEG-4/HD,125.0,3532 H,,,BISS 1,,False,Bricast,3/5,13330,DVB-S2,Ind,
+4.0,BRI Vision promo,MPEG-4/HD,127.0,3532 H,,,BISS 1,,False,Bricast,3/5,13330,DVB-S2,Ind,
+1.0,BRI Vision promo,MPEG-4/HD,121.0,3855 V,,,Xcrypt,,False,Bricast,3/5,13330,DVB-S2,Ind,
+2.0,BRI Vision promo,MPEG-4/HD,123.0,3855 V,,,Xcrypt,,False,Bricast,3/5,13330,DVB-S2,Ind,
+3.0,BRI Vision promo,MPEG-4/HD,125.0,3855 V,,,BISS 1,,False,Bricast,3/5,13330,DVB-S2,Ind,
+4.0,BRI Vision promo,MPEG-4/HD,127.0,3855 V,,,BISS 1,,False,Bricast,3/5,13330,DVB-S2,Ind,

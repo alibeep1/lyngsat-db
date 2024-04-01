@@ -1,0 +1,205 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,10996 V,tp B2,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11005 V,tp B2,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11014 V,tp B2,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11018 H,tp B1,,,,False,,3/4,2000,DVB-S2,
+,(feeds),,,11026 V,tp B2,,,,False,,5/6,3333,DVB-S2,
+,(feeds),,,11042 H,tp B3,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11043 V,tp B4,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11051 H,tp B3,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11052 V,tp B4,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11061 V,tp B4,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11070 H,tp B3,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11072 V,tp B4,,,,False,,3/4,2333,DVB-S2,
+,(feeds),,,11079 H,tp B3,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11095 H,tp B3,,,,False,,3/4,3650,DVB-S2,
+,(feeds),,,11111 H,tp B3,,,,False,,3/4,3000,DVB-S2,
+,(feeds),,,11127 V,tp B6,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11136 H,tp B5,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11136 V,tp B6,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11145 H,tp B5,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11150 V,tp B6,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11159 H,tp B5,,,,False,,5/6,1950,DVB-S2,
+,(feeds),,,11169 V,tp B6,,,,False,,3/4,3700,DVB-S2,
+,(feeds),,,11174 V,tp B6,,,,False,,3/4,3700,DVB-S2,
+,(feeds),,,11179 V,tp B6,,,,False,,3/4,2170,DVB-S2,
+,(feeds),,,11189 V,tp B6,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,11192 H,tp B5,,,,False,,3/4,3600,DVB-S2,
+,(feeds),,,11488 V,tp D2,,,,False,,5/6,2600,DVB-S2,
+,(feeds),,,11510 V,tp D2,,,,False,,3/5,7500,DVB-S2,
+,(feeds),,,11570 V,tp D4,,,,False,,3/4,2963,DVB-S2,
+,(feeds),,,11626 V,tp G6,,,,False,,3/4,2200,DVB-S2,
+,(feeds),,,11670 V,tp G6,,,,False,,5/6,3200,DVB-S2,
+,(feeds),,,11674 V,tp G6,,,,False,,5/6,3200,DVB-S2,
+,(feeds),,,11681 V,tp G6,,,,False,,5/6,2000,DVB-S2,
+,(feeds),,,11684 V,tp G6,,,,False,,5/6,2500,DVB-S2,
+,(feeds),,,11690 V,tp G6,,,,False,,3/4,3700,DVB-S2,
+,(feeds),,,12503 V,tp F2,,,,False,,5/6,1800,DVB-S2,
+,(feeds),,,12508 H,tp H1,,,,False,,5/6,1880,DVB-S2,
+,(feeds),,,12522 V,tp F2,,,,False,,3/4,1346,DVB-S1,
+,(feeds),,,12560 V,tp F2,,,,False,,3/4,2600,DVB-S2,
+,(feeds),,,12575 V,tp F2,,,,False,,3/4,1450,DVB-S1,
+,(feeds),,,12577 V,tp F2,,,,False,,5/6,1471,DVB-S2,
+,(feeds),,,12579 V,tp F2,,,,False,,5/6,1471,DVB-S2,
+,(feeds),,,12594 H,tp F3,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,12600 H,tp F3,,,,False,,3/4,23330,DVB-S2,
+,(feeds),,,12620 H,tp F3,,,,False,,5/6,2222,DVB-S2,
+,(feeds),,,12623 H,tp F3,,,,False,,5/6,2222,DVB-S2,
+,(feeds),,,12630 H,tp F3,,,,False,,3/4,9600,DVB-S2,
+,(feeds),,,12642 H,tp F3,,,,False,,3/4,9600,DVB-S2,
+,(feeds),,,12654 V,tp F4,,,,False,,7/8,1800,DVB-S1,
+,(feeds),,,12673 V,tp F6,,,,False,,3/4,2200,DVB-S2,
+,(feeds),,,12702 V,tp F6,,,,False,,7/8,2200,DVB-S2,
+,(feeds),,,12704 V,tp F6,,,,False,,7/8,1800,DVB-S1,
+,(feeds),,,12706 V,tp F6,,,,False,,7/8,2200,DVB-S2,
+,(feeds),,,12709 V,tp F6,,,,False,,7/8,1800,DVB-S1,
+,(feeds),,,12712 V,tp F6,,,,False,,5/6,3000,DVB-S2,
+,(feeds),,,12724 V,tp F6,,,,False,,3/4,2143,DVB-S2,
+,(feeds),,,12742 V,tp F6,,,,False,,3/4,2143,DVB-S2,
+,(IHA feeds),,,11098 H,tp B3,,,,False,,3/4,3333,DVB-S2,
+,(IHA feeds),,,11102 H,tp B3,,,,False,,3/4,3200,DVB-S2,
+,(IHA feeds),,,11106 H,tp B3,,,,False,,5/6,23200,DVB-S2,
+1.0,Al Rasheed TV,1-1MPEG-4/HD,404.0,11106 V,tp B4,46-47,,,False,,3/5,3333,DVB-S2,Ara
+1.0,Al Rasheed FM,,,11106 V,tp B4,46-47,,,False,,3/5,3333,DVB-S2,Ara
+,GeoSat,878-1,,11212 H,tp C1,46-47,,https://www.lyngsat.com/providers/ge/GeoSat.html,True,GeoSat,3/5,14400,DVB-S2,
+2067.0,Turan TV,MPEG-2/SD,671.0,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,
+8505.0,1 TV (Georgia),MPEG-4/HD,510.0,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,Geo
+8509.0,[GeoSat test card],MPEG-4/SD,910.0,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,
+8505.0,Georgia Radio,MPEG-4,,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,Geo
+8506.0,Georgia Radio Music,MPEG-4,,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,Geo
+8509.0,Green Wave FM,MPEG-4,,11212 H,tp C1,46-47,,,False,GeoSat,3/5,14400,DVB-S2,Geo
+,Zap,91-21,,11221 V,tp C2,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Zap,91-22,,11263 V,tp C4,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Zap,91-23,,11304 V,tp C6,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Zap,91-24,,11346 V,tp C8,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Zap,91-25,,11387 V,tp C10,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Zap,91-26,,11429 V,tp C12,0,Nagravision,,False,GeoSat,5/6,30000,DVB-S2,
+,Stereo Plus,1-1,,11230 H,tp C1,46-47,,https://www.lyngsat.com/providers/ge/Stereo-Plus.html,True,Stereo Plus,3/5,15000,DVB-S2,
+768.0,Imedi TV,MPEG-4/HD,37.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+769.0,GDS TV,MPEG-4/SD,41.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+772.0,TV Pirveli,MPEG-4/SD,45.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+775.0,Maestro (Georgia),MPEG-4/SD,49.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+1024.0,Pos TV,MPEG-4/SD,33.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+1025.0,Marneuli TV,MPEG-4/SD,52.0,11230 H,tp C1,46-47,,,False,Stereo Plus,3/5,15000,DVB-S2,Geo
+,Vivacom MCPC,1-245,,11345 H,tp C7,46-47,Irdeto,https://www.lyngsat.com/providers/bg/Vivacom-MCPC.html,True,Vivacom MCPC,3/4,30000,DVB-S2,
+102.0,Nickelodeon Bulgaria,MPEG-2/SD,2020.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Bul Eng Ukr
+103.0,FX Greece,MPEG-4/HD,400.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Gre Eng
+104.0,FX Life Greece,MPEG-4/HD,1900.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Gre Eng
+105.0,National Geographic Ellada,MPEG-4/HD,500.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+106.0,Disney Junior Romania & Bulgaria,MPEG-4/SD,2060.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng Tur Pol Rum Gre Ara Bul
+107.0,Disney Channel Middle East,MPEG-4/SD,2070.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng Gre Ara
+108.0,Nick Jr Bulgaria,MPEG-2/SD,2080.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Bul Eng
+109.0,Nicktoons Bulgaria,MPEG-2/SD,2090.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Bul
+110.0,Rybalka i Okhota,MPEG-4/SD,100.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Rus
+115.0,Star Channel Adria,MPEG-4/SD,2150.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+116.0,Star Life Adria,MPEG-4/SD,2160.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+117.0,Star Crime Adria,MPEG-4/SD,2170.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+118.0,National Geographic Adria,MPEG-4/SD,2180.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+119.0,24 Kitchen Adria,MPEG-4/SD,2190.0,11345 H,tp C7,46-47,Irdeto,,False,Vivacom MCPC,3/4,30000,DVB-S2,Eng
+1101.0,Canal Programação,MPEG-4/SD,1011.0,11429 V,tp C12,0,,,False,Vivacom MCPC,5/6,30000,DVB-S2,Por
+1127.0,Zap Programaçao,MPEG-4/HD,1271.0,11429 V,tp C12,0,,,False,Vivacom MCPC,5/6,30000,DVB-S2,Por
+1113.0,Rádio Mais,,,11429 V,tp C12,0,,,False,Vivacom MCPC,5/6,30000,DVB-S2,Por
+1114.0,Rádio Cazenga,,,11429 V,tp C12,0,,,False,Vivacom MCPC,5/6,30000,DVB-S2,Por
+,DSTV Africa,878-65423,,11474 V,tp G2SAL,0,Irdeto,,False,Vivacom MCPC,5/6,30000,DVB-S3,
+,DSTV Africa,878-65422,,11510 V,tp G2SAU,0,Irdeto,,False,Vivacom MCPC,5/6,30000,DVB-S3,
+,DSTV Africa,878-65421,,11557 V,tp G4SAL,0,Irdeto,,False,Vivacom MCPC,5/6,30000,DVB-S3,
+,DSTV Africa,878-65424,,11593 V,tp G4SAU,0,Irdeto,,False,Vivacom MCPC,5/6,30000,DVB-S3,
+,DSTV Africa,878-65416,,11727 V,tp EA1,0,Irdeto,,False,Vivacom MCPC,2/3,27500,DVB-S2,
+,DSTV Africa,878-65414,,11747 H,tp EA2,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65419,,11766 V,tp EA3,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65502,,11785 H,tp EA4,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65417,,11804 V,tp EA5,0,Irdeto,,False,Vivacom MCPC,2/3,27500,DVB-S2,
+,DSTV Africa,878-65408,,11823 H,tp EA6,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65418,,11843 V,tp EA7,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65407,,11862 H,tp EA8,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65415,,11881 V,tp EA9,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65406,,11900 H,tp EA10,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65434,,11919 V,tp EA11,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65405,,11938 H,tp EA12,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65409,,11958 V,tp EA13,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65404,,11977 H,tp EA14,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65410,,11996 V,tp EA15,0,Irdeto,,False,Vivacom MCPC,2/3,27500,DVB-S2,
+,DSTV Africa,878-65403,,12015 H,tp EA16,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65413,,12034 V,tp EA17,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65402,,12054 H,tp EA18,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65411,,12073 V,tp EA19,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,DSTV Africa,878-65401,,12245 H,tp EA28,0,Irdeto,,False,Vivacom MCPC,3/4,27500,DVB-S2,
+,,,,11495 V,tp D2,46-47,,,False,Vivacom MCPC,,,,
+,,1-55,,12564 H,tp H1,46-47,Irdeto,,False,Vivacom MCPC,3/5,25833,DVB-S2,
+,Iraqi mux,65535-1,,11542 V,tp D4,46-47,,,False,Vivacom MCPC,2/3,5750,DVB-S2,
+1.0,Karbala TV,MPEG-4/HD,308.0,11542 V,tp D4,46-47,,,False,Vivacom MCPC,2/3,5750,DVB-S2,Ara
+2.0,Alquran,MPEG-4/HD,307.0,11542 V,tp D4,46-47,,,False,Vivacom MCPC,2/3,5750,DVB-S2,Ara
+3.0,Al-Rawdah Al-Hussainiya Holy Radio,,,11542 V,tp D4,46-47,,,False,Vivacom MCPC,2/3,5750,DVB-S2,Ara
+1.0,Anbar TV Channel,1-1MPEG-2/SD,512.0,11586 H,tp D3,46-47,,,False,Vivacom MCPC,3/4,2170,DVB-S2,Ara
+1.0,Iraq 24,65535-1MPEG-4/HD,33.0,11593 V,tp D4,46-47,,,False,Vivacom MCPC,3/4,2500,DVB-S2,Ara
+90.0,[Ods VOD test card],MPEG-2/SD,1999.0,11593 V,tp G4SAU,0,,,False,Vivacom MCPC,5/6,30000,DVB-S3,
+1724.0,[Ods VOD test card],MPEG-4/HD,906.0,11804 V,tp EA5,0,,,False,Vivacom MCPC,2/3,27500,DVB-S2,Eng
+1.0,Alyaum Channel,1-1MPEG-4/HD,512.0,11597 H,tp D3,46-47,,,False,Vivacom MCPC,5/6,1750,DVB-S2,Ara
+,Global Link,4-11,,11650 V,tp G6,46-47,,https://www.lyngsat.com/providers/ge/Global-Link.html,True,Global Link,3/4,10000,DVB-S2,
+5.0,Global Link promo,MPEG-2/HD,91.0,11650 V,tp G6,46-47,,,False,Global Link,3/4,10000,DVB-S2,Geo
+10.0,GMS TV,HEVC/HD,101.0,11650 V,tp G6,46-47,,,False,Global Link,3/4,10000,DVB-S2,Geo
+1.0,Al Mayadeen TV,65535-1MPEG-2/SD,308.0,11662 V,tp G6,46-47,,,False,Global Link,3/4,2300,DVB-S2,Ara
+1000.0,Rûdaw,1-1MPEG-4/HD,1100.0,11678 V,tp G6,46-47,,,False,Global Link,5/6,3200,DVB-S2,Kur
+1000.0,Rûdaw Radio,,,11678 V,tp G6,46-47,,,False,Global Link,5/6,3200,DVB-S2,Kur
+,(Telemedia feeds),,,11694 H,tp D5,,,,False,Global Link,2/3,3200,DVB-S2,
+,Trikolor,253-1,,11727 L,tp ER1,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-3,,11766 L,tp ER3,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-5,,11804 L,tp ER5,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-7,,11843 L,tp ER7,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-9,,11881 L,tp ER9,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-11,,11919 L,tp ER11,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-13,,11958 L,tp ER13,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-15,,11996 L,tp ER15,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-17,,12034 L,tp ER17,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-18,,12054 R,tp ER18,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,Trikolor,253-23,,12149 L,tp ER23,0,"Exset,DRECrypt,DREGuard",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-13,,11785 R,tp ER4,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-14,,11823 R,tp ER6,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-2,,11862 R,tp ER8,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-19,,11900 R,tp ER10,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-17,,11938 R,tp ER12,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-18,,11977 R,tp ER14,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+,NTV Plus,112-22,,12015 R,tp ER16,0,"Compunicate,Viaccess",,False,Global Link,3/4,27500,DVB-S2,
+1311.0,TNT 4,MPEG-4/SD,211.0,11785 R,tp ER4,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1319.0,Telekanal 2x2,MPEG-4/SD,219.0,11785 R,tp ER4,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1321.0,Subbota!,MPEG-4/SD,221.0,11785 R,tp ER4,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1323.0,Shop & Show,MPEG-4/SD,223.0,11785 R,tp ER4,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1803.0,DSTV Africa Dish on TV Guide,MPEG-2/SD,305.0,11843 V,tp EA7,0,,,False,Global Link,3/4,27500,DVB-S2,Eng
+26900.0,[Telepoisk info card],MPEG-4/SD,41.0,11843 L,tp ER7,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+9015.0,[Trikolor info card],MPEG-4/SD,1649.0,11881 L,tp ER9,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+9024.0,Trikolor Infokanal,MPEG-4/HD,1721.0,11881 L,tp ER9,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1941.0,Humor FM,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1943.0,Radio Romantika,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1944.0,Avtoradio Moskva,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1945.0,Radio Vanya,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1946.0,NRJ Russia,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1947.0,DFM,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1948.0,Russkoe Radio,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1949.0,Hit FM (Russia),,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1950.0,Maximum 103.7 FM,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1951.0,Business FM,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1952.0,Militseyskaya Volna,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1953.0,Comedy Radio,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1954.0,Radio Komsomolskaya Pravda,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1955.0,Relax FM,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1957.0,Radio Mir,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1958.0,Love Radio (Russia),,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1960.0,Detskoe Radio Moskva,,,11900 R,tp ER10,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1817.0,Juvelirochka,MPEG-4/SD,217.0,11977 R,tp ER14,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1824.0,8 Kanal (Russia),MPEG-4/SD,224.0,11977 R,tp ER14,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1826.0,Yuvelir Treyd,MPEG-4/SD,226.0,11977 R,tp ER14,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1828.0,JWL,MPEG-4/SD,228.0,11977 R,tp ER14,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+308.0,Radio Okapi,,,12015 H,tp EA16,0,,,False,Global Link,3/4,27500,DVB-S2,Fre
+23006.0,[Trikolor TV Broadcasting info card],MPEG-4/SD,3625.0,12149 L,tp ER23,0,,,False,Global Link,3/4,27500,DVB-S2,Rus
+1.0,Iraq Educational Sat,65535-1MPEG-4/HD,33.0,12554 V,tp F2,46-47,,,False,Global Link,5/6,2500,DVB-S2,Ara
+1001.0,FX CIS,MPEG-4/SD,2141.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+1002.0,FX CIS,MPEG-4/HD,2131.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+1003.0,FX Life CIS,MPEG-4/SD,7221.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+1004.0,FX Life CIS,MPEG-4/HD,7261.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+1005.0,National Geographic CIS,MPEG-4/SD,2181.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng Ukr
+1006.0,National Geographic CIS,MPEG-4/HD,2151.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng Ukr
+1007.0,National Geographic Wild CIS,MPEG-4/SD,2171.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+1008.0,National Geographic Wild CIS,MPEG-4/HD,2161.0,12564 H,tp H1,46-47,Irdeto,,False,Global Link,3/5,25833,DVB-S2,Rus Eng
+,(RAI feeds),,,12655 H,tp F3,,,,False,Global Link,3/4,7200,DVB-S2,
+,(AsiaSat feeds),,,12676 H,tp F5,,,,False,Global Link,3/4,2200,DVB-S2,
+1.0,Al-Sirat TV,1-1MPEG-4/SD,110.0,12692 H,tp F5,46-47,,,False,Global Link,5/6,1110,DVB-S2,Ara

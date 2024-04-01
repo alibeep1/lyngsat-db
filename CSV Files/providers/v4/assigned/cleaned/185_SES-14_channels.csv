@@ -1,0 +1,75 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,3688 L,tp EA2,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3693 R,tp EA1,,,,False,,3/4,27120,DVB-S2,
+,(feeds),,,3694 L,tp EA2,,,,False,,3/4,23700,DVB-S2,
+,(feeds),,,3746 R,tp EA3,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3750 L,tp EA4,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3758 R,tp EA3,,,,False,,5/6,7500,DVB-S2,
+,(feeds),,,3767 R,tp EA3,,,,False,,3/4,27120,DVB-S2,
+,(feeds),,,3776 R,tp EA3,,,,False,,3/4,27120,DVB-S2,
+,(feeds),,,3777 L,tp EA4,,,,False,,2/3,3750,DVB-S2,
+,(feeds),,,3788 L,tp EA4,,,,False,,3/4,5000,DVB-S2,
+,(feeds),,,3790 R,tp EA5,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3799 R,tp EA5,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3808 L,tp EA4,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3808 R,tp EA5,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3817 L,tp EA4,,,,False,,2/3,7120,DVB-S2,
+,(feeds),,,3817 R,tp EA5,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3830 L,tp EA6,,,,False,,3/4,27500,DVB-S2,
+,(feeds),,,3839 L,tp EA8,,,,False,,5/6,7500,DVB-S2,
+,(feeds),,,3847 L,tp EA8,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3848 R,tp EA7,,,,False,,2/3,6666,DVB-S2,
+,(feeds),,,3856 L,tp EA8,,,,False,,3/4,9875,DVB-S2,
+,(feeds),,,3857 R,tp EA7,,,,False,,2/3,6666,DVB-S2,
+,(feeds),,,3868 R,tp EA9,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3869 L,tp EA10,,,,False,,2/3,7200,DVB-S2,
+,(feeds),,,3878 L,tp EA10,,,,False,,2/3,7200,DVB-S2,
+,(feeds),,,3886 R,tp EA9,,,,False,,3/4,4937,DVB-S2,
+,(feeds),,,3892 R,tp EA9,,,,False,,3/4,4937,DVB-S2,
+,(feeds),,,3898 R,tp EA9,,,,False,,3/4,4937,DVB-S2,
+,(feeds),,,3908 L,tp EA12,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,3909 R,tp EA11,,,,False,,3/4,4800,DVB-S2,
+,(feeds),,,3911 L,tp EA12,,,,False,,5/6,7500,DVB-S2,
+,(feeds),,,3917 R,tp EA11,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3927 R,tp EA11,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,3936 L,tp EA12,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,4025 R,tp EA13,,,,False,,3/4,5000,DVB-S2,
+,(feeds),,,4122 L,tp EA20,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,4126 R,tp EA19,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,4130 L,tp EA20,,,,False,,3/4,27200,DVB-S2,
+,(feeds),,,4135 R,tp EA19,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,4140 L,tp EA20,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,4158 L,tp EA20,,,,False,,5/6,7200,DVB-S2,
+,(feeds),,,4160 R,tp EA19,,,,False,,3/4,29874,DVB-S2,
+,(feeds),,,4167 L,tp EA20,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,4176 L,tp EA20,,,,False,,3/4,7200,DVB-S2,
+,Sersat,1-1,,3834 R,tp EA7,36-38,"Irdeto,Verimatrix",https://www.lyngsat.com/providers/ar/Sersat.html,True,Sersat,2/3,15000,DVB-S2,
+1.0,Garage TV,MPEG-4/HD,1160.0,3834 R,tp EA7,36-38,Irdeto,,False,Sersat,2/3,15000,DVB-S2,Spa
+2.0,Chacra TV,MPEG-4/HD,2160.0,3834 R,tp EA7,36-38,,,False,Sersat,2/3,15000,DVB-S2,Spa
+3.0,Argentinísima Satelital,MPEG-4/HD,3160.0,3834 R,tp EA7,36-38,,,False,Sersat,2/3,15000,DVB-S2,Spa
+5.0,Canal 26,MPEG-4/HD,5160.0,3834 R,tp EA7,36-38,Verimatrix,,False,Sersat,2/3,15000,DVB-S2,Spa
+,,,,3898 L,tp EA10,36-38,,,False,Sersat,,,,
+,,,,3965 R,tp EA13,36-38,,,False,Sersat,,,,
+,Paramount Networks Americas,5-301,,4055 R,tp EA15,36-38,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Networks-Americas.html,True,Paramount Networks Americas,5/6,30000,DVB-S2,
+611.0,Comedy Central Latinoamérica Sur,MPEG-4/HD,110.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+621.0,Nickelodeon Brasil,MPEG-4/HD,210.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng
+631.0,Nickelodeon Centro,MPEG-4/HD,310.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+641.0,MTV Latino Norte,MPEG-4/HD,410.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+651.0,Paramount Network Brasil,MPEG-4/HD,510.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng
+661.0,MTV Latino Sud,MPEG-4/HD,610.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+671.0,Nickelodeon Norte,MPEG-4/HD,710.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+681.0,Nick Jr Latin America,MPEG-4/HD,810.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+711.0,Nick Jr Brasil,MPEG-4/HD,910.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng
+721.0,Nickelodeon Sur,MPEG-4/HD,1010.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Spa Eng
+731.0,Comedy Central Brasil,MPEG-4/HD,1110.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng
+741.0,MTV Brasil,MPEG-4/HD,1210.0,4055 R,tp EA15,36-38,PowerVu,,False,Paramount Networks Americas,5/6,30000,DVB-S2,Por Eng
+,SES,1-6,,4095 L,tp EA18,36-38,,https://www.lyngsat.com/providers/lu/SES.html,True,SES,2/3,30000,DVB-S2,
+7002.0,Rai Italia Sud America,MPEG-4/HD,712.0,4095 L,tp EA18,36-38,Irdeto,,False,SES,2/3,30000,DVB-S2,Ita Ita
+7015.0,CNN Brasil,MPEG-4/HD,2015.0,4095 L,tp EA18,36-38,Viaccess,,False,SES,2/3,30000,DVB-S2,Por
+7016.0,CNN Brasil,MPEG-2/SD,36.0,4095 L,tp EA18,36-38,Viaccess,,False,SES,2/3,30000,DVB-S2,Por
+7030.0,France 24 English,MPEG-4/HD,1304.0,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,Eng Eng
+7031.0,France 24 Español,MPEG-4/HD,1311.0,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,Spa Spa
+7032.0,France 24 Français,MPEG-2/SD,303.0,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,Fre Fre
+7035.0,RFI Latine,,,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,Spa
+7036.0,RFI Français,,,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,Fre
+7037.0,RFI Langues,,,4095 L,tp EA18,36-38,,,False,SES,2/3,30000,DVB-S2,

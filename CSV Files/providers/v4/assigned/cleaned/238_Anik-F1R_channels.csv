@@ -1,0 +1,22 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(APTN feeds),,,3927 V,tp 6B,,,,False,,3/4,7500,DVB-S7,
+,CruiseSat,1-1,,4120 H,tp 11A,,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html,True,CruiseSat,3/4,22000,DVB-S2,
+10.0,TCM US,HEVC/HD,110.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+11.0,Cartoon Network Canada East,HEVC/HD,910.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+12.0,CBS News,HEVC/SD,481.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+13.0,HGTV East,HEVC/HD,1001.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+14.0,Food Network East,HEVC/HD,38.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+15.0,Travel Channel East,HEVC/HD,52.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+16.0,Discovery Channel East,HEVC/HD,49.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+17.0,Nickelodeon East,HEVC/HD,63.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+21.0,ESPNU,HEVC/HD,7680.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+22.0,ESPN US,HEVC/HD,55.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+210.0,ESPN US,HEVC/HD,400.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+23.0,ESPN 2 US,HEVC/HD,48.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+211.0,ESPN 2 US,HEVC/HD,72.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+24.0,SEC Network,HEVC/HD,43.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+25.0,CNN USA,HEVC/HD,710.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Eng
+300.0,Rai Italia Nord America,HEVC/HD,811.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Ita
+301.0,RTL Deutschland,HEVC/HD,105.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Ger
+350.0,TVE Internacional América,HEVC/HD,3304.0,4120 H,tp 11A,,Xcrypt,,False,CruiseSat,3/4,22000,DVB-S2,Spa
+1.0,Legislative Assembly TV Nunavut,?-?MPEG-2/SD,100.0,4164 V,tp 12B,0.0,,,False,CruiseSat,1/2,1936,DVB-S1,Eng

@@ -1,0 +1,531 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,(feeds),,,11460 H,tp 1,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11460 V,tp 2,,,,,,False,,2/3,3750,DVB-S2,,
+,(feeds),,,11469 H,tp 1,,,,,,False,,3/4,3214,DVB-S2,,
+,(feeds),,,11470 V,tp 2,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11479 H,tp 1,,,,,,False,,3/4,4444,DVB-S4,,
+,(feeds),,,11480 V,tp 2,,,,,,False,,5/6,26975,DVB-S2,,
+,(feeds),,,11488 V,tp 2,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11490 H,tp 1,,,,,,False,,5/6,5000,DVB-S2,,
+,(feeds),,,11501 H,tp 3,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11502 V,tp 4,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11510 H,tp 3,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11510 V,tp 4,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11519 H,tp 3,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11527 H,tp 3,,,,,,False,,3/4,3650,DVB-S2,,
+,(feeds),,,11527 V,tp 4,,,,,,False,,3/4,9874,DVB-S2,,
+,(feeds),,,11581 V,tp 8,,,,,,False,,3/4,6111,DVB-S6,,
+,(feeds),,,11586 H,tp 7,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,11590 H,tp 7,,,,,,False,,2/3,2400,DVB-S2,,
+,(feeds),,,11596 H,tp 7,,,,,,False,,2/3,4800,DVB-S2,,
+,(feeds),,,11601 V,tp 8,,,,,,False,,2/3,4500,DVB-S2,,
+,(feeds),,,11602 H,tp 7,,,,,,False,,2/3,2400,DVB-S2,,
+,(feeds),,,11609 H,tp 7,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,11620 V,tp 10,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,11630 H,tp 9,,,,,,False,,7/8,6666,DVB-S6,,
+,(feeds),,,11631 V,tp 10,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11636 H,tp 9,,,,,,False,,2/3,3630,DVB-S2,,
+,(feeds),,,11640 V,tp 10,,,,,,False,,5/6,6975,DVB-S2,,
+,(feeds),,,11649 V,tp 10,,,,,,False,,5/6,6975,DVB-S2,,
+,(feeds),,,11659 H,tp 9,,,,,,False,,3/4,5000,DVB-S2,,
+,(feeds),,,11661 V,tp 12,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11670 H,tp 11,,,,,,False,,3/4,7500,DVB-S2,,
+,(feeds),,,11673 V,tp 12,,,,,,False,,3/4,3750,DVB-S2,,
+,(feeds),,,11679 H,tp 11,,,,,,False,,2/3,6332,DVB-S2,,
+,(feeds),,,11680 V,tp 12,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,11686 V,tp 12,,,,,,False,,3/4,2750,DVB-S2,,
+,(feeds),,,11687 H,tp 11,,,,,,False,,3/4,9874,DVB-S2,,
+,(feeds),,,12511 V,tp 14,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12519 V,tp 14,,,,,,False,,5/6,6975,DVB-S2,,
+,(feeds),,,12530 V,tp 14,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12540 V,tp 14,,,,,,False,,3/4,3750,DVB-S2,,
+,(feeds),,,12550 H,tp 15,,,,,,False,,3/4,14400,DVB-S2,,
+,(feeds),,,12550 V,tp 16,,,,,,False,,5/6,1663,DVB-S2,,
+,(feeds),,,12563 V,tp 16,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12571 V,tp 16,,,,,,False,,3/4,3600,DVB-S2,,
+,(feeds),,,12580 V,tp 16,,,,,,False,,3/4,3600,DVB-S2,,
+,(feeds),,,12589 V,tp 18,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12592 H,tp 17,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12595 V,tp 18,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12599 H,tp 17,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12601 V,tp 18,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12608 H,tp 17,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12608 V,tp 18,,,,,,False,,3/4,6900,DVB-S2,,
+,(feeds),,,12613 V,tp 18,,,,,,False,,5/6,5000,DVB-S2,,
+,(feeds),,,12615 H,tp 17,,,,,,False,,3/4,3650,DVB-S2,,
+,(feeds),,,12619 V,tp 18,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12631 H,tp 19,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12648 H,tp 19,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12650 V,tp 20,,,,,,False,,3/4,3750,DVB-S2,,
+,(feeds),,,12656 V,tp 20,,,,,,False,,5/6,4600,DVB-S2,,
+,(feeds),,,12657 H,tp 19,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12668 H,tp 21,,,,,,False,,5/6,1666,DVB-S2,,
+,(feeds),,,12670 V,tp 22,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12678 V,tp 22,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12681 H,tp 21,,,,,,False,,3/4,10000,DVB-S2,,
+,(feeds),,,12684 V,tp 22,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12692 V,tp 22,,,,,,False,,3/4,9600,DVB-S2,,
+,(feeds),,,12693 H,tp 21,,,,,,False,,8/9,5000,DVB-S2,,
+,(feeds),,,12700 H,tp 21,,,,,,False,,3/4,4937,DVB-S2,,
+,(feeds),,,12710 V,tp 24,,,,,,False,,3/4,4800,DVB-S2,,
+,(feeds),,,12711 H,tp 23,,,,,,False,,3/4,7500,DVB-S2,,
+,(feeds),,,12718 V,tp 24,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12724 H,tp 23,,,,,,False,,3/4,9874,DVB-S2,,
+,(feeds),,,12728 V,tp 24,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12737 V,tp 24,,,,,,False,,3/4,7200,DVB-S2,,
+,(feeds),,,12737 H,tp 23,,,,,,False,,3/4,7200,DVB-S2,,
+,Grupa ZPR Media,1-0,,11643 H,tp 9,0,,https://www.lyngsat.com/providers/pl/Grupa-ZPR-Media.html,,,True,Grupa ZPR Media,3/4,7583,DVB-S2,,
+1050,Eska 2 Kielce,,,11643 H,tp 9,0,,,Eska 2 Kielce,https://www.lyngsat.com/radiochannels/pl/Eska-2-Kielce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1050,Eska 2 Kielce,,,11643 H,tp 9,0,,,Eska 2 Kielce,https://www.lyngsat.com/radiochannels/pl/Eska-2-Kielce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1070,Eska 2 Kraków,,,11643 H,tp 9,0,,,Eska 2 Kraków,https://www.lyngsat.com/radiochannels/pl/Eska-2-Krakow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1070,Eska 2 Kraków,,,11643 H,tp 9,0,,,Eska 2 Kraków,https://www.lyngsat.com/radiochannels/pl/Eska-2-Krakow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1100,Eska 2 Lódz,,,11643 H,tp 9,0,,,Eska 2 Lódz,https://www.lyngsat.com/radiochannels/pl/Eska-2-Lodz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1100,Eska 2 Lódz,,,11643 H,tp 9,0,,,Eska 2 Lódz,https://www.lyngsat.com/radiochannels/pl/Eska-2-Lodz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1120,Eska 2 Opole,,,11643 H,tp 9,0,,,Eska 2 Opole,https://www.lyngsat.com/radiochannels/pl/Eska-2-Opole.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1120,Eska 2 Opole,,,11643 H,tp 9,0,,,Eska 2 Opole,https://www.lyngsat.com/radiochannels/pl/Eska-2-Opole.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1150,Eska 2 Torun,,,11643 H,tp 9,0,,,Eska 2 Torun,https://www.lyngsat.com/radiochannels/pl/Eska-2-Torun.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1150,Eska 2 Torun,,,11643 H,tp 9,0,,,Eska 2 Torun,https://www.lyngsat.com/radiochannels/pl/Eska-2-Torun.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1170,Eska 2 Trójmiasto,,,11643 H,tp 9,0,,,Eska 2 Trójmiasto,https://www.lyngsat.com/radiochannels/pl/Eska-2-Trojmiasto.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1170,Eska 2 Trójmiasto,,,11643 H,tp 9,0,,,Eska 2 Trójmiasto,https://www.lyngsat.com/radiochannels/pl/Eska-2-Trojmiasto.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1180,Eska 2 Wroclaw,,,11643 H,tp 9,0,,,Eska 2 Wroclaw,https://www.lyngsat.com/radiochannels/pl/Eska-2-Wroclaw.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1180,Eska 2 Wroclaw,,,11643 H,tp 9,0,,,Eska 2 Wroclaw,https://www.lyngsat.com/radiochannels/pl/Eska-2-Wroclaw.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1240,Eska 2 Rzeszów,,,11643 H,tp 9,0,,,Eska 2 Rzeszów,https://www.lyngsat.com/radiochannels/pl/Eska-2-Rzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1240,Eska 2 Rzeszów,,,11643 H,tp 9,0,,,Eska 2 Rzeszów,https://www.lyngsat.com/radiochannels/pl/Eska-2-Rzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1260,Eska 2 Szczecin,,,11643 H,tp 9,0,,,Eska 2 Szczecin,https://www.lyngsat.com/radiochannels/pl/Eska-2-Szczecin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1260,Eska 2 Szczecin,,,11643 H,tp 9,0,,,Eska 2 Szczecin,https://www.lyngsat.com/radiochannels/pl/Eska-2-Szczecin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1290,Eska 2 Nowy Sacz,,,11643 H,tp 9,0,,,Eska 2 Nowy Sacz,https://www.lyngsat.com/radiochannels/pl/Eska-2-Nowy-Sacz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1290,Eska 2 Nowy Sacz,,,11643 H,tp 9,0,,,Eska 2 Nowy Sacz,https://www.lyngsat.com/radiochannels/pl/Eska-2-Nowy-Sacz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1370,Eska 2 Stalowa Wola,,,11643 H,tp 9,0,,,Eska 2 Stalowa Wola,https://www.lyngsat.com/radiochannels/pl/Eska-2-Stalowa-Wola.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1370,Eska 2 Stalowa Wola,,,11643 H,tp 9,0,,,Eska 2 Stalowa Wola,https://www.lyngsat.com/radiochannels/pl/Eska-2-Stalowa-Wola.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1380,Eska 2 Warszawa,,,11643 H,tp 9,0,,,Eska 2 Warszawa,https://www.lyngsat.com/radiochannels/pl/Eska-2-Warszawa.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1380,Eska 2 Warszawa,,,11643 H,tp 9,0,,,Eska 2 Warszawa,https://www.lyngsat.com/radiochannels/pl/Eska-2-Warszawa.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1390,Eska 2 Biala-Podlaska,,,11643 H,tp 9,0,,,Eska 2 Biala-Podlaska,https://www.lyngsat.com/radiochannels/pl/Eska-2-Biala-Podlaska.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1390,Eska 2 Biala-Podlaska,,,11643 H,tp 9,0,,,Eska 2 Biala-Podlaska,https://www.lyngsat.com/radiochannels/pl/Eska-2-Biala-Podlaska.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1480,Eska 2 Jelenia Góra,,,11643 H,tp 9,0,,,Eska 2 Jelenia Góra,https://www.lyngsat.com/radiochannels/pl/Eska-2-Jelenia-Gora.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1480,Eska 2 Jelenia Góra,,,11643 H,tp 9,0,,,Eska 2 Jelenia Góra,https://www.lyngsat.com/radiochannels/pl/Eska-2-Jelenia-Gora.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1510,Eska 2 Trzebnica,,,11643 H,tp 9,0,,,Eska 2 Trzebnica,https://www.lyngsat.com/radiochannels/pl/Eska-2-Trzebnica.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1510,Eska 2 Trzebnica,,,11643 H,tp 9,0,,,Eska 2 Trzebnica,https://www.lyngsat.com/radiochannels/pl/Eska-2-Trzebnica.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+1530,Eska 2 Paprotnia,,,11643 H,tp 9,0,,,Eska 2 Paprotnia,https://www.lyngsat.com/radiochannels/pl/Eska-2-Paprotnia.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2000,Radio Eska,,,11643 H,tp 9,0,,,Radio Eska,https://www.lyngsat.com/radiochannels/pl/Radio-Eska.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2010,Radio Eska Belchatów,,,11643 H,tp 9,0,,,Radio Eska Belchatów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Belchatow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2010,Radio Eska Belchatów,,,11643 H,tp 9,0,,,Radio Eska Belchatów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Belchatow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2020,Radio Eska Bialystok,,,11643 H,tp 9,0,,,Radio Eska Bialystok,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Bialystok.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2020,Radio Eska Bialystok,,,11643 H,tp 9,0,,,Radio Eska Bialystok,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Bialystok.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2030,Radio Eska Bydgoszcz,,,11643 H,tp 9,0,,,Radio Eska Bydgoszcz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Bydgoszcz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2030,Radio Eska Bydgoszcz,,,11643 H,tp 9,0,,,Radio Eska Bydgoszcz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Bydgoszcz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2040,Radio Eska Gorzów,,,11643 H,tp 9,0,,,Radio Eska Gorzów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Gorzow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2040,Radio Eska Gorzów,,,11643 H,tp 9,0,,,Radio Eska Gorzów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Gorzow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2050,Radio Eska Kielce,,,11643 H,tp 9,0,,,Radio Eska Kielce,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Kielce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2050,Radio Eska Kielce,,,11643 H,tp 9,0,,,Radio Eska Kielce,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Kielce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2060,Radio Eska Siedlce,,,11643 H,tp 9,0,,,Radio Eska Siedlce,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Siedlce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2060,Radio Eska Siedlce,,,11643 H,tp 9,0,,,Radio Eska Siedlce,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Siedlce.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2070,Radio Eska Kraków,,,11643 H,tp 9,0,,,Radio Eska Kraków,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Krakow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2070,Radio Eska Kraków,,,11643 H,tp 9,0,,,Radio Eska Kraków,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Krakow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2080,Radio Eska Leszno,,,11643 H,tp 9,0,,,Radio Eska Leszno,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Leszno.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2080,Radio Eska Leszno,,,11643 H,tp 9,0,,,Radio Eska Leszno,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Leszno.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2090,Radio Eska Pila,,,11643 H,tp 9,0,,,Radio Eska Pila,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Pila.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2090,Radio Eska Pila,,,11643 H,tp 9,0,,,Radio Eska Pila,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Pila.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2100,Radio Eska Lódz,,,11643 H,tp 9,0,,,Radio Eska Lódz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lodz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2100,Radio Eska Lódz,,,11643 H,tp 9,0,,,Radio Eska Lódz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lodz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2110,Radio Eska Olsztyn,,,11643 H,tp 9,0,,,Radio Eska Olsztyn,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Olsztyn.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2110,Radio Eska Olsztyn,,,11643 H,tp 9,0,,,Radio Eska Olsztyn,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Olsztyn.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2120,Radio Eska Opole,,,11643 H,tp 9,0,,,Radio Eska Opole,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Opole.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2120,Radio Eska Opole,,,11643 H,tp 9,0,,,Radio Eska Opole,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Opole.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2130,Radio Eska Lublin,,,11643 H,tp 9,0,,,Radio Eska Lublin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lublin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2130,Radio Eska Lublin,,,11643 H,tp 9,0,,,Radio Eska Lublin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lublin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2140,Radio Eska Poznan,,,11643 H,tp 9,0,,,Radio Eska Poznan,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Poznan.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2140,Radio Eska Poznan,,,11643 H,tp 9,0,,,Radio Eska Poznan,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Poznan.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2150,Radio Eska Torun,,,11643 H,tp 9,0,,,Radio Eska Torun,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Torun.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2150,Radio Eska Torun,,,11643 H,tp 9,0,,,Radio Eska Torun,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Torun.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2160,Radio Eska Tarnów,,,11643 H,tp 9,0,,,Radio Eska Tarnów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Tarnow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2160,Radio Eska Tarnów,,,11643 H,tp 9,0,,,Radio Eska Tarnów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Tarnow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2170,Radio Eska Trójmiasto,,,11643 H,tp 9,0,,,Radio Eska Trójmiasto,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Trojmiasto.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2170,Radio Eska Trójmiasto,,,11643 H,tp 9,0,,,Radio Eska Trójmiasto,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Trojmiasto.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2180,Radio Eska Wroclaw,,,11643 H,tp 9,0,,,Radio Eska Wroclaw,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Wroclaw.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2180,Radio Eska Wroclaw,,,11643 H,tp 9,0,,,Radio Eska Wroclaw,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Wroclaw.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2190,Radio Eska Zielona Góra,,,11643 H,tp 9,0,,,Radio Eska Zielona Góra,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zielona-Gora.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2190,Radio Eska Zielona Góra,,,11643 H,tp 9,0,,,Radio Eska Zielona Góra,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zielona-Gora.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2200,Radio Eska Ostrów Wielkopolski,,,11643 H,tp 9,0,,,Radio Eska Ostrów Wielkopolski,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ostrow-Wielkopolski.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2200,Radio Eska Ostrów Wielkopolski,,,11643 H,tp 9,0,,,Radio Eska Ostrów Wielkopolski,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ostrow-Wielkopolski.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2210,Radio Eska Radom,,,11643 H,tp 9,0,,,Radio Eska Radom,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Radom.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2210,Radio Eska Radom,,,11643 H,tp 9,0,,,Radio Eska Radom,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Radom.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2220,Radio Eska Slask,,,11643 H,tp 9,0,,,Radio Eska Slask,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Slask.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2220,Radio Eska Slask,,,11643 H,tp 9,0,,,Radio Eska Slask,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Slask.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2230,Radio Eska Zamosc,,,11643 H,tp 9,0,,,Radio Eska Zamosc,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zamosc.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2230,Radio Eska Zamosc,,,11643 H,tp 9,0,,,Radio Eska Zamosc,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zamosc.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2240,Radio Eska Rzeszów,,,11643 H,tp 9,0,,,Radio Eska Rzeszów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Rzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2240,Radio Eska Rzeszów,,,11643 H,tp 9,0,,,Radio Eska Rzeszów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Rzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2250,Radio Eska Plock,,,11643 H,tp 9,0,,,Radio Eska Plock,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Plock.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2250,Radio Eska Plock,,,11643 H,tp 9,0,,,Radio Eska Plock,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Plock.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2260,Radio Eska Szczecin,,,11643 H,tp 9,0,,,Radio Eska Szczecin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Szczecin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2260,Radio Eska Szczecin,,,11643 H,tp 9,0,,,Radio Eska Szczecin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Szczecin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2270,Radio Eska Koszalin,,,11643 H,tp 9,0,,,Radio Eska Koszalin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Koszalin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2270,Radio Eska Koszalin,,,11643 H,tp 9,0,,,Radio Eska Koszalin,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Koszalin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2300,Radio Eska Beskidy,,,11643 H,tp 9,0,,,Radio Eska Beskidy,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Beskidy.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2300,Radio Eska Beskidy,,,11643 H,tp 9,0,,,Radio Eska Beskidy,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Beskidy.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2310,Radio Eska Szczecinek,,,11643 H,tp 9,0,,,Radio Eska Szczecinek,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Szczecinek.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2310,Radio Eska Szczecinek,,,11643 H,tp 9,0,,,Radio Eska Szczecinek,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Szczecinek.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2320,Radio Eska Przemysl,,,11643 H,tp 9,0,,,Radio Eska Przemysl,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Przemysl.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2320,Radio Eska Przemysl,,,11643 H,tp 9,0,,,Radio Eska Przemysl,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Przemysl.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2330,Radio Eska Malopolska/Zakopane,,,11643 H,tp 9,0,,,Radio Eska Malopolska/Zakopane,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Malopolska-Zakopane.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2360,Radio Eska Krasnik,,,11643 H,tp 9,0,,,Radio Eska Krasnik,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Krasnik.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2360,Radio Eska Krasnik,,,11643 H,tp 9,0,,,Radio Eska Krasnik,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Krasnik.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2400,Radio Eska Starachowice,,,11643 H,tp 9,0,,,Radio Eska Starachowice,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Starachowice.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2400,Radio Eska Starachowice,,,11643 H,tp 9,0,,,Radio Eska Starachowice,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Starachowice.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2420,Radio Eska Zary,,,11643 H,tp 9,0,,,Radio Eska Zary,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zary.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2420,Radio Eska Zary,,,11643 H,tp 9,0,,,Radio Eska Zary,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Zary.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2430,Radio Eska Elblag,,,11643 H,tp 9,0,,,Radio Eska Elblag,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Elblag.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2430,Radio Eska Elblag,,,11643 H,tp 9,0,,,Radio Eska Elblag,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Elblag.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2440,Radio Eska Ilawa,,,11643 H,tp 9,0,,,Radio Eska Ilawa,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ilawa.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2440,Radio Eska Ilawa,,,11643 H,tp 9,0,,,Radio Eska Ilawa,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ilawa.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2450,Radio Eska Grudziadz,,,11643 H,tp 9,0,,,Radio Eska Grudziadz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Grudziadz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2450,Radio Eska Grudziadz,,,11643 H,tp 9,0,,,Radio Eska Grudziadz,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Grudziadz.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2460,Radio Eska Lomza,,,11643 H,tp 9,0,,,Radio Eska Lomza,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lomza.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2460,Radio Eska Lomza,,,11643 H,tp 9,0,,,Radio Eska Lomza,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Lomza.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2480,Radio Eska Wroclaw JG,,,11643 H,tp 9,0,,,Radio Eska Wroclaw JG,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Wroclaw-JG.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2500,Radio Eska Ostrzeszów,,,11643 H,tp 9,0,,,Radio Eska Ostrzeszów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ostrzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2500,Radio Eska Ostrzeszów,,,11643 H,tp 9,0,,,Radio Eska Ostrzeszów,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Ostrzeszow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2520,Radio Eska Braniewo,,,11643 H,tp 9,0,,,Radio Eska Braniewo,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Braniewo.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+2520,Radio Eska Braniewo,,,11643 H,tp 9,0,,,Radio Eska Braniewo,https://www.lyngsat.com/radiochannels/pl/Radio-Eska-Braniewo.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+3040,Radio Vox Gorzów,,,11643 H,tp 9,0,,,Radio Vox Gorzów,https://www.lyngsat.com/radiochannels/pl/Radio-Vox-Gorzow.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+3140,Radio Vox Poznan,,,11643 H,tp 9,0,,,Radio Vox Poznan,https://www.lyngsat.com/radiochannels/pl/Radio-Vox-Poznan.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+3210,Radio Vox Radom,,,11643 H,tp 9,0,,,Radio Vox Radom,https://www.lyngsat.com/radiochannels/pl/Radio-Vox-Radom.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+3990,Radio Vox FM,,,11643 H,tp 9,0,,,Radio Vox FM,https://www.lyngsat.com/radiochannels/pl/Radio-Vox-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4000,Radio Plus FM (Poland),,,11643 H,tp 9,0,,,Radio Plus FM (Poland),https://www.lyngsat.com/radiochannels/pl/Radio-Plus-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4110,Radio Plus Olsztyn,,,11643 H,tp 9,0,,,Radio Plus Olsztyn,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Olsztyn.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4110,Radio Plus Olsztyn,,,11643 H,tp 9,0,,,Radio Plus Olsztyn,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Olsztyn.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4130,Radio Plus Lublin,,,11643 H,tp 9,0,,,Radio Plus Lublin,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Lublin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4130,Radio Plus Lublin,,,11643 H,tp 9,0,,,Radio Plus Lublin,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Lublin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4270,Radio Plus Koszalin,,,11643 H,tp 9,0,,,Radio Plus Koszalin,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Koszalin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4270,Radio Plus Koszalin,,,11643 H,tp 9,0,,,Radio Plus Koszalin,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Koszalin.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4340,Radio Plus Podhale,,,11643 H,tp 9,0,,,Radio Plus Podhale,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Podhale.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+4340,Radio Plus Podhale,,,11643 H,tp 9,0,,,Radio Plus Podhale,https://www.lyngsat.com/radiochannels/pl/Radio-Plus-Podhale.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+5000,Muzo FM,,,11643 H,tp 9,0,,,Muzo FM,https://www.lyngsat.com/radiochannels/pl/Muzo-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+5000,Muzo FM,,,11643 H,tp 9,0,,,Muzo FM,https://www.lyngsat.com/radiochannels/pl/Muzo-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+7990,Z Wami FM,,,11643 H,tp 9,0,,,Z Wami FM,https://www.lyngsat.com/radiochannels/pl/Z-Wami-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Ukr,pl
+7990,Z Wami FM,,,11643 H,tp 9,0,,,Z Wami FM,https://www.lyngsat.com/radiochannels/pl/Z-Wami-FM.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Ukr,pl
+8010,Radio Rodzina,,,11643 H,tp 9,0,,,Radio Rodzina,https://www.lyngsat.com/radiochannels/pl/Radio-Rodzina.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+8010,Radio Rodzina,,,11643 H,tp 9,0,,,Radio Rodzina,https://www.lyngsat.com/radiochannels/pl/Radio-Rodzina.html,False,Grupa ZPR Media,3/4,7583,DVB-S2,Pol,pl
+,Grupa Radiowa Agory,.-.,,11648 H,tp 9,0,,https://www.lyngsat.com/providers/pl/Grupa-Radiowa-Agory.html,,,True,Grupa Radiowa Agory,3/4,1000,DVB-S2,,
+1000,Radio Zlote Przeboje,,,11648 H,tp 9,0,,,Radio Zlote Przeboje,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+1000,Radio Zlote Przeboje,,,11648 H,tp 9,0,,,Radio Zlote Przeboje,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+2000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+2000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+2000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+2000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+6000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+6000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+6000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+6000,Radio Pogoda,,,11648 H,tp 9,0,,,Radio Pogoda,https://www.lyngsat.com/radiochannels/pl/Radio-Pogoda.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+3000,Rock Radio (Poland),,,11648 H,tp 9,0,,,Rock Radio (Poland),https://www.lyngsat.com/radiochannels/pl/Rock-Radio.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+3000,Rock Radio (Poland),,,11648 H,tp 9,0,,,Rock Radio (Poland),https://www.lyngsat.com/radiochannels/pl/Rock-Radio.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+4000,Tok FM,,,11648 H,tp 9,0,,,Tok FM,https://www.lyngsat.com/radiochannels/pl/Tok-FM.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+4000,Tok FM,,,11648 H,tp 9,0,,,Tok FM,https://www.lyngsat.com/radiochannels/pl/Tok-FM.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+5000,Radio Zlote Przeboje Jedrzejow,,,11648 H,tp 9,0,,,Radio Zlote Przeboje Jedrzejow,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Jedrzejow.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+7000,Radio Zlote Przeboje Bieszczady,,,11648 H,tp 9,0,,,Radio Zlote Przeboje Bieszczady,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Bieszczady.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+7000,Radio Zlote Przeboje Bieszczady,,,11648 H,tp 9,0,,,Radio Zlote Przeboje Bieszczady,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Bieszczady.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+8000,Radio Zlote Przeboje Katowice,,,11648 H,tp 9,0,,,Radio Zlote Przeboje Katowice,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Katowice.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+8000,Radio Zlote Przeboje Katowice,,,11648 H,tp 9,0,,,Radio Zlote Przeboje Katowice,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Katowice.html,False,Grupa Radiowa Agory,3/4,1000,DVB-S2,Pol,pl
+,Grupa RMF,3-11,,11651 H,tp 9,0,,https://www.lyngsat.com/providers/pl/Grupa-RMF.html,,,True,Grupa RMF,4/5,3780,DVB-S2,,
+1103,RMF FM,,,11651 H,tp 9,0,,,RMF FM,https://www.lyngsat.com/radiochannels/pl/RMF-FM.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1103,RMF FM,,,11651 H,tp 9,0,,,RMF FM,https://www.lyngsat.com/radiochannels/pl/RMF-FM.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1203,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1203,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1203,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1203,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Classic,,,11651 H,tp 9,0,,,RMF Classic,https://www.lyngsat.com/radiochannels/pl/RMF-Classic.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1303,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1303,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1303,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1303,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1503,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1503,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1503,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1503,RMF Maxx,,,11651 H,tp 9,0,,,RMF Maxx,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1403,RMF Maxx Trójmiasto,,,11651 H,tp 9,0,,,RMF Maxx Trójmiasto,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Trojmiasto.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1603,RMF Maxx Opole,,,11651 H,tp 9,0,,,RMF Maxx Opole,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Opole.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1703,RMF Maxx Pomorze,,,11651 H,tp 9,0,,,RMF Maxx Pomorze,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Pomorze.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1803,Radio Wielkopolska,,,11651 H,tp 9,0,,,Radio Wielkopolska,https://www.lyngsat.com/radiochannels/pl/Radio-Wielkopolska.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+1803,Radio Wielkopolska,,,11651 H,tp 9,0,,,Radio Wielkopolska,https://www.lyngsat.com/radiochannels/pl/Radio-Wielkopolska.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Czestochowa,,,11651 H,tp 9,0,,,RMF Maxx Czestochowa,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Czestochowa.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Jura,,,11651 H,tp 9,0,,,Radio Jura,https://www.lyngsat.com/radiochannels/pl/Radio-Jura.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Jura,,,11651 H,tp 9,0,,,Radio Jura,https://www.lyngsat.com/radiochannels/pl/Radio-Jura.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Krosno,,,11651 H,tp 9,0,,,RMF Maxx Krosno,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Krosno.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Inowroclaw,,,11651 H,tp 9,0,,,RMF Maxx Inowroclaw,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Inowroclaw.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Gra Torun,,,11651 H,tp 9,0,,,Radio Gra Torun,https://www.lyngsat.com/radiochannels/pl/Radio-Gra-Torun.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Gra Torun,,,11651 H,tp 9,0,,,Radio Gra Torun,https://www.lyngsat.com/radiochannels/pl/Radio-Gra-Torun.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Bydgoszcz,,,11651 H,tp 9,0,,,RMF Maxx Bydgoszcz,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Bydgoszcz.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Zlote Przeboje Tarnów,,,11651 H,tp 9,0,,,Radio Zlote Przeboje Tarnów,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Tarnow.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Zlote Przeboje Tarnów,,,11651 H,tp 9,0,,,Radio Zlote Przeboje Tarnów,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Tarnow.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Zlote Przeboje Echo Nowy Sacz,,,11651 H,tp 9,0,,,Radio Zlote Przeboje Echo Nowy Sacz,https://www.lyngsat.com/radiochannels/pl/Radio-Zlote-Przeboje-Echo-Nowy-Sacz.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Wloclawek,,,11651 H,tp 9,0,,,RMF Maxx Wloclawek,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Wloclawek.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Slask,,,11651 H,tp 9,0,,,RMF Maxx Slask,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Slask.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Olesnica,,,11651 H,tp 9,0,,,RMF Maxx Olesnica,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Olesnica.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Pila,,,11651 H,tp 9,0,,,RMF Maxx Pila,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Pila.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Gra Wroclaw,,,11651 H,tp 9,0,,,Radio Gra Wroclaw,https://www.lyngsat.com/radiochannels/pl/Radio-Gra-Wroclaw.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Gra Wroclaw,,,11651 H,tp 9,0,,,Radio Gra Wroclaw,https://www.lyngsat.com/radiochannels/pl/Radio-Gra-Wroclaw.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Warszawa,,,11651 H,tp 9,0,,,RMF Maxx Warszawa,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Warszawa.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Warszawa,,,11651 H,tp 9,0,,,RMF Maxx Warszawa,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Warszawa.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Warszawa,,,11651 H,tp 9,0,,,RMF Maxx Warszawa,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Warszawa.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Warszawa,,,11651 H,tp 9,0,,,RMF Maxx Warszawa,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Warszawa.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Nowy Sacz,,,11651 H,tp 9,0,,,RMF Maxx Nowy Sacz,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Nowy-Sacz.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Zielona Gora,,,11651 H,tp 9,0,,,RMF Maxx Zielona Gora,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Zielona-Gora.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Poznan,,,11651 H,tp 9,0,,,RMF Maxx Poznan,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Poznan.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Szczecin,,,11651 H,tp 9,0,,,RMF Maxx Szczecin,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Szczecin.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Konin,,,11651 H,tp 9,0,,,RMF Maxx Konin,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Konin.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,RMF Maxx Bialystok,,,11651 H,tp 9,0,,,RMF Maxx Bialystok,https://www.lyngsat.com/radiochannels/pl/RMF-Maxx-Bialystok.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Emaus,,,11651 H,tp 9,0,,,Radio Emaus,https://www.lyngsat.com/radiochannels/pl/Radio-Emaus.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+0,Radio Emaus,,,11651 H,tp 9,0,,,Radio Emaus,https://www.lyngsat.com/radiochannels/pl/Radio-Emaus.html,False,Grupa RMF,4/5,3780,DVB-S2,Pol,pl
+,M:Sat TV,3-3201,,11720 H,tp 201,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M:Sat TV,3-3205,,11798 H,tp 205,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M:Sat TV,3-3206,,11817 V,tp 206,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M:Sat TV,3-3210,,11895 V,tp 210,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M:Sat TV,3-3211,,11914 H,tp 211,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M:Sat TV,3-3236,,12402 V,tp 236,43-45,"Conax,Nagravision",,,,False,Grupa RMF,3/4,30000,DVB-S2,,
+,M7 Group,3-3202,,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3202,,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3202,,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3202,,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3202,,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3208,,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3208,,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3208,,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3208,,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3208,,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3214,,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3214,,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3214,,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3214,,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3214,,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3220,,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3220,,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3220,,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3220,,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3220,,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3222,,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3222,,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3222,,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3222,,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+,M7 Group,3-3222,,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",https://www.lyngsat.com/providers/lu/M7-Group.html,,,True,M7 Group,2/3,29900,DVB-S2,,
+6010,NPO Politiek en Nieuws,MPEG-4/SD,512.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,NPO Politiek en Nieuws,https://www.lyngsat.com/tvchannels/nl/NPO-Politiek-en-Nieuws.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6015,192 TV,MPEG-4/SD,513.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,192 TV,https://www.lyngsat.com/tvchannels/nl/192-TV.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6030,Star Channel NL,MPEG-4/SD,516.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Star Channel NL,https://www.lyngsat.com/tvchannels/us/Star-Channel-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+6036,Cartoonito Central & Eastern Europe,MPEG-4/SD,517.0,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Cartoonito Central & Eastern Europe,https://www.lyngsat.com/tvchannels/us/Cartoonito-Central-and-Eastern-Europe.html,False,M7 Group,2/3,29900,DVB-S2,Eng Cze,us
+6062*,Travelxp HD Europe,MPEG-4/HD,582.0,11739 V,tp 202,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Travelxp HD Europe,https://www.lyngsat.com/tvchannels/in/Travelxp-HD-Europe.html,False,M7 Group,2/3,29900,DVB-S2,Cze Eng,in
+6065,Disney Channel Nederland,MPEG-4/SD,523.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Disney Channel Nederland,https://www.lyngsat.com/tvchannels/us/Disney-Channel-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut Qaa,us
+6067,ONS,MPEG-4/SD,520.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,ONS,https://www.lyngsat.com/tvchannels/nl/ONS.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6068,ESPN 4 Nederland,MPEG-4/HD,530.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,ESPN 4 Nederland,https://www.lyngsat.com/tvchannels/us/ESPN-4-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+6080,NPO 2,MPEG-4/HD,525.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,NPO 2,https://www.lyngsat.com/tvchannels/nl/NPO-2.html,False,M7 Group,2/3,29900,DVB-S2,Dut Dut,nl
+6090,SBS 6,MPEG-4/HD,526.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,SBS 6,https://www.lyngsat.com/tvchannels/nl/SBS-6.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6092,ESPN Nederland,MPEG-4/HD,528.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,ESPN Nederland,https://www.lyngsat.com/tvchannels/us/ESPN-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+6094,FilmBox Nederland,MPEG-4/HD,534.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,FilmBox Nederland,https://www.lyngsat.com/tvchannels/us/FilmBox-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+6095,Canal + Action Nederland,MPEG-4/HD,535.0,11739 V,tp 202,43-45,"Nagravision,Viaccess",,Canal + Action Nederland,https://www.lyngsat.com/tvchannels/lu/Canal---Action-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,lu
+6097,[Canal Digitaal & TV Vlaanderen info card],MPEG-4/SD,537.0,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,Dut,
+6112,Canal Digitaal informatiekanaal,MPEG-4/SD,562.0,11739 V,tp 202,43-45,,,Canal Digitaal informatiekanaal,https://www.lyngsat.com/tvchannels/nl/Canal-Digitaal-informatiekanaal.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6113,TV Vlaanderen informatiekanaal,MPEG-4/SD,563.0,11739 V,tp 202,43-45,,,TV Vlaanderen informatiekanaal,https://www.lyngsat.com/tvchannels/be/TV-Vlaanderen-informatiekanaal.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+6122,FightBox HD,MPEG-4/SD,572.0,11739 V,tp 202,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,FightBox HD,https://www.lyngsat.com/tvchannels/us/FightBox-HD.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+6166,Mezzo,MPEG-4/HD,566.0,11739 V,tp 202,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Mezzo,https://www.lyngsat.com/tvchannels/fr/Mezzo.html,False,M7 Group,2/3,29900,DVB-S2,Fre,fr
+6126,Q-music Vlaanderen,,,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Q-music Vlaanderen,https://www.lyngsat.com/radiochannels/be/Q-music-Vlaanderen.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+6126,Q-music Vlaanderen,,,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Q-music Vlaanderen,https://www.lyngsat.com/radiochannels/be/Q-music-Vlaanderen.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+6127,Joe Vlaanderen,,,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Joe Vlaanderen,https://www.lyngsat.com/radiochannels/be/Joe-Vlaanderen.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+6127,Joe Vlaanderen,,,11739 V,tp 202,43-45,"Mediaguard,Nagravision,Viaccess",,Joe Vlaanderen,https://www.lyngsat.com/radiochannels/be/Joe-Vlaanderen.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+6128,Arrow Classic Rock,,,11739 V,tp 202,43-45,,,Arrow Classic Rock,https://www.lyngsat.com/radiochannels/nl/Arrow-Classic-Rock.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6128,Arrow Classic Rock,,,11739 V,tp 202,43-45,,,Arrow Classic Rock,https://www.lyngsat.com/radiochannels/nl/Arrow-Classic-Rock.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6129,Classicnl,,,11739 V,tp 202,43-45,,,Classicnl,https://www.lyngsat.com/radiochannels/nl/Classicnl.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6129,Classicnl,,,11739 V,tp 202,43-45,,,Classicnl,https://www.lyngsat.com/radiochannels/nl/Classicnl.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6130,Radio Veronica,,,11739 V,tp 202,43-45,,,Radio Veronica,https://www.lyngsat.com/radiochannels/nl/Radio-Veronica.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6130,Radio Veronica,,,11739 V,tp 202,43-45,,,Radio Veronica,https://www.lyngsat.com/radiochannels/nl/Radio-Veronica.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6191,NPO FunX NL,,,11739 V,tp 202,43-45,,,NPO FunX NL,https://www.lyngsat.com/radiochannels/nl/NPO-FunX-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6191,NPO FunX NL,,,11739 V,tp 202,43-45,,,NPO FunX NL,https://www.lyngsat.com/radiochannels/nl/NPO-FunX-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6192,L1 Radio,,,11739 V,tp 202,43-45,,,L1 Radio,https://www.lyngsat.com/radiochannels/nl/L1-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6192,L1 Radio,,,11739 V,tp 202,43-45,,,L1 Radio,https://www.lyngsat.com/radiochannels/nl/L1-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6193,Sunlite Radio,,,11739 V,tp 202,43-45,,,Sunlite Radio,https://www.lyngsat.com/radiochannels/nl/Sunlite-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+6193,Sunlite Radio,,,11739 V,tp 202,43-45,,,Sunlite Radio,https://www.lyngsat.com/radiochannels/nl/Sunlite-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+,@ Astra Connect,,,11758 H,tp 203,43-45,,,,,False,M7 Group,/10,14309,DVB-S2,,
+,Skylink,3-3204,,11778 V,tp 204,43-45,"Conax,Irdeto,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+,Skylink,3-3209,,11876 H,tp 209,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,,,False,M7 Group,3/4,29900,DVB-S2,,
+,Skylink,3-3212,,11934 V,tp 212,43-45,"Codicrypt,Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,,,False,M7 Group,3/4,27500,DVB-S2,,
+,Skylink,3-3213,,11954 H,tp 213,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+,Skylink,3-3216,,12012 V,tp 216,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+,Skylink,3-3219,,12070 H,tp 219,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,,,False,M7 Group,3/4,27500,DVB-S2,,
+,Skylink,3-3221,,12110 H,tp 221,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+,Skylink,3-3233,,12344 H,tp 233,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+7010,DreamWorks TV Netherlands,MPEG-4/HD,510.0,11856 V,tp 208,43-45,"Nagravision,Viaccess",,DreamWorks TV Netherlands,https://www.lyngsat.com/tvchannels/us/DreamWorks-TV-Netherlands.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+7020,RTL 4,MPEG-4/HD,514.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,RTL 4,https://www.lyngsat.com/tvchannels/nl/RTL-4.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+7023,RTL 5,MPEG-4/HD,523.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,RTL 5,https://www.lyngsat.com/tvchannels/nl/RTL-5.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+7027,RTL 7,MPEG-4/HD,527.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,RTL 7,https://www.lyngsat.com/tvchannels/nl/RTL-7.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+7030,VTM,MPEG-4/HD,516.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,VTM,https://www.lyngsat.com/tvchannels/be/VTM.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+7036,RTL 8,MPEG-4/HD,518.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,RTL 8,https://www.lyngsat.com/tvchannels/nl/RTL-8.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+7056,VTM 2,MPEG-4/HD,556.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,VTM 2,https://www.lyngsat.com/tvchannels/be/VTM-2.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+7057,Play 4,MPEG-4/HD,557.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,Play 4,https://www.lyngsat.com/tvchannels/be/Play-4.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+7058,RTL Z,MPEG-4/SD,558.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,RTL Z,https://www.lyngsat.com/tvchannels/nl/RTL-Z.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+7061,Play 6,MPEG-4/SD,561.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,Play 6,https://www.lyngsat.com/tvchannels/be/Play-6.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+7063,Crime + Investigation Nederland,MPEG-4/SD,563.0,11856 V,tp 208,43-45,"Nagravision,Viaccess",,Crime + Investigation Nederland,https://www.lyngsat.com/tvchannels/us/Crime---Investigation-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+7164,ESPN 2 Nederland,MPEG-4/HD,564.0,11856 V,tp 208,43-45,"Mediaguard,Nagravision,Viaccess",,ESPN 2 Nederland,https://www.lyngsat.com/tvchannels/us/ESPN-2-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+7165,Nautical Channel,MPEG-4/HD,585.0,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,Nautical Channel,https://www.lyngsat.com/tvchannels/it/Nautical-Channel.html,False,M7 Group,2/3,29900,DVB-S2,Eng Fre,it
+7170,Doma,MPEG-4/HD,590.0,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Doma,https://www.lyngsat.com/tvchannels/sk/Doma.html,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,sk
+7170,Doma,MPEG-4/HD,590.0,11856 V,tp 208,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Doma,https://www.lyngsat.com/tvchannels/sk/Doma.html,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,sk
+14130,Doma,MPEG-4/HD,3010.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Doma,https://www.lyngsat.com/tvchannels/sk/Doma.html,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,sk
+14130,Doma,MPEG-4/HD,3010.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Doma,https://www.lyngsat.com/tvchannels/sk/Doma.html,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,sk
+20000,M:Sat TV Info,MPEG-4/SD,91.0,11914 H,tp 211,43-45,,,M:Sat TV Info,https://www.lyngsat.com/tvchannels/rs/MSat-TV-Info.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20099,RTS Svet,MPEG-4/HD,991.0,11914 H,tp 211,43-45,,,RTS Svet,https://www.lyngsat.com/tvchannels/rs/RTS-Svet.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20820,Radio Beograd 1,,,11914 H,tp 211,43-45,,,Radio Beograd 1,https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-1.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20820,Radio Beograd 1,,,11914 H,tp 211,43-45,,,Radio Beograd 1,https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-1.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20821,Radio Beograd 2 (05-20),,,11914 H,tp 211,43-45,,,Radio Beograd 2 (05-20),https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-2.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20821,Radio Beograd 2 (05-20),,,11914 H,tp 211,43-45,,,Radio Beograd 2 (05-20),https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-2.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20821,Radio Beograd 3 (20-05),,,11914 H,tp 211,43-45,,,Radio Beograd 3 (20-05),https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-3.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20821,Radio Beograd 3 (20-05),,,11914 H,tp 211,43-45,,,Radio Beograd 3 (20-05),https://www.lyngsat.com/radiochannels/rs/Radio-Beograd-3.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20822,Beograd 202,,,11914 H,tp 211,43-45,,,Beograd 202,https://www.lyngsat.com/radiochannels/rs/Beograd-202.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20822,Beograd 202,,,11914 H,tp 211,43-45,,,Beograd 202,https://www.lyngsat.com/radiochannels/rs/Beograd-202.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20850,AS FM (Serbia),,,11914 H,tp 211,43-45,,,AS FM (Serbia),https://www.lyngsat.com/radiochannels/rs/AS-FM.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20850,AS FM (Serbia),,,11914 H,tp 211,43-45,,,AS FM (Serbia),https://www.lyngsat.com/radiochannels/rs/AS-FM.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20851,Play,,,11914 H,tp 211,43-45,,,Play,https://www.lyngsat.com/radiochannels/rs/Play.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+20851,Play,,,11914 H,tp 211,43-45,,,Play,https://www.lyngsat.com/radiochannels/rs/Play.html,False,M7 Group,3/4,30000,DVB-S2,Srp,rs
+15226,RTVS 24,MPEG-4/HD,3601.0,11954 H,tp 213,43-45,,,RTVS 24,https://www.lyngsat.com/tvchannels/sk/RTVS-24.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+15226,RTVS 24,MPEG-4/HD,3601.0,11954 H,tp 213,43-45,,,RTVS 24,https://www.lyngsat.com/tvchannels/sk/RTVS-24.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+14110,Nova Sport 2,MPEG-4/HD,1010.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Nova Sport 2,https://www.lyngsat.com/tvchannels/cz/Nova-Sport-2.html,False,M7 Group,2/3,29900,DVB-S2,Cze Qaa Cze,cz
+14112,Markíza International,MPEG-4/SD,1210.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Markíza International,https://www.lyngsat.com/tvchannels/sk/Markiza-International.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+14113,Nova Gold,MPEG-4/SD,1310.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Nova Gold,https://www.lyngsat.com/tvchannels/cz/Nova-Gold.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+14114,Nova Fun,MPEG-4/HD,1410.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Nova Fun,https://www.lyngsat.com/tvchannels/cz/Nova-Fun.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+14115,Nova Lady,MPEG-4/SD,1510.0,11973 V,tp 214,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Nova Lady,https://www.lyngsat.com/tvchannels/cz/Nova-Lady.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+14116,Arena Sport 2 (Slovakia),MPEG-4/HD,1610.0,11973 V,tp 214,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Arena Sport 2 (Slovakia),https://www.lyngsat.com/tvchannels/sk/Arena-Sport-2.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+14119*,Penthouse Gold,MPEG-4/HD,1910.0,11973 V,tp 214,43-45,"Mediaguard,Nagravision,Viaccess",,Penthouse Gold,https://www.lyngsat.com/tvchannels/us/Penthouse-Gold.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+14121*,Penthouse Reality TV,MPEG-4/HD,2110.0,11973 V,tp 214,43-45,"Mediaguard,Nagravision,Viaccess",,Penthouse Reality TV,https://www.lyngsat.com/tvchannels/us/Penthouse-Reality-TV.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+14129,Markíza,MPEG-4/HD,2910.0,11973 V,tp 214,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Markíza,https://www.lyngsat.com/tvchannels/sk/Markiza.html,False,M7 Group,2/3,29900,DVB-S2,Slo Qaa,sk
+14131,Canal + Sport Czechia,MPEG-4/HD,3110.0,11973 V,tp 214,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Canal + Sport Czechia,https://www.lyngsat.com/tvchannels/lu/Canal---Sport-Czechia.html,False,M7 Group,2/3,29900,DVB-S2,Cze,lu
+14132,Canal + Sport Slovakia,MPEG-4/HD,3210.0,11973 V,tp 214,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Canal + Sport Slovakia,https://www.lyngsat.com/tvchannels/lu/Canal---Sport-Slovakia.html,False,M7 Group,2/3,29900,DVB-S2,Slo,lu
+14134,Canal + Action Slovakia,MPEG-4/HD,3410.0,11973 V,tp 214,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Canal + Action Slovakia,https://www.lyngsat.com/tvchannels/lu/Canal---Action-Slovakia.html,False,M7 Group,2/3,29900,DVB-S2,Cze,lu
+14150,Radio Proglas,,,11973 V,tp 214,43-45,,,Radio Proglas,https://www.lyngsat.com/radiochannels/cz/Radio-Proglas.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+14150,Radio Proglas,,,11973 V,tp 214,43-45,,,Radio Proglas,https://www.lyngsat.com/radiochannels/cz/Radio-Proglas.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+15417,[Relax info card],MPEG-4/SD,2701.0,12012 V,tp 216,43-45,,,,,False,M7 Group,2/3,29900,DVB-S2,Cze,
+15419,Newsmax TV,MPEG-4/HD,2901.0,12012 V,tp 216,43-45,,,Newsmax TV,https://www.lyngsat.com/tvchannels/us/Newsmax-TV.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+770*,National Geographic Hungary & Czechia,MPEG-4/HD,1501.0,12090 V,tp 220,43-45,Irdeto,,National Geographic Hungary & Czechia,https://www.lyngsat.com/tvchannels/us/National-Geographic-Hungary-and-Czechia.html,False,M7 Group,2/3,29900,DVB-S2,Cze Eng Hun,us
+772*,National Geographic Wild Europe,MPEG-4/HD,1101.0,12090 V,tp 220,43-45,Irdeto,,National Geographic Wild Europe,https://www.lyngsat.com/tvchannels/us/National-Geographic-Wild-Europe.html,False,M7 Group,2/3,29900,DVB-S2,Eng Cze Rus Dut Hun,us
+775,HBO Czechia,MPEG-4/HD,7111.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,HBO Czechia,https://www.lyngsat.com/tvchannels/us/HBO-Czechia.html,False,M7 Group,2/3,29900,DVB-S2,Cze Qaa Hun,us
+776,Ócko,MPEG-4/SD,3001.0,12090 V,tp 220,43-45,,,Ócko,https://www.lyngsat.com/tvchannels/cz/Ocko.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+776,Ócko,MPEG-4/SD,3001.0,12090 V,tp 220,43-45,,,Ócko,https://www.lyngsat.com/tvchannels/cz/Ocko.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+777,Ócko Star,MPEG-4/SD,3101.0,12090 V,tp 220,43-45,,,Ócko Star,https://www.lyngsat.com/tvchannels/cz/Ocko-Star.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+777,Ócko Star,MPEG-4/SD,3101.0,12090 V,tp 220,43-45,,,Ócko Star,https://www.lyngsat.com/tvchannels/cz/Ocko-Star.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+780,MTV Global,MPEG-4/SD,7291.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,MTV Global,https://www.lyngsat.com/tvchannels/us/MTV-Global.html,False,M7 Group,2/3,29900,DVB-S2,Cze Eng,us
+781*,Stingray CMusic,MPEG-4/SD,7301.0,12090 V,tp 220,43-45,"Irdeto,Mediaguard,Nagravision,Viaccess",,Stingray CMusic,https://www.lyngsat.com/tvchannels/ca/Stingray-CMusic.html,False,M7 Group,2/3,29900,DVB-S2,Eng,ca
+783*,Love Nature,MPEG-4/HD,7361.0,12090 V,tp 220,43-45,"Conax,Irdeto,Nagravision,Viaccess",,Love Nature,https://www.lyngsat.com/tvchannels/ca/Love-Nature.html,False,M7 Group,2/3,29900,DVB-S2,Eng Cze Hun,ca
+784,Spektrum International,MPEG-4/HD,7271.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Spektrum International,https://www.lyngsat.com/tvchannels/hu/Spektrum-International.html,False,M7 Group,2/3,29900,DVB-S2,Cze Hun,hu
+786,A11 TV,MPEG-4/SD,7141.0,12090 V,tp 220,43-45,,,A11 TV,https://www.lyngsat.com/tvchannels/cz/A11-TV.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+788,The Fishing & Hunting Channel,MPEG-4/SD,7241.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,The Fishing & Hunting Channel,https://www.lyngsat.com/tvchannels/hu/The-Fishing-and-Hunting-Channel.html,False,M7 Group,2/3,29900,DVB-S2,Cze Hun,hu
+789,AXN Czech Republic,MPEG-4/SD,7281.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,AXN Czech Republic,https://www.lyngsat.com/tvchannels/us/AXN-Czech-Republic.html,False,M7 Group,2/3,29900,DVB-S2,Cze Eng,us
+790,Vixen,MPEG-4/HD,7211.0,12090 V,tp 220,43-45,"Conax,Irdeto,Mediaguard,Nagravision,Viaccess",,Vixen,https://www.lyngsat.com/tvchannels/us/Vixen.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+792,Sport 2 Czechia,MPEG-4/HD,7161.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Sport 2 Czechia,https://www.lyngsat.com/tvchannels/hu/Sport-2-Czechia.html,False,M7 Group,2/3,29900,DVB-S2,Cze Slo,hu
+796,TV Barrandov,MPEG-4/HD,7401.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,TV Barrandov,https://www.lyngsat.com/tvchannels/cz/TV-Barrandov.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+797,Kino Barrandov,MPEG-4/HD,7421.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Kino Barrandov,https://www.lyngsat.com/tvchannels/cz/Kino-Barrandov.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+798,Krimi Barrandov,MPEG-4/HD,7441.0,12090 V,tp 220,43-45,"Conax,Cryptoworks,Irdeto,Nagravision,Viaccess",,Krimi Barrandov,https://www.lyngsat.com/tvchannels/cz/Krimi-Barrandov.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+15613,TV Osem,MPEG-4/HD,2301.0,12110 H,tp 221,43-45,,,TV Osem,https://www.lyngsat.com/tvchannels/sk/TV-Osem.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+15613,TV Osem,MPEG-4/HD,2301.0,12110 H,tp 221,43-45,,,TV Osem,https://www.lyngsat.com/tvchannels/sk/TV-Osem.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+20910,Film 1 Family,MPEG-4/SD,512.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Film 1 Family,https://www.lyngsat.com/tvchannels/nl/Film-1-Family.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20915,Film 1 Drama,MPEG-4/SD,513.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Film 1 Drama,https://www.lyngsat.com/tvchannels/nl/Film-1-Drama.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20920,Film 1 Action,MPEG-4/SD,514.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Film 1 Action,https://www.lyngsat.com/tvchannels/nl/Film-1-Action.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20925,Ziggo Sport Voetbal,MPEG-4/SD,515.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Ziggo Sport Voetbal,https://www.lyngsat.com/tvchannels/nl/Ziggo-Sport-Voetbal.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20930,Ziggo Sport Golf,MPEG-4/SD,516.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Ziggo Sport Golf,https://www.lyngsat.com/tvchannels/nl/Ziggo-Sport-Golf.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20945,SBS 9,MPEG-4/SD,519.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,SBS 9,https://www.lyngsat.com/tvchannels/nl/SBS-9.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20949,Ment,MPEG-4/SD,524.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Ment,https://www.lyngsat.com/tvchannels/be/Ment.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+20954,Eclips TV,MPEG-4/SD,554.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Eclips TV,https://www.lyngsat.com/tvchannels/be/Eclips-TV.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+20955,Film 1 Premiere,MPEG-4/HD,521.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Film 1 Premiere,https://www.lyngsat.com/tvchannels/nl/Film-1-Premiere.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20960,Ziggo Sport Select,MPEG-4/HD,522.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Ziggo Sport Select,https://www.lyngsat.com/tvchannels/nl/Ziggo-Sport-Select.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+20965,National Geographic Nederland,MPEG-4/HD,525.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,National Geographic Nederland,https://www.lyngsat.com/tvchannels/us/National-Geographic-Nederland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+21107,History Benelux,MPEG-4/SD,507.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,History Benelux,https://www.lyngsat.com/tvchannels/us/History-Benelux.html,False,M7 Group,2/3,29900,DVB-S2,Dut,us
+21110,VTM Gold,MPEG-4/SD,550.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,VTM Gold,https://www.lyngsat.com/tvchannels/be/VTM-Gold.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21112,Ketnet (06-20),MPEG-4/SD,552.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Ketnet (06-20),https://www.lyngsat.com/tvchannels/be/Ketnet.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21116,VTM Non-stop Dokters (06-24),MPEG-4/SD,556.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,VTM Non-stop Dokters (06-24),https://www.lyngsat.com/tvchannels/be/VTM-Non-stop-Dokters.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21120,VTM 3,MPEG-4/SD,560.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,VTM 3,https://www.lyngsat.com/tvchannels/be/VTM-3.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21122,VTM 4,MPEG-4/SD,562.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,VTM 4,https://www.lyngsat.com/tvchannels/be/VTM-4.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21124,Man-X (00-06),MPEG-4/SD,564.0,12129 V,tp 222,43-45,"Conax,Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,Man-X (00-06),https://www.lyngsat.com/tvchannels/be/Man-X.html,False,M7 Group,2/3,29900,DVB-S2,,be
+21126,Play 5,MPEG-4/SD,566.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Play 5,https://www.lyngsat.com/tvchannels/be/Play-5.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21127,Play 7,MPEG-4/SD,527.0,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Play 7,https://www.lyngsat.com/tvchannels/be/Play-7.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21228,Eleven on DAZN Pro League 1 NL,MPEG-4/HD,528.0,12129 V,tp 222,43-45,"Nagravision,Viaccess",,Eleven on DAZN Pro League 1 NL,https://www.lyngsat.com/tvchannels/uk/Eleven-on-DAZN-Pro-League-1-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,uk
+21229,Sport 10,MPEG-4/HD,529.0,12129 V,tp 222,43-45,"Nagravision,Viaccess",,Sport 10,https://www.lyngsat.com/tvchannels/be/Sport-10.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21233,EarthxTV Europe,MPEG-4/HD,533.0,12129 V,tp 222,43-45,,,EarthxTV Europe,https://www.lyngsat.com/tvchannels/us/EarthxTV-Europe.html,False,M7 Group,2/3,29900,DVB-S2,Eng,us
+21210,MNM,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,MNM,https://www.lyngsat.com/radiochannels/be/MNM.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21210,MNM,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,MNM,https://www.lyngsat.com/radiochannels/be/MNM.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21211,Studio Brussel,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Studio Brussel,https://www.lyngsat.com/radiochannels/be/Studio-Brussel.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21211,Studio Brussel,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Studio Brussel,https://www.lyngsat.com/radiochannels/be/Studio-Brussel.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21212,Klara,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Klara,https://www.lyngsat.com/radiochannels/be/Klara.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21212,Klara,,,12129 V,tp 222,43-45,"Mediaguard,Nagravision,Viaccess",,Klara,https://www.lyngsat.com/radiochannels/be/Klara.html,False,M7 Group,2/3,29900,DVB-S2,Dut,be
+21227,Sky Radio (Netherlands),,,12129 V,tp 222,43-45,,,Sky Radio (Netherlands),https://www.lyngsat.com/radiochannels/nl/Sky-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21227,Sky Radio (Netherlands),,,12129 V,tp 222,43-45,,,Sky Radio (Netherlands),https://www.lyngsat.com/radiochannels/nl/Sky-Radio.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+,Canal Digitaal,3-3225,,12188 H,tp 225,43-45,"Cryptoworks,Irdeto,Mediaguard,Nagravision,Viaccess",,,,False,M7 Group,2/3,29900,DVB-S2,,
+21075,100% NL,,,12188 H,tp 225,43-45,,,100% NL,https://www.lyngsat.com/radiochannels/nl/100-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21075,100% NL,,,12188 H,tp 225,43-45,,,100% NL,https://www.lyngsat.com/radiochannels/nl/100-NL.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21080,NPO Radio 1,,,12188 H,tp 225,43-45,,,NPO Radio 1,https://www.lyngsat.com/radiochannels/nl/NPO-Radio-1.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21080,NPO Radio 1,,,12188 H,tp 225,43-45,,,NPO Radio 1,https://www.lyngsat.com/radiochannels/nl/NPO-Radio-1.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21084,NPO Radio 5,,,12188 H,tp 225,43-45,,,NPO Radio 5,https://www.lyngsat.com/radiochannels/nl/NPO-Radio-5.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21084,NPO Radio 5,,,12188 H,tp 225,43-45,,,NPO Radio 5,https://www.lyngsat.com/radiochannels/nl/NPO-Radio-5.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21085,Radio 10,,,12188 H,tp 225,43-45,,,Radio 10,https://www.lyngsat.com/radiochannels/nl/Radio-10.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21085,Radio 10,,,12188 H,tp 225,43-45,,,Radio 10,https://www.lyngsat.com/radiochannels/nl/Radio-10.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21086,Radio Gelderland,,,12188 H,tp 225,43-45,,,Radio Gelderland,https://www.lyngsat.com/radiochannels/nl/Radio-Gelderland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21086,Radio Gelderland,,,12188 H,tp 225,43-45,,,Radio Gelderland,https://www.lyngsat.com/radiochannels/nl/Radio-Gelderland.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21087,Radio Oost,,,12188 H,tp 225,43-45,,,Radio Oost,https://www.lyngsat.com/radiochannels/nl/Radio-Oost.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21087,Radio Oost,,,12188 H,tp 225,43-45,,,Radio Oost,https://www.lyngsat.com/radiochannels/nl/Radio-Oost.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21090,Slam!,,,12188 H,tp 225,43-45,,,Slam!,https://www.lyngsat.com/radiochannels/nl/Slam.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+21090,Slam!,,,12188 H,tp 225,43-45,,,Slam!,https://www.lyngsat.com/radiochannels/nl/Slam.html,False,M7 Group,2/3,29900,DVB-S2,Dut,nl
+8003,CT 24,MPEG-4/HD,1310.0,12344 H,tp 233,43-45,,,CT 24,https://www.lyngsat.com/tvchannels/cz/CT-24.html,False,M7 Group,2/3,29900,DVB-S2,Cze Qaa,cz
+8003,CT 24,MPEG-4/HD,1310.0,12344 H,tp 233,43-45,,,CT 24,https://www.lyngsat.com/tvchannels/cz/CT-24.html,False,M7 Group,2/3,29900,DVB-S2,Cze Qaa,cz
+8014,TV Lux (Slovakia),MPEG-4/HD,2410.0,12344 H,tp 233,43-45,,,TV Lux (Slovakia),https://www.lyngsat.com/tvchannels/sk/TV-Lux.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+8014,TV Lux (Slovakia),MPEG-4/HD,2410.0,12344 H,tp 233,43-45,,,TV Lux (Slovakia),https://www.lyngsat.com/tvchannels/sk/TV-Lux.html,False,M7 Group,2/3,29900,DVB-S2,Slo,sk
+8051,CRo Radiozurnál,,,12344 H,tp 233,43-45,,,CRo Radiozurnál,https://www.lyngsat.com/radiochannels/cz/CRo-Radiozurnal.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8051,CRo Radiozurnál,,,12344 H,tp 233,43-45,,,CRo Radiozurnál,https://www.lyngsat.com/radiochannels/cz/CRo-Radiozurnal.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8052,CRo Dvojka,,,12344 H,tp 233,43-45,,,CRo Dvojka,https://www.lyngsat.com/radiochannels/cz/CRo-Dvojka.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8052,CRo Dvojka,,,12344 H,tp 233,43-45,,,CRo Dvojka,https://www.lyngsat.com/radiochannels/cz/CRo-Dvojka.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8053,CRo Vltava,,,12344 H,tp 233,43-45,,,CRo Vltava,https://www.lyngsat.com/radiochannels/cz/CRo-Vltava.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8053,CRo Vltava,,,12344 H,tp 233,43-45,,,CRo Vltava,https://www.lyngsat.com/radiochannels/cz/CRo-Vltava.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8054,CRo Plus,,,12344 H,tp 233,43-45,,,CRo Plus,https://www.lyngsat.com/radiochannels/cz/CRo-Plus.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8054,CRo Plus,,,12344 H,tp 233,43-45,,,CRo Plus,https://www.lyngsat.com/radiochannels/cz/CRo-Plus.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8055,Radio Wave (Czechia),,,12344 H,tp 233,43-45,,,Radio Wave (Czechia),https://www.lyngsat.com/radiochannels/cz/Radio-Wave.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8055,Radio Wave (Czechia),,,12344 H,tp 233,43-45,,,Radio Wave (Czechia),https://www.lyngsat.com/radiochannels/cz/Radio-Wave.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8056,Rádio Junior (Czechia),,,12344 H,tp 233,43-45,,,Rádio Junior (Czechia),https://www.lyngsat.com/radiochannels/cz/Radio-Junior.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8056,Rádio Junior (Czechia),,,12344 H,tp 233,43-45,,,Rádio Junior (Czechia),https://www.lyngsat.com/radiochannels/cz/Radio-Junior.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8057,CRo D-dur,,,12344 H,tp 233,43-45,,,CRo D-dur,https://www.lyngsat.com/radiochannels/cz/CRo-D-dur.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8057,CRo D-dur,,,12344 H,tp 233,43-45,,,CRo D-dur,https://www.lyngsat.com/radiochannels/cz/CRo-D-dur.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8058,CRo Jazz,,,12344 H,tp 233,43-45,,,CRo Jazz,https://www.lyngsat.com/radiochannels/cz/CRo-Jazz.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8058,CRo Jazz,,,12344 H,tp 233,43-45,,,CRo Jazz,https://www.lyngsat.com/radiochannels/cz/CRo-Jazz.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8059,CRo Rádio DAB Praha,,,12344 H,tp 233,43-45,,,CRo Rádio DAB Praha,https://www.lyngsat.com/radiochannels/cz/CRo-Radio-DAB-Praha.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8059,CRo Rádio DAB Praha,,,12344 H,tp 233,43-45,,,CRo Rádio DAB Praha,https://www.lyngsat.com/radiochannels/cz/CRo-Radio-DAB-Praha.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8060,CRo Region,,,12344 H,tp 233,43-45,,,CRo Region,https://www.lyngsat.com/radiochannels/cz/CRo-Region.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8060,CRo Region,,,12344 H,tp 233,43-45,,,CRo Region,https://www.lyngsat.com/radiochannels/cz/CRo-Region.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8061,Radio Prague International,,,12344 H,tp 233,43-45,,,Radio Prague International,https://www.lyngsat.com/radiochannels/cz/Radio-Prague-International.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8061,Radio Prague International,,,12344 H,tp 233,43-45,,,Radio Prague International,https://www.lyngsat.com/radiochannels/cz/Radio-Prague-International.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8062,CRo Brno,,,12344 H,tp 233,43-45,,,CRo Brno,https://www.lyngsat.com/radiochannels/cz/CRo-Brno.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8062,CRo Brno,,,12344 H,tp 233,43-45,,,CRo Brno,https://www.lyngsat.com/radiochannels/cz/CRo-Brno.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8063,CRo Ceské Budejovice,,,12344 H,tp 233,43-45,,,CRo Ceské Budejovice,https://www.lyngsat.com/radiochannels/cz/CRo-Ceske-Budejovice.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8063,CRo Ceské Budejovice,,,12344 H,tp 233,43-45,,,CRo Ceské Budejovice,https://www.lyngsat.com/radiochannels/cz/CRo-Ceske-Budejovice.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8064,CRo Hradec Králové,,,12344 H,tp 233,43-45,,,CRo Hradec Králové,https://www.lyngsat.com/radiochannels/cz/CRo-Hradec-Kralove.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8064,CRo Hradec Králové,,,12344 H,tp 233,43-45,,,CRo Hradec Králové,https://www.lyngsat.com/radiochannels/cz/CRo-Hradec-Kralove.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8065,CRo Karlovy Vary,,,12344 H,tp 233,43-45,,,CRo Karlovy Vary,https://www.lyngsat.com/radiochannels/cz/CRo-Karlovy-Vary.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8065,CRo Karlovy Vary,,,12344 H,tp 233,43-45,,,CRo Karlovy Vary,https://www.lyngsat.com/radiochannels/cz/CRo-Karlovy-Vary.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8066,CRo Liberec,,,12344 H,tp 233,43-45,,,CRo Liberec,https://www.lyngsat.com/radiochannels/cz/CRo-Liberec.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8066,CRo Liberec,,,12344 H,tp 233,43-45,,,CRo Liberec,https://www.lyngsat.com/radiochannels/cz/CRo-Liberec.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8067,CRo Vysocina,,,12344 H,tp 233,43-45,,,CRo Vysocina,https://www.lyngsat.com/radiochannels/cz/CRo-Vysocina.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8067,CRo Vysocina,,,12344 H,tp 233,43-45,,,CRo Vysocina,https://www.lyngsat.com/radiochannels/cz/CRo-Vysocina.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8068,CRo Pardubice,,,12344 H,tp 233,43-45,,,CRo Pardubice,https://www.lyngsat.com/radiochannels/cz/CRo-Pardubice.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8068,CRo Pardubice,,,12344 H,tp 233,43-45,,,CRo Pardubice,https://www.lyngsat.com/radiochannels/cz/CRo-Pardubice.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8069,CRo Plzen,,,12344 H,tp 233,43-45,,,CRo Plzen,https://www.lyngsat.com/radiochannels/cz/CRo-Plzen.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8069,CRo Plzen,,,12344 H,tp 233,43-45,,,CRo Plzen,https://www.lyngsat.com/radiochannels/cz/CRo-Plzen.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8070,CRo Olomouc,,,12344 H,tp 233,43-45,,,CRo Olomouc,https://www.lyngsat.com/radiochannels/cz/CRo-Olomouc.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8070,CRo Olomouc,,,12344 H,tp 233,43-45,,,CRo Olomouc,https://www.lyngsat.com/radiochannels/cz/CRo-Olomouc.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8071,CRo Ostrava,,,12344 H,tp 233,43-45,,,CRo Ostrava,https://www.lyngsat.com/radiochannels/cz/CRo-Ostrava.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8071,CRo Ostrava,,,12344 H,tp 233,43-45,,,CRo Ostrava,https://www.lyngsat.com/radiochannels/cz/CRo-Ostrava.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8072,CRo Sever,,,12344 H,tp 233,43-45,,,CRo Sever,https://www.lyngsat.com/radiochannels/cz/CRo-Sever.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8072,CRo Sever,,,12344 H,tp 233,43-45,,,CRo Sever,https://www.lyngsat.com/radiochannels/cz/CRo-Sever.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8073,CRo Zlín,,,12344 H,tp 233,43-45,,,CRo Zlín,https://www.lyngsat.com/radiochannels/cz/CRo-Zlin.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+8073,CRo Zlín,,,12344 H,tp 233,43-45,,,CRo Zlín,https://www.lyngsat.com/radiochannels/cz/CRo-Zlin.html,False,M7 Group,2/3,29900,DVB-S2,Cze,cz
+,(TRWAM TV feeds),,,12636 V,tp 20,,,,,,False,M7 Group,5/6,1900,DVB-S2,,
+,,1-1,,12639.7V,tp 20,0,,,,,False,M7 Group,1/2,940,DVB-S9,,
+1000,Deutschlandfunk,,,12639.7V,tp 20,0,,,Deutschlandfunk,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk.html,False,M7 Group,1/2,940,DVB-S9,Ger,de
+1000,Deutschlandfunk,,,12639.7V,tp 20,0,,,Deutschlandfunk,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk.html,False,M7 Group,1/2,940,DVB-S9,Ger,de
+2000,Deutschlandfunk Kultur,,,12639.7V,tp 20,0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,M7 Group,1/2,940,DVB-S9,Ger,de
+2000,Deutschlandfunk Kultur,,,12639.7V,tp 20,0,,,Deutschlandfunk Kultur,https://www.lyngsat.com/radiochannels/de/Deutschlandfunk-Kultur.html,False,M7 Group,1/2,940,DVB-S9,Ger,de
+,A1 Telekom Austria,1-1,,12642.4V,tp 20,0,,https://www.lyngsat.com/providers/at/A1-Telekom-Austria.html,,,True,A1 Telekom Austria,3/4,280,DVB-S2,,
+300,Radio Osttirol,,,12642.4V,tp 20,0,,,Radio Osttirol,https://www.lyngsat.com/radiochannels/at/Radio-Osttirol.html,False,A1 Telekom Austria,3/4,280,DVB-S2,Ger,at
+300,Radio Osttirol,,,12642.4V,tp 20,0,,,Radio Osttirol,https://www.lyngsat.com/radiochannels/at/Radio-Osttirol.html,False,A1 Telekom Austria,3/4,280,DVB-S2,Ger,at
+400,Radio POS Österreich,,,12642.4V,tp 20,0,,,Radio POS Österreich,https://www.lyngsat.com/radiochannels/de/Radio-POS-Osterreich.html,False,A1 Telekom Austria,3/4,280,DVB-S2,Ger,de

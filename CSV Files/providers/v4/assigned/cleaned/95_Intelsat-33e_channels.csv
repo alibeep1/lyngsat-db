@@ -1,0 +1,69 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Nigerian mux,1-2,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,
+201.0,Lagos TV,MPEG-4/SD,273.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+202.0,MITV,MPEG-4/SD,289.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+203.0,Silverbird TV,MPEG-4/SD,305.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+204.0,TVC News,MPEG-4/SD,321.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+205.0,TVC,MPEG-4/SD,337.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+206.0,Sunna TV (Nigeria),MPEG-4/SD,353.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+207.0,Wazobia TV,MPEG-4/SD,369.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+208.0,Trybe TV,MPEG-4/SD,385.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+209.0,Spice,MPEG-4/SD,401.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+210.0,Televista,MPEG-4/SD,513.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+211.0,OnMax,MPEG-4/SD,529.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+212.0,Soundcity TV,MPEG-4/SD,545.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+213.0,Wazobia Max TV Lagos,MPEG-4/SD,561.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+214.0,Arewa 24,MPEG-4/SD,577.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Hau
+215.0,Lumen Christi Catholic TV,MPEG-4/SD,593.0,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+1.0,Rhythm,,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+8.0,Ray Power FM,,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+202.0,Naija FM Lagos,,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+207.0,Wazobia FM Lagos,,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+257.0,Star FM 101.5,,,3751 R,tp SZD11,0.0,,,False,,5/6,18315,DVB-S2,Eng
+,Uganda mux,0-1,,3764 R,tp SZD11,0.0,,,False,,2/3,2604,DVB-S2,
+,Uganda mux,,,3778 R,tp SZD11,0.0,,,False,,3/4,5720,DVB-S2,
+1.0,NTV Uganda,MPEG-4/SD,111.0,3764 R,tp SZD11,0.0,,,False,,2/3,2604,DVB-S2,Eng
+2.0,Spark TV,MPEG-4/SD,121.0,3764 R,tp SZD11,0.0,,,False,,2/3,2604,DVB-S2,Eng
+1.0,Eswatini TV,0-1MPEG-4/SD,111.0,3767 R,tp SZD11,0.0,,,False,,3/4,2315,DVB-S2,Eng
+,ZNBC,0-1,,3771 R,tp SZD11,0.0,,https://www.lyngsat.com/providers/zm/ZNBC.html,True,ZNBC,3/4,5000,DVB-S5,
+1.0,ZNBC TV 2,MPEG-2/SD,39.0,3771 R,tp SZD11,0.0,,,False,ZNBC,3/4,5000,DVB-S5,Eng
+2.0,ZNBC TV 1,MPEG-2/SD,33.0,3771 R,tp SZD11,0.0,,,False,ZNBC,3/4,5000,DVB-S5,Eng
+1.0,Bukedde 1,MPEG-4/SD,611.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,
+2.0,Channel 44,MPEG-4/SD,711.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,Eng
+403.0,NBS TV,MPEG-4/SD,431.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,Swa
+404.0,Urban TV (Uganda),MPEG-4/SD,441.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,Eng
+405.0,TV West (Uganda),MPEG-4/SD,151.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,Eng
+406.0,BBS TV,MPEG-4/SD,161.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,Swa
+407.0,Bukedde 2,MPEG-4/SD,171.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,
+408.0,UBC TV,MPEG-4/SD,181.0,3778 R,tp SZD11,0.0,,,False,ZNBC,3/4,5720,DVB-S2,
+,Kenyan mux,,,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,
+1.0,NTV (Kenya),MPEG-4/SD,51.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+104.0,NTV (Kenya),MPEG-4/SD,321.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+2.0,KTN Home,MPEG-4/SD,769.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+5.0,K24,MPEG-4/SD,33.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+105.0,KTN News (Kenya),MPEG-4/SD,337.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+107.0,Kass TV,MPEG-4/SD,370.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+108.0,Akili Kids!,MPEG-4/SD,385.0,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+7.0,Capital FM (Kenya),,,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+9.0,Nation FM (Kenya),,,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+16.0,Classic FM (Kenya),,,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,Eng
+162.0,Radio Maisha,,,3785 R,tp SZD11,0.0,,,False,ZNBC,8/9,5757,DVB-S2,
+,(feeds),,,3859 L,tp SZD14,,,,False,ZNBC,4/5,2600,DVB-S2,
+,(feeds),,,3863 L,tp SZD14,,,,False,ZNBC,5/6,3333,DVB-S2,
+,(feeds),,,10962 H,tp KUD1,,,,False,ZNBC,5/6,8000,DVB-S8,
+,(feeds),,,11498 V,tp KUD3,,,,False,ZNBC,2/3,1900,DVB-S2,
+,(feeds),,,11507 V,tp KUD3,,,,False,ZNBC,3/4,3250,DVB-S2,
+,(feeds),,,11512 V,tp KUD3,,,,False,ZNBC,5/6,4150,DVB-S2,
+,(feeds),,,11516 V,tp KUD3,,,,False,ZNBC,3/4,23750,DVB-S2,
+,(feeds),,,11526 V,tp KUD3,,,,False,ZNBC,5/6,4000,DVB-S2,
+,(feeds),,,12547 V,,,,,False,ZNBC,5/6,4380,DVB-S2,
+,(feeds),,,12556 V,,,,,False,ZNBC,5/6,4380,DVB-S2,
+,(feeds),,,12562 V,,,,,False,ZNBC,5/6,6500,DVB-S2,
+,(feeds),,,12570 V,,,,,False,ZNBC,2/3,6500,DVB-S2,
+,(feeds),,,12575 V,,,,,False,ZNBC,3/4,2500,DVB-S2,
+,Alghad FM,65535-1,,11486 H,tp KUD7,,,https://www.lyngsat.com/providers/iq/Alghad-FM.html,True,Alghad FM,3/5,1000,DVB-S2,
+1.0,Alghad FM,,,11486 H,tp KUD7,,,https://www.lyngsat.com/providers/iq/Alghad-FM.html,True,Alghad FM,3/5,1000,DVB-S2,Ara
+2.0,Alghad FM,,,11486 H,tp KUD7,,,https://www.lyngsat.com/providers/iq/Alghad-FM.html,True,Alghad FM,3/5,1000,DVB-S2,Ara
+1.0,Telekanal 78,.-.MPEG-2/SD,4194.0,11504 V,tp KUD3,,,,False,Alghad FM,3/4,3330,DVB-S3,Rus
+1.0,Nika TV,8192-4096MPEG-2/SD,512.0,11522 V,tp KUD3,,,,False,Alghad FM,3/4,3700,DVB-S3,Rus
+1.0,Nika FM,,,11522 V,tp KUD3,,,,False,Alghad FM,3/4,3700,DVB-S3,Rus

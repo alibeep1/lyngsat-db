@@ -1,0 +1,28 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Aljazeera,224-1010,,11046 H,tp B5,51.0,,https://www.lyngsat.com/providers/qa/Aljazeera.html,True,Aljazeera,2/3,27500,DVB-S2,
+,Aljazeera,224-1050,,11604 H,tp D7,51.0,,https://www.lyngsat.com/providers/qa/Aljazeera.html,True,Aljazeera,3/4,27500,DVB-S2,
+10101.0,Aljazeera Channel,MPEG-4/HD,601.0,11046 H,tp B5,51.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara
+10501.0,Aljazeera Channel,MPEG-2/SD,512.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara
+10102.0,Aljazeera Mubasher,MPEG-4/HD,602.0,11046 H,tp B5,51.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara
+10105.0,Aljazeera Mubasher,MPEG-4/HD,605.0,11046 H,tp B5,51.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara
+10502.0,Aljazeera Mubasher,MPEG-2/SD,513.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara
+10505.0,Aljazeera Mubasher,MPEG-2/SD,520.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara
+10103.0,Aljazeera English,MPEG-4/HD,603.0,11046 H,tp B5,51.0,,,False,Aljazeera,2/3,27500,DVB-S2,Eng Eng
+10503.0,Aljazeera English,MPEG-2/SD,514.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,Eng
+10104.0,Aljazeera Documentary,MPEG-4/HD,604.0,11046 H,tp B5,51.0,,,False,Aljazeera,2/3,27500,DVB-S2,Ara
+10504.0,Aljazeera Documentary,MPEG-2/SD,517.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,Ara
+,(feeds),,,11068 H,tp B7,,,,False,Aljazeera,3/4,1666,DVB-S2,
+,(feeds),,,11071 H,tp B7,,,,False,Aljazeera,3/4,1666,DVB-S2,
+,(feeds),,,11670 H,tp D11,,,,False,Aljazeera,2/3,3333,DVB-S2,
+,(feeds),,,11674 H,tp D11,,,,False,Aljazeera,2/3,3333,DVB-S2,
+,(feeds),,,11678 H,tp D11,,,,False,Aljazeera,2/3,3333,DVB-S2,
+,(feeds),,,11682 H,tp D11,,,,False,Aljazeera,5/6,3200,DVB-S3,
+,(feeds),,,11686 H,tp D11,,,,False,Aljazeera,3/4,3750,DVB-S3,
+,,,,11180 V,tp B12,51.0,,,False,Aljazeera,,,,
+,,622-20000,,21420 V,tp KQ2,,,,False,Aljazeera,2/3,27500,DVB-S2,
+10506.0,[test card],MPEG-2/SD,521.0,11604 H,tp D7,51.0,,,False,Aljazeera,3/4,27500,DVB-S2,
+1.0,Bedaya TV,?-?MPEG-4/HD,512.0,11649 V,tp D12,51.0,,,False,Aljazeera,3/4,2244,DVB-S2,Ara
+102.0,Sorec TV,MPEG-4/HD,102.0,21420 V,tp KQ2,,,,False,Aljazeera,2/3,27500,DVB-S2,
+104.0,Sloog,MPEG-4/HD,1041.0,21420 V,tp KQ2,,,,False,Aljazeera,2/3,27500,DVB-S2,Fre
+105.0,L'Match,MPEG-4/HD,1051.0,21420 V,tp KQ2,,,,False,Aljazeera,2/3,27500,DVB-S2,Fre
+106.0,Sisal Loterie Nationale,MPEG-4/HD,1061.0,21420 V,tp KQ2,,,,False,Aljazeera,2/3,27500,DVB-S2,Fre

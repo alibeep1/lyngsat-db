@@ -1,0 +1,28 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,UAU!TV,1-2,,10975 H,tp 2K,,Videoguard,https://www.lyngsat.com/providers/ao/UAUTV.html,True,UAU!TV,/10,00009,DVB-S2,
+1.0,TPA 1,MPEG-4/SD,1001.0,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+2.0,TPA 2,MPEG-4/SD,1011.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+3.0,RTP África,MPEG-4/SD,1021.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+4.0,RTP Internacional Europa,MPEG-4/SD,1031.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+5.0,Record TV Europa,MPEG-4/SD,1041.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+6.0,Band Internacional,MPEG-4/SD,1051.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+7.0,TV Zimbo,MPEG-4/SD,1061.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+8.0,Band News,MPEG-4/SD,1071.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+9.0,AMC Portugal,MPEG-4/SD,1081.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+10.0,Afro Music Channel,MPEG-4/SD,1091.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+11.0,Woohoo,MPEG-4/SD,1101.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+12.0,Afro Music Pop,MPEG-4/SD,1111.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+13.0,Record News,MPEG-4/SD,1121.0,10975 H,tp 2K,,Videoguard,,False,UAU!TV,/10,00009,DVB-S2,Por
+15.0,UAU!TV promo,MPEG-4/SD,1141.0,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+16.0,Ango TV,MPEG-4/SD,1151.0,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+19.0,Rádio Escola,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+20.0,Canal A,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+21.0,Rádio 5,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+22.0,Luanda Antena Comercial,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+23.0,FM Estéreo,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+24.0,Rádio Ecclesia,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+25.0,Rádio Mais,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+26.0,Rádio Luanda,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+27.0,Ngola Yetu,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+28.0,Rádio Viana,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por
+29.0,Rádio Cazenga,,,10975 H,tp 2K,,,,False,UAU!TV,/10,00009,DVB-S2,Por

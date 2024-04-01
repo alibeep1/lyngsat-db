@@ -1,0 +1,29 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Digicel Play,,,12282 H,tp 33L,,,,False,,3/4,15000,DVB-S2,
+,Digicel Play,,,12300 H,tp 33U,,,,False,,3/4,15000,DVB-S2,
+,Digicel Play,,,12322 H,tp 34L,,,,False,,3/4,15000,DVB-S2,
+,Digicel Play,,,12340 H,tp 34U,,,,False,,3/4,15000,DVB-S2,
+,Sky PerfecTV!,65504-1,,12448 V,tp 13,0.0,BISS,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/4,21096,DVB-S2,
+,Sky PerfecTV!,10-?,,12523 H,tp 18,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12553 H,tp 20,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12568 V,tp 21,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12583 H,tp 22,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12598 V,tp 23,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,10-16420,,12613 H,tp 24,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12628 V,tp 25,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12643 H,tp 26,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12673 H,tp 28,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,,,12688 V,tp 29,0.0,,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,10-16432,,12703 H,tp 30,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,10-?,,12718 V,tp 31,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+,Sky PerfecTV!,10-?,,12733 H,tp 32,0.0,Multi 2,https://www.lyngsat.com/providers/jp/Sky-PerfecTV.html,True,Sky PerfecTV!,3/5,23303,DVB-S2,
+35.0,Happy Science,MPEG-4/HD,1825.0,12448 V,tp 13,0.0,BISS,,False,Sky PerfecTV!,3/4,21096,DVB-S2,Jpn
+900.0,Sky Perfect JSAT promo,MPEG-4/HD,2401.0,12448 V,tp 13,0.0,,,False,Sky PerfecTV!,3/4,21096,DVB-S2,Jpn
+900.0,SkyAccess promo,?-?MPEG-4/HD,2401.0,12545 V,tp 19,0.0,,,False,Sky PerfecTV!,3/4,11228,DVB-S2,
+,Tachikawa & Seibuen Keirin Channel,MPEG-4/HD,4355.0,12553 H,tp 20,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33292.0,Japanet Channel DX,MPEG-4/HD,4103.0,12568 V,tp 21,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33360.0,Sukachan 12,MPEG-4/HD,4354.0,12568 V,tp 21,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33367.0,Sky PerfecTV promo,MPEG-4/HD,4097.0,12613 H,tp 24,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33293.0,QVC Japan,MPEG-4/HD,4097.0,12688 V,tp 29,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33295.0,GSTV,MPEG-4/HD,4101.0,12688 V,tp 29,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn
+33298.0,Live 530,MPEG-4/HD,4357.0,12703 H,tp 30,0.0,,,False,Sky PerfecTV!,3/5,23303,DVB-S2,Jpn

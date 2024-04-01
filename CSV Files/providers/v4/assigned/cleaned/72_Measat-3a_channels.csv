@@ -1,0 +1,135 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Encompass,0-1,,3760 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,0-1,,3760 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,0-1,,3760 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,0-1,,3760 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,11-1,,3960 H,,,"Conax,Irdeto,PowerVu",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,11-1,,3960 H,,,"Conax,Irdeto,PowerVu",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,11-1,,3960 H,,,"Conax,Irdeto,PowerVu",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,11-1,,3960 H,,,"Conax,Irdeto,PowerVu",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,2-8,,4000 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,2-8,,4000 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,2-8,,4000 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,2-8,,4000 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,5/6,29700,DVB-S2,
+,Encompass,,,4040 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,3/5,29700,DVB-S2,
+,Encompass,,,4040 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,3/5,29700,DVB-S2,
+,Encompass,,,4040 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,3/5,29700,DVB-S2,
+,Encompass,,,4040 H,,,"Conax,Irdeto",https://www.lyngsat.com/providers/us/Encompass.html,True,Encompass,3/5,29700,DVB-S2,
+1.0,(feeds),,3080.0,3760 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,
+1704.0,(feeds),,1741.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,
+1.0,(feeds),,3080.0,4040 H,,,Irdeto,,False,Encompass,3/5,29700,DVB-S2,
+305.0,Rock Entertainment,MPEG-4/HD,361.0,3760 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng
+305.0,Rock Entertainment,MPEG-4/HD,361.0,4040 H,,,Irdeto,,False,Encompass,3/5,29700,DVB-S2,Eng
+307.0,Rock Action,MPEG-4/HD,371.0,3760 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng
+503.0,Rock Action,MPEG-4/HD,551.0,3760 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng
+307.0,Rock Action,MPEG-4/HD,371.0,4040 H,,,Irdeto,,False,Encompass,3/5,29700,DVB-S2,Eng
+503.0,Rock Action,MPEG-4/HD,551.0,4040 H,,,Irdeto,,False,Encompass,3/5,29700,DVB-S2,Eng
+1701.0,ZooMoo Asia,MPEG-4/HD,1711.0,3760 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng
+1701.0,ZooMoo Asia,MPEG-4/HD,1711.0,4040 H,,,Irdeto,,False,Encompass,3/5,29700,DVB-S2,
+11001.0,Zee TV India,MPEG-4/HD,7002.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11001.0,Zee TV India,MPEG-4/HD,7002.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11002.0,Zee Cinema Asia,MPEG-4/HD,7012.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11002.0,Zee Cinema Asia,MPEG-4/HD,7012.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11003.0,& TV,MPEG-4/HD,7022.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,
+11003.0,& TV,MPEG-4/HD,7022.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,
+11004.0,& pictures,MPEG-4/HD,7032.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,
+11004.0,& pictures,MPEG-4/HD,7032.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,
+11005.0,Zee Café,MPEG-4/HD,7042.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Eng
+11005.0,Zee Café,MPEG-4/HD,7042.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Eng
+11006.0,Zee Action,MPEG-4/SD,7052.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11006.0,Zee Action,MPEG-4/SD,7052.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11007.0,Zing Asia,MPEG-4/SD,7062.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11007.0,Zing Asia,MPEG-4/SD,7062.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11008.0,Zee Business,MPEG-4/SD,7072.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Eng
+11008.0,Zee Business,MPEG-4/SD,7072.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Eng
+11009.0,Zee News,MPEG-4/SD,7082.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11009.0,Zee News,MPEG-4/SD,7082.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11010.0,Zee Anmol,MPEG-4/SD,7092.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11010.0,Zee Anmol,MPEG-4/SD,7092.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+11011.0,Zee Bollywood,MPEG-4/SD,7102.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,
+11011.0,Zee Bollywood,MPEG-4/SD,7102.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,
+11012.0,Zee Classic,MPEG-4/SD,7112.0,3760 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+11012.0,Zee Classic,MPEG-4/SD,7112.0,4040 H,,,Conax,,False,Encompass,3/5,29700,DVB-S2,Hin
+,,,,3880 H,,,,,False,Encompass,,,,
+,,,,3904 H,,,,,False,Encompass,,,,
+,,,,3910 H,,,,,False,Encompass,,,,
+,,,,3920 H,,,,,False,Encompass,,,,
+,(RTM feeds),,,3934 H,,,,,False,Encompass,2/3,3534,DVB-S2,
+2.0,SET Asia,MPEG-4/SD,1260.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Hin
+5.0,SET Middle East,MPEG-4/SD,1560.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Hin
+6.0,Sony Max Asia,MPEG-4/SD,1660.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Hin
+7.0,Sony SAB Asia,MPEG-4/SD,910.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Hin
+8.0,Max Middle East,MPEG-4/SD,1010.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Hin
+103.0,History Asia,MPEG-4/HD,131.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Eng Tha May Eng
+401.0,Lifetime Asia,MPEG-4/HD,411.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Eng Tha Eng
+415.0,Crime + Investigation Asia,MPEG-4/HD,471.0,3960 H,,,PowerVu,,False,Encompass,5/6,29700,DVB-S2,Eng Tha Eng
+502.0,Kix Asia,MPEG-4/HD,531.0,3960 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Chi Eng May
+702.0,Celestial Movies Indonesia,MPEG-4/HD,721.0,3960 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Chi
+801.0,(Encompass feeds),,811.0,3960 H,,,,,False,Encompass,5/6,29700,DVB-S2,
+901.0,Celestial Movies Asia,MPEG-4/SD,911.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Chi Tha Eng
+903.0,Celestial Classic Movies,MPEG-4/SD,951.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Yue Chi Tha Eng
+1000.0,Motorvision+,MPEG-4/HD,2002.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng Fre
+1104.0,Thrill,MPEG-4/SD,1171.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Eng Tha Chi
+1901.0,Celestial Movies Pinoy,MPEG-4/SD,1911.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Chi Tgl
+1902.0,Miao Mi,MPEG-4/SD,1931.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Chi Ind Eng
+1903.0,My Cinema Europe,MPEG-4/SD,1511.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,
+2002.0,Colors Asia Pacific,MPEG-4/SD,1331.0,4000 H,,,Irdeto,,False,Encompass,5/6,29700,DVB-S2,Hin
+22988.0,Zee Cinema Middle East,MPEG-4/SD,3572.0,4000 H,,,Conax,,False,Encompass,5/6,29700,DVB-S2,Hin
+,Planetcast,164-5,,4080 H,tp 10,,"Irdeto,Viaccess",https://www.lyngsat.com/providers/in/Planetcast.html,True,Planetcast,3/5,30000,DVB-S2,
+2.0,Baby TV Asia,MPEG-4/HD,2002.0,4080 H,tp 10,,Viaccess,,False,Planetcast,3/5,30000,DVB-S2,Eng Ind Chi Fre Ara Tha Hin Vie
+3.0,Fight Sports,MPEG-4/HD,2003.0,4080 H,tp 10,,Viaccess,,False,Planetcast,3/5,30000,DVB-S2,Eng Tha
+5.0,Sky News UK,MPEG-4/HD,2005.0,4080 H,tp 10,,Viaccess,,False,Planetcast,3/5,30000,DVB-S2,Eng
+51.0,Hits,MPEG-4/HD,101.0,4080 H,tp 10,,Irdeto,,False,Planetcast,3/5,30000,DVB-S2,Eng
+52.0,Hits Movies,MPEG-4/HD,201.0,4080 H,tp 10,,Irdeto,,False,Planetcast,3/5,30000,DVB-S2,Eng
+54.0,Hits Now,MPEG-4/HD,401.0,4080 H,tp 10,,Irdeto,,False,Planetcast,3/5,30000,DVB-S2,Eng
+,IKO MG,1-301,,4120 H,tp 11,,"Conax,Irdeto,Viaccess",https://www.lyngsat.com/providers/it/IKO-MG.html,True,IKO MG,3/5,30000,DVB-S2,
+1.0,English Club TV,MPEG-4/HD,2001.0,4120 H,tp 11,,Viaccess,,False,IKO MG,3/5,30000,DVB-S2,Eng
+2.0,Stingray CMusic,MPEG-4/HD,2002.0,4120 H,tp 11,,Viaccess,,False,IKO MG,3/5,30000,DVB-S2,Eng
+4.0,Silk Way,MPEG-4/HD,2004.0,4120 H,tp 11,,,,False,IKO MG,3/5,30000,DVB-S2,Rus Kaz Kir Uzb Eng
+5.0,SpoTV Asia,MPEG-4/HD,50.0,4120 H,tp 11,,Conax,,False,IKO MG,3/5,30000,DVB-S2,Eng Qaa May
+6.0,SpoTV 2 Asia,MPEG-4/HD,52.0,4120 H,tp 11,,Conax,,False,IKO MG,3/5,30000,DVB-S2,Eng Qaa May
+55.0,Inultra,HEVC/UHD,2110.0,4120 H,tp 11,,Conax,,False,IKO MG,3/5,30000,DVB-S2,Eng
+,Astro,5-5,,4160 H,tp 12,,"Irdeto,Viaccess",https://www.lyngsat.com/providers/my/Astro.html,True,Astro,3/5,29700,DVB-S2,
+4.0,Global Trekker,MPEG-4/HD,313.0,4160 H,tp 12,,Viaccess,,False,Astro,3/5,29700,DVB-S2,Eng
+6.0,Smithsonian Channel Asia,MPEG-4/HD,304.0,4160 H,tp 12,,Viaccess,,False,Astro,3/5,29700,DVB-S2,Eng
+302.0,DreamWorks TV Asia,MPEG-4/HD,2001.0,4160 H,tp 12,,Irdeto,,False,Astro,3/5,29700,DVB-S2,Eng Ind May Yue Tgl Chi Vie Tha
+,K Vision,,,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,
+,K Vision,,,12436 H,,0.0,"Conax,Neotion SHL",,False,Astro,2/3,31000,DVB-S2,
+12.0,[K Vision info card],MPEG-4/SD,1619.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+16.0,[K Vision info card],MPEG-4/SD,72.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+39.0,[K Vision info card],MPEG-4/SD,2177.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+43.0,[K Vision info card],MPEG-4/SD,4114.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+49.0,[K Vision info card],MPEG-4/SD,1622.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+50.0,[K Vision info card],MPEG-4/SD,52.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+74.0,[K Vision info card],MPEG-4/SD,123.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+75.0,[K Vision info card],MPEG-4/SD,139.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+76.0,[K Vision info card],MPEG-4/SD,155.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+78.0,[K Vision info card],MPEG-4/SD,2183.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+79.0,[K Vision info card],MPEG-4/SD,2200.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+103.0,[K Vision info card],MPEG-4/SD,2135.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+104.0,[K Vision info card],MPEG-4/SD,2136.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+105.0,[K Vision info card],MPEG-4/SD,2137.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+107.0,[K Vision info card],MPEG-4/SD,2145.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+110.0,[K Vision info card],MPEG-4/SD,2162.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+111.0,[K Vision info card],MPEG-4/SD,2164.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+113.0,[K Vision info card],MPEG-4/SD,2185.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+114.0,[K Vision info card],MPEG-4/SD,2098.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+191.0,[K Vision info card],MPEG-4/SD,2325.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+193.0,[K Vision info card],MPEG-4/SD,2341.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+222.0,[K Vision info card],MPEG-4/SD,2344.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+367.0,[K Vision info card],MPEG-4/SD,2374.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+368.0,[K Vision info card],MPEG-4/SD,2377.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+378.0,[K Vision info card],MPEG-4/SD,4434.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+379.0,[K Vision info card],MPEG-4/SD,4437.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+388.0,[K Vision info card],MPEG-4/SD,5478.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+389.0,[K Vision info card],MPEG-4/SD,5479.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+450.0,[K Vision info card],MPEG-4/SD,1111.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+44.0,On Channel,MPEG-4/SD,1794.0,12396 H,tp 16KH,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+307.0,Rajawali TV,MPEG-4/SD,5383.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+312.0,TVRI Nasional,MPEG-4/SD,5394.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+314.0,Bali TV,MPEG-4/SD,5396.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+315.0,JTV (Indonesia),MPEG-4/SD,5397.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+316.0,Da Ai TV Indonesia,MPEG-4/SD,5398.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+319.0,TV Mu,MPEG-4/SD,5401.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+320.0,TV 9 Nusantara,MPEG-4/SD,5408.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ind
+325.0,Quran TV (Saudi Arabia),MPEG-4/SD,5413.0,12436 H,,0.0,,,False,Astro,2/3,31000,DVB-S2,Ara

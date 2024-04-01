@@ -1,0 +1,194 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+9.0,RT News,1-2MPEG-2/SD,33.0,3586 L,tp 2A,44-45,,,False,,3/4,8000,DVB-S8,Eng
+10.0,Radio Orfey,,,3586 L,tp 2A,44-45,,,False,,3/4,8000,DVB-S8,Rus
+,RTRS Yamal,8835-2,,3594 R,tp 2,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Yamal.html,True,RTRS Yamal,P 1,,DVB-S2,
+1020.0,Rossiya 1 (+2h),MPEG-4/SD,1021.0,3594 R,tp 2,44-45,GoSTcrypt,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (+2h),MPEG-4/SD,1021.0,3621 R,tp 3,44-45,GoSTcrypt,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (+2h),MPEG-4/SD,1021.0,3628 R,tp 3,44-45,GoSTcrypt,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (+2h),MPEG-4/SD,1021.0,3857 R,tp 6,44-45,GoSTcrypt,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (+2h),MPEG-4/SD,1021.0,3921 R,tp 6,44-45,GoSTcrypt,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3594 R,tp 2,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3595 L,tp 2A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3621 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3627 L,tp 3A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3628 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3643 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3695 R,tp 4,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3704 R,tp 4,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3704 L,tp 4A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3803 L,tp 5A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3822 L,tp 5A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3857 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3858 L,tp 6A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3864 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3921 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,3977 L,tp 7A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24,MPEG-4/SD,1071.0,4018 L,tp 8A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3594 R,tp 2,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3595 L,tp 2A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3621 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3627 L,tp 3A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3628 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3643 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3695 R,tp 4,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3704 R,tp 4,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3704 L,tp 4A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3803 L,tp 5A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3822 L,tp 5A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3857 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3858 L,tp 6A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3864 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3881 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3921 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3964 L,tp 7A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,3977 L,tp 7A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1090.0,OTR,MPEG-4/SD,1091.0,4018 L,tp 8A,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+2h),,,3594 R,tp 2,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+2h),,,3621 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+2h),,,3628 R,tp 3,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+2h),,,3857 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+2h),,,3921 R,tp 6,44-45,,,False,RTRS Yamal,P 1,,DVB-S2,Rus
+,RTRS Saratov,1-1,,3595 L,tp 2A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Saratov.html,True,RTRS Saratov,P 1,,DVB-S2,
+,RTRS Saratov,1-1,,3595 L,tp 2A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Saratov.html,True,RTRS Saratov,P 1,,DVB-S2,
+,RTRS Saratov,1-1,,3822 L,tp 5A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Saratov.html,True,RTRS Saratov,P 1,,DVB-S2,
+,RTRS Saratov,1-1,,3822 L,tp 5A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Saratov.html,True,RTRS Saratov,P 1,,DVB-S2,
+1020.0,Rossiya 1,MPEG-4/SD,1021.0,3595 L,tp 2A,44-45,GoSTcrypt,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1,MPEG-4/SD,1021.0,3803 L,tp 5A,44-45,GoSTcrypt,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1,MPEG-4/SD,1021.0,3822 L,tp 5A,44-45,GoSTcrypt,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii,,,3595 L,tp 2A,44-45,,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii,,,3803 L,tp 5A,44-45,,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii,,,3822 L,tp 5A,44-45,,,False,RTRS Saratov,P 1,,DVB-S2,Rus
+,RTRS Yugoria,8835-2,,3621 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Yugoria.html,True,RTRS Yugoria,P 1,,DVB-S2,
+,RTRS Yugoria,8835-2,,3621 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Yugoria.html,True,RTRS Yugoria,P 1,,DVB-S2,
+,RTRS Yugoria,8835-2,,3921 R,tp 6,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Yugoria.html,True,RTRS Yugoria,P 1,,DVB-S2,
+,RTRS Yugoria,8835-2,,3921 R,tp 6,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Yugoria.html,True,RTRS Yugoria,P 1,,DVB-S2,
+,RTRS 1,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-2,,3704 L,tp 4A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-2,,3704 L,tp 4A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-2,,3704 L,tp 4A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-2,,3704 L,tp 4A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+,RTRS 1,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-1.html,True,RTRS 1,P 0,,DVB-S2,
+1010.0,Perviy kanal,MPEG-4/SD,1011.0,3627 L,tp 3A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1010.0,Perviy kanal,MPEG-4/SD,1011.0,3643 R,tp 3,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1010.0,Perviy kanal,MPEG-4/SD,1011.0,3704 L,tp 4A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1010.0,Perviy kanal,MPEG-4/SD,1011.0,3977 L,tp 7A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1030.0,Match!,MPEG-4/SD,1031.0,3627 L,tp 3A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1030.0,Match!,MPEG-4/SD,1031.0,3643 R,tp 3,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1030.0,Match!,MPEG-4/SD,1031.0,3704 L,tp 4A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1030.0,Match!,MPEG-4/SD,1031.0,3977 L,tp 7A,44-45,GoSTcrypt,,False,RTRS 1,P 0,,DVB-S2,Rus
+1040.0,NTV,MPEG-4/SD,1041.0,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1040.0,NTV,MPEG-4/SD,1041.0,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1040.0,NTV,MPEG-4/SD,1041.0,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1040.0,NTV,MPEG-4/SD,1041.0,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1050.0,5 Kanal,MPEG-4/SD,1051.0,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1050.0,5 Kanal,MPEG-4/SD,1051.0,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1050.0,5 Kanal,MPEG-4/SD,1051.0,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1050.0,5 Kanal,MPEG-4/SD,1051.0,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1060.0,Rossiya K,MPEG-4/SD,1061.0,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1060.0,Rossiya K,MPEG-4/SD,1061.0,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1060.0,Rossiya K,MPEG-4/SD,1061.0,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1060.0,Rossiya K,MPEG-4/SD,1061.0,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1080.0,Karusel,MPEG-4/SD,1081.0,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1080.0,Karusel,MPEG-4/SD,1081.0,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1080.0,Karusel,MPEG-4/SD,1081.0,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1080.0,Karusel,MPEG-4/SD,1081.0,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1100.0,TV Centr,MPEG-4/SD,1101.0,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1100.0,TV Centr,MPEG-4/SD,1101.0,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1100.0,TV Centr,MPEG-4/SD,1101.0,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1100.0,TV Centr,MPEG-4/SD,1101.0,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1110.0,Vesti FM,,,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1110.0,Vesti FM,,,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1110.0,Vesti FM,,,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1110.0,Vesti FM,,,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1120.0,Radio Mayak,,,3627 L,tp 3A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1120.0,Radio Mayak,,,3643 R,tp 3,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1120.0,Radio Mayak,,,3704 L,tp 4A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+1120.0,Radio Mayak,,,3977 L,tp 7A,44-45,,,False,RTRS 1,P 0,,DVB-S2,Rus
+,RTRS,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3627 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3643 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+,RTRS,8835-1,,3977 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS.html,True,RTRS,P 1,,DVB-S2,
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3627 L,tp 3A,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3643 R,tp 3,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3695 R,tp 4,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3704 R,tp 4,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3704 L,tp 4A,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3858 L,tp 6A,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3864 R,tp 6,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,3977 L,tp 7A,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1020.0,Rossiya 1 (0h),MPEG-4/SD,1021.0,4018 L,tp 8A,44-45,GoSTcrypt,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3627 L,tp 3A,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3643 R,tp 3,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3695 R,tp 4,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3704 R,tp 4,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3704 L,tp 4A,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3858 L,tp 6A,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3864 R,tp 6,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3881 R,tp 6,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,3977 L,tp 7A,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (0h),,,4018 L,tp 8A,44-45,,,False,RTRS,P 1,,DVB-S2,Rus
+,RTRS Tyumen,8835-2,,3628 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Tyumen.html,True,RTRS Tyumen,P 1,,DVB-S2,
+,RTRS 2,8835-11,,3654 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-2.html,True,RTRS 2,P 0,,DVB-S2,
+,RTRS 2,8835-11,,3654 L,tp 3A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-2.html,True,RTRS 2,P 0,,DVB-S2,
+,RTRS 2,8835-11,,3663 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-2.html,True,RTRS 2,P 0,,DVB-S2,
+,RTRS 2,8835-11,,3663 R,tp 3,44-45,,https://www.lyngsat.com/providers/ru/RTRS-2.html,True,RTRS 2,P 0,,DVB-S2,
+2010.0,REN TV,MPEG-4/SD,2011.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2010.0,REN TV,MPEG-4/SD,2011.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2020.0,Telekanal Spas,MPEG-4/SD,2021.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2020.0,Telekanal Spas,MPEG-4/SD,2021.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2030.0,STS,MPEG-4/SD,2031.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2030.0,STS,MPEG-4/SD,2031.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2040.0,Domashniy,MPEG-4/SD,2041.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2040.0,Domashniy,MPEG-4/SD,2041.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2050.0,TV 3,MPEG-4/SD,2051.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2050.0,TV 3,MPEG-4/SD,2051.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2060.0,Pyatnitsa!,MPEG-4/SD,2061.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2060.0,Pyatnitsa!,MPEG-4/SD,2061.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2070.0,Telekanal Zvezda,MPEG-4/SD,2071.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2070.0,Telekanal Zvezda,MPEG-4/SD,2071.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2080.0,Mir,MPEG-4/SD,2081.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2080.0,Mir,MPEG-4/SD,2081.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2090.0,TNT,MPEG-4/SD,2091.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2090.0,TNT,MPEG-4/SD,2091.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2100.0,Muz TV,MPEG-4/SD,2101.0,3654 L,tp 3A,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+2100.0,Muz TV,MPEG-4/SD,2101.0,3663 R,tp 3,44-45,,,False,RTRS 2,P 0,,DVB-S2,Rus
+,RTRS Chelyabinsk,8835-2,,3695 R,tp 4,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Chelyabinsk.html,True,RTRS Chelyabinsk,P 1,,DVB-S2,
+,RTRS Ufa,8835-2,,3704 R,tp 4,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Ufa.html,True,RTRS Ufa,P 1,,DVB-S2,
+,RTRS Sankt Peterburg,,,3704 L,tp 4A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Sankt-Peterburg.html,True,RTRS Sankt Peterburg,P 1,,DVB-S2,
+1.0,TRK Rus,65535-1MPEG-2/SD,308.0,3752 R,tp 4,44-45,,,False,RTRS Sankt Peterburg,3/4,3230,DVB-S3,Rus
+,RTRS Samara,8835-1,,3803 L,tp 5A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Samara.html,True,RTRS Samara,P 1,,DVB-S2,
+1.0,TRV Muji,65535-1MPEG-4/SD,33.0,3830 R,tp 5,44-45,,,False,RTRS Samara,3/4,1500,DVB-S1,Rus
+1.0,Avtoradio Yamal,,,3830 R,tp 5,44-45,,,False,RTRS Samara,3/4,1500,DVB-S1,Rus
+,RTRS Ekaterinburg,8835-2,,3857 R,tp 6,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Ekaterinburg.html,True,RTRS Ekaterinburg,P 1,,DVB-S2,
+,RTRS Udmurtia,8835-2,,3858 L,tp 6A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Udmurtia.html,True,RTRS Udmurtia,P 1,,DVB-S2,
+,RTRS Kurgan,8835-2,,3864 R,tp 6,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Kurgan.html,True,RTRS Kurgan,P 1,,DVB-S2,
+,RTRS Perm,8835-2,,3881 R,tp 6,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Perm.html,True,RTRS Perm,P 1,,DVB-S2,
+1020.0,GTRK Perm,MPEG-4/SD,1021.0,3881 R,tp 6,44-45,GoSTcrypt,,False,RTRS Perm,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24 Perm,MPEG-4/SD,1071.0,3881 R,tp 6,44-45,,,False,RTRS Perm,P 1,,DVB-S2,Rus
+,RTRS Astrakhan,8835-2,,3964 L,tp 7A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Astrakhan.html,True,RTRS Astrakhan,P 1,,DVB-S2,
+1020.0,Rossiya 1 (+1h),MPEG-4/SD,1021.0,3964 L,tp 7A,44-45,GoSTcrypt,,False,RTRS Astrakhan,P 1,,DVB-S2,Rus
+1070.0,Rossiya 24 (+1h),MPEG-4/SD,1071.0,3964 L,tp 7A,44-45,,,False,RTRS Astrakhan,P 1,,DVB-S2,Rus
+1130.0,Radio Rossii (+1h),,,3964 L,tp 7A,44-45,,,False,RTRS Astrakhan,P 1,,DVB-S2,Rus
+,RTRS Ulyanovsk,8835-2,,4018 L,tp 8A,44-45,,https://www.lyngsat.com/providers/ru/RTRS-Ulyanovsk.html,True,RTRS Ulyanovsk,P 1,,DVB-S2,
+,Gazprom Space Systems,1-2,,4037 L,tp 8A,44-45,,https://www.lyngsat.com/providers/ru/Gazprom-Space-Systems.html,True,Gazprom Space Systems,3/4,16000,DVB-S1,
+1.0,RTR Planeta,MPEG-2/SD,100.0,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,Rus
+3.0,Sputnik International,,,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,Eng
+4.0,Sputnik Türkiye,,,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,
+5.0,Radio Sputnik Moldova,,,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,Rum
+6.0,Radio Chanson Tyumen,,,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,Rus
+7.0,Avtoradio Tyumen,,,4037 L,tp 8A,44-45,,,False,Gazprom Space Systems,3/4,16000,DVB-S1,Rus

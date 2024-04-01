@@ -1,0 +1,20 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,Shaw Direct,530-?,,11092 V,tp 1,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11092 H,tp 9,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11122 V,tp 2,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11122 H,tp 10,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11152 V,tp 3,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11152 H,tp 11,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11183 V,tp 4,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11183 H,tp 12,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11592 V,tp 5,0.0,Digicipher,,False,,5/6,22000,Digici,
+,Shaw Direct,530-?,,11592 H,tp 13,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11622 V,tp 6,0.0,Digicipher,,False,,5/6,22000,Digici,
+,Shaw Direct,530-?,,11622 H,tp 14,0.0,Digicipher,,False,,8/9,22000,Digici,
+,Shaw Direct,530-?,,11652 V,tp 7,0.0,Digicipher,,False,,5/6,22000,Digici,
+1123.0,AMI-audio,,,11652 V,tp 7,0.0,Digicipher,,False,,5/6,22000,Digici,Eng
+1126.0,CKUA,,,11652 V,tp 7,0.0,Digicipher,,False,,5/6,22000,Digici,Eng
+,Shaw Direct,530-?,,11652 H,tp 15,0.0,Digicipher,,False,,5/6,22000,Digici,
+,Shaw Direct,530-?,,11683 V,tp 8,0.0,Digicipher,,False,,5/6,22000,Digici,
+,Shaw Direct,530-?,,11683 H,tp 16,0.0,Digicipher,,False,,2/3,20500,Digici,
+,,,,12017 V,tp S8K,,,,False,,,,,

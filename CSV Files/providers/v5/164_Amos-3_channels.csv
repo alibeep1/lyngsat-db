@@ -1,0 +1,37 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL
+10722 Vtp 11LMiddle East52-55,DVB-S275005/6,,Yes,,,,6.5,Videoguard,DX Bozóth230906,10722 V,tp 11L,52-55,Videoguard,,,
+10758 Vtp 11UMiddle East52-55,DVB-S275005/6,,Yes,,171-14,,6.5,Videoguard,DX Bozóth230906,10758 V,tp 11U,52-55,Videoguard,,,
+10806 VMiddle East52-55,DVB-S275005/6,,Yes,,,,6.5,Videoguard,DX Bozóth230909,10806 V,,52-55,Videoguard,,,
+10842 VMiddle East52-55,DVB-S28PSK300002/3,,Yes,,,,6.6,Videoguard,DX Bozóth220109,10842 V,,52-55,Videoguard,,,
+10890 VMiddle East52-55,DVB-S275005/6,,Yes,,,,6.5,Videoguard,DX Bozóth231219,10890 V,,52-55,Videoguard,,,
+10926 VMiddle East52-55,DVB-S275005/6,,Yes,,171-12,,6.5,Videoguard,DX Bozóth230125,10926 V,,52-55,Videoguard,,,
+10722 VEurope0,DVB-S28PSK300003/4,,T-Home,,100-1,,7.9,Conax,EnoSat230107,10722 V,,0,Conax,,,
+10758 VEurope0,DVB-S28PSK300003/4,,T-Home,,100-2,,7.9,Conax,Anonymous221109,10758 V,,0,Conax,,,
+10806 VEurope0,DVB-S28PSK300003/4,,T-Home,,100-5,,7.9,Conax,M Al-Taie240110,10806 V,,0,Conax,,,
+10842 VEurope0,DVB-S28PSK300003/4,,T-Home,,100-6,,7.9,Conax,M Al-Taie230401,10842 V,,0,Conax,,,
+11222 Htp 8LUkraine0,DVB-S28PSK300003/4,,T-Home,,100-3,,7.9,Conax,EnoSat230107,11222 H,tp 8L,0,Conax,,,
+11258 Htp 8UUkraine0,DVB-S28PSK300003/4,,T-Home,,100-4,,7.9,Conax,M Al-Taie221018,11258 H,tp 8U,0,Conax,,,
+10758 VEurope0,DVB-S28PSK300003/4,1212,[test card],,MPEG-4/SD,481,482,,,10758 V,,0,,,,
+11258 Htp 8UUkraine0,DVB-S28PSK300003/4,1414,[test card],,MPEG-4/SD,481,482,,,11258 H,tp 8U,0,,,,
+10926 VMiddle East52-55,DVB-S275005/6,1202,The Shopping Channel (Israel),,MPEG-2/SD,513,661 Heb,,,10926 V,,52-55,,,The Shopping Channel (Israel),https://www.lyngsat.com/tvchannels/il/The-Shopping-Channel.html
+10926 VMiddle East52-55,DVB-S275005/6,1202,The Shopping Channel (Israel),,MPEG-2/SD,513,661 Heb,,,10926 V,,52-55,,,The Shopping Channel (Israel),https://www.lyngsat.com/tvchannels/il/The-Shopping-Channel.html
+10926 VMiddle East52-55,DVB-S275005/6,1205,Knesset Channel,,MPEG-2/SD,516,664 Heb,,,10926 V,,52-55,,,Knesset Channel,https://www.lyngsat.com/tvchannels/il/Knesset-Channel.html
+10926 VMiddle East52-55,DVB-S275005/6,1215,Hala TV (Israel),,MPEG-2/SD,526,674 Ara,,,10926 V,,52-55,,,Hala TV (Israel),https://www.lyngsat.com/tvchannels/il/Hala-TV.html
+10926 VMiddle East52-55,DVB-S275005/6,1215,Hala TV (Israel),,MPEG-2/SD,526,674 Ara,,,10926 V,,52-55,,,Hala TV (Israel),https://www.lyngsat.com/tvchannels/il/Hala-TV.html
+11140 Htp 7Ukraine0,,,,,,,,,D ShimoniM Al-TaieEnoSat240105,11140 H,tp 7,0,,,,
+11175 Htp 7Ukraine0,,,,,,,,,D ShimoniM Al-TaieEnoSat240105,11175 H,tp 7,0,,,,
+11414 Htp 10UUkraine0,DVB-S216APSK12502/3,,,,,,,,Jamie A240127,11414 H,tp 10U,0,,,,
+11291 Htp 9Ukraine,DVB-S216APSK54542/3,,(feeds),,,,,,Jamie A230528,11291 H,tp 9,,,,,
+11304 Htp 9Ukraine0,DVB-S88893/4,,Antenna Hungária,,1-1,,5.5,ConaxVerimatrix,N Stanislav220425,11304 H,tp 9,0,"Conax,Verimatrix",https://www.lyngsat.com/providers/hu/Antenna-Hungaria.html,,
+11304 Htp 9Ukraine0,DVB-S88893/4,2,Hír TV,,MPEG-2/SD,200,201 Hun,Conax,,11304 H,tp 9,0,Conax,,Hír TV,https://www.lyngsat.com/tvchannels/hu/Hir-TV.html
+11304 Htp 9Ukraine0,DVB-S88893/4,9,Da Vinci,,MPEG-4/HD,900,901 Pol 902 Qaa 903 Hun 904 Ukr 905 Rus 906 Bul 907 Gre,ConaxVerimatrix,,11304 H,tp 9,0,"Conax,Verimatrix",,Da Vinci,https://www.lyngsat.com/tvchannels/de/Da-Vinci.html
+11304 Htp 9Ukraine0,DVB-S88893/4,10,Hír FM,,,,1001 Hun,Conax,,11304 H,tp 9,0,Conax,,Hír FM,https://www.lyngsat.com/radiochannels/hu/Hir-FM.html
+11304 Htp 9Ukraine0,DVB-S88893/4,10,Hír FM,,,,1001 Hun,Conax,,11304 H,tp 9,0,Conax,,Hír FM,https://www.lyngsat.com/radiochannels/hu/Hir-FM.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,,Tippmix,,1-1,,6.6,Conax,N Schlammer210724,11350 H,tp 9,0,Conax,https://www.lyngsat.com/providers/hu/Tippmix.html,,
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,1,Tippmix élo 1,,MPEG-4/HD,101,102 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 1,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-1.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,2,Tippmix élo 2,,MPEG-4/HD,201,202 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 2,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-2.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,3,Tippmix élo 3,,MPEG-4/HD,301,302 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 3,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-3.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,4,Tippmix élo 4,,MPEG-4/HD,401,402 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 4,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-4.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,5,Tippmix élo 5,,MPEG-4/HD,501,502 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 5,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-5.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,6,Tippmix élo 6,,MPEG-4/HD,601,602 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 6,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-6.html
+11350 Htp 9Ukraine0,DVB-S28PSK173332/3,7,Tippmix élo 7,,MPEG-4/HD,701,702 Hun,Conax,,11350 H,tp 9,0,Conax,,Tippmix élo 7,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-7.html

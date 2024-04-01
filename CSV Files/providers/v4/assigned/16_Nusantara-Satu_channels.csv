@@ -1,0 +1,6 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider
+3579 VC0,DVB-S197862/3,,{},,,,4.4,,Albert I240331,3579 V,,0,,,False,
+3772 HC0,,,,,,,,,Albert I240303,3772 H,,0,,,False,
+4013 HC0,DVB-S2QPSK40901/2,,PSN,,,,1.0,,Albert I240331,4013 H,,0,,https://www.lyngsat.com/providers/id/PSN.html,True,PSN
+4013 HC0,DVB-S2QPSK40901/2,1001.0,(PSN feeds),,,33.0,34,,,4013 H,,0,,,False,PSN
+4013 HC0,DVB-S2QPSK40901/2,1002.0,Elshinta TV,,MPEG-4/SD,36.0,37 Ind,,new,4013 H,,0,,,False,PSN

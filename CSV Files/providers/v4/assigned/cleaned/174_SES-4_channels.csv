@@ -1,0 +1,269 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages
+,(feeds),,,3726 R,tp EHR2,,,,False,,3/4,4400,DVB-S2,
+,(feeds),,,10977 H,tp EUH1,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,11001 H,tp 1,,,,False,,5/6,7200,DVB-S2,
+,(feeds),,,11162 H,tp EUH4,,BISS,,False,,5/6,14368,DVB-S2,
+,(feeds),,,11536 H,tp EUH6,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11547 H,tp EUH6,,,,False,,3/4,4875,DVB-S2,
+,(feeds),,,11555 H,tp EUH6,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,11573 H,tp EUH6,,,,False,,3/4,7000,DVB-S2,
+,(feeds),,,11654 H,tp EUH8,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,11667 H,tp EUH8,,,,False,,/10,75009,DVB-S2,
+,(feeds),,,11675 H,tp EUH8,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,11682 H,tp EUH8,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,11688 H,tp EUH8,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,11694 H,tp EUH8,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12512 H,tp EUH9,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12534 H,tp EUH9,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12545 H,tp EUH9,,,,False,,3/4,7000,DVB-S2,
+,(feeds),,,12553 H,tp EUH9,,,,False,,3/4,24800,DVB-S2,
+,(feeds),,,12559 H,tp EUH9,,,,False,,3/4,24800,DVB-S2,
+,(feeds),,,12577 H,tp EUH10,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12587 H,tp EUH10,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12595 H,tp EUH10,,,,False,,3/4,4800,DVB-S2,
+,(feeds),,,12605 H,tp EUH10,,,,False,,3/4,7200,DVB-S2,
+,(feeds),,,12612 H,tp EUH10,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12618 H,tp EUH10,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12625 H,tp EUH10,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12635 H,tp EUH11,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12642 H,tp EUH11,,,,False,,3/4,2400,DVB-S2,
+,(feeds),,,12650 H,tp EUH11,,,,False,,3/4,4610,DVB-S2,
+,(feeds),,,12656 H,tp EUH11,,,,False,,3/4,4610,DVB-S2,
+,Easy TV Côte d'Ivoire,183-900,,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,
+,Easy TV Côte d'Ivoire,183-902,,3749 L,tp EHL2,,Nagravision,,False,,P 2,,DVB-S2,
+,Easy TV Côte d'Ivoire,183-907,,3749 L,tp EHL2,,,,False,,P 5,,DVB-S2,
+101,RTI 1,MPEG-4/HD,1012.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+102,RTI 2,MPEG-4/HD,1022.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+103,RTI La 3,MPEG-4/HD,1032.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+104,La Nouvelle Chaîne Ivorienne,MPEG-4/HD,1042.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+105,A+ Ivoire,MPEG-4/HD,1052.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+106,Life TV (Ivory Coast),MPEG-4/HD,1062.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+107,7 Info,MPEG-4/HD,1072.0,3749 L,tp EHL2,,,,False,,P 0,,DVB-S2,Fre
+8114,Easy TV promo,HEVC/SD,1410.0,3749 L,tp EHL2,,,,False,,P 2,,DVB-S2,Fre
+200,Radio Côte d'Ivoire,,,3749 L,tp EHL2,,,,False,,P 5,,DVB-S2,Fre
+8453,Radio Côte d'Ivoire,,,12610 V,tp WAV15,0,,,False,,3/4,30000,DVB-S2,Fre
+1,Radio Maria Sierra Leone,0-0,,3867 R,tp EHR4,,,,False,,1/2,257,DVB-S2,Eng
+1,TV Cidade São Luíz,?-?MPEG-2/SD,33.0,3970 L,tp WHL12,0,,,False,,3/4,3332,DVB-S3,Por
+,TV Verdade,MPEG-4/HD,273.0,3974 L,tp WHL12,0,,,False,,5/6,3200,DVB-S2,Por
+,TV Cidade Fortaleza,,,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,True,TV Cidade Fortaleza,3/5,5983,DVB-S2,
+,TV Cidade Fortaleza,MPEG-4/HD,273.0,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,True,TV Cidade Fortaleza,3/5,5983,DVB-S2,Por
+,TV Cidade Fortaleza,MPEG-4/1seg,641.0,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,True,TV Cidade Fortaleza,3/5,5983,DVB-S2,Por
+,Clube FM 91.7,,,4015 L,tp WHL13,0,,,False,TV Cidade Fortaleza,3/5,5983,DVB-S2,Por
+,TV Leste,MPEG-4/HD,273.0,4021 L,tp WHL13,0,,,False,TV Cidade Fortaleza,3/4,3200,DVB-S2,Por
+,TV Asa Branca,MPEG-4/HD,273.0,4026 L,tp WHL13,0,,,False,TV Cidade Fortaleza,2/3,5000,DVB-S2,Por
+,CBN Caruaru,,,4026 L,tp WHL13,0,,,False,TV Cidade Fortaleza,2/3,5000,DVB-S2,Por
+,TV Jornal Caruaru,MPEG-2/SD,210.0,4034 L,tp WHL13,0,,,False,TV Cidade Fortaleza,3/4,2963,DVB-S2,Por
+1,Gabon 1ère,65535-1MPEG-4/HD,259.0,4044 L,tp EHL14,,,,False,TV Cidade Fortaleza,3/4,3360,DVB-S2,Fre
+1,Radio Gabon,,,4044 L,tp EHL14,,,,False,TV Cidade Fortaleza,3/4,3360,DVB-S2,Fre
+8351,Radio Gabon,,,12570 V,tp WAV14,0,,,False,TV Cidade Fortaleza,3/4,30000,DVB-S2,Fre
+,Rede Pampa de Rádios,,,4045 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/Rede-Pampa-de-Radios.html,True,Rede Pampa de Rádios,2/3,2500,DVB-S2,
+,104 FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Capão FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Cidreira FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Rádio Continental,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Liberdade,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Liberdade,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Rádio Eldorado,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Rádio Grenal,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Imbé FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Rádio Pampa,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Torres FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Tramandaí FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+,Xangri-lá FM,,,4045 R,tp WHR7,0,,,False,Rede Pampa de Rádios,2/3,2500,DVB-S2,Por
+1,Télé Africa,.-.MPEG-2/SD,33.0,4047 L,tp EHL14,,,,False,Rede Pampa de Rádios,3/4,1666,DVB-S2,Fre
+,TV Tambaú,MPEG-4/HD,273.0,4048 R,tp WHR7,0,,,False,Rede Pampa de Rádios,3/4,3750,DVB-S2,Por
+,TV Cidade Verde Piauí,,,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,True,TV Cidade Verde Piauí,5/6,5000,DVB-S2,
+,TV Cidade Verde Piauí,MPEG-4/HD,273.0,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,True,TV Cidade Verde Piauí,5/6,5000,DVB-S2,Por
+,TV Cidade Verde Piauí,MPEG-4/1seg,529.0,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,True,TV Cidade Verde Piauí,5/6,5000,DVB-S2,Por
+,Radio Cidade Verde 93.5,,,4058 L,tp WHL14,0,,,False,TV Cidade Verde Piauí,5/6,5000,DVB-S2,Por
+,Radio Cidade Verde 93.5,,,4058 L,tp WHL14,0,,,False,TV Cidade Verde Piauí,5/6,5000,DVB-S2,Por
+,TV Pampa,,,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,True,TV Pampa,5/6,6443,DVB-S2,
+,TV Pampa,MPEG-4/HD,97.0,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,True,TV Pampa,5/6,6443,DVB-S2,Por
+,TV Pampa,MPEG-4/1seg,529.0,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,True,TV Pampa,5/6,6443,DVB-S2,Por
+,TV Antena 10,,,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,True,TV Antena 10,3/4,3960,DVB-S2,
+,TV Antena 10,MPEG-4/HD,273.0,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,True,TV Antena 10,3/4,3960,DVB-S2,Por
+,TV Antena 10,MPEG-4/1seg,641.0,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,True,TV Antena 10,3/4,3960,DVB-S2,Por
+,Educa Piauí,MPEG-4/SD,33.0,4063 L,tp WHL14,0,,,False,TV Antena 10,3/4,3960,DVB-S2,Por
+,TV Tropical,,,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,True,TV Tropical,3/4,4995,DVB-S2,
+,TV Tropical,MPEG-4/1seg,768.0,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,True,TV Tropical,3/4,4995,DVB-S2,Por
+,TV Tropical,MPEG-4/HD,769.0,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,True,TV Tropical,3/4,4995,DVB-S2,Por
+,,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,
+,,,,12697 H,tp EUH12,48-50,,,False,TV Tropical,,,,
+,,,,12744 H,tp EUH12,48-50,,,False,TV Tropical,,,,
+,Brasileira Sat,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Plus FM,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Rádio BSD,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Rádio Liderança,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Boa FM,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Mix FM Teresina,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Feliz FM,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,Meio Norte FM,,,4075 R,tp WHR7,0,,,False,TV Tropical,2/3,2500,DVB-S2,Por
+,TV Correio,,,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,True,TV Correio,2/3,5416,DVB-S2,
+,TV Correio,MPEG-4/HD,768.0,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,True,TV Correio,2/3,5416,DVB-S2,Por
+,TV Correio,MPEG-4/1seg,769.0,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,True,TV Correio,2/3,5416,DVB-S2,Por
+1-1,(Encompass feeds),1-1,,4138 R,tp GLR10,,,,False,TV Correio,1/2,2170,DVB-S2,
+1,Radio Ndarason Internationale,,,4138 R,tp GLR10,,,,False,TV Correio,1/2,2170,DVB-S2,
+,Canal + Afrique,7-802,,10986 V,tp WAV1,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,7-401,,11051 V,tp WAV2,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,1-1,,11111 V,tp WAV3,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,7-809,,11171 V,tp WAV4,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,7-400,,11551 V,tp WAV6,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,7-808,,11611 V,tp WAV7,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,45000,DVB-S2,
+,Canal + Afrique,318-15600,,11671 V,tp WAV8,0,"Mediaguard,Nagravision",,False,TV Correio,5/6,30000,DVB-S3,
+,Canal + Afrique,7-801,,12530 V,tp WAV13,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+,Canal + Afrique,7-803,,12570 V,tp WAV14,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+,Canal + Afrique,7-804,,12610 V,tp WAV15,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+,Canal + Afrique,7-805,,12650 V,tp WAV16,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+,Canal + Afrique,7-806,,12690 V,tp WAV17,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+,Canal + Afrique,7-807,,12730 V,tp WAV18,0,"Mediaguard,Nagravision",,False,TV Correio,3/4,30000,DVB-S2,
+8250,Africa Radio,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8251,Radio Lomé,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8252,Océane,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8253,FIM FM,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8254,Europe 1 (France),,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8255,Jazz Radio,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8256,Hit Radio Côte d'Ivoire,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8257,Radio Congo,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8259,Radio Bénin,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8260,RTB Radio,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8261,Fréquence 2,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+8262,Radio Sénégal International,,,10986 V,tp WAV1,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4260,Radio Kadi FM,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4261,Joliba FM,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4262,Wat FM,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4263,Renouveau FM,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4264,Diaspora FM,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4265,Asonga Radio,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Spa
+4266,RadioStar,,,11111 V,tp WAV3,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+1,Reuters Live,1-1MPEG-4/HD,3551.0,11126 H,tp EUH3,48-50,,,False,TV Correio,3/5,17250,DVB-S2,Eng
+1,Reuters Live,?-?/HD,3551.0,12058 V,tp SCV18,,,,False,TV Correio,500,215,DVB-S2,
+8910,Voir + Afrique,HEVC/HD,1010.0,11171 V,tp WAV4,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+4025,Voir + Ivoire,HEVC/HD,2510.0,11551 V,tp WAV6,0,,,False,TV Correio,3/4,45000,DVB-S2,Fre
+64,Miracle TV+,MPEG-4/SD,299.0,11671 V,tp WAV8,0,,,False,TV Correio,5/6,30000,DVB-S3,Eng
+39,Medi 1 Afrique,,,11671 V,tp WAV8,0,,,False,TV Correio,5/6,30000,DVB-S3,Fre
+101,RFI Afrique,,,11671 V,tp WAV8,0,,,False,TV Correio,5/6,30000,DVB-S3,Fre
+710,Guira FM,,,11671 V,tp WAV8,0,,,False,TV Correio,5/6,30000,DVB-S3,Fre
+,@ EasyBand,,,11921 H,tp SCH4,0,,,False,TV Correio,3/4,35000,DVB-S3,
+1,TV Ponta Negra,?-?/SD,482.0,12002 V,,,,,False,TV Correio,500,22,DVB-S2,Por
+,(CNN feeds),,,12037 H,tp NAH6,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12076 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12082 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12089 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12095 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12119 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+,(CNN feeds),,,12125 H,tp NAH7,,,,False,TV Correio,3/4,4610,DVB-S2,
+8150,Golfe FM Africa,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8151,ORTM Radio Mali,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8152,ORTM Chaîne 2,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8157,Savane FM,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8158,B-One Radio,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8159,Radio Sahel,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8160,Radio Tchad,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8161,FM Fulbe,,,12530 V,tp WAV13,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8350,Radio Equionxe,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8352,I Radio 90.3,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8353,Radio de la Paix,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8354,Radio Omega,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8355,Kalac Radio,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8356,Radio Notre Dame International,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8357,Franceinfo: Radio,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8358,Top Congo FM,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8359,Ouaga FM,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8360,Radio Jam,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8361,Radio Al Bayane,,,12570 V,tp WAV14,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8451,RFM (France),,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8452,CRTV National Radio,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8455,Radio Guinée,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8456,Radio Okapi,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8457,Radio Okapi Enfant,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8458,Alpha Blondy FM,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8459,Radio Legende,,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,
+8461,Sweet FM (Guinea),,,12610 V,tp WAV15,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8550,Radio Sango Malamu,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8551,Vibe Radio,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8552,Radio One (Mauritius),,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8553,Nana FM,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8554,Victoire FM,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8555,Afrik Info FM,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8556,Radio Kledu,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8557,Radio Jekafo,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8558,Sud FM,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8559,Lamp Fall FM,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8560,Trace FM Côte d'Ivoire,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+8561,Radio Balafon,,,12650 V,tp WAV16,0,,,False,TV Correio,3/4,30000,DVB-S2,Fre
+,TDA,65535-1,,12674 H,tp EUH11,48-50,,https://www.lyngsat.com/providers/dz/TDA.html,True,TDA,3/4,20740,DVB-S2,
+1,TV 6 (Algeria),MPEG-2/SD,512.0,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+2,Canal Algérie 2,MPEG-2/SD,515.0,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+3,Thalitha A3,MPEG-2/SD,514.0,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+4,ENTV,MPEG-2/SD,513.0,12674 H,tp EUH11,48-50,BISS 1,,False,TDA,3/4,20740,DVB-S2,Ara
+26,TV 5 Coran,MPEG-2/SD,516.0,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+27,TV 4 Amazigh,MPEG-2/SD,517.0,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+6,Radio Décrochage,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+7,Chaîne 2,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ber
+8,Chaîne 3,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Fre
+9,Ifrikya FM,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Fre
+10,Radio Ouargla,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+11,Radio Tamanrasset,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+12,Radio Béchar,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+13,Radio Tlemcen,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+14,Radio Adrar,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+15,Radio Ghardaïa,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+16,Radio Illizi,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+17,Radio Algérie Internationale,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+18,Radio El Oued,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+19,Radio Tindouf,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+20,Radio Batna,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+21,Radio Jijel,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+22,Radio Souk Ahras,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+23,Radio Laghouat,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+24,Radio Naâma,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+25,Chaîne 1,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+29,Radio Blida,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+30,Radio El Tarf,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+31,Radio Médéa,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+32,Radio Mila,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+33,Radio Saïda,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+34,Radio Skikda,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+35,Radio Mascara,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+36,Radio Guelma,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+37,Radio Aïn Témouchent,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+38,Radio Khenchela,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+39,Radio Béjaïa,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+40,Radio Bouira,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+41,Radio Relizane,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+42,Radio Annaba,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+43,Radio Tizi Ouzou,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+44,Radio Tissemsilt,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+45,Radio El Bayadh,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+46,Radio Tebessa,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+47,Radio Djelfa,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+48,Radio Aïn Defla,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+49,Radio Tipaza,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+50,Radio Boumerdès,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+51,Radio Oran,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+52,Radio Tiaret,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+53,Radio Mostaganem,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+54,Radio M'Sila,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+55,Radio Bordj Bou Arreridj,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+56,Radio Sétif,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Fre
+57,Radio Biskra,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+58,Radio Constantine,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+59,Radio Oum El Bouaghi,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+60,Radio Chlef,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+61,Radio Sidi Bel Abbès,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,
+63,Radio Coran (Algeria),,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+662,Radio El Bahdja,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+664,Radio Culture,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Ara
+665,Jil FM,,,12674 H,tp EUH11,48-50,,,False,TDA,3/4,20740,DVB-S2,Fre
+8750,Zik FM,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8751,Radio Mucodec,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8752,Sabari FM,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8753,Walf FM,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8754,Life Radio (Ivory Coast),,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8755,Voice of America,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,
+8757,Nostalgie Guinée,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8758,Chérie FM Guinée,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8759,Radio Ndeke Luka,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8760,Hit Radio RCA,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8761,CIS Radio,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre
+8762,Maquis FM,,,12730 V,tp WAV18,0,,,False,TDA,3/4,30000,DVB-S2,Fre

@@ -1,0 +1,35 @@
+SID,Provider/Channel,Compression,VPID,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,FEC,SR,SYSTEM,Languages,Channel_Country
+,Movistar,,,10728 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,10728 V,,0.0,"Conax,Nagravision",,,,False,,3/4,30000.0,DVB-S2,,
+,Movistar,,,10768 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,10768 V,,0.0,"Conax,Nagravision",,,,False,,2/3,30000.0,DVB-S2,,
+,Movistar,,,10808 H,,0.0,Nagravision,,,,False,,2/3,30000.0,DVB-S2,,
+,Movistar,,,10808 V,,0.0,Nagravision,,,,False,,888,28.0,DVB-S2,,
+,Movistar,,,10848 H,,0.0,"Conax,Nagravision",,,,False,,2/3,30000.0,DVB-S2,,
+,Movistar,,,10888 H,,0.0,Nagravision,,,,False,,888,28.0,DVB-S2,,
+,Movistar,,,10928 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,11222 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,11262 H,,0.0,Nagravision,,,,False,,2/3,30000.0,DVB-S2,,
+,Movistar,,,11302 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,11342 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,11382 H,,0.0,Nagravision,,,,False,,3/4,28888.0,DVB-S2,,
+,Movistar,,,11422 H,,0.0,"Conax,Nagravision",,,,False,,2/3,30000.0,DVB-S2,,
+101.0,[Inter info card],MPEG-2/SD,2710.0,10728 H,,0.0,,,,,False,,3/4,28888.0,DVB-S2,Spa,
+107.0,TV Perú,MPEG-2/SD,2113.0,10728 H,,0.0,,,TV Perú,https://www.lyngsat.com/tvchannels/pe/TV-Peru.html,False,,3/4,28888.0,DVB-S2,Spa,pe
+439.0,EWTN España - Latinoamérica,MPEG-2/SD,2119.0,10768 H,,0.0,,,EWTN España - Latinoamérica,https://www.lyngsat.com/tvchannels/us/EWTN-Espana---Latinoamerica.html,False,,3/4,28888.0,DVB-S2,Spa,us
+439.0,EWTN España - Latinoamérica,MPEG-2/SD,2119.0,10768 H,,0.0,,,EWTN España - Latinoamérica,https://www.lyngsat.com/tvchannels/us/EWTN-Espana---Latinoamerica.html,False,,3/4,28888.0,DVB-S2,Spa,us
+362.0,Travelxp HD,MPEG-4/HD,2185.0,10808 H,,0.0,,,Travelxp HD,https://www.lyngsat.com/tvchannels/in/Travelxp-HD.html,False,,2/3,30000.0,DVB-S2,Spa,in
+1772.0,TVC (Ecuador),MPEG-2/SD,2880.0,10808 V,,0.0,,,TVC (Ecuador),https://www.lyngsat.com/tvchannels/ec/TVC.html,False,,888,28.0,DVB-S2,Spa,ec
+1772.0,TVC (Ecuador),MPEG-2/SD,2880.0,10808 V,,0.0,,,TVC (Ecuador),https://www.lyngsat.com/tvchannels/ec/TVC.html,False,,888,28.0,DVB-S2,Spa,ec
+805.0,TV+,MPEG-4/HD,2242.0,10848 H,,0.0,,,TV+,https://www.lyngsat.com/tvchannels/cl/TV-.html,False,,2/3,30000.0,DVB-S2,Spa,cl
+805.0,TV+,MPEG-4/HD,2242.0,10848 H,,0.0,,,TV+,https://www.lyngsat.com/tvchannels/cl/TV-.html,False,,2/3,30000.0,DVB-S2,Spa,cl
+118.0,TV+,MPEG-2/SD,2276.0,10888 H,,0.0,,,TV+,https://www.lyngsat.com/tvchannels/cl/TV-.html,False,,888,28.0,DVB-S2,Spa,cl
+118.0,TV+,MPEG-2/SD,2276.0,10888 H,,0.0,,,TV+,https://www.lyngsat.com/tvchannels/cl/TV-.html,False,,888,28.0,DVB-S2,Spa,cl
+2.0,Aprende TV,?-?MPEG-2/SD,308.0,11072 H,,,,,,,False,,001,3.0,DVB-S3,Spa,
+201.0,TV Perú Noticias,MPEG-2/SD,2226.0,11222 H,,0.0,,,TV Perú Noticias,https://www.lyngsat.com/tvchannels/pe/TV-Peru-Noticias.html,False,,3/4,28888.0,DVB-S2,Spa,pe
+201.0,TV Perú Noticias,MPEG-2/SD,2226.0,11222 H,,0.0,,,TV Perú Noticias,https://www.lyngsat.com/tvchannels/pe/TV-Peru-Noticias.html,False,,3/4,28888.0,DVB-S2,Spa,pe
+152.0,Canal Institucional TV,MPEG-2/SD,3015.0,11302 H,,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,False,,3/4,28888.0,DVB-S2,Spa,co
+152.0,Canal Institucional TV,MPEG-2/SD,3015.0,11302 H,,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,False,,3/4,28888.0,DVB-S2,Spa,co
+,(feeds),,,12132 H,,,,,,,False,,500,27.0,DVB-S2,,
+,,,,,,,,,DVB-S3001,,False,,,,,,
+,,,,,,,,,DVB-S3001,,False,,,,,,
