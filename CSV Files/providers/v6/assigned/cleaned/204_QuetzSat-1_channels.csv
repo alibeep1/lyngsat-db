@@ -1,0 +1,12 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,TV Méxiquense,,,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,
+,TV Méxiquense,,,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,
+1.0,TV Méxiquense,MPEG-2/HD,49.0,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,Spa
+1.0,TV Méxiquense,MPEG-2/HD,49.0,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,Spa
+4.0,TV Méxiquense,MPEG-4/HD,65.0,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,Spa
+4.0,TV Méxiquense,MPEG-4/HD,65.0,DVB-S2,10500,3/4,12276 R,tp 5,,,https://www.lyngsat.com/providers/mx/TV-Mexiquense.html,TV Méxiquense,https://www.lyngsat.com/tvchannels/mx/TV-Mexiquense.html,,,True,TV Méxiquense,Spa
+2.0,AMX Noticias,MPEG-2/SD,79.0,DVB-S2,10500,3/4,12276 R,tp 5,,,,AMX Noticias,https://www.lyngsat.com/tvchannels/mx/AMX-Noticias.html,,,False,TV Méxiquense,Spa
+3.0,AMX Noticias +1,MPEG-2/SD,89.0,DVB-S2,10500,3/4,12276 R,tp 5,,,,AMX Noticias +1,https://www.lyngsat.com/tvchannels/mx/AMX-Noticias--1.html,,,False,TV Méxiquense,Spa
+4.0,Radio Méxiquense 91.1 FM,,,DVB-S2,10500,3/4,12276 R,tp 5,,,,Radio Méxiquense 91.1 FM,https://www.lyngsat.com/radiochannels/mx/Radio-Mexiquense-911-FM.html,,,False,TV Méxiquense,Spa
+4.0,Radio Méxiquense 1600 AM,,,DVB-S2,10500,3/4,12276 R,tp 5,,,,Radio Méxiquense 1600 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Mexiquense-1600-AM.html,,,False,TV Méxiquense,Spa
+150.0,Dishome promo,MPEG-2/SD,5922.0,DVB-S,20000,5/6,12486 R,tp 19,,,,,,,,False,TV Méxiquense,Spa

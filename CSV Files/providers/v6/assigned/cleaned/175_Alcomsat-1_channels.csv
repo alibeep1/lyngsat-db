@@ -1,0 +1,158 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,TDA,0-0,,DVB-S2,30000,2/3,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,0-0,,DVB-S2,30000,2/3,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,0-0,,DVB-S2,30000,2/3,12160 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,15910,3/4,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,15910,3/4,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,15910,3/4,12232 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,12510,3/4,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,12510,3/4,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+,TDA,,,DVB-S,12510,3/4,12250 H,,,,https://www.lyngsat.com/providers/dz/TDA.html,,,True,TDA,
+1.0,ENTV,MPEG-4/HD,513.0,DVB-S2,30000,2/3,12160 H,,,BISS,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,False,TDA,Ara
+1.0,ENTV,MPEG-4/HD,513.0,DVB-S2,30000,2/3,12160 H,,,BISS,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,False,TDA,Ara
+1.0,ENTV,MPEG-2/SD,513.0,DVB-S,15910,3/4,12232 H,,,BISS,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,False,TDA,Ara
+1.0,ENTV,MPEG-2/SD,513.0,DVB-S,15910,3/4,12232 H,,,BISS,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,False,TDA,Ara
+2.0,Canal Algérie 2,MPEG-4/HD,515.0,DVB-S2,30000,2/3,12160 H,,,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,False,TDA,Ara
+2.0,Canal Algérie 2,MPEG-4/HD,515.0,DVB-S2,30000,2/3,12160 H,,,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,False,TDA,Ara
+2.0,Canal Algérie 2,MPEG-2/SD,515.0,DVB-S,15910,3/4,12232 H,,,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,False,TDA,Ara
+2.0,Canal Algérie 2,MPEG-2/SD,515.0,DVB-S,15910,3/4,12232 H,,,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,False,TDA,Ara
+4.0,TV 4 Amazigh,MPEG-4/SD,517.0,DVB-S2,30000,2/3,12160 H,,,,,TV 4 Amazigh,https://www.lyngsat.com/tvchannels/dz/TV-4-Amazigh.html,False,TDA,
+4.0,TV 4 Amazigh,MPEG-4/SD,517.0,DVB-S2,30000,2/3,12160 H,,,,,TV 4 Amazigh,https://www.lyngsat.com/tvchannels/dz/TV-4-Amazigh.html,False,TDA,
+4.0,TV 4 Amazigh,MPEG-2/SD,517.0,DVB-S,15910,3/4,12232 H,,,,,TV 4 Amazigh,https://www.lyngsat.com/tvchannels/dz/TV-4-Amazigh.html,False,TDA,
+4.0,TV 4 Amazigh,MPEG-2/SD,517.0,DVB-S,15910,3/4,12232 H,,,,,TV 4 Amazigh,https://www.lyngsat.com/tvchannels/dz/TV-4-Amazigh.html,False,TDA,
+5.0,TV 5 Coran,MPEG-4/SD,516.0,DVB-S2,30000,2/3,12160 H,,,,,TV 5 Coran,https://www.lyngsat.com/tvchannels/dz/TV-5-Coran.html,False,TDA,Ara
+5.0,TV 5 Coran,MPEG-4/SD,516.0,DVB-S2,30000,2/3,12160 H,,,,,TV 5 Coran,https://www.lyngsat.com/tvchannels/dz/TV-5-Coran.html,False,TDA,Ara
+5.0,TV 5 Coran,MPEG-2/SD,516.0,DVB-S,15910,3/4,12232 H,,,,,TV 5 Coran,https://www.lyngsat.com/tvchannels/dz/TV-5-Coran.html,False,TDA,Ara
+5.0,TV 5 Coran,MPEG-2/SD,516.0,DVB-S,15910,3/4,12232 H,,,,,TV 5 Coran,https://www.lyngsat.com/tvchannels/dz/TV-5-Coran.html,False,TDA,Ara
+6.0,TV 6 (Algeria),MPEG-4/HD,512.0,DVB-S2,30000,2/3,12160 H,,,,,TV 6 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-6.html,False,TDA,Ara
+6.0,TV 6 (Algeria),MPEG-4/HD,512.0,DVB-S2,30000,2/3,12160 H,,,,,TV 6 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-6.html,False,TDA,Ara
+6.0,TV 6 (Algeria),MPEG-2/SD,512.0,DVB-S,15910,3/4,12232 H,,,,,TV 6 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-6.html,False,TDA,Ara
+6.0,TV 6 (Algeria),MPEG-2/SD,512.0,DVB-S,15910,3/4,12232 H,,,,,TV 6 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-6.html,False,TDA,Ara
+7.0,TV 7 (Algeria),MPEG-2/SD,701.0,DVB-S2,30000,2/3,12160 H,,,,,TV 7 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-7.html,False,TDA,Ara
+8.0,TV 8 (Algeria),MPEG-2/SD,801.0,DVB-S2,30000,2/3,12160 H,,,,,TV 8 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-8.html,False,TDA,Ara
+9.0,TV 9 (Algeria),MPEG-4/HD,901.0,DVB-S2,30000,2/3,12160 H,,,,,TV 9 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-9.html,False,TDA,Ara
+20.0,RASD TV,MPEG-2/SD,520.0,DVB-S2,30000,2/3,12160 H,,,,,RASD TV,https://www.lyngsat.com/tvchannels/eh/RASD-TV.html,False,TDA,Ara
+20.0,RASD TV,MPEG-2/SD,520.0,DVB-S2,30000,2/3,12160 H,,,,,RASD TV,https://www.lyngsat.com/tvchannels/eh/RASD-TV.html,False,TDA,Ara
+25.0,Thalitha A3,MPEG-4/HD,101.0,DVB-S2,30000,2/3,12160 H,,,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,False,TDA,Ara
+25.0,Thalitha A3,MPEG-4/HD,101.0,DVB-S2,30000,2/3,12160 H,,,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,False,TDA,Ara
+3.0,Thalitha A3,MPEG-2/SD,514.0,DVB-S,15910,3/4,12232 H,,,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,False,TDA,Ara
+3.0,Thalitha A3,MPEG-2/SD,514.0,DVB-S,15910,3/4,12232 H,,,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,False,TDA,Ara
+6.0,Radio Décrochage,,,DVB-S,12510,3/4,12250 H,,,,,Radio Décrochage,https://www.lyngsat.com/radiochannels/dz/Radio-Decrochage.html,False,TDA,
+7.0,Chaîne 2,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 2,https://www.lyngsat.com/radiochannels/dz/Chaine-2.html,False,TDA,Ber
+7.0,Chaîne 2,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 2,https://www.lyngsat.com/radiochannels/dz/Chaine-2.html,False,TDA,Ber
+8.0,Chaîne 3,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 3,https://www.lyngsat.com/radiochannels/dz/Chaine-3.html,False,TDA,Fre
+8.0,Chaîne 3,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 3,https://www.lyngsat.com/radiochannels/dz/Chaine-3.html,False,TDA,Fre
+9.0,Radio Sahel,,,DVB-S,12510,3/4,12250 H,,,,,Radio Sahel,https://www.lyngsat.com/radiochannels/dz/Radio-Sahel.html,False,TDA,Ara
+10.0,Radio Ouargla,,,DVB-S,12510,3/4,12250 H,,,,,Radio Ouargla,https://www.lyngsat.com/radiochannels/dz/Radio-Ouargla.html,False,TDA,Ara
+10.0,Radio Ouargla,,,DVB-S,12510,3/4,12250 H,,,,,Radio Ouargla,https://www.lyngsat.com/radiochannels/dz/Radio-Ouargla.html,False,TDA,Ara
+11.0,Radio Tamanrasset,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tamanrasset,https://www.lyngsat.com/radiochannels/dz/Radio-Tamanrasset.html,False,TDA,Ara
+11.0,Radio Tamanrasset,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tamanrasset,https://www.lyngsat.com/radiochannels/dz/Radio-Tamanrasset.html,False,TDA,Ara
+12.0,Radio Béchar,,,DVB-S,12510,3/4,12250 H,,,,,Radio Béchar,https://www.lyngsat.com/radiochannels/dz/Radio-Bechar.html,False,TDA,
+12.0,Radio Béchar,,,DVB-S,12510,3/4,12250 H,,,,,Radio Béchar,https://www.lyngsat.com/radiochannels/dz/Radio-Bechar.html,False,TDA,
+13.0,Radio Tlemcen,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tlemcen,https://www.lyngsat.com/radiochannels/dz/Radio-Tlemcen.html,False,TDA,
+13.0,Radio Tlemcen,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tlemcen,https://www.lyngsat.com/radiochannels/dz/Radio-Tlemcen.html,False,TDA,
+14.0,Radio Adrar,,,DVB-S,12510,3/4,12250 H,,,,,Radio Adrar,https://www.lyngsat.com/radiochannels/dz/Radio-Adrar.html,False,TDA,Ara
+14.0,Radio Adrar,,,DVB-S,12510,3/4,12250 H,,,,,Radio Adrar,https://www.lyngsat.com/radiochannels/dz/Radio-Adrar.html,False,TDA,Ara
+15.0,Radio Ghardaïa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Ghardaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Ghardaia.html,False,TDA,Ara
+15.0,Radio Ghardaïa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Ghardaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Ghardaia.html,False,TDA,Ara
+16.0,Radio Illizi,,,DVB-S,12510,3/4,12250 H,,,,,Radio Illizi,https://www.lyngsat.com/radiochannels/dz/Radio-Illizi.html,False,TDA,
+16.0,Radio Illizi,,,DVB-S,12510,3/4,12250 H,,,,,Radio Illizi,https://www.lyngsat.com/radiochannels/dz/Radio-Illizi.html,False,TDA,
+17.0,Radio Algérie Internationale,,,DVB-S,12510,3/4,12250 H,,,,,Radio Algérie Internationale,https://www.lyngsat.com/radiochannels/dz/Radio-Algerie-Internationale.html,False,TDA,Ara
+17.0,Radio Algérie Internationale,,,DVB-S,12510,3/4,12250 H,,,,,Radio Algérie Internationale,https://www.lyngsat.com/radiochannels/dz/Radio-Algerie-Internationale.html,False,TDA,Ara
+18.0,Radio El Oued,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Oued,https://www.lyngsat.com/radiochannels/dz/Radio-El-Oued.html,False,TDA,
+18.0,Radio El Oued,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Oued,https://www.lyngsat.com/radiochannels/dz/Radio-El-Oued.html,False,TDA,
+19.0,Radio Tindouf,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tindouf,https://www.lyngsat.com/radiochannels/dz/Radio-Tindouf.html,False,TDA,Ara
+19.0,Radio Tindouf,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tindouf,https://www.lyngsat.com/radiochannels/dz/Radio-Tindouf.html,False,TDA,Ara
+20.0,Radio Batna,,,DVB-S,12510,3/4,12250 H,,,,,Radio Batna,https://www.lyngsat.com/radiochannels/dz/Radio-Batna.html,False,TDA,
+20.0,Radio Batna,,,DVB-S,12510,3/4,12250 H,,,,,Radio Batna,https://www.lyngsat.com/radiochannels/dz/Radio-Batna.html,False,TDA,
+21.0,Radio Jijel,,,DVB-S,12510,3/4,12250 H,,,,,Radio Jijel,https://www.lyngsat.com/radiochannels/dz/Radio-Jijel.html,False,TDA,
+21.0,Radio Jijel,,,DVB-S,12510,3/4,12250 H,,,,,Radio Jijel,https://www.lyngsat.com/radiochannels/dz/Radio-Jijel.html,False,TDA,
+22.0,Radio Souk Ahras,,,DVB-S,12510,3/4,12250 H,,,,,Radio Souk Ahras,https://www.lyngsat.com/radiochannels/dz/Radio-Souk-Ahras.html,False,TDA,Ara
+22.0,Radio Souk Ahras,,,DVB-S,12510,3/4,12250 H,,,,,Radio Souk Ahras,https://www.lyngsat.com/radiochannels/dz/Radio-Souk-Ahras.html,False,TDA,Ara
+23.0,Radio Laghouat,,,DVB-S,12510,3/4,12250 H,,,,,Radio Laghouat,https://www.lyngsat.com/radiochannels/dz/Radio-Laghouat.html,False,TDA,
+23.0,Radio Laghouat,,,DVB-S,12510,3/4,12250 H,,,,,Radio Laghouat,https://www.lyngsat.com/radiochannels/dz/Radio-Laghouat.html,False,TDA,
+24.0,Radio Naâma,,,DVB-S,12510,3/4,12250 H,,,,,Radio Naâma,https://www.lyngsat.com/radiochannels/dz/Radio-Naama.html,False,TDA,
+24.0,Radio Naâma,,,DVB-S,12510,3/4,12250 H,,,,,Radio Naâma,https://www.lyngsat.com/radiochannels/dz/Radio-Naama.html,False,TDA,
+25.0,Chaîne 1,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 1,https://www.lyngsat.com/radiochannels/dz/Chaine-1.html,False,TDA,Ara
+25.0,Chaîne 1,,,DVB-S,12510,3/4,12250 H,,,,,Chaîne 1,https://www.lyngsat.com/radiochannels/dz/Chaine-1.html,False,TDA,Ara
+29.0,Radio Blida,,,DVB-S,12510,3/4,12250 H,,,,,Radio Blida,https://www.lyngsat.com/radiochannels/dz/Radio-Blida.html,False,TDA,
+29.0,Radio Blida,,,DVB-S,12510,3/4,12250 H,,,,,Radio Blida,https://www.lyngsat.com/radiochannels/dz/Radio-Blida.html,False,TDA,
+30.0,Radio El Tarf,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Tarf,https://www.lyngsat.com/radiochannels/dz/Radio-El-Tarf.html,False,TDA,Ara
+30.0,Radio El Tarf,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Tarf,https://www.lyngsat.com/radiochannels/dz/Radio-El-Tarf.html,False,TDA,Ara
+31.0,Radio Médéa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Médéa,https://www.lyngsat.com/radiochannels/dz/Radio-Medea.html,False,TDA,
+31.0,Radio Médéa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Médéa,https://www.lyngsat.com/radiochannels/dz/Radio-Medea.html,False,TDA,
+32.0,Radio Mila,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mila,https://www.lyngsat.com/radiochannels/dz/Radio-Mila.html,False,TDA,
+32.0,Radio Mila,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mila,https://www.lyngsat.com/radiochannels/dz/Radio-Mila.html,False,TDA,
+33.0,Radio Saïda,,,DVB-S,12510,3/4,12250 H,,,,,Radio Saïda,https://www.lyngsat.com/radiochannels/dz/Radio-Saida.html,False,TDA,
+33.0,Radio Saïda,,,DVB-S,12510,3/4,12250 H,,,,,Radio Saïda,https://www.lyngsat.com/radiochannels/dz/Radio-Saida.html,False,TDA,
+34.0,Radio Skikda,,,DVB-S,12510,3/4,12250 H,,,,,Radio Skikda,https://www.lyngsat.com/radiochannels/dz/Radio-Skikda.html,False,TDA,
+34.0,Radio Skikda,,,DVB-S,12510,3/4,12250 H,,,,,Radio Skikda,https://www.lyngsat.com/radiochannels/dz/Radio-Skikda.html,False,TDA,
+35.0,Radio Mascara,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mascara,https://www.lyngsat.com/radiochannels/dz/Radio-Mascara.html,False,TDA,
+35.0,Radio Mascara,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mascara,https://www.lyngsat.com/radiochannels/dz/Radio-Mascara.html,False,TDA,
+36.0,Radio Guelma,,,DVB-S,12510,3/4,12250 H,,,,,Radio Guelma,https://www.lyngsat.com/radiochannels/dz/Radio-Guelma.html,False,TDA,
+36.0,Radio Guelma,,,DVB-S,12510,3/4,12250 H,,,,,Radio Guelma,https://www.lyngsat.com/radiochannels/dz/Radio-Guelma.html,False,TDA,
+37.0,Radio Aïn Témouchent,,,DVB-S,12510,3/4,12250 H,,,,,Radio Aïn Témouchent,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Temouchent.html,False,TDA,
+37.0,Radio Aïn Témouchent,,,DVB-S,12510,3/4,12250 H,,,,,Radio Aïn Témouchent,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Temouchent.html,False,TDA,
+38.0,Radio Khenchela,,,DVB-S,12510,3/4,12250 H,,,,,Radio Khenchela,https://www.lyngsat.com/radiochannels/dz/Radio-Khenchela.html,False,TDA,
+38.0,Radio Khenchela,,,DVB-S,12510,3/4,12250 H,,,,,Radio Khenchela,https://www.lyngsat.com/radiochannels/dz/Radio-Khenchela.html,False,TDA,
+39.0,Radio Béjaïa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Béjaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Bejaia.html,False,TDA,
+39.0,Radio Béjaïa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Béjaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Bejaia.html,False,TDA,
+40.0,Radio Bouira,,,DVB-S,12510,3/4,12250 H,,,,,Radio Bouira,https://www.lyngsat.com/radiochannels/dz/Radio-Bouira.html,False,TDA,
+40.0,Radio Bouira,,,DVB-S,12510,3/4,12250 H,,,,,Radio Bouira,https://www.lyngsat.com/radiochannels/dz/Radio-Bouira.html,False,TDA,
+41.0,Radio Relizane,,,DVB-S,12510,3/4,12250 H,,,,,Radio Relizane,https://www.lyngsat.com/radiochannels/dz/Radio-Relizane.html,False,TDA,
+41.0,Radio Relizane,,,DVB-S,12510,3/4,12250 H,,,,,Radio Relizane,https://www.lyngsat.com/radiochannels/dz/Radio-Relizane.html,False,TDA,
+42.0,Radio Annaba,,,DVB-S,12510,3/4,12250 H,,,,,Radio Annaba,https://www.lyngsat.com/radiochannels/dz/Radio-Annaba.html,False,TDA,
+42.0,Radio Annaba,,,DVB-S,12510,3/4,12250 H,,,,,Radio Annaba,https://www.lyngsat.com/radiochannels/dz/Radio-Annaba.html,False,TDA,
+43.0,Radio Tizi Ouzou,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tizi Ouzou,https://www.lyngsat.com/radiochannels/dz/Radio-Tizi-Ouzou.html,False,TDA,
+43.0,Radio Tizi Ouzou,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tizi Ouzou,https://www.lyngsat.com/radiochannels/dz/Radio-Tizi-Ouzou.html,False,TDA,
+44.0,Radio Tissemsilt,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tissemsilt,https://www.lyngsat.com/radiochannels/dz/Radio-Tissemsilt.html,False,TDA,
+44.0,Radio Tissemsilt,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tissemsilt,https://www.lyngsat.com/radiochannels/dz/Radio-Tissemsilt.html,False,TDA,
+45.0,Radio El Bayadh,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Bayadh,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bayadh.html,False,TDA,
+45.0,Radio El Bayadh,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Bayadh,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bayadh.html,False,TDA,
+46.0,Radio Tebessa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tebessa,https://www.lyngsat.com/radiochannels/dz/Radio-Tebessa.html,False,TDA,
+46.0,Radio Tebessa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tebessa,https://www.lyngsat.com/radiochannels/dz/Radio-Tebessa.html,False,TDA,
+47.0,Radio Djelfa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Djelfa,https://www.lyngsat.com/radiochannels/dz/Radio-Djelfa.html,False,TDA,
+47.0,Radio Djelfa,,,DVB-S,12510,3/4,12250 H,,,,,Radio Djelfa,https://www.lyngsat.com/radiochannels/dz/Radio-Djelfa.html,False,TDA,
+48.0,Radio Aïn Defla,,,DVB-S,12510,3/4,12250 H,,,,,Radio Aïn Defla,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Defla.html,False,TDA,
+48.0,Radio Aïn Defla,,,DVB-S,12510,3/4,12250 H,,,,,Radio Aïn Defla,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Defla.html,False,TDA,
+49.0,Radio Tipaza,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tipaza,https://www.lyngsat.com/radiochannels/dz/Radio-Tipaza.html,False,TDA,
+49.0,Radio Tipaza,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tipaza,https://www.lyngsat.com/radiochannels/dz/Radio-Tipaza.html,False,TDA,
+50.0,Radio Boumerdès,,,DVB-S,12510,3/4,12250 H,,,,,Radio Boumerdès,https://www.lyngsat.com/radiochannels/dz/Radio-Boumerdes.html,False,TDA,
+50.0,Radio Boumerdès,,,DVB-S,12510,3/4,12250 H,,,,,Radio Boumerdès,https://www.lyngsat.com/radiochannels/dz/Radio-Boumerdes.html,False,TDA,
+51.0,Radio Oran,,,DVB-S,12510,3/4,12250 H,,,,,Radio Oran,https://www.lyngsat.com/radiochannels/dz/Radio-Oran.html,False,TDA,
+51.0,Radio Oran,,,DVB-S,12510,3/4,12250 H,,,,,Radio Oran,https://www.lyngsat.com/radiochannels/dz/Radio-Oran.html,False,TDA,
+52.0,Radio Tiaret,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tiaret,https://www.lyngsat.com/radiochannels/dz/Radio-Tiaret.html,False,TDA,
+52.0,Radio Tiaret,,,DVB-S,12510,3/4,12250 H,,,,,Radio Tiaret,https://www.lyngsat.com/radiochannels/dz/Radio-Tiaret.html,False,TDA,
+53.0,Radio Mostaganem,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mostaganem,https://www.lyngsat.com/radiochannels/dz/Radio-Mostaganem.html,False,TDA,
+53.0,Radio Mostaganem,,,DVB-S,12510,3/4,12250 H,,,,,Radio Mostaganem,https://www.lyngsat.com/radiochannels/dz/Radio-Mostaganem.html,False,TDA,
+54.0,Radio M'Sila,,,DVB-S,12510,3/4,12250 H,,,,,Radio M'Sila,https://www.lyngsat.com/radiochannels/dz/Radio-MSila.html,False,TDA,
+54.0,Radio M'Sila,,,DVB-S,12510,3/4,12250 H,,,,,Radio M'Sila,https://www.lyngsat.com/radiochannels/dz/Radio-MSila.html,False,TDA,
+55.0,Radio Bordj Bou Arreridj,,,DVB-S,12510,3/4,12250 H,,,,,Radio Bordj Bou Arreridj,https://www.lyngsat.com/radiochannels/dz/Radio-Bordj-Bou-Arreridj.html,False,TDA,
+55.0,Radio Bordj Bou Arreridj,,,DVB-S,12510,3/4,12250 H,,,,,Radio Bordj Bou Arreridj,https://www.lyngsat.com/radiochannels/dz/Radio-Bordj-Bou-Arreridj.html,False,TDA,
+56.0,Radio Sétif,,,DVB-S,12510,3/4,12250 H,,,,,Radio Sétif,https://www.lyngsat.com/radiochannels/dz/Radio-Setif.html,False,TDA,Fre
+56.0,Radio Sétif,,,DVB-S,12510,3/4,12250 H,,,,,Radio Sétif,https://www.lyngsat.com/radiochannels/dz/Radio-Setif.html,False,TDA,Fre
+57.0,Radio Biskra,,,DVB-S,12510,3/4,12250 H,,,,,Radio Biskra,https://www.lyngsat.com/radiochannels/dz/Radio-Biskra.html,False,TDA,Ara
+57.0,Radio Biskra,,,DVB-S,12510,3/4,12250 H,,,,,Radio Biskra,https://www.lyngsat.com/radiochannels/dz/Radio-Biskra.html,False,TDA,Ara
+58.0,Radio Constantine,,,DVB-S,12510,3/4,12250 H,,,,,Radio Constantine,https://www.lyngsat.com/radiochannels/dz/Radio-Constantine.html,False,TDA,
+58.0,Radio Constantine,,,DVB-S,12510,3/4,12250 H,,,,,Radio Constantine,https://www.lyngsat.com/radiochannels/dz/Radio-Constantine.html,False,TDA,
+59.0,Radio Oum El Bouaghi,,,DVB-S,12510,3/4,12250 H,,,,,Radio Oum El Bouaghi,https://www.lyngsat.com/radiochannels/dz/Radio-Oum-El-Bouaghi.html,False,TDA,
+59.0,Radio Oum El Bouaghi,,,DVB-S,12510,3/4,12250 H,,,,,Radio Oum El Bouaghi,https://www.lyngsat.com/radiochannels/dz/Radio-Oum-El-Bouaghi.html,False,TDA,
+60.0,Radio Chlef,,,DVB-S,12510,3/4,12250 H,,,,,Radio Chlef,https://www.lyngsat.com/radiochannels/dz/Radio-Chlef.html,False,TDA,
+60.0,Radio Chlef,,,DVB-S,12510,3/4,12250 H,,,,,Radio Chlef,https://www.lyngsat.com/radiochannels/dz/Radio-Chlef.html,False,TDA,
+61.0,Radio Sidi Bel Abbès,,,DVB-S,12510,3/4,12250 H,,,,,Radio Sidi Bel Abbès,https://www.lyngsat.com/radiochannels/dz/Radio-Sidi-Bel-Abbes.html,False,TDA,
+61.0,Radio Sidi Bel Abbès,,,DVB-S,12510,3/4,12250 H,,,,,Radio Sidi Bel Abbès,https://www.lyngsat.com/radiochannels/dz/Radio-Sidi-Bel-Abbes.html,False,TDA,
+63.0,Radio Coran (Algeria),,,DVB-S,12510,3/4,12250 H,,,,,Radio Coran (Algeria),https://www.lyngsat.com/radiochannels/dz/Radio-Coran.html,False,TDA,Ara
+63.0,Radio Coran (Algeria),,,DVB-S,12510,3/4,12250 H,,,,,Radio Coran (Algeria),https://www.lyngsat.com/radiochannels/dz/Radio-Coran.html,False,TDA,Ara
+662.0,Radio El Bahdja,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Bahdja,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bahdja.html,False,TDA,Ara
+662.0,Radio El Bahdja,,,DVB-S,12510,3/4,12250 H,,,,,Radio El Bahdja,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bahdja.html,False,TDA,Ara
+664.0,Radio Décrochage 2,,,DVB-S,12510,3/4,12250 H,,,,,Radio Décrochage 2,https://www.lyngsat.com/radiochannels/dz/Radio-Decrochage-2.html,False,TDA,
+665.0,Jil FM,,,DVB-S,12510,3/4,12250 H,,,,,Jil FM,https://www.lyngsat.com/radiochannels/dz/Jil-FM.html,False,TDA,Fre
+,Algerian mux,65535-1,,DVB-S2,30000,2/3,12360 H,,,,,,,False,TDA,
+2021.0,Echorouk TV News,MPEG-4/HD,3211.0,DVB-S2,30000,2/3,12360 H,,,,,Echorouk TV News,https://www.lyngsat.com/tvchannels/dz/Echorouk-TV-News.html,False,TDA,Ara
+2021.0,Echorouk TV News,MPEG-4/HD,3211.0,DVB-S2,30000,2/3,12360 H,,,,,Echorouk TV News,https://www.lyngsat.com/tvchannels/dz/Echorouk-TV-News.html,False,TDA,Ara
+2022.0,Echorouk TV,MPEG-4/HD,3221.0,DVB-S2,30000,2/3,12360 H,,,,,Echorouk TV,https://www.lyngsat.com/tvchannels/dz/Echorouk-TV.html,False,TDA,Ara
+2022.0,Echorouk TV,MPEG-4/HD,3221.0,DVB-S2,30000,2/3,12360 H,,,,,Echorouk TV,https://www.lyngsat.com/tvchannels/dz/Echorouk-TV.html,False,TDA,Ara
+2026.0,El Hayat TV,MPEG-4/HD,3261.0,DVB-S2,30000,2/3,12360 H,,,,,El Hayat TV,https://www.lyngsat.com/tvchannels/dz/El-Hayat-TV.html,False,TDA,Ara
+3325.0,Ennahar TV,MPEG-4/HD,3421.0,DVB-S2,30000,2/3,12360 H,,,,,Ennahar TV,https://www.lyngsat.com/tvchannels/dz/Ennahar-TV.html,False,TDA,Ara
+,(feeds),,,DVB-S2,5135,2/3,12728 H,,,,,,,False,TDA,
+,(feeds),,,DVB-S2,5762,3/5,12737 H,,,,,,,False,TDA,

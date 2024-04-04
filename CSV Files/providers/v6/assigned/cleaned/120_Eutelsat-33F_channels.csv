@@ -1,0 +1,114 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,(feeds),,,DVB-S2,4800,3/4,10956 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,10962 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,10968 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,10974 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,2500,3/4,10985 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,2500,3/4,10988 H,tp 123,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,10999 H,tp 125,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11008 H,tp 125,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11017 H,tp 125,,,,,,False,,
+,(feeds),,,DVB-S2,8888,2/3,11022 V,tp 126,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11028 H,tp 125,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11040 H,tp 127,,,,,,False,,
+,(feeds),,,DVB-S2,7500,3/4,11047 V,tp 126,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11049 H,tp 127,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11059 H,tp 127,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11068 H,tp 127,,,,,,False,,
+,(feeds),,,DVB-S2,7500,3/4,11083 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S2,7500,5/6,11088 V,tp 128,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11091 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S2,3166,3/4,11098 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S2,3166,2/3,11100 V,tp 130,,,,,,False,,
+,(feeds),,,DVB-S2,3166,3/4,11103 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S2,3600,5/6,11105 V,tp 130,,,,,,False,,
+,(feeds),,,DVB-S2,3166,3/4,11107 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S2,3166,3/4,11111 H,tp 129,,,,,,False,,
+,(feeds),,,DVB-S,3333,3/4,11120 V,tp 130,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11122 H,tp 131,,,,,,False,,
+,(feeds),,,DVB-S2,4444,3/4,11128 H,tp 131,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,11129 V,tp 130,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11141 H,tp 131,,,,,,False,,
+,(feeds),,,DVB-S2,3750,3/4,11148 V,tp 132,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,11149 H,tp 131,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11152 V,tp 132,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11161 V,tp 132,,,,,,False,,
+,(feeds),,,DVB-S2,2400,2/3,11166 H,tp 133,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11169 H,tp 133,,,,,,False,,
+,(feeds),,,DVB-S2,4444,3/4,11173 V,tp 132,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,11175 H,tp 133,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,11179 H,tp 133,,,,,,False,,
+,(feeds),,,DVB-S2,4900,3/4,11185 V,tp 134,,,,,,False,,
+,(feeds),,,DVB-S2,4900,3/4,11191 V,tp 134,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,11193 H,tp 133,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11572 V,tp 154,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11578 V,tp 154,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11583 V,tp 154,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11589 V,tp 154,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11610 V,tp 156,,,,,,False,,
+,(feeds),,,DVB-S2,4680,2/3,11616 V,tp 156,,,,,,False,,
+,(feeds),,,DVB-S2,8888,3/4,11649 V,tp 158,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/5,11657 V,tp 158,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/5,11666 V,tp 158,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,11667 H,tp 159,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,11684 H,tp 159,,,,,,False,,
+,(feeds),,,DVB-S,2222,3/4,11696 H,tp 159,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,12506 V,tp 90,,,,,,False,,
+,(feeds),,,DVB-S,2222,3/4,12517 V,tp 90,,,,,,False,,
+,(feeds),,,DVB-S2,3600,5/6,12523 V,tp 90,,,,,,False,,
+,(feeds),,,DVB-S2,8888,3/4,12526 H,tp 91,,,,,,False,,
+,(feeds),,,DVB-S2,8888,3/4,12531 V,tp 90,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,12541 H,tp 91,,,,,,False,,
+,(feeds),,,DVB-S2,3600,3/4,12543 V,tp 92,,,,,,False,,
+,(feeds),,,DVB-S2,5000,3/4,12550 V,tp 92,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,12552 H,tp 91,,,,,,False,,
+,(feeds),,,DVB-S2,3820,3/4,12557 V,tp 92,,,,,,False,,
+,(feeds),,,DVB-S2,8888,3/4,12565 H,tp 93,,,,,,False,,
+,(feeds),,,DVB-S,2222,3/4,12570 V,tp 92,,,,,,False,,
+,(feeds),,,DVB-S2,7500,3/4,12581 H,tp 93,,,,,,False,,
+,(feeds),,,DVB-S2,8888,3/4,12588 V,tp 94,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,12590 H,tp 93,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,12599 V,tp 94,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,12603 H,tp 95,,,,,,False,,
+,(feeds),,,DVB-S,3750,3/4,12605 V,tp 94,,,,,,False,,
+,(feeds),,,DVB-S2,7500,5/6,12622 V,tp 96,,,,,,False,,
+,(feeds),,,DVB-S2,7500,3/4,12628 H,tp 95,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,12661 V,tp 98,,,,,,False,,
+,(feeds),,,DVB-S2,14400,3/4,12662 H,tp 97,,,,,,False,,
+,(feeds),,,DVB-S2,10000,3/4,12672 V,tp 98,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,12678 H,tp 99,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,12688 H,tp 99,,,,,,False,,
+,(feeds),,,DVB-S2,5000,3/4,12693 H,tp 99,,,,,,False,,
+,(feeds),,,DVB-S2,9600,3/4,12717 H,tp 101,,,,,,False,,
+,(feeds),,,DVB-S2,7200,3/4,12726 H,tp 101,,,,,,False,,
+,(feeds),,,DVB-S2,4800,3/4,12745 H,tp 101,,,,,,False,,
+,(Polsat feeds),,,DVB-S2,4444,3/4,11167 V,tp 132,,,,,,False,,
+,Vidi TV,2046-400,,DVB-S2,9600,3/4,11444 H,tp 13,,,https://www.lyngsat.com/providers/ba/Vidi-TV.html,,,True,Vidi TV,
+4001.0,O Kanal,MPEG-4/HD,4273.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,O Kanal,https://www.lyngsat.com/tvchannels/ba/O-Kanal.html,False,Vidi TV,Bos
+4002.0,Una TV,MPEG-4/HD,4193.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,Una TV,https://www.lyngsat.com/tvchannels/ba/Una-TV.html,False,Vidi TV,
+4003.0,Nova BH,MPEG-4/HD,4177.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,Nova BH,https://www.lyngsat.com/tvchannels/rs/Nova-BH.html,False,Vidi TV,Srp
+4004.0,BN,MPEG-4/HD,4145.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,BN,https://www.lyngsat.com/tvchannels/ba/BN.html,False,Vidi TV,Srp
+4004.0,BN,MPEG-4/HD,4145.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,BN,https://www.lyngsat.com/tvchannels/ba/BN.html,False,Vidi TV,Srp
+4005.0,O Kanal Music,MPEG-4/SD,4161.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,O Kanal Music,https://www.lyngsat.com/tvchannels/ba/O-Kanal-Music.html,False,Vidi TV,Bos
+4006.0,OBN (Bosnia and Herzegovina),MPEG-4/SD,4097.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,OBN (Bosnia and Herzegovina),https://www.lyngsat.com/tvchannels/ba/OBN.html,False,Vidi TV,Bos
+4007.0,N1 Bosna i Hercegovina,MPEG-4/SD,4305.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,N1 Bosna i Hercegovina,https://www.lyngsat.com/tvchannels/rs/N1-Bosna-i-Hercegovina.html,False,Vidi TV,Bos
+4007.0,N1 Bosna i Hercegovina,MPEG-4/SD,4305.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,N1 Bosna i Hercegovina,https://www.lyngsat.com/tvchannels/rs/N1-Bosna-i-Hercegovina.html,False,Vidi TV,Bos
+4008.0,TV Sarajevo,MPEG-4/SD,4225.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,TV Sarajevo,https://www.lyngsat.com/tvchannels/ba/TV-Sarajevo.html,False,Vidi TV,Bos
+4009.0,RTV TK,MPEG-4/SD,4337.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,RTV TK,https://www.lyngsat.com/tvchannels/ba/RTV-TK.html,False,Vidi TV,Bos
+4010.0,Hit TV (Bosnia and Herzegovina),MPEG-4/SD,4209.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,Hit TV (Bosnia and Herzegovina),https://www.lyngsat.com/tvchannels/ba/Hit-TV.html,False,Vidi TV,
+4013.0,TV USK,MPEG-4/HD,4289.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,TV USK,https://www.lyngsat.com/tvchannels/ba/TV-USK.html,False,Vidi TV,Bos
+4014.0,TV BPK,MPEG-4/SD,4113.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,TV BPK,https://www.lyngsat.com/tvchannels/ba/TV-BPK.html,False,Vidi TV,Bos
+4015.0,Herceg TV,MPEG-4/HD,4129.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,Herceg TV,https://www.lyngsat.com/tvchannels/ba/Herceg-TV.html,False,Vidi TV,Srp
+4016.0,Pro TV,MPEG-4/SD,4321.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,Pro TV,https://www.lyngsat.com/tvchannels/ba/Pro-TV.html,False,Vidi TV,
+4017.0,NTV Arena,MPEG-4/SD,4353.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,NTV Arena,https://www.lyngsat.com/tvchannels/ba/NTV-Arena.html,False,Vidi TV,
+4019.0,RTVIS,MPEG-4/SD,4241.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,RTVIS,https://www.lyngsat.com/tvchannels/ba/RTVIS.html,False,Vidi TV,Srp
+4020.0,TV K3,MPEG-4/SD,4257.0,DVB-S2,9600,3/4,11444 H,tp 13,,,,TV K3,https://www.lyngsat.com/tvchannels/ba/TV-K3.html,False,Vidi TV,Srp
+,Vivacom DTT,8292-5300,,DVB-S2,7500,3/4,12646 H,tp 97,,,https://www.lyngsat.com/providers/bg/Vivacom-DTT.html,,,True,Vivacom DTT,
+2.0,BTV (Bulgaria),MPEG-4/SD,5152.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,BTV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/BTV.html,False,Vivacom DTT,Bul
+2.0,BTV (Bulgaria),MPEG-4/SD,5152.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,BTV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/BTV.html,False,Vivacom DTT,Bul
+3.0,Nova TV (Bulgaria),MPEG-4/SD,5162.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,Nova TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/Nova-TV.html,False,Vivacom DTT,Bul
+3.0,Nova TV (Bulgaria),MPEG-4/SD,5162.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,Nova TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/Nova-TV.html,False,Vivacom DTT,Bul
+4.0,BNT 1,MPEG-4/SD,5172.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,BNT 1,https://www.lyngsat.com/tvchannels/bg/BNT-1.html,False,Vivacom DTT,Bul
+5.0,BNT 2,MPEG-4/SD,5182.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,BNT 2,https://www.lyngsat.com/tvchannels/bg/BNT-2.html,False,Vivacom DTT,Bul
+6.0,BNT 3,MPEG-4/SD,5342.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,BNT 3,https://www.lyngsat.com/tvchannels/bg/BNT-3.html,False,Vivacom DTT,Bul
+8.0,[test card],MPEG-4/SD,5332.0,DVB-S2,7500,3/4,12646 H,tp 97,,,,,,False,Vivacom DTT,

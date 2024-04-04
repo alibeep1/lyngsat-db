@@ -1,0 +1,133 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+3521 VGlobal36-37,DVB-S16665/6,1.0,News 24 (Nepal),,?-?MPEG-4/SD,257.0,6.5 258 Nep,,N Stanislav231007,DVB-S,1666.0,5/6,3521 V,,36-37,,,,,False,
+3542 VGlobal36-37,DVB-S2QPSK33333/4,,AP1 HD,,MPEG-4/HD,1000.0,4.02000 Nep,,R Shrestha230114,DVB-S2,3333.0,3/4,3542 V,,36-37,,,,,False,
+3765 VEast hemi,DVB-S28PSK16663/4,,(feeds),,,,,,Bulek Sps220703,DVB-S2,1666.0,3/4,3765 V,,,,,,,False,
+3776 VEast hemi,DVB-S33323/4,,(feeds),,,,,,Anonymous190801,DVB-S,3332.0,3/4,3776 V,,,,,,,False,
+3936 Vtp 13BEast hemi,DVB-S28PSK32003/4,,(feeds),,,,,,Anonymous191204,DVB-S2,3200.0,3/4,3936 V,tp 13B,,,,,,False,
+4045 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4045 V,,,,,,,False,
+4050 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191204,DVB-S2,4488.0,3/4,4050 V,,,,,,,False,
+4060 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4060 V,,,,,,,False,
+4072 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4072 V,,,,,,,False,
+4077 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191204,DVB-S2,4488.0,3/4,4077 V,,,,,,,False,
+4132 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4132 V,,,,,,,False,
+4137 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4137 V,,,,,,,False,
+4142 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191203,DVB-S2,4488.0,3/4,4142 V,,,,,,,False,
+4148 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191204,DVB-S2,4488.0,3/4,4148 V,,,,,,,False,
+4154 VEast hemi,DVB-S28PSK44883/4,,(feeds),,,,,,Anonymous191204,DVB-S2,4488.0,3/4,4154 V,,,,,,,False,
+11118 Htp 7,DVB-S272003/4,,(feeds),,,,,,Stanley_cassidy210105,DVB-S2,7200.0,3/4,11118 H,tp 7,,,,,,False,
+11618 Htp 15,DVB-S272003/4,,(feeds),,,,,,Stanley_cassidy240105,DVB-S2,7200.0,3/4,11618 H,tp 15,,,,,,False,
+11627 Htp 15,DVB-S272003/4,,(feeds),,,,,,Stanley_cassidy240105,DVB-S2,7200.0,3/4,11627 H,tp 15,,,,,,False,
+11651 Htp 16,DVB-S2216003/4,,(feeds),,,,,,Stanley_cassidy221230,DVB-S2,21600.0,3/4,11651 H,tp 16,,,,,,False,
+11669 Htp 16,DVB-S272003/4,,(feeds),,,,,,Stanley_cassidy210105,DVB-S2,7200.0,3/4,11669 H,tp 16,,,,,,False,
+11678 Htp 16,DVB-S272003/4,,(feeds),,,,,,Stanley_cassidy210105,DVB-S2,7200.0,3/4,11678 H,tp 16,,,,,,False,
+12326 VSouth Asia,DVB-S18885/6,,(feeds),,,,,,DX Bozóth200706,DVB-S,1888.0,5/6,12326 V,,,,,,,False,
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,,MYTV Broadcasting,,8650-1,,,,Josh231016,DVB-S2X,3332.0,3/4,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,,,True,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,,MYTV Broadcasting,,8650-1,,,,Josh231016,DVB-S2X,3332.0,3/4,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,,,True,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,,MYTV Broadcasting,,8650-2,,,,Albert I230303,DVB-S2X,3332.0,3/4,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,,,True,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,,MYTV Broadcasting,,8650-2,,,,Albert I230303,DVB-S2X,3332.0,3/4,3871 H,,0,,https://www.lyngsat.com/providers/my/MYTV-Broadcasting.html,,,True,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,103.0,TV 3 (Malaysia),,MPEG-4/HD,4112.0,4113 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,TV 3 (Malaysia),https://www.lyngsat.com/tvchannels/my/TV-3.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,104.0,WowShop,,MPEG-4/SD,1032.0,1033 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,WowShop,https://www.lyngsat.com/tvchannels/kr/WowShop.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,105.0,Enjoy TV 5,,MPEG-4/HD,4152.0,4153 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Enjoy TV 5,https://www.lyngsat.com/tvchannels/my/Enjoy-TV-5.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,107.0,NTV 7,,MPEG-4/SD,1052.0,1053 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,NTV 7,https://www.lyngsat.com/tvchannels/my/NTV-7.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,108.0,8TV (Malaysia),,MPEG-4/HD,1062.0,1063 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,8TV (Malaysia),https://www.lyngsat.com/tvchannels/my/8TV.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,109.0,TV 9 (Malaysia),,MPEG-4/SD,1072.0,1073 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,TV 9 (Malaysia),https://www.lyngsat.com/tvchannels/my/TV-9.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,112.0,Awesome TV,,MPEG-4/HD,4122.0,4123 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Awesome TV,https://www.lyngsat.com/tvchannels/my/Awesome-TV.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,116.0,Suke TV,,MPEG-4/HD,4162.0,4163 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Suke TV,https://www.lyngsat.com/tvchannels/my/Suke-TV.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,122.0,TVS (Malaysia),,MPEG-4/HD,4142.0,4143 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,TVS (Malaysia),https://www.lyngsat.com/tvchannels/my/TVS.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,122.0,TVS (Malaysia),,MPEG-4/HD,4142.0,4143 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,TVS (Malaysia),https://www.lyngsat.com/tvchannels/my/TVS.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,712.0,Hot FM,,,,7113 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Hot FM,https://www.lyngsat.com/radiochannels/my/Hot-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,712.0,Hot FM,,,,7113 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Hot FM,https://www.lyngsat.com/radiochannels/my/Hot-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,713.0,Fly FM,,,,7123 Eng,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Fly FM,https://www.lyngsat.com/radiochannels/my/Fly-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,713.0,Fly FM,,,,7123 Eng,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Fly FM,https://www.lyngsat.com/radiochannels/my/Fly-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,714.0,Molek FM,,,,7133 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Molek FM,https://www.lyngsat.com/radiochannels/my/Molek-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,714.0,Molek FM,,,,7133 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Molek FM,https://www.lyngsat.com/radiochannels/my/Molek-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,715.0,Eight FM,,,,7143 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Eight FM,https://www.lyngsat.com/radiochannels/my/Eight-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,715.0,Eight FM,,,,7143 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Eight FM,https://www.lyngsat.com/radiochannels/my/Eight-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 171T2-MIPLP 0,726.0,Manis FM,,,,7163 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Manis FM,https://www.lyngsat.com/radiochannels/my/Manis-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,101.0,RTM TV 1,,MPEG-4/HD,4212.0,4213 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 1,https://www.lyngsat.com/tvchannels/my/RTM-TV-1.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,101.0,RTM TV 1,,MPEG-4/HD,4212.0,4213 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 1,https://www.lyngsat.com/tvchannels/my/RTM-TV-1.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,102.0,RTM TV 2,,MPEG-4/HD,4222.0,4223 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 2,https://www.lyngsat.com/tvchannels/my/RTM-TV-2.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,102.0,RTM TV 2,,MPEG-4/HD,4222.0,4223 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 2,https://www.lyngsat.com/tvchannels/my/RTM-TV-2.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,110.0,RTM TV Okey,,MPEG-4/HD,4232.0,4233 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV Okey,https://www.lyngsat.com/tvchannels/my/RTM-TV-Okey.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,110.0,RTM TV Okey,,MPEG-4/HD,4232.0,4233 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV Okey,https://www.lyngsat.com/tvchannels/my/RTM-TV-Okey.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,111.0,Sukan RTM,,MPEG-4/HD,4242.0,4243 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sukan RTM,https://www.lyngsat.com/tvchannels/my/Sukan-RTM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,113.0,RTM TV 6,,MPEG-4/HD,4262.0,4263 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 6,https://www.lyngsat.com/tvchannels/my/RTM-TV-6.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,113.0,RTM TV 6,,MPEG-4/HD,4262.0,4263 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,RTM TV 6,https://www.lyngsat.com/tvchannels/my/RTM-TV-6.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,114.0,TV Alhijrah,,MPEG-4/HD,4512.0,4513 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,TV Alhijrah,https://www.lyngsat.com/tvchannels/my/TV-Alhijrah.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,121.0,Bernama TV,,MPEG-4/HD,4522.0,4523 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Bernama TV,https://www.lyngsat.com/tvchannels/my/Bernama-TV.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,121.0,Bernama TV,,MPEG-4/HD,4522.0,4523 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Bernama TV,https://www.lyngsat.com/tvchannels/my/Bernama-TV.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,123.0,Berita RTM,,MPEG-4/HD,4252.0,4253 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Berita RTM,https://www.lyngsat.com/tvchannels/my/Berita-RTM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,123.0,Berita RTM,,MPEG-4/HD,4252.0,4253 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Berita RTM,https://www.lyngsat.com/tvchannels/my/Berita-RTM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,701.0,Nasional FM,,,,7213 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Nasional FM,https://www.lyngsat.com/radiochannels/my/Nasional-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,701.0,Nasional FM,,,,7213 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Nasional FM,https://www.lyngsat.com/radiochannels/my/Nasional-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,702.0,Traxx FM,,,,7223 Eng,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Traxx FM,https://www.lyngsat.com/radiochannels/my/Traxx-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,702.0,Traxx FM,,,,7223 Eng,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Traxx FM,https://www.lyngsat.com/radiochannels/my/Traxx-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,703.0,Minnal FM,,,,7233 Tam,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Minnal FM,https://www.lyngsat.com/radiochannels/my/Minnal-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,703.0,Minnal FM,,,,7233 Tam,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Minnal FM,https://www.lyngsat.com/radiochannels/my/Minnal-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,704.0,Ai FM,,,,7243 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Ai FM,https://www.lyngsat.com/radiochannels/my/Ai-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,704.0,Ai FM,,,,7243 Chi,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Ai FM,https://www.lyngsat.com/radiochannels/my/Ai-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,705.0,Radio Klasik,,,,7253 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Radio Klasik,https://www.lyngsat.com/radiochannels/my/Radio-Klasik.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,705.0,Radio Klasik,,,,7253 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Radio Klasik,https://www.lyngsat.com/radiochannels/my/Radio-Klasik.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,706.0,Asyik FM,,,,7263 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Asyik FM,https://www.lyngsat.com/radiochannels/my/Asyik-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,706.0,Asyik FM,,,,7263 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Asyik FM,https://www.lyngsat.com/radiochannels/my/Asyik-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,707.0,Sabah FM,,,,7273 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sabah FM,https://www.lyngsat.com/radiochannels/my/Sabah-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,707.0,Sabah FM,,,,7273 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sabah FM,https://www.lyngsat.com/radiochannels/my/Sabah-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,708.0,Sabah V FM,,,,7283 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sabah V FM,https://www.lyngsat.com/radiochannels/my/Sabah-V-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,708.0,Sabah V FM,,,,7283 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sabah V FM,https://www.lyngsat.com/radiochannels/my/Sabah-V-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,709.0,Sarawak FM,,,,7293 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sarawak FM,https://www.lyngsat.com/radiochannels/my/Sarawak-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,709.0,Sarawak FM,,,,7293 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Sarawak FM,https://www.lyngsat.com/radiochannels/my/Sarawak-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,710.0,Wai FM,,,,7513 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Wai FM,https://www.lyngsat.com/radiochannels/my/Wai-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,710.0,Wai FM,,,,7513 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Wai FM,https://www.lyngsat.com/radiochannels/my/Wai-FM.html,False,MYTV Broadcasting
+3871 HEast hemi0,DVB-S2X16APSK514303/5MultistreamStream 172T2-MIPLP 0,711.0,Bernama Radio,,,,7523 May,,,DVB-S2X,3332.0,3/4,3871 H,,0,,,Bernama Radio,https://www.lyngsat.com/radiochannels/my/Bernama-Radio.html,False,MYTV Broadcasting
+4093 VEast hemi0,DVB-S28PSK150005/6,,TAP DMV,,,,9.4,Irdeto,Albert I230321,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,https://www.lyngsat.com/providers/ph/TAP-DMV.html,,,True,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1110.0,Hope Channel Philippines,,MPEG-4/HD,1113.0,1114 Tgl,,,DVB-S2,15000.0,5/6,4093 V,,0,,,Hope Channel Philippines,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Philippines.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1410.0,TAP Action Flix,,MPEG-4/HD,8117.0,101 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,TAP Action Flix,https://www.lyngsat.com/tvchannels/ph/TAP-Action-Flix.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1420.0,TAP Sports,,MPEG-4/HD,8119.0,307 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,TAP Sports,https://www.lyngsat.com/tvchannels/ph/TAP-Sports.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1430.0,TAP Movies,,MPEG-4/HD,1201.0,1205 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,TAP Movies,https://www.lyngsat.com/tvchannels/ph/TAP-Movies.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1440.0,Premier Sports,,MPEG-4/HD,1301.0,1304 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,Premier Sports,https://www.lyngsat.com/tvchannels/ph/Premier-Sports.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1450.0,TAP TV,,MPEG-4/SD,102.0,1002 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,TAP TV,https://www.lyngsat.com/tvchannels/ph/TAP-TV.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1460.0,TAP Edge,,MPEG-4/SD,103.0,1.03 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,TAP Edge,https://www.lyngsat.com/tvchannels/ph/TAP-Edge.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1470.0,Premier Football,,MPEG-4/SD,4112.0,402 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,Premier Football,https://www.lyngsat.com/tvchannels/ph/Premier-Football.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1480.0,Premier Sports 2 (Philippines),,MPEG-4/SD,2124.0,214 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,Premier Sports 2 (Philippines),https://www.lyngsat.com/tvchannels/ph/Premier-Sports-2.html,False,TAP DMV
+4093 VEast hemi0,DVB-S28PSK150005/6,1490.0,Edge Sport,,MPEG-4/SD,481.0,482 Eng,Irdeto,,DVB-S2,15000.0,5/6,4093 V,,0,Irdeto,,Edge Sport,https://www.lyngsat.com/tvchannels/uk/Edge-Sport.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,,,,100-1,,2.7,,N Stanislav220409,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,,,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,1.0,Supreme Master TV,,MPEG-2/SD,2001.0,3001 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,1.0,Supreme Master TV,,MPEG-2/SD,2001.0,3001 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,2.0,TBN Inspire International,,MPEG-4/SD,1360.0,1320 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,TBN Inspire International,https://www.lyngsat.com/tvchannels/us/TBN-Inspire-International.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,19.0,SBN International,,MPEG-2/SD,211.0,3019 Eng4019 Spa,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,SBN International,https://www.lyngsat.com/tvchannels/us/SBN-International.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,117.0,TBN Asia,,MPEG-4/SD,1701.0,1120 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,TBN Asia,https://www.lyngsat.com/tvchannels/us/TBN-Asia.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,410.0,Daystar TV,,MPEG-2/SD,413.0,414 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,410.0,Daystar TV,,MPEG-2/SD,413.0,414 Eng,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,5040.0,Hwazan Satellite TV,,MPEG-4/SD,5040.0,5041 Chi,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Hwazan Satellite TV,https://www.lyngsat.com/tvchannels/tw/Hwazan-Satellite-TV.html,False,TAP DMV
+12524 Htp 43Southern43-45,DVB-S300001/2,5040.0,Hwazan Satellite TV,,MPEG-4/SD,5040.0,5041 Chi,,,DVB-S,30000.0,1/2,12524 H,tp 43,43-45,,,Hwazan Satellite TV,https://www.lyngsat.com/tvchannels/tw/Hwazan-Satellite-TV.html,False,TAP DMV
+12730 HSouthern43-45,DVB-S2QPSK233301/2,,BFBS,,,,1.0,Irdeto,N Stanislav220105,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,,,True,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8101.0,BBC One,,MPEG-4/SD,101.0,401 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BBC One,https://www.lyngsat.com/tvchannels/uk/BBC-One.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8102.0,CBBC (07-18),,MPEG-4/SD,102.0,402 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,CBBC (07-18),https://www.lyngsat.com/tvchannels/uk/CBBC.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8102.0,BBC Two (18-07),,MPEG-4/SD,102.0,402 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BBC Two (18-07),https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8103.0,ITV 1 London,,MPEG-4/SD,103.0,403 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,ITV 1 London,https://www.lyngsat.com/tvchannels/uk/ITV-1-London.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8104.0,BFBS Extra,,MPEG-4/SD,104.0,404 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BFBS Extra,https://www.lyngsat.com/tvchannels/uk/BFBS-Extra.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8105.0,Sky Sports Main Event UK,,MPEG-4/SD,105.0,405 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,Sky Sports Main Event UK,https://www.lyngsat.com/tvchannels/uk/Sky-Sports-Main-Event-UK.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8106.0,TNT Sports 1,,MPEG-4/SD,106.0,406 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,TNT Sports 1,https://www.lyngsat.com/tvchannels/us/TNT-Sports-1.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8107.0,BFBS Sport,,MPEG-4/SD,107.0,407 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BFBS Sport,https://www.lyngsat.com/tvchannels/uk/BFBS-Sport.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8108.0,Sky News UK,,MPEG-4/SD,108.0,408 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,Sky News UK,https://www.lyngsat.com/tvchannels/uk/Sky-News-UK.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8109.0,Channel 4 London,,MPEG-4/SD,109.0,409 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,Channel 4 London,https://www.lyngsat.com/tvchannels/uk/Channel-4-London.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8110.0,Channel 5 (UK),,MPEG-4/SD,110.0,410 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,Channel 5 (UK),https://www.lyngsat.com/tvchannels/uk/Channel-5.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8117.0,Sky Cinema Delay,,MPEG-4/SD,117.0,417 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,Sky Cinema Delay,https://www.lyngsat.com/tvchannels/uk/Sky-Cinema-Delay.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8118.0,NTV National,,MPEG-4/SD,118.0,418 Nep,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,NTV National,https://www.lyngsat.com/tvchannels/np/NTV-National.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8118.0,NTV National,,MPEG-4/SD,118.0,418 Nep,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,NTV National,https://www.lyngsat.com/tvchannels/np/NTV-National.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8121.0,BFBS Ops,,,,421 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Ops,https://www.lyngsat.com/radiochannels/uk/BFBS-Ops.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8121.0,BFBS Ops,,,,421 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Ops,https://www.lyngsat.com/radiochannels/uk/BFBS-Ops.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8123.0,BFBS UK Bases,,,,423 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS UK Bases,https://www.lyngsat.com/radiochannels/uk/BFBS-UK-Bases.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8124.0,BFBS Radio 2,,,,424 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BFBS Radio 2,https://www.lyngsat.com/radiochannels/uk/BFBS-Radio-2.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8124.0,BFBS Radio 2,,,,424 Eng,Irdeto,,DVB-S2,23330.0,1/2,12730 H,,43-45,Irdeto,,BFBS Radio 2,https://www.lyngsat.com/radiochannels/uk/BFBS-Radio-2.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8126.0,BFBS Rewind,,,,426 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Rewind,https://www.lyngsat.com/radiochannels/uk/BFBS-Rewind.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8126.0,BFBS Rewind,,,,426 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Rewind,https://www.lyngsat.com/radiochannels/uk/BFBS-Rewind.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8127.0,BFBS UK National,,,,427 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS UK National,https://www.lyngsat.com/radiochannels/uk/BFBS-UK-National.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8131.0,BFBS UK,,,,431 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS UK,https://www.lyngsat.com/radiochannels/uk/BFBS-UK.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8131.0,BFBS UK,,,,431 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS UK,https://www.lyngsat.com/radiochannels/uk/BFBS-UK.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8135.0,BFBS Best of British,,,,435 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Best of British,https://www.lyngsat.com/radiochannels/uk/BFBS-Best-of-British.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8135.0,BFBS Best of British,,,,435 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Best of British,https://www.lyngsat.com/radiochannels/uk/BFBS-Best-of-British.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8138.0,BFBS Falklands,,,,438 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Falklands,https://www.lyngsat.com/radiochannels/uk/BFBS-Falklands.html,False,BFBS
+12730 HSouthern43-45,DVB-S2QPSK233301/2,8138.0,BFBS Falklands,,,,438 Eng,,,DVB-S2,23330.0,1/2,12730 H,,43-45,,,BFBS Falklands,https://www.lyngsat.com/radiochannels/uk/BFBS-Falklands.html,False,BFBS
+,,,,,,,,,,,,,,,,,,DVB-S16665/6,,False,BFBS
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK33333/4,,False,BFBS

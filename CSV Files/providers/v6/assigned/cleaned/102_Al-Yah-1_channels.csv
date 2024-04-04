@@ -1,0 +1,431 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,Saudi Broadcasting Authority,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,https://www.lyngsat.com/providers/sa/Saudi-Broadcasting-Authority.html,,,True,Saudi Broadcasting Authority,
+2601.0,Saudi TV,MPEG-4/HD,512.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,Saudi Broadcasting Authority,Ara
+2601.0,Saudi TV,MPEG-4/HD,512.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,Saudi Broadcasting Authority,Ara
+2602.0,Thikrayat TV,MPEG-4/HD,513.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Thikrayat TV,https://www.lyngsat.com/tvchannels/sa/Thikrayat-TV.html,False,Saudi Broadcasting Authority,Ara
+2602.0,Thikrayat TV,MPEG-4/HD,513.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Thikrayat TV,https://www.lyngsat.com/tvchannels/sa/Thikrayat-TV.html,False,Saudi Broadcasting Authority,Ara
+2603.0,SBC,MPEG-4/HD,514.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,SBC,https://www.lyngsat.com/tvchannels/sa/SBC.html,False,Saudi Broadcasting Authority,Ara
+2603.0,SBC,MPEG-4/HD,514.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,SBC,https://www.lyngsat.com/tvchannels/sa/SBC.html,False,Saudi Broadcasting Authority,Ara
+2604.0,Ekhbariya TV,MPEG-4/HD,515.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,False,Saudi Broadcasting Authority,Ara
+2604.0,Ekhbariya TV,MPEG-4/HD,515.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,False,Saudi Broadcasting Authority,Ara
+2605.0,Saudia Alaan TV,MPEG-4/HD,516.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudia Alaan TV,https://www.lyngsat.com/tvchannels/sa/Saudia-Alaan-TV.html,False,Saudi Broadcasting Authority,Ara
+2605.0,Saudia Alaan TV,MPEG-4/HD,516.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudia Alaan TV,https://www.lyngsat.com/tvchannels/sa/Saudia-Alaan-TV.html,False,Saudi Broadcasting Authority,Ara
+5601.0,Quran TV (Saudi Arabia),MPEG-4/HD,2308.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,Saudi Broadcasting Authority,Ara
+5601.0,Quran TV (Saudi Arabia),MPEG-4/HD,2308.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,Saudi Broadcasting Authority,Ara
+5602.0,Sunna TV (Saudi Arabia),MPEG-4/HD,2310.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,Saudi Broadcasting Authority,Ara
+5602.0,Sunna TV (Saudi Arabia),MPEG-4/HD,2310.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,Saudi Broadcasting Authority,Ara
+5603.0,KSA Sports 1,MPEG-4/HD,2312.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 1,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-1.html,False,Saudi Broadcasting Authority,Ara
+5603.0,KSA Sports 1,MPEG-4/HD,2312.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 1,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-1.html,False,Saudi Broadcasting Authority,Ara
+5604.0,KSA Sports 2,MPEG-4/HD,2314.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 2,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-2.html,False,Saudi Broadcasting Authority,Ara
+5604.0,KSA Sports 2,MPEG-4/HD,2314.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 2,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-2.html,False,Saudi Broadcasting Authority,Ara
+5605.0,KSA Sports 3,MPEG-4/HD,2316.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 3,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-3.html,False,Saudi Broadcasting Authority,Ara
+5605.0,KSA Sports 3,MPEG-4/HD,2316.0,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,KSA Sports 3,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-3.html,False,Saudi Broadcasting Authority,Ara
+2620.0,Quran Radio (Saudi Arabia),,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,Saudi Broadcasting Authority,Ara
+2620.0,Quran Radio (Saudi Arabia),,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,Saudi Broadcasting Authority,Ara
+2621.0,Riyadh Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,Saudi Broadcasting Authority,Ara
+2621.0,Riyadh Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,Saudi Broadcasting Authority,Ara
+2622.0,Jeddah Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html,False,Saudi Broadcasting Authority,Ara
+2622.0,Jeddah Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html,False,Saudi Broadcasting Authority,Ara
+2623.0,Saudia Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,Saudi Broadcasting Authority,
+2623.0,Saudia Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,Saudi Broadcasting Authority,
+2624.0,Neda Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Neda Radio,https://www.lyngsat.com/radiochannels/sa/Neda-Radio.html,False,Saudi Broadcasting Authority,Ara
+2624.0,Neda Radio,,,DVB-S2,27500,5/6,11747 H,tp 2,49-50,,,Neda Radio,https://www.lyngsat.com/radiochannels/sa/Neda-Radio.html,False,Saudi Broadcasting Authority,Ara
+,North Telecom,0-1,,DVB-S,27500,7/8,11766 V,tp 3,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-1,,DVB-S,27500,7/8,11766 V,tp 3,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-1,,DVB-S,27500,7/8,11766 V,tp 3,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-1,,DVB-S,27500,7/8,11766 V,tp 3,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-2,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-2,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-2,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-2,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-3,,DVB-S,27500,5/6,12073 V,tp 19,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-3,,DVB-S,27500,5/6,12073 V,tp 19,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-3,,DVB-S,27500,5/6,12073 V,tp 19,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,0-3,,DVB-S,27500,5/6,12073 V,tp 19,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,,,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,,,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,,,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+,North Telecom,,,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,https://www.lyngsat.com/providers/de/North-Telecom.html,,,True,North Telecom,
+1.0,Vox 1,MPEG-2/SD,101.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Vox 1,https://www.lyngsat.com/tvchannels/--/Vox-1.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+59.0,Ganj e Hozour TV,MPEG-2/SD,5910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+77.0,Ganj e Hozour TV,MPEG-2/SD,7710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+24.0,Ganj e Hozour TV,MPEG-2/SD,2410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+47.0,Ganj e Hozour TV,MPEG-2/SD,4710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Ganj e Hozour TV,https://www.lyngsat.com/tvchannels/us/Ganj-e-Hozour-TV.html,False,North Telecom,Per
+60.0,Vox 2,MPEG-2/SD,6010.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Vox 2,https://www.lyngsat.com/tvchannels/--/Vox-2.html,False,North Telecom,Per
+61.0,Yas TV,MPEG-2/SD,6110.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Yas TV,https://www.lyngsat.com/tvchannels/--/Yas-TV.html,False,North Telecom,Per
+62.0,Kanal Jadid,MPEG-2/SD,6210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+62.0,Kanal Jadid,MPEG-2/SD,6210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+62.0,Kanal Jadid,MPEG-2/SD,6210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+62.0,Kanal Jadid,MPEG-2/SD,6210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+78.0,Kanal Jadid,MPEG-4/HD,7810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+78.0,Kanal Jadid,MPEG-4/HD,7810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+78.0,Kanal Jadid,MPEG-4/HD,7810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+78.0,Kanal Jadid,MPEG-4/HD,7810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Kanal Jadid,https://www.lyngsat.com/tvchannels/se/Kanal-Jadid.html,False,North Telecom,Per
+63.0,C++,MPEG-2/SD,6310.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,C++,https://www.lyngsat.com/tvchannels/--/C--.html,False,North Telecom,
+64.0,Ruby Music,MPEG-2/SD,6410.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Ruby Music,https://www.lyngsat.com/tvchannels/--/Ruby-Music.html,False,North Telecom,
+65.0,Toosheh TV,MPEG-2/SD,6510.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Toosheh TV,https://www.lyngsat.com/tvchannels/us/Toosheh-TV.html,False,North Telecom,Per Per
+66.0,My TV,MPEG-2/SD,6610.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,My TV,https://www.lyngsat.com/tvchannels/--/My-TV.html,False,North Telecom,Per
+67.0,Lux TV,MPEG-2/SD,6710.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Lux TV,https://www.lyngsat.com/tvchannels/--/Lux-TV.html,False,North Telecom,Per
+68.0,Tak TV (1),MPEG-2/SD,6810.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Tak TV (1),https://www.lyngsat.com/tvchannels/--/Tak-TV--1-.html,False,North Telecom,
+69.0,Khane Film,MPEG-2/SD,6910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Khane Film,https://www.lyngsat.com/tvchannels/--/Khane-Film.html,False,North Telecom,Per
+70.0,City TV,MPEG-2/SD,7010.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,City TV,https://www.lyngsat.com/tvchannels/--/City-TV.html,False,North Telecom,
+72.0,Didgah TV,MPEG-2/SD,7210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Didgah TV,https://www.lyngsat.com/tvchannels/us/Didgah-TV.html,False,North Telecom,Per
+72.0,Didgah TV,MPEG-2/SD,7210.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Didgah TV,https://www.lyngsat.com/tvchannels/us/Didgah-TV.html,False,North Telecom,Per
+73.0,Honarmandan TV,MPEG-2/SD,7310.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Honarmandan TV,https://www.lyngsat.com/tvchannels/--/Honarmandan-TV.html,False,North Telecom,
+74.0,Tala Kids Club,MPEG-2/SD,7410.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Tala Kids Club,https://www.lyngsat.com/tvchannels/jo/Tala-Kids-Club.html,False,North Telecom,Ara
+75.0,Persian Music,MPEG-2/SD,7510.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Persian Music,https://www.lyngsat.com/tvchannels/--/Persian-Music.html,False,North Telecom,Per
+78.0,Afra Series,MPEG-2/SD,7810.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Afra Series,https://www.lyngsat.com/tvchannels/--/Afra-Series.html,False,North Telecom,
+79.0,Tin TV,MPEG-4/HD,7910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Tin TV,https://www.lyngsat.com/tvchannels/us/Tin-TV.html,False,North Telecom,Per
+79.0,Tin TV,MPEG-4/HD,7910.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Tin TV,https://www.lyngsat.com/tvchannels/us/Tin-TV.html,False,North Telecom,Per
+80.0,See 1,MPEG-2/SD,8010.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,See 1,https://www.lyngsat.com/tvchannels/--/See-1.html,False,North Telecom,
+81.0,Velayat TV Network,MPEG-4/SD,8110.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,North Telecom,Per
+81.0,Velayat TV Network,MPEG-4/SD,8110.0,DVB-S,27500,7/8,11766 V,tp 3,49-50,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,North Telecom,Per
+,Twofour54,1-7,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,https://www.lyngsat.com/providers/ae/Twofour54.html,,,True,Twofour54,
+,Twofour54,1-7,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,https://www.lyngsat.com/providers/ae/Twofour54.html,,,True,Twofour54,
+,Twofour54,1-2,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,https://www.lyngsat.com/providers/ae/Twofour54.html,,,True,Twofour54,
+,Twofour54,1-2,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,https://www.lyngsat.com/providers/ae/Twofour54.html,,,True,Twofour54,
+1.0,Tojikiston,MPEG-4/HD,612.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Tojikiston,https://www.lyngsat.com/tvchannels/tj/Tojikiston.html,False,Twofour54,Tgk
+1.0,Tojikiston,MPEG-4/HD,612.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Tojikiston,https://www.lyngsat.com/tvchannels/tj/Tojikiston.html,False,Twofour54,Tgk
+2.0,TV Safina,MPEG-4/HD,721.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Safina,https://www.lyngsat.com/tvchannels/tj/TV-Safina.html,False,Twofour54,Tgk
+2.0,TV Safina,MPEG-4/HD,721.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Safina,https://www.lyngsat.com/tvchannels/tj/TV-Safina.html,False,Twofour54,Tgk
+3.0,TV Bahoriston,MPEG-4/HD,821.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Bahoriston,https://www.lyngsat.com/tvchannels/tj/TV-Bahoriston.html,False,Twofour54,Tgk
+3.0,TV Bahoriston,MPEG-4/HD,821.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Bahoriston,https://www.lyngsat.com/tvchannels/tj/TV-Bahoriston.html,False,Twofour54,Tgk
+4.0,Jahonnamo,MPEG-4/HD,921.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Jahonnamo,https://www.lyngsat.com/tvchannels/tj/Jahonnamo.html,False,Twofour54,Tgk
+4.0,Jahonnamo,MPEG-4/HD,921.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Jahonnamo,https://www.lyngsat.com/tvchannels/tj/Jahonnamo.html,False,Twofour54,Tgk
+5.0,Varzish TV,MPEG-4/HD,4113.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,BISS,,Varzish TV,https://www.lyngsat.com/tvchannels/tj/Varzish-TV.html,False,Twofour54,Tgk
+5.0,Varzish TV,MPEG-4/HD,4113.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,BISS,,Varzish TV,https://www.lyngsat.com/tvchannels/tj/Varzish-TV.html,False,Twofour54,Tgk
+6.0,TV Sinamo,MPEG-4/HD,611.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Sinamo,https://www.lyngsat.com/tvchannels/tj/TV-Sinamo.html,False,Twofour54,Tgk
+6.0,TV Sinamo,MPEG-4/HD,611.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Sinamo,https://www.lyngsat.com/tvchannels/tj/TV-Sinamo.html,False,Twofour54,Tgk
+7.0,TV Dushanbe,MPEG-4/HD,2114.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Dushanbe,https://www.lyngsat.com/tvchannels/tj/TV-Dushanbe.html,False,Twofour54,Tgk
+7.0,TV Dushanbe,MPEG-4/HD,2114.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Dushanbe,https://www.lyngsat.com/tvchannels/tj/TV-Dushanbe.html,False,Twofour54,Tgk
+8.0,Futbol,MPEG-4/HD,1113.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,BISS,,Futbol,https://www.lyngsat.com/tvchannels/tj/Futbol.html,False,Twofour54,Tgk
+8.0,Futbol,MPEG-4/HD,1113.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,BISS,,Futbol,https://www.lyngsat.com/tvchannels/tj/Futbol.html,False,Twofour54,Tgk
+9.0,TMT Sahnavaz,MPEG-4/HD,3214.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TMT Sahnavaz,https://www.lyngsat.com/tvchannels/tj/TMT-Sahnavaz.html,False,Twofour54,Tgk
+9.0,TMT Sahnavaz,MPEG-4/HD,3214.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TMT Sahnavaz,https://www.lyngsat.com/tvchannels/tj/TMT-Sahnavaz.html,False,Twofour54,Tgk
+10.0,Khatlon HD,MPEG-4/SD,38.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Khatlon HD,https://www.lyngsat.com/tvchannels/tj/Khatlon-HD.html,False,Twofour54,Tgk
+11.0,Badakhshon,MPEG-4/SD,1000.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Badakhshon,https://www.lyngsat.com/tvchannels/tj/Badakhshon.html,False,Twofour54,Tgk
+11.0,Badakhshon,MPEG-4/SD,1000.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Badakhshon,https://www.lyngsat.com/tvchannels/tj/Badakhshon.html,False,Twofour54,Tgk
+12.0,Kulob HD,MPEG-4/SD,264.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Kulob HD,https://www.lyngsat.com/tvchannels/tj/Kulob-HD.html,False,Twofour54,Tgk
+12.0,Kulob HD,MPEG-4/SD,264.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Kulob HD,https://www.lyngsat.com/tvchannels/tj/Kulob-HD.html,False,Twofour54,Tgk
+14.0,Sugd HD,MPEG-4/HD,254.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Sugd HD,https://www.lyngsat.com/tvchannels/tj/Sugd-HD.html,False,Twofour54,Tgk
+14.0,Sugd HD,MPEG-4/HD,254.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Sugd HD,https://www.lyngsat.com/tvchannels/tj/Sugd-HD.html,False,Twofour54,Tgk
+15.0,Ilm va Tabiat,MPEG-4/HD,288.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Ilm va Tabiat,https://www.lyngsat.com/tvchannels/tj/Ilm-va-Tabiat.html,False,Twofour54,Tgk
+15.0,Ilm va Tabiat,MPEG-4/HD,288.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Ilm va Tabiat,https://www.lyngsat.com/tvchannels/tj/Ilm-va-Tabiat.html,False,Twofour54,Tgk
+16.0,TV Sayohi,MPEG-4/HD,291.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Sayohi,https://www.lyngsat.com/tvchannels/tj/TV-Sayohi.html,False,Twofour54,Tgk
+16.0,TV Sayohi,MPEG-4/HD,291.0,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,TV Sayohi,https://www.lyngsat.com/tvchannels/tj/TV-Sayohi.html,False,Twofour54,Tgk
+17.0,Radioi Tojikiston,,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Radioi Tojikiston,https://www.lyngsat.com/radiochannels/tj/Radioi-Tojikiston.html,False,Twofour54,Tgk
+18.0,Ovozi Tojik,,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Ovozi Tojik,https://www.lyngsat.com/radiochannels/tj/Ovozi-Tojik.html,False,Twofour54,Tgk
+19.0,Sadoi Dushanbe,,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Sadoi Dushanbe,https://www.lyngsat.com/radiochannels/tj/Sadoi-Dushanbe.html,False,Twofour54,Tgk
+20.0,Radioi Farhang,,,DVB-S2,27500,3/4,11785 H,tp 4,49-50,,,Radioi Farhang,https://www.lyngsat.com/radiochannels/tj/Radioi-Farhang.html,False,Twofour54,Tgk
+,,1-5,,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,,,False,Twofour54,
+2.0,[Zoom info card],MPEG-4/HD,2001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,,,False,Twofour54,
+3.0,Alahvaz TV,MPEG-2/SD,3001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Alahvaz TV,https://www.lyngsat.com/tvchannels/ir/Alahvaz-TV.html,False,Twofour54,Per
+4.0,Marjaeyat TV Arabic,MPEG-4/HD,4001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Marjaeyat TV Arabic,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Arabic.html,False,Twofour54,Ara
+5.0,Alwilayah TV,MPEG-4/HD,5001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Alwilayah TV,https://www.lyngsat.com/tvchannels/ir/Alwilayah-TV.html,False,Twofour54,Per
+5.0,Alwilayah TV,MPEG-4/HD,5001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Alwilayah TV,https://www.lyngsat.com/tvchannels/ir/Alwilayah-TV.html,False,Twofour54,Per
+6.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,6001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+6.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,6001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+6.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,6001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+6.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,6001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+70.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,7010.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+70.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,7010.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+70.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,7010.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+70.0,Al-Abbasiya Al-Husseiniya Channel,MPEG-4/HD,7010.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Al-Abbasiya Al-Husseiniya Channel,https://www.lyngsat.com/tvchannels/kw/Al-Abbasiya-Al-Husseiniya-Channel.html,False,Twofour54,Ara
+7.0,European Shia TV,MPEG-4/HD,7001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,European Shia TV,https://www.lyngsat.com/tvchannels/--/European-Shia-TV.html,False,Twofour54,
+8.0,24.7 Music TV,MPEG-4/SD,8001.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,24.7 Music TV,https://www.lyngsat.com/tvchannels/--/247-Music-TV.html,False,Twofour54,
+9.0,Ghion TV promo,MPEG-4/HD,910.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,,,False,Twofour54,
+10.0,Gulf Movies,MPEG-4/HD,1010.0,DVB-S,27500,5/6,11843 V,tp 7,51-52,,,Gulf Movies,https://www.lyngsat.com/tvchannels/--/Gulf-Movies.html,False,Twofour54,Ara
+,GEM Group,252-9,,DVB-S,27500,5/6,11881 V,tp 9,49-50,,https://www.lyngsat.com/providers/ca/GEM-Group.html,,,True,GEM Group,
+,GEM Group,252-9,,DVB-S,27500,5/6,11881 V,tp 9,49-50,,https://www.lyngsat.com/providers/ca/GEM-Group.html,,,True,GEM Group,
+,GEM Group,252-17,,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,https://www.lyngsat.com/providers/ca/GEM-Group.html,,,True,GEM Group,
+,GEM Group,252-17,,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,https://www.lyngsat.com/providers/ca/GEM-Group.html,,,True,GEM Group,
+14.0,GEM Food,MPEG-2/SD,1410.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Food,https://www.lyngsat.com/tvchannels/ca/GEM-Food.html,False,GEM Group,Per
+15.0,GEM Fit,MPEG-2/SD,1510.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Fit,https://www.lyngsat.com/tvchannels/ca/GEM-Fit.html,False,GEM Group,
+16.0,GEM Rubix,MPEG-2/SD,1610.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Rubix,https://www.lyngsat.com/tvchannels/ca/GEM-Rubix.html,False,GEM Group,
+17.0,GEM River,MPEG-2/SD,1710.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM River,https://www.lyngsat.com/tvchannels/ca/GEM-River.html,False,GEM Group,
+18.0,GEM Life,MPEG-2/SD,1810.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Life,https://www.lyngsat.com/tvchannels/ca/GEM-Life.html,False,GEM Group,Per
+19.0,GEM Bollywood,MPEG-2/SD,1910.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Bollywood,https://www.lyngsat.com/tvchannels/ca/GEM-Bollywood.html,False,GEM Group,Per
+20.0,GEM Classic,MPEG-2/SD,2010.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Classic,https://www.lyngsat.com/tvchannels/ca/GEM-Classic.html,False,GEM Group,Per
+21.0,GEM Series,MPEG-2/SD,2110.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Series,https://www.lyngsat.com/tvchannels/ca/GEM-Series.html,False,GEM Group,Eng
+22.0,GEM Travel,MPEG-2/SD,2210.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Travel,https://www.lyngsat.com/tvchannels/ca/GEM-Travel.html,False,GEM Group,Per
+23.0,GEM Junior,MPEG-2/SD,2310.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Junior,https://www.lyngsat.com/tvchannels/ca/GEM-Junior.html,False,GEM Group,Per
+24.0,GEM Arabia,MPEG-2/SD,2410.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Arabia,https://www.lyngsat.com/tvchannels/ca/GEM-Arabia.html,False,GEM Group,Ara
+25.0,GEM TV (UAE),MPEG-2/SD,2510.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM TV (UAE),https://www.lyngsat.com/tvchannels/ca/GEM-TV.html,False,GEM Group,Per
+26.0,GEM Academy,MPEG-2/SD,2610.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Academy,https://www.lyngsat.com/tvchannels/ca/GEM-Academy.html,False,GEM Group,
+28.0,GEM Kids,MPEG-2/SD,2810.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Kids,https://www.lyngsat.com/tvchannels/ca/GEM-Kids.html,False,GEM Group,
+29.0,GEM AZ,MPEG-2/SD,2910.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM AZ,https://www.lyngsat.com/tvchannels/ca/GEM-AZ.html,False,GEM Group,Aze
+30.0,GEM Film,MPEG-2/SD,3010.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Film,https://www.lyngsat.com/tvchannels/ca/GEM-Film.html,False,GEM Group,
+34.0,GEM Drama,MPEG-2/SD,2710.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Drama,https://www.lyngsat.com/tvchannels/ca/GEM-Drama.html,False,GEM Group,
+40.0,GEM Pixel,MPEG-2/SD,4010.0,DVB-S,27500,5/6,11881 V,tp 9,49-50,,,GEM Pixel,https://www.lyngsat.com/tvchannels/ca/GEM-Pixel.html,False,GEM Group,
+452.0,Alhurra TV,MPEG-4/HD,900.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Alhurra TV,https://www.lyngsat.com/tvchannels/us/Alhurra-TV.html,False,GEM Group,Ara
+452.0,Alhurra TV,MPEG-4/HD,900.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Alhurra TV,https://www.lyngsat.com/tvchannels/us/Alhurra-TV.html,False,GEM Group,Ara
+465.0,Supreme Master TV,MPEG-4/HD,201.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,False,GEM Group,Eng
+465.0,Supreme Master TV,MPEG-4/HD,201.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,False,GEM Group,Eng
+469.0,VoA TV Afghanistan,MPEG-4/HD,264.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,VoA TV Afghanistan,https://www.lyngsat.com/tvchannels/us/VoA-TV-Afghanistan.html,False,GEM Group,
+475.0,Alarabiya,MPEG-4/HD,48.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Alarabiya,https://www.lyngsat.com/tvchannels/sa/Alarabiya.html,False,GEM Group,Ara
+475.0,Alarabiya,MPEG-4/HD,48.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Alarabiya,https://www.lyngsat.com/tvchannels/sa/Alarabiya.html,False,GEM Group,Ara
+488.0,Begum TV,MPEG-4/HD,481.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Begum TV,https://www.lyngsat.com/tvchannels/af/Begum-TV.html,False,GEM Group,
+570.0,Lemar TV,MPEG-4/HD,81.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Lemar TV,https://www.lyngsat.com/tvchannels/af/Lemar-TV.html,False,GEM Group,
+570.0,Lemar TV,MPEG-4/HD,81.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Lemar TV,https://www.lyngsat.com/tvchannels/af/Lemar-TV.html,False,GEM Group,
+571.0,Tolo TV,MPEG-4/HD,91.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Tolo TV,https://www.lyngsat.com/tvchannels/af/Tolo-TV.html,False,GEM Group,
+571.0,Tolo TV,MPEG-4/HD,91.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Tolo TV,https://www.lyngsat.com/tvchannels/af/Tolo-TV.html,False,GEM Group,
+572.0,Tolo News,MPEG-4/HD,101.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Tolo News,https://www.lyngsat.com/tvchannels/af/Tolo-News.html,False,GEM Group,
+572.0,Tolo News,MPEG-4/HD,101.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Tolo News,https://www.lyngsat.com/tvchannels/af/Tolo-News.html,False,GEM Group,
+582.0,Faza TV,MPEG-4/HD,1026.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Faza TV,https://www.lyngsat.com/tvchannels/--/Faza-TV.html,False,GEM Group,
+583.0,Amu TV,MPEG-4/HD,1028.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Amu TV,https://www.lyngsat.com/tvchannels/us/Amu-TV.html,False,GEM Group,
+588.0,Ariana TV Network,MPEG-4/HD,715.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Ariana TV Network,https://www.lyngsat.com/tvchannels/af/Ariana-TV-Network.html,False,GEM Group,Per
+588.0,Ariana TV Network,MPEG-4/HD,715.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Ariana TV Network,https://www.lyngsat.com/tvchannels/af/Ariana-TV-Network.html,False,GEM Group,Per
+1627.0,Ariana TV Network,MPEG-4/HD,627.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Ariana TV Network,https://www.lyngsat.com/tvchannels/af/Ariana-TV-Network.html,False,GEM Group,Per
+1627.0,Ariana TV Network,MPEG-4/HD,627.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Ariana TV Network,https://www.lyngsat.com/tvchannels/af/Ariana-TV-Network.html,False,GEM Group,Per
+589.0,Arezo TV,MPEG-4/HD,1030.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arezo TV,https://www.lyngsat.com/tvchannels/af/Arezo-TV.html,False,GEM Group,
+589.0,Arezo TV,MPEG-4/HD,1030.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arezo TV,https://www.lyngsat.com/tvchannels/af/Arezo-TV.html,False,GEM Group,
+1622.0,Arezo TV,MPEG-4/HD,38.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Arezo TV,https://www.lyngsat.com/tvchannels/af/Arezo-TV.html,False,GEM Group,
+1622.0,Arezo TV,MPEG-4/HD,38.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Arezo TV,https://www.lyngsat.com/tvchannels/af/Arezo-TV.html,False,GEM Group,
+590.0,Shamshad TV,MPEG-4/SD,1033.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Shamshad TV,https://www.lyngsat.com/tvchannels/af/Shamshad-TV.html,False,GEM Group,Pus
+590.0,Shamshad TV,MPEG-4/SD,1033.0,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Shamshad TV,https://www.lyngsat.com/tvchannels/af/Shamshad-TV.html,False,GEM Group,Pus
+1604.0,Shamshad TV,MPEG-4/SD,48.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Shamshad TV,https://www.lyngsat.com/tvchannels/af/Shamshad-TV.html,False,GEM Group,Pus
+1604.0,Shamshad TV,MPEG-4/SD,48.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Shamshad TV,https://www.lyngsat.com/tvchannels/af/Shamshad-TV.html,False,GEM Group,Pus
+461.0,Radio Nawa FM,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Radio Nawa FM,https://www.lyngsat.com/radiochannels/af/Radio-Nawa-FM.html,False,GEM Group,
+467.0,Radio Ashna,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Radio Ashna,https://www.lyngsat.com/radiochannels/us/Radio-Ashna.html,False,GEM Group,
+468.0,Deewa Radio,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Deewa Radio,https://www.lyngsat.com/radiochannels/us/Deewa-Radio.html,False,GEM Group,
+578.0,Afghanistan International Radio,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Afghanistan International Radio,https://www.lyngsat.com/radiochannels/uk/Afghanistan-International-Radio.html,False,GEM Group,
+578.0,Afghanistan International Radio,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Afghanistan International Radio,https://www.lyngsat.com/radiochannels/uk/Afghanistan-International-Radio.html,False,GEM Group,
+579.0,Arman FM,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arman FM,https://www.lyngsat.com/radiochannels/af/Arman-FM.html,False,GEM Group,
+580.0,Arakozia FM,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arakozia FM,https://www.lyngsat.com/radiochannels/af/Arakozia-FM.html,False,GEM Group,
+590.0,Arezo Radio,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arezo Radio,https://www.lyngsat.com/radiochannels/af/Arezo-Radio.html,False,GEM Group,
+590.0,Arezo Radio,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Arezo Radio,https://www.lyngsat.com/radiochannels/af/Arezo-Radio.html,False,GEM Group,
+1728.0,Arezo Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Arezo Radio,https://www.lyngsat.com/radiochannels/af/Arezo-Radio.html,False,GEM Group,
+1728.0,Arezo Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Arezo Radio,https://www.lyngsat.com/radiochannels/af/Arezo-Radio.html,False,GEM Group,
+592.0,Shamshad FM,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Shamshad FM,https://www.lyngsat.com/radiochannels/af/Shamshad-FM.html,False,GEM Group,
+592.0,Shamshad FM,,,DVB-S2,27500,3/4,11938 H,tp 12,49-50,,,Shamshad FM,https://www.lyngsat.com/radiochannels/af/Shamshad-FM.html,False,GEM Group,
+1709.0,Shamshad FM,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Shamshad FM,https://www.lyngsat.com/radiochannels/af/Shamshad-FM.html,False,GEM Group,
+1709.0,Shamshad FM,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Shamshad FM,https://www.lyngsat.com/radiochannels/af/Shamshad-FM.html,False,GEM Group,
+1.0,LoveWorld Persia,MPEG-2/SD,110.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,LoveWorld Persia,https://www.lyngsat.com/tvchannels/ng/LoveWorld-Persia.html,False,GEM Group,Eng
+1.0,LoveWorld Persia,MPEG-2/SD,110.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,LoveWorld Persia,https://www.lyngsat.com/tvchannels/ng/LoveWorld-Persia.html,False,GEM Group,Eng
+2.0,Hodhod Farsi TV,MPEG-2/SD,210.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Hodhod Farsi TV,https://www.lyngsat.com/tvchannels/ir/Hodhod-Farsi-TV.html,False,GEM Group,Per
+4.0,Yahsat promo,MPEG-2/SD,410.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,,,False,GEM Group,
+8.0,Yahsat promo,MPEG-2/SD,810.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,,,False,GEM Group,
+16.0,Yahsat promo,MPEG-2/SD,1610.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,,,False,GEM Group,
+18.0,Yahsat promo,MPEG-2/SD,1810.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,,,False,GEM Group,
+45.0,Yahsat promo,MPEG-2/SD,4510.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,,,False,GEM Group,
+69.0,Yahsat promo,MPEG-2/SD,6910.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,,,False,GEM Group,
+71.0,Yahsat promo,MPEG-2/SD,7110.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,,,False,GEM Group,
+81.0,Yahsat promo,MPEG-2/SD,8022.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,,,False,GEM Group,
+5.0,Iran B Marz TV,MPEG-2/SD,510.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Iran B Marz TV,https://www.lyngsat.com/tvchannels/--/Iran-B-Marz-TV.html,False,GEM Group,
+6.0,Afra Film,MPEG-2/SD,610.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Afra Film,https://www.lyngsat.com/tvchannels/--/Afra-Film.html,False,GEM Group,
+7.0,Movie 1,MPEG-2/SD,710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Movie 1,https://www.lyngsat.com/tvchannels/--/Movie-1.html,False,GEM Group,
+9.0,Kalemeh TV Al Yah,MPEG-2/SD,910.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Kalemeh TV Al Yah,https://www.lyngsat.com/tvchannels/uk/Kalemeh-TV-Al-Yah.html,False,GEM Group,
+11.0,Seven,MPEG-4/SD,1710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Seven,https://www.lyngsat.com/tvchannels/us/Seven.html,False,GEM Group,Per
+11.0,Seven,MPEG-4/SD,1710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Seven,https://www.lyngsat.com/tvchannels/us/Seven.html,False,GEM Group,Per
+72.0,Seven,MPEG-4/SD,7210.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Seven,https://www.lyngsat.com/tvchannels/us/Seven.html,False,GEM Group,Per
+72.0,Seven,MPEG-4/SD,7210.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Seven,https://www.lyngsat.com/tvchannels/us/Seven.html,False,GEM Group,Per
+12.0,TV 8,MPEG-2/SD,1210.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,TV 8,https://www.lyngsat.com/tvchannels/--/TV-8.html,False,GEM Group,
+13.0,U Toon,MPEG-2/SD,1310.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,U Toon,https://www.lyngsat.com/tvchannels/ae/U-Toon.html,False,GEM Group,
+15.0,Mohabat TV,MPEG-2/SD,1510.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Mohabat TV,https://www.lyngsat.com/tvchannels/us/Mohabat-TV.html,False,GEM Group,Per
+15.0,Mohabat TV,MPEG-2/SD,1510.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Mohabat TV,https://www.lyngsat.com/tvchannels/us/Mohabat-TV.html,False,GEM Group,Per
+17.0,Sat 7 Pars,MPEG-4/HD,1710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Sat 7 Pars,https://www.lyngsat.com/tvchannels/cy/Sat-7-Pars.html,False,GEM Group,Per
+17.0,Sat 7 Pars,MPEG-4/HD,1710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Sat 7 Pars,https://www.lyngsat.com/tvchannels/cy/Sat-7-Pars.html,False,GEM Group,Per
+23.0,Hadi TV 6,MPEG-4/SD,2310.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Hadi TV 6,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-6.html,False,GEM Group,
+25.0,Kalemeh TV Hotbird,MPEG-2/SD,2510.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Kalemeh TV Hotbird,https://www.lyngsat.com/tvchannels/uk/Kalemeh-TV-Hotbird.html,False,GEM Group,Per
+25.0,Kalemeh TV Hotbird,MPEG-2/SD,2510.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Kalemeh TV Hotbird,https://www.lyngsat.com/tvchannels/uk/Kalemeh-TV-Hotbird.html,False,GEM Group,Per
+27.0,Ayeneh TV,MPEG-4/SD,2710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+27.0,Ayeneh TV,MPEG-4/SD,2710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+27.0,Ayeneh TV,MPEG-4/SD,2710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+27.0,Ayeneh TV,MPEG-4/SD,2710.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+73.0,Ayeneh TV,MPEG-4/HD,7310.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+73.0,Ayeneh TV,MPEG-4/HD,7310.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+73.0,Ayeneh TV,MPEG-4/HD,7310.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+73.0,Ayeneh TV,MPEG-4/HD,7310.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Ayeneh TV,https://www.lyngsat.com/tvchannels/us/Ayeneh-TV.html,False,GEM Group,Per
+30.0,Radis,MPEG-2/SD,3010.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radis,https://www.lyngsat.com/tvchannels/--/Radis.html,False,GEM Group,
+30.0,Radis,MPEG-2/SD,3010.0,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radis,https://www.lyngsat.com/tvchannels/--/Radis.html,False,GEM Group,
+2.0,Radis,MPEG-4/SD,201.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Radis,https://www.lyngsat.com/tvchannels/--/Radis.html,False,GEM Group,
+2.0,Radis,MPEG-4/SD,201.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Radis,https://www.lyngsat.com/tvchannels/--/Radis.html,False,GEM Group,
+28.0,Radio RanginKaman,,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radio RanginKaman,https://www.lyngsat.com/radiochannels/us/Radio-RanginKaman.html,False,GEM Group,
+28.0,Radio RanginKaman,,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radio RanginKaman,https://www.lyngsat.com/radiochannels/us/Radio-RanginKaman.html,False,GEM Group,
+29.0,Radio Mojdeh,,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radio Mojdeh,https://www.lyngsat.com/radiochannels/uk/Radio-Mojdeh.html,False,GEM Group,Per
+29.0,Radio Mojdeh,,,DVB-S,27500,7/8,11958 V,tp 13,49-50,,,Radio Mojdeh,https://www.lyngsat.com/radiochannels/uk/Radio-Mojdeh.html,False,GEM Group,Per
+,Arqiva,525-1,,DVB-S,27500,7/8,11996 V,tp 15,49-50,,https://www.lyngsat.com/providers/uk/Arqiva.html,,,True,Arqiva,
+101.0,BBC Persian,MPEG-2/SD,1001.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC Persian,https://www.lyngsat.com/tvchannels/uk/BBC-Persian.html,False,Arqiva,Per
+101.0,BBC Persian,MPEG-2/SD,1001.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC Persian,https://www.lyngsat.com/tvchannels/uk/BBC-Persian.html,False,Arqiva,Per
+102.0,MBC Persia,MPEG-4/HD,1101.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,MBC Persia,https://www.lyngsat.com/tvchannels/sa/MBC-Persia.html,False,Arqiva,Per
+102.0,MBC Persia,MPEG-4/HD,1101.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,MBC Persia,https://www.lyngsat.com/tvchannels/sa/MBC-Persia.html,False,Arqiva,Per
+104.0,MBC Persia,MPEG-2/SD,1301.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,MBC Persia,https://www.lyngsat.com/tvchannels/sa/MBC-Persia.html,False,Arqiva,Per
+104.0,MBC Persia,MPEG-2/SD,1301.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,MBC Persia,https://www.lyngsat.com/tvchannels/sa/MBC-Persia.html,False,Arqiva,Per
+103.0,BBC Arabic,MPEG-2/SD,1201.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC Arabic,https://www.lyngsat.com/tvchannels/uk/BBC-Arabic.html,False,Arqiva,Ara
+103.0,BBC Arabic,MPEG-2/SD,1201.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC Arabic,https://www.lyngsat.com/tvchannels/uk/BBC-Arabic.html,False,Arqiva,Ara
+107.0,BBC News Afghanistan,MPEG-4/SD,1601.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC News Afghanistan,https://www.lyngsat.com/tvchannels/uk/BBC-News-Afghanistan.html,False,Arqiva,
+108.0,Radio Farda TV,MPEG-2/SD,2201.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Radio Farda TV,https://www.lyngsat.com/tvchannels/us/Radio-Farda-TV.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+109.0,Iran International,MPEG-2/SD,1801.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+110.0,Iran International,MPEG-4/HD,1901.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+43.0,Iran International,MPEG-2/SD,4310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,False,Arqiva,Per
+202.0,CNN International Europe,MPEG-2/SD,2101.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,CNN International Europe,https://www.lyngsat.com/tvchannels/us/CNN-International-Europe.html,False,Arqiva,Eng
+203.0,VoA TV Persian,MPEG-4/HD,1701.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,VoA TV Persian,https://www.lyngsat.com/tvchannels/us/VoA-TV-Persian.html,False,Arqiva,Per
+203.0,VoA TV Persian,MPEG-4/HD,1701.0,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,VoA TV Persian,https://www.lyngsat.com/tvchannels/us/VoA-TV-Persian.html,False,Arqiva,Per
+105.0,BBC World Service Afghanistan,,,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC World Service Afghanistan,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Afghanistan.html,False,Arqiva,Per
+106.0,BBC World Service Arabic,,,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,Arqiva,Ara
+106.0,BBC World Service Arabic,,,DVB-S,27500,7/8,11996 V,tp 15,49-50,,,BBC World Service Arabic,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-Arabic.html,False,Arqiva,Ara
+,Afghanistan mux,525-4,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1614.0,Tamadon TV,MPEG-4/SD,43.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Tamadon TV,https://www.lyngsat.com/tvchannels/af/Tamadon-TV.html,False,Arqiva,Per
+1615.0,Noor TV (Afghanistan),MPEG-4/SD,615.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Noor TV (Afghanistan),https://www.lyngsat.com/tvchannels/af/Noor-TV.html,False,Arqiva,Per
+1616.0,[Chekad TV info card],MPEG-4/HD,50.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1620.0,Zhwandoon TV,MPEG-4/SD,620.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Zhwandoon TV,https://www.lyngsat.com/tvchannels/af/Zhwandoon-TV.html,False,Arqiva,Pus
+1626.0,ATN News (Afghanistan),MPEG-4/HD,626.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,ATN News (Afghanistan),https://www.lyngsat.com/tvchannels/af/ATN-News.html,False,Arqiva,Per
+1626.0,ATN News (Afghanistan),MPEG-4/HD,626.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,ATN News (Afghanistan),https://www.lyngsat.com/tvchannels/af/ATN-News.html,False,Arqiva,Per
+1630.0,RTA,MPEG-4/HD,42.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA,https://www.lyngsat.com/tvchannels/af/RTA.html,False,Arqiva,Per
+1630.0,RTA,MPEG-4/HD,42.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA,https://www.lyngsat.com/tvchannels/af/RTA.html,False,Arqiva,Per
+1631.0,RTA,MPEG-4/HD,51.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA,https://www.lyngsat.com/tvchannels/af/RTA.html,False,Arqiva,Per
+1631.0,RTA,MPEG-4/HD,51.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA,https://www.lyngsat.com/tvchannels/af/RTA.html,False,Arqiva,Per
+1632.0,RTA Sport,MPEG-4/HD,54.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA Sport,https://www.lyngsat.com/tvchannels/af/RTA-Sport.html,False,Arqiva,
+1634.0,RTA Education,MPEG-4/HD,64.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA Education,https://www.lyngsat.com/tvchannels/af/RTA-Education.html,False,Arqiva,
+1635.0,[RTA Education Radio info card],MPEG-4/SD,67.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1637.0,[RTA Taranum Radio info card],MPEG-4/SD,69.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1638.0,[Afghanistan National Radio info card],MPEG-4/SD,58.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1639.0,[Voice of Sharia info card],MPEG-4/SD,61.0,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,,,False,Arqiva,
+1635.0,RTA Education Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA Education Radio,https://www.lyngsat.com/radiochannels/af/RTA-Education-Radio.html,False,Arqiva,
+1637.0,RTA Taranum Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,RTA Taranum Radio,https://www.lyngsat.com/radiochannels/af/RTA-Taranum-Radio.html,False,Arqiva,
+1638.0,Afghanistan National Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Afghanistan National Radio,https://www.lyngsat.com/radiochannels/af/Afghanistan-National-Radio.html,False,Arqiva,
+1639.0,Voice of Sharia,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Voice of Sharia,https://www.lyngsat.com/radiochannels/af/Voice-of-Sharia.html,False,Arqiva,
+1705.0,Salam Watandar,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Salam Watandar,https://www.lyngsat.com/radiochannels/af/Salam-Watandar.html,False,Arqiva,Per
+1706.0,Zhwandoon Radio,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Zhwandoon Radio,https://www.lyngsat.com/radiochannels/af/Zhwandoon-Radio.html,False,Arqiva,Pus
+1708.0,Ariana FM,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Ariana FM,https://www.lyngsat.com/radiochannels/af/Ariana-FM.html,False,Arqiva,
+1708.0,Ariana FM,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Ariana FM,https://www.lyngsat.com/radiochannels/af/Ariana-FM.html,False,Arqiva,
+1724.0,Sabawoon Radi,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Sabawoon Radi,https://www.lyngsat.com/radiochannels/af/Sabawoon-Radi.html,False,Arqiva,
+1725.0,Radio Killid Kabul,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Radio Killid Kabul,https://www.lyngsat.com/radiochannels/af/Radio-Killid-Kabul.html,False,Arqiva,
+1725.0,Radio Killid Kabul,,,DVB-S2,27500,3/4,12015 H,tp 16,49-50,,,Radio Killid Kabul,https://www.lyngsat.com/radiochannels/af/Radio-Killid-Kabul.html,False,Arqiva,
+11.0,GEM Onyx,MPEG-4/HD,1110.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Onyx,https://www.lyngsat.com/tvchannels/ca/GEM-Onyx.html,False,Arqiva,
+12.0,GEM Rubix +,MPEG-4/HD,1210.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Rubix +,https://www.lyngsat.com/tvchannels/ca/GEM-Rubix--.html,False,Arqiva,
+14.0,GEM River +,MPEG-4/HD,1410.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM River +,https://www.lyngsat.com/tvchannels/ca/GEM-River--.html,False,Arqiva,
+15.0,GEM 24B,MPEG-4/HD,1510.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM 24B,https://www.lyngsat.com/tvchannels/ca/GEM-24B.html,False,Arqiva,
+16.0,GEM +,MPEG-4/HD,1610.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM +,https://www.lyngsat.com/tvchannels/ca/GEM--.html,False,Arqiva,Per
+17.0,GEM Drama +,MPEG-4/HD,1710.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Drama +,https://www.lyngsat.com/tvchannels/ca/GEM-Drama--.html,False,Arqiva,
+19.0,GEM Series +,MPEG-4/HD,259.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Series +,https://www.lyngsat.com/tvchannels/ca/GEM-Series--.html,False,Arqiva,Eng
+22.0,GEM Mifa,MPEG-4/HD,2210.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Mifa,https://www.lyngsat.com/tvchannels/ca/GEM-Mifa.html,False,Arqiva,
+23.0,GEM Latino,MPEG-4/SD,2310.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Latino,https://www.lyngsat.com/tvchannels/ca/GEM-Latino.html,False,Arqiva,
+24.0,GEM Comedy,MPEG-4/SD,2410.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Comedy,https://www.lyngsat.com/tvchannels/ca/GEM-Comedy.html,False,Arqiva,
+25.0,GEM Property,MPEG-4/SD,2510.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Property,https://www.lyngsat.com/tvchannels/ca/GEM-Property.html,False,Arqiva,
+26.0,GEM Nature,MPEG-4/HD,2610.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Nature,https://www.lyngsat.com/tvchannels/ca/GEM-Nature.html,False,Arqiva,
+27.0,GEM Modern Economy,MPEG-4/SD,2710.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Modern Economy,https://www.lyngsat.com/tvchannels/ca/GEM-Modern-Economy.html,False,Arqiva,
+28.0,GEM Mifa +,MPEG-4/HD,2810.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Mifa +,https://www.lyngsat.com/tvchannels/ca/GEM-Mifa--.html,False,Arqiva,
+29.0,GEM Crypto,MPEG-4/SD,2910.0,DVB-S2,27500,3/4,12034 V,tp 17,49-50,,,GEM Crypto,https://www.lyngsat.com/tvchannels/ca/GEM-Crypto.html,False,Arqiva,
+,Du,1-800,,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,https://www.lyngsat.com/providers/ae/Du.html,,,True,Du,
+,Du,1-800,,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,https://www.lyngsat.com/providers/ae/Du.html,,,True,Du,
+,Du,525-24,,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,https://www.lyngsat.com/providers/ae/Du.html,,,True,Du,
+,Du,525-24,,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,https://www.lyngsat.com/providers/ae/Du.html,,,True,Du,
+801.0,DocuBox HD,MPEG-4/HD,8011.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,DocuBox HD,https://www.lyngsat.com/tvchannels/us/DocuBox-HD.html,False,Du,Eng
+802.0,FilmBox Africa,MPEG-4/HD,8021.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,FilmBox Africa,https://www.lyngsat.com/tvchannels/us/FilmBox-Africa.html,False,Du,Eng
+803.0,FilmBox Arthouse Africa & Turkey & Middle East,MPEG-4/SD,8031.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,FilmBox Arthouse Africa & Turkey & Middle East,https://www.lyngsat.com/tvchannels/us/FilmBox-Arthouse-Africa-and-Turkey-and-Middle-East.html,False,Du,Eng
+804.0,FightBox HD,MPEG-4/HD,8041.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,FightBox HD,https://www.lyngsat.com/tvchannels/us/FightBox-HD.html,False,Du,Eng
+805.0,Fast & FunBox HD,MPEG-4/SD,8051.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,Fast & FunBox HD,https://www.lyngsat.com/tvchannels/us/Fast-and-FunBox-HD.html,False,Du,Eng
+806.0,Dizi,MPEG-4/HD,8061.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,Dizi,https://www.lyngsat.com/tvchannels/us/Dizi.html,False,Du,Eng
+807.0,Gametoon,MPEG-4/HD,8071.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,Gametoon,https://www.lyngsat.com/tvchannels/us/Gametoon.html,False,Du,Eng
+808.0,FilmBox Family,MPEG-4/HD,8081.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,FilmBox Family,https://www.lyngsat.com/tvchannels/us/FilmBox-Family.html,False,Du,Eng
+809.0,FilmBox Action,MPEG-4/HD,8091.0,DVB-S2,27500,3/5,12054 H,tp 18,51-52,Conax,,FilmBox Action,https://www.lyngsat.com/tvchannels/us/FilmBox-Action.html,False,Du,Eng
+19.0,Marjaeyat TV Persian,MPEG-2/SD,1901.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Marjaeyat TV Persian,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Persian.html,False,Du,Per
+19.0,Marjaeyat TV Persian,MPEG-2/SD,1901.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Marjaeyat TV Persian,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Persian.html,False,Du,Per
+19.0,Marjaeyat TV Persian,MPEG-4/HD,1901.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Marjaeyat TV Persian,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Persian.html,False,Du,Per
+19.0,Marjaeyat TV Persian,MPEG-4/HD,1901.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Marjaeyat TV Persian,https://www.lyngsat.com/tvchannels/iq/Marjaeyat-TV-Persian.html,False,Du,Per
+20.0,Imam Hussein TV 1,MPEG-2/SD,2001.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+20.0,Imam Hussein TV 1,MPEG-2/SD,2001.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+20.0,Imam Hussein TV 1,MPEG-2/SD,2001.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+20.0,Imam Hussein TV 1,MPEG-2/SD,2001.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+48.0,Imam Hussein TV 1,MPEG-4/HD,4810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+48.0,Imam Hussein TV 1,MPEG-4/HD,4810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+48.0,Imam Hussein TV 1,MPEG-4/HD,4810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+48.0,Imam Hussein TV 1,MPEG-4/HD,4810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Imam Hussein TV 1,https://www.lyngsat.com/tvchannels/iq/Imam-Hussein-TV-1.html,False,Du,Per
+28.0,PBC Tapesh,MPEG-2/SD,2810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,PBC Tapesh,https://www.lyngsat.com/tvchannels/us/PBC-Tapesh.html,False,Du,Per
+31.0,Channel One TV,MPEG-2/SD,3110.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,Du,Per
+31.0,Channel One TV,MPEG-2/SD,3110.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,Du,Per
+4.0,Channel One TV,MPEG-4/SD,410.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,Du,Per
+4.0,Channel One TV,MPEG-4/SD,410.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Channel One TV,https://www.lyngsat.com/tvchannels/us/Channel-One-TV.html,False,Du,Per
+32.0,Arraata Biyyoolessa Oromiyaa,MPEG-2/SD,3210.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Arraata Biyyoolessa Oromiyaa,https://www.lyngsat.com/tvchannels/ca/Arraata-Biyyoolessa-Oromiyaa.html,False,Du,Orm
+33.0,Asena TV,MPEG-2/SD,3310.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Asena TV,https://www.lyngsat.com/tvchannels/uk/Asena-TV.html,False,Du,Tir
+34.0,Horn Broadcasting Services,MPEG-2/SD,3410.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Horn Broadcasting Services,https://www.lyngsat.com/tvchannels/us/Horn-Broadcasting-Services.html,False,Du,
+35.0,Oromia Media Network,MPEG-2/SD,3510.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Oromia Media Network,https://www.lyngsat.com/tvchannels/us/Oromia-Media-Network.html,False,Du,Orm
+36.0,Nour TV (UAE),MPEG-2/SD,3610.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Nour TV (UAE),https://www.lyngsat.com/tvchannels/ae/Nour-TV.html,False,Du,Ara
+36.0,Nour TV (UAE),MPEG-2/SD,3610.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Nour TV (UAE),https://www.lyngsat.com/tvchannels/ae/Nour-TV.html,False,Du,Ara
+46.0,DW International,MPEG-2/SD,4610.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,DW International,https://www.lyngsat.com/tvchannels/et/DW-International.html,False,Du,Tir
+50.0,BeitolAbbas TV Channel,MPEG-4/HD,5010.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,BeitolAbbas TV Channel,https://www.lyngsat.com/tvchannels/iq/BeitolAbbas-TV-Channel.html,False,Du,Ara
+50.0,BeitolAbbas TV Channel,MPEG-4/HD,5010.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,BeitolAbbas TV Channel,https://www.lyngsat.com/tvchannels/iq/BeitolAbbas-TV-Channel.html,False,Du,Ara
+52.0,MITV,MPEG-2/SD,5210.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,MITV,https://www.lyngsat.com/tvchannels/--/MITV.html,False,Du,
+56.0,Tigrai TV,MPEG-2/SD,5610.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Tigrai TV,https://www.lyngsat.com/tvchannels/et/Tigrai-TV.html,False,Du,Tir
+57.0,Dedebit TV,MPEG-2/SD,5710.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Dedebit TV,https://www.lyngsat.com/tvchannels/au/Dedebit-TV.html,False,Du,
+58.0,TMH TV,MPEG-2/SD,5810.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,TMH TV,https://www.lyngsat.com/tvchannels/us/TMH-TV.html,False,Du,Tir
+70.0,Payam-e-Afghan TV,MPEG-2/SD,7010.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Payam-e-Afghan TV,https://www.lyngsat.com/tvchannels/us/Payam-e-Afghan-TV.html,False,Du,Per
+70.0,Payam-e-Afghan TV,MPEG-2/SD,7010.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Payam-e-Afghan TV,https://www.lyngsat.com/tvchannels/us/Payam-e-Afghan-TV.html,False,Du,Per
+71.0,Oromia 11,MPEG-2/SD,7110.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Oromia 11,https://www.lyngsat.com/tvchannels/us/Oromia-11.html,False,Du,Orm
+90.0,CityTV,MPEG-2/SD,3131.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,CityTV,https://www.lyngsat.com/tvchannels/--/CityTV.html,False,Du,
+91.0,HPTV Persian,MPEG-2/SD,3141.0,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,HPTV Persian,https://www.lyngsat.com/tvchannels/ca/HPTV-Persian.html,False,Du,Per
+80.0,Tigrai Radio,,,DVB-S,27500,5/6,12073 V,tp 19,49-50,,,Tigrai Radio,https://www.lyngsat.com/radiochannels/et/Tigrai-Radio.html,False,Du,Tir
+1.0,Jannatul Baqi TV,MPEG-4/SD,101.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Jannatul Baqi TV,https://www.lyngsat.com/tvchannels/ir/Jannatul-Baqi-TV.html,False,Du,Per
+3.0,Hodhod Farsi TV HD,MPEG-4/HD,301.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Hodhod Farsi TV HD,https://www.lyngsat.com/tvchannels/ir/Hodhod-Farsi-TV-HD.html,False,Du,Per
+8.0,Derakhte Zendegi TV,MPEG-4/HD,810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Derakhte Zendegi TV,https://www.lyngsat.com/tvchannels/de/Derakhte-Zendegi-TV.html,False,Du,Per
+8.0,Derakhte Zendegi TV,MPEG-4/HD,810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Derakhte Zendegi TV,https://www.lyngsat.com/tvchannels/de/Derakhte-Zendegi-TV.html,False,Du,Per
+9.0,Khatereh TV,MPEG-4/HD,910.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Khatereh TV,https://www.lyngsat.com/tvchannels/de/Khatereh-TV.html,False,Du,
+9.0,Khatereh TV,MPEG-4/HD,910.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Khatereh TV,https://www.lyngsat.com/tvchannels/de/Khatereh-TV.html,False,Du,
+68.0,Hambastegi TV,MPEG-4/HD,6810.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Hambastegi TV,https://www.lyngsat.com/tvchannels/--/Hambastegi-TV.html,False,Du,
+74.0,Didar TV,MPEG-4/HD,7410.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Didar TV,https://www.lyngsat.com/tvchannels/fr/Didar-TV.html,False,Du,
+75.0,Komala TV,MPEG-4/HD,7510.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Komala TV,https://www.lyngsat.com/tvchannels/se/Komala-TV.html,False,Du,Kur
+75.0,Komala TV,MPEG-4/HD,7510.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Komala TV,https://www.lyngsat.com/tvchannels/se/Komala-TV.html,False,Du,Kur
+79.0,Abalfadhl TV,MPEG-4/HD,7910.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Abalfadhl TV,https://www.lyngsat.com/tvchannels/iq/Abalfadhl-TV.html,False,Du,Per
+82.0,ABC TV (USA),MPEG-4/HD,8013.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,ABC TV (USA),https://www.lyngsat.com/tvchannels/us/ABC-TV.html,False,Du,Amh
+82.0,ABC TV (USA),MPEG-4/HD,8013.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,ABC TV (USA),https://www.lyngsat.com/tvchannels/us/ABC-TV.html,False,Du,Amh
+83.0,Valiasr-aj TV,MPEG-4/HD,8014.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Valiasr-aj TV,https://www.lyngsat.com/tvchannels/ir/Valiasr-aj-TV.html,False,Du,Per
+83.0,Valiasr-aj TV,MPEG-4/HD,8014.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Valiasr-aj TV,https://www.lyngsat.com/tvchannels/ir/Valiasr-aj-TV.html,False,Du,Per
+84.0,Hadi TV 4,MPEG-4/SD,8015.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Hadi TV 4,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-4.html,False,Du,
+84.0,Hadi TV 4,MPEG-4/SD,8015.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Hadi TV 4,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-4.html,False,Du,
+89.0,Towheed TV,MPEG-4/HD,8020.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Towheed TV,https://www.lyngsat.com/tvchannels/ae/Towheed-TV.html,False,Du,Per
+89.0,Towheed TV,MPEG-4/HD,8020.0,DVB-S2,27500,3/4,12149 V,tp 23,49-50,,,Towheed TV,https://www.lyngsat.com/tvchannels/ae/Towheed-TV.html,False,Du,Per
+1.0,Star World Middle East,MPEG-4/HD,401.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star World Middle East,https://www.lyngsat.com/tvchannels/us/Star-World-Middle-East.html,False,Du,Eng
+2.0,Star Movies Middle East,MPEG-4/HD,421.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star Movies Middle East,https://www.lyngsat.com/tvchannels/us/Star-Movies-Middle-East.html,False,Du,Eng
+3.0,Baby TV Europe,MPEG-4/HD,431.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Baby TV Europe,https://www.lyngsat.com/tvchannels/uk/Baby-TV-Europe.html,False,Du,Eng Ara
+4.0,Star Films,MPEG-4/HD,441.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star Films,https://www.lyngsat.com/tvchannels/us/Star-Films.html,False,Du,Eng
+5.0,Star Series,MPEG-4/HD,451.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star Series,https://www.lyngsat.com/tvchannels/us/Star-Series.html,False,Du,Eng
+7.0,Star Action,MPEG-4/HD,471.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star Action,https://www.lyngsat.com/tvchannels/us/Star-Action.html,False,Du,Eng
+10.0,Star Life Middle East,MPEG-4/HD,4011.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Star Life Middle East,https://www.lyngsat.com/tvchannels/us/Star-Life-Middle-East.html,False,Du,Ara
+15.0,National Geographic Middle East,MPEG-4/HD,4151.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,National Geographic Middle East,https://www.lyngsat.com/tvchannels/us/National-Geographic-Middle-East.html,False,Du,Eng
+16.0,National Geographic Wild Middle East,MPEG-4/HD,4161.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,National Geographic Wild Middle East,https://www.lyngsat.com/tvchannels/us/National-Geographic-Wild-Middle-East.html,False,Du,Eng
+24.0,Disney Channel Middle East,MPEG-4/HD,4171.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Disney Channel Middle East,https://www.lyngsat.com/tvchannels/us/Disney-Channel-Middle-East.html,False,Du,Eng
+25.0,Disney Junior Middle East,MPEG-4/HD,4181.0,DVB-S2,27500,5/6,12169 H,tp 24,51-52,Irdeto,,Disney Junior Middle East,https://www.lyngsat.com/tvchannels/us/Disney-Junior-Middle-East.html,False,Du,Eng

@@ -1,0 +1,496 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,,318-11100,,DVB-S2,30000,3/4,10727 H,tp 111,44-46,"Irdeto,Nagravision,Viaccess",,,,,,False,,
+,,,,DVB-S2,29900,5/6,12245 H,tp 77,44-46,,,,,,,False,,
+4602,NASA TV UHD,HEVC/UHD,357.0,DVB-S2,30000,3/4,10727 H,tp 111,44-46,,,NASA TV UHD,https://www.lyngsat.com/tvchannels/us/NASA-TV-UHD.html,,,False,,Eng Eng
+4603,Travelxp 4K Europe,HEVC/UHD,457.0,DVB-S2,30000,3/4,10727 H,tp 111,44-46,"Irdeto,Nagravision,Viaccess",,Travelxp 4K Europe,https://www.lyngsat.com/tvchannels/in/Travelxp-4K-Europe.html,,,False,,Eng Cze Ger Hun Fre Rus Pol
+4604,Museum TV International,HEVC/UHD,6041.0,DVB-S2,30000,3/4,10727 H,tp 111,44-46,"Irdeto,Nagravision,Viaccess",,Museum TV International,https://www.lyngsat.com/tvchannels/fr/Museum-TV-International.html,,,False,,Eng Fre Pol Rus
+4605,MyZen TV 4K,HEVC/UHD,6501.0,DVB-S2,30000,3/4,10727 H,tp 111,44-46,"Irdeto,Nagravision,Viaccess",,MyZen TV 4K,https://www.lyngsat.com/tvchannels/fr/MyZen-TV-4K.html,,,False,,Spa Eng Fre Rus Tur Pol
+,SNRT,176-11800,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,https://www.lyngsat.com/providers/ma/SNRT.html,,,,,True,SNRT,
+1,Al Maghribia,MPEG-4/HD,308.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html,,,False,SNRT,Ara
+1,Al Maghribia,MPEG-4/HD,308.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html,,,False,SNRT,Ara
+2,Laayoune TV,MPEG-4/HD,35.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Laayoune TV,https://www.lyngsat.com/tvchannels/ma/Laayoune-TV.html,,,False,SNRT,Ara
+2,Laayoune TV,MPEG-4/HD,35.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Laayoune TV,https://www.lyngsat.com/tvchannels/ma/Laayoune-TV.html,,,False,SNRT,Ara
+3,Al Aoula Inter,MPEG-4/HD,1001.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Aoula Inter,https://www.lyngsat.com/tvchannels/ma/Al-Aoula-Inter.html,,,False,SNRT,Ara
+3,Al Aoula Inter,MPEG-4/HD,1001.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Aoula Inter,https://www.lyngsat.com/tvchannels/ma/Al-Aoula-Inter.html,,,False,SNRT,Ara
+5,Al Aoula Inter,MPEG-2/SD,1026.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Aoula Inter,https://www.lyngsat.com/tvchannels/ma/Al-Aoula-Inter.html,,,False,SNRT,Ara
+5,Al Aoula Inter,MPEG-2/SD,1026.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Al Aoula Inter,https://www.lyngsat.com/tvchannels/ma/Al-Aoula-Inter.html,,,False,SNRT,Ara
+4,Athaqafia,MPEG-4/HD,46.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Athaqafia,https://www.lyngsat.com/tvchannels/ma/Athaqafia.html,,,False,SNRT,Ara
+4,Athaqafia,MPEG-4/HD,46.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Athaqafia,https://www.lyngsat.com/tvchannels/ma/Athaqafia.html,,,False,SNRT,Ara
+6,Assadissa,MPEG-4/HD,1537.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,,,False,SNRT,Ara
+6,Assadissa,MPEG-4/HD,1537.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,,,False,SNRT,Ara
+10,Arryadia,MPEG-4/HD,2562.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,,,False,SNRT,Ara
+10,Arryadia,MPEG-4/HD,2562.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,,,False,SNRT,Ara
+241,Tamazight,MPEG-4/HD,3841.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Tamazight,https://www.lyngsat.com/tvchannels/ma/Tamazight.html,,,False,SNRT,Ber
+241,Tamazight,MPEG-4/HD,3841.0,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Tamazight,https://www.lyngsat.com/tvchannels/ma/Tamazight.html,,,False,SNRT,Ber
+11,Idaa al Watania,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa al Watania,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Watania.html,,,False,SNRT,Ara
+11,Idaa al Watania,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa al Watania,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Watania.html,,,False,SNRT,Ara
+12,Sud Radio,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Sud Radio,https://www.lyngsat.com/radiochannels/eh/Sud-Radio.html,,,False,SNRT,
+14,Chaîne Inter,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Chaîne Inter,https://www.lyngsat.com/radiochannels/ma/Chaine-Inter.html,,,False,SNRT,
+14,Chaîne Inter,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Chaîne Inter,https://www.lyngsat.com/radiochannels/ma/Chaine-Inter.html,,,False,SNRT,
+15,Idaa al Amazighia,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa al Amazighia,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Amazighia.html,,,False,SNRT,Ara
+15,Idaa al Amazighia,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa al Amazighia,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Amazighia.html,,,False,SNRT,Ara
+16,Idaa Mohammed Assadiss,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa Mohammed Assadiss,https://www.lyngsat.com/radiochannels/ma/Idaa-Mohammed-Assadiss.html,,,False,SNRT,Ara
+16,Idaa Mohammed Assadiss,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Idaa Mohammed Assadiss,https://www.lyngsat.com/radiochannels/ma/Idaa-Mohammed-Assadiss.html,,,False,SNRT,Ara
+50,Radio Agadir,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Agadir,https://www.lyngsat.com/radiochannels/ma/Radio-Agadir.html,,,False,SNRT,
+50,Radio Agadir,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Agadir,https://www.lyngsat.com/radiochannels/ma/Radio-Agadir.html,,,False,SNRT,
+53,Radio Oujda,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,,,False,SNRT,
+53,Radio Oujda,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,,,False,SNRT,
+54,Radio Casablanca,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Casablanca,https://www.lyngsat.com/radiochannels/ma/Radio-Casablanca.html,,,False,SNRT,
+54,Radio Casablanca,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Casablanca,https://www.lyngsat.com/radiochannels/ma/Radio-Casablanca.html,,,False,SNRT,
+60,Radio Houceima,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Houceima,https://www.lyngsat.com/radiochannels/ma/Radio-Houceima.html,,,False,SNRT,
+60,Radio Houceima,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Houceima,https://www.lyngsat.com/radiochannels/ma/Radio-Houceima.html,,,False,SNRT,
+70,Radio Tétouan,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Tétouan,https://www.lyngsat.com/radiochannels/ma/Radio-Tetouan.html,,,False,SNRT,
+70,Radio Tétouan,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Tétouan,https://www.lyngsat.com/radiochannels/ma/Radio-Tetouan.html,,,False,SNRT,
+80,Radio Meknes,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Meknes,https://www.lyngsat.com/radiochannels/ma/Radio-Meknes.html,,,False,SNRT,
+80,Radio Meknes,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Meknes,https://www.lyngsat.com/radiochannels/ma/Radio-Meknes.html,,,False,SNRT,
+90,Radio Laayoune,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,,,False,SNRT,
+90,Radio Laayoune,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,,,False,SNRT,
+91,Radio Dakhla,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,,,False,SNRT,
+91,Radio Dakhla,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,,,False,SNRT,
+177,Radio Tanger,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Tanger,https://www.lyngsat.com/radiochannels/ma/Radio-Tanger.html,,,False,SNRT,
+177,Radio Tanger,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Tanger,https://www.lyngsat.com/radiochannels/ma/Radio-Tanger.html,,,False,SNRT,
+178,Radio Fes,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Fes,https://www.lyngsat.com/radiochannels/ma/Radio-Fes.html,,,False,SNRT,
+178,Radio Fes,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Fes,https://www.lyngsat.com/radiochannels/ma/Radio-Fes.html,,,False,SNRT,
+179,Radio Marrakech,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Marrakech,https://www.lyngsat.com/radiochannels/ma/Radio-Marrakech.html,,,False,SNRT,
+179,Radio Marrakech,,,DVB-S2,27500,3/4,10873 V,tp 118,44-46,,,Radio Marrakech,https://www.lyngsat.com/radiochannels/ma/Radio-Marrakech.html,,,False,SNRT,
+136,Kabelio Infokanal,MPEG-4/HD,1361.0,DVB-S2,30000,3/4,11096 H,tp 129,44-46,,,Kabelio Infokanal,https://www.lyngsat.com/tvchannels/ch/Kabelio-Infokanal.html,,,False,SNRT,Ger
+,Warner Bros. Discovery,318-300,,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-300,,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-300,,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-300,,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-700,,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard,Verimatrix",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-700,,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard,Verimatrix",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-700,,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard,Verimatrix",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-700,,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard,Verimatrix",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1000,,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1000,,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1000,,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1000,,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1600,,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1600,,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1600,,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+,Warner Bros. Discovery,318-1600,,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,,,True,Warner Bros. Discovery,
+15201,Real Time Italia,MPEG-4/HD,501.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision,Videoguard",,Real Time Italia,https://www.lyngsat.com/tvchannels/us/Real-Time-Italia.html,,,False,Warner Bros. Discovery,Ita Eng
+15202,DMAX Italia,MPEG-4/HD,502.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision,Videoguard",,DMAX Italia,https://www.lyngsat.com/tvchannels/us/DMAX-Italia.html,,,False,Warner Bros. Discovery,Ita Eng
+15203,Food Network Italia,MPEG-4/HD,503.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision,Videoguard",,Food Network Italia,https://www.lyngsat.com/tvchannels/us/Food-Network-Italia.html,,,False,Warner Bros. Discovery,Ita Eng
+15204,K2,MPEG-4/SD,504.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision,Videoguard",,K2,https://www.lyngsat.com/tvchannels/it/K2.html,,,False,Warner Bros. Discovery,Ita Eng
+15205,Frisbee,MPEG-4/SD,505.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision,Videoguard",,Frisbee,https://www.lyngsat.com/tvchannels/it/Frisbee.html,,,False,Warner Bros. Discovery,Ita Eng
+15206,Animal Planet Polska,MPEG-4/HD,506.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Animal Planet Polska,https://www.lyngsat.com/tvchannels/us/Animal-Planet-Polska.html,,,False,Warner Bros. Discovery,Pol Eng
+15207,Eurosport 1 Polska,MPEG-4/HD,507.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Eurosport 1 Polska,https://www.lyngsat.com/tvchannels/fr/Eurosport-1-Polska.html,,,False,Warner Bros. Discovery,Pol Qaa
+15208,Eurosport 2 Polska,MPEG-4/HD,508.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Eurosport 2 Polska,https://www.lyngsat.com/tvchannels/fr/Eurosport-2-Polska.html,,,False,Warner Bros. Discovery,Pol Qaa
+15209,Investigation Discovery Polska,MPEG-4/HD,509.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Investigation Discovery Polska,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-Polska.html,,,False,Warner Bros. Discovery,Pol Pol Eng
+15210,Discovery Science Polska,MPEG-4/HD,510.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Discovery Science Polska,https://www.lyngsat.com/tvchannels/us/Discovery-Science-Polska.html,,,False,Warner Bros. Discovery,Pol Eng
+15211,DTX Polska,MPEG-4/HD,511.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess",,DTX Polska,https://www.lyngsat.com/tvchannels/us/DTX-Polska.html,,,False,Warner Bros. Discovery,Pol Eng
+15212,Warner TV Italia,MPEG-4/HD,512.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Nagravision",,Warner TV Italia,https://www.lyngsat.com/tvchannels/us/Warner-TV-Italia.html,,,False,Warner Bros. Discovery,Ita Qaa
+15213,CNN International Europe,MPEG-4/HD,513.0,DVB-S2,27500,3/4,11258 H,tp 3,44-46,"Conax,Irdeto,Nagravision,Viaccess,Videoguard",,CNN International Europe,https://www.lyngsat.com/tvchannels/us/CNN-International-Europe.html,,,False,Warner Bros. Discovery,Eng Eng
+,STN,318-500,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,https://www.lyngsat.com/providers/si/STN.html,,,,,True,STN,
+,STN,318-500,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,https://www.lyngsat.com/providers/si/STN.html,,,,,True,STN,
+,STN,318-9000,,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,https://www.lyngsat.com/providers/si/STN.html,,,,,True,STN,
+,STN,318-9000,,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,https://www.lyngsat.com/providers/si/STN.html,,,,,True,STN,
+2201,Aryen TV,MPEG-4/HD,2001.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Aryen TV,https://www.lyngsat.com/tvchannels/se/Aryen-TV.html,,,False,STN,Kur
+2202,CBC (Azerbaijan),MPEG-4/SD,2002.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,CBC (Azerbaijan),https://www.lyngsat.com/tvchannels/az/CBC.html,,,False,STN,Aze
+2202,CBC (Azerbaijan),MPEG-4/SD,2002.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,CBC (Azerbaijan),https://www.lyngsat.com/tvchannels/az/CBC.html,,,False,STN,Aze
+2204,Yemen TV,MPEG-2/SD,2004.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html,,,False,STN,Ara
+2204,Yemen TV,MPEG-2/SD,2004.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html,,,False,STN,Ara
+2214,Medya Haber,MPEG-4/HD,2014.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Medya Haber,https://www.lyngsat.com/tvchannels/tr/Medya-Haber.html,,,False,STN,Tur
+2214,Medya Haber,MPEG-4/HD,2014.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Medya Haber,https://www.lyngsat.com/tvchannels/tr/Medya-Haber.html,,,False,STN,Tur
+2216,Kentron TV International,MPEG-2/SD,2016.0,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Kentron TV International,https://www.lyngsat.com/tvchannels/am/Kentron-TV-International.html,,,False,STN,Arm
+1540,Rûdaw Radio,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Rûdaw Radio,https://www.lyngsat.com/radiochannels/iq/Rudaw-Radio.html,,,False,STN,Kur
+1540,Rûdaw Radio,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Rûdaw Radio,https://www.lyngsat.com/radiochannels/iq/Rudaw-Radio.html,,,False,STN,Kur
+1550,Radio Sana'a,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html,,,False,STN,Ara
+1550,Radio Sana'a,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html,,,False,STN,Ara
+2226,Radio Novaya Zhizn,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio Novaya Zhizn,https://www.lyngsat.com/radiochannels/ru/Radio-Novaya-Zhizn.html,,,False,STN,Rus
+2226,Radio Novaya Zhizn,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio Novaya Zhizn,https://www.lyngsat.com/radiochannels/ru/Radio-Novaya-Zhizn.html,,,False,STN,Rus
+2227,Dengê Gel,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Dengê Gel,https://www.lyngsat.com/radiochannels/be/Denge-Gel.html,,,False,STN,Kur
+2227,Dengê Gel,,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Dengê Gel,https://www.lyngsat.com/radiochannels/be/Denge-Gel.html,,,False,STN,Kur
+2228,Radio 2000 (Israel),,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio 2000 (Israel),https://www.lyngsat.com/radiochannels/il/Radio-2000.html,,,False,STN,Heb
+2228,Radio 2000 (Israel),,,DVB-S,27500,5/6,11296 H,tp 5,44-46,,,Radio 2000 (Israel),https://www.lyngsat.com/radiochannels/il/Radio-2000.html,,,False,STN,Heb
+701*,Eurosport 1,MPEG-4/HD,501.0,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard,Verimatrix",,Eurosport 1,https://www.lyngsat.com/tvchannels/fr/Eurosport-1.html,,,False,STN,Qaa Eng Ger Fre Ita Tur Spa Por Dut Pol Rus Rum Gre Hun Cze Srp Bul
+702*,Eurosport 2,MPEG-4/HD,502.0,DVB-S2,27500,3/4,11334 H,tp 7,44-46,"Irdeto,Viaccess,Videoguard",,Eurosport 2,https://www.lyngsat.com/tvchannels/fr/Eurosport-2.html,,,False,STN,Qaa Eng Ger Fre Ita Tur Spa Por Dut Pol Rus Rum Gre Hun Cze Srp Bul
+4317,Discovery Channel Polska,MPEG-4/HD,518.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Discovery Channel Polska,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-Polska.html,,,False,STN,Pol Eng
+4318,TLC Polska,MPEG-4/HD,519.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TLC Polska,https://www.lyngsat.com/tvchannels/us/TLC-Polska.html,,,False,STN,Pol Eng
+4319,Discovery Historia,MPEG-4/SD,520.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Discovery Historia,https://www.lyngsat.com/tvchannels/us/Discovery-Historia.html,,,False,STN,Pol
+4320,Discovery Life Polska,MPEG-4/HD,521.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Discovery Life Polska,https://www.lyngsat.com/tvchannels/us/Discovery-Life-Polska.html,,,False,STN,Pol Eng
+4321,Motor Trend,MPEG-4/HD,522.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Nagravision,Videoguard",,Motor Trend,https://www.lyngsat.com/tvchannels/it/Motor-Trend.html,,,False,STN,Ita Eng
+4322,Giallo,MPEG-4/HD,523.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Nagravision,Videoguard",,Giallo,https://www.lyngsat.com/tvchannels/it/Giallo.html,,,False,STN,Ita Eng
+4323,Nove,MPEG-4/HD,524.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Nagravision,Videoguard",,Nove,https://www.lyngsat.com/tvchannels/it/Nove.html,,,False,STN,Ita Eng
+4324,Cartoonito Polska,MPEG-4/HD,525.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Cartoonito Polska,https://www.lyngsat.com/tvchannels/us/Cartoonito-Polska.html,,,False,STN,Pol Eng
+4330,TVN 24 BiS,MPEG-4/HD,531.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN 24 BiS,https://www.lyngsat.com/tvchannels/pl/TVN-24-BiS.html,,,False,STN,Pol Qaa
+4331,HGTV Polska,MPEG-4/HD,532.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,HGTV Polska,https://www.lyngsat.com/tvchannels/us/HGTV-Polska.html,,,False,STN,Pol Qaa
+4334,HGTV Italia,MPEG-4/HD,535.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Nagravision,Videoguard",,HGTV Italia,https://www.lyngsat.com/tvchannels/us/HGTV-Italia.html,,,False,STN,Ita Eng
+10502,Cartoon Network Polska,MPEG-4/HD,526.0,DVB-S2,27500,3/4,11393 V,tp 10,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Cartoon Network Polska,https://www.lyngsat.com/tvchannels/us/Cartoon-Network-Polska.html,,,False,STN,Pol Pol Eng
+,Mediaset,272-1200,,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",https://www.lyngsat.com/providers/it/Mediaset.html,,,,,True,Mediaset,
+,Mediaset,272-1200,,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",https://www.lyngsat.com/providers/it/Mediaset.html,,,,,True,Mediaset,
+,Mediaset,190-6000,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",https://www.lyngsat.com/providers/it/Mediaset.html,,,,,True,Mediaset,
+,Mediaset,190-6000,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",https://www.lyngsat.com/providers/it/Mediaset.html,,,,,True,Mediaset,
+111,Cine 34,MPEG-4/HD,1004.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Cine 34,https://www.lyngsat.com/tvchannels/it/Cine-34.html,,,False,Mediaset,Ita
+118,Virgin Radio TV,MPEG-4/HD,1030.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Virgin Radio TV,https://www.lyngsat.com/tvchannels/it/Virgin-Radio-TV.html,,,False,Mediaset,Ita
+119,Radio Monte Carlo TV,MPEG-4/HD,1026.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Radio Monte Carlo TV,https://www.lyngsat.com/tvchannels/it/Radio-Monte-Carlo-TV.html,,,False,Mediaset,Ita
+120,20 Mediaset,MPEG-4/HD,1054.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,20 Mediaset,https://www.lyngsat.com/tvchannels/it/20-Mediaset.html,,,False,Mediaset,Ita Qaa
+121,Italia 1,MPEG-4/HD,1060.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Italia 1,https://www.lyngsat.com/tvchannels/it/Italia-1.html,,,False,Mediaset,Ita Qaa
+122,Canale 5,MPEG-4/HD,1058.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Canale 5,https://www.lyngsat.com/tvchannels/it/Canale-5.html,,,False,Mediaset,Ita Qaa
+123,Rete 4,MPEG-4/HD,1056.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Rete 4,https://www.lyngsat.com/tvchannels/it/Rete-4.html,,,False,Mediaset,Ita Qaa
+124,Iris,MPEG-4/HD,1046.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Iris,https://www.lyngsat.com/tvchannels/it/Iris.html,,,False,Mediaset,Ita Qaa
+126,Boing Italia,MPEG-4/HD,1010.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,Nagravision,,Boing Italia,https://www.lyngsat.com/tvchannels/it/Boing-Italia.html,,,False,Mediaset,Ita
+127,La 5,MPEG-4/HD,1015.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,La 5,https://www.lyngsat.com/tvchannels/it/La-5.html,,,False,Mediaset,Ita Qaa
+128,TGCom 24,MPEG-4/HD,1022.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,,,TGCom 24,https://www.lyngsat.com/tvchannels/it/TGCom-24.html,,,False,Mediaset,Ita
+129,Mediaset Extra,MPEG-4/HD,1003.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Mediaset Extra,https://www.lyngsat.com/tvchannels/it/Mediaset-Extra.html,,,False,Mediaset,Ita
+130,Italia 2,MPEG-4/HD,1021.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Italia 2,https://www.lyngsat.com/tvchannels/it/Italia-2.html,,,False,Mediaset,Ita Qaa
+132,Top Crime (Italy),MPEG-4/HD,1051.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Top Crime (Italy),https://www.lyngsat.com/tvchannels/it/Top-Crime.html,,,False,Mediaset,Ita Qaa
+133,Cartoonito Italia,MPEG-4/HD,1012.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,Nagravision,,Cartoonito Italia,https://www.lyngsat.com/tvchannels/us/Cartoonito-Italia.html,,,False,Mediaset,Ita
+134,Focus,MPEG-4/HD,1016.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,Focus,https://www.lyngsat.com/tvchannels/it/Focus.html,,,False,Mediaset,Ita Qaa
+135,27 Twentyseven,MPEG-4/HD,1038.0,DVB-S2,29900,3/4,11432 V,tp 12,44-46,"Nagravision,Videoguard",,27 Twentyseven,https://www.lyngsat.com/tvchannels/it/27-Twentyseven.html,,,False,Mediaset,Ita Qaa
+15821*,TVN (Poland),MPEG-4/HD,532.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN (Poland),https://www.lyngsat.com/tvchannels/pl/TVN.html,,,False,Mediaset,Pol Qaa
+15822*,TVN Style,MPEG-4/HD,533.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN Style,https://www.lyngsat.com/tvchannels/pl/TVN-Style.html,,,False,Mediaset,Pol Qaa
+15824*,TVN Turbo,MPEG-4/HD,534.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN Turbo,https://www.lyngsat.com/tvchannels/pl/TVN-Turbo.html,,,False,Mediaset,Pol Qaa
+15826*,TVN 24,MPEG-4/HD,535.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN 24,https://www.lyngsat.com/tvchannels/pl/TVN-24.html,,,False,Mediaset,Pol Qaa
+15827*,TVN 7,MPEG-4/HD,536.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN 7,https://www.lyngsat.com/tvchannels/pl/TVN-7.html,,,False,Mediaset,Pol Qaa
+15828,Metro TV (Poland),MPEG-4/HD,537.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Metro TV (Poland),https://www.lyngsat.com/tvchannels/pl/Metro-TV.html,,,False,Mediaset,Pol Qaa
+15829,Warner TV Polska,MPEG-4/HD,526.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Warner TV Polska,https://www.lyngsat.com/tvchannels/us/Warner-TV-Polska.html,,,False,Mediaset,Pol Pol Eng
+15830,TVN Fabula,MPEG-4/HD,538.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TVN Fabula,https://www.lyngsat.com/tvchannels/pl/TVN-Fabula.html,,,False,Mediaset,Pol Qaa
+15831,TTV,MPEG-4/HD,539.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,TTV,https://www.lyngsat.com/tvchannels/pl/TTV.html,,,False,Mediaset,Pol Qaa
+15832,Travel Channel Polska,MPEG-4/HD,540.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Travel Channel Polska,https://www.lyngsat.com/tvchannels/us/Travel-Channel-Polska.html,,,False,Mediaset,Pol Qaa
+15833*,Food Network Polska,MPEG-4/HD,541.0,DVB-S2,27500,3/4,11508 V,tp 16,44-46,"Conax,Irdeto,Nagravision,Viaccess",,Food Network Polska,https://www.lyngsat.com/tvchannels/us/Food-Network-Polska.html,,,False,Mediaset,Pol Qaa
+,M-Three satcom,318-15700,,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,https://www.lyngsat.com/providers/it/M-Three-satcom.html,,,,,True,M-Three satcom,
+1306,Simay-Azadi Iran National TV,MPEG-4/HD,1791.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,,,False,M-Three satcom,Per
+1306,Simay-Azadi Iran National TV,MPEG-4/HD,1791.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Simay-Azadi Iran National TV,https://www.lyngsat.com/tvchannels/uk/Simay-Azadi-Iran-National-TV.html,,,False,M-Three satcom,Per
+1307,RTL 102.5 RadioVisione,MPEG-4/HD,1801.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RTL 102.5 RadioVisione,https://www.lyngsat.com/tvchannels/it/RTL-1025-RadioVisione.html,,,False,M-Three satcom,Ita
+1307,RTL 102.5 RadioVisione,MPEG-4/HD,1801.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RTL 102.5 RadioVisione,https://www.lyngsat.com/tvchannels/it/RTL-1025-RadioVisione.html,,,False,M-Three satcom,Ita
+1308,Radio Freccia TV,MPEG-4/HD,1811.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radio Freccia TV,https://www.lyngsat.com/tvchannels/it/Radio-Freccia-TV.html,,,False,M-Three satcom,Ita
+1308,Radio Freccia TV,MPEG-4/HD,1811.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radio Freccia TV,https://www.lyngsat.com/tvchannels/it/Radio-Freccia-TV.html,,,False,M-Three satcom,Ita
+1311,Radionorba TV,MPEG-4/HD,1841.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radionorba TV,https://www.lyngsat.com/tvchannels/it/Radionorba-TV.html,,,False,M-Three satcom,Ita
+1311,Radionorba TV,MPEG-4/HD,1841.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radionorba TV,https://www.lyngsat.com/tvchannels/it/Radionorba-TV.html,,,False,M-Three satcom,Ita
+1316,Sat TV promo,MPEG-4/HD,1891.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,,,,,False,M-Three satcom,Eng
+1318,Daystar TV,MPEG-4/HD,1911.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,,,False,M-Three satcom,Eng
+1318,Daystar TV,MPEG-4/HD,1911.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,,,False,M-Three satcom,Eng
+1321,Radio Zeta Radiovisione,MPEG-4/HD,1941.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radio Zeta Radiovisione,https://www.lyngsat.com/tvchannels/it/Radio-Zeta-Radiovisione.html,,,False,M-Three satcom,Ita
+1321,Radio Zeta Radiovisione,MPEG-4/HD,1941.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Radio Zeta Radiovisione,https://www.lyngsat.com/tvchannels/it/Radio-Zeta-Radiovisione.html,,,False,M-Three satcom,Ita
+1323,RTL 102.5 News,MPEG-4/HD,1961.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RTL 102.5 News,https://www.lyngsat.com/tvchannels/it/RTL-1025-News.html,,,False,M-Three satcom,Ita
+1323,RTL 102.5 News,MPEG-4/HD,1961.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RTL 102.5 News,https://www.lyngsat.com/tvchannels/it/RTL-1025-News.html,,,False,M-Three satcom,Ita
+1327,Super!,MPEG-4/SD,2001.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,"Nagravision,Videoguard",,Super!,https://www.lyngsat.com/tvchannels/it/Super.html,,,False,M-Three satcom,Ita Qaa
+1328,ReteSette,MPEG-4/HD,1741.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,ReteSette,https://www.lyngsat.com/tvchannels/it/ReteSette.html,,,False,M-Three satcom,Ita
+1329,La C TV,MPEG-4/HD,1711.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,La C TV,https://www.lyngsat.com/tvchannels/it/La-C-TV.html,,,False,M-Three satcom,Ita
+1329,La C TV,MPEG-4/HD,1711.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,La C TV,https://www.lyngsat.com/tvchannels/it/La-C-TV.html,,,False,M-Three satcom,Ita
+1332,Gold TV (Italy),MPEG-4/SD,2031.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Gold TV (Italy),https://www.lyngsat.com/tvchannels/it/Gold-TV.html,,,False,M-Three satcom,Ita
+1333,Emilia-Romagna 24,MPEG-4/SD,2041.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Emilia-Romagna 24,https://www.lyngsat.com/tvchannels/it/Emilia-Romagna-24.html,,,False,M-Three satcom,Ita
+1335,Well TV,MPEG-4/SD,2061.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Well TV,https://www.lyngsat.com/tvchannels/it/Well-TV.html,,,False,M-Three satcom,Ita
+1335,Well TV,MPEG-4/SD,2061.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Well TV,https://www.lyngsat.com/tvchannels/it/Well-TV.html,,,False,M-Three satcom,Ita
+1336,Value 24 TV,MPEG-4/SD,2071.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Value 24 TV,https://www.lyngsat.com/tvchannels/it/Value-24-TV.html,,,False,M-Three satcom,Ita
+1336,Value 24 TV,MPEG-4/SD,2071.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Value 24 TV,https://www.lyngsat.com/tvchannels/it/Value-24-TV.html,,,False,M-Three satcom,Ita
+1337,Wedo Movies,MPEG-4/SD,2081.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Wedo Movies,https://www.lyngsat.com/tvchannels/ch/Wedo-Movies.html,,,False,M-Three satcom,Ita
+1338,Vilayet TV,MPEG-4/HD,2091.0,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,Vilayet TV,https://www.lyngsat.com/tvchannels/--/Vilayet-TV.html,,,False,M-Three satcom,Aze
+1330,RVS Italia,,,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RVS Italia,https://www.lyngsat.com/radiochannels/it/RVS-Italia.html,,,False,M-Three satcom,Ita
+1330,RVS Italia,,,DVB-S2,27500,3/4,11642 H,tp 157,44-46,,,RVS Italia,https://www.lyngsat.com/radiochannels/it/RVS-Italia.html,,,False,M-Three satcom,Ita
+,RAI,318-5200,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,https://www.lyngsat.com/providers/it/RAI.html,,,,,True,RAI,
+3401,Rai 1,MPEG-4/HD,501.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai 1,https://www.lyngsat.com/tvchannels/it/Rai-1.html,,,False,RAI,Ita Qaa
+3402,Rai 2,MPEG-4/HD,502.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai 2,https://www.lyngsat.com/tvchannels/it/Rai-2.html,,,False,RAI,Ita Qaa
+3403,Rai 3,MPEG-4/HD,503.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai 3,https://www.lyngsat.com/tvchannels/it/Rai-3.html,,,False,RAI,Ita
+3405,Rai 4,MPEG-4/HD,505.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,Nagravision,,Rai 4,https://www.lyngsat.com/tvchannels/it/Rai-4.html,,,False,RAI,Ita Qaa
+3406,Rai Movie,MPEG-4/HD,506.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,Nagravision,,Rai Movie,https://www.lyngsat.com/tvchannels/it/Rai-Movie.html,,,False,RAI,Ita Qaa
+3407,Rai 4K,HEVC/UHD,507.0,DVB-S2,29900,3/4,11766 V,tp 52,44-46,Nagravision,,Rai 4K,https://www.lyngsat.com/tvchannels/it/Rai-4K.html,,,False,RAI,Ita Qaa
+3441,Rai Radio 1,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1.html,,,False,RAI,Ita
+3441,Rai Radio 1,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1.html,,,False,RAI,Ita
+3442,Rai Radio 2,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 2,https://www.lyngsat.com/radiochannels/it/Rai-Radio-2.html,,,False,RAI,Ita
+3442,Rai Radio 2,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 2,https://www.lyngsat.com/radiochannels/it/Rai-Radio-2.html,,,False,RAI,Ita
+3443,Rai Radio 3,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 3,https://www.lyngsat.com/radiochannels/it/Rai-Radio-3.html,,,False,RAI,Ita
+3443,Rai Radio 3,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 3,https://www.lyngsat.com/radiochannels/it/Rai-Radio-3.html,,,False,RAI,Ita
+3444,Rai Radio 3 Classica,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 3 Classica,https://www.lyngsat.com/radiochannels/it/Rai-Radio-3-Classica.html,,,False,RAI,Ita
+3444,Rai Radio 3 Classica,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 3 Classica,https://www.lyngsat.com/radiochannels/it/Rai-Radio-3-Classica.html,,,False,RAI,Ita
+3445,Rai Gr Parlamento,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Gr Parlamento,https://www.lyngsat.com/radiochannels/it/Rai-Gr-Parlamento.html,,,False,RAI,Ita
+3445,Rai Gr Parlamento,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Gr Parlamento,https://www.lyngsat.com/radiochannels/it/Rai-Gr-Parlamento.html,,,False,RAI,Ita
+3446,Rai Isoradio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Isoradio,https://www.lyngsat.com/radiochannels/it/Rai-Isoradio.html,,,False,RAI,Ita
+3446,Rai Isoradio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Isoradio,https://www.lyngsat.com/radiochannels/it/Rai-Isoradio.html,,,False,RAI,Ita
+3447,Rai Radio Techete',,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Techete',https://www.lyngsat.com/radiochannels/it/Rai-Radio-Techete.html,,,False,RAI,Ita
+3447,Rai Radio Techete',,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Techete',https://www.lyngsat.com/radiochannels/it/Rai-Radio-Techete.html,,,False,RAI,Ita
+3448,Rai Radio Live Napoli,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Live Napoli,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Live-Napoli.html,,,False,RAI,Ita
+3448,Rai Radio Live Napoli,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Live Napoli,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Live-Napoli.html,,,False,RAI,Ita
+3449,Rai Radio Kids,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Kids,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Kids.html,,,False,RAI,Ita
+3449,Rai Radio Kids,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Kids,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Kids.html,,,False,RAI,Ita
+3450,No Name Radio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,No Name Radio,https://www.lyngsat.com/radiochannels/it/No-Name-Radio.html,,,False,RAI,Ita
+3450,No Name Radio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,No Name Radio,https://www.lyngsat.com/radiochannels/it/No-Name-Radio.html,,,False,RAI,Ita
+3451,Rai Radio Tutta Italiana,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Tutta Italiana,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Tutta-Italiana.html,,,False,RAI,Ita
+3451,Rai Radio Tutta Italiana,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Tutta Italiana,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Tutta-Italiana.html,,,False,RAI,Ita
+3452,Rai Radio 1 Friuli Venezia Giulia,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1 Friuli Venezia Giulia,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1-Friuli-Venezia-Giulia.html,,,False,RAI,Ita
+3452,Rai Radio 1 Friuli Venezia Giulia,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1 Friuli Venezia Giulia,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1-Friuli-Venezia-Giulia.html,,,False,RAI,Ita
+3453,Rai Radio 1 Sport,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1 Sport,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1-Sport.html,,,False,RAI,Ita
+3453,Rai Radio 1 Sport,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio 1 Sport,https://www.lyngsat.com/radiochannels/it/Rai-Radio-1-Sport.html,,,False,RAI,Ita
+3454,Rai Radio Trst A,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Trst A,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Trst-A.html,,,False,RAI,Slv
+3454,Rai Radio Trst A,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Radio Trst A,https://www.lyngsat.com/radiochannels/it/Rai-Radio-Trst-A.html,,,False,RAI,Slv
+3455,Rai Südtirol Radio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Südtirol Radio,https://www.lyngsat.com/radiochannels/it/Rai-Sudtirol-Radio.html,,,False,RAI,Ger
+3455,Rai Südtirol Radio,,,DVB-S2,29900,3/4,11766 V,tp 52,44-46,,,Rai Südtirol Radio,https://www.lyngsat.com/radiochannels/it/Rai-Sudtirol-Radio.html,,,False,RAI,Ger
+310,Ecclesia Radio,,,DVB-S2,27500,3/4,11823 H,tp 55,44-46,,,Ecclesia Radio,https://www.lyngsat.com/radiochannels/gr/Ecclesia-Radio.html,,,False,RAI,Gre
+310,Ecclesia Radio,,,DVB-S2,27500,3/4,11823 H,tp 55,44-46,,,Ecclesia Radio,https://www.lyngsat.com/radiochannels/gr/Ecclesia-Radio.html,,,False,RAI,Gre
+73,La 7 d,MPEG-4/HD,1540.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",,La 7 d,https://www.lyngsat.com/tvchannels/it/La-7-d.html,,,False,RAI,Ita
+73,La 7 d,MPEG-4/HD,1540.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",,La 7 d,https://www.lyngsat.com/tvchannels/it/La-7-d.html,,,False,RAI,Ita
+79,La 7,MPEG-4/HD,1440.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",,La 7,https://www.lyngsat.com/tvchannels/it/La-7.html,,,False,RAI,Ita
+79,La 7,MPEG-4/HD,1440.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,"Nagravision,Videoguard",,La 7,https://www.lyngsat.com/tvchannels/it/La-7.html,,,False,RAI,Ita
+801,Zona DAZN,MPEG-4/HD,1480.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,Nagravision,,Zona DAZN,https://www.lyngsat.com/tvchannels/uk/Zona-DAZN.html,,,False,RAI,Ita
+802,Zona DAZN 2,MPEG-4/HD,710.0,DVB-S2,29900,2/3,11919 V,tp 60,44-46,Nagravision,,Zona DAZN 2,https://www.lyngsat.com/tvchannels/uk/Zona-DAZN-2.html,,,False,RAI,Ita
+101,R101,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,R101,https://www.lyngsat.com/radiochannels/it/R101.html,,,False,RAI,Ita
+101,R101,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,R101,https://www.lyngsat.com/radiochannels/it/R101.html,,,False,RAI,Ita
+102,Radio Monte Carlo,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio Monte Carlo,https://www.lyngsat.com/radiochannels/it/Radio-Monte-Carlo.html,,,False,RAI,Ita
+102,Radio Monte Carlo,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio Monte Carlo,https://www.lyngsat.com/radiochannels/it/Radio-Monte-Carlo.html,,,False,RAI,Ita
+104,Virgin Radio Italy,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Virgin Radio Italy,https://www.lyngsat.com/radiochannels/uk/Virgin-Radio-Italy.html,,,False,RAI,Ita
+104,Virgin Radio Italy,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Virgin Radio Italy,https://www.lyngsat.com/radiochannels/uk/Virgin-Radio-Italy.html,,,False,RAI,Ita
+105,Radio 105,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio 105,https://www.lyngsat.com/radiochannels/it/Radio-105.html,,,False,RAI,Ita
+105,Radio 105,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio 105,https://www.lyngsat.com/radiochannels/it/Radio-105.html,,,False,RAI,Ita
+106,Radio Subasio,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio Subasio,https://www.lyngsat.com/radiochannels/it/Radio-Subasio.html,,,False,RAI,Ita
+106,Radio Subasio,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radio Subasio,https://www.lyngsat.com/radiochannels/it/Radio-Subasio.html,,,False,RAI,Ita
+110,Radiolina,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radiolina,https://www.lyngsat.com/radiochannels/it/Radiolina.html,,,False,RAI,Ita
+110,Radiolina,,,DVB-S2,29900,2/3,11919 V,tp 60,44-46,,,Radiolina,https://www.lyngsat.com/radiochannels/it/Radiolina.html,,,False,RAI,Ita
+11307,[Sky info card],MPEG-4/SD,177.0,DVB-S2,29900,5/6,12034 V,tp 66,44-46,,,,,,,False,RAI,Ita
+11311,[Sky Sport info card],MPEG-4/SD,174.0,DVB-S2,29900,5/6,12034 V,tp 66,44-46,,,,,,,False,RAI,Ita
+4102,Bike Channel,MPEG-4/HD,183.0,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,Bike Channel,https://www.lyngsat.com/tvchannels/it/Bike-Channel.html,,,False,RAI,Ita
+4102,Bike Channel,MPEG-4/HD,183.0,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,Bike Channel,https://www.lyngsat.com/tvchannels/it/Bike-Channel.html,,,False,RAI,Ita
+7245,CNBC Europe,MPEG-4/HD,186.0,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,CNBC Europe,https://www.lyngsat.com/tvchannels/us/CNBC-Europe.html,,,False,RAI,Eng
+4366,Radio Vaticana Europa,,,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,Radio Vaticana Europa,https://www.lyngsat.com/radiochannels/va/Radio-Vaticana-Europa.html,,,False,RAI,
+11131,Radio InBlu,,,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,Radio InBlu,https://www.lyngsat.com/radiochannels/it/Radio-InBlu.html,,,False,RAI,Ita
+11174,InBlu 2000,,,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,InBlu 2000,https://www.lyngsat.com/radiochannels/it/InBlu-2000.html,,,False,RAI,Ita
+11174,InBlu 2000,,,DVB-S2,29900,5/6,12054 H,tp 67,44-46,,,InBlu 2000,https://www.lyngsat.com/radiochannels/it/InBlu-2000.html,,,False,RAI,Ita
+,Telespazio,318-7000,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,https://www.lyngsat.com/providers/it/Telespazio.html,,,,,True,Telespazio,
+705,Aljazeera Documentary,MPEG-2/SD,240.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Aljazeera Documentary,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Documentary.html,,,False,Telespazio,Ara
+706,Aljazeera Mubasher,MPEG-2/SD,250.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html,,,False,Telespazio,Ara
+706,Aljazeera Mubasher,MPEG-2/SD,250.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Aljazeera Mubasher,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Mubasher.html,,,False,Telespazio,Ara
+713,RTP Internacional Europa,MPEG-2/SD,201.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RTP Internacional Europa,https://www.lyngsat.com/tvchannels/pt/RTP-Internacional-Europa.html,,,False,Telespazio,Por
+713,RTP Internacional Europa,MPEG-2/SD,201.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RTP Internacional Europa,https://www.lyngsat.com/tvchannels/pt/RTP-Internacional-Europa.html,,,False,Telespazio,Por
+735,Al Mayadeen TV,MPEG-2/SD,1403.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Al Mayadeen TV,https://www.lyngsat.com/tvchannels/lb/Al-Mayadeen-TV.html,,,False,Telespazio,Ara
+735,Al Mayadeen TV,MPEG-2/SD,1403.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Al Mayadeen TV,https://www.lyngsat.com/tvchannels/lb/Al-Mayadeen-TV.html,,,False,Telespazio,Ara
+788,MTA 2 Europe,MPEG-4/HD,2354.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,MTA 2 Europe,https://www.lyngsat.com/tvchannels/uk/MTA-2-Europe.html,,,False,Telespazio,Hin Urd Eng Fre Ger Ara Ben
+788,MTA 2 Europe,MPEG-4/HD,2354.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,MTA 2 Europe,https://www.lyngsat.com/tvchannels/uk/MTA-2-Europe.html,,,False,Telespazio,Hin Urd Eng Fre Ger Ara Ben
+789,MTA 3 Al-Arabia,MPEG-2/SD,338.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html,,,False,Telespazio,Ara
+789,MTA 3 Al-Arabia,MPEG-2/SD,338.0,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html,,,False,Telespazio,Ara
+714,RDP Internacional,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html,,,False,Telespazio,Por
+714,RDP Internacional,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html,,,False,Telespazio,Por
+715,RDP Antena 1,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,,,False,Telespazio,Por
+715,RDP Antena 1,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,,,False,Telespazio,Por
+731,Radio Mariam Armenia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Mariam Armenia,https://www.lyngsat.com/radiochannels/it/Radio-Mariam-Armenia.html,,,False,Telespazio,Arm
+731,Radio Mariam Armenia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Mariam Armenia,https://www.lyngsat.com/radiochannels/it/Radio-Mariam-Armenia.html,,,False,Telespazio,Arm
+732,Radio Maria Italia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Maria Italia,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Italia.html,,,False,Telespazio,Ita
+732,Radio Maria Italia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Maria Italia,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Italia.html,,,False,Telespazio,Ita
+736,Radio Dimensione Suono,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Dimensione Suono,https://www.lyngsat.com/radiochannels/it/Radio-Dimensione-Suono.html,,,False,Telespazio,Ita
+736,Radio Dimensione Suono,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Dimensione Suono,https://www.lyngsat.com/radiochannels/it/Radio-Dimensione-Suono.html,,,False,Telespazio,Ita
+737,Dimensione Suono Roma,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Roma,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Roma.html,,,False,Telespazio,Ita
+737,Dimensione Suono Roma,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Roma,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Roma.html,,,False,Telespazio,Ita
+738,Radio Italia Anni 60,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Italia Anni 60,https://www.lyngsat.com/radiochannels/it/Radio-Italia-Anni-60.html,,,False,Telespazio,Ita
+738,Radio Italia Anni 60,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Italia Anni 60,https://www.lyngsat.com/radiochannels/it/Radio-Italia-Anni-60.html,,,False,Telespazio,Ita
+739,Radio Radio (Italy),,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Radio (Italy),https://www.lyngsat.com/radiochannels/it/Radio-Radio.html,,,False,Telespazio,Ita
+739,Radio Radio (Italy),,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Radio (Italy),https://www.lyngsat.com/radiochannels/it/Radio-Radio.html,,,False,Telespazio,Ita
+740,Radio Italia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Italia,https://www.lyngsat.com/radiochannels/it/Radio-Italia.html,,,False,Telespazio,Ita
+740,Radio Italia,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Italia,https://www.lyngsat.com/radiochannels/it/Radio-Italia.html,,,False,Telespazio,Ita
+742,Radio Kiss Kiss,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Kiss Kiss,https://www.lyngsat.com/radiochannels/it/Radio-Kiss-Kiss.html,,,False,Telespazio,Ita
+742,Radio Kiss Kiss,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Kiss Kiss,https://www.lyngsat.com/radiochannels/it/Radio-Kiss-Kiss.html,,,False,Telespazio,Ita
+744,Radio Padre Pio,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Padre Pio,https://www.lyngsat.com/radiochannels/it/Radio-Padre-Pio.html,,,False,Telespazio,Ita
+761,Radio Radicale,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Radicale,https://www.lyngsat.com/radiochannels/it/Radio-Radicale.html,,,False,Telespazio,Ita
+761,Radio Radicale,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Radio Radicale,https://www.lyngsat.com/radiochannels/it/Radio-Radicale.html,,,False,Telespazio,Ita
+766,Dimensione Suono Soft Nord,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Soft Nord,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Soft-Nord.html,,,False,Telespazio,Ita
+766,Dimensione Suono Soft Nord,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Soft Nord,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Soft-Nord.html,,,False,Telespazio,Ita
+767,Dimensione Suono Soft Centro,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Soft Centro,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Soft-Centro.html,,,False,Telespazio,Ita
+767,Dimensione Suono Soft Centro,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,Dimensione Suono Soft Centro,https://www.lyngsat.com/radiochannels/it/Dimensione-Suono-Soft-Centro.html,,,False,Telespazio,Ita
+768,DiscoRadio,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,DiscoRadio,https://www.lyngsat.com/radiochannels/it/DiscoRadio.html,,,False,Telespazio,Ita
+768,DiscoRadio,,,DVB-S,27500,3/4,12111 V,tp 70,44-46,,,DiscoRadio,https://www.lyngsat.com/radiochannels/it/DiscoRadio.html,,,False,Telespazio,Ita
+353,ERT World,MPEG-4/SD,514.0,DVB-S2,27500,3/4,12169 H,tp 73,44-46,,,ERT World,https://www.lyngsat.com/tvchannels/gr/ERT-World.html,,,False,Telespazio,Gre
+384,Vouli TV,MPEG-4/SD,517.0,DVB-S2,27500,3/4,12169 H,tp 73,44-46,,,Vouli TV,https://www.lyngsat.com/tvchannels/gr/Vouli-TV.html,,,False,Telespazio,Gre
+384,Vouli TV,MPEG-4/SD,517.0,DVB-S2,27500,3/4,12169 H,tp 73,44-46,,,Vouli TV,https://www.lyngsat.com/tvchannels/gr/Vouli-TV.html,,,False,Telespazio,Gre
+365,I Foni tis Elladas,,,DVB-S2,27500,3/4,12169 H,tp 73,44-46,,,I Foni tis Elladas,https://www.lyngsat.com/radiochannels/gr/I-Foni-tis-Elladas.html,,,False,Telespazio,
+365,I Foni tis Elladas,,,DVB-S2,27500,3/4,12169 H,tp 73,44-46,,,I Foni tis Elladas,https://www.lyngsat.com/radiochannels/gr/I-Foni-tis-Elladas.html,,,False,Telespazio,
+,{Eutelsat},318-7500,,DVB-S2,29900,5/6,12207 H,tp 75,44-46,,,,,,,False,Telespazio,
+13534,Explorer HD Channel,MPEG-4/HD,162.0,DVB-S2,29900,5/6,12341 V,tp 82,44-46,,,Explorer HD Channel,https://www.lyngsat.com/tvchannels/it/Explorer-HD-Channel.html,,,False,Telespazio,Ita
+13534,Explorer HD Channel,MPEG-4/HD,162.0,DVB-S2,29900,5/6,12341 V,tp 82,44-46,,,Explorer HD Channel,https://www.lyngsat.com/tvchannels/it/Explorer-HD-Channel.html,,,False,Telespazio,Ita
+9003,Ronahî TV,MPEG-2/SD,1031.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Ronahî TV,https://www.lyngsat.com/tvchannels/sy/Ronahi-TV.html,,,False,Telespazio,Kur
+9004,Med Muzîk,MPEG-2/SD,1041.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Med Muzîk,https://www.lyngsat.com/tvchannels/tr/Med-Muzik.html,,,False,Telespazio,Kur
+9004,Med Muzîk,MPEG-2/SD,1041.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Med Muzîk,https://www.lyngsat.com/tvchannels/tr/Med-Muzik.html,,,False,Telespazio,Kur
+9009,Angel TV Europe,MPEG-2/SD,1091.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Angel TV Europe,https://www.lyngsat.com/tvchannels/in/Angel-TV-Europe.html,,,False,Telespazio,Eng
+9009,Angel TV Europe,MPEG-2/SD,1091.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Angel TV Europe,https://www.lyngsat.com/tvchannels/in/Angel-TV-Europe.html,,,False,Telespazio,Eng
+9010,BogBlag TV,MPEG-2/SD,1101.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,BogBlag TV,https://www.lyngsat.com/tvchannels/us/BogBlag-TV.html,,,False,Telespazio,Rus
+9010,BogBlag TV,MPEG-2/SD,1101.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,BogBlag TV,https://www.lyngsat.com/tvchannels/us/BogBlag-TV.html,,,False,Telespazio,Rus
+9011,Stêrk,MPEG-4/HD,1111.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Stêrk,https://www.lyngsat.com/tvchannels/no/Sterk.html,,,False,Telespazio,Kur
+9011,Stêrk,MPEG-4/HD,1111.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Stêrk,https://www.lyngsat.com/tvchannels/no/Sterk.html,,,False,Telespazio,Kur
+9012,Çira TV,MPEG-4/HD,1121.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Çira TV,https://www.lyngsat.com/tvchannels/de/Cira-TV.html,,,False,Telespazio,Kur
+9013,KICC TV,MPEG-4/SD,1131.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,KICC TV,https://www.lyngsat.com/tvchannels/uk/KICC-TV.html,,,False,Telespazio,Eng
+9013,KICC TV,MPEG-4/SD,1131.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,KICC TV,https://www.lyngsat.com/tvchannels/uk/KICC-TV.html,,,False,Telespazio,Eng
+9014,Paci Contemporary Channel,MPEG-4/SD,1141.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Paci Contemporary Channel,https://www.lyngsat.com/tvchannels/it/Paci-Contemporary-Channel.html,,,False,Telespazio,Ita
+9014,Paci Contemporary Channel,MPEG-4/SD,1141.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Paci Contemporary Channel,https://www.lyngsat.com/tvchannels/it/Paci-Contemporary-Channel.html,,,False,Telespazio,Ita
+9016,Somaliland National TV,MPEG-2/SD,1161.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Somaliland National TV,https://www.lyngsat.com/tvchannels/so/Somaliland-National-TV.html,,,False,Telespazio,Som
+9018,The Kingdom Sat,MPEG-2/SD,1181.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,The Kingdom Sat,https://www.lyngsat.com/tvchannels/eg/The-Kingdom-Sat.html,,,False,Telespazio,Ara
+9018,The Kingdom Sat,MPEG-2/SD,1181.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,The Kingdom Sat,https://www.lyngsat.com/tvchannels/eg/The-Kingdom-Sat.html,,,False,Telespazio,Ara
+9020,TBN Europe,MPEG-4/SD,1201.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,TBN Europe,https://www.lyngsat.com/tvchannels/us/TBN-Europe.html,,,False,Telespazio,Eng
+9021,Firstlight,MPEG-4/SD,1211.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Firstlight,https://www.lyngsat.com/tvchannels/nz/Firstlight.html,,,False,Telespazio,Eng
+9021,Firstlight,MPEG-4/SD,1211.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Firstlight,https://www.lyngsat.com/tvchannels/nz/Firstlight.html,,,False,Telespazio,Eng
+9022,Amazing Facts TV,MPEG-4/SD,1221.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Amazing Facts TV,https://www.lyngsat.com/tvchannels/us/Amazing-Facts-TV.html,,,False,Telespazio,Eng
+9022,Amazing Facts TV,MPEG-4/SD,1221.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Amazing Facts TV,https://www.lyngsat.com/tvchannels/us/Amazing-Facts-TV.html,,,False,Telespazio,Eng
+9023,Teleradiopace Satellite,MPEG-4/HD,1231.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Teleradiopace Satellite,https://www.lyngsat.com/tvchannels/it/Teleradiopace-Satellite.html,,,False,Telespazio,Ita
+9024,Silk Way,MPEG-4/HD,1241.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Silk Way,https://www.lyngsat.com/tvchannels/kz/Silk-Way.html,,,False,Telespazio,Rus Eng Kaz Kir Uzb
+9024,Silk Way,MPEG-4/HD,1241.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Silk Way,https://www.lyngsat.com/tvchannels/kz/Silk-Way.html,,,False,Telespazio,Rus Eng Kaz Kir Uzb
+9025,Music Box Polska,MPEG-4/HD,1251.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Music Box Polska,https://www.lyngsat.com/tvchannels/pl/Music-Box-Polska.html,,,False,Telespazio,Pol
+9026,Supreme Master TV,MPEG-2/SD,1261.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,,,False,Telespazio,Eng
+9026,Supreme Master TV,MPEG-2/SD,1261.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html,,,False,Telespazio,Eng
+9027,[test card],MPEG-4/SD,1271.0,DVB-S2,27500,3/5,12520 V,tp 90,44-46,,,,,,,False,Telespazio,
+,Saudi Broadcasting Authority,318-9200,,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,https://www.lyngsat.com/providers/sa/Saudi-Broadcasting-Authority.html,,,,,True,Saudi Broadcasting Authority,
+1201,Saudi TV,MPEG-4/HD,2011.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1201,Saudi TV,MPEG-4/HD,2011.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1201,Saudi TV,MPEG-4/HD,2011.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1201,Saudi TV,MPEG-4/HD,2011.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1205,Saudi TV,MPEG-4/HD,2051.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1205,Saudi TV,MPEG-4/HD,2051.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1205,Saudi TV,MPEG-4/HD,2051.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1205,Saudi TV,MPEG-4/HD,2051.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1202,Sunna TV (Saudi Arabia),MPEG-4/HD,2021.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1202,Sunna TV (Saudi Arabia),MPEG-4/HD,2021.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1203,Quran TV (Saudi Arabia),MPEG-4/HD,2031.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1203,Quran TV (Saudi Arabia),MPEG-4/HD,2031.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1204,Ekhbariya TV,MPEG-4/HD,2041.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1204,Ekhbariya TV,MPEG-4/HD,2041.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,,,False,Saudi Broadcasting Authority,Ara
+1209,Hotbird 4K1,HEVC/UHD,2091.0,DVB-S2,27500,5/6,12558 V,tp 92,44-46,,,Hotbird 4K1,https://www.lyngsat.com/tvchannels/fr/Hotbird-4K1.html,,,False,Saudi Broadcasting Authority,
+141,DW English,MPEG-4/SD,1241.0,DVB-S2,30000,5/6,12616 H,tp 95,,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,,,False,Saudi Broadcasting Authority,Eng
+141,DW English,MPEG-4/SD,1241.0,DVB-S2,30000,5/6,12616 H,tp 95,,,,DW English,https://www.lyngsat.com/tvchannels/de/DW-English.html,,,False,Saudi Broadcasting Authority,Eng
+8,City TV (Bulgaria),MPEG-4/SD,59.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,City TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/City-TV.html,,,False,Saudi Broadcasting Authority,Bul
+8,City TV (Bulgaria),MPEG-4/SD,59.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,City TV (Bulgaria),https://www.lyngsat.com/tvchannels/bg/City-TV.html,,,False,Saudi Broadcasting Authority,Bul
+33,BNT 4,MPEG-2/SD,165.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNT 4,https://www.lyngsat.com/tvchannels/bg/BNT-4.html,,,False,Saudi Broadcasting Authority,Bul
+33,BNT 4,MPEG-2/SD,165.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNT 4,https://www.lyngsat.com/tvchannels/bg/BNT-4.html,,,False,Saudi Broadcasting Authority,Bul
+41,Plovdivska Pravoslavna TV,MPEG-2/SD,174.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,Plovdivska Pravoslavna TV,https://www.lyngsat.com/tvchannels/bg/Plovdivska-Pravoslavna-TV.html,,,False,Saudi Broadcasting Authority,Bul
+41,Plovdivska Pravoslavna TV,MPEG-2/SD,174.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,Plovdivska Pravoslavna TV,https://www.lyngsat.com/tvchannels/bg/Plovdivska-Pravoslavna-TV.html,,,False,Saudi Broadcasting Authority,Bul
+100,France 24 Français,MPEG-4/SD,400.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,,,False,Saudi Broadcasting Authority,Fre
+100,France 24 Français,MPEG-4/SD,400.0,DVB-S2,30000,5/6,12635 V,tp 96,,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,,,False,Saudi Broadcasting Authority,Fre
+9,Radio 1 (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,,,False,Saudi Broadcasting Authority,Bul
+9,Radio 1 (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio 1 (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-1.html,,,False,Saudi Broadcasting Authority,Bul
+10,BG Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BG Radio,https://www.lyngsat.com/radiochannels/bg/BG-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+10,BG Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BG Radio,https://www.lyngsat.com/radiochannels/bg/BG-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+11,Radio City (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio City (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-City.html,,,False,Saudi Broadcasting Authority,Bul
+11,Radio City (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio City (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Radio-City.html,,,False,Saudi Broadcasting Authority,Bul
+12,NRJ Bulgaria,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,NRJ Bulgaria,https://www.lyngsat.com/radiochannels/fr/NRJ-Bulgaria.html,,,False,Saudi Broadcasting Authority,Bul
+12,NRJ Bulgaria,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,NRJ Bulgaria,https://www.lyngsat.com/radiochannels/fr/NRJ-Bulgaria.html,,,False,Saudi Broadcasting Authority,Bul
+13,Radio Veronika,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veronika,https://www.lyngsat.com/radiochannels/bg/Radio-Veronika.html,,,False,Saudi Broadcasting Authority,Bul
+13,Radio Veronika,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veronika,https://www.lyngsat.com/radiochannels/bg/Radio-Veronika.html,,,False,Saudi Broadcasting Authority,Bul
+14,Radio 1 Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio 1 Rock,https://www.lyngsat.com/radiochannels/bg/Radio-1-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+14,Radio 1 Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio 1 Rock,https://www.lyngsat.com/radiochannels/bg/Radio-1-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+15,Avtoradio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Avtoradio,https://www.lyngsat.com/radiochannels/bg/Avtoradio.html,,,False,Saudi Broadcasting Authority,Bul
+17,Radio Focus Sofia,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Sofia,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Sofia.html,,,False,Saudi Broadcasting Authority,Bul
+17,Radio Focus Sofia,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Sofia,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Sofia.html,,,False,Saudi Broadcasting Authority,Bul
+18,Radio Focus Pirin,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Pirin,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Pirin.html,,,False,Saudi Broadcasting Authority,Bul
+19,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+19,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+19,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+19,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+44,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+44,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+44,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+44,BNR Horizont,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Horizont,https://www.lyngsat.com/radiochannels/bg/BNR-Horizont.html,,,False,Saudi Broadcasting Authority,Bul
+20,BNR Hristo Botev,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Hristo Botev,https://www.lyngsat.com/radiochannels/bg/BNR-Hristo-Botev.html,,,False,Saudi Broadcasting Authority,Bul
+20,BNR Hristo Botev,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Hristo Botev,https://www.lyngsat.com/radiochannels/bg/BNR-Hristo-Botev.html,,,False,Saudi Broadcasting Authority,Bul
+23,Darik Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio,https://www.lyngsat.com/radiochannels/bg/Darik-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+23,Darik Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio,https://www.lyngsat.com/radiochannels/bg/Darik-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+24,Darik Radio Plovdiv,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Plovdiv,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Plovdiv.html,,,False,Saudi Broadcasting Authority,Bul
+24,Darik Radio Plovdiv,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Plovdiv,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Plovdiv.html,,,False,Saudi Broadcasting Authority,Bul
+25,Darik Radio Burgas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Burgas,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Burgas.html,,,False,Saudi Broadcasting Authority,Bul
+25,Darik Radio Burgas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Burgas,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Burgas.html,,,False,Saudi Broadcasting Authority,Bul
+26,Eparkhiiski Glas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Eparkhiiski Glas,https://www.lyngsat.com/radiochannels/bg/Eparkhiiski-Glas.html,,,False,Saudi Broadcasting Authority,Bul
+26,Eparkhiiski Glas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Eparkhiiski Glas,https://www.lyngsat.com/radiochannels/bg/Eparkhiiski-Glas.html,,,False,Saudi Broadcasting Authority,Bul
+27,BNR Radio Kardzali,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Kardzali,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Kardzali.html,,,False,Saudi Broadcasting Authority,Bul
+30,Radio Bulgaria On Air,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Bulgaria On Air,https://www.lyngsat.com/radiochannels/bg/Radio-Bulgaria-On-Air.html,,,False,Saudi Broadcasting Authority,Bul
+30,Radio Bulgaria On Air,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Bulgaria On Air,https://www.lyngsat.com/radiochannels/bg/Radio-Bulgaria-On-Air.html,,,False,Saudi Broadcasting Authority,Bul
+31,B Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,B Radio,https://www.lyngsat.com/radiochannels/bg/B-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+31,B Radio,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,B Radio,https://www.lyngsat.com/radiochannels/bg/B-Radio.html,,,False,Saudi Broadcasting Authority,Bul
+37,BNR Radio Burgas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Burgas,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Burgas.html,,,False,Saudi Broadcasting Authority,Bul
+37,BNR Radio Burgas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Burgas,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Burgas.html,,,False,Saudi Broadcasting Authority,Bul
+38,BNR Radio Vidin,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Vidin,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Vidin.html,,,False,Saudi Broadcasting Authority,Bul
+38,BNR Radio Vidin,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Vidin,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Vidin.html,,,False,Saudi Broadcasting Authority,Bul
+39,BNR Radio Stara Zagora,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Stara Zagora,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Stara-Zagora.html,,,False,Saudi Broadcasting Authority,Bul
+39,BNR Radio Stara Zagora,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Stara Zagora,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Stara-Zagora.html,,,False,Saudi Broadcasting Authority,Bul
+40,BNR Radio Varna,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Varna,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Varna.html,,,False,Saudi Broadcasting Authority,Bul
+40,BNR Radio Varna,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Varna,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Varna.html,,,False,Saudi Broadcasting Authority,Bul
+45,BNR Radio Plovdiv,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Plovdiv,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Plovdiv.html,,,False,Saudi Broadcasting Authority,Bul
+45,BNR Radio Plovdiv,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Plovdiv,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Plovdiv.html,,,False,Saudi Broadcasting Authority,Bul
+46,Radio Fresh!,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Fresh!,https://www.lyngsat.com/radiochannels/bg/Radio-Fresh.html,,,False,Saudi Broadcasting Authority,Bul
+46,Radio Fresh!,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Fresh!,https://www.lyngsat.com/radiochannels/bg/Radio-Fresh.html,,,False,Saudi Broadcasting Authority,Bul
+47,Radio FM+,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio FM+,https://www.lyngsat.com/radiochannels/bg/Radio-FM-.html,,,False,Saudi Broadcasting Authority,Bul
+47,Radio FM+,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio FM+,https://www.lyngsat.com/radiochannels/bg/Radio-FM-.html,,,False,Saudi Broadcasting Authority,Bul
+48,BNR Radio Blagoevgrad,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Blagoevgrad,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Blagoevgrad.html,,,False,Saudi Broadcasting Authority,Bul
+48,BNR Radio Blagoevgrad,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Blagoevgrad,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Blagoevgrad.html,,,False,Saudi Broadcasting Authority,Bul
+49,BNR Radio Shumen,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Shumen,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Shumen.html,,,False,Saudi Broadcasting Authority,Bul
+49,BNR Radio Shumen,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Shumen,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Shumen.html,,,False,Saudi Broadcasting Authority,Bul
+50,BNR Radio Sofia,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Sofia,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Sofia.html,,,False,Saudi Broadcasting Authority,Bul
+50,BNR Radio Sofia,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,BNR Radio Sofia,https://www.lyngsat.com/radiochannels/bg/BNR-Radio-Sofia.html,,,False,Saudi Broadcasting Authority,Bul
+59,Radio Focus Veliko Tarnovo,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Veliko Tarnovo,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Veliko-Tarnovo.html,,,False,Saudi Broadcasting Authority,Bul
+60,Radio Vitosha East,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Vitosha East,https://www.lyngsat.com/radiochannels/bg/Radio-Vitosha-East.html,,,False,Saudi Broadcasting Authority,Bul
+61,The Voice Bulgaria,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,The Voice Bulgaria,https://www.lyngsat.com/radiochannels/dk/The-Voice-Bulgaria.html,,,False,Saudi Broadcasting Authority,Bul
+62,Radio Veselina South,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veselina South,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina-South.html,,,False,Saudi Broadcasting Authority,Bul
+63,Magic FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Magic FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Magic-FM.html,,,False,Saudi Broadcasting Authority,Bul
+63,Magic FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Magic FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Magic-FM.html,,,False,Saudi Broadcasting Authority,Bul
+64,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+64,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+64,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+64,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+84,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+84,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+84,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+84,Radio N-Joy,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio N-Joy,https://www.lyngsat.com/radiochannels/bg/Radio-N-Joy.html,,,False,Saudi Broadcasting Authority,Bul
+65,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+65,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+65,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+65,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+85,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+85,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+85,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+85,Radio Z-Rock,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Z-Rock,https://www.lyngsat.com/radiochannels/bg/Radio-Z-Rock.html,,,False,Saudi Broadcasting Authority,Bul
+66,Darik Radio Sofia,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Sofia,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Sofia.html,,,False,Saudi Broadcasting Authority,Bul
+67,Radio Nova News,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Nova News,https://www.lyngsat.com/radiochannels/bg/Radio-Nova-News.html,,,False,Saudi Broadcasting Authority,Bul
+67,Radio Nova News,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Nova News,https://www.lyngsat.com/radiochannels/bg/Radio-Nova-News.html,,,False,Saudi Broadcasting Authority,Bul
+68,Start FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Start FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Start-FM.html,,,False,Saudi Broadcasting Authority,Bul
+70,Darik Radio Stara Zagora,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Stara Zagora,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Stara-Zagora.html,,,False,Saudi Broadcasting Authority,Bul
+76,Radio Focus Burgas,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Burgas,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Burgas.html,,,False,Saudi Broadcasting Authority,Bul
+77,Radio Focus Varna,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Varna,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Varna.html,,,False,Saudi Broadcasting Authority,Bul
+78,Radio Focus NE ?,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus NE ?,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-NE-.html,,,False,Saudi Broadcasting Authority,Bul
+79,Radio Focus Rodopi ?,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Rodopi ?,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Rodopi-.html,,,False,Saudi Broadcasting Authority,Bul
+80,Radio Focus Trakia ?,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Focus Trakia ?,https://www.lyngsat.com/radiochannels/bg/Radio-Focus-Trakia-.html,,,False,Saudi Broadcasting Authority,Bul
+81,Jazz FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Jazz FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Jazz-FM.html,,,False,Saudi Broadcasting Authority,Bul
+81,Jazz FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Jazz FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Jazz-FM.html,,,False,Saudi Broadcasting Authority,Bul
+82,RNE ?,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,RNE ?,https://www.lyngsat.com/radiochannels/--/RNE-.html,,,False,Saudi Broadcasting Authority,Bul
+83,Classic FM (Bulgaria),,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Classic FM (Bulgaria),https://www.lyngsat.com/radiochannels/bg/Classic-FM.html,,,False,Saudi Broadcasting Authority,Bul
+86,Darik Radio Varna,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Varna,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Varna.html,,,False,Saudi Broadcasting Authority,Bul
+86,Darik Radio Varna,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Varna,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Varna.html,,,False,Saudi Broadcasting Authority,Bul
+87,Darik Radio Kiustendil,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Kiustendil,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Kiustendil.html,,,False,Saudi Broadcasting Authority,Bul
+88,Darik Radio Ruse,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Ruse,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Ruse.html,,,False,Saudi Broadcasting Authority,Bul
+88,Darik Radio Ruse,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Ruse,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Ruse.html,,,False,Saudi Broadcasting Authority,Bul
+89,Darik Radio Vraca,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Radio Vraca,https://www.lyngsat.com/radiochannels/bg/Darik-Radio-Vraca.html,,,False,Saudi Broadcasting Authority,Bul
+90,Darik Nostalgie,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Nostalgie,https://www.lyngsat.com/radiochannels/bg/Darik-Nostalgie.html,,,False,Saudi Broadcasting Authority,Bul
+90,Darik Nostalgie,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Darik Nostalgie,https://www.lyngsat.com/radiochannels/bg/Darik-Nostalgie.html,,,False,Saudi Broadcasting Authority,Bul
+91,Radio Vitosha West,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Vitosha West,https://www.lyngsat.com/radiochannels/bg/Radio-Vitosha-West.html,,,False,Saudi Broadcasting Authority,Bul
+92,Radio Veselina North,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veselina North,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina-North.html,,,False,Saudi Broadcasting Authority,Bul
+93,Radio Veselina West,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veselina West,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina-West.html,,,False,Saudi Broadcasting Authority,Bul
+94,Radio Veselina East,,,DVB-S2,30000,5/6,12635 V,tp 96,,,,Radio Veselina East,https://www.lyngsat.com/radiochannels/bg/Radio-Veselina-East.html,,,False,Saudi Broadcasting Authority,Bul
+204,Tiankov Folk,MPEG-4/SD,2204.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,Tiankov Folk,https://www.lyngsat.com/tvchannels/bg/Tiankov-Folk.html,,,False,Saudi Broadcasting Authority,Bul
+204,Tiankov Folk,MPEG-4/SD,2204.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,Tiankov Folk,https://www.lyngsat.com/tvchannels/bg/Tiankov-Folk.html,,,False,Saudi Broadcasting Authority,Bul
+211,Folklor TV,MPEG-4/SD,2211.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,Folklor TV,https://www.lyngsat.com/tvchannels/bg/Folklor-TV.html,,,False,Saudi Broadcasting Authority,Bul
+216,Evrokom,MPEG-4/SD,2216.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,Evrokom,https://www.lyngsat.com/tvchannels/bg/Evrokom.html,,,False,Saudi Broadcasting Authority,Bul
+216,Evrokom,MPEG-4/SD,2216.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,Evrokom,https://www.lyngsat.com/tvchannels/bg/Evrokom.html,,,False,Saudi Broadcasting Authority,Bul
+260,EKids,MPEG-4/SD,2260.0,DVB-S2,30000,5/6,12654 H,tp 97,,,,EKids,https://www.lyngsat.com/tvchannels/bg/EKids.html,,,False,Saudi Broadcasting Authority,Bul
+,Mediawan Thematics,319-9900,,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Conax,Nagravision,Panaccess,Viaccess",https://www.lyngsat.com/providers/fr/Mediawan-Thematics.html,,,,,True,Mediawan Thematics,
+415,BFM TV,MPEG-4/SD,751.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,,,BFM TV,https://www.lyngsat.com/tvchannels/fr/BFM-TV.html,,,False,Mediawan Thematics,Fre
+415,BFM TV,MPEG-4/SD,751.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,,,BFM TV,https://www.lyngsat.com/tvchannels/fr/BFM-TV.html,,,False,Mediawan Thematics,Fre
+417,C Star,MPEG-4/SD,771.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,C Star,https://www.lyngsat.com/tvchannels/fr/C-Star.html,,,False,Mediawan Thematics,Fre
+417,C Star,MPEG-4/SD,771.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,C Star,https://www.lyngsat.com/tvchannels/fr/C-Star.html,,,False,Mediawan Thematics,Fre
+418,Gulli,MPEG-4/SD,781.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Panaccess,Viaccess",,Gulli,https://www.lyngsat.com/tvchannels/fr/Gulli.html,,,False,Mediawan Thematics,Fre
+419,Franceinfo:,MPEG-4/SD,791.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Franceinfo:,https://www.lyngsat.com/tvchannels/fr/Franceinfo.html,,,False,Mediawan Thematics,Fre
+419,Franceinfo:,MPEG-4/SD,791.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Franceinfo:,https://www.lyngsat.com/tvchannels/fr/Franceinfo.html,,,False,Mediawan Thematics,Fre
+420,Ushuaïa TV,MPEG-4/SD,4201.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,Viaccess,,Ushuaïa TV,https://www.lyngsat.com/tvchannels/fr/Ushuaia-TV.html,,,False,Mediawan Thematics,Fre
+421,Equidia,MPEG-4/SD,4211.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,Viaccess,,Equidia,https://www.lyngsat.com/tvchannels/fr/Equidia.html,,,False,Mediawan Thematics,Fre
+451,RTL 9,MPEG-4/HD,101.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,Viaccess,,RTL 9,https://www.lyngsat.com/tvchannels/lu/RTL-9.html,,,False,Mediawan Thematics,Fre Qaa
+452,AB 1,MPEG-4/SD,102.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,AB 1,https://www.lyngsat.com/tvchannels/fr/AB-1.html,,,False,Mediawan Thematics,Fre Qaa
+453,Automoto la chaîne,MPEG-4/HD,103.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Automoto la chaîne,https://www.lyngsat.com/tvchannels/fr/Automoto-la-chaine.html,,,False,Mediawan Thematics,Fre
+454,Animaux,MPEG-4/SD,104.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Animaux,https://www.lyngsat.com/tvchannels/fr/Animaux.html,,,False,Mediawan Thematics,Fre Qaa
+455,Chasse & Pêche,MPEG-4/SD,105.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Chasse & Pêche,https://www.lyngsat.com/tvchannels/fr/Chasse-and-Peche.html,,,False,Mediawan Thematics,Fre Bul
+456,TV Breizh,MPEG-4/SD,106.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,TV Breizh,https://www.lyngsat.com/tvchannels/fr/TV-Breizh.html,,,False,Mediawan Thematics,Fre Qaa
+457,Crime District,MPEG-4/SD,107.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Crime District,https://www.lyngsat.com/tvchannels/fr/Crime-District.html,,,False,Mediawan Thematics,Fre Qaa
+458,Trek,MPEG-4/HD,108.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Trek,https://www.lyngsat.com/tvchannels/fr/Trek.html,,,False,Mediawan Thematics,Fre
+459,Toute l'Histoire,MPEG-4/SD,109.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Toute l'Histoire,https://www.lyngsat.com/tvchannels/fr/Toute-lHistoire.html,,,False,Mediawan Thematics,Fre
+461,Action (France),MPEG-4/HD,111.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Action (France),https://www.lyngsat.com/tvchannels/fr/Action.html,,,False,Mediawan Thematics,Fre Qaa
+462,Mangas,MPEG-4/SD,112.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Mangas,https://www.lyngsat.com/tvchannels/fr/Mangas.html,,,False,Mediawan Thematics,Fre Qaa
+463,Science & Vie TV,MPEG-4/HD,113.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Science & Vie TV,https://www.lyngsat.com/tvchannels/fr/Science-and-Vie-TV.html,,,False,Mediawan Thematics,Fre
+466,Téva,MPEG-4/SD,116.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,Viaccess,,Téva,https://www.lyngsat.com/tvchannels/fr/Teva.html,,,False,Mediawan Thematics,Fre Qaa
+468,XXL,MPEG-4/SD,118.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Irdeto,Nagravision,Viaccess",,XXL,https://www.lyngsat.com/tvchannels/fr/XXL.html,,,False,Mediawan Thematics,Fre
+470,Golf Channel France,MPEG-4/SD,120.0,DVB-S2,27500,3/4,12692 H,tp 99,44-46,"Nagravision,Viaccess",,Golf Channel France,https://www.lyngsat.com/tvchannels/us/Golf-Channel-France.html,,,False,Mediawan Thematics,Fre
+5001,TV 1 (Bulgaria),MPEG-4/SD,5101.0,DVB-S2,30000,5/6,12713 V,tp 100,,,,TV 1 (Bulgaria),https://www.lyngsat.com/tvchannels/bg/TV-1.html,,,False,Mediawan Thematics,Bul
+5001,TV 1 (Bulgaria),MPEG-4/SD,5101.0,DVB-S2,30000,5/6,12713 V,tp 100,,,,TV 1 (Bulgaria),https://www.lyngsat.com/tvchannels/bg/TV-1.html,,,False,Mediawan Thematics,Bul
+5014,Freedom,MPEG-4/SD,5114.0,DVB-S2,30000,5/6,12713 V,tp 100,,,,Freedom,https://www.lyngsat.com/tvchannels/ua/Freedom.html,,,False,Mediawan Thematics,Rus
+5014,Freedom,MPEG-4/SD,5114.0,DVB-S2,30000,5/6,12713 V,tp 100,,,,Freedom,https://www.lyngsat.com/tvchannels/ua/Freedom.html,,,False,Mediawan Thematics,Rus
+5034,TV5Monde Europe,MPEG-4/SD,5134.0,DVB-S2,30000,5/6,12713 V,tp 100,,,,TV5Monde Europe,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Europe.html,,,False,Mediawan Thematics,Fre

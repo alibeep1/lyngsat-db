@@ -1,0 +1,39 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,Doordarshan,1-1,,DVB-S2,4400.0,5/6,3777 H,,,,https://www.lyngsat.com/providers/in/Doordarshan.html,,,True,Doordarshan,,
+,Doordarshan,1-1,,DVB-S2,4400.0,5/6,3777 H,,,,https://www.lyngsat.com/providers/in/Doordarshan.html,,,True,Doordarshan,,
+,Doordarshan,,,DVB-S2,2000.0,3/4,3782 H,,,BISS,https://www.lyngsat.com/providers/in/Doordarshan.html,,,True,Doordarshan,,
+,Doordarshan,,,DVB-S2,2000.0,3/4,3782 H,,,BISS,https://www.lyngsat.com/providers/in/Doordarshan.html,,,True,Doordarshan,,
+5.0,DD Sports,MPEG-4/SD,501.0,DVB-S2,4400.0,5/6,3777 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+5.0,DD Sports,MPEG-4/SD,501.0,DVB-S2,4400.0,5/6,3777 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+5.0,DD Sports,MPEG-4/SD,501.0,DVB-S2,4400.0,5/6,3777 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+6.0,DD Sports,MPEG-4/HD,601.0,DVB-S2,4400.0,5/6,3777 H,,,,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+6.0,DD Sports,MPEG-4/HD,601.0,DVB-S2,4400.0,5/6,3777 H,,,,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+6.0,DD Sports,MPEG-4/HD,601.0,DVB-S2,4400.0,5/6,3777 H,,,,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+4.0,DD Sports,MPEG-4/SD,104.0,DVB-S2,2000.0,3/4,3782 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+4.0,DD Sports,MPEG-4/SD,104.0,DVB-S2,2000.0,3/4,3782 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+4.0,DD Sports,MPEG-4/SD,104.0,DVB-S2,2000.0,3/4,3782 H,,,BISS,,DD Sports,https://www.lyngsat.com/tvchannels/in/DD-Sports.html,False,Doordarshan,Hin,in
+7.0,DD Kisan,MPEG-4/SD,701.0,DVB-S2,4400.0,5/6,3777 H,,,,,DD Kisan,https://www.lyngsat.com/tvchannels/in/DD-Kisan.html,False,Doordarshan,,in
+7.0,DD Kisan,MPEG-4/SD,701.0,DVB-S2,4400.0,5/6,3777 H,,,,,DD Kisan,https://www.lyngsat.com/tvchannels/in/DD-Kisan.html,False,Doordarshan,,in
+3.0,[DD Bharati test card],MPEG-4/SD,103.0,DVB-S2,2000.0,3/4,3782 H,,,,,,,False,Doordarshan,Hin,
+,AIR,,,DVB-S2,1000.0,3/4,3875 H,,,,https://www.lyngsat.com/providers/in/AIR.html,,,True,AIR,,
+2000.0,AIR FM Rainbow Mumbai,,,DVB-S2,1000.0,3/4,3875 H,,,,,AIR FM Rainbow Mumbai,https://www.lyngsat.com/radiochannels/in/AIR-FM-Rainbow-Mumbai.html,False,AIR,,in
+3000.0,AIR Marathi,,,DVB-S2,1000.0,3/4,3875 H,,,,,AIR Marathi,https://www.lyngsat.com/radiochannels/in/AIR-Marathi.html,False,AIR,Mar,in
+4000.0,AIR FM Gold Delhi,,,DVB-S2,1000.0,3/4,3875 H,,,,,AIR FM Gold Delhi,https://www.lyngsat.com/radiochannels/in/AIR-FM-Gold-Delhi.html,False,AIR,,in
+5000.0,AIR FM Rainbow Lucknow,,,DVB-S2,1000.0,3/4,3875 H,,,,,AIR FM Rainbow Lucknow,https://www.lyngsat.com/radiochannels/in/AIR-FM-Rainbow-Lucknow.html,False,AIR,,in
+6000.0,AIR Amritsar,,,DVB-S2,1000.0,3/4,3875 H,,,,,AIR Amritsar,https://www.lyngsat.com/radiochannels/in/AIR-Amritsar.html,False,AIR,,in
+,Utkarsh Channel,,,DVB-S,1000.0,3/4,11578 H,,,,https://www.lyngsat.com/providers/in/Utkarsh-Channel.html,,,True,Utkarsh Channel,,
+1.0,Utkarsh Channel 4,MPEG-2/SD,257.0,DVB-S,1000.0,3/4,11578 H,,,,,Utkarsh Channel 4,https://www.lyngsat.com/tvchannels/in/Utkarsh-Channel-4.html,False,Utkarsh Channel,Eng,in
+2.0,Utkarsh Channel 1,MPEG-2/SD,513.0,DVB-S,1000.0,3/4,11578 H,,,,,Utkarsh Channel 1,https://www.lyngsat.com/tvchannels/in/Utkarsh-Channel-1.html,False,Utkarsh Channel,Hin,in
+3.0,Utkarsh Channel 2,MPEG-2/SD,769.0,DVB-S,1000.0,3/4,11578 H,,,,,Utkarsh Channel 2,https://www.lyngsat.com/tvchannels/in/Utkarsh-Channel-2.html,False,Utkarsh Channel,Hin,in
+4.0,Utkarsh Channel 3,MPEG-2/SD,1025.0,DVB-S,1000.0,3/4,11578 H,,,,,Utkarsh Channel 3,https://www.lyngsat.com/tvchannels/in/Utkarsh-Channel-3.html,False,Utkarsh Channel,Eng,in
+3.0,[test card],?-?MPEG-2/SD,769.0,DVB-S,1000.0,3/4,11587 H,,,,,,,False,Utkarsh Channel,,
+,(feeds),,,DVB-S,1000.0,3/4,11593 V,,,,,,,False,Utkarsh Channel,,
+,KITE VICTERS,,,DVB-S,1000.0,3/4,11667 V,,,,https://www.lyngsat.com/providers/in/KITE-VICTERS.html,KITE VICTERS,https://www.lyngsat.com/tvchannels/in/KITE-VICTERS.html,True,KITE VICTERS,,in
+,KITE VICTERS,,,DVB-S,1000.0,3/4,11667 V,,,,https://www.lyngsat.com/providers/in/KITE-VICTERS.html,KITE VICTERS,https://www.lyngsat.com/tvchannels/in/KITE-VICTERS.html,True,KITE VICTERS,,in
+2.0,KITE VICTERS,MPEG-2/SD,559.0,DVB-S,1000.0,3/4,11667 V,,,,https://www.lyngsat.com/providers/in/KITE-VICTERS.html,KITE VICTERS,https://www.lyngsat.com/tvchannels/in/KITE-VICTERS.html,True,KITE VICTERS,Mal,in
+2.0,KITE VICTERS,MPEG-2/SD,559.0,DVB-S,1000.0,3/4,11667 V,,,,https://www.lyngsat.com/providers/in/KITE-VICTERS.html,KITE VICTERS,https://www.lyngsat.com/tvchannels/in/KITE-VICTERS.html,True,KITE VICTERS,Mal,in
+,KITE VICTERS Plus,MPEG-2/SD,357.0,DVB-S,1000.0,3/4,11667 V,,,,,KITE VICTERS Plus,https://www.lyngsat.com/tvchannels/in/KITE-VICTERS-Plus.html,False,KITE VICTERS,Mal,in
+4.0,VTU,?-?MPEG-2/SD,1025.0,DVB-S,1000.0,3/4,11681 V,,,,,,,False,KITE VICTERS,,
+1.0,Lokshiksha Sanchar,?-?MPEG-2/SD,4194.0,DVB-S,1000.0,3/4,11686 V,,,,,,,False,KITE VICTERS,Ben,
+,,,,,,,,,,,,DVB-S2966,,False,KITE VICTERS,,
+,,,,,,,,,,,,DVB-S2900,,False,KITE VICTERS,,

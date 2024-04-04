@@ -1,0 +1,165 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL
+3410 VC0,DVB-S2QPSK32003/4,1,LNTV 1,,4660-1MPEG-4/SD,257,4.0 310 Lao,,Albert I231101,DVB-S2,3200,3/4,3410 V,,0,,,,,,
+3410 VC0,DVB-S2QPSK32003/4,2,Lao National Radio 567 AM,,,,400 Lao,,,DVB-S2,3200,3/4,3410 V,,0,,,Lao National Radio 567 AM,https://www.lyngsat.com/radiochannels/la/Lao-National-Radio-567-AM.html,,
+3410 VC0,DVB-S2QPSK32003/4,2,Lao National Radio FM 1,,,,400 Lao,,,DVB-S2,3200,3/4,3410 V,,0,,,Lao National Radio FM 1,https://www.lyngsat.com/radiochannels/la/Lao-National-Radio-FM-1.html,,
+3414 VC0,DVB-S2QPSK32003/4,1,LNTV 3,,65535-1MPEG-4/HD,33,4.0  34 Lao,,Albert I200706,DVB-S2,3200,3/4,3414 V,,0,,,,,,
+3419 VC0,DVB-S28PSK12002/3,257,BTV Business,,?-?MPEG-4/SD,256,6.6 512 Nep,,Albert I230903,DVB-S2,1200,2/3,3419 V,,0,,,,,,
+3424 VC0,DVB-S2QPSK15003/4,1,Sagarmatha TV,,65535-1MPEG-4/SD,101,4.0 256 Nep,,A Zapara200229,DVB-S2,1500,3/4,3424 V,,0,,,,,,
+3427 VC0,DVB-S28PSK48002/3,1003,ABC News (Nepal),,0-0MPEG-4/HD,36,6.6  37 Nep,,Albert I230127,DVB-S2,4800,2/3,3427 V,,0,,,,,,
+3432 VC0,DVB-S2QPSK24003/4,1,Prime TV (Nepal),,?-?MPEG-4/HD,33,4.0  34 Nep,,Albert I210514,DVB-S2,2400,3/4,3432 V,,0,,,,,,
+3437 VC0,DVB-S28PSK56003/4,,Nepalese mux,,,,7.9,,Albert I220213,DVB-S2,5600,3/4,3437 V,,0,,,,,,
+3437 VC0,DVB-S28PSK56003/4,1000,Mountain TV (Nepal),,MPEG-4/HD,1001,1002 Nep,,,DVB-S2,5600,3/4,3437 V,,0,,,Mountain TV (Nepal),https://www.lyngsat.com/tvchannels/np/Mountain-TV.html,,
+3437 VC0,DVB-S28PSK56003/4,2000,Business Plus (Nepal),,MPEG-4/HD,2001,2002 Nep,,,DVB-S2,5600,3/4,3437 V,,0,,,Business Plus (Nepal),https://www.lyngsat.com/tvchannels/np/Business-Plus.html,,
+3437 VC0,DVB-S28PSK56003/4,3000,Bhakti Darshan TV,,MPEG-4/HD,3001,3002 Nep,,,DVB-S2,5600,3/4,3437 V,,0,,,Bhakti Darshan TV,https://www.lyngsat.com/tvchannels/np/Bhakti-Darshan-TV.html,,
+3446 VC0,DVB-S2QPSK36003/4,1,Lao Star,,?-?MPEG-4/HD,300,4.0 400 Lao,,C Sutton210916,DVB-S2,3600,3/4,3446 V,,0,,,,,,
+3478 VC0,DVB-S2QPSK32002/3,1,Lao Public Security TV,,?-?MPEG-4/SD,513,3.14113 Lao,,Albert I220817,DVB-S2,3200,2/3,3478 V,,0,,,,,,
+3478 VC0,DVB-S2QPSK32002/3,3,Lao Security Radio,,,,4112 Lao,,,DVB-S2,3200,2/3,3478 V,,0,,,Lao Security Radio,https://www.lyngsat.com/radiochannels/la/Lao-Security-Radio.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,,MWD Digital TV,,1-1,,6.6,,Albert I230829,DVB-S2,21600,2/3,3576 V,tp 5B,0,,https://www.lyngsat.com/providers/mm/MWD-Digital-TV.html,,,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,1,MWD Variety,,MPEG-4/HD,49,51 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,MWD Variety,https://www.lyngsat.com/tvchannels/mm/MWD-Variety.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,2,TVM (Myanmar),,MPEG-4/HD,65,67 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,TVM (Myanmar),https://www.lyngsat.com/tvchannels/mm/TVM.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,3,MWD Education Knowledge & Sports,,MPEG-4/HD,81,83 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,MWD Education Knowledge & Sports,https://www.lyngsat.com/tvchannels/mm/MWD-Education-Knowledge-and-Sports.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,4,MWD,,MPEG-4/HD,97,99 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,,
+3591 Vtp 5BC0,DVB-S28PSK32003/5,1,MWD,,8192-4096MPEG-4/HD,512,5.54112 Bur,,Albert I230903,DVB-S2,3200,3/5,3591 V,tp 5B,0,,,MWD,https://www.lyngsat.com/tvchannels/mm/MWD.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,5,Channel Light,,MPEG-4/HD,113,115 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,Channel Light,https://www.lyngsat.com/tvchannels/mm/Channel-Light.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,6,Golden Land,,MPEG-4/HD,129,131 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,Golden Land,https://www.lyngsat.com/tvchannels/mm/Golden-Land.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,7,WAF,,MPEG-4/HD,145,147 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,WAF,https://www.lyngsat.com/tvchannels/mm/WAF.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,9,[Star FM Radio info card],,MPEG-4/SD,177,178 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,,,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,8,Thazin FM Radio,,,,32 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,Thazin FM Radio,https://www.lyngsat.com/radiochannels/mm/Thazin-FM-Radio.html,,
+3576 Vtp 5BC0,DVB-S28PSK216002/3,9,Star FM Radio,,,,178 Bur,,,DVB-S2,21600,2/3,3576 V,tp 5B,0,,,Star FM Radio,https://www.lyngsat.com/radiochannels/mm/Star-FM-Radio.html,,
+3632 Vtp 6BC0,DVB-S28PSK24002/3,1000,TV Today (Nepal),,?-?MPEG-4/HD,1001,6.61002 Nep,,Albert I230625,DVB-S2,2400,2/3,3632 V,tp 6B,0,,,,,,
+3637 Vtp 6BC0,DVB-S28PSK48002/3,1,Galaxy 4K,,?-?MPEG-4/HD,33,6.6  34 Nep,,C Sutton211019,DVB-S2,4800,2/3,3637 V,tp 6B,0,,,,,,
+3647 Htp 7AC0,DVB-S2QPSK32003/4,1,LATV (Laos),,?-?MPEG-4/HD,4113,4.04352 Lao,,Albert I191224,DVB-S2,3200,3/4,3647 H,tp 7A,0,,,,,,
+3647 Htp 7AC0,DVB-S2QPSK32003/4,10,LATV FM,,,,80 Lao,,,DVB-S2,3200,3/4,3647 H,tp 7A,0,,,LATV FM,https://www.lyngsat.com/radiochannels/la/LATV-FM.html,,
+3650 Htp 7AC0,DVB-S2QPSK31003/4,1,VTE 9,,?-0MPEG-4/HD,4112,4.04114 Lao,,Albert I200905,DVB-S2,3100,3/4,3650 H,tp 7A,0,,,,,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,,LaoSat,,65281-1,,6.6,,Albert I240318,DVB-S2,12000,2/3,3651 V,tp 7B,0,,https://www.lyngsat.com/providers/la/LaoSat.html,,,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,2,Sananda,,MPEG-4/HD,101,102 Ben,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Sananda,https://www.lyngsat.com/tvchannels/--/Sananda.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,4,Filmy Bangla TV,,MPEG-4/HD,104,105 Ben,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Filmy Bangla TV,https://www.lyngsat.com/tvchannels/--/Filmy-Bangla-TV.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,5,Goldmines Bangla,,MPEG-4/HD,107,108 Ben,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Goldmines Bangla,https://www.lyngsat.com/tvchannels/--/Goldmines-Bangla.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,6,Tara Bangla Cinema,,MPEG-4/HD,110,111 Ben,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Tara Bangla Cinema,https://www.lyngsat.com/tvchannels/--/Tara-Bangla-Cinema.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,8,K21 News,,MPEG-4/SD,119,120 Urd,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,K21 News,https://www.lyngsat.com/tvchannels/pk/K21-News.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,11,Sun Bangla Cinema,,MPEG-4/HD,116,117 Ben,,,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Sun Bangla Cinema,https://www.lyngsat.com/tvchannels/in/Sun-Bangla-Cinema.html,,
+3651 Vtp 7BC0,DVB-S28PSK120002/3,12,Channel 4 Nepal,,MPEG-4/SD,113,114 Nep,,new,DVB-S2,12000,2/3,3651 V,tp 7B,0,,,Channel 4 Nepal,https://www.lyngsat.com/tvchannels/np/Channel-4-Nepal.html,,
+3653 Htp 7AC0,DVB-S2QPSK24003/4,1,Luang Prabang TV,,?-?MPEG-4/SD,512,4.04113 Lao,,Albert I220303,DVB-S2,2400,3/4,3653 H,tp 7A,0,,,,,,
+3653 Htp 7AC0,DVB-S2QPSK24003/4,2,Luang Prabang Radio,,,,4112 Lao,,,DVB-S2,2400,3/4,3653 H,tp 7A,0,,,Luang Prabang Radio,https://www.lyngsat.com/radiochannels/la/Luang-Prabang-Radio.html,,
+3656 Htp 7AC0,DVB-S2QPSK23003/4,1,Champasack TV,,?-?MPEG-4/SD,513,4.04113 Lao,,Albert I220422,DVB-S2,2300,3/4,3656 H,tp 7A,0,,,,,,
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10730 Vtp 1BKu0,DVB-S2QPSK400004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Josh200803,DVB-S2,40000,4/5,10730 V,tp 1B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,45000,3/4,10790 H,tp 2A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Vtp 2BKu0,DVB-S28PSK400003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,TTN Live240105,DVB-S2,40000,3/4,10790 V,tp 2B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Htp 3AKu0,DVB-S2QPSK400003/4,,LaoSat TV,,,,4.0,StreamGuardTopwellUnitend,NHMPlay220514,DVB-S2,40000,3/4,10850 H,tp 3A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10850 Vtp 3BKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,NHMPlay220513,DVB-S2,45000,4/5,10850 V,tp 3B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Htp 4AKu0,DVB-S2QPSK450004/5,,LaoSat TV,,,,4.7,StreamGuardTopwellUnitend,Albert I220831,DVB-S2,45000,4/5,10910 H,tp 4A,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10910 Vtp 4BKu0,DVB-S28PSK450003/4,,LaoSat TV,,,,7.9,StreamGuardTopwellUnitend,NHMPlay220518,DVB-S2,45000,3/4,10910 V,tp 4B,0,"StreamGuard,Topwell,Unitend",,,,LaoSat TV,https://www.lyngsat.com/packages/LaoSat-TV.html
+10790 Htp 2AKu0,DVB-S28PSK450003/4,296,TVK,,MPEG-4/HD,2962,2963 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,TVK,https://www.lyngsat.com/tvchannels/kh/TVK.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,296,TVK,,MPEG-4/HD,2962,2963 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,TVK,https://www.lyngsat.com/tvchannels/kh/TVK.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,411,My TV (Cambodia),,MPEG-4/HD,4122,4123 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,My TV (Cambodia),https://www.lyngsat.com/tvchannels/kh/My-TV.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,412,CNC,,MPEG-4/SD,4152,4153 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,CNC,https://www.lyngsat.com/tvchannels/kh/CNC.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,427,Fresh News,,MPEG-4/HD,4282,4283 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,Fresh News,https://www.lyngsat.com/tvchannels/kh/Fresh-News.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,427,Fresh News,,MPEG-4/HD,4282,4283 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,Fresh News,https://www.lyngsat.com/tvchannels/kh/Fresh-News.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,437,TVK 2,,MPEG-4/SD,4372,4373 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,TVK 2,https://www.lyngsat.com/tvchannels/kh/TVK-2.html,,
+10790 Htp 2AKu0,DVB-S28PSK450003/4,437,TVK 2,,MPEG-4/SD,4372,4373 Khm,,,DVB-S2,45000,3/4,10790 H,tp 2A,0,,,TVK 2,https://www.lyngsat.com/tvchannels/kh/TVK-2.html,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK32003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK32003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK32003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK12002/3,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK15003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK48002/3,,,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK48002/3,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK24003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK24003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK36003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK32002/3,,,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK32003/5,,,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK24002/3,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK31003/4,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK23003/4,,,

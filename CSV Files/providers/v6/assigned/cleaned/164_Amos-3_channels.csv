@@ -1,0 +1,25 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+1212.0,[test card],MPEG-4/SD,481.0,DVB-S2,30000,3/4,10758 V,,0,,,,,,,False,,
+1414.0,[test card],MPEG-4/SD,481.0,DVB-S2,30000,3/4,11258 H,tp 8U,0,,,,,,,False,,
+1202.0,The Shopping Channel (Israel),MPEG-2/SD,513.0,DVB-S,27500,5/6,10926 V,,52-55,,,The Shopping Channel (Israel),https://www.lyngsat.com/tvchannels/il/The-Shopping-Channel.html,,,False,,Heb
+1202.0,The Shopping Channel (Israel),MPEG-2/SD,513.0,DVB-S,27500,5/6,10926 V,,52-55,,,The Shopping Channel (Israel),https://www.lyngsat.com/tvchannels/il/The-Shopping-Channel.html,,,False,,Heb
+1205.0,Knesset Channel,MPEG-2/SD,516.0,DVB-S,27500,5/6,10926 V,,52-55,,,Knesset Channel,https://www.lyngsat.com/tvchannels/il/Knesset-Channel.html,,,False,,Heb
+1215.0,Hala TV (Israel),MPEG-2/SD,526.0,DVB-S,27500,5/6,10926 V,,52-55,,,Hala TV (Israel),https://www.lyngsat.com/tvchannels/il/Hala-TV.html,,,False,,Ara
+1215.0,Hala TV (Israel),MPEG-2/SD,526.0,DVB-S,27500,5/6,10926 V,,52-55,,,Hala TV (Israel),https://www.lyngsat.com/tvchannels/il/Hala-TV.html,,,False,,Ara
+,,,,DVB-S,27500,5/6,11140 H,tp 7,0,,,,,,,False,,
+,,,,DVB-S,27500,5/6,11175 H,tp 7,0,,,,,,,False,,
+,,,,DVB-S2,1250,2/3,11414 H,tp 10U,0,,,,,,,False,,
+,(feeds),,,DVB-S2,5454,2/3,11291 H,tp 9,,,,,,,,False,,
+,Antenna Hungária,1-1,,DVB-S,8889,3/4,11304 H,tp 9,0,"Conax,Verimatrix",https://www.lyngsat.com/providers/hu/Antenna-Hungaria.html,,,,,True,Antenna Hungária,
+2.0,Hír TV,MPEG-2/SD,200.0,DVB-S,8889,3/4,11304 H,tp 9,0,Conax,,Hír TV,https://www.lyngsat.com/tvchannels/hu/Hir-TV.html,,,False,Antenna Hungária,Hun
+9.0,Da Vinci,MPEG-4/HD,900.0,DVB-S,8889,3/4,11304 H,tp 9,0,"Conax,Verimatrix",,Da Vinci,https://www.lyngsat.com/tvchannels/de/Da-Vinci.html,,,False,Antenna Hungária,Pol Qaa Hun Ukr Rus Bul Gre
+10.0,Hír FM,,,DVB-S,8889,3/4,11304 H,tp 9,0,Conax,,Hír FM,https://www.lyngsat.com/radiochannels/hu/Hir-FM.html,,,False,Antenna Hungária,Hun
+10.0,Hír FM,,,DVB-S,8889,3/4,11304 H,tp 9,0,Conax,,Hír FM,https://www.lyngsat.com/radiochannels/hu/Hir-FM.html,,,False,Antenna Hungária,Hun
+,Tippmix,1-1,,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,https://www.lyngsat.com/providers/hu/Tippmix.html,,,,,True,Tippmix,
+1.0,Tippmix élo 1,MPEG-4/HD,101.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 1,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-1.html,,,False,Tippmix,Hun
+2.0,Tippmix élo 2,MPEG-4/HD,201.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 2,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-2.html,,,False,Tippmix,Hun
+3.0,Tippmix élo 3,MPEG-4/HD,301.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 3,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-3.html,,,False,Tippmix,Hun
+4.0,Tippmix élo 4,MPEG-4/HD,401.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 4,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-4.html,,,False,Tippmix,Hun
+5.0,Tippmix élo 5,MPEG-4/HD,501.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 5,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-5.html,,,False,Tippmix,Hun
+6.0,Tippmix élo 6,MPEG-4/HD,601.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 6,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-6.html,,,False,Tippmix,Hun
+7.0,Tippmix élo 7,MPEG-4/HD,701.0,DVB-S2,17333,2/3,11350 H,tp 9,0,Conax,,Tippmix élo 7,https://www.lyngsat.com/tvchannels/hu/Tippmix-elo-7.html,,,False,Tippmix,Hun

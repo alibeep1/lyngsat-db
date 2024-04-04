@@ -1,0 +1,391 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+,Telkomsat,1-2,,DVB-S2,32727.0,2/3,3720 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-2,,DVB-S2,32727.0,2/3,3720 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-2,,DVB-S2,32727.0,2/3,3720 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-2,,DVB-S2,32727.0,2/3,3720 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-4,,DVB-S2,16360.0,5/6,3791 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-4,,DVB-S2,16360.0,5/6,3791 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-4,,DVB-S2,16360.0,5/6,3791 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-4,,DVB-S2,16360.0,5/6,3791 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,65535-1,,DVB-S2,32727.0,2/3,4020 V,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,65535-1,,DVB-S2,32727.0,2/3,4020 V,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,65535-1,,DVB-S2,32727.0,2/3,4020 V,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,65535-1,,DVB-S2,32727.0,2/3,4020 V,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-3,,DVB-S2,6350.0,2/3,4131 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-3,,DVB-S2,6350.0,2/3,4131 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-3,,DVB-S2,6350.0,2/3,4131 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+,Telkomsat,1-3,,DVB-S2,6350.0,2/3,4131 H,,,,https://www.lyngsat.com/providers/id/Telkomsat.html,,,,,True,Telkomsat,,
+32.0,TVRI Kalimantan Tengah,MPEG-4/HD,232.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Kalimantan Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Tengah.html,,,False,Telkomsat,Ind,id
+32.0,TVRI Kalimantan Tengah,MPEG-4/HD,232.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Kalimantan Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Tengah.html,,,False,Telkomsat,Ind,id
+1.0,TVRI Kalimantan Tengah,?-?MPEG-2/SD,33.0,DVB-S,3000.0,3/4,3857 H,,,,,TVRI Kalimantan Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Tengah.html,,,False,Telkomsat,Ind,id
+1.0,TVRI Kalimantan Tengah,?-?MPEG-2/SD,33.0,DVB-S,3000.0,3/4,3857 H,,,,,TVRI Kalimantan Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Tengah.html,,,False,Telkomsat,Ind,id
+35.0,JTV (Indonesia),MPEG-4/SD,235.0,DVB-S2,32727.0,2/3,3720 H,,,,,JTV (Indonesia),https://www.lyngsat.com/tvchannels/id/JTV.html,,,False,Telkomsat,Ind,id
+35.0,JTV (Indonesia),MPEG-4/SD,235.0,DVB-S2,32727.0,2/3,3720 H,,,,,JTV (Indonesia),https://www.lyngsat.com/tvchannels/id/JTV.html,,,False,Telkomsat,Ind,id
+37.0,TVRI Sumatera Utara,MPEG-4/HD,237.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sumatera Utara,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Utara.html,,,False,Telkomsat,Ind,id
+37.0,TVRI Sumatera Utara,MPEG-4/HD,237.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sumatera Utara,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Utara.html,,,False,Telkomsat,Ind,id
+38.0,TVRI Jawa Tengah,MPEG-4/HD,238.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Tengah.html,,,False,Telkomsat,Ind,id
+38.0,TVRI Jawa Tengah,MPEG-4/HD,238.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Tengah.html,,,False,Telkomsat,Ind,id
+39.0,TVRI Jawa Barat,MPEG-4/HD,239.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Barat.html,,,False,Telkomsat,Ind,id
+39.0,TVRI Jawa Barat,MPEG-4/HD,239.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Barat.html,,,False,Telkomsat,Ind,id
+40.0,TVRI Jawa Timur,MPEG-4/HD,240.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Timur.html,,,False,Telkomsat,Ind,id
+40.0,TVRI Jawa Timur,MPEG-4/HD,240.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Jawa Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Jawa-Timur.html,,,False,Telkomsat,Ind,id
+41.0,TVRI Bali,MPEG-4/HD,241.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Bali,https://www.lyngsat.com/tvchannels/id/TVRI-Bali.html,,,False,Telkomsat,Ind,id
+41.0,TVRI Bali,MPEG-4/HD,241.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Bali,https://www.lyngsat.com/tvchannels/id/TVRI-Bali.html,,,False,Telkomsat,Ind,id
+42.0,TVRI Papua Barat,MPEG-4/HD,242.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Papua Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Papua-Barat.html,,,False,Telkomsat,Ind,id
+43.0,TVRI Riau,MPEG-4/HD,243.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Riau,https://www.lyngsat.com/tvchannels/id/TVRI-Riau.html,,,False,Telkomsat,Ind,id
+43.0,TVRI Riau,MPEG-4/HD,243.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Riau,https://www.lyngsat.com/tvchannels/id/TVRI-Riau.html,,,False,Telkomsat,Ind,id
+44.0,TVRI Sulawesi Tenggara,MPEG-4/HD,244.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sulawesi Tenggara,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Tenggara.html,,,False,Telkomsat,Ind,id
+44.0,TVRI Sulawesi Tenggara,MPEG-4/HD,244.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sulawesi Tenggara,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Tenggara.html,,,False,Telkomsat,Ind,id
+45.0,TVRI Bangka Belitung,MPEG-4/HD,245.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Bangka Belitung,https://www.lyngsat.com/tvchannels/id/TVRI-Bangka-Belitung.html,,,False,Telkomsat,Ind,id
+45.0,TVRI Bangka Belitung,MPEG-4/HD,245.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Bangka Belitung,https://www.lyngsat.com/tvchannels/id/TVRI-Bangka-Belitung.html,,,False,Telkomsat,Ind,id
+46.0,TVRI Sulawesi Barat,MPEG-4/HD,246.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sulawesi Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Barat.html,,,False,Telkomsat,Ind,id
+47.0,TVRI Nusa Tenggara Timur,MPEG-4/HD,247.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Nusa Tenggara Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Nusa-Tenggara-Timur.html,,,False,Telkomsat,Ind,id
+47.0,TVRI Nusa Tenggara Timur,MPEG-4/HD,247.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Nusa Tenggara Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Nusa-Tenggara-Timur.html,,,False,Telkomsat,Ind,id
+48.0,TVRI Sulawesi Tengah,MPEG-4/HD,248.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sulawesi Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Tengah.html,,,False,Telkomsat,Ind,id
+48.0,TVRI Sulawesi Tengah,MPEG-4/HD,248.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Sulawesi Tengah,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Tengah.html,,,False,Telkomsat,Ind,id
+49.0,TVRI Gorontalo,MPEG-4/HD,249.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Gorontalo,https://www.lyngsat.com/tvchannels/id/TVRI-Gorontalo.html,,,False,Telkomsat,Ind,id
+50.0,TVRI Kalimantan Utara (day),MPEG-4/HD,250.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Kalimantan Utara (day),https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Utara.html,,,False,Telkomsat,Ind,id
+51.0,TVRI Kalimantan Timur,MPEG-4/HD,251.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Kalimantan Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Timur.html,,,False,Telkomsat,Ind,id
+51.0,TVRI Kalimantan Timur,MPEG-4/HD,251.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Kalimantan Timur,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Timur.html,,,False,Telkomsat,Ind,id
+52.0,TVRI Papua,MPEG-4/HD,252.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Papua,https://www.lyngsat.com/tvchannels/id/TVRI-Papua.html,,,False,Telkomsat,Ind,id
+52.0,TVRI Papua,MPEG-4/HD,252.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Papua,https://www.lyngsat.com/tvchannels/id/TVRI-Papua.html,,,False,Telkomsat,Ind,id
+53.0,TVRI Maluku Utara,MPEG-4/HD,253.0,DVB-S2,32727.0,2/3,3720 H,,,,,TVRI Maluku Utara,https://www.lyngsat.com/tvchannels/id/TVRI-Maluku-Utara.html,,,False,Telkomsat,Ind,id
+2110.0,RRI Net,MPEG-4/HD,2101.0,DVB-S2,32727.0,2/3,3720 H,,,,,RRI Net,https://www.lyngsat.com/tvchannels/id/RRI-Net.html,,,False,Telkomsat,Ind,id
+2110.0,RRI Net,MPEG-4/HD,2101.0,DVB-S2,32727.0,2/3,3720 H,,,,,RRI Net,https://www.lyngsat.com/tvchannels/id/RRI-Net.html,,,False,Telkomsat,Ind,id
+2116.0,Nusantara TV,MPEG-4/HD,2161.0,DVB-S2,32727.0,2/3,3720 H,,,,,Nusantara TV,https://www.lyngsat.com/tvchannels/id/Nusantara-TV.html,,,False,Telkomsat,Ind,id
+2116.0,Nusantara TV,MPEG-4/HD,2161.0,DVB-S2,32727.0,2/3,3720 H,,,,,Nusantara TV,https://www.lyngsat.com/tvchannels/id/Nusantara-TV.html,,,False,Telkomsat,Ind,id
+2124.0,Fatwa TV,MPEG-4/HD,2241.0,DVB-S2,32727.0,2/3,3720 H,,,,,Fatwa TV,https://www.lyngsat.com/tvchannels/id/Fatwa-TV.html,,,False,Telkomsat,Ind,id
+,KG Media,1-1,,DVB-S2,3083.0,3/4,3752 H,,,,https://www.lyngsat.com/providers/id/KG-Media.html,,,,,True,KG Media,,
+1.0,Kompas TV,MPEG-4/HD,512.0,DVB-S2,3083.0,3/4,3752 H,,,,,Kompas TV,https://www.lyngsat.com/tvchannels/id/Kompas-TV.html,,,False,KG Media,Ind,id
+1.0,Kompas TV,MPEG-4/HD,512.0,DVB-S2,3083.0,3/4,3752 H,,,,,Kompas TV,https://www.lyngsat.com/tvchannels/id/Kompas-TV.html,,,False,KG Media,Ind,id
+2.0,KTV (Indonesia),MPEG-4/SD,513.0,DVB-S2,3083.0,3/4,3752 H,,,,,KTV (Indonesia),https://www.lyngsat.com/tvchannels/id/KTV.html,,,False,KG Media,Ind,id
+2119.0,Da Ai TV Indonesia,?-?MPEG-4/HD,2191.0,DVB-S2,2400.0,3/4,3756 H,,,,,,,,,False,KG Media,Ind,
+,(feeds),,,DVB-S2,3000.0,3/4,3759 H,,,,,,,,,False,KG Media,,
+,(feeds),,,DVB-S2,3200.0,5/6,3864 H,tp 5H,,,,,,,,False,KG Media,,
+,(feeds),,,DVB-S2,3000.0,3/4,3868 H,tp 5H,,,,,,,,False,KG Media,,
+,(feeds),,,DVB-S2,6000.0,5/6,3906 H,,,,,,,,,False,KG Media,,
+,(feeds),,,DVB-S2,3000.0,3/4,3963 H,,,,,,,,,False,KG Media,,
+,(feeds),,,DVB-S2,6000.0,5/6,4052 H,,,,,,,,,False,KG Media,,
+,InTech,1-1,,DVB-S2,10280.0,3/4,3773 H,,,,https://www.lyngsat.com/providers/id/InTech.html,,,,,True,InTech,,
+1.0,Insan TV,MPEG-4/HD,1011.0,DVB-S2,10280.0,3/4,3773 H,,,,,Insan TV,https://www.lyngsat.com/tvchannels/id/Insan-TV.html,,,False,InTech,Ind,id
+2.0,Ashiil TV,MPEG-4/SD,1021.0,DVB-S2,10280.0,3/4,3773 H,,,,,Ashiil TV,https://www.lyngsat.com/tvchannels/id/Ashiil-TV.html,,,False,InTech,Ind,id
+4.0,Ahsan TV,MPEG-4/SD,1041.0,DVB-S2,10280.0,3/4,3773 H,,,,,Ahsan TV,https://www.lyngsat.com/tvchannels/id/Ahsan-TV.html,,,False,InTech,Ind,id
+5.0,Muadz TV,MPEG-4/SD,1051.0,DVB-S2,10280.0,3/4,3773 H,,,,,Muadz TV,https://www.lyngsat.com/tvchannels/id/Muadz-TV.html,,,False,InTech,Ind,id
+7.0,Naajiya TV,MPEG-4/HD,1071.0,DVB-S2,10280.0,3/4,3773 H,,,,,Naajiya TV,https://www.lyngsat.com/tvchannels/id/Naajiya-TV.html,,,False,InTech,Ind,id
+8.0,Hijrah TV (Indonesia),MPEG-4/SD,1081.0,DVB-S2,10280.0,3/4,3773 H,,,,,Hijrah TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Hijrah-TV.html,,,False,InTech,Ind,id
+9.0,Al-Iman TV (Indonesia),MPEG-4/SD,1091.0,DVB-S2,10280.0,3/4,3773 H,,,,,Al-Iman TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Al-Iman-TV.html,,,False,InTech,Ind,id
+12.0,Salam TV (Indonesia),MPEG-4/SD,1121.0,DVB-S2,10280.0,3/4,3773 H,,,,,Salam TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Salam-TV.html,,,False,InTech,Ind,id
+13.0,Sunna TV (Saudi Arabia),MPEG-4/SD,1131.0,DVB-S2,10280.0,3/4,3773 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,,,False,InTech,Ara,sa
+13.0,Sunna TV (Saudi Arabia),MPEG-4/SD,1131.0,DVB-S2,10280.0,3/4,3773 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,,,False,InTech,Ara,sa
+14.0,Quran TV (Saudi Arabia),MPEG-4/SD,1141.0,DVB-S2,10280.0,3/4,3773 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,,,False,InTech,Ara,sa
+14.0,Quran TV (Saudi Arabia),MPEG-4/SD,1141.0,DVB-S2,10280.0,3/4,3773 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,,,False,InTech,Ara,sa
+18.0,Pal TV,MPEG-4/SD,1181.0,DVB-S2,10280.0,3/4,3773 H,,,,,Pal TV,https://www.lyngsat.com/tvchannels/id/Pal-TV.html,,,False,InTech,Ind,id
+22.0,Bin Baz TV,MPEG-4/SD,1221.0,DVB-S2,10280.0,3/4,3773 H,,,,,Bin Baz TV,https://www.lyngsat.com/tvchannels/id/Bin-Baz-TV.html,,,False,InTech,Ind,id
+58.0,BETV,MPEG-4/SD,1581.0,DVB-S2,10280.0,3/4,3773 H,,,,,BETV,https://www.lyngsat.com/tvchannels/id/BETV.html,,,False,InTech,Ind,id
+59.0,RB TV,MPEG-4/SD,1591.0,DVB-S2,10280.0,3/4,3773 H,,,,,RB TV,https://www.lyngsat.com/tvchannels/id/RB-TV.html,,,False,InTech,Ind,id
+60.0,Siak TV,MPEG-4/HD,1601.0,DVB-S2,10280.0,3/4,3773 H,,,,,Siak TV,https://www.lyngsat.com/tvchannels/id/Siak-TV.html,,,False,InTech,Ind,id
+62.0,TVRI Sumatera Selatan,MPEG-4/HD,1621.0,DVB-S2,10280.0,3/4,3773 H,,,,,TVRI Sumatera Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Selatan.html,,,False,InTech,Ind,id
+62.0,TVRI Sumatera Selatan,MPEG-4/HD,1621.0,DVB-S2,10280.0,3/4,3773 H,,,,,TVRI Sumatera Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Selatan.html,,,False,InTech,Ind,id
+64.0,Lejel Home Shopping,MPEG-4/SD,1641.0,DVB-S2,10280.0,3/4,3773 H,,,,,Lejel Home Shopping,https://www.lyngsat.com/tvchannels/id/Lejel-Home-Shopping.html,,,False,InTech,Ind,id
+,,,,DVB-S2,10280.0,3/4,3773 V,,,,,,,,,False,InTech,,
+,,1-1,,DVB-S2,2500.0,2/3,3778 V,,,,,,,,,False,InTech,,
+16.0,TV Mu,MPEG-4/HD,33.0,DVB-S2,2500.0,2/3,3778 V,,,,,TV Mu,https://www.lyngsat.com/tvchannels/id/TV-Mu.html,,,False,InTech,Ind,id
+16.0,TV Mu,MPEG-4/HD,33.0,DVB-S2,2500.0,2/3,3778 V,,,,,TV Mu,https://www.lyngsat.com/tvchannels/id/TV-Mu.html,,,False,InTech,Ind,id
+122.0,Wesal TV (Indonesia),MPEG-4/SD,125.0,DVB-S2,2500.0,2/3,3778 V,,,,,Wesal TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Wesal-TV.html,,,False,InTech,Ind,id
+122.0,Wesal TV (Indonesia),MPEG-4/SD,125.0,DVB-S2,2500.0,2/3,3778 V,,,,,Wesal TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Wesal-TV.html,,,False,InTech,Ind,id
+2305.0,Gazwah TV,MPEG-4/SD,36.0,DVB-S2,2500.0,2/3,3778 V,,,,,Gazwah TV,https://www.lyngsat.com/tvchannels/id/Gazwah-TV.html,,,False,InTech,Ind,id
+2305.0,Gazwah TV,MPEG-4/SD,36.0,DVB-S2,2500.0,2/3,3778 V,,,,,Gazwah TV,https://www.lyngsat.com/tvchannels/id/Gazwah-TV.html,,,False,InTech,Ind,id
+1.0,TVRI Nusa Tenggara Barat,MPEG-4/HD,229.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Nusa Tenggara Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Nusa-Tenggara-Barat.html,,,False,InTech,Ind,id
+1.0,TVRI Nusa Tenggara Barat,MPEG-4/HD,229.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Nusa Tenggara Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Nusa-Tenggara-Barat.html,,,False,InTech,Ind,id
+2.0,TVRI Maluku,MPEG-4/HD,207.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Maluku,https://www.lyngsat.com/tvchannels/id/TVRI-Maluku.html,,,False,InTech,Ind,id
+2.0,TVRI Maluku,MPEG-4/HD,207.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Maluku,https://www.lyngsat.com/tvchannels/id/TVRI-Maluku.html,,,False,InTech,Ind,id
+3.0,TVRI Kalimantan Selatan,MPEG-4/HD,228.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Kalimantan Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Selatan.html,,,False,InTech,Ind,id
+3.0,TVRI Kalimantan Selatan,MPEG-4/HD,228.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Kalimantan Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Selatan.html,,,False,InTech,Ind,id
+4.0,TVRI Sulawesi Selatan,MPEG-4/HD,227.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sulawesi Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Selatan.html,,,False,InTech,Ind,id
+4.0,TVRI Sulawesi Selatan,MPEG-4/HD,227.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sulawesi Selatan,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Selatan.html,,,False,InTech,Ind,id
+5.0,TVRI Sulawesi Utara,MPEG-4/HD,230.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sulawesi Utara,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Utara.html,,,False,InTech,Ind,id
+5.0,TVRI Sulawesi Utara,MPEG-4/HD,230.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sulawesi Utara,https://www.lyngsat.com/tvchannels/id/TVRI-Sulawesi-Utara.html,,,False,InTech,Ind,id
+6.0,TVRI Kepulauan Riau (afternoon),MPEG-4/HD,201.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Kepulauan Riau (afternoon),https://www.lyngsat.com/tvchannels/id/TVRI-Kepulauan-Riau.html,,,False,InTech,Ind,id
+7.0,TVRI Aceh,MPEG-4/HD,214.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Aceh,https://www.lyngsat.com/tvchannels/id/TVRI-Aceh.html,,,False,InTech,Ind,id
+7.0,TVRI Aceh,MPEG-4/HD,214.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Aceh,https://www.lyngsat.com/tvchannels/id/TVRI-Aceh.html,,,False,InTech,Ind,id
+8.0,TVRI Jambi,MPEG-4/HD,202.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Jambi,https://www.lyngsat.com/tvchannels/id/TVRI-Jambi.html,,,False,InTech,Ind,id
+8.0,TVRI Jambi,MPEG-4/HD,202.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Jambi,https://www.lyngsat.com/tvchannels/id/TVRI-Jambi.html,,,False,InTech,Ind,id
+9.0,TVRI Kalimantan Barat,MPEG-4/HD,215.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Kalimantan Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Barat.html,,,False,InTech,Ind,id
+9.0,TVRI Kalimantan Barat,MPEG-4/HD,215.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Kalimantan Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Kalimantan-Barat.html,,,False,InTech,Ind,id
+10.0,TVRI Jakarta,MPEG-4/HD,216.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Jakarta,https://www.lyngsat.com/tvchannels/id/TVRI-Jakarta.html,,,False,InTech,Ind,id
+10.0,TVRI Jakarta,MPEG-4/HD,216.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Jakarta,https://www.lyngsat.com/tvchannels/id/TVRI-Jakarta.html,,,False,InTech,Ind,id
+11.0,TVRI Yogyakarta,MPEG-4/HD,217.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Yogyakarta,https://www.lyngsat.com/tvchannels/id/TVRI-Yogyakarta.html,,,False,InTech,Ind,id
+11.0,TVRI Yogyakarta,MPEG-4/HD,217.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Yogyakarta,https://www.lyngsat.com/tvchannels/id/TVRI-Yogyakarta.html,,,False,InTech,Ind,id
+12.0,TVRI Lampung,MPEG-4/HD,218.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Lampung,https://www.lyngsat.com/tvchannels/id/TVRI-Lampung.html,,,False,InTech,Ind,id
+12.0,TVRI Lampung,MPEG-4/HD,218.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Lampung,https://www.lyngsat.com/tvchannels/id/TVRI-Lampung.html,,,False,InTech,Ind,id
+13.0,TVRI Sumatera Barat,MPEG-4/HD,220.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sumatera Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Barat.html,,,False,InTech,Ind,id
+13.0,TVRI Sumatera Barat,MPEG-4/HD,220.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Sumatera Barat,https://www.lyngsat.com/tvchannels/id/TVRI-Sumatera-Barat.html,,,False,InTech,Ind,id
+14.0,TVRI Bengkulu,MPEG-4/HD,221.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Bengkulu,https://www.lyngsat.com/tvchannels/id/TVRI-Bengkulu.html,,,False,InTech,Ind,id
+14.0,TVRI Bengkulu,MPEG-4/HD,221.0,DVB-S2,16360.0,5/6,3791 H,,,,,TVRI Bengkulu,https://www.lyngsat.com/tvchannels/id/TVRI-Bengkulu.html,,,False,InTech,Ind,id
+,Rodja TV,65535-0,,DVB-S,3636.0,3/4,3824 H,,,,https://www.lyngsat.com/providers/id/Rodja-TV.html,Rodja TV,https://www.lyngsat.com/tvchannels/id/Rodja-TV.html,,,True,Rodja TV,,id
+,Rodja TV,65535-0,,DVB-S,3636.0,3/4,3824 H,,,,https://www.lyngsat.com/providers/id/Rodja-TV.html,Rodja TV,https://www.lyngsat.com/tvchannels/id/Rodja-TV.html,,,True,Rodja TV,,id
+16.0,Rodja TV,MPEG-2/SD,106.0,DVB-S,3636.0,3/4,3824 H,,,,https://www.lyngsat.com/providers/id/Rodja-TV.html,Rodja TV,https://www.lyngsat.com/tvchannels/id/Rodja-TV.html,,,True,Rodja TV,Ind,id
+16.0,Rodja TV,MPEG-2/SD,106.0,DVB-S,3636.0,3/4,3824 H,,,,https://www.lyngsat.com/providers/id/Rodja-TV.html,Rodja TV,https://www.lyngsat.com/tvchannels/id/Rodja-TV.html,,,True,Rodja TV,Ind,id
+513.0,MGI TV,MPEG-2/SD,513.0,DVB-S,3636.0,3/4,3824 H,,,,,MGI TV,https://www.lyngsat.com/tvchannels/id/MGI-TV.html,,,False,Rodja TV,Ind,id
+32.0,Radio Rodja,,,DVB-S,3636.0,3/4,3824 H,,,,,Radio Rodja,https://www.lyngsat.com/radiochannels/id/Radio-Rodja.html,,,False,Rodja TV,Ind,id
+32.0,Radio Rodja,,,DVB-S,3636.0,3/4,3824 H,,,,,Radio Rodja,https://www.lyngsat.com/radiochannels/id/Radio-Rodja.html,,,False,Rodja TV,Ind,id
+,(Telkomsat feeds),,,DVB-S2,3000.0,3/4,3828 H,,,,,,,,,False,Rodja TV,,
+,(Telkomsat feeds),,,DVB-S2,6000.0,3/4,3933 H,,,,,,,,,False,Rodja TV,,
+,Viva,8552-1,,DVB-S2,7000.0,3/4,3850 H,,,,https://www.lyngsat.com/providers/id/Viva.html,,,,,True,Viva,,
+1.0,ANTV,MPEG-4/HD,253.0,DVB-S2,7000.0,3/4,3850 H,,,,,ANTV,https://www.lyngsat.com/tvchannels/id/ANTV.html,,,False,Viva,Ind,id
+1.0,ANTV,MPEG-4/HD,253.0,DVB-S2,7000.0,3/4,3850 H,,,,,ANTV,https://www.lyngsat.com/tvchannels/id/ANTV.html,,,False,Viva,Ind,id
+2.0,VTV (Indonesia),MPEG-4/HD,249.0,DVB-S2,7000.0,3/4,3850 H,,,,,VTV (Indonesia),https://www.lyngsat.com/tvchannels/id/VTV.html,,,False,Viva,Ind,id
+,Surau TV,,,DVB-S,2727.0,7/8,3872 H,tp 5H,,,https://www.lyngsat.com/providers/id/Surau-TV.html,Surau TV,https://www.lyngsat.com/tvchannels/id/Surau-TV.html,,,True,Surau TV,,id
+2.0,Surau TV,MPEG-2/SD,1021.0,DVB-S,2727.0,7/8,3872 H,tp 5H,,,https://www.lyngsat.com/providers/id/Surau-TV.html,Surau TV,https://www.lyngsat.com/tvchannels/id/Surau-TV.html,,,True,Surau TV,Ind,id
+1.0,Dei Kids TV,MPEG-4/SD,1011.0,DVB-S,2727.0,7/8,3872 H,tp 5H,,,,Dei Kids TV,https://www.lyngsat.com/tvchannels/id/Dei-Kids-TV.html,,,False,Surau TV,Ind,id
+1.0,BTV (Indonesia),?-?MPEG-4/HD,34.0,DVB-S2,3600.0,3/4,3876 H,tp 5H,,,,,,,,False,Surau TV,Ind,
+,(TransMedia feeds),,,DVB-S2,3200.0,5/6,3880 H,tp 5H,,,,,,,,False,Surau TV,,
+,TransMedia,8552-4165,,DVB-S2,9600.0,3/5,3888 H,tp 5H,,,https://www.lyngsat.com/providers/id/TransMedia.html,,,,,True,TransMedia,,
+1.0,Trans TV,MPEG-4/HD,45.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,,,Trans TV,https://www.lyngsat.com/tvchannels/id/Trans-TV.html,,,False,TransMedia,Ind,id
+1.0,Trans TV,MPEG-4/HD,45.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,,,Trans TV,https://www.lyngsat.com/tvchannels/id/Trans-TV.html,,,False,TransMedia,Ind,id
+2.0,Trans 7,MPEG-4/HD,72.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,,,Trans 7,https://www.lyngsat.com/tvchannels/id/Trans-7.html,,,False,TransMedia,Ind,id
+2.0,Trans 7,MPEG-4/HD,72.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,,,Trans 7,https://www.lyngsat.com/tvchannels/id/Trans-7.html,,,False,TransMedia,Ind,id
+3.0,CNN Indonesia,MPEG-4/HD,55.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,BISS 1,,CNN Indonesia,https://www.lyngsat.com/tvchannels/us/CNN-Indonesia.html,,,False,TransMedia,Ind,us
+3.0,CNN Indonesia,MPEG-4/HD,55.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,BISS 1,,CNN Indonesia,https://www.lyngsat.com/tvchannels/us/CNN-Indonesia.html,,,False,TransMedia,Ind,us
+5.0,CNBC Indonesia,MPEG-4/HD,83.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,BISS 1,,CNBC Indonesia,https://www.lyngsat.com/tvchannels/us/CNBC-Indonesia.html,,,False,TransMedia,Ind,us
+5.0,CNBC Indonesia,MPEG-4/HD,83.0,DVB-S2,9600.0,3/5,3888 H,tp 5H,,BISS 1,,CNBC Indonesia,https://www.lyngsat.com/tvchannels/us/CNBC-Indonesia.html,,,False,TransMedia,Ind,us
+8.0,M Channel (Indonesia),MPEG-4/SD,508.0,DVB-S2,29800.0,3/4,3900 V,tp 5V,,,,M Channel (Indonesia),https://www.lyngsat.com/tvchannels/id/M-Channel.html,,,False,TransMedia,Ind,id
+30.0,Reformed 21,MPEG-4/HD,645.0,DVB-S2,29800.0,3/4,3900 V,tp 5V,,,,Reformed 21,https://www.lyngsat.com/tvchannels/id/Reformed-21.html,,,False,TransMedia,Ind,id
+30.0,Reformed 21,MPEG-4/HD,645.0,DVB-S2,29800.0,3/4,3900 V,tp 5V,,,,Reformed 21,https://www.lyngsat.com/tvchannels/id/Reformed-21.html,,,False,TransMedia,Ind,id
+36.0,Nex promo,MPEG-4/SD,536.0,DVB-S2,29800.0,3/4,3900 V,tp 5V,,,,,,,,False,TransMedia,Ind,
+43.0,Ajwa TV,MPEG-4/HD,543.0,DVB-S2,29800.0,3/4,3900 V,tp 5V,,,,Ajwa TV,https://www.lyngsat.com/tvchannels/id/Ajwa-TV.html,,,False,TransMedia,Ind,id
+,(TVRI feeds),,,DVB-S2,6000.0,3/4,3914 H,,,,,,,,,False,TransMedia,,
+,TVRI,1-1,,DVB-S2,6500.0,2/3,3924 H,,,,https://www.lyngsat.com/providers/id/TVRI.html,,,,,True,TVRI,,
+1.0,TVRI Nasional,MPEG-4/HD,39.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI Nasional,https://www.lyngsat.com/tvchannels/id/TVRI-Nasional.html,,,False,TVRI,Ind,id
+1.0,TVRI Nasional,MPEG-4/HD,39.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI Nasional,https://www.lyngsat.com/tvchannels/id/TVRI-Nasional.html,,,False,TVRI,Ind,id
+2.0,TVRI World,MPEG-4/HD,33.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI World,https://www.lyngsat.com/tvchannels/id/TVRI-World.html,,,False,TVRI,Eng,id
+2.0,TVRI World,MPEG-4/HD,33.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI World,https://www.lyngsat.com/tvchannels/id/TVRI-World.html,,,False,TVRI,Eng,id
+3.0,TVRI Sport,MPEG-4/HD,36.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI Sport,https://www.lyngsat.com/tvchannels/id/TVRI-Sport.html,,,False,TVRI,Ind,id
+3.0,TVRI Sport,MPEG-4/HD,36.0,DVB-S2,6500.0,2/3,3924 H,,,,,TVRI Sport,https://www.lyngsat.com/tvchannels/id/TVRI-Sport.html,,,False,TVRI,Ind,id
+1.0,Bali TV,1-1MPEG-4/SD,33.0,DVB-S2,1640.0,5/6,3938 H,,,,,,,,,False,TVRI,Ind,
+,RRI,,,DVB-S,6660.0,3/4,3946 H,,,,https://www.lyngsat.com/providers/id/RRI.html,,,,,True,RRI,,
+1.0,RRI Pro 1 Kendari,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Kendari,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Kendari.html,,,False,RRI,Ind,id
+2.0,RRI Pro 1 Sibolga,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sibolga,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sibolga.html,,,False,RRI,Ind,id
+3.0,RRI Pro 1 Bandar Lampung,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bandar Lampung,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bandar-Lampung.html,,,False,RRI,Ind,id
+4.0,RRI Pro 1 Jambi,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Jambi,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Jambi.html,,,False,RRI,Ind,id
+5.0,RRI Pro 1 Banda Aceh,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Banda Aceh,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Banda-Aceh.html,,,False,RRI,Ind,id
+5.0,RRI Pro 1 Banda Aceh,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Banda Aceh,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Banda-Aceh.html,,,False,RRI,Ind,id
+7.0,RRI Pro 1 Pekanbaru,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Pekanbaru,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Pekanbaru.html,,,False,RRI,Ind,id
+8.0,RRI Pro 1 Manado,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Manado,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Manado.html,,,False,RRI,Ind,id
+9.0,RRI Pro 1 Padang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Padang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Padang.html,,,False,RRI,Ind,id
+11.0,RRI Pro 1 Palu,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Palu,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Palu.html,,,False,RRI,Ind,id
+12.0,RRI Pro 1 Cirebon,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Cirebon,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Cirebon.html,,,False,RRI,Ind,id
+13.0,RRI Pro 1 Mataram,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Mataram,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Mataram.html,,,False,RRI,Ind,id
+14.0,RRI Pro 1 Malang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Malang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Malang.html,,,False,RRI,Ind,id
+15.0,RRI Pro 1 Singaraja,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Singaraja,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Singaraja.html,,,False,RRI,Ind,id
+16.0,RRI Pro 1 Palembang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Palembang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Palembang.html,,,False,RRI,Ind,id
+17.0,RRI Pro 1 Tanjung Pinang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Tanjung Pinang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Tanjung-Pinang.html,,,False,RRI,Ind,id
+18.0,RRI Pro 1 Tarakan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Tarakan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Tarakan.html,,,False,RRI,Ind,id
+19.0,RRI Pro 3,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 3,https://www.lyngsat.com/radiochannels/id/RRI-Pro-3.html,,,False,RRI,Ind,id
+19.0,RRI Pro 3,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 3,https://www.lyngsat.com/radiochannels/id/RRI-Pro-3.html,,,False,RRI,Ind,id
+20.0,RRI Pro 1 Madiun,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Madiun,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Madiun.html,,,False,RRI,Ind,id
+21.0,RRI Pro 1 Bandung,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bandung,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bandung.html,,,False,RRI,Ind,id
+21.0,RRI Pro 1 Bandung,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bandung,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bandung.html,,,False,RRI,Ind,id
+22.0,RRI Pro 1 Semarang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Semarang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Semarang.html,,,False,RRI,Ind,id
+23.0,RRI Pro 1 Medan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Medan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Medan.html,,,False,RRI,Ind,id
+23.0,RRI Pro 1 Medan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Medan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Medan.html,,,False,RRI,Ind,id
+24.0,RRI Pro 1 Meulaboh,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Meulaboh,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Meulaboh.html,,,False,RRI,Ind,id
+25.0,RRI Pro 1 Palangkaraya,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Palangkaraya,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Palangkaraya.html,,,False,RRI,Ind,id
+26.0,RRI Pro 1 Samarinda,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Samarinda,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Samarinda.html,,,False,RRI,Ind,id
+27.0,RRI Pro 1 Jember,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Jember,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Jember.html,,,False,RRI,Ind,id
+28.0,RRI Pro 1 Sintang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sintang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sintang.html,,,False,RRI,Ind,id
+29.0,RRI Pro 1 Toli Toli,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Toli Toli,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Toli-Toli.html,,,False,RRI,Ind,id
+30.0,RRI Pro 1 Atambua,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Atambua,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Atambua.html,,,False,RRI,Ind,id
+30.0,RRI Pro 1 Atambua,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Atambua,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Atambua.html,,,False,RRI,Ind,id
+31.0,RRI Pro 1 Ambon,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ambon,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ambon.html,,,False,RRI,Ind,id
+31.0,RRI Pro 1 Ambon,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ambon,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ambon.html,,,False,RRI,Ind,id
+32.0,RRI Pro 1 Banjarmasin,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Banjarmasin,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Banjarmasin.html,,,False,RRI,Ind,id
+32.0,RRI Pro 1 Banjarmasin,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Banjarmasin,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Banjarmasin.html,,,False,RRI,Ind,id
+33.0,RRI Pro 1 Surabaya,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Surabaya,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Surabaya.html,,,False,RRI,Ind,id
+33.0,RRI Pro 1 Surabaya,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Surabaya,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Surabaya.html,,,False,RRI,Ind,id
+35.0,RRI Pro 1 Fak Fak,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Fak Fak,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Fak-Fak.html,,,False,RRI,Ind,id
+36.0,RRI Pro 1 Bengkulu,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bengkulu,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bengkulu.html,,,False,RRI,Ind,id
+37.0,RRI Pro 1 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Jakarta.html,,,False,RRI,Ind,id
+37.0,RRI Pro 1 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Jakarta.html,,,False,RRI,Ind,id
+38.0,RRI Pro 2 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 2 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-2-Jakarta.html,,,False,RRI,Ind,id
+38.0,RRI Pro 2 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 2 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-2-Jakarta.html,,,False,RRI,Ind,id
+39.0,RRI Pro 1 Makassar,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Makassar,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Makassar.html,,,False,RRI,Ind,id
+41.0,RRI Pro 4 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Jakarta.html,,,False,RRI,Ind,id
+41.0,RRI Pro 4 Jakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Jakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Jakarta.html,,,False,RRI,Ind,id
+42.0,RRI Pro 1 Ende,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ende,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ende.html,,,False,RRI,Ind,id
+44.0,RRI Pro 1 Merauke,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Merauke,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Merauke.html,,,False,RRI,Ind,id
+48.0,RRI Pro 1 Ternate,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ternate,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ternate.html,,,False,RRI,Ind,id
+49.0,RRI Pro 1 Sorong,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sorong,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sorong.html,,,False,RRI,Ind,id
+50.0,RRI Pro 4 Bandung,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Bandung,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Bandung.html,,,False,RRI,Ind,id
+50.0,RRI Pro 4 Bandung,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Bandung,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Bandung.html,,,False,RRI,Ind,id
+56.0,RRI Pro 1 Denpasar,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Denpasar,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Denpasar.html,,,False,RRI,Ind,id
+63.0,RRI Pro 1 Mamuju,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Mamuju,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Mamuju.html,,,False,RRI,Ind,id
+64.0,RRI Pro 2 Surabaya,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 2 Surabaya,https://www.lyngsat.com/radiochannels/id/RRI-Pro-2-Surabaya.html,,,False,RRI,Ind,id
+64.0,RRI Pro 2 Surabaya,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 2 Surabaya,https://www.lyngsat.com/radiochannels/id/RRI-Pro-2-Surabaya.html,,,False,RRI,Ind,id
+100.0,Voice of Indonesia,,,DVB-S,6660.0,3/4,3946 H,,,,,Voice of Indonesia,https://www.lyngsat.com/radiochannels/id/Voice-of-Indonesia.html,,,False,RRI,,id
+100.0,Voice of Indonesia,,,DVB-S,6660.0,3/4,3946 H,,,,,Voice of Indonesia,https://www.lyngsat.com/radiochannels/id/Voice-of-Indonesia.html,,,False,RRI,,id
+101.0,RRI Pro 4 Makassar,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Makassar,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Makassar.html,,,False,RRI,Ind,id
+110.0,RRI Pro 1 Tual,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Tual,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Tual.html,,,False,RRI,Ind,id
+130.0,RRI Pro 1 Gorontalo,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Gorontalo,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Gorontalo.html,,,False,RRI,Ind,id
+131.0,RRI Pro 4 Gorontalo,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 4 Gorontalo,https://www.lyngsat.com/radiochannels/id/RRI-Pro-4-Gorontalo.html,,,False,RRI,Ind,id
+150.0,RRI Pro 1 Nunukan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Nunukan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Nunukan.html,,,False,RRI,Ind,id
+160.0,RRI Pro 1 Kupang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Kupang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Kupang.html,,,False,RRI,Ind,id
+172.0,RRI Pro 1 Pontianak,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Pontianak,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Pontianak.html,,,False,RRI,Ind,id
+194.0,RRI Pro 1 Wamena,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Wamena,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Wamena.html,,,False,RRI,Ind,id
+200.0,RRI Pro 1 Sungailiat,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sungailiat,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sungailiat.html,,,False,RRI,Ind,id
+210.0,RRI Pro 1 Manokwari,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Manokwari,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Manokwari.html,,,False,RRI,Ind,id
+220.0,RRI Pro 1 Jayapura,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Jayapura,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Jayapura.html,,,False,RRI,Ind,id
+400.0,RRI Pro 1 Gunung Sitoli,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Gunung Sitoli,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Gunung-Sitoli.html,,,False,RRI,Ind,id
+500.0,RRI Pro 1 Bogor,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bogor,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bogor.html,,,False,RRI,Ind,id
+600.0,RRI Pro 1 Nabire,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Nabire,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Nabire.html,,,False,RRI,Ind,id
+601.0,RRI Pro 1 Banten,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Banten,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Banten.html,,,False,RRI,Ind,id
+603.0,RRI Pro 1 Biak,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Biak,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Biak.html,,,False,RRI,Ind,id
+607.0,RRI Pro 1 Entikong,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Entikong,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Entikong.html,,,False,RRI,Ind,id
+608.0,RRI Pro 1 Bukittinggi,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bukittinggi,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bukittinggi.html,,,False,RRI,Ind,id
+609.0,RRI Pro 1 Sumenep,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sumenep,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sumenep.html,,,False,RRI,Ind,id
+611.0,RRI Pro 1 Lhokseumave,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Lhokseumave,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Lhokseumave.html,,,False,RRI,Ind,id
+612.0,RRI Pro 1 Takengon,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Takengon,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Takengon.html,,,False,RRI,Ind,id
+613.0,RRI Pro 1 Serui,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Serui,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Serui.html,,,False,RRI,Ind,id
+614.0,RRI Pro 1 Tahuna,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Tahuna,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Tahuna.html,,,False,RRI,Ind,id
+615.0,RRI Pro 1 Ranai,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ranai,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ranai.html,,,False,RRI,Ind,id
+615.0,RRI Pro 1 Ranai,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Ranai,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Ranai.html,,,False,RRI,Ind,id
+616.0,RRI Pro 1 Bovendigul,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Bovendigul,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Bovendigul.html,,,False,RRI,Ind,id
+617.0,RRI Pro 1 Yogyakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Yogyakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Yogyakarta.html,,,False,RRI,Ind,id
+617.0,RRI Pro 1 Yogyakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Yogyakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Yogyakarta.html,,,False,RRI,Ind,id
+618.0,RRI Pro 1 Purwokerto,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Purwokerto,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Purwokerto.html,,,False,RRI,Ind,id
+619.0,RRI Pro 1 Surakarta,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Surakarta,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Surakarta.html,,,False,RRI,Ind,id
+620.0,RRI Pro 1 Batam,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Batam,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Batam.html,,,False,RRI,Ind,id
+621.0,RRI Pro 5,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 5,https://www.lyngsat.com/radiochannels/id/RRI-Pro-5.html,,,False,RRI,Ind,id
+621.0,RRI Pro 5,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 5,https://www.lyngsat.com/radiochannels/id/RRI-Pro-5.html,,,False,RRI,Ind,id
+622.0,RRI Pro 1 Sabang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Sabang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Sabang.html,,,False,RRI,Ind,id
+623.0,RRI Pro 2 Tanjung Pinang,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 2 Tanjung Pinang,https://www.lyngsat.com/radiochannels/id/RRI-Pro-2-Tanjung-Pinang.html,,,False,RRI,Ind,id
+624.0,RRI Pro 1 Nias Selatan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Nias Selatan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Nias-Selatan.html,,,False,RRI,Ind,id
+624.0,RRI Pro 1 Nias Selatan,,,DVB-S,6660.0,3/4,3946 H,,,,,RRI Pro 1 Nias Selatan,https://www.lyngsat.com/radiochannels/id/RRI-Pro-1-Nias-Selatan.html,,,False,RRI,Ind,id
+1.0,Rajawali TV,1-1MPEG-4/HD,512.0,DVB-S2,4333.0,3/5,3949 V,,,,,,,,,False,RRI,Ind,
+1.0,Hope Channel Indonesia,65535-1MPEG-2/SD,308.0,DVB-S,1700.0,3/4,3974 H,,,,,,,,,False,RRI,Ind,
+1.0,Efarina TV,8192-4096MPEG-2/SD,611.0,DVB-S,2083.0,3/4,3977 H,,,,,,,,,False,RRI,,
+1.0,NET,65535-1MPEG-4/HD,33.0,DVB-S2,4400.0,3/5,3986 H,,,,,,,,,False,RRI,Ind,
+,RTTL,65535-2,,DVB-S,4285.0,7/8,3997 H,,,,https://www.lyngsat.com/providers/tl/RTTL.html,,,,,True,RTTL,,
+1.0,TV Timor Leste,MPEG-4/HD,35.0,DVB-S,4285.0,7/8,3997 H,,,,,TV Timor Leste,https://www.lyngsat.com/tvchannels/tl/TV-Timor-Leste.html,,,False,RTTL,Tet,tl
+1.0,TV Timor Leste,MPEG-4/HD,35.0,DVB-S,4285.0,7/8,3997 H,,,,,TV Timor Leste,https://www.lyngsat.com/tvchannels/tl/TV-Timor-Leste.html,,,False,RTTL,Tet,tl
+2.0,TV Timor Leste,MPEG-2/SD,33.0,DVB-S,4285.0,7/8,3997 H,,,,,TV Timor Leste,https://www.lyngsat.com/tvchannels/tl/TV-Timor-Leste.html,,,False,RTTL,Tet,tl
+2.0,TV Timor Leste,MPEG-2/SD,33.0,DVB-S,4285.0,7/8,3997 H,,,,,TV Timor Leste,https://www.lyngsat.com/tvchannels/tl/TV-Timor-Leste.html,,,False,RTTL,Tet,tl
+3.0,[RTTL test card],MPEG-2/SD,40.0,DVB-S,4285.0,7/8,3997 H,,,,,,,,,False,RTTL,,
+2.0,Radio Timor Leste,,,DVB-S,4285.0,7/8,3997 H,,,,,Radio Timor Leste,https://www.lyngsat.com/radiochannels/tl/Radio-Timor-Leste.html,,,False,RTTL,Tet,tl
+,Emtek,8552-4508,,DVB-S2,9100.0,3/4,4005 H,,,,https://www.lyngsat.com/providers/id/Emtek.html,,,,,True,Emtek,,
+,Emtek,8552-4508,,DVB-S2,9100.0,3/4,4005 H,,,,https://www.lyngsat.com/providers/id/Emtek.html,,,,,True,Emtek,,
+,Emtek,65535-1,,DVB-S2,3500.0,5/6,4164 H,tp 12H,,,https://www.lyngsat.com/providers/id/Emtek.html,,,,,True,Emtek,,
+,Emtek,65535-1,,DVB-S2,3500.0,5/6,4164 H,tp 12H,,,https://www.lyngsat.com/providers/id/Emtek.html,,,,,True,Emtek,,
+1.0,SCTV (Indonesia),MPEG-4/HD,101.0,DVB-S2,9100.0,3/4,4005 H,,,,,SCTV (Indonesia),https://www.lyngsat.com/tvchannels/id/SCTV.html,,,False,Emtek,Ind,id
+2.0,Indosiar,MPEG-4/HD,201.0,DVB-S2,9100.0,3/4,4005 H,,,,,Indosiar,https://www.lyngsat.com/tvchannels/id/Indosiar.html,,,False,Emtek,Ind,id
+3.0,Moji,MPEG-4/HD,301.0,DVB-S2,9100.0,3/4,4005 H,,,,,Moji,https://www.lyngsat.com/tvchannels/id/Moji.html,,,False,Emtek,Ind,id
+4.0,Mentari TV,MPEG-4/HD,401.0,DVB-S2,9100.0,3/4,4005 H,,,,,Mentari TV,https://www.lyngsat.com/tvchannels/id/Mentari-TV.html,,,False,Emtek,Ind,id
+,(Emtek feeds),,,DVB-S2,3600.0,3/4,4012 H,,,,,,,,,False,Emtek,,
+1.0,RT News,MPEG-4/HD,201.0,DVB-S2,32727.0,2/3,4020 V,,,,,RT News,https://www.lyngsat.com/tvchannels/ru/RT-News.html,,,False,Emtek,Eng,ru
+1.0,RT News,MPEG-4/HD,201.0,DVB-S2,32727.0,2/3,4020 V,,,,,RT News,https://www.lyngsat.com/tvchannels/ru/RT-News.html,,,False,Emtek,Eng,ru
+2.0,GPR TV,MPEG-4/SD,202.0,DVB-S2,32727.0,2/3,4020 V,,,,,GPR TV,https://www.lyngsat.com/tvchannels/id/GPR-TV.html,,,False,Emtek,Ind,id
+3.0,Lagu TV,MPEG-4/SD,222.0,DVB-S2,32727.0,2/3,4020 V,,,,,Lagu TV,https://www.lyngsat.com/tvchannels/id/Lagu-TV.html,,,False,Emtek,Ind,id
+4.0,Hadi TV 2,MPEG-4/SD,203.0,DVB-S2,32727.0,2/3,4020 V,,,,,Hadi TV 2,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-2.html,,,False,Emtek,Ind,iq
+4.0,Hadi TV 2,MPEG-4/SD,203.0,DVB-S2,32727.0,2/3,4020 V,,,,,Hadi TV 2,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-2.html,,,False,Emtek,Ind,iq
+23.0,(TVRI World feeds),,223.0,DVB-S2,32727.0,2/3,4020 V,,,,,,,,,False,Emtek,,
+36.0,MTA TV,MPEG-4/HD,236.0,DVB-S2,32727.0,2/3,4020 V,,,,,MTA TV,https://www.lyngsat.com/tvchannels/id/MTA-TV.html,,,False,Emtek,Ind,id
+36.0,MTA TV,MPEG-4/HD,236.0,DVB-S2,32727.0,2/3,4020 V,,,,,MTA TV,https://www.lyngsat.com/tvchannels/id/MTA-TV.html,,,False,Emtek,Ind,id
+54.0,U Channel,MPEG-4/SD,254.0,DVB-S2,32727.0,2/3,4020 V,,,,,U Channel,https://www.lyngsat.com/tvchannels/uk/U-Channel.html,,,False,Emtek,Ind,uk
+54.0,U Channel,MPEG-4/SD,254.0,DVB-S2,32727.0,2/3,4020 V,,,,,U Channel,https://www.lyngsat.com/tvchannels/uk/U-Channel.html,,,False,Emtek,Ind,uk
+55.0,Sin Po TV,MPEG-4/SD,255.0,DVB-S2,32727.0,2/3,4020 V,,,,,Sin Po TV,https://www.lyngsat.com/tvchannels/id/Sin-Po-TV.html,,,False,Emtek,Ind,id
+2129.0,I Am Channel,MPEG-4/SD,2291.0,DVB-S2,32727.0,2/3,4020 V,,,,,I Am Channel,https://www.lyngsat.com/tvchannels/id/I-Am-Channel.html,,,False,Emtek,Ind,id
+2129.0,I Am Channel,MPEG-4/SD,2291.0,DVB-S2,32727.0,2/3,4020 V,,,,,I Am Channel,https://www.lyngsat.com/tvchannels/id/I-Am-Channel.html,,,False,Emtek,Ind,id
+18.0,I Am Channel,MPEG-2/SD,1118.0,DVB-S,32677.0,7/8,4080 H,,,,,I Am Channel,https://www.lyngsat.com/tvchannels/id/I-Am-Channel.html,,,False,Emtek,Ind,id
+18.0,I Am Channel,MPEG-2/SD,1118.0,DVB-S,32677.0,7/8,4080 H,,,,,I Am Channel,https://www.lyngsat.com/tvchannels/id/I-Am-Channel.html,,,False,Emtek,Ind,id
+2130.0,HCBN Indonesia,MPEG-4/SD,2301.0,DVB-S2,32727.0,2/3,4020 V,,,,,HCBN Indonesia,https://www.lyngsat.com/tvchannels/ph/HCBN-Indonesia.html,,,False,Emtek,Ind,ph
+2146.0,Madu TV,MPEG-4/SD,2461.0,DVB-S2,32727.0,2/3,4020 V,,,,,Madu TV,https://www.lyngsat.com/tvchannels/id/Madu-TV.html,,,False,Emtek,Ind,id
+2146.0,Madu TV,MPEG-4/SD,2461.0,DVB-S2,32727.0,2/3,4020 V,,,,,Madu TV,https://www.lyngsat.com/tvchannels/id/Madu-TV.html,,,False,Emtek,Ind,id
+2157.0,TV Tabalong,MPEG-4/SD,2571.0,DVB-S2,32727.0,2/3,4020 V,,,,,TV Tabalong,https://www.lyngsat.com/tvchannels/id/TV-Tabalong.html,,,False,Emtek,Ind,id
+2157.0,TV Tabalong,MPEG-4/SD,2571.0,DVB-S2,32727.0,2/3,4020 V,,,,,TV Tabalong,https://www.lyngsat.com/tvchannels/id/TV-Tabalong.html,,,False,Emtek,Ind,id
+12.0,MTA FM,,,DVB-S2,32727.0,2/3,4020 V,,,,,MTA FM,https://www.lyngsat.com/radiochannels/id/MTA-FM.html,,,False,Emtek,Ind,id
+2.0,Temanggung TV,?-?MPEG-4/SD,512.0,DVB-S,1600.0,3/4,4024 H,,,,,,,,,False,Emtek,Ind,
+,MNC Media,1-3,,DVB-S2,16600.0,3/4,4034 H,,,Conax,https://www.lyngsat.com/providers/id/MNC-Media.html,,,,,True,MNC Media,,
+1.0,RCTI,MPEG-4/HD,1110.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,RCTI,https://www.lyngsat.com/tvchannels/id/RCTI.html,,,False,MNC Media,Ind,id
+1.0,RCTI,MPEG-4/HD,1110.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,RCTI,https://www.lyngsat.com/tvchannels/id/RCTI.html,,,False,MNC Media,Ind,id
+2.0,MNC TV,MPEG-4/HD,1210.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,MNC TV,https://www.lyngsat.com/tvchannels/id/MNC-TV.html,,,False,MNC Media,Ind,id
+2.0,MNC TV,MPEG-4/HD,1210.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,MNC TV,https://www.lyngsat.com/tvchannels/id/MNC-TV.html,,,False,MNC Media,Ind,id
+3.0,GTV (Indonesia),MPEG-4/HD,1310.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,GTV (Indonesia),https://www.lyngsat.com/tvchannels/id/GTV.html,,,False,MNC Media,Ind,id
+3.0,GTV (Indonesia),MPEG-4/HD,1310.0,DVB-S2,16600.0,3/4,4034 H,,,Conax,,GTV (Indonesia),https://www.lyngsat.com/tvchannels/id/GTV.html,,,False,MNC Media,Ind,id
+4.0,INews,MPEG-4/HD,1410.0,DVB-S2,16600.0,3/4,4034 H,,,,,INews,https://www.lyngsat.com/tvchannels/id/INews.html,,,False,MNC Media,Ind,id
+4.0,INews,MPEG-4/HD,1410.0,DVB-S2,16600.0,3/4,4034 H,,,,,INews,https://www.lyngsat.com/tvchannels/id/INews.html,,,False,MNC Media,Ind,id
+,(MNC Media feeds),,,DVB-S2,3125.0,5/6,4046 H,,,,,,,,,False,MNC Media,,
+,(MNC Media feeds),,,DVB-S2,1500.0,5/6,4057 H,,,,,,,,,False,MNC Media,,
+1.0,On Channel,MPEG-4/SD,36.0,DVB-S2,31000.0,2/3,4060 V,,,,,On Channel,https://www.lyngsat.com/tvchannels/id/On-Channel.html,,,False,MNC Media,Ind,id
+240.0,IDX Channel,MPEG-4/SD,6519.0,DVB-S2,31000.0,2/3,4060 V,,,,,IDX Channel,https://www.lyngsat.com/tvchannels/id/IDX-Channel.html,,,False,MNC Media,Ind,id
+240.0,IDX Channel,MPEG-4/SD,6519.0,DVB-S2,31000.0,2/3,4060 V,,,,,IDX Channel,https://www.lyngsat.com/tvchannels/id/IDX-Channel.html,,,False,MNC Media,Ind,id
+,Indosat Ooredoo Hutchison,1-1,,DVB-S,32677.0,7/8,4080 H,,,,https://www.lyngsat.com/providers/id/Indosat-Ooredoo-Hutchison.html,,,,,True,Indosat Ooredoo Hutchison,,
+1.0,[Indosat test card],MPEG-2/SD,36.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+2.0,[Indosat test card],MPEG-2/SD,33.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+3.0,[Indosat test card],MPEG-2/SD,39.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+4.0,[Indosat test card],MPEG-2/SD,42.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+5.0,[Indosat test card],MPEG-2/SD,44.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+6.0,[Indosat test card],MPEG-2/SD,512.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+7.0,[Indosat test card],MPEG-2/SD,48.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+8.0,[Indosat test card],MPEG-2/SD,54.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+9.0,[Indosat test card],MPEG-2/SD,51.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+10.0,[Indosat test card],MPEG-2/SD,308.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+11.0,[Indosat test card],MPEG-2/SD,59.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+13.0,[Indosat test card],MPEG-4/HD,65.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+14.0,[Indosat test card],MPEG-4/HD,68.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+15.0,[Indosat test card],MPEG-2/SD,1115.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+16.0,[Indosat test card],MPEG-2/SD,1116.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+19.0,[Indosat test card],MPEG-2/SD,1119.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,Eng,
+20.0,[Indosat test card],MPEG-2/SD,1120.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+21.0,[Indosat test card],MPEG-2/SD,1121.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+22.0,[Indosat test card],MPEG-2/SD,1122.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+12.0,[Alarabiya test card],MPEG-2/SD,62.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+17.0,[CH 7 test card],MPEG-2/SD,1117.0,DVB-S,32677.0,7/8,4080 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+,(Kompas TV feeds),,,DVB-S2,1917.0,5/6,4108 H,,,,,,,,,False,Indosat Ooredoo Hutchison,,
+1.0,SEA Today,?-?MPEG-4/HD,33.0,DVB-S2,5000.0,3/4,4111 H,,,,,,,,,False,Indosat Ooredoo Hutchison,Eng,
+1.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,6350.0,2/3,4131 H,,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+1.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,6350.0,2/3,4131 H,,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+1.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,6350.0,2/3,4131 H,,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+1.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,6350.0,2/3,4131 H,,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+40001.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+40001.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+40001.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+40001.0,Metro TV (Indonesia),MPEG-4/HD,66.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,Metro TV (Indonesia),https://www.lyngsat.com/tvchannels/id/Metro-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+2.0,Garuda TV,MPEG-4/HD,225.0,DVB-S2,6350.0,2/3,4131 H,,,,,Garuda TV,https://www.lyngsat.com/tvchannels/id/Garuda-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+2.0,Garuda TV,MPEG-4/HD,225.0,DVB-S2,6350.0,2/3,4131 H,,,,,Garuda TV,https://www.lyngsat.com/tvchannels/id/Garuda-TV.html,,,False,Indosat Ooredoo Hutchison,Ind,id
+8.0,MTA 3 Al-Arabia,MPEG-4/SD,208.0,DVB-S2,6350.0,2/3,4131 H,,,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html,,,False,Indosat Ooredoo Hutchison,Ara,uk
+8.0,MTA 3 Al-Arabia,MPEG-4/SD,208.0,DVB-S2,6350.0,2/3,4131 H,,,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html,,,False,Indosat Ooredoo Hutchison,Ara,uk
+,GMN,,,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,,tl
+,GMN,,,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,,tl
+1.0,GMN,MPEG-4/HD,33.0,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,Tet,tl
+1.0,GMN,MPEG-4/HD,33.0,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,Tet,tl
+2.0,GMN,MPEG-2/SD,36.0,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,Tet,tl
+2.0,GMN,MPEG-2/SD,36.0,DVB-S,4600.0,5/6,4145 H,,,,https://www.lyngsat.com/providers/tl/GMN.html,GMN,https://www.lyngsat.com/tvchannels/tl/GMN.html,,,True,GMN,Tet,tl
+1.0,Nacional FM,,,DVB-S,4600.0,5/6,4145 H,,,,,Nacional FM,https://www.lyngsat.com/radiochannels/tl/Nacional-FM.html,,,False,GMN,Tet,tl
+1.0,Nacional FM,,,DVB-S,4600.0,5/6,4145 H,,,,,Nacional FM,https://www.lyngsat.com/radiochannels/tl/Nacional-FM.html,,,False,GMN,Tet,tl
+3.0,Nacional FM,,,DVB-S,4600.0,5/6,4145 H,,,,,Nacional FM,https://www.lyngsat.com/radiochannels/tl/Nacional-FM.html,,,False,GMN,Tet,tl
+3.0,Nacional FM,,,DVB-S,4600.0,5/6,4145 H,,,,,Nacional FM,https://www.lyngsat.com/radiochannels/tl/Nacional-FM.html,,,False,GMN,Tet,tl
+,(Metro TV Jawa Timur feeds),,,DVB-S2,1500.0,3/4,4153 H,tp 12H,,,,,,,,False,GMN,,
+,Media Group,3318-1002,,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,https://www.lyngsat.com/providers/id/Media-Group.html,,,,,True,Media Group,,
+40002.0,Magna Channel,MPEG-4/HD,82.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,Magna Channel,https://www.lyngsat.com/tvchannels/id/Magna-Channel.html,,,False,Media Group,Ind,id
+40003.0,BN Channel,MPEG-4/HD,98.0,DVB-S2,5700.0,5/6,4158 H,tp 12H,,,,BN Channel,https://www.lyngsat.com/tvchannels/id/BN-Channel.html,,,False,Media Group,Ind,id
+1.0,(SCTV feeds),,35.0,DVB-S2,3500.0,5/6,4164 H,tp 12H,,,,,,,,False,Media Group,,
+2.0,(Indosiar feeds),,33.0,DVB-S2,3500.0,5/6,4164 H,tp 12H,,,,,,,,False,Media Group,,
+3.0,Radio Elshinta,,,DVB-S2,3500.0,5/6,4164 H,tp 12H,,,,Radio Elshinta,https://www.lyngsat.com/radiochannels/id/Radio-Elshinta.html,,,False,Media Group,,id
+1.0,TVOne,?-?MPEG-4/HD,308.0,DVB-S2,3200.0,3/4,4168 H,tp 12H,,,,,,,,False,Media Group,Ind,
+,,,,,,,,,,,,DVB-S28PSK24003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK24003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S30003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S30003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK36003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK36003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S2QPSK16405/6,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK43333/5,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S17003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S17003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S20833/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK44003/5,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S16003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK50003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK50003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK32003/4,,,,False,Media Group,,
+,,,,,,,,,,,,DVB-S28PSK32003/4,,,,False,Media Group,,

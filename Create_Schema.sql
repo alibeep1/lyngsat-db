@@ -3,13 +3,13 @@ use Lyngsat;
 
 
 CREATE TABLE `CHANNEL`(
-	`Name`		VARCHAR(24)			NOT NULL PRIMARY KEY,
+	`Name`		VARCHAR(52)			NOT NULL PRIMARY KEY,
     Country		VARCHAR(24)			
 	
 );
 
 CREATE TABLE NETWORK (
-	`Name`			VARCHAR(24)			NOT NULL PRIMARY KEY,
+	`Name`			VARCHAR(43)			NOT NULL PRIMARY KEY,
      Website 		VARCHAR(30)			
 );
 
@@ -34,7 +34,7 @@ CREATE TABLE SATELLITE (
     );
     
 CREATE TABLE CHANNEL_INSTANCE (
-	Channel_name		VARCHAR(24)		NOT NULL,
+	Channel_name		VARCHAR(52)		NOT NULL,
     Satellite_name		VARCHAR(36)		NOT NULL,
     Frequency			VARCHAR(8)		NOT NULL,
     Beam				VARCHAR(14),
@@ -52,7 +52,7 @@ CREATE TABLE CHANNEL_INSTANCE (
 );
 
 CREATE TABLE CHANNEL_INSTANCE_ENCRYPTION (
-	Channel_name		VARCHAR(24)		NOT NULL,
+	Channel_name		VARCHAR(52)	NOT NULL,
     Satellite_name		VARCHAR(36)		NOT NULL,
     Frequency			VARCHAR(8)		NOT NULL,
     `Encryption`		VARCHAR(16)		NOT NULL,
@@ -63,7 +63,7 @@ CREATE TABLE CHANNEL_INSTANCE_ENCRYPTION (
 );
 
 CREATE TABLE CHANNEL_INSTANCE_LANGUAGE(
-	Channel_name		VARCHAR(24)		NOT NULL,
+	Channel_name		VARCHAR(52)		NOT NULL,
     Satellite_name		VARCHAR(36)		NOT NULL,
     Frequency			VARCHAR(8)		NOT NULL,
     `Language`			CHAR(3)			NOT NULL,

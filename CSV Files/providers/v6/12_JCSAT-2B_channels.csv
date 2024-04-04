@@ -1,0 +1,25 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL
+3915 VC,DVB-S2QPSK48003/4,,(feeds),,,,,,C Sutton231124,DVB-S2,4800,3/4,3915 V,,,,,,
+12310 Htp 2Ku,DVB-S28PSK35163/4,,(feeds),,,,,,T Kameda161003,DVB-S2,3516,3/4,12310 H,tp 2,,,,,
+12276 Htp 2Ku,DVB-S232APSK70823/4,,(TV Asahi feeds),,,,,,T Kameda170718,DVB-S2,7082,3/4,12276 H,tp 2,,,,,
+12293 Htp 2Ku,DVB-S232APSK70823/4,,(TV Asahi feeds),,,,,,T Kameda170718,DVB-S2,7082,3/4,12293 H,tp 2,,,,,
+12302 Htp 2Ku,DVB-S232APSK70823/4,,(TV Asahi feeds),,,,,,T Kameda170718,DVB-S2,7082,3/4,12302 H,tp 2,,,,,
+12356 Htp 4Ku,DVB-S232APSK70823/4,,(TV Asahi feeds),,,,,,T Kameda170718,DVB-S2,7082,3/4,12356 H,tp 4,,,,,
+12373 Htp 4Ku,DVB-S232APSK70823/4,,(TV Asahi feeds),,,,,,T Kameda170718,DVB-S2,7082,3/4,12373 H,tp 4,,,,,
+12364 Htp 4Ku,DVB-S2QPSK80582/3,200,TV Asahi,,?-?HEVC/HD,513,3.11296 Jpn,,T Kameda200714,DVB-S2,8058,2/3,12364 H,tp 4,,,,,
+12367 Vtp 3Ku,DVB-S2QPSK,2,Sound of Hope,,,,3001 Chi,,,DVB-S2,8058,2/3,12367 V,tp 3,,,,,
+12367 Vtp 3Ku,DVB-S2QPSK,2200,NTD TV China,,?-?MPEG-4/SD,2202,4.02203 Chi,,T Kameda211225,DVB-S2,8058,2/3,12367 V,tp 3,,,,NTD TV China,https://www.lyngsat.com/tvchannels/us/NTD-TV-China.html
+12367 Vtp 3Ku,DVB-S2QPSK,2200,NTD TV China,,?-?MPEG-4/SD,2202,4.02203 Chi,,T Kameda211225,DVB-S2,8058,2/3,12367 V,tp 3,,,,NTD TV China,https://www.lyngsat.com/tvchannels/us/NTD-TV-China.html
+12403 Htp 6Ku,DVB-S216APSK122223/4,1,Cable 4K,,?-?HEVC/UHD,768,257 Jpn,,T Kameda170717,DVB-S2,12222,3/4,12403 H,tp 6,,,,,
+12436 Htp 6Ku,DVB-S30963/4,2,[JCSAT 2B test card],,?-?MPEG-2/SD,32,5.5  33,,T Kameda161003,DVB-S,3096,3/4,12436 H,tp 6,,,,,
+12729 Vtp 15Ku,DVB-S30963/4,2,[JCSAT 2B test card],,?-?MPEG-2/SD,32,5.5  33,,T Kameda161003,DVB-S,3096,3/4,12729 V,tp 15,,,,,
+12496 Htp 8Ku,DVB-S48213/4,10,Shinnyo-en (09-17),,?-?MPEG-4/HD,258,5.5 259 Jpn,,T Kameda170720,DVB-S,4821,3/4,12496 H,tp 8,,,,,
+12505 Htp 8Ku,DVB-S28PSK28562/3,42,Worldmate,,1-1MPEG-4/HD,200,6.61010,BISS,T Kameda170717,DVB-S2,2856,2/3,12505 H,tp 8,,BISS,,,
+12696 Htp 16Ku,DVB-S2QPSK100001/2,,AOL Internet,,,,1.0,,T Kameda180904,DVB-S2,10000,1/2,12696 H,tp 16,,,,,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK80582/3,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK,
+,,,,,,,,,,,,,,,,,,DVB-S216APSK122223/4,
+,,,,,,,,,,,,,,,,,,DVB-S48213/4,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK28562/3,BISS
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK100001/2,

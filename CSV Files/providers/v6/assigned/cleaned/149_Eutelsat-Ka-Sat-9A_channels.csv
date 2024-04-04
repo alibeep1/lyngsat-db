@@ -1,0 +1,33 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,2RN,8564-1005,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,https://www.lyngsat.com/providers/ie/2RN.html,,,True,2RN,
+5101.0,RTÉ One,MPEG-4/HD,5101.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ One,https://www.lyngsat.com/tvchannels/ie/RTE-One.html,False,2RN,Eng Gle
+5102.0,RTÉ 2,MPEG-4/HD,5102.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2,https://www.lyngsat.com/tvchannels/ie/RTE-2.html,False,2RN,Eng Gle
+5103.0,RTÉ News,MPEG-4/SD,5103.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ News,https://www.lyngsat.com/tvchannels/ie/RTE-News.html,False,2RN,Eng
+5103.0,RTÉ News,MPEG-4/SD,5103.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ News,https://www.lyngsat.com/tvchannels/ie/RTE-News.html,False,2RN,Eng
+5104.0,TG 4,MPEG-4/SD,5104.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,TG 4,https://www.lyngsat.com/tvchannels/ie/TG-4.html,False,2RN,Gle
+5107.0,RTÉ Jr (06-19),MPEG-4/SD,5107.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Jr (06-19),https://www.lyngsat.com/tvchannels/ie/RTE-Jr.html,False,2RN,Eng
+5108.0,Cúla 4,MPEG-4/SD,5106.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,Cúla 4,https://www.lyngsat.com/tvchannels/ie/Cula-4.html,False,2RN,Gle
+5109.0,Oireachtas TV (Mon-Fri 09-12),MPEG-4/SD,5109.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,Oireachtas TV (Mon-Fri 09-12),https://www.lyngsat.com/tvchannels/ie/Oireachtas-TV.html,False,2RN,Gle
+5109.0,Oireachtas TV (Mon-Fri 09-12),MPEG-4/SD,5109.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,Oireachtas TV (Mon-Fri 09-12),https://www.lyngsat.com/tvchannels/ie/Oireachtas-TV.html,False,2RN,Gle
+5111.0,RTÉ One +1,MPEG-4/SD,5111.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ One +1,https://www.lyngsat.com/tvchannels/ie/RTE-One--1.html,False,2RN,Eng Gle
+5112.0,RTÉ 2 +1 (19-06),MPEG-4/SD,5112.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2 +1 (19-06),https://www.lyngsat.com/tvchannels/ie/RTE-2--1.html,False,2RN,Eng Gle
+5119.0,[SaorSat info card],MPEG-4/SD,5119.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,,,False,2RN,
+5120.0,[Faisneis SaorSat info card],MPEG-4/SD,5120.0,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,,,False,2RN,
+5226.0,RTÉ Radio 1,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Radio 1,https://www.lyngsat.com/radiochannels/ie/RTE-Radio-1.html,False,2RN,Eng
+5226.0,RTÉ Radio 1,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Radio 1,https://www.lyngsat.com/radiochannels/ie/RTE-Radio-1.html,False,2RN,Eng
+5227.0,RTÉ 2 FM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2 FM,https://www.lyngsat.com/radiochannels/ie/RTE-2-FM.html,False,2RN,Eng
+5227.0,RTÉ 2 FM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2 FM,https://www.lyngsat.com/radiochannels/ie/RTE-2-FM.html,False,2RN,Eng
+5228.0,RTÉ Lyric FM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Lyric FM,https://www.lyngsat.com/radiochannels/ie/RTE-Lyric-FM.html,False,2RN,Eng
+5228.0,RTÉ Lyric FM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Lyric FM,https://www.lyngsat.com/radiochannels/ie/RTE-Lyric-FM.html,False,2RN,Eng
+5229.0,RTÉ Raidió na Gaeltachta,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Raidió na Gaeltachta,https://www.lyngsat.com/radiochannels/ie/RTE-Raidio-na-Gaeltachta.html,False,2RN,Gle
+5229.0,RTÉ Raidió na Gaeltachta,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Raidió na Gaeltachta,https://www.lyngsat.com/radiochannels/ie/RTE-Raidio-na-Gaeltachta.html,False,2RN,Gle
+5230.0,RTÉ Radio 1 Extra,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Radio 1 Extra,https://www.lyngsat.com/radiochannels/ie/RTE-Radio-1-Extra.html,False,2RN,Eng
+5230.0,RTÉ Radio 1 Extra,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Radio 1 Extra,https://www.lyngsat.com/radiochannels/ie/RTE-Radio-1-Extra.html,False,2RN,Eng
+5231.0,RTÉ Pulse,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Pulse,https://www.lyngsat.com/radiochannels/ie/RTE-Pulse.html,False,2RN,Eng
+5231.0,RTÉ Pulse,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Pulse,https://www.lyngsat.com/radiochannels/ie/RTE-Pulse.html,False,2RN,Eng
+5232.0,RTÉ 2XM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2XM,https://www.lyngsat.com/radiochannels/ie/RTE-2XM.html,False,2RN,Eng
+5232.0,RTÉ 2XM,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ 2XM,https://www.lyngsat.com/radiochannels/ie/RTE-2XM.html,False,2RN,Eng
+5233.0,RTÉ Jr Radio (07-21),,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Jr Radio (07-21),https://www.lyngsat.com/radiochannels/ie/RTE-Jr-Radio.html,False,2RN,Eng
+5233.0,RTÉ Jr Radio (07-21),,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Jr Radio (07-21),https://www.lyngsat.com/radiochannels/ie/RTE-Jr-Radio.html,False,2RN,Eng
+5234.0,RTÉ Gold,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Gold,https://www.lyngsat.com/radiochannels/ie/RTE-Gold.html,False,2RN,Eng
+5234.0,RTÉ Gold,,,DVB-S2,12500,5/6,20192 L,tp 4F24,,,,RTÉ Gold,https://www.lyngsat.com/radiochannels/ie/RTE-Gold.html,False,2RN,Eng

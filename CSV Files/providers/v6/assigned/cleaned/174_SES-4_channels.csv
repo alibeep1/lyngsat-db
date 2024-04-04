@@ -1,0 +1,430 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,(feeds),,,DVB-S2,4400.0,3/4,3726 R,tp EHR2,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,10977 H,tp EUH1,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,5/6,11001 H,tp 1,,,,,,,,False,,
+,(feeds),,,DVB-S2,14368.0,5/6,11162 H,tp EUH4,,BISS,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,11536 H,tp EUH6,,,,,,,,False,,
+,(feeds),,,DVB-S2,4875.0,3/4,11547 H,tp EUH6,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,11555 H,tp EUH6,,,,,,,,False,,
+,(feeds),,,DVB-S2,7000.0,3/4,11573 H,tp EUH6,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,11654 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,7500.0,9/10,11667 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,11675 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,11682 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,11688 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,11694 H,tp EUH8,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,12512 H,tp EUH9,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,12534 H,tp EUH9,,,,,,,,False,,
+,(feeds),,,DVB-S2,7000.0,3/4,12545 H,tp EUH9,,,,,,,,False,,
+,(feeds),,,DVB-S2,4800.0,3/4,12553 H,tp EUH9,,,,,,,,False,,
+,(feeds),,,DVB-S2,4800.0,3/4,12559 H,tp EUH9,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,12577 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,12587 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,4800.0,3/4,12595 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,12605 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12612 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12618 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12625 H,tp EUH10,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12635 H,tp EUH11,,,,,,,,False,,
+,(feeds),,,DVB-S2,2400.0,3/4,12642 H,tp EUH11,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12650 H,tp EUH11,,,,,,,,False,,
+,(feeds),,,DVB-S2,4610.0,3/4,12656 H,tp EUH11,,,,,,,,False,,
+101,RTI 1,MPEG-4/HD,1012.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,RTI 1,https://www.lyngsat.com/tvchannels/ci/RTI-1.html,,,False,,Fre
+101,RTI 1,MPEG-4/HD,1012.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,RTI 1,https://www.lyngsat.com/tvchannels/ci/RTI-1.html,,,False,,Fre
+102,RTI 2,MPEG-4/HD,1022.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,RTI 2,https://www.lyngsat.com/tvchannels/ci/RTI-2.html,,,False,,Fre
+102,RTI 2,MPEG-4/HD,1022.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,RTI 2,https://www.lyngsat.com/tvchannels/ci/RTI-2.html,,,False,,Fre
+103,RTI La 3,MPEG-4/HD,1032.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,RTI La 3,https://www.lyngsat.com/tvchannels/ci/RTI-La-3.html,,,False,,Fre
+104,La Nouvelle Chaîne Ivorienne,MPEG-4/HD,1042.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,La Nouvelle Chaîne Ivorienne,https://www.lyngsat.com/tvchannels/ci/La-Nouvelle-Chaine-Ivorienne.html,,,False,,Fre
+104,La Nouvelle Chaîne Ivorienne,MPEG-4/HD,1042.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,La Nouvelle Chaîne Ivorienne,https://www.lyngsat.com/tvchannels/ci/La-Nouvelle-Chaine-Ivorienne.html,,,False,,Fre
+105,A+ Ivoire,MPEG-4/HD,1052.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,A+ Ivoire,https://www.lyngsat.com/tvchannels/fr/A--Ivoire.html,,,False,,Fre
+106,Life TV (Ivory Coast),MPEG-4/HD,1062.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,Life TV (Ivory Coast),https://www.lyngsat.com/tvchannels/ci/Life-TV.html,,,False,,Fre
+107,7 Info,MPEG-4/HD,1072.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,7 Info,https://www.lyngsat.com/tvchannels/ci/7-Info.html,,,False,,Fre
+8114,Easy TV promo,HEVC/SD,1410.0,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,,,,,False,,Fre
+200,Radio Côte d'Ivoire,,,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+200,Radio Côte d'Ivoire,,,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+200,Radio Côte d'Ivoire,,,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+200,Radio Côte d'Ivoire,,,DVB-S2,4400.0,3/4,3749 L,tp EHL2,,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+8453,Radio Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+8453,Radio Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+8453,Radio Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+8453,Radio Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ci/Radio-Cote-dIvoire.html,,,False,,Fre
+1,Radio Maria Sierra Leone,0-0,,DVB-S,257.0,1/2,3867 R,tp EHR4,,,,,,,,False,,Eng
+1,TV Cidade São Luíz,?-?MPEG-2/SD,33.0,DVB-S,3332.0,3/4,3970 L,tp WHL12,0,,,,,,,False,,Por
+,TV Verdade,MPEG-4/HD,273.0,DVB-S2,3200.0,5/6,3974 L,tp WHL12,0,,,,,,,False,,Por
+,TV Cidade Fortaleza,,,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,
+,TV Cidade Fortaleza,,,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,
+,TV Cidade Fortaleza,MPEG-4/HD,273.0,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,Por
+,TV Cidade Fortaleza,MPEG-4/HD,273.0,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,Por
+,TV Cidade Fortaleza,MPEG-4/1seg,641.0,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,Por
+,TV Cidade Fortaleza,MPEG-4/1seg,641.0,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Fortaleza.html,TV Cidade Fortaleza,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Fortaleza.html,,,True,TV Cidade Fortaleza,Por
+,Clube FM 91.7,,,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,,Clube FM 91.7,https://www.lyngsat.com/radiochannels/br/Clube-FM-917.html,,,False,TV Cidade Fortaleza,Por
+,Clube FM 91.7,,,DVB-S2,5983.0,3/5,4015 L,tp WHL13,0,,,Clube FM 91.7,https://www.lyngsat.com/radiochannels/br/Clube-FM-917.html,,,False,TV Cidade Fortaleza,Por
+,TV Leste,MPEG-4/HD,273.0,DVB-S2,3200.0,3/4,4021 L,tp WHL13,0,,,,,,,False,TV Cidade Fortaleza,Por
+,TV Asa Branca,MPEG-4/HD,273.0,DVB-S2,5000.0,2/3,4026 L,tp WHL13,0,,,,,,,False,TV Cidade Fortaleza,Por
+,CBN Caruaru,,,DVB-S2,5000.0,2/3,4026 L,tp WHL13,0,,,CBN Caruaru,https://www.lyngsat.com/radiochannels/br/CBN-Caruaru.html,,,False,TV Cidade Fortaleza,Por
+,CBN Caruaru,,,DVB-S2,5000.0,2/3,4026 L,tp WHL13,0,,,CBN Caruaru,https://www.lyngsat.com/radiochannels/br/CBN-Caruaru.html,,,False,TV Cidade Fortaleza,Por
+,TV Jornal Caruaru,MPEG-2/SD,210.0,DVB-S,2963.0,3/4,4034 L,tp WHL13,0,,,,,,,False,TV Cidade Fortaleza,Por
+1,Gabon 1ère,65535-1MPEG-4/HD,259.0,DVB-S2,3360.0,3/4,4044 L,tp EHL14,,,,,,,,False,TV Cidade Fortaleza,Fre
+1,Radio Gabon,,,DVB-S2,3360.0,3/4,4044 L,tp EHL14,,,,Radio Gabon,https://www.lyngsat.com/radiochannels/ga/Radio-Gabon.html,,,False,TV Cidade Fortaleza,Fre
+1,Radio Gabon,,,DVB-S2,3360.0,3/4,4044 L,tp EHL14,,,,Radio Gabon,https://www.lyngsat.com/radiochannels/ga/Radio-Gabon.html,,,False,TV Cidade Fortaleza,Fre
+8351,Radio Gabon,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Gabon,https://www.lyngsat.com/radiochannels/ga/Radio-Gabon.html,,,False,TV Cidade Fortaleza,Fre
+8351,Radio Gabon,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Gabon,https://www.lyngsat.com/radiochannels/ga/Radio-Gabon.html,,,False,TV Cidade Fortaleza,Fre
+,Rede Pampa de Rádios,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/Rede-Pampa-de-Radios.html,,,,,True,Rede Pampa de Rádios,
+,104 FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,104 FM,https://www.lyngsat.com/radiochannels/br/104-FM.html,,,False,Rede Pampa de Rádios,Por
+,104 FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,104 FM,https://www.lyngsat.com/radiochannels/br/104-FM.html,,,False,Rede Pampa de Rádios,Por
+,Capão FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Capão FM,https://www.lyngsat.com/radiochannels/br/Capao-FM.html,,,False,Rede Pampa de Rádios,Por
+,Capão FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Capão FM,https://www.lyngsat.com/radiochannels/br/Capao-FM.html,,,False,Rede Pampa de Rádios,Por
+,Cidreira FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Cidreira FM,https://www.lyngsat.com/radiochannels/br/Cidreira-FM.html,,,False,Rede Pampa de Rádios,Por
+,Cidreira FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Cidreira FM,https://www.lyngsat.com/radiochannels/br/Cidreira-FM.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Continental,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Continental,https://www.lyngsat.com/radiochannels/br/Radio-Continental.html,,,False,Rede Pampa de Rádios,Por
+,Liberdade,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Liberdade,https://www.lyngsat.com/radiochannels/br/Liberdade.html,,,False,Rede Pampa de Rádios,Por
+,Liberdade,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Liberdade,https://www.lyngsat.com/radiochannels/br/Liberdade.html,,,False,Rede Pampa de Rádios,Por
+,Liberdade,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Liberdade,https://www.lyngsat.com/radiochannels/br/Liberdade.html,,,False,Rede Pampa de Rádios,Por
+,Liberdade,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Liberdade,https://www.lyngsat.com/radiochannels/br/Liberdade.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Eldorado,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Eldorado,https://www.lyngsat.com/radiochannels/br/Radio-Eldorado.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Grenal,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Grenal,https://www.lyngsat.com/radiochannels/br/Radio-Grenal.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Grenal,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Grenal,https://www.lyngsat.com/radiochannels/br/Radio-Grenal.html,,,False,Rede Pampa de Rádios,Por
+,Imbé FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Imbé FM,https://www.lyngsat.com/radiochannels/br/Imbe-FM.html,,,False,Rede Pampa de Rádios,Por
+,Imbé FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Imbé FM,https://www.lyngsat.com/radiochannels/br/Imbe-FM.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Pampa,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Pampa,https://www.lyngsat.com/radiochannels/br/Radio-Pampa.html,,,False,Rede Pampa de Rádios,Por
+,Rádio Pampa,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Rádio Pampa,https://www.lyngsat.com/radiochannels/br/Radio-Pampa.html,,,False,Rede Pampa de Rádios,Por
+,Torres FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Torres FM,https://www.lyngsat.com/radiochannels/br/Torres-FM.html,,,False,Rede Pampa de Rádios,Por
+,Torres FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Torres FM,https://www.lyngsat.com/radiochannels/br/Torres-FM.html,,,False,Rede Pampa de Rádios,Por
+,Tramandaí FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Tramandaí FM,https://www.lyngsat.com/radiochannels/br/Tramandai-FM.html,,,False,Rede Pampa de Rádios,Por
+,Tramandaí FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Tramandaí FM,https://www.lyngsat.com/radiochannels/br/Tramandai-FM.html,,,False,Rede Pampa de Rádios,Por
+,Xangri-lá FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Xangri-lá FM,https://www.lyngsat.com/radiochannels/br/Xangri-la-FM.html,,,False,Rede Pampa de Rádios,Por
+,Xangri-lá FM,,,DVB-S2,2500.0,2/3,4045 R,tp WHR7,0,,,Xangri-lá FM,https://www.lyngsat.com/radiochannels/br/Xangri-la-FM.html,,,False,Rede Pampa de Rádios,Por
+1,Télé Africa,.-.MPEG-2/SD,33.0,DVB-S2,1666.0,3/4,4047 L,tp EHL14,,,,,,,,False,Rede Pampa de Rádios,Fre
+,TV Tambaú,MPEG-4/HD,273.0,DVB-S2,3750.0,3/4,4048 R,tp WHR7,0,,,,,,,False,Rede Pampa de Rádios,Por
+,TV Cidade Verde Piauí,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,
+,TV Cidade Verde Piauí,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,
+,TV Cidade Verde Piauí,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,
+,TV Cidade Verde Piauí,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,
+,TV Cidade Verde Piauí,MPEG-4/HD,273.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/HD,273.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/HD,273.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/HD,273.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/1seg,529.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/1seg,529.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/1seg,529.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,TV Cidade Verde Piauí,MPEG-4/1seg,529.0,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Cidade-Verde-Piaui.html,TV Cidade Verde Piauí,https://www.lyngsat.com/tvchannels/br/TV-Cidade-Verde-Piaui.html,,,True,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,Radio Cidade Verde 93.5,,,DVB-S2,5000.0,5/6,4058 L,tp WHL14,0,,,Radio Cidade Verde 93.5,https://www.lyngsat.com/radiochannels/br/Radio-Cidade-Verde-935.html,,,False,TV Cidade Verde Piauí,Por
+,TV Pampa,,,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,
+,TV Pampa,,,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,
+,TV Pampa,,,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,
+,TV Pampa,,,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,
+,TV Pampa,MPEG-4/HD,97.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/HD,97.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/HD,97.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/HD,97.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/1seg,529.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/1seg,529.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/1seg,529.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Pampa,MPEG-4/1seg,529.0,DVB-S2,6443.0,5/6,4062 R,tp WHR7,0,,https://www.lyngsat.com/providers/br/TV-Pampa.html,TV Pampa,https://www.lyngsat.com/tvchannels/br/TV-Pampa.html,,,True,TV Pampa,Por
+,TV Antena 10,,,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,
+,TV Antena 10,,,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,
+,TV Antena 10,,,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,
+,TV Antena 10,,,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,
+,TV Antena 10,MPEG-4/HD,273.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/HD,273.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/HD,273.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/HD,273.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/1seg,641.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/1seg,641.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/1seg,641.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,TV Antena 10,MPEG-4/1seg,641.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Antena-10.html,TV Antena 10,https://www.lyngsat.com/tvchannels/br/TV-Antena-10.html,,,True,TV Antena 10,Por
+,Educa Piauí,MPEG-4/SD,33.0,DVB-S2,3960.0,3/4,4063 L,tp WHL14,0,,,Educa Piauí,https://www.lyngsat.com/tvchannels/br/Educa-Piaui.html,,,False,TV Antena 10,Por
+,TV Tropical,,,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,
+,TV Tropical,,,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,
+,TV Tropical,,,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,
+,TV Tropical,,,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,
+,TV Tropical,MPEG-4/1seg,768.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/1seg,768.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/1seg,768.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/1seg,768.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/HD,769.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/HD,769.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/HD,769.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,TV Tropical,MPEG-4/HD,769.0,DVB-S2,4995.0,3/4,4068 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Tropical.html,TV Tropical,https://www.lyngsat.com/tvchannels/br/TV-Tropical.html,,,True,TV Tropical,Por
+,,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,,,,,False,TV Tropical,
+,,,,DVB-S2,30000.0,3/4,12697 H,tp EUH12,48-50,,,,,,,False,TV Tropical,
+,,,,DVB-S2,30000.0,3/4,12744 H,tp EUH12,48-50,,,,,,,False,TV Tropical,
+,Brasileira Sat,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Brasileira Sat,https://www.lyngsat.com/radiochannels/br/Brasileira-Sat.html,,,False,TV Tropical,Por
+,Brasileira Sat,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Brasileira Sat,https://www.lyngsat.com/radiochannels/br/Brasileira-Sat.html,,,False,TV Tropical,Por
+,Plus FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Plus FM,https://www.lyngsat.com/radiochannels/br/Plus-FM.html,,,False,TV Tropical,Por
+,Rádio BSD,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Rádio BSD,https://www.lyngsat.com/radiochannels/br/Radio-BSD.html,,,False,TV Tropical,Por
+,Rádio BSD,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Rádio BSD,https://www.lyngsat.com/radiochannels/br/Radio-BSD.html,,,False,TV Tropical,Por
+,Rádio Liderança,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Rádio Liderança,https://www.lyngsat.com/radiochannels/br/Radio-Lideranca.html,,,False,TV Tropical,Por
+,Boa FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Boa FM,https://www.lyngsat.com/radiochannels/br/Boa-FM.html,,,False,TV Tropical,Por
+,Boa FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Boa FM,https://www.lyngsat.com/radiochannels/br/Boa-FM.html,,,False,TV Tropical,Por
+,Mix FM Teresina,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Mix FM Teresina,https://www.lyngsat.com/radiochannels/br/Mix-FM-Teresina.html,,,False,TV Tropical,Por
+,Mix FM Teresina,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Mix FM Teresina,https://www.lyngsat.com/radiochannels/br/Mix-FM-Teresina.html,,,False,TV Tropical,Por
+,Feliz FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Feliz FM,https://www.lyngsat.com/radiochannels/br/Feliz-FM.html,,,False,TV Tropical,Por
+,Feliz FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Feliz FM,https://www.lyngsat.com/radiochannels/br/Feliz-FM.html,,,False,TV Tropical,Por
+,Meio Norte FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Meio Norte FM,https://www.lyngsat.com/radiochannels/br/Meio-Norte-FM.html,,,False,TV Tropical,Por
+,Meio Norte FM,,,DVB-S2,2500.0,2/3,4075 R,tp WHR7,0,,,Meio Norte FM,https://www.lyngsat.com/radiochannels/br/Meio-Norte-FM.html,,,False,TV Tropical,Por
+,TV Correio,,,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,
+,TV Correio,,,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,
+,TV Correio,MPEG-4/HD,768.0,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,Por
+,TV Correio,MPEG-4/HD,768.0,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,Por
+,TV Correio,MPEG-4/1seg,769.0,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,Por
+,TV Correio,MPEG-4/1seg,769.0,DVB-S2,5416.0,2/3,4075 L,tp WHL14,0,,https://www.lyngsat.com/providers/br/TV-Correio.html,TV Correio,https://www.lyngsat.com/tvchannels/br/TV-Correio.html,,,True,TV Correio,Por
+1-1,(Encompass feeds),1-1,,DVB-S,2170.0,1/2,4138 R,tp GLR10,,,,,,,,False,TV Correio,
+1,Radio Ndarason Internationale,,,DVB-S,2170.0,1/2,4138 R,tp GLR10,,,,Radio Ndarason Internationale,https://www.lyngsat.com/radiochannels/td/Radio-Ndarason-Internationale.html,,,False,TV Correio,
+8250,Africa Radio,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Africa Radio,https://www.lyngsat.com/radiochannels/fr/Africa-Radio.html,,,False,TV Correio,Fre
+8250,Africa Radio,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Africa Radio,https://www.lyngsat.com/radiochannels/fr/Africa-Radio.html,,,False,TV Correio,Fre
+8251,Radio Lomé,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Lomé,https://www.lyngsat.com/radiochannels/tg/Radio-Lome.html,,,False,TV Correio,Fre
+8251,Radio Lomé,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Lomé,https://www.lyngsat.com/radiochannels/tg/Radio-Lome.html,,,False,TV Correio,Fre
+8252,Océane,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Océane,https://www.lyngsat.com/radiochannels/fr/Oceane.html,,,False,TV Correio,Fre
+8252,Océane,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Océane,https://www.lyngsat.com/radiochannels/fr/Oceane.html,,,False,TV Correio,Fre
+8253,FIM FM,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,FIM FM,https://www.lyngsat.com/radiochannels/gn/FIM-FM.html,,,False,TV Correio,Fre
+8254,Europe 1 (France),,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Europe 1 (France),https://www.lyngsat.com/radiochannels/fr/Europe-1.html,,,False,TV Correio,Fre
+8254,Europe 1 (France),,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Europe 1 (France),https://www.lyngsat.com/radiochannels/fr/Europe-1.html,,,False,TV Correio,Fre
+8255,Jazz Radio,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Jazz Radio,https://www.lyngsat.com/radiochannels/fr/Jazz-Radio.html,,,False,TV Correio,Fre
+8255,Jazz Radio,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Jazz Radio,https://www.lyngsat.com/radiochannels/fr/Jazz-Radio.html,,,False,TV Correio,Fre
+8256,Hit Radio Côte d'Ivoire,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Hit Radio Côte d'Ivoire,https://www.lyngsat.com/radiochannels/ma/Hit-Radio-Cote-dIvoire.html,,,False,TV Correio,Fre
+8257,Radio Congo,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html,,,False,TV Correio,Fre
+8259,Radio Bénin,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Bénin,https://www.lyngsat.com/radiochannels/bj/Radio-Benin.html,,,False,TV Correio,Fre
+8259,Radio Bénin,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Bénin,https://www.lyngsat.com/radiochannels/bj/Radio-Benin.html,,,False,TV Correio,Fre
+8260,RTB Radio,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,RTB Radio,https://www.lyngsat.com/radiochannels/bf/RTB-Radio.html,,,False,TV Correio,Fre
+8261,Fréquence 2,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Fréquence 2,https://www.lyngsat.com/radiochannels/ci/Frequence-2.html,,,False,TV Correio,Fre
+8261,Fréquence 2,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Fréquence 2,https://www.lyngsat.com/radiochannels/ci/Frequence-2.html,,,False,TV Correio,Fre
+8262,Radio Sénégal International,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Sénégal International,https://www.lyngsat.com/radiochannels/sn/Radio-Senegal-International.html,,,False,TV Correio,Fre
+8262,Radio Sénégal International,,,DVB-S2,45000.0,3/4,10986 V,tp WAV1,0,,,Radio Sénégal International,https://www.lyngsat.com/radiochannels/sn/Radio-Senegal-International.html,,,False,TV Correio,Fre
+4260,Radio Kadi FM,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Radio Kadi FM,https://www.lyngsat.com/radiochannels/ml/Radio-Kadi-FM.html,,,False,TV Correio,Fre
+4261,Joliba FM,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Joliba FM,https://www.lyngsat.com/radiochannels/ml/Joliba-FM.html,,,False,TV Correio,Fre
+4262,Wat FM,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Wat FM,https://www.lyngsat.com/radiochannels/bf/Wat-FM.html,,,False,TV Correio,Fre
+4263,Renouveau FM,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Renouveau FM,https://www.lyngsat.com/radiochannels/ml/Renouveau-FM.html,,,False,TV Correio,Fre
+4264,Diaspora FM,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Diaspora FM,https://www.lyngsat.com/radiochannels/bj/Diaspora-FM.html,,,False,TV Correio,Fre
+4265,Asonga Radio,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Asonga Radio,https://www.lyngsat.com/radiochannels/gq/Asonga-Radio.html,,,False,TV Correio,Spa
+4265,Asonga Radio,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,Asonga Radio,https://www.lyngsat.com/radiochannels/gq/Asonga-Radio.html,,,False,TV Correio,Spa
+4266,RadioStar,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,RadioStar,https://www.lyngsat.com/radiochannels/fr/RadioStar.html,,,False,TV Correio,Fre
+4266,RadioStar,,,DVB-S2,45000.0,3/4,11111 V,tp WAV3,0,,,RadioStar,https://www.lyngsat.com/radiochannels/fr/RadioStar.html,,,False,TV Correio,Fre
+1,Reuters Live,1-1MPEG-4/HD,3551.0,DVB-S2,17250.0,3/5,11126 H,tp EUH3,48-50,,,,,,,False,TV Correio,Eng
+1,Reuters Live,?-?/HD,3551.0,DVB-S2,4610.0,3/4,12058 V,tp SCV18,,,,,,,,False,TV Correio,
+8910,Voir + Afrique,HEVC/HD,1010.0,DVB-S2,45000.0,3/4,11171 V,tp WAV4,0,,,Voir + Afrique,https://www.lyngsat.com/tvchannels/fr/Voir---Afrique.html,,,False,TV Correio,Fre
+4025,Voir + Ivoire,HEVC/HD,2510.0,DVB-S2,45000.0,3/4,11551 V,tp WAV6,0,,,Voir + Ivoire,https://www.lyngsat.com/tvchannels/fr/Voir---Ivoire.html,,,False,TV Correio,Fre
+64,Miracle TV+,MPEG-4/SD,299.0,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Miracle TV+,https://www.lyngsat.com/tvchannels/ci/Miracle-TV-.html,,,False,TV Correio,Eng
+64,Miracle TV+,MPEG-4/SD,299.0,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Miracle TV+,https://www.lyngsat.com/tvchannels/ci/Miracle-TV-.html,,,False,TV Correio,Eng
+39,Medi 1 Afrique,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Medi 1 Afrique,https://www.lyngsat.com/radiochannels/ma/Medi-1-Afrique.html,,,False,TV Correio,Fre
+39,Medi 1 Afrique,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Medi 1 Afrique,https://www.lyngsat.com/radiochannels/ma/Medi-1-Afrique.html,,,False,TV Correio,Fre
+101,RFI Afrique,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,RFI Afrique,https://www.lyngsat.com/radiochannels/fr/RFI-Afrique.html,,,False,TV Correio,Fre
+101,RFI Afrique,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,RFI Afrique,https://www.lyngsat.com/radiochannels/fr/RFI-Afrique.html,,,False,TV Correio,Fre
+710,Guira FM,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Guira FM,https://www.lyngsat.com/radiochannels/cf/Guira-FM.html,,,False,TV Correio,Fre
+710,Guira FM,,,DVB-S,30000.0,5/6,11671 V,tp WAV8,0,,,Guira FM,https://www.lyngsat.com/radiochannels/cf/Guira-FM.html,,,False,TV Correio,Fre
+,@ EasyBand,,,DVB-S,35000.0,3/4,11921 H,tp SCH4,0,,,,,,,False,TV Correio,
+1,TV Ponta Negra,?-?/SD,482.0,DVB-S2,35000.0,3/4,12002 V,,,,,,,,,False,TV Correio,Por
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12037 H,tp NAH6,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12076 H,tp NAH7,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12082 H,tp NAH7,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12089 H,tp NAH7,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12095 H,tp NAH7,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12119 H,tp NAH7,,,,,,,,False,TV Correio,
+,(CNN feeds),,,DVB-S2,4610.0,3/4,12125 H,tp NAH7,,,,,,,,False,TV Correio,
+8150,Golfe FM Africa,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,Golfe FM Africa,https://www.lyngsat.com/radiochannels/bj/Golfe-FM-Africa.html,,,False,TV Correio,Fre
+8151,ORTM Radio Mali,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,ORTM Radio Mali,https://www.lyngsat.com/radiochannels/ml/ORTM-Radio-Mali.html,,,False,TV Correio,Fre
+8152,ORTM Chaîne 2,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,ORTM Chaîne 2,https://www.lyngsat.com/radiochannels/ml/ORTM-Chaine-2.html,,,False,TV Correio,Fre
+8157,Savane FM,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,Savane FM,https://www.lyngsat.com/radiochannels/bf/Savane-FM.html,,,False,TV Correio,Fre
+8157,Savane FM,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,Savane FM,https://www.lyngsat.com/radiochannels/bf/Savane-FM.html,,,False,TV Correio,Fre
+8158,B-One Radio,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,B-One Radio,https://www.lyngsat.com/radiochannels/cd/B-One-Radio.html,,,False,TV Correio,Fre
+8159,Radio Sahel,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,Radio Sahel,https://www.lyngsat.com/radiochannels/dz/Radio-Sahel.html,,,False,TV Correio,Fre
+8160,Radio Tchad,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,Radio Tchad,https://www.lyngsat.com/radiochannels/td/Radio-Tchad.html,,,False,TV Correio,Fre
+8161,FM Fulbe,,,DVB-S2,30000.0,3/4,12530 V,tp WAV13,0,,,FM Fulbe,https://www.lyngsat.com/radiochannels/sn/FM-Fulbe.html,,,False,TV Correio,Fre
+8350,Radio Equionxe,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Equionxe,https://www.lyngsat.com/radiochannels/cm/Radio-Equionxe.html,,,False,TV Correio,Fre
+8352,I Radio 90.3,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,I Radio 90.3,https://www.lyngsat.com/radiochannels/sn/I-Radio-903.html,,,False,TV Correio,Fre
+8352,I Radio 90.3,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,I Radio 90.3,https://www.lyngsat.com/radiochannels/sn/I-Radio-903.html,,,False,TV Correio,Fre
+8353,Radio de la Paix,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio de la Paix,https://www.lyngsat.com/radiochannels/ci/Radio-de-la-Paix.html,,,False,TV Correio,Fre
+8354,Radio Omega,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Omega,https://www.lyngsat.com/radiochannels/bf/Radio-Omega.html,,,False,TV Correio,Fre
+8354,Radio Omega,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Omega,https://www.lyngsat.com/radiochannels/bf/Radio-Omega.html,,,False,TV Correio,Fre
+8355,Kalac Radio,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Kalac Radio,https://www.lyngsat.com/radiochannels/gn/Kalac-Radio.html,,,False,TV Correio,Fre
+8356,Radio Notre Dame International,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Notre Dame International,https://www.lyngsat.com/radiochannels/fr/Radio-Notre-Dame-International.html,,,False,TV Correio,Fre
+8357,Franceinfo: Radio,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Franceinfo: Radio,https://www.lyngsat.com/radiochannels/fr/Franceinfo-Radio.html,,,False,TV Correio,Fre
+8358,Top Congo FM,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Top Congo FM,https://www.lyngsat.com/radiochannels/cd/Top-Congo-FM.html,,,False,TV Correio,Fre
+8359,Ouaga FM,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Ouaga FM,https://www.lyngsat.com/radiochannels/bf/Ouaga-FM.html,,,False,TV Correio,Fre
+8360,Radio Jam,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Jam,https://www.lyngsat.com/radiochannels/ci/Radio-Jam.html,,,False,TV Correio,Fre
+8360,Radio Jam,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Jam,https://www.lyngsat.com/radiochannels/ci/Radio-Jam.html,,,False,TV Correio,Fre
+8361,Radio Al Bayane,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Al Bayane,https://www.lyngsat.com/radiochannels/ci/Radio-Al-Bayane.html,,,False,TV Correio,Fre
+8361,Radio Al Bayane,,,DVB-S2,30000.0,3/4,12570 V,tp WAV14,0,,,Radio Al Bayane,https://www.lyngsat.com/radiochannels/ci/Radio-Al-Bayane.html,,,False,TV Correio,Fre
+8451,RFM (France),,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,RFM (France),https://www.lyngsat.com/radiochannels/fr/RFM.html,,,False,TV Correio,Fre
+8451,RFM (France),,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,RFM (France),https://www.lyngsat.com/radiochannels/fr/RFM.html,,,False,TV Correio,Fre
+8452,CRTV National Radio,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,CRTV National Radio,https://www.lyngsat.com/radiochannels/cm/CRTV-National-Radio.html,,,False,TV Correio,Fre
+8455,Radio Guinée,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Guinée,https://www.lyngsat.com/radiochannels/gn/Radio-Guinee.html,,,False,TV Correio,Fre
+8455,Radio Guinée,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Guinée,https://www.lyngsat.com/radiochannels/gn/Radio-Guinee.html,,,False,TV Correio,Fre
+8456,Radio Okapi,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Okapi,https://www.lyngsat.com/radiochannels/cd/Radio-Okapi.html,,,False,TV Correio,Fre
+8457,Radio Okapi Enfant,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Okapi Enfant,https://www.lyngsat.com/radiochannels/cd/Radio-Okapi-Enfant.html,,,False,TV Correio,Fre
+8458,Alpha Blondy FM,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Alpha Blondy FM,https://www.lyngsat.com/radiochannels/ci/Alpha-Blondy-FM.html,,,False,TV Correio,Fre
+8458,Alpha Blondy FM,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Alpha Blondy FM,https://www.lyngsat.com/radiochannels/ci/Alpha-Blondy-FM.html,,,False,TV Correio,Fre
+8459,Radio Legende,,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Radio Legende,https://www.lyngsat.com/radiochannels/bf/Radio-Legende.html,,,False,TV Correio,
+8461,Sweet FM (Guinea),,,DVB-S2,30000.0,3/4,12610 V,tp WAV15,0,,,Sweet FM (Guinea),https://www.lyngsat.com/radiochannels/gn/Sweet-FM.html,,,False,TV Correio,Fre
+8550,Radio Sango Malamu,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio Sango Malamu,https://www.lyngsat.com/radiochannels/cd/Radio-Sango-Malamu.html,,,False,TV Correio,Fre
+8551,Vibe Radio,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Vibe Radio,https://www.lyngsat.com/radiochannels/sn/Vibe-Radio.html,,,False,TV Correio,Fre
+8552,Radio One (Mauritius),,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio One (Mauritius),https://www.lyngsat.com/radiochannels/mu/Radio-One.html,,,False,TV Correio,Fre
+8552,Radio One (Mauritius),,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio One (Mauritius),https://www.lyngsat.com/radiochannels/mu/Radio-One.html,,,False,TV Correio,Fre
+8553,Nana FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Nana FM,https://www.lyngsat.com/radiochannels/tg/Nana-FM.html,,,False,TV Correio,Fre
+8554,Victoire FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Victoire FM,https://www.lyngsat.com/radiochannels/tg/Victoire-FM.html,,,False,TV Correio,Fre
+8554,Victoire FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Victoire FM,https://www.lyngsat.com/radiochannels/tg/Victoire-FM.html,,,False,TV Correio,Fre
+8555,Afrik Info FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Afrik Info FM,https://www.lyngsat.com/radiochannels/gn/Afrik-Info-FM.html,,,False,TV Correio,Fre
+8555,Afrik Info FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Afrik Info FM,https://www.lyngsat.com/radiochannels/gn/Afrik-Info-FM.html,,,False,TV Correio,Fre
+8556,Radio Kledu,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio Kledu,https://www.lyngsat.com/radiochannels/ml/Radio-Kledu.html,,,False,TV Correio,Fre
+8557,Radio Jekafo,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio Jekafo,https://www.lyngsat.com/radiochannels/ml/Radio-Jekafo.html,,,False,TV Correio,Fre
+8558,Sud FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Sud FM,https://www.lyngsat.com/radiochannels/sn/Sud-FM.html,,,False,TV Correio,Fre
+8558,Sud FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Sud FM,https://www.lyngsat.com/radiochannels/sn/Sud-FM.html,,,False,TV Correio,Fre
+8559,Lamp Fall FM,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Lamp Fall FM,https://www.lyngsat.com/radiochannels/sn/Lamp-Fall-FM.html,,,False,TV Correio,Fre
+8560,Trace FM Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Trace FM Côte d'Ivoire,https://www.lyngsat.com/radiochannels/fr/Trace-FM-Cote-dIvoire.html,,,False,TV Correio,Fre
+8560,Trace FM Côte d'Ivoire,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Trace FM Côte d'Ivoire,https://www.lyngsat.com/radiochannels/fr/Trace-FM-Cote-dIvoire.html,,,False,TV Correio,Fre
+8561,Radio Balafon,,,DVB-S2,30000.0,3/4,12650 V,tp WAV16,0,,,Radio Balafon,https://www.lyngsat.com/radiochannels/cm/Radio-Balafon.html,,,False,TV Correio,Fre
+,TDA,65535-1,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,https://www.lyngsat.com/providers/dz/TDA.html,,,,,True,TDA,
+1,TV 6 (Algeria),MPEG-2/SD,512.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,TV 6 (Algeria),https://www.lyngsat.com/tvchannels/dz/TV-6.html,,,False,TDA,Ara
+2,Canal Algérie 2,MPEG-2/SD,515.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html,,,False,TDA,Ara
+3,Thalitha A3,MPEG-2/SD,514.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Thalitha A3,https://www.lyngsat.com/tvchannels/dz/Thalitha-A3.html,,,False,TDA,Ara
+4,ENTV,MPEG-2/SD,513.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,BISS 1,,ENTV,https://www.lyngsat.com/tvchannels/dz/ENTV.html,,,False,TDA,Ara
+26,TV 5 Coran,MPEG-2/SD,516.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,TV 5 Coran,https://www.lyngsat.com/tvchannels/dz/TV-5-Coran.html,,,False,TDA,Ara
+27,TV 4 Amazigh,MPEG-2/SD,517.0,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,TV 4 Amazigh,https://www.lyngsat.com/tvchannels/dz/TV-4-Amazigh.html,,,False,TDA,
+6,Radio Décrochage,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Décrochage,https://www.lyngsat.com/radiochannels/dz/Radio-Decrochage.html,,,False,TDA,
+7,Chaîne 2,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 2,https://www.lyngsat.com/radiochannels/dz/Chaine-2.html,,,False,TDA,Ber
+7,Chaîne 2,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 2,https://www.lyngsat.com/radiochannels/dz/Chaine-2.html,,,False,TDA,Ber
+8,Chaîne 3,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 3,https://www.lyngsat.com/radiochannels/dz/Chaine-3.html,,,False,TDA,Fre
+8,Chaîne 3,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 3,https://www.lyngsat.com/radiochannels/dz/Chaine-3.html,,,False,TDA,Fre
+9,Ifrikya FM,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Ifrikya FM,https://www.lyngsat.com/radiochannels/dz/Ifrikya-FM.html,,,False,TDA,Fre
+10,Radio Ouargla,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Ouargla,https://www.lyngsat.com/radiochannels/dz/Radio-Ouargla.html,,,False,TDA,Ara
+10,Radio Ouargla,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Ouargla,https://www.lyngsat.com/radiochannels/dz/Radio-Ouargla.html,,,False,TDA,Ara
+11,Radio Tamanrasset,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tamanrasset,https://www.lyngsat.com/radiochannels/dz/Radio-Tamanrasset.html,,,False,TDA,Ara
+11,Radio Tamanrasset,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tamanrasset,https://www.lyngsat.com/radiochannels/dz/Radio-Tamanrasset.html,,,False,TDA,Ara
+12,Radio Béchar,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Béchar,https://www.lyngsat.com/radiochannels/dz/Radio-Bechar.html,,,False,TDA,
+12,Radio Béchar,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Béchar,https://www.lyngsat.com/radiochannels/dz/Radio-Bechar.html,,,False,TDA,
+13,Radio Tlemcen,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tlemcen,https://www.lyngsat.com/radiochannels/dz/Radio-Tlemcen.html,,,False,TDA,
+13,Radio Tlemcen,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tlemcen,https://www.lyngsat.com/radiochannels/dz/Radio-Tlemcen.html,,,False,TDA,
+14,Radio Adrar,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Adrar,https://www.lyngsat.com/radiochannels/dz/Radio-Adrar.html,,,False,TDA,Ara
+14,Radio Adrar,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Adrar,https://www.lyngsat.com/radiochannels/dz/Radio-Adrar.html,,,False,TDA,Ara
+15,Radio Ghardaïa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Ghardaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Ghardaia.html,,,False,TDA,Ara
+15,Radio Ghardaïa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Ghardaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Ghardaia.html,,,False,TDA,Ara
+16,Radio Illizi,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Illizi,https://www.lyngsat.com/radiochannels/dz/Radio-Illizi.html,,,False,TDA,
+16,Radio Illizi,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Illizi,https://www.lyngsat.com/radiochannels/dz/Radio-Illizi.html,,,False,TDA,
+17,Radio Algérie Internationale,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Algérie Internationale,https://www.lyngsat.com/radiochannels/dz/Radio-Algerie-Internationale.html,,,False,TDA,
+17,Radio Algérie Internationale,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Algérie Internationale,https://www.lyngsat.com/radiochannels/dz/Radio-Algerie-Internationale.html,,,False,TDA,
+18,Radio El Oued,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Oued,https://www.lyngsat.com/radiochannels/dz/Radio-El-Oued.html,,,False,TDA,
+18,Radio El Oued,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Oued,https://www.lyngsat.com/radiochannels/dz/Radio-El-Oued.html,,,False,TDA,
+19,Radio Tindouf,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tindouf,https://www.lyngsat.com/radiochannels/dz/Radio-Tindouf.html,,,False,TDA,Ara
+19,Radio Tindouf,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tindouf,https://www.lyngsat.com/radiochannels/dz/Radio-Tindouf.html,,,False,TDA,Ara
+20,Radio Batna,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Batna,https://www.lyngsat.com/radiochannels/dz/Radio-Batna.html,,,False,TDA,
+20,Radio Batna,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Batna,https://www.lyngsat.com/radiochannels/dz/Radio-Batna.html,,,False,TDA,
+21,Radio Jijel,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Jijel,https://www.lyngsat.com/radiochannels/dz/Radio-Jijel.html,,,False,TDA,
+21,Radio Jijel,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Jijel,https://www.lyngsat.com/radiochannels/dz/Radio-Jijel.html,,,False,TDA,
+22,Radio Souk Ahras,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Souk Ahras,https://www.lyngsat.com/radiochannels/dz/Radio-Souk-Ahras.html,,,False,TDA,Ara
+22,Radio Souk Ahras,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Souk Ahras,https://www.lyngsat.com/radiochannels/dz/Radio-Souk-Ahras.html,,,False,TDA,Ara
+23,Radio Laghouat,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Laghouat,https://www.lyngsat.com/radiochannels/dz/Radio-Laghouat.html,,,False,TDA,
+23,Radio Laghouat,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Laghouat,https://www.lyngsat.com/radiochannels/dz/Radio-Laghouat.html,,,False,TDA,
+24,Radio Naâma,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Naâma,https://www.lyngsat.com/radiochannels/dz/Radio-Naama.html,,,False,TDA,
+24,Radio Naâma,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Naâma,https://www.lyngsat.com/radiochannels/dz/Radio-Naama.html,,,False,TDA,
+25,Chaîne 1,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 1,https://www.lyngsat.com/radiochannels/dz/Chaine-1.html,,,False,TDA,Ara
+25,Chaîne 1,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Chaîne 1,https://www.lyngsat.com/radiochannels/dz/Chaine-1.html,,,False,TDA,Ara
+29,Radio Blida,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Blida,https://www.lyngsat.com/radiochannels/dz/Radio-Blida.html,,,False,TDA,
+29,Radio Blida,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Blida,https://www.lyngsat.com/radiochannels/dz/Radio-Blida.html,,,False,TDA,
+30,Radio El Tarf,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Tarf,https://www.lyngsat.com/radiochannels/dz/Radio-El-Tarf.html,,,False,TDA,Ara
+30,Radio El Tarf,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Tarf,https://www.lyngsat.com/radiochannels/dz/Radio-El-Tarf.html,,,False,TDA,Ara
+31,Radio Médéa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Médéa,https://www.lyngsat.com/radiochannels/dz/Radio-Medea.html,,,False,TDA,
+31,Radio Médéa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Médéa,https://www.lyngsat.com/radiochannels/dz/Radio-Medea.html,,,False,TDA,
+32,Radio Mila,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mila,https://www.lyngsat.com/radiochannels/dz/Radio-Mila.html,,,False,TDA,
+32,Radio Mila,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mila,https://www.lyngsat.com/radiochannels/dz/Radio-Mila.html,,,False,TDA,
+33,Radio Saïda,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Saïda,https://www.lyngsat.com/radiochannels/dz/Radio-Saida.html,,,False,TDA,
+33,Radio Saïda,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Saïda,https://www.lyngsat.com/radiochannels/dz/Radio-Saida.html,,,False,TDA,
+34,Radio Skikda,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Skikda,https://www.lyngsat.com/radiochannels/dz/Radio-Skikda.html,,,False,TDA,
+34,Radio Skikda,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Skikda,https://www.lyngsat.com/radiochannels/dz/Radio-Skikda.html,,,False,TDA,
+35,Radio Mascara,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mascara,https://www.lyngsat.com/radiochannels/dz/Radio-Mascara.html,,,False,TDA,
+35,Radio Mascara,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mascara,https://www.lyngsat.com/radiochannels/dz/Radio-Mascara.html,,,False,TDA,
+36,Radio Guelma,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Guelma,https://www.lyngsat.com/radiochannels/dz/Radio-Guelma.html,,,False,TDA,
+36,Radio Guelma,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Guelma,https://www.lyngsat.com/radiochannels/dz/Radio-Guelma.html,,,False,TDA,
+37,Radio Aïn Témouchent,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Aïn Témouchent,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Temouchent.html,,,False,TDA,
+37,Radio Aïn Témouchent,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Aïn Témouchent,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Temouchent.html,,,False,TDA,
+38,Radio Khenchela,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Khenchela,https://www.lyngsat.com/radiochannels/dz/Radio-Khenchela.html,,,False,TDA,
+38,Radio Khenchela,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Khenchela,https://www.lyngsat.com/radiochannels/dz/Radio-Khenchela.html,,,False,TDA,
+39,Radio Béjaïa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Béjaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Bejaia.html,,,False,TDA,
+39,Radio Béjaïa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Béjaïa,https://www.lyngsat.com/radiochannels/dz/Radio-Bejaia.html,,,False,TDA,
+40,Radio Bouira,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Bouira,https://www.lyngsat.com/radiochannels/dz/Radio-Bouira.html,,,False,TDA,
+40,Radio Bouira,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Bouira,https://www.lyngsat.com/radiochannels/dz/Radio-Bouira.html,,,False,TDA,
+41,Radio Relizane,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Relizane,https://www.lyngsat.com/radiochannels/dz/Radio-Relizane.html,,,False,TDA,
+41,Radio Relizane,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Relizane,https://www.lyngsat.com/radiochannels/dz/Radio-Relizane.html,,,False,TDA,
+42,Radio Annaba,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Annaba,https://www.lyngsat.com/radiochannels/dz/Radio-Annaba.html,,,False,TDA,
+42,Radio Annaba,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Annaba,https://www.lyngsat.com/radiochannels/dz/Radio-Annaba.html,,,False,TDA,
+43,Radio Tizi Ouzou,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tizi Ouzou,https://www.lyngsat.com/radiochannels/dz/Radio-Tizi-Ouzou.html,,,False,TDA,
+43,Radio Tizi Ouzou,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tizi Ouzou,https://www.lyngsat.com/radiochannels/dz/Radio-Tizi-Ouzou.html,,,False,TDA,
+44,Radio Tissemsilt,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tissemsilt,https://www.lyngsat.com/radiochannels/dz/Radio-Tissemsilt.html,,,False,TDA,
+44,Radio Tissemsilt,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tissemsilt,https://www.lyngsat.com/radiochannels/dz/Radio-Tissemsilt.html,,,False,TDA,
+45,Radio El Bayadh,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Bayadh,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bayadh.html,,,False,TDA,
+45,Radio El Bayadh,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Bayadh,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bayadh.html,,,False,TDA,
+46,Radio Tebessa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tebessa,https://www.lyngsat.com/radiochannels/dz/Radio-Tebessa.html,,,False,TDA,
+46,Radio Tebessa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tebessa,https://www.lyngsat.com/radiochannels/dz/Radio-Tebessa.html,,,False,TDA,
+47,Radio Djelfa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Djelfa,https://www.lyngsat.com/radiochannels/dz/Radio-Djelfa.html,,,False,TDA,
+47,Radio Djelfa,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Djelfa,https://www.lyngsat.com/radiochannels/dz/Radio-Djelfa.html,,,False,TDA,
+48,Radio Aïn Defla,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Aïn Defla,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Defla.html,,,False,TDA,
+48,Radio Aïn Defla,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Aïn Defla,https://www.lyngsat.com/radiochannels/dz/Radio-Ain-Defla.html,,,False,TDA,
+49,Radio Tipaza,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tipaza,https://www.lyngsat.com/radiochannels/dz/Radio-Tipaza.html,,,False,TDA,
+49,Radio Tipaza,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tipaza,https://www.lyngsat.com/radiochannels/dz/Radio-Tipaza.html,,,False,TDA,
+50,Radio Boumerdès,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Boumerdès,https://www.lyngsat.com/radiochannels/dz/Radio-Boumerdes.html,,,False,TDA,
+50,Radio Boumerdès,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Boumerdès,https://www.lyngsat.com/radiochannels/dz/Radio-Boumerdes.html,,,False,TDA,
+51,Radio Oran,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Oran,https://www.lyngsat.com/radiochannels/dz/Radio-Oran.html,,,False,TDA,
+51,Radio Oran,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Oran,https://www.lyngsat.com/radiochannels/dz/Radio-Oran.html,,,False,TDA,
+52,Radio Tiaret,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tiaret,https://www.lyngsat.com/radiochannels/dz/Radio-Tiaret.html,,,False,TDA,
+52,Radio Tiaret,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Tiaret,https://www.lyngsat.com/radiochannels/dz/Radio-Tiaret.html,,,False,TDA,
+53,Radio Mostaganem,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mostaganem,https://www.lyngsat.com/radiochannels/dz/Radio-Mostaganem.html,,,False,TDA,
+53,Radio Mostaganem,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Mostaganem,https://www.lyngsat.com/radiochannels/dz/Radio-Mostaganem.html,,,False,TDA,
+54,Radio M'Sila,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio M'Sila,https://www.lyngsat.com/radiochannels/dz/Radio-MSila.html,,,False,TDA,
+54,Radio M'Sila,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio M'Sila,https://www.lyngsat.com/radiochannels/dz/Radio-MSila.html,,,False,TDA,
+55,Radio Bordj Bou Arreridj,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Bordj Bou Arreridj,https://www.lyngsat.com/radiochannels/dz/Radio-Bordj-Bou-Arreridj.html,,,False,TDA,
+55,Radio Bordj Bou Arreridj,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Bordj Bou Arreridj,https://www.lyngsat.com/radiochannels/dz/Radio-Bordj-Bou-Arreridj.html,,,False,TDA,
+56,Radio Sétif,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Sétif,https://www.lyngsat.com/radiochannels/dz/Radio-Setif.html,,,False,TDA,Fre
+56,Radio Sétif,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Sétif,https://www.lyngsat.com/radiochannels/dz/Radio-Setif.html,,,False,TDA,Fre
+57,Radio Biskra,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Biskra,https://www.lyngsat.com/radiochannels/dz/Radio-Biskra.html,,,False,TDA,Ara
+57,Radio Biskra,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Biskra,https://www.lyngsat.com/radiochannels/dz/Radio-Biskra.html,,,False,TDA,Ara
+58,Radio Constantine,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Constantine,https://www.lyngsat.com/radiochannels/dz/Radio-Constantine.html,,,False,TDA,
+58,Radio Constantine,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Constantine,https://www.lyngsat.com/radiochannels/dz/Radio-Constantine.html,,,False,TDA,
+59,Radio Oum El Bouaghi,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Oum El Bouaghi,https://www.lyngsat.com/radiochannels/dz/Radio-Oum-El-Bouaghi.html,,,False,TDA,
+59,Radio Oum El Bouaghi,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Oum El Bouaghi,https://www.lyngsat.com/radiochannels/dz/Radio-Oum-El-Bouaghi.html,,,False,TDA,
+60,Radio Chlef,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Chlef,https://www.lyngsat.com/radiochannels/dz/Radio-Chlef.html,,,False,TDA,
+60,Radio Chlef,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Chlef,https://www.lyngsat.com/radiochannels/dz/Radio-Chlef.html,,,False,TDA,
+61,Radio Sidi Bel Abbès,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Sidi Bel Abbès,https://www.lyngsat.com/radiochannels/dz/Radio-Sidi-Bel-Abbes.html,,,False,TDA,
+61,Radio Sidi Bel Abbès,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Sidi Bel Abbès,https://www.lyngsat.com/radiochannels/dz/Radio-Sidi-Bel-Abbes.html,,,False,TDA,
+63,Radio Coran (Algeria),,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Coran (Algeria),https://www.lyngsat.com/radiochannels/dz/Radio-Coran.html,,,False,TDA,Ara
+63,Radio Coran (Algeria),,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Coran (Algeria),https://www.lyngsat.com/radiochannels/dz/Radio-Coran.html,,,False,TDA,Ara
+662,Radio El Bahdja,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Bahdja,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bahdja.html,,,False,TDA,Ara
+662,Radio El Bahdja,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio El Bahdja,https://www.lyngsat.com/radiochannels/dz/Radio-El-Bahdja.html,,,False,TDA,Ara
+664,Radio Culture,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Culture,https://www.lyngsat.com/radiochannels/dz/Radio-Culture.html,,,False,TDA,Ara
+664,Radio Culture,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Radio Culture,https://www.lyngsat.com/radiochannels/dz/Radio-Culture.html,,,False,TDA,Ara
+665,Jil FM,,,DVB-S,20740.0,3/4,12674 H,tp EUH11,48-50,,,Jil FM,https://www.lyngsat.com/radiochannels/dz/Jil-FM.html,,,False,TDA,Fre
+8750,Zik FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Zik FM,https://www.lyngsat.com/radiochannels/sn/Zik-FM.html,,,False,TDA,Fre
+8750,Zik FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Zik FM,https://www.lyngsat.com/radiochannels/sn/Zik-FM.html,,,False,TDA,Fre
+8751,Radio Mucodec,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Radio Mucodec,https://www.lyngsat.com/radiochannels/cg/Radio-Mucodec.html,,,False,TDA,Fre
+8751,Radio Mucodec,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Radio Mucodec,https://www.lyngsat.com/radiochannels/cg/Radio-Mucodec.html,,,False,TDA,Fre
+8752,Sabari FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Sabari FM,https://www.lyngsat.com/radiochannels/gn/Sabari-FM.html,,,False,TDA,Fre
+8753,Walf FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Walf FM,https://www.lyngsat.com/radiochannels/sn/Walf-FM.html,,,False,TDA,Fre
+8753,Walf FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Walf FM,https://www.lyngsat.com/radiochannels/sn/Walf-FM.html,,,False,TDA,Fre
+8754,Life Radio (Ivory Coast),,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Life Radio (Ivory Coast),https://www.lyngsat.com/radiochannels/ci/Life-Radio.html,,,False,TDA,Fre
+8754,Life Radio (Ivory Coast),,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Life Radio (Ivory Coast),https://www.lyngsat.com/radiochannels/ci/Life-Radio.html,,,False,TDA,Fre
+8755,Voice of America,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Voice of America,https://www.lyngsat.com/radiochannels/us/Voice-of-America.html,,,False,TDA,
+8757,Nostalgie Guinée,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Nostalgie Guinée,https://www.lyngsat.com/radiochannels/fr/Nostalgie-Guinee.html,,,False,TDA,Fre
+8757,Nostalgie Guinée,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Nostalgie Guinée,https://www.lyngsat.com/radiochannels/fr/Nostalgie-Guinee.html,,,False,TDA,Fre
+8758,Chérie FM Guinée,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Chérie FM Guinée,https://www.lyngsat.com/radiochannels/fr/Cherie-FM-Guinee.html,,,False,TDA,Fre
+8759,Radio Ndeke Luka,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Radio Ndeke Luka,https://www.lyngsat.com/radiochannels/cf/Radio-Ndeke-Luka.html,,,False,TDA,Fre
+8759,Radio Ndeke Luka,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Radio Ndeke Luka,https://www.lyngsat.com/radiochannels/cf/Radio-Ndeke-Luka.html,,,False,TDA,Fre
+8760,Hit Radio RCA,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Hit Radio RCA,https://www.lyngsat.com/radiochannels/ma/Hit-Radio-RCA.html,,,False,TDA,Fre
+8761,CIS Radio,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,CIS Radio,https://www.lyngsat.com/radiochannels/gn/CIS-Radio.html,,,False,TDA,Fre
+8762,Maquis FM,,,DVB-S2,30000.0,3/4,12730 V,tp WAV18,0,,,Maquis FM,https://www.lyngsat.com/radiochannels/gn/Maquis-FM.html,,,False,TDA,Fre
+,,,,,,,,,,,,DVB-S2571/2,,,,False,TDA,
+,,,,,,,,,,,,DVB-S33323/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S2QPSK32005/6,,,,False,TDA,
+,,,,,,,,,,,,DVB-S28PSK32003/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S28PSK50002/3,,,,False,TDA,
+,,,,,,,,,,,,DVB-S29633/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S2QPSK33603/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S2QPSK16663/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S2QPSK37503/4,,,,False,TDA,
+,,,,,,,,,,,,DVB-S28PSK172503/5,,,,False,TDA,
+,,,,,,,,,,,,DVB-S22500,,,,False,TDA,
+,,,,,,,,,,,,DVB-S215500,,,,False,TDA,

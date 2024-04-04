@@ -1,0 +1,537 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country,Provider_Country
+,,,,,,,3641 L,tp 52,0.0,,,,,,,False,,,,
+,,,,,,,3675 R,tp 53,0.0,,,,,,,False,,,,
+,,,,,,,3679 R,tp 53,0.0,,,,,,,False,,,,
+,,3-1,,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,,,,,False,,,,
+,,,,DVB-S2,3750.0,3/4,3763 R,tp 57,0.0,,,,,,,False,,,,
+,,100-100,,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,"Cryptoguard 1,Irdeto,VisionCrypt",,,,,,False,,,,
+,,513-513,,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,,,,,False,,,,
+,,1-101,,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,,,,,False,,,,
+,,3-101,,DVB-S,6670.0,3/4,3847 L,tp 62,0.0,PowerVu,,,,,,False,,,,
+,,1-0,,DVB-S2,5714.0,3/4,3858 R,tp 61,0.0,,,,,,,False,,,,
+,,,,DVB-S2,7200.0,3/4,3874 R,tp 63,0.0,,,,,,,False,,,,
+,,,,DVB-S2,7200.0,3/4,3878 L,tp 64,0.0,,,,,,,False,,,,
+,,,,DVB-S2,7200.0,3/4,3884 R,tp 63,0.0,,,,,,,False,,,,
+,,,,DVB-S2,7200.0,3/4,3887 L,tp 64,0.0,,,,,,,False,,,,
+,,,,DVB-S2,21600.0,3/4,4004 L,tp 70,0.0,,,,,,,False,,,,
+,,,,DVB-S,2570.0,7/8,4043 R,tp 71,0.0,,,,,,,False,,,,
+,,8362-3031,,DVB-S2,4285.0,3/4,4061 L,tp 72,0.0,,,,,,,False,,,,
+,,33-1,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,,,,,False,,,,
+,,,,DVB-S2,30000.0,5/6,4151 R,tp 75,0.0,,,,,,,False,,,,
+,,1-1,,DVB-S2,7332.0,2/3,4191 L,tp 78,0.0,"PowerVu,Viaccess",,,,,,False,,,,
+1,Canal Antigua,MPEG-4/SD,34.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Canal Antigua,https://www.lyngsat.com/tvchannels/gt/Canal-Antigua.html,,,False,,Spa,gt,
+2,Conectados con Dios TV,MPEG-4/SD,36.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Conectados con Dios TV,https://www.lyngsat.com/tvchannels/gt/Conectados-con-Dios-TV.html,,,False,,Spa,gt,
+2,Conectados con Dios TV,MPEG-4/SD,36.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Conectados con Dios TV,https://www.lyngsat.com/tvchannels/gt/Conectados-con-Dios-TV.html,,,False,,Spa,gt,
+6,Gallero Soy,MPEG-4/SD,41.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Gallero Soy,https://www.lyngsat.com/tvchannels/do/Gallero-Soy.html,,,False,,Spa,do,
+9,LTV,MPEG-4/SD,769.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,LTV,https://www.lyngsat.com/tvchannels/hn/LTV.html,,,False,,Spa,hn,
+9,LTV,MPEG-4/SD,769.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,LTV,https://www.lyngsat.com/tvchannels/hn/LTV.html,,,False,,Spa,hn,
+10,TV Canal Sur,MPEG-4/SD,43.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,TV Canal Sur,https://www.lyngsat.com/tvchannels/do/TV-Canal-Sur.html,,,False,,Spa,do,
+10,TV Canal Sur,MPEG-4/SD,43.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,TV Canal Sur,https://www.lyngsat.com/tvchannels/do/TV-Canal-Sur.html,,,False,,Spa,do,
+11,Megavisión,MPEG-4/SD,48.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Megavisión,https://www.lyngsat.com/tvchannels/do/Megavision.html,,,False,,Spa,do,
+12,Teleunion,MPEG-4/SD,4128.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Teleunion,https://www.lyngsat.com/tvchannels/do/Teleunion.html,,,False,,Spa,do,
+14,TNH Canal 8,MPEG-4/SD,51.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,TNH Canal 8,https://www.lyngsat.com/tvchannels/hn/TNH-Canal-8.html,,,False,,Spa,hn,
+14,TNH Canal 8,MPEG-4/SD,51.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,TNH Canal 8,https://www.lyngsat.com/tvchannels/hn/TNH-Canal-8.html,,,False,,Spa,hn,
+15,Congreso TV (Honduras),MPEG-4/SD,54.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Congreso TV (Honduras),https://www.lyngsat.com/tvchannels/hn/Congreso-TV.html,,,False,,Spa,hn,
+16,Une TV,MPEG-4/HD,62.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Une TV,https://www.lyngsat.com/tvchannels/hn/Une-TV.html,,,False,,Spa,hn,
+16,Une TV,MPEG-4/HD,62.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Une TV,https://www.lyngsat.com/tvchannels/hn/Une-TV.html,,,False,,Spa,hn,
+3011,Canal 6 (Honduras),HEVC,47.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Canal 6 (Honduras),https://www.lyngsat.com/tvchannels/hn/Canal-6.html,,,False,,Spa,hn,
+3011,Canal 6 (Honduras),HEVC,47.0,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Canal 6 (Honduras),https://www.lyngsat.com/tvchannels/hn/Canal-6.html,,,False,,Spa,hn,
+7,Radio Nacional de Honduras,,,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Radio Nacional de Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Nacional-de-Honduras.html,,,False,,Spa,hn,
+7,Radio Nacional de Honduras,,,DVB-S2,8330.0,3/4,3710 L,tp 56,0.0,,,Radio Nacional de Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Nacional-de-Honduras.html,,,False,,Spa,hn,
+,(feeds),,,DVB-S2,3750.0,3/4,3725 L,tp 56,,,,,,,,False,,,,
+,(feeds),,,DVB-S2,7200.0,3/4,3870 R,tp 63,,,,,,,,False,,,,
+,(feeds),,,DVB-S2,3680.0,3/4,3905 L,tp 66,,,,,,,,False,,,,
+903,(feeds),,904.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,Irdeto,,,,,,False,,,,
+,(feeds),,,DVB-S,4700.0,2/3,3938 R,tp 65,,,,,,,,False,,,,
+,(feeds),,,DVB-S2,14400.0,3/4,11340 H,tp AEH70,,,,,,,,False,,,,
+,(ESPN feeds),,,DVB-S2,30000.0,5/6,3763 L,tp 58,,,,,,,,False,,,,
+1,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),MPEG-2/SD,2001.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),https://www.lyngsat.com/tvchannels/hu/Duna-World.html,,,False,,Hun,hu,
+1,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),MPEG-2/SD,2001.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),https://www.lyngsat.com/tvchannels/hu/Duna-World.html,,,False,,Hun,hu,
+1,M4 Sport + (Sat-Sun 14-22),MPEG-2/SD,2001.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,M4 Sport + (Sat-Sun 14-22),https://www.lyngsat.com/tvchannels/hu/M4-Sport--.html,,,False,,Hun,hu,
+3,TV Agro,MPEG-4/SD,101.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,"Cryptoguard 1,Irdeto",,TV Agro,https://www.lyngsat.com/tvchannels/co/TV-Agro.html,,,False,,Spa,co,
+4,Primetime (USA),MPEG-4/SD,253.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,VisionCrypt,,Primetime (USA),https://www.lyngsat.com/tvchannels/us/Primetime.html,,,False,,Spa,us,
+5,Hogar TV (Colombia),MPEG-4/SD,201.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,"Cryptoguard 1,Irdeto",,Hogar TV (Colombia),https://www.lyngsat.com/tvchannels/co/Hogar-TV.html,,,False,,Spa,co,
+6,Rumba TV,MPEG-4/SD,301.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,"Cryptoguard 1,Irdeto",,Rumba TV,https://www.lyngsat.com/tvchannels/co/Rumba-TV.html,,,False,,Spa,co,
+7,Tele Nostalgia,MPEG-4/SD,501.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,"Cryptoguard 1,Irdeto",,Tele Nostalgia,https://www.lyngsat.com/tvchannels/co/Tele-Nostalgia.html,,,False,,Spa,co,
+8,Mórbido TV,MPEG-4/HD,500.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Mórbido TV,https://www.lyngsat.com/tvchannels/mx/Morbido-TV.html,,,False,,Spa,mx,
+9,Aliento Vision,MPEG-4/SD,481.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Aliento Vision,https://www.lyngsat.com/tvchannels/us/Aliento-Vision.html,,,False,,Spa,us,
+9,Aliento Vision,MPEG-4/SD,481.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Aliento Vision,https://www.lyngsat.com/tvchannels/us/Aliento-Vision.html,,,False,,Spa,us,
+1613,ZooMoo Kids,MPEG-4/HD,3538.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,ZooMoo Kids,https://www.lyngsat.com/tvchannels/nz/ZooMoo-Kids.html,,,False,,Por,nz,
+1613,ZooMoo Kids,MPEG-4/HD,3538.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,ZooMoo Kids,https://www.lyngsat.com/tvchannels/nz/ZooMoo-Kids.html,,,False,,Por,nz,
+1614,ZooMoo Kids,MPEG-2/SD,3839.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,ZooMoo Kids,https://www.lyngsat.com/tvchannels/nz/ZooMoo-Kids.html,,,False,,Por,nz,
+1614,ZooMoo Kids,MPEG-2/SD,3839.0,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,ZooMoo Kids,https://www.lyngsat.com/tvchannels/nz/ZooMoo-Kids.html,,,False,,Por,nz,
+2,Duna World Rádió,,,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Duna World Rádió,https://www.lyngsat.com/radiochannels/hu/Duna-World-Radio.html,,,False,,Hun,hu,
+2,Duna World Rádió,,,DVB-S2,30000.0,5/6,3803 L,tp 60,0.0,,,Duna World Rádió,https://www.lyngsat.com/radiochannels/hu/Duna-World-Radio.html,,,False,,Hun,hu,
+1,Rede Gênesis,MPEG-4/HD,530.0,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Rede Gênesis,https://www.lyngsat.com/tvchannels/br/Rede-Genesis.html,,,False,,Por Por,br,
+1,Rede Gênesis,MPEG-4/HD,530.0,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Rede Gênesis,https://www.lyngsat.com/tvchannels/br/Rede-Genesis.html,,,False,,Por Por,br,
+4,Rede Gênesis,MPEG-2/1seg,337.0,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Rede Gênesis,https://www.lyngsat.com/tvchannels/br/Rede-Genesis.html,,,False,,Por,br,
+4,Rede Gênesis,MPEG-2/1seg,337.0,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Rede Gênesis,https://www.lyngsat.com/tvchannels/br/Rede-Genesis.html,,,False,,Por,br,
+3,Sara Brasil FM,,,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Sara Brasil FM,https://www.lyngsat.com/radiochannels/br/Sara-Brasil-FM.html,,,False,,Por,br,
+3,Sara Brasil FM,,,DVB-S2,6666.0,2/3,3830 R,tp 61,0.0,,,Sara Brasil FM,https://www.lyngsat.com/radiochannels/br/Sara-Brasil-FM.html,,,False,,Por,br,
+111,LN+,MPEG-4/HD,1110.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,LN+,https://www.lyngsat.com/tvchannels/ar/LN-.html,,,False,,Spa,ar,
+111,LN+,MPEG-4/HD,1110.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,LN+,https://www.lyngsat.com/tvchannels/ar/LN-.html,,,False,,Spa,ar,
+112,Plim Plim,MPEG-4/HD,1620.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,,,Plim Plim,https://www.lyngsat.com/tvchannels/ar/Plim-Plim.html,,,False,,Spa,ar,
+113,Unife,MPEG-4/HD,1130.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,Unife,https://www.lyngsat.com/tvchannels/ar/Unife.html,,,False,,Spa,ar,
+113,Unife,MPEG-4/HD,1130.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,Unife,https://www.lyngsat.com/tvchannels/ar/Unife.html,,,False,,Spa,ar,
+115,PX Sports,HEVC,1630.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,PX Sports,https://www.lyngsat.com/tvchannels/mx/PX-Sports.html,,,False,,Spa,mx,
+160,Playboy TV Latin America,MPEG-4/HD,1710.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,Playboy TV Latin America,https://www.lyngsat.com/tvchannels/us/Playboy-TV-Latin-America.html,,,False,,Spa Por,us,
+160,Playboy TV Latin America,MPEG-4/HD,1710.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,Playboy TV Latin America,https://www.lyngsat.com/tvchannels/us/Playboy-TV-Latin-America.html,,,False,,Spa Por,us,
+260*,Playboy TV Latin America,MPEG-2/SD,1210.0,DVB-S,6670.0,3/4,3847 L,tp 62,0.0,PowerVu,,Playboy TV Latin America,https://www.lyngsat.com/tvchannels/us/Playboy-TV-Latin-America.html,,,False,,Spa Spa,us,
+260*,Playboy TV Latin America,MPEG-2/SD,1210.0,DVB-S,6670.0,3/4,3847 L,tp 62,0.0,PowerVu,,Playboy TV Latin America,https://www.lyngsat.com/tvchannels/us/Playboy-TV-Latin-America.html,,,False,,Spa Spa,us,
+161,Sexy Hot,MPEG-4/HD,1720.0,DVB-S2,15000.0,5/6,3834 L,tp 62,0.0,PowerVu,,Sexy Hot,https://www.lyngsat.com/tvchannels/br/Sexy-Hot.html,,,False,,Por,br,
+1,Zoom (Colombia),1-4096MPEG-4/SD,513.0,DVB-S2,2082.0,3/4,3835 R,tp 61,0.0,,,,,,,False,,Spa,,
+270*,Venus (Argentina),MPEG-2/SD,1230.0,DVB-S,6670.0,3/4,3847 L,tp 62,0.0,PowerVu,,Venus (Argentina),https://www.lyngsat.com/tvchannels/ar/Venus.html,,,False,,Spa Spa,ar,
+301,WOBI TV,MPEG-2/SD,1560.0,DVB-S,6670.0,3/4,3847 L,tp 62,0.0,PowerVu,,WOBI TV,https://www.lyngsat.com/tvchannels/ar/WOBI-TV.html,,,False,,Spa Eng Spa,ar,
+,Liga 1,34-1,,DVB-S2,7500.0,5/6,3848 R,tp 61,0.0,PowerVu,https://www.lyngsat.com/providers/pe/Liga-1.html,,,,,True,Liga 1,,,pe
+101,Liga 1 Max,MPEG-4/HD,2200.0,DVB-S2,7500.0,5/6,3848 R,tp 61,0.0,PowerVu,,Liga 1 Max,https://www.lyngsat.com/tvchannels/pe/Liga-1-Max.html,,,False,Liga 1,Spa,pe,
+102,Liga 1 Básico,MPEG-4/HD,2100.0,DVB-S2,7500.0,5/6,3848 R,tp 61,0.0,PowerVu,,Liga 1 Básico,https://www.lyngsat.com/tvchannels/pe/Liga-1-Basico.html,,,False,Liga 1,Spa,pe,
+,Daystar TV Español,MPEG-4/HD,1648.0,DVB-S2,2387.0,3/4,3853 R,tp 61,0.0,,,,,,,False,Liga 1,Spa,,
+3,Sun Channel (Venezuela),MPEG-4/HD,4451.0,DVB-S2,5714.0,3/4,3858 R,tp 61,0.0,Xcrypt,,Sun Channel (Venezuela),https://www.lyngsat.com/tvchannels/ve/Sun-Channel.html,,,False,Liga 1,Spa Spa,ve,
+4,Avivamiento TV,MPEG-4/HD,201.0,DVB-S2,5714.0,3/4,3858 R,tp 61,0.0,,,Avivamiento TV,https://www.lyngsat.com/tvchannels/co/Avivamiento-TV.html,,,False,Liga 1,Spa,co,
+6,Cristovisión,MPEG-4/SD,4194.0,DVB-S2,5714.0,3/4,3858 R,tp 61,0.0,,,Cristovisión,https://www.lyngsat.com/tvchannels/co/Cristovision.html,,,False,Liga 1,Spa,co,
+6,Cristovisión,MPEG-4/SD,4194.0,DVB-S2,5714.0,3/4,3858 R,tp 61,0.0,,,Cristovisión,https://www.lyngsat.com/tvchannels/co/Cristovision.html,,,False,Liga 1,Spa,co,
+1,Tele Vid,0-1MPEG-4/HD,481.0,DVB-S2,2083.0,3/4,3860 L,tp 64,0.0,,,,,,,False,Liga 1,Spa,,
+1,TVMS,65535-1MPEG-2/SD,1110.0,DVB-S,3255.0,3/4,3867 L,tp 64,0.0,,,,,,,False,Liga 1,Por,,
+1,FM Cidade 97,,,DVB-S,3255.0,3/4,3867 L,tp 64,0.0,,,FM Cidade 97,https://www.lyngsat.com/radiochannels/br/FM-Cidade-97.html,,,False,Liga 1,Por,br,
+1,Cablenoticias,0-224MPEG-4/HD,33.0,DVB-S2,3000.0,5/6,3891 L,tp 64,0.0,Irdeto,,,,,,False,Liga 1,Spa,,
+1,AgroBrasil TV,0-1MPEG-2/SD,256.0,DVB-S2,2787.0,3/5,3894 L,tp 64,0.0,,,,,,,False,Liga 1,Por,,
+,TV Nazaré,1206-1,,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,,br,br
+,TV Nazaré,1206-1,,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,,br,br
+,TV Nazaré,1206-1,,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,,br,br
+,TV Nazaré,1206-1,,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,,br,br
+1,TV Nazaré,MPEG-4/HD,1001.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1,TV Nazaré,MPEG-4/HD,1001.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1,TV Nazaré,MPEG-4/HD,1001.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1,TV Nazaré,MPEG-4/HD,1001.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1000,TV Nazaré,MPEG-4/1seg,101.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1000,TV Nazaré,MPEG-4/1seg,101.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1000,TV Nazaré,MPEG-4/1seg,101.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1000,TV Nazaré,MPEG-4/1seg,101.0,DVB-S2,3920.0,3/4,3898 L,tp 64,0.0,,https://www.lyngsat.com/providers/br/TV-Nazare.html,TV Nazaré,https://www.lyngsat.com/tvchannels/br/TV-Nazare.html,,,True,TV Nazaré,Por,br,br
+1,Exitosa TV,1-1MPEG-4/SD,308.0,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,,,,,False,TV Nazaré,Spa,,
+1,Radio Karibeña,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Radio Karibeña,https://www.lyngsat.com/radiochannels/pe/Radio-Karibena.html,,,False,TV Nazaré,Spa,pe,
+1,Radio Karibeña,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Radio Karibeña,https://www.lyngsat.com/radiochannels/pe/Radio-Karibena.html,,,False,TV Nazaré,Spa,pe,
+1,Exitosa,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Exitosa,https://www.lyngsat.com/radiochannels/pe/Exitosa.html,,,False,TV Nazaré,Spa,pe,
+1,Exitosa,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Exitosa,https://www.lyngsat.com/radiochannels/pe/Exitosa.html,,,False,TV Nazaré,Spa,pe,
+1,Radio La Kalle,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Radio La Kalle,https://www.lyngsat.com/radiochannels/pe/Radio-La-Kalle.html,,,False,TV Nazaré,Spa,pe,
+1,Radio La Kalle,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Radio La Kalle,https://www.lyngsat.com/radiochannels/pe/Radio-La-Kalle.html,,,False,TV Nazaré,Spa,pe,
+1,Z Rock & Pop,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Z Rock & Pop,https://www.lyngsat.com/radiochannels/pe/Z-Rock-and-Pop.html,,,False,TV Nazaré,Spa,pe,
+1,Z Rock & Pop,,,DVB-S2,2455.0,3/4,3910 L,tp 66,0.0,,,Z Rock & Pop,https://www.lyngsat.com/radiochannels/pe/Z-Rock-and-Pop.html,,,False,TV Nazaré,Spa,pe,
+,AMC Networks International Latin America,853-201,,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,,,,,True,AMC Networks International Latin America,,,us
+,AMC Networks International Latin America,853-201,,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,,,,,True,AMC Networks International Latin America,,,us
+,AMC Networks International Latin America,1-4,,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,,,,,True,AMC Networks International Latin America,,,us
+,AMC Networks International Latin America,1-4,,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,https://www.lyngsat.com/providers/us/AMC-Networks-International-Latin-America.html,,,,,True,AMC Networks International Latin America,,,us
+101,Film & Arts Brasil,MPEG-4/HD,100.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,Film & Arts Brasil,https://www.lyngsat.com/tvchannels/ar/Film-and-Arts-Brasil.html,,,False,AMC Networks International Latin America,Por Eng Por,ar,
+102,Más Chic Estados Unidos,MPEG-4/HD,200.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,Más Chic Estados Unidos,https://www.lyngsat.com/tvchannels/us/Mas-Chic-Estados-Unidos.html,,,False,AMC Networks International Latin America,Spa Eng Spa,us,
+103,Film & Arts México,MPEG-4/HD,300.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,Film & Arts México,https://www.lyngsat.com/tvchannels/ar/Film-and-Arts-Mexico.html,,,False,AMC Networks International Latin America,Spa Eng Spa,ar,
+104,AMC Colombia,MPEG-4/HD,400.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,AMC Colombia,https://www.lyngsat.com/tvchannels/us/AMC-Colombia.html,,,False,AMC Networks International Latin America,Spa Eng Spa Eng,us,
+105,[AMC Networks International test card],MPEG-4/HD,501.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,,,,,False,AMC Networks International Latin America,Por,,
+108,[AMC Networks International test card],MPEG-4/SD,1660.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,,,,,False,AMC Networks International Latin America,,,
+106,AMC Brasil,MPEG-4/HD,601.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,AMC Brasil,https://www.lyngsat.com/tvchannels/us/AMC-Brasil.html,,,False,AMC Networks International Latin America,Por Eng Por,us,
+107,AMC México,MPEG-4/HD,701.0,DVB-S2,30000.0,5/6,3923 R,tp 65,0.0,PowerVu,,AMC México,https://www.lyngsat.com/tvchannels/us/AMC-Mexico.html,,,False,AMC Networks International Latin America,Spa Eng Spa,us,
+,América (Peru),1-1,,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),,pe,pe
+,América (Peru),1-1,,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),,pe,pe
+,América (Peru),1-1,,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),,pe,pe
+1,América (Peru),MPEG-4/HD,101.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+1,América (Peru),MPEG-4/HD,101.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+1,América (Peru),MPEG-4/HD,101.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+2,América (Peru),MPEG-4/HD,201.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+2,América (Peru),MPEG-4/HD,201.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+2,América (Peru),MPEG-4/HD,201.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+3,América (Peru),MPEG-4/HD,301.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+3,América (Peru),MPEG-4/HD,301.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+3,América (Peru),MPEG-4/HD,301.0,DVB-S2,7000.0,3/4,3923 L,tp 66,0.0,Director,https://www.lyngsat.com/providers/pe/America.html,América (Peru),https://www.lyngsat.com/tvchannels/pe/America.html,,,True,América (Peru),Spa,pe,pe
+,Uruguayan mux,100-1000,,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,,,,,False,América (Peru),,,
+500,Canal 4 (Uruguay),MPEG-4/SD,502.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Canal 4 (Uruguay),https://www.lyngsat.com/tvchannels/uy/Canal-4.html,,,False,América (Peru),Spa,uy,
+500,Canal 4 (Uruguay),MPEG-4/SD,502.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Canal 4 (Uruguay),https://www.lyngsat.com/tvchannels/uy/Canal-4.html,,,False,América (Peru),Spa,uy,
+1300,Canal 4 (Uruguay),MPEG-4/HD,529.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Canal 4 (Uruguay),https://www.lyngsat.com/tvchannels/uy/Canal-4.html,,,False,América (Peru),Spa,uy,
+1300,Canal 4 (Uruguay),MPEG-4/HD,529.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Canal 4 (Uruguay),https://www.lyngsat.com/tvchannels/uy/Canal-4.html,,,False,América (Peru),Spa,uy,
+504,Teledoce,MPEG-4/HD,505.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Teledoce,https://www.lyngsat.com/tvchannels/uy/Teledoce.html,,,False,América (Peru),Spa,uy,
+504,Teledoce,MPEG-4/HD,505.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Teledoce,https://www.lyngsat.com/tvchannels/uy/Teledoce.html,,,False,América (Peru),Spa,uy,
+900,Teledoce,MPEG-4/SD,901.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Teledoce,https://www.lyngsat.com/tvchannels/uy/Teledoce.html,,,False,América (Peru),Spa,uy,
+900,Teledoce,MPEG-4/SD,901.0,DVB-S2,9600.0,2/3,3935 L,tp 66,0.0,,,Teledoce,https://www.lyngsat.com/tvchannels/uy/Teledoce.html,,,False,América (Peru),Spa,uy,
+,City TV (Colombia),0-3,,DVB-S2,4332.0,2/3,3962 R,tp 67,0.0,,https://www.lyngsat.com/providers/co/City-TV.html,City TV (Colombia),https://www.lyngsat.com/tvchannels/co/City-TV.html,,,True,City TV (Colombia),,co,co
+1,City TV (Colombia),MPEG-4/HD,257.0,DVB-S2,4332.0,2/3,3962 R,tp 67,0.0,,https://www.lyngsat.com/providers/co/City-TV.html,City TV (Colombia),https://www.lyngsat.com/tvchannels/co/City-TV.html,,,True,City TV (Colombia),Spa,co,co
+2,El Tiempo TV,MPEG-4/HD,513.0,DVB-S2,4332.0,2/3,3962 R,tp 67,0.0,BISS 1,,El Tiempo TV,https://www.lyngsat.com/tvchannels/co/El-Tiempo-TV.html,,,False,City TV (Colombia),Spa,co,
+,Canal Capital,.-.,,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,,co,co
+,Canal Capital,.-.,,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,,co,co
+,Canal Capital,.-.,,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,,co,co
+,Canal Capital,.-.,,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,,co,co
+6141,Canal Capital,MPEG-4/HD,1071.0,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+6141,Canal Capital,MPEG-4/HD,1071.0,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+6141,Canal Capital,MPEG-4/HD,1071.0,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+6141,Canal Capital,MPEG-4/HD,1071.0,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+5,Canal Capital,MPEG-4/SD,1051.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+5,Canal Capital,MPEG-4/SD,1051.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+5,Canal Capital,MPEG-4/SD,1051.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+5,Canal Capital,MPEG-4/SD,1051.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-Capital.html,Canal Capital,https://www.lyngsat.com/tvchannels/co/Canal-Capital.html,,,True,Canal Capital,Spa,co,co
+6142,Canal Capital Eureka,MPEG-4/HD,3021.0,DVB-S2,4332.0,2/3,3962 L,tp 68,0.0,,,Canal Capital Eureka,https://www.lyngsat.com/tvchannels/co/Canal-Capital-Eureka.html,,,False,Canal Capital,Spa,co,
+1,Telemedellín,65535-1HEVC/HD,513.0,DVB-S2,1920.0,2/3,3974 R,tp 67,0.0,,,,,,,False,Canal Capital,Spa,,
+,ESPN Brasil,1-101,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,https://www.lyngsat.com/providers/us/ESPN-Brasil.html,ESPN Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-Brasil.html,,,True,ESPN Brasil,,us,us
+111,ESPN Brasil,MPEG-4/HD,100.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,https://www.lyngsat.com/providers/us/ESPN-Brasil.html,ESPN Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-Brasil.html,,,True,ESPN Brasil,Por Eng,us,us
+112,ESPN 2 Brasil,MPEG-4/HD,200.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,ESPN 2 Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-2-Brasil.html,,,False,ESPN Brasil,Por Eng,us,
+113,ESPN 6 Brasil,MPEG-4/HD,400.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,ESPN 6 Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-6-Brasil.html,,,False,ESPN Brasil,Por Eng,us,
+114,ESPN 4 Brasil,MPEG-4/HD,500.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,ESPN 4 Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-4-Brasil.html,,,False,ESPN Brasil,Por Eng Por,us,
+115,ESPN 5 Brasil,MPEG-4/HD,600.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,ESPN 5 Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-5-Brasil.html,,,False,ESPN Brasil,Por Por,us,
+201,ESPN 3 Brasil,MPEG-4/HD,300.0,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,ESPN 3 Brasil,https://www.lyngsat.com/tvchannels/us/ESPN-3-Brasil.html,,,False,ESPN Brasil,Por Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+555,Rádio Disney Brasil,,,DVB-S2,21600.0,3/4,3980 L,tp 68,0.0,PowerVu,,Rádio Disney Brasil,https://www.lyngsat.com/radiochannels/us/Radio-Disney-Brasil.html,,,False,ESPN Brasil,Eng,us,
+,Trece (Colombia),8362-3001,,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),,co,co
+,Trece (Colombia),8362-3001,,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),,co,co
+,Trece (Colombia),8362-3001,,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),,co,co
+,Trece (Colombia),8362-3001,,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),,co,co
+6001,Trece (Colombia),MPEG-4/HD,5011.0,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6001,Trece (Colombia),MPEG-4/HD,5011.0,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6001,Trece (Colombia),MPEG-4/HD,5011.0,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6001,Trece (Colombia),MPEG-4/HD,5011.0,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6,Trece (Colombia),MPEG-4/SD,1061.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6,Trece (Colombia),MPEG-4/SD,1061.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6,Trece (Colombia),MPEG-4/SD,1061.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6,Trece (Colombia),MPEG-4/SD,1061.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Trece.html,Trece (Colombia),https://www.lyngsat.com/tvchannels/co/Trece.html,,,True,Trece (Colombia),Spa,co,co
+6002,Trece+,MPEG-4/HD,5021.0,DVB-S2,21600.0,3/4,4000 L,tp 70,0.0,,,Trece+,https://www.lyngsat.com/tvchannels/co/Trece-.html,,,False,Trece (Colombia),Spa,co,
+,RTVC,8362-30,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/RTVC.html,,,,,True,RTVC,,,co
+,RTVC,8362-30,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/RTVC.html,,,,,True,RTVC,,,co
+,RTVC,8362-1,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/RTVC.html,,,,,True,RTVC,,,co
+,RTVC,8362-1,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/RTVC.html,,,,,True,RTVC,,,co
+41,Señal Colombia,MPEG-4/HD,2011.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+41,Señal Colombia,MPEG-4/HD,2011.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+41,Señal Colombia,MPEG-4/HD,2011.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+41,Señal Colombia,MPEG-4/HD,2011.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+3,Señal Colombia,MPEG-4/SD,1031.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+3,Señal Colombia,MPEG-4/SD,1031.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+3,Señal Colombia,MPEG-4/SD,1031.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+3,Señal Colombia,MPEG-4/SD,1031.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Señal Colombia,https://www.lyngsat.com/tvchannels/co/Senal-Colombia.html,,,False,RTVC,Spa,co,
+42,Canal Institucional TV,MPEG-4/HD,2021.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+42,Canal Institucional TV,MPEG-4/HD,2021.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+42,Canal Institucional TV,MPEG-4/HD,2021.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+42,Canal Institucional TV,MPEG-4/HD,2021.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+2,Canal Institucional TV,MPEG-4/SD,1021.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+2,Canal Institucional TV,MPEG-4/SD,1021.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+2,Canal Institucional TV,MPEG-4/SD,1021.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+2,Canal Institucional TV,MPEG-4/SD,1021.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal Institucional TV,https://www.lyngsat.com/tvchannels/co/Canal-Institucional-TV.html,,,False,RTVC,Spa,co,
+43,Canal 1 (Colombia),MPEG-4/HD,2031.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal 1 (Colombia),https://www.lyngsat.com/tvchannels/co/Canal-1.html,,,False,RTVC,Spa,co,
+43,Canal 1 (Colombia),MPEG-4/HD,2031.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Canal 1 (Colombia),https://www.lyngsat.com/tvchannels/co/Canal-1.html,,,False,RTVC,Spa,co,
+1,Canal 1 (Colombia),MPEG-4/SD,1011.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal 1 (Colombia),https://www.lyngsat.com/tvchannels/co/Canal-1.html,,,False,RTVC,Spa,co,
+1,Canal 1 (Colombia),MPEG-4/SD,1011.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal 1 (Colombia),https://www.lyngsat.com/tvchannels/co/Canal-1.html,,,False,RTVC,Spa,co,
+46,[Exploremos test card],MPEG-4/SD,2062.0,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,,,,,False,RTVC,Spa,,
+44,Radiónica,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+44,Radiónica,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+44,Radiónica,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+44,Radiónica,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+14,Radiónica,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+14,Radiónica,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+14,Radiónica,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+14,Radiónica,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radiónica,https://www.lyngsat.com/radiochannels/co/Radionica.html,,,False,RTVC,Spa,co,
+45,Radio Nacional de Colombia,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+45,Radio Nacional de Colombia,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+45,Radio Nacional de Colombia,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+45,Radio Nacional de Colombia,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+13,Radio Nacional de Colombia,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+13,Radio Nacional de Colombia,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+13,Radio Nacional de Colombia,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+13,Radio Nacional de Colombia,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional de Colombia,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-de-Colombia.html,,,False,RTVC,Spa,co,
+46,Exploremos,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Exploremos,https://www.lyngsat.com/radiochannels/co/Exploremos.html,,,False,RTVC,Spa,co,
+46,Exploremos,,,DVB-S2,21600.0,3/4,4012 L,tp 70,0.0,,,Exploremos,https://www.lyngsat.com/radiochannels/co/Exploremos.html,,,False,RTVC,Spa,co,
+,RCN,12289-10,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,12289-10,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,12289-10,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,12289-11,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,12289-11,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,12289-11,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,1-1,,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,1-1,,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+,RCN,1-1,,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",https://www.lyngsat.com/providers/co/RCN.html,,,,,True,RCN,,,co
+2,RCN TV,MPEG-4/HD,101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+2,RCN TV,MPEG-4/HD,101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+2,RCN TV,MPEG-4/HD,101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/SD,1101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/SD,1101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/SD,1101.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/HD,101.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/HD,101.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+1,RCN TV,MPEG-4/HD,101.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,Director,,RCN TV,https://www.lyngsat.com/tvchannels/co/RCN-TV.html,,,False,RCN,Spa,co,
+3,RCN HD2,MPEG-4/HD,301.0,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN HD2,https://www.lyngsat.com/tvchannels/co/RCN-HD2.html,,,False,RCN,Spa,co,
+5,RCN Radio,,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN Radio,https://www.lyngsat.com/radiochannels/co/RCN-Radio.html,,,False,RCN,Spa,co,
+5,RCN Radio,,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,RCN Radio,https://www.lyngsat.com/radiochannels/co/RCN-Radio.html,,,False,RCN,Spa,co,
+6,La FM,,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,La FM,https://www.lyngsat.com/radiochannels/co/La-FM.html,,,False,RCN,Spa,co,
+6,La FM,,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,La FM,https://www.lyngsat.com/radiochannels/co/La-FM.html,,,False,RCN,Spa,co,
+7,Radio 1 (Colombia),,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,Radio 1 (Colombia),https://www.lyngsat.com/radiochannels/co/Radio-1.html,,,False,RCN,Spa,co,
+7,Radio 1 (Colombia),,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,Radio 1 (Colombia),https://www.lyngsat.com/radiochannels/co/Radio-1.html,,,False,RCN,Spa,co,
+8,La Mega (Colombia),,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,La Mega (Colombia),https://www.lyngsat.com/radiochannels/co/La-Mega.html,,,False,RCN,Spa,co,
+8,La Mega (Colombia),,,DVB-S2,21600.0,3/4,4019 R,tp 69,0.0,Director,,La Mega (Colombia),https://www.lyngsat.com/radiochannels/co/La-Mega.html,,,False,RCN,Spa,co,
+4,Canal Congreso,MPEG-4/HD,1041.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Canal Congreso,https://www.lyngsat.com/tvchannels/co/Canal-Congreso.html,,,False,RCN,Spa,co,
+7,Teleantioquia,MPEG-4/SD,1071.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+7,Teleantioquia,MPEG-4/SD,1071.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+7,Teleantioquia,MPEG-4/SD,1071.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+7,Teleantioquia,MPEG-4/SD,1071.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+,Teleantioquia,.-.,,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,,co,co
+,Teleantioquia,.-.,,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,,co,co
+,Teleantioquia,.-.,,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,,co,co
+,Teleantioquia,.-.,,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,,co,co
+6081,Teleantioquia,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+6081,Teleantioquia,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+6081,Teleantioquia,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+6081,Teleantioquia,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Teleantioquia.html,Teleantioquia,https://www.lyngsat.com/tvchannels/co/Teleantioquia.html,,,True,Teleantioquia,Spa,co,co
+8,Telecaribe,MPEG-4/SD,1081.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+8,Telecaribe,MPEG-4/SD,1081.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+8,Telecaribe,MPEG-4/SD,1081.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+8,Telecaribe,MPEG-4/SD,1081.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+,Telecaribe,8362-3011,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,,co,co
+,Telecaribe,8362-3011,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,,co,co
+,Telecaribe,8362-3011,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,,co,co
+,Telecaribe,8362-3011,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,,co,co
+6021,Telecaribe,MPEG-4/HD,512.0,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+6021,Telecaribe,MPEG-4/HD,512.0,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+6021,Telecaribe,MPEG-4/HD,512.0,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+6021,Telecaribe,MPEG-4/HD,512.0,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,https://www.lyngsat.com/providers/co/Telecaribe.html,Telecaribe,https://www.lyngsat.com/tvchannels/co/Telecaribe.html,,,True,Telecaribe,Spa,co,co
+9,Telepacífico,MPEG-4/SD,1091.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+9,Telepacífico,MPEG-4/SD,1091.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+9,Telepacífico,MPEG-4/SD,1091.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+9,Telepacífico,MPEG-4/SD,1091.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+,Telepacífico,.-.,,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,,co,co
+,Telepacífico,.-.,,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,,co,co
+,Telepacífico,.-.,,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,,co,co
+,Telepacífico,.-.,,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,,co,co
+6121,Telepacífico,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+6121,Telepacífico,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+6121,Telepacífico,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+6121,Telepacífico,MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telepacifico.html,Telepacífico,https://www.lyngsat.com/tvchannels/co/Telepacifico.html,,,True,Telepacífico,Spa,co,co
+10,Telecafé (Colombia),MPEG-4/SD,1101.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+10,Telecafé (Colombia),MPEG-4/SD,1101.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+10,Telecafé (Colombia),MPEG-4/SD,1101.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+10,Telecafé (Colombia),MPEG-4/SD,1101.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+,Telecafé (Colombia),.-.,,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),,co,co
+,Telecafé (Colombia),.-.,,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),,co,co
+,Telecafé (Colombia),.-.,,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),,co,co
+,Telecafé (Colombia),.-.,,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),,co,co
+6041,Telecafé (Colombia),MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+6041,Telecafé (Colombia),MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+6041,Telecafé (Colombia),MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+6041,Telecafé (Colombia),MPEG-4/HD,512.0,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,https://www.lyngsat.com/providers/co/Telecafe.html,Telecafé (Colombia),https://www.lyngsat.com/tvchannels/co/Telecafe.html,,,True,Telecafé (Colombia),Spa,co,co
+11,Canal TRO,MPEG-4/SD,1111.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+11,Canal TRO,MPEG-4/SD,1111.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+11,Canal TRO,MPEG-4/SD,1111.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+11,Canal TRO,MPEG-4/SD,1111.0,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+,Canal TRO,.-.,,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,,co,co
+,Canal TRO,.-.,,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,,co,co
+,Canal TRO,.-.,,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,,co,co
+,Canal TRO,.-.,,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,,co,co
+6101,Canal TRO,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+6101,Canal TRO,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+6101,Canal TRO,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+6101,Canal TRO,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,https://www.lyngsat.com/providers/co/Canal-TRO.html,Canal TRO,https://www.lyngsat.com/tvchannels/co/Canal-TRO.html,,,True,Canal TRO,Spa,co,co
+17,Radio Nacional Barranquilla,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Barranquilla,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Barranquilla.html,,,False,Canal TRO,Spa,co,
+18,Radio Nacional Quibdo,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Quibdo,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Quibdo.html,,,False,Canal TRO,Spa,co,
+19,Radio Nacional Villavicencio,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Villavicencio,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Villavicencio.html,,,False,Canal TRO,Spa,co,
+21,Radio Nacional Fonseca,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Fonseca,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Fonseca.html,,,False,Canal TRO,Spa,co,
+22,Radio Nacional Convención,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Convención,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Convencion.html,,,False,Canal TRO,Spa,co,
+23,Radio Nacional San Jacinto,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional San Jacinto,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-San-Jacinto.html,,,False,Canal TRO,Spa,co,
+24,Radio Nacional Chaparral,,,DVB-S2,12832.0,3/4,4025 L,tp 70,0.0,,,Radio Nacional Chaparral,https://www.lyngsat.com/radiochannels/co/Radio-Nacional-Chaparral.html,,,False,Canal TRO,Spa,co,
+2,RCN Nuestra Tele Internacional,MPEG-4/SD,201.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",,RCN Nuestra Tele Internacional,https://www.lyngsat.com/tvchannels/co/RCN-Nuestra-Tele-Internacional.html,,,False,Canal TRO,Spa,co,
+3,NTN 24 Internacional,MPEG-4/SD,301.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",,NTN 24 Internacional,https://www.lyngsat.com/tvchannels/co/NTN-24-Internacional.html,,,False,Canal TRO,Spa,co,
+4,RCN Novelas,MPEG-4/SD,401.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",,RCN Novelas,https://www.lyngsat.com/tvchannels/co/RCN-Novelas.html,,,False,Canal TRO,Spa,co,
+5,RCN Nuestra Tele,MPEG-4/SD,701.0,DVB-S2,8000.0,3/4,4028 R,tp 69,0.0,"Director,Irdeto",,RCN Nuestra Tele,https://www.lyngsat.com/tvchannels/co/RCN-Nuestra-Tele.html,,,False,Canal TRO,Spa,co,
+356,Studio Universal Chile,1-401MPEG-4/HD,4340.0,DVB-S2,2500.0,5/6,4038 R,tp 71,0.0,,,,,,,False,Canal TRO,Spa Eng,,
+1,Tele Amiga,65535-1MPEG-2/SD,1160.0,DVB-S,2570.0,7/8,4042 L,tp 72,0.0,,,,,,,False,Canal TRO,Spa,,
+,(Racetrack TV Network feeds),,,DVB-S2,7500.0,3/4,4054 L,tp 72,,,,,,,,False,Canal TRO,,,
+,VTV,1-201,,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,https://www.lyngsat.com/providers/uy/VTV.html,,,,,True,VTV,,,uy
+11,VTV (Uruguay),MPEG-4/HD,110.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,VTV (Uruguay),https://www.lyngsat.com/tvchannels/uy/VTV.html,,,False,VTV,Spa Spa,uy,
+13,Gol TV,MPEG-4/HD,210.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,Gol TV,https://www.lyngsat.com/tvchannels/us/Gol-TV.html,,,False,VTV,Spa Spa,us,
+15,VTV Plus,MPEG-4/HD,310.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,VTV Plus,https://www.lyngsat.com/tvchannels/uy/VTV-Plus.html,,,False,VTV,Spa Spa,uy,
+17,Gol TV Ecuador,MPEG-4/HD,410.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,Gol TV Ecuador,https://www.lyngsat.com/tvchannels/us/Gol-TV-Ecuador.html,,,False,VTV,Spa Spa,us,
+19,Gol TV Uruguay,MPEG-4/HD,510.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,Gol TV Uruguay,https://www.lyngsat.com/tvchannels/us/Gol-TV-Uruguay.html,,,False,VTV,Spa Spa,us,
+21,(Gol TV feeds),,610.0,DVB-S2,20000.0,5/6,4061 R,tp 71,0.0,PowerVu,,,,,,False,VTV,,,
+6061,Teleislas Channel,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4061 L,tp 72,0.0,,,Teleislas Channel,https://www.lyngsat.com/tvchannels/co/Teleislas-Channel.html,,,False,VTV,Spa,co,
+6061,Teleislas Channel,MPEG-4/HD,512.0,DVB-S2,4285.0,3/4,4061 L,tp 72,0.0,,,Teleislas Channel,https://www.lyngsat.com/tvchannels/co/Teleislas-Channel.html,,,False,VTV,Spa,co,
+6062,Raizal TV,MPEG-4/HD,522.0,DVB-S2,4285.0,3/4,4061 L,tp 72,0.0,,,Raizal TV,https://www.lyngsat.com/tvchannels/co/Raizal-TV.html,,,False,VTV,Eng,co,
+6102,Canal TRO +,MPEG-4/HD,513.0,DVB-S2,4285.0,3/4,4066 L,tp 72,0.0,,,Canal TRO +,https://www.lyngsat.com/tvchannels/co/Canal-TRO--.html,,,False,VTV,Spa,co,
+311,TV Pública,1-301MPEG-4/HD,3110.0,DVB-S2,3300.0,5/6,4071 L,tp 72,0.0,,,,,,,False,VTV,Spa,,
+311,Radio Nacional Folklórica,,,DVB-S2,3300.0,5/6,4071 L,tp 72,0.0,,,Radio Nacional Folklórica,https://www.lyngsat.com/radiochannels/ar/Radio-Nacional-Folklorica.html,,,False,VTV,Spa,ar,
+311,Radio Nacional Folklórica,,,DVB-S2,3300.0,5/6,4071 L,tp 72,0.0,,,Radio Nacional Folklórica,https://www.lyngsat.com/radiochannels/ar/Radio-Nacional-Folklorica.html,,,False,VTV,Spa,ar,
+,Novo Tempo,1-1,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,https://www.lyngsat.com/providers/us/Novo-Tempo.html,,,,,True,Novo Tempo,,,us
+1,TV Novo Tempo Brasil,MPEG-4/HD,100.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+1,TV Novo Tempo Brasil,MPEG-4/HD,100.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+1,TV Novo Tempo Brasil,MPEG-4/HD,100.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+1,TV Novo Tempo Brasil,MPEG-4/HD,100.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+4,TV Novo Tempo Brasil,MPEG-2/SD,400.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+4,TV Novo Tempo Brasil,MPEG-2/SD,400.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+4,TV Novo Tempo Brasil,MPEG-2/SD,400.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+4,TV Novo Tempo Brasil,MPEG-2/SD,400.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Novo Tempo Brasil,https://www.lyngsat.com/tvchannels/us/TV-Novo-Tempo-Brasil.html,,,False,Novo Tempo,Por,us,
+2,TV Nuevo Tiempo,MPEG-4/HD,200.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Nuevo Tiempo,https://www.lyngsat.com/tvchannels/us/TV-Nuevo-Tiempo.html,,,False,Novo Tempo,Spa Spa,us,
+2,TV Nuevo Tiempo,MPEG-4/HD,200.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,TV Nuevo Tiempo,https://www.lyngsat.com/tvchannels/us/TV-Nuevo-Tiempo.html,,,False,Novo Tempo,Spa Spa,us,
+3,Hope Channel Inter-America,MPEG-4/HD,300.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Hope Channel Inter-America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America.html,,,False,Novo Tempo,Spa Por,us,
+3,Hope Channel Inter-America,MPEG-4/HD,300.0,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Hope Channel Inter-America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America.html,,,False,Novo Tempo,Spa Por,us,
+5,Rádio Novo Tempo,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,,,False,Novo Tempo,Por,us,
+5,Rádio Novo Tempo,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Rádio Novo Tempo,https://www.lyngsat.com/radiochannels/us/Radio-Novo-Tempo.html,,,False,Novo Tempo,Por,us,
+6,Radio Nuevo Tiempo,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo.html,,,False,Novo Tempo,Spa,us,
+6,Radio Nuevo Tiempo,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo.html,,,False,Novo Tempo,Spa,us,
+7,Radio Nuevo Tiempo Bolivia,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Bolivia,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Bolivia.html,,,False,Novo Tempo,Spa,us,
+7,Radio Nuevo Tiempo Bolivia,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Bolivia,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Bolivia.html,,,False,Novo Tempo,Spa,us,
+8,Radio Nuevo Tiempo Argentina,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Argentina,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Argentina.html,,,False,Novo Tempo,Spa,us,
+8,Radio Nuevo Tiempo Argentina,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Argentina,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Argentina.html,,,False,Novo Tempo,Spa,us,
+9,Radio Nuevo Tiempo Perú,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Perú,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Peru.html,,,False,Novo Tempo,Spa,us,
+9,Radio Nuevo Tiempo Perú,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Perú,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Peru.html,,,False,Novo Tempo,Spa,us,
+10,Radio Nuevo Tiempo Chile,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Chile,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Chile.html,,,False,Novo Tempo,Spa,us,
+10,Radio Nuevo Tiempo Chile,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Chile,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Chile.html,,,False,Novo Tempo,Spa,us,
+11,Radio Nuevo Tiempo Paraguay,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Paraguay,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Paraguay.html,,,False,Novo Tempo,Spa,us,
+11,Radio Nuevo Tiempo Paraguay,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Paraguay,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Paraguay.html,,,False,Novo Tempo,Spa,us,
+12,Radio Nuevo Tiempo Uruguay,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Uruguay,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Uruguay.html,,,False,Novo Tempo,Spa,us,
+12,Radio Nuevo Tiempo Uruguay,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Uruguay,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Uruguay.html,,,False,Novo Tempo,Spa,us,
+13,Radio Nuevo Tiempo Ecuador,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Ecuador,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Ecuador.html,,,False,Novo Tempo,Spa,us,
+13,Radio Nuevo Tiempo Ecuador,,,DVB-S2,15000.0,2/3,4086 L,tp 74,0.0,,,Radio Nuevo Tiempo Ecuador,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo-Ecuador.html,,,False,Novo Tempo,Spa,us,
+2,Film & Arts América Latina,MPEG-4/HD,513.0,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,,Film & Arts América Latina,https://www.lyngsat.com/tvchannels/ar/Film-and-Arts-America-Latina.html,,,False,Novo Tempo,Spa Eng Spa,ar,
+5,Europa Europa,MPEG-4/HD,516.0,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,,Europa Europa,https://www.lyngsat.com/tvchannels/uk/Europa-Europa.html,,,False,Novo Tempo,Spa Eng Spa,uk,
+7,El Gourmet Sur,MPEG-4/HD,518.0,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,,El Gourmet Sur,https://www.lyngsat.com/tvchannels/ar/El-Gourmet-Sur.html,,,False,Novo Tempo,Spa Eng Ger,ar,
+14,AMC Andina,MPEG-4/HD,120.0,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,,AMC Andina,https://www.lyngsat.com/tvchannels/us/AMC-Andina.html,,,False,Novo Tempo,Eng Ger Spa,us,
+17,Más Chic Lationamérica,MPEG-4/HD,1660.0,DVB-S2,30000.0,5/6,4095 R,tp 73,0.0,PowerVu,,Más Chic Lationamérica,https://www.lyngsat.com/tvchannels/us/Mas-Chic-Lationamerica.html,,,False,Novo Tempo,Eng Ger Spa,us,
+6042,Telecafé 2,MPEG-4/SD,513.0,DVB-S2,30000.0,5/6,4098 L,tp 74,0.0,,,Telecafé 2,https://www.lyngsat.com/tvchannels/co/Telecafe-2.html,,,False,Novo Tempo,Spa,co,
+6083,Teleantioquia Go,MPEG-4/HD,513.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,,Teleantioquia Go,https://www.lyngsat.com/tvchannels/co/Teleantioquia-Go.html,,,False,Novo Tempo,Spa,co,
+6083,Teleantioquia Go,MPEG-4/HD,513.0,DVB-S2,30000.0,5/6,4104 L,tp 74,0.0,,,Teleantioquia Go,https://www.lyngsat.com/tvchannels/co/Teleantioquia-Go.html,,,False,Novo Tempo,Spa,co,
+6122,Origen Channel,MPEG-4/HD,513.0,DVB-S2,30000.0,5/6,4110 L,tp 74,0.0,,,Origen Channel,https://www.lyngsat.com/tvchannels/co/Origen-Channel.html,,,False,Novo Tempo,Spa,co,
+,BFBS,18-4,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,https://www.lyngsat.com/providers/uk/BFBS.html,,,,,True,BFBS,,,uk
+8201,BBC One,MPEG-4/SD,101.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BBC One,https://www.lyngsat.com/tvchannels/uk/BBC-One.html,,,False,BFBS,Eng,uk,
+8202,CBBC (07-18),MPEG-4/SD,102.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,CBBC (07-18),https://www.lyngsat.com/tvchannels/uk/CBBC.html,,,False,BFBS,Eng,uk,
+8202,BBC Two (18-07),MPEG-4/SD,102.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BBC Two (18-07),https://www.lyngsat.com/tvchannels/uk/BBC-Two.html,,,False,BFBS,Eng,uk,
+8203,ITV 1 London,MPEG-4/SD,103.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,ITV 1 London,https://www.lyngsat.com/tvchannels/uk/ITV-1-London.html,,,False,BFBS,Eng,uk,
+8205,Sky Sports Main Event UK,MPEG-4/SD,105.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,Sky Sports Main Event UK,https://www.lyngsat.com/tvchannels/uk/Sky-Sports-Main-Event-UK.html,,,False,BFBS,Eng,uk,
+8206,TNT Sports 1,MPEG-4/SD,106.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,TNT Sports 1,https://www.lyngsat.com/tvchannels/us/TNT-Sports-1.html,,,False,BFBS,Eng,us,
+8207,BFBS Sport,MPEG-4/SD,107.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Sport,https://www.lyngsat.com/tvchannels/uk/BFBS-Sport.html,,,False,BFBS,Eng,uk,
+8208,Sky News UK,MPEG-4/SD,108.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,Sky News UK,https://www.lyngsat.com/tvchannels/uk/Sky-News-UK.html,,,False,BFBS,Eng,uk,
+8209,Channel 4 London Delay,MPEG-4/SD,109.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,Channel 4 London Delay,https://www.lyngsat.com/tvchannels/uk/Channel-4-London-Delay.html,,,False,BFBS,Eng,uk,
+8210,Channel 5 Delay,MPEG-4/SD,110.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,Channel 5 Delay,https://www.lyngsat.com/tvchannels/uk/Channel-5-Delay.html,,,False,BFBS,Eng,uk,
+8211,BBC One Delay,MPEG-4/SD,111.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BBC One Delay,https://www.lyngsat.com/tvchannels/uk/BBC-One-Delay.html,,,False,BFBS,Eng,uk,
+8212,BBC Two Delay,MPEG-4/SD,112.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BBC Two Delay,https://www.lyngsat.com/tvchannels/uk/BBC-Two-Delay.html,,,False,BFBS,Eng,uk,
+8213,ITV 1 Delay,MPEG-4/SD,113.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,ITV 1 Delay,https://www.lyngsat.com/tvchannels/uk/ITV-1-Delay.html,,,False,BFBS,Eng,uk,
+8214,BFBS Extra Delay,MPEG-4/SD,114.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Extra Delay,https://www.lyngsat.com/tvchannels/uk/BFBS-Extra-Delay.html,,,False,BFBS,Eng,uk,
+8217,Sky Cinema Delay,MPEG-4/SD,117.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,Sky Cinema Delay,https://www.lyngsat.com/tvchannels/uk/Sky-Cinema-Delay.html,,,False,BFBS,Eng,uk,
+8218,NTV National,MPEG-4/SD,118.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,NTV National,https://www.lyngsat.com/tvchannels/np/NTV-National.html,,,False,BFBS,Nep,np,
+8218,NTV National,MPEG-4/SD,118.0,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,NTV National,https://www.lyngsat.com/tvchannels/np/NTV-National.html,,,False,BFBS,Nep,np,
+8223,BFBS UK Bases,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS UK Bases,https://www.lyngsat.com/radiochannels/uk/BFBS-UK-Bases.html,,,False,BFBS,Eng,uk,
+8224,BFBS Radio 2,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Radio 2,https://www.lyngsat.com/radiochannels/uk/BFBS-Radio-2.html,,,False,BFBS,Eng,uk,
+8224,BFBS Radio 2,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Radio 2,https://www.lyngsat.com/radiochannels/uk/BFBS-Radio-2.html,,,False,BFBS,Eng,uk,
+8226,BFBS Best of British,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Best of British,https://www.lyngsat.com/radiochannels/uk/BFBS-Best-of-British.html,,,False,BFBS,Eng,uk,
+8226,BFBS Best of British,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Best of British,https://www.lyngsat.com/radiochannels/uk/BFBS-Best-of-British.html,,,False,BFBS,Eng,uk,
+8227,BFBS UK National,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS UK National,https://www.lyngsat.com/radiochannels/uk/BFBS-UK-National.html,,,False,BFBS,Eng,uk,
+8231,BFBS Germany,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Germany,https://www.lyngsat.com/radiochannels/uk/BFBS-Germany.html,,,False,BFBS,Eng,uk,
+8231,BFBS Germany,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Germany,https://www.lyngsat.com/radiochannels/uk/BFBS-Germany.html,,,False,BFBS,Eng,uk,
+8232,BFBS Beats,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Beats,https://www.lyngsat.com/radiochannels/uk/BFBS-Beats.html,,,False,BFBS,Eng,uk,
+8232,BFBS Beats,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Beats,https://www.lyngsat.com/radiochannels/uk/BFBS-Beats.html,,,False,BFBS,Eng,uk,
+8233,BFBS Gurkha Network,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Gurkha Network,https://www.lyngsat.com/radiochannels/uk/BFBS-Gurkha-Network.html,,,False,BFBS,,uk,
+8233,BFBS Gurkha Network,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Gurkha Network,https://www.lyngsat.com/radiochannels/uk/BFBS-Gurkha-Network.html,,,False,BFBS,,uk,
+8234,BFBS Edge,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Edge,https://www.lyngsat.com/radiochannels/uk/BFBS-Edge.html,,,False,BFBS,Eng,uk,
+8234,BFBS Edge,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Edge,https://www.lyngsat.com/radiochannels/uk/BFBS-Edge.html,,,False,BFBS,Eng,uk,
+8235,BFBS Rewind,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Rewind,https://www.lyngsat.com/radiochannels/uk/BFBS-Rewind.html,,,False,BFBS,Eng,uk,
+8235,BFBS Rewind,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Rewind,https://www.lyngsat.com/radiochannels/uk/BFBS-Rewind.html,,,False,BFBS,Eng,uk,
+8236,BFBS Canada,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Canada,https://www.lyngsat.com/radiochannels/uk/BFBS-Canada.html,,,False,BFBS,Eng,uk,
+8236,BFBS Canada,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BFBS Canada,https://www.lyngsat.com/radiochannels/uk/BFBS-Canada.html,,,False,BFBS,Eng,uk,
+8237,BFBS Shamishran,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Shamishran,https://www.lyngsat.com/radiochannels/uk/BFBS-Shamishran.html,,,False,BFBS,,uk,
+8238,BFBS Falklands,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Falklands,https://www.lyngsat.com/radiochannels/uk/BFBS-Falklands.html,,,False,BFBS,Eng,uk,
+8238,BFBS Falklands,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Falklands,https://www.lyngsat.com/radiochannels/uk/BFBS-Falklands.html,,,False,BFBS,Eng,uk,
+8239,Falklands Radio,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,Falklands Radio,https://www.lyngsat.com/radiochannels/fk/Falklands-Radio.html,,,False,BFBS,Eng,fk,
+8239,Falklands Radio,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,Falklands Radio,https://www.lyngsat.com/radiochannels/fk/Falklands-Radio.html,,,False,BFBS,Eng,fk,
+8240,BBC World Service English,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,Irdeto,,BBC World Service English,https://www.lyngsat.com/radiochannels/uk/BBC-World-Service-English.html,,,False,BFBS,Eng,uk,
+8246,BFBS Belize,,,DVB-S2,22500.0,3/5,4133 R,tp 75,0.0,,,BFBS Belize,https://www.lyngsat.com/radiochannels/uk/BFBS-Belize.html,,,False,BFBS,Eng,uk,
+100,Fox Sports Argentina,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Fox Sports Argentina,https://www.lyngsat.com/tvchannels/us/Fox-Sports-Argentina.html,,,False,BFBS,Eng Spa,us,
+200,Fox Sports 2 Argentina,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Fox Sports 2 Argentina,https://www.lyngsat.com/tvchannels/us/Fox-Sports-2-Argentina.html,,,False,BFBS,Eng Spa,us,
+300,Fox Sports 3 Argentina,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Fox Sports 3 Argentina,https://www.lyngsat.com/tvchannels/us/Fox-Sports-3-Argentina.html,,,False,BFBS,Eng Spa,us,
+401,USA Network Brasil,MPEG-4/HD,1110.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,USA Network Brasil,https://www.lyngsat.com/tvchannels/us/USA-Network-Brasil.html,,,False,BFBS,Por Eng Por Eng,us,
+402,Studio Universal Brasil,MPEG-4/HD,1120.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Studio Universal Brasil,https://www.lyngsat.com/tvchannels/us/Studio-Universal-Brasil.html,,,False,BFBS,Por Eng Por Eng,us,
+403,DreamWorks TV Latin America,MPEG-4/HD,1130.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,DreamWorks TV Latin America,https://www.lyngsat.com/tvchannels/us/DreamWorks-TV-Latin-America.html,,,False,BFBS,Por,us,
+404,E! Brasil,MPEG-4/HD,1140.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,E! Brasil,https://www.lyngsat.com/tvchannels/us/E-Brasil.html,,,False,BFBS,Por,us,
+405,Universal Premiere,MPEG-4/SD,1150.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Universal Premiere,https://www.lyngsat.com/tvchannels/us/Universal-Premiere.html,,,False,BFBS,Por Eng,us,
+406,Universal Reality,MPEG-4/SD,1160.0,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,PowerVu,,Universal Reality,https://www.lyngsat.com/tvchannels/us/Universal-Reality.html,,,False,BFBS,Por Eng,us,
+701,Cocktail Lounge,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Cocktail Lounge,https://www.lyngsat.com/radiochannels/ca/Cocktail-Lounge.html,,,False,BFBS,,ca,
+702,Opéra Plus,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Opéra Plus,https://www.lyngsat.com/radiochannels/ca/Opera-Plus.html,,,False,BFBS,,ca,
+703,The Chill Lounge,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,The Chill Lounge,https://www.lyngsat.com/radiochannels/ca/The-Chill-Lounge.html,,,False,BFBS,,ca,
+704,Jazz Masters,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Jazz Masters,https://www.lyngsat.com/radiochannels/ca/Jazz-Masters.html,,,False,BFBS,,ca,
+705,Rock Alternative,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Rock Alternative,https://www.lyngsat.com/radiochannels/ca/Rock-Alternative.html,,,False,BFBS,,ca,
+706,Nothin' but '90s,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Nothin' but '90s,https://www.lyngsat.com/radiochannels/ca/Nothin-but-90s.html,,,False,BFBS,,ca,
+707,Hard Rock,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Hard Rock,https://www.lyngsat.com/radiochannels/ca/Hard-Rock.html,,,False,BFBS,,ca,
+708,Soho 70s,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Soho 70s,https://www.lyngsat.com/radiochannels/ca/Soho-70s.html,,,False,BFBS,,ca,
+709,Everything 80s,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Everything 80s,https://www.lyngsat.com/radiochannels/ca/Everything-80s.html,,,False,BFBS,,ca,
+710,Silk,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Silk,https://www.lyngsat.com/radiochannels/ca/Silk.html,,,False,BFBS,,ca,
+711,Latino Tropical,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Latino Tropical,https://www.lyngsat.com/radiochannels/ca/Latino-Tropical.html,,,False,BFBS,,ca,
+712,Solo para Peques,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Solo para Peques,https://www.lyngsat.com/radiochannels/ca/Solo-para-Peques.html,,,False,BFBS,,ca,
+713,Total Hits Brazil,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Total Hits Brazil,https://www.lyngsat.com/radiochannels/ca/Total-Hits-Brazil.html,,,False,BFBS,,ca,
+714,Rock Anthems,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Rock Anthems,https://www.lyngsat.com/radiochannels/ca/Rock-Anthems.html,,,False,BFBS,,ca,
+715,Jammin',,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Jammin',https://www.lyngsat.com/radiochannels/ca/Jammin.html,,,False,BFBS,,ca,
+716,Hit List,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Hit List,https://www.lyngsat.com/radiochannels/ca/Hit-List.html,,,False,BFBS,,ca,
+717,Dancefloor Fillers,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Dancefloor Fillers,https://www.lyngsat.com/radiochannels/ca/Dancefloor-Fillers.html,,,False,BFBS,,ca,
+718,Classic R&B,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Classic R&B,https://www.lyngsat.com/radiochannels/ca/Classic-RandB.html,,,False,BFBS,,ca,
+719,Popcorn,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Popcorn,https://www.lyngsat.com/radiochannels/ca/Popcorn.html,,,False,BFBS,,ca,
+720,Jazz Latino,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Jazz Latino,https://www.lyngsat.com/radiochannels/ca/Jazz-Latino.html,,,False,BFBS,,ca,
+722,Brazilian Pop,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Brazilian Pop,https://www.lyngsat.com/radiochannels/ca/Brazilian-Pop.html,,,False,BFBS,,ca,
+723,Samba & Pagode,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Samba & Pagode,https://www.lyngsat.com/radiochannels/ca/Samba-and-Pagode.html,,,False,BFBS,,ca,
+724,Rock do Brasil,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Rock do Brasil,https://www.lyngsat.com/radiochannels/ca/Rock-do-Brasil.html,,,False,BFBS,,ca,
+725,New Age,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,New Age,https://www.lyngsat.com/radiochannels/ca/New-Age.html,,,False,BFBS,,ca,
+726,Rock en Español,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Rock en Español,https://www.lyngsat.com/radiochannels/ca/Rock-en-Espanol.html,,,False,BFBS,,ca,
+727,Regional Mexican,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Regional Mexican,https://www.lyngsat.com/radiochannels/ca/Regional-Mexican.html,,,False,BFBS,,ca,
+728,Dance Clubbin',,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Dance Clubbin',https://www.lyngsat.com/radiochannels/ca/Dance-Clubbin.html,,,False,BFBS,,ca,
+729,Mariachi para Siempre,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Mariachi para Siempre,https://www.lyngsat.com/radiochannels/ca/Mariachi-para-Siempre.html,,,False,BFBS,,ca,
+730,Big Band,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Big Band,https://www.lyngsat.com/radiochannels/ca/Big-Band.html,,,False,BFBS,,ca,
+731,Swinging Standards,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Swinging Standards,https://www.lyngsat.com/radiochannels/ca/Swinging-Standards.html,,,False,BFBS,,ca,
+732,Tango,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Tango,https://www.lyngsat.com/radiochannels/ca/Tango.html,,,False,BFBS,,ca,
+733,Around the World,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Around the World,https://www.lyngsat.com/radiochannels/ca/Around-the-World.html,,,False,BFBS,,ca,
+734,Classic Masters,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Classic Masters,https://www.lyngsat.com/radiochannels/ca/Classic-Masters.html,,,False,BFBS,,ca,
+735,Total Hits Italy,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Total Hits Italy,https://www.lyngsat.com/radiochannels/ca/Total-Hits-Italy.html,,,False,BFBS,,ca,
+736,Jukebox Oldies,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Jukebox Oldies,https://www.lyngsat.com/radiochannels/ca/Jukebox-Oldies.html,,,False,BFBS,,ca,
+737,Dancehall Sessions,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Dancehall Sessions,https://www.lyngsat.com/radiochannels/ca/Dancehall-Sessions.html,,,False,BFBS,,ca,
+738,The Americas,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,The Americas,https://www.lyngsat.com/radiochannels/ca/The-Americas.html,,,False,BFBS,,ca,
+739,Latin Lounge,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Latin Lounge,https://www.lyngsat.com/radiochannels/ca/Latin-Lounge.html,,,False,BFBS,,ca,
+740,The Blues,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,The Blues,https://www.lyngsat.com/radiochannels/ca/The-Blues.html,,,False,BFBS,,ca,
+741,Pop Classics,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Pop Classics,https://www.lyngsat.com/radiochannels/ca/Pop-Classics.html,,,False,BFBS,,ca,
+742,Pop Adult,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Pop Adult,https://www.lyngsat.com/radiochannels/ca/Pop-Adult.html,,,False,BFBS,,ca,
+743,Reggaeton,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Reggaeton,https://www.lyngsat.com/radiochannels/ca/Reggaeton.html,,,False,BFBS,,ca,
+744,Indie Classics,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Indie Classics,https://www.lyngsat.com/radiochannels/ca/Indie-Classics.html,,,False,BFBS,,ca,
+745,Salsa y Merengue,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Salsa y Merengue,https://www.lyngsat.com/radiochannels/ca/Salsa-y-Merengue.html,,,False,BFBS,,ca,
+746,Dance Classics,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Dance Classics,https://www.lyngsat.com/radiochannels/ca/Dance-Classics.html,,,False,BFBS,,ca,
+747,Today's Latin Pop,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Today's Latin Pop,https://www.lyngsat.com/radiochannels/ca/Todays-Latin-Pop.html,,,False,BFBS,,ca,
+748,Euro Hits,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Euro Hits,https://www.lyngsat.com/radiochannels/ca/Euro-Hits.html,,,False,BFBS,,ca,
+749,Easy Listening,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Easy Listening,https://www.lyngsat.com/radiochannels/ca/Easy-Listening.html,,,False,BFBS,,ca,
+750,Romance Latino,,,DVB-S2,30000.0,5/6,4135 L,tp 76,0.0,,,Romance Latino,https://www.lyngsat.com/radiochannels/ca/Romance-Latino.html,,,False,BFBS,,ca,
+,Ideal TV,1875-1875,,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,,br,br
+,Ideal TV,1875-1875,,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,,br,br
+60000,Ideal TV,MPEG-4/HD,258.0,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,Por,br,br
+60000,Ideal TV,MPEG-4/HD,258.0,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,Por,br,br
+60024,Ideal TV,MPEG-4/1seg,514.0,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,Por,br,br
+60024,Ideal TV,MPEG-4/1seg,514.0,DVB-S2,7500.0,2/3,4161 L,tp 78,0.0,,https://www.lyngsat.com/providers/br/Ideal-TV.html,Ideal TV,https://www.lyngsat.com/tvchannels/br/Ideal-TV.html,,,True,Ideal TV,Por,br,br
+,United Teleports,0-0,,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,"Compunicate,PowerVu",https://www.lyngsat.com/providers/us/United-Teleports.html,,,,,True,United Teleports,,,us
+1,Angel TV Español,MPEG-4/SD,102.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,,,Angel TV Español,https://www.lyngsat.com/tvchannels/in/Angel-TV-Espanol.html,,,False,United Teleports,Spa,in,
+1,Angel TV Español,MPEG-4/SD,102.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,,,Angel TV Español,https://www.lyngsat.com/tvchannels/in/Angel-TV-Espanol.html,,,False,United Teleports,Spa,in,
+4,Ve Plus Venezuela,MPEG-4/SD,132.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,PowerVu,,Ve Plus Venezuela,https://www.lyngsat.com/tvchannels/ve/Ve-Plus-Venezuela.html,,,False,United Teleports,Spa,ve,
+5,Ve Plus Panregional,MPEG-4/SD,142.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,PowerVu,,Ve Plus Panregional,https://www.lyngsat.com/tvchannels/ve/Ve-Plus-Panregional.html,,,False,United Teleports,Spa,ve,
+6,Cine Premium,MPEG-4/SD,151.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,Compunicate,,Cine Premium,https://www.lyngsat.com/tvchannels/us/Cine-Premium.html,,,False,United Teleports,Spa,us,
+7,Cine Familiar,MPEG-4/SD,161.0,DVB-S2,5416.0,5/6,4177 L,tp 78,0.0,Compunicate,,Cine Familiar,https://www.lyngsat.com/tvchannels/us/Cine-Familiar.html,,,False,United Teleports,Spa,us,
+6023,Telecaribe Plus,MPEG-4/HD,522.0,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,,Telecaribe Plus,https://www.lyngsat.com/tvchannels/co/Telecaribe-Plus.html,,,False,United Teleports,Spa,co,
+6025,Radio Sistema Cardenal,,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,,Radio Sistema Cardenal,https://www.lyngsat.com/radiochannels/co/Radio-Sistema-Cardenal.html,,,False,United Teleports,Spa,co,
+6025,Radio Sistema Cardenal,,,DVB-S2,5416.0,5/6,4183 L,tp 78,0.0,,,Radio Sistema Cardenal,https://www.lyngsat.com/radiochannels/co/Radio-Sistema-Cardenal.html,,,False,United Teleports,Spa,co,
+2,Pasiones Latinoamérica,MPEG-4/HD,821.0,DVB-S2,7332.0,2/3,4191 L,tp 78,0.0,"PowerVu,Viaccess",,Pasiones Latinoamérica,https://www.lyngsat.com/tvchannels/us/Pasiones-Latinoamerica.html,,,False,United Teleports,Spa Spa,us,
+16,SIC Internacional,MPEG-2/SD,161.0,DVB-S2,7332.0,2/3,4191 L,tp 78,0.0,PowerVu,,SIC Internacional,https://www.lyngsat.com/tvchannels/pt/SIC-Internacional.html,,,False,United Teleports,Por,pt,
+2,TV La Verdad,509-148MPEG-2/SD,1250.0,DVB-S2,2400.0,5/6,4196 L,tp 78,0.0,,,,,,,False,United Teleports,Spa,,
+,,,,,,,,,,,,DVB-S28PSK20823/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK20823/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK23873/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK23873/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK20833/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK20833/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S32553/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK30005/6,Irdeto,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK30005/6,Irdeto,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK27873/5,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK27873/5,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK24553/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK24553/4,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK19202/3,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK19202/3,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK25005/6,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S25707/8,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S25707/8,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK33005/6,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S28PSK33005/6,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S2QPSK24005/6,,,,False,United Teleports,,,
+,,,,,,,,,,,,DVB-S2QPSK24005/6,,,,False,United Teleports,,,

@@ -1,0 +1,61 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,BBS,,,DVB-S2,4444,5/6,11232 V,,,,https://www.lyngsat.com/providers/bt/BBS.html,,,True,BBS,,
+1.0,BBS TV (Bhutan),MPEG-4/SD,102.0,DVB-S2,4444,5/6,11232 V,,,,,BBS TV (Bhutan),https://www.lyngsat.com/tvchannels/bt/BBS-TV.html,False,BBS,,bt
+2.0,BBS Channel 2,MPEG-4/SD,202.0,DVB-S2,4444,5/6,11232 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+2.0,BBS Channel 2,MPEG-4/SD,202.0,DVB-S2,4444,5/6,11232 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+2.0,BBS Channel 2,MPEG-4/SD,202.0,DVB-S2,4444,5/6,11232 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11293 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11293 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11293 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11326 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11326 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+1.0,BBS Channel 2,MPEG-4/SD,801.0,DVB-S2,9000,3/4,11326 V,,,,,BBS Channel 2,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-2.html,False,BBS,,bt
+3.0,[BBS Radio test card],MPEG-4/SD,302.0,DVB-S2,4444,5/6,11232 V,,,,,,,False,BBS,,
+4.0,[BBS Radio test card],MPEG-4/SD,402.0,DVB-S2,4444,5/6,11232 V,,,,,,,False,BBS,,
+3.0,[BBS Radio test card],MPEG-4/SD,1006.0,DVB-S2,9000,3/4,11293 V,,,,,,,False,BBS,,
+3.0,[BBS Radio test card],MPEG-4/SD,1006.0,DVB-S2,9000,3/4,11326 V,,,,,,,False,BBS,,
+5.0,[Kuzoo FM 104 test card],MPEG-4/SD,502.0,DVB-S2,4444,5/6,11232 V,,,,,,,False,BBS,,
+6.0,[Kuzoo FM 105 test card],MPEG-4/SD,602.0,DVB-S2,4444,5/6,11232 V,,,,,,,False,BBS,Eng,
+7.0,BBS Channel 3,MPEG-4/HD,702.0,DVB-S2,4444,5/6,11232 V,,,,,BBS Channel 3,https://www.lyngsat.com/tvchannels/bt/BBS-Channel-3.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11293 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+3.0,BBS Radio 1,,,DVB-S2,9000,3/4,11326 V,,,,,BBS Radio 1,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-1.html,False,BBS,,bt
+4.0,BBS Radio 2,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 2,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-2.html,False,BBS,,bt
+4.0,BBS Radio 2,,,DVB-S2,4444,5/6,11232 V,,,,,BBS Radio 2,https://www.lyngsat.com/radiochannels/bt/BBS-Radio-2.html,False,BBS,,bt
+5.0,Kuzoo FM 104,,,DVB-S2,4444,5/6,11232 V,,,,,Kuzoo FM 104,https://www.lyngsat.com/radiochannels/bt/Kuzoo-FM-104.html,False,BBS,,bt
+5.0,Kuzoo FM 104,,,DVB-S2,4444,5/6,11232 V,,,,,Kuzoo FM 104,https://www.lyngsat.com/radiochannels/bt/Kuzoo-FM-104.html,False,BBS,,bt
+6.0,Kuzoo FM 105,,,DVB-S2,4444,5/6,11232 V,,,,,Kuzoo FM 105,https://www.lyngsat.com/radiochannels/bt/Kuzoo-FM-105.html,False,BBS,Eng,bt
+6.0,Kuzoo FM 105,,,DVB-S2,4444,5/6,11232 V,,,,,Kuzoo FM 105,https://www.lyngsat.com/radiochannels/bt/Kuzoo-FM-105.html,False,BBS,Eng,bt
+,,,,DVB-S2,9000,3/4,11293 V,,,,,,,False,BBS,,
+,,,,DVB-S2,9000,3/4,11326 V,,,,,,,False,BBS,,
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11293 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11293 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11293 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11293 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11326 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11326 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11326 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+4.0,News 18 India,MPEG-4/SD,1004.0,DVB-S2,9000,3/4,11326 V,,,,,News 18 India,https://www.lyngsat.com/tvchannels/in/News-18-India.html,False,BBS,Hin,in
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11293 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11293 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11293 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11293 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11326 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11326 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11326 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us
+6.0,Velayat TV Network,MPEG-4/SD,201.0,DVB-S2,9000,3/4,11326 V,,,,,Velayat TV Network,https://www.lyngsat.com/tvchannels/us/Velayat-TV-Network.html,False,BBS,Per,us

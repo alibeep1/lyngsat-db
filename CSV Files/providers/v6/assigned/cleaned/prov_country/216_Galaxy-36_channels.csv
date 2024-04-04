@@ -1,0 +1,10 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,is_Provider,Provider,Languages,Provider_Country
+,(feeds),,,DVB-S2,7000,3/4,4028 V,tp 17,,,,False,,,
+,(feeds),,,DVB-S2,14035,5/6,4061 H,tp 18,,,,False,,,
+,(feeds),,,DVB-S,14035,5/6,4100 H,tp 20,,,,False,,,
+,,,,DVB-S,14035,5/6,4120 V,tp 21,,,,False,,,
+,(feeds),,,DVB-S2,15000,3/4,4132 H,tp 22,,,,False,,,
+,(feeds),,,DVB-S2,15000,3/4,4150 H,tp 22,,,,False,,,
+,,,,DVB-S2,15000,3/4,4160 V,tp 23,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4168 H,tp 24,,,,False,,,
+,(feeds),,,DVB-S2,2615,3/4,4193 H,tp 124,,,,False,,,

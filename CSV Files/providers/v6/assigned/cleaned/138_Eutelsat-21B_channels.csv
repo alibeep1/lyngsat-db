@@ -1,0 +1,451 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,Warner Bros. Discovery,1-1,,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,True,Warner Bros. Discovery,
+4000,Discovery Channel Central Europe,MPEG-4/SD,4011.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Discovery Channel Central Europe,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-Central-Europe.html,False,Warner Bros. Discovery,Eng Rus
+4100,Animal Planet Rossiya,MPEG-4/SD,4111.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Animal Planet Rossiya,https://www.lyngsat.com/tvchannels/us/Animal-Planet-Rossiya.html,False,Warner Bros. Discovery,Rus Eng
+4200,Investigation Discovery Rossiya,MPEG-4/SD,4211.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Investigation Discovery Rossiya,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-Rossiya.html,False,Warner Bros. Discovery,Rus Eng
+4300,TLC Rossiya,MPEG-4/SD,4311.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,TLC Rossiya,https://www.lyngsat.com/tvchannels/us/TLC-Rossiya.html,False,Warner Bros. Discovery,Rus Eng
+4400,Cartoon Network Russia & South East Europe,MPEG-4/SD,4411.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Cartoon Network Russia & South East Europe,https://www.lyngsat.com/tvchannels/us/Cartoon-Network-Russia-and-South-East-Europe.html,False,Warner Bros. Discovery,Rus Bul Eng Slv Srp Hrv
+4500,Cartoonito Central & Eastern Europe,MPEG-4/SD,4511.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Cartoonito Central & Eastern Europe,https://www.lyngsat.com/tvchannels/us/Cartoonito-Central-and-Eastern-Europe.html,False,Warner Bros. Discovery,Pol Eng Hun Rum Rus Cze
+4600,Eurosport 1 Rossiya,MPEG-4/HD,4611.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Eurosport 1 Rossiya,https://www.lyngsat.com/tvchannels/fr/Eurosport-1-Rossiya.html,False,Warner Bros. Discovery,Rus Eng
+4700,Eurosport 2 Rossiya,MPEG-4/HD,4711.0,DVB-S2,32115.0,1/2,10723 V,tp A2,47.0,Viaccess,,Eurosport 2 Rossiya,https://www.lyngsat.com/tvchannels/fr/Eurosport-2-Rossiya.html,False,Warner Bros. Discovery,Rus Eng
+,Chinese mux,0-2,,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,,,False,Warner Bros. Discovery,
+51,CCTV 1,HEVC/HD,1201.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 1,https://www.lyngsat.com/tvchannels/cn/CCTV-1.html,False,Warner Bros. Discovery,Chi
+51,CCTV 1,HEVC/HD,1201.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 1,https://www.lyngsat.com/tvchannels/cn/CCTV-1.html,False,Warner Bros. Discovery,Chi
+52,CCTV 2,HEVC/HD,1202.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 2,https://www.lyngsat.com/tvchannels/cn/CCTV-2.html,False,Warner Bros. Discovery,Chi
+52,CCTV 2,HEVC/HD,1202.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 2,https://www.lyngsat.com/tvchannels/cn/CCTV-2.html,False,Warner Bros. Discovery,Chi
+53,CCTV 3,HEVC/HD,1203.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 3,https://www.lyngsat.com/tvchannels/cn/CCTV-3.html,False,Warner Bros. Discovery,Chi
+53,CCTV 3,HEVC/HD,1203.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 3,https://www.lyngsat.com/tvchannels/cn/CCTV-3.html,False,Warner Bros. Discovery,Chi
+54,CCTV 4 Asia,HEVC/HD,1204.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,False,Warner Bros. Discovery,Chi
+54,CCTV 4 Asia,HEVC/HD,1204.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,False,Warner Bros. Discovery,Chi
+55,CCTV 5,HEVC/HD,1205.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 5,https://www.lyngsat.com/tvchannels/cn/CCTV-5.html,False,Warner Bros. Discovery,Chi
+56,CHC HD Movies,HEVC/HD,1206.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CHC HD Movies,https://www.lyngsat.com/tvchannels/cn/CHC-HD-Movies.html,False,Warner Bros. Discovery,Chi
+57,CCTV 5+,HEVC/HD,1207.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 5+,https://www.lyngsat.com/tvchannels/cn/CCTV-5-.html,False,Warner Bros. Discovery,Chi
+58,CCTV 8,HEVC/HD,1208.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 8,https://www.lyngsat.com/tvchannels/cn/CCTV-8.html,False,Warner Bros. Discovery,Chi
+58,CCTV 8,HEVC/HD,1208.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 8,https://www.lyngsat.com/tvchannels/cn/CCTV-8.html,False,Warner Bros. Discovery,Chi
+59,CCTV 7,HEVC/HD,1209.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 7,https://www.lyngsat.com/tvchannels/cn/CCTV-7.html,False,Warner Bros. Discovery,Chi
+59,CCTV 7,HEVC/HD,1209.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 7,https://www.lyngsat.com/tvchannels/cn/CCTV-7.html,False,Warner Bros. Discovery,Chi
+60,CCTV 13,HEVC/HD,1210.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,False,Warner Bros. Discovery,Chi
+60,CCTV 13,HEVC/HD,1210.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,False,Warner Bros. Discovery,Chi
+61,Beijing TV Kaku,HEVC/HD,1211.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Beijing TV Kaku,https://www.lyngsat.com/tvchannels/cn/Beijing-TV-Kaku.html,False,Warner Bros. Discovery,Chi
+62,Magic Channel,HEVC/HD,1212.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Magic Channel,https://www.lyngsat.com/tvchannels/--/Magic-Channel.html,False,Warner Bros. Discovery,Rus
+63,Beijing TV,HEVC/HD,1213.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Beijing TV,https://www.lyngsat.com/tvchannels/cn/Beijing-TV.html,False,Warner Bros. Discovery,Chi
+64,Dragon TV International,HEVC/HD,1214.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Dragon TV International,https://www.lyngsat.com/tvchannels/cn/Dragon-TV-International.html,False,Warner Bros. Discovery,Chi
+65,Hunan TV International,HEVC/HD,1215.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,False,Warner Bros. Discovery,Chi
+65,Hunan TV International,HEVC/HD,1215.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,False,Warner Bros. Discovery,Chi
+66,Jiangsu Satellite TV,HEVC/HD,1216.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Jiangsu Satellite TV,https://www.lyngsat.com/tvchannels/cn/Jiangsu-Satellite-TV.html,False,Warner Bros. Discovery,Chi
+67,Zhejiang Satellite TV,HEVC/HD,1217.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Zhejiang Satellite TV,https://www.lyngsat.com/tvchannels/cn/Zhejiang-Satellite-TV.html,False,Warner Bros. Discovery,Chi
+68,Anhui Satellite TV,HEVC/HD,1218.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,Anhui Satellite TV,https://www.lyngsat.com/tvchannels/cn/Anhui-Satellite-TV.html,False,Warner Bros. Discovery,Chi
+69,[test card],HEVC/HD,1219.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,"Topwell,VisionCrypt",,,,False,Warner Bros. Discovery,
+1500,[test card],HEVC/HD,1510.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,,,False,Warner Bros. Discovery,
+1600,[test card],HEVC/HD,1610.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,,,False,Warner Bros. Discovery,
+70,Phoenix InfoNews Channel,HEVC/HD,1220.0,DVB-S2,30000.0,1/2,10856 V,tp A6,47.0,,,Phoenix InfoNews Channel,https://www.lyngsat.com/tvchannels/hk/Phoenix-InfoNews-Channel.html,False,Warner Bros. Discovery,Chi
+,(feeds),,,DVB-S,2200.0,3/4,10953 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3300.0,3/4,10960 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2590.0,3/4,10966 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7500.0,3/4,10969 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2200.0,5/6,10975 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3214.0,3/4,10985 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3214.0,3/4,10988 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,10000.0,3/4,10990 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5832.0,3/4,10995 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5832.0,3/4,11002 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,10000.0,3/4,11003 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5832.0,3/4,11009 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1333.0,3/4,11013 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2000.0,3/4,11021 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7500.0,3/4,11023 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1800.0,5/6,11030 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2100.0,3/4,11036 H,tp BM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2000.0,3/4,11038 V,tp BM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11044 H,tp BM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11053 H,tp BM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2170.0,3/4,11054 H,tp BE3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3333.0,3/4,11059 H,tp BM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2000.0,3/4,11061 V,tp BM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7400.0,2/3,11082 V,tp BM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7430.0,3/4,11087 H,tp BW3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,10000.0,3/4,11093 V,tp BM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1093.0,2/3,11109 H,tp BW3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3600.0,3/4,11124 V,tp BW6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11126 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5000.0,2/3,11126 V,tp BE6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11135 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11144 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5000.0,2/3,11144 V,tp BE6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11156 V,tp BW6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11165 V,tp BW6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1058.0,2/3,11171 V,tp BW6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11172 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3333.0,3/4,11180 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2000.0,3/4,11196 H,tp BW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2590.0,3/4,11464 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2200.0,5/6,11470 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1600.0,3/4,11473 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7440.0,5/6,11476 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2200.0,3/4,11480 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2200.0,3/4,11482 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2080.0,5/6,11487 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2220.0,2/3,11494 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1600.0,5/6,11496 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1600.0,5/6,11496 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,5/6,11500 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1600.0,5/6,11500 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3300.0,3/4,11504 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2000.0,5/6,11506 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1800.0,3/4,11509 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2300.0,3/4,11511 H,tp DM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1667.0,2/3,11511 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2222.0,3/4,11513 V,tp DM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2308.0,3/4,11516 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4830.0,3/4,11520 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3000.0,2/3,11525 H,tp DM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4830.0,3/4,11527 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4166.0,3/4,11530 H,tp DM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2756.0,3/4,11535 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4444.0,3/4,11538 H,tp DM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3208.0,3/4,11539 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2222.0,5/6,11545 H,tp DM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2222.0,3/4,11548 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3300.0,3/4,11552 V,tp DM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4444.0,3/4,11555 H,tp DE5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4940.0,3/4,11567 H,tp DE5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4166.0,3/4,11571 V,tp DM6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3200.0,3/4,11579 H,tp DE7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4000.0,3/4,11581 H,tp DW7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5000.0,3/4,11584 H,tp DE7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4000.0,3/4,11586 H,tp DW7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2200.0,3/4,11589 H,tp DE7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,6666.0,3/4,11589 V,tp DM6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4000.0,3/4,11591 H,tp DW7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4000.0,2/3,11596 H,tp DW7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4400.0,3/4,11609 V,tp DE8,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,11610 H,tp DW7,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4400.0,5/6,11615 V,tp DE8,,,,,,False,Warner Bros. Discovery,
+1,(feeds),,308.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2500.0,3/4,11620 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2500.0,5/6,11624 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3220.0,5/6,11628 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3330.0,3/4,11633 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2500.0,3/4,11636 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4260.0,5/6,11639 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,3/4,11645 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2222.0,3/4,11647 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,3/4,11647 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,3/4,11649 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,3/4,11653 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2220.0,7/8,11656 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2850.0,3/4,11656 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3220.0,5/6,11662 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3220.0,5/6,11671 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2600.0,5/6,11674 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2222.0,3/4,11675 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2350.0,3/4,11680 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,5700.0,5/6,11682 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2500.0,5/6,11687 V,tp DM10,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2200.0,5/6,11688 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2221.0,3/4,11691 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2200.0,5/6,11698 H,tp DM9,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2857.0,3/4,12521 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3000.0,3/4,12524 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2500.0,3/4,12529 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2500.0,2/3,12533 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1550.0,3/4,12536 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,1500.0,7/8,12551 V,tp FM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2900.0,3/4,12556 V,tp FM2,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2592.0,5/6,12566 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2592.0,5/6,12570 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2592.0,5/6,12574 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2592.0,5/6,12577 H,tp FM1,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3300.0,3/4,12590 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3124.0,3/4,12591 V,tp FM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3333.0,3/4,12595 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3333.0,3/4,12599 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3333.0,3/4,12604 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3300.0,3/4,12608 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3124.0,3/4,12622 V,tp FM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,6666.0,3/4,12629 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,2/3,12638 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1600.0,8/9,12644 V,tp FM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,4444.0,3/4,12648 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,6111.0,3/4,12655 V,tp FM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,12656 H,tp FM3,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,3200.0,3/4,12663 V,tp FM4,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,12686 H,tp FW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,7200.0,3/4,12704 H,tp FW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,2900.0,2/3,12714 V,tp FM6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3600.0,3/4,12715 H,tp FW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2222.0,3/4,12719 V,tp FM6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,6111.0,3/4,12721 H,tp FW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,3600.0,3/4,12729 H,tp FW5,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S2,1667.0,5/6,12742 V,tp FM6,,,,,,False,Warner Bros. Discovery,
+,(feeds),,,DVB-S,2500.0,5/6,12745 V,tp FM6,,,,,,False,Warner Bros. Discovery,
+257,Al Quds Today TV,65535-1MPEG-2/SD,257.0,DVB-S2,1200.0,3/4,10982 H,tp BM1,47.0,,,,,False,Warner Bros. Discovery,Ara
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+,Arryadia,1-22,,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,Arryadia,MPEG-2/SD,308.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+2,Arryadia,MPEG-2/SD,328.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-4/HD,338.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,BISS 1,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+4,Arryadia,MPEG-4/HD,348.0,DVB-S2,9690.0,2/3,11189 H,tp BW5,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+3,Arryadia,MPEG-2/SD,132.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+13,Arryadia,MPEG-4/HD,1301.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,https://www.lyngsat.com/providers/ma/Arryadia.html,Arryadia,https://www.lyngsat.com/tvchannels/ma/Arryadia.html,True,Arryadia,Ara
+1,LuaLua TV,65535-1MPEG-4/SD,33.0,DVB-S2,1481.0,3/4,11485 V,tp DM2,47.0,,,,,False,Arryadia,Ara
+100,Yemen TV,702-526MPEG-2/SD,256.0,DVB-S,2000.0,5/6,11493 H,tp DM1,47.0,,,,,False,Arryadia,Ara
+100,Radio Sana'a,,,DVB-S,2000.0,5/6,11493 H,tp DM1,47.0,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html,False,Arryadia,Ara
+100,Radio Sana'a,,,DVB-S,2000.0,5/6,11493 H,tp DM1,47.0,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html,False,Arryadia,Ara
+100,Sawt Al Shaab FM,,,DVB-S,2000.0,5/6,11493 H,tp DM1,47.0,,,Sawt Al Shaab FM,https://www.lyngsat.com/radiochannels/ye/Sawt-Al-Shaab-FM.html,False,Arryadia,Ara
+100,Sawt Al Shaab FM,,,DVB-S,2000.0,5/6,11493 H,tp DM1,47.0,,,Sawt Al Shaab FM,https://www.lyngsat.com/radiochannels/ye/Sawt-Al-Shaab-FM.html,False,Arryadia,Ara
+7907,Iran Press,1-1MPEG-2/SD,308.0,DVB-S,2900.0,3/4,11503 H,tp DM3,47.0,GkWare,,,,False,Arryadia,Eng
+1,Ronahî TV,65535-12MPEG-4/HD,33.0,DVB-S2,2963.0,3/4,11509 V,tp DM2,47.0,,,,,False,Arryadia,Kur
+1,Libya Alrasmia Channel,65535-1MPEG-4/HD,33.0,DVB-S2,2856.0,5/6,11517 H,tp DM3,47.0,,,,,False,Arryadia,Ara
+,MBC Maser,2048-69,,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,
+,MBC Maser,2048-69,,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,
+1,MBC Maser,MPEG-2/SD,101.0,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,Ara
+1,MBC Maser,MPEG-2/SD,101.0,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,Ara
+1,MBC Maser,2048-65MPEG-4/HD,100.0,DVB-S2,3333.0,5/6,11564 V,tp DM6,47.0,BISS 2,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,Ara
+1,MBC Maser,2048-65MPEG-4/HD,100.0,DVB-S2,3333.0,5/6,11564 V,tp DM6,47.0,BISS 2,https://www.lyngsat.com/providers/sa/MBC-Maser.html,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,True,MBC Maser,Ara
+2,MBC Maser 2,MPEG-2/SD,201.0,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,,MBC Maser 2,https://www.lyngsat.com/tvchannels/sa/MBC-Maser-2.html,False,MBC Maser,Ara
+2,MBC Maser 2,MPEG-2/SD,201.0,DVB-S2,5000.0,5/6,11559 V,tp DM6,47.0,BISS 1,,MBC Maser 2,https://www.lyngsat.com/tvchannels/sa/MBC-Maser-2.html,False,MBC Maser,Ara
+0-0,Panorama FM TV,0-0HEVC/HD,512.0,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,,,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,MBC FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC Maser,Ara
+1,Panorama FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html,False,MBC Maser,Ara
+1,Panorama FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html,False,MBC Maser,Ara
+1,MBC Loud FM,,,DVB-S2,2850.0,3/4,11567 V,tp DM6,47.0,BISS 1,,MBC Loud FM,https://www.lyngsat.com/radiochannels/sa/MBC-Loud-FM.html,False,MBC Maser,Ara
+,Medi 1 Radio,1-1,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,https://www.lyngsat.com/providers/ma/Medi-1-Radio.html,Medi 1 Radio,https://www.lyngsat.com/radiochannels/ma/Medi-1-Radio.html,True,Medi 1 Radio,
+,Medi 1 Radio,1-1,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,https://www.lyngsat.com/providers/ma/Medi-1-Radio.html,Medi 1 Radio,https://www.lyngsat.com/radiochannels/ma/Medi-1-Radio.html,True,Medi 1 Radio,
+1000,Medi 1 Radio,,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,https://www.lyngsat.com/providers/ma/Medi-1-Radio.html,Medi 1 Radio,https://www.lyngsat.com/radiochannels/ma/Medi-1-Radio.html,True,Medi 1 Radio,Ara
+1000,Medi 1 Radio,,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,https://www.lyngsat.com/providers/ma/Medi-1-Radio.html,Medi 1 Radio,https://www.lyngsat.com/radiochannels/ma/Medi-1-Radio.html,True,Medi 1 Radio,Ara
+2000,Medi 1 Afrique,,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,,Medi 1 Afrique,https://www.lyngsat.com/radiochannels/ma/Medi-1-Afrique.html,False,Medi 1 Radio,Fre
+2000,Medi 1 Afrique,,,DVB-S,512.0,2/3,11577 H,tp DW7,0.0,,,Medi 1 Afrique,https://www.lyngsat.com/radiochannels/ma/Medi-1-Afrique.html,False,Medi 1 Radio,Fre
+65535-1,(MBC feeds),65535-1,,DVB-S2,2500.0,3/4,11579 V,tp DM6,,,,,,False,Medi 1 Radio,
+1,Alula FM,,,DVB-S2,2500.0,3/4,11579 V,tp DM6,,BISS 1,,Alula FM,https://www.lyngsat.com/radiochannels/sa/Alula-FM.html,False,Medi 1 Radio,Ara
+1,MBC (Saudi Arabia),1-1MPEG-2/SD,43.0,DVB-S,2850.0,7/8,11583 V,tp DM6,47.0,BISS 1,,,,False,Medi 1 Radio,Ara
+1000,Chada FM,?-1,,DVB-S,255.0,3/4,11599.0H,tp DW7,0.0,,,,,False,Medi 1 Radio,Ara
+1000,Medina FM,0-1,,DVB-S,185.0,3/4,11599.3H,tp DW7,0.0,,,,,False,Medi 1 Radio,Ara
+1,Oman TV Cultural,?-?MPEG-4/HD,33.0,DVB-S2,4400.0,5/6,11602 V,tp DE8,,,,Oman TV Cultural,https://www.lyngsat.com/tvchannels/om/Oman-TV-Cultural.html,False,Medi 1 Radio,Ara
+1,Oman TV Cultural,?-?MPEG-4/HD,33.0,DVB-S2,4400.0,5/6,11602 V,tp DE8,,,,Oman TV Cultural,https://www.lyngsat.com/tvchannels/om/Oman-TV-Cultural.html,False,Medi 1 Radio,Ara
+1400,Oman TV Cultural,HEVC/HD,1410.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Cultural,https://www.lyngsat.com/tvchannels/om/Oman-TV-Cultural.html,False,Medi 1 Radio,Ara
+1400,Oman TV Cultural,HEVC/HD,1410.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Cultural,https://www.lyngsat.com/tvchannels/om/Oman-TV-Cultural.html,False,Medi 1 Radio,Ara
+1000,Atlantic Radio,?-1,,DVB-S2,170.0,3/4,11602.6H,tp DW7,0.0,,,,,False,Medi 1 Radio,Fre
+1000,Luxe Radio,?-1,,DVB-S,185.0,3/4,11603.9H,tp DW7,0.0,,,,,False,Medi 1 Radio,Fre
+111,Radio Dakhla,1-2,,DVB-S2,175.0,3/4,11604.1H,tp DW7,0.0,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,False,Medi 1 Radio,
+111,Radio Dakhla,1-2,,DVB-S2,175.0,3/4,11604.1H,tp DW7,0.0,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,False,Medi 1 Radio,
+91,Radio Dakhla,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,False,Medi 1 Radio,
+91,Radio Dakhla,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Dakhla,https://www.lyngsat.com/radiochannels/ma/Radio-Dakhla.html,False,Medi 1 Radio,
+123,Radio Laayoune,1-3,,DVB-S2,175.0,5/6,11604.3H,tp DW7,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,Medi 1 Radio,
+123,Radio Laayoune,1-3,,DVB-S2,175.0,5/6,11604.3H,tp DW7,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,Medi 1 Radio,
+90,Radio Laayoune,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,Medi 1 Radio,
+90,Radio Laayoune,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,Medi 1 Radio,
+1,Radio Oujda,1-1,,DVB-S2,180.0,5/6,11604.5H,tp DW7,0.0,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,False,Medi 1 Radio,
+1,Radio Oujda,1-1,,DVB-S2,180.0,5/6,11604.5H,tp DW7,0.0,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,False,Medi 1 Radio,
+53,Radio Oujda,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,False,Medi 1 Radio,
+53,Radio Oujda,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Oujda,https://www.lyngsat.com/radiochannels/ma/Radio-Oujda.html,False,Medi 1 Radio,
+,Moroccan mux,1-1,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,,,False,Medi 1 Radio,
+,Moroccan mux,1-2,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,,,False,Medi 1 Radio,
+,Moroccan mux,0-4,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,,,False,Medi 1 Radio,
+,Moroccan mux,8192-4096,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,,,False,Medi 1 Radio,
+1,Al Aoula,MPEG-2/SD,101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+1,Al Aoula,MPEG-2/SD,101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+1,Al Aoula,MPEG-2/SD,101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+1,Al Aoula,MPEG-2/SD,101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+10,Al Aoula,MPEG-4/HD,1011.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+10,Al Aoula,MPEG-4/HD,1011.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+10,Al Aoula,MPEG-4/HD,1011.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+10,Al Aoula,MPEG-4/HD,1011.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Aoula,https://www.lyngsat.com/tvchannels/ma/Al-Aoula.html,False,Medi 1 Radio,Ara
+2,2M National,MPEG-2/SD,121.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,2M National,https://www.lyngsat.com/tvchannels/ma/2M-National.html,False,Medi 1 Radio,Ara
+4,Athaqafia,MPEG-2/SD,141.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Athaqafia,https://www.lyngsat.com/tvchannels/ma/Athaqafia.html,False,Medi 1 Radio,Ara
+4,Athaqafia,MPEG-2/SD,141.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Athaqafia,https://www.lyngsat.com/tvchannels/ma/Athaqafia.html,False,Medi 1 Radio,Ara
+5,Al Maghribia,MPEG-2/SD,151.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html,False,Medi 1 Radio,Ara
+5,Al Maghribia,MPEG-2/SD,151.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html,False,Medi 1 Radio,Ara
+6,Assadissa,MPEG-2/SD,161.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+6,Assadissa,MPEG-2/SD,161.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+6,Assadissa,MPEG-2/SD,161.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+6,Assadissa,MPEG-2/SD,161.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+16,Assadissa,MPEG-4/HD,1601.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+16,Assadissa,MPEG-4/HD,1601.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+16,Assadissa,MPEG-4/HD,1601.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+16,Assadissa,MPEG-4/HD,1601.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Assadissa,https://www.lyngsat.com/tvchannels/ma/Assadissa.html,False,Medi 1 Radio,Ara
+11,Medi 1 TV Maghreb,MPEG-2/SD,1101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Medi 1 TV Maghreb,https://www.lyngsat.com/tvchannels/ma/Medi-1-TV-Maghreb.html,False,Medi 1 Radio,Fre
+11,Medi 1 TV Maghreb,MPEG-2/SD,1101.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Medi 1 TV Maghreb,https://www.lyngsat.com/tvchannels/ma/Medi-1-TV-Maghreb.html,False,Medi 1 Radio,Fre
+7,Aflam TV (Morocco),MPEG-4/HD,171.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Aflam TV (Morocco),https://www.lyngsat.com/tvchannels/ma/Aflam-TV.html,False,Medi 1 Radio,Ara
+8,Tamazight,MPEG-2/SD,181.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Tamazight,https://www.lyngsat.com/tvchannels/ma/Tamazight.html,False,Medi 1 Radio,Ara
+8,Tamazight,MPEG-2/SD,181.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Tamazight,https://www.lyngsat.com/tvchannels/ma/Tamazight.html,False,Medi 1 Radio,Ara
+9,Laayoune TV,MPEG-2/SD,91.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Laayoune TV,https://www.lyngsat.com/tvchannels/ma/Laayoune-TV.html,False,Medi 1 Radio,Ara
+9,Laayoune TV,MPEG-2/SD,91.0,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Laayoune TV,https://www.lyngsat.com/tvchannels/ma/Laayoune-TV.html,False,Medi 1 Radio,Ara
+11,Idaa al Watania,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa al Watania,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Watania.html,False,Medi 1 Radio,Ara
+11,Idaa al Watania,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa al Watania,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Watania.html,False,Medi 1 Radio,Ara
+20,Radio Tanger,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Tanger,https://www.lyngsat.com/radiochannels/ma/Radio-Tanger.html,False,Medi 1 Radio,
+20,Radio Tanger,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Tanger,https://www.lyngsat.com/radiochannels/ma/Radio-Tanger.html,False,Medi 1 Radio,
+21,Chaîne Inter,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Chaîne Inter,https://www.lyngsat.com/radiochannels/ma/Chaine-Inter.html,False,Medi 1 Radio,
+21,Chaîne Inter,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Chaîne Inter,https://www.lyngsat.com/radiochannels/ma/Chaine-Inter.html,False,Medi 1 Radio,
+30,Radio Fes,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Fes,https://www.lyngsat.com/radiochannels/ma/Radio-Fes.html,False,Medi 1 Radio,
+30,Radio Fes,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Fes,https://www.lyngsat.com/radiochannels/ma/Radio-Fes.html,False,Medi 1 Radio,
+31,Idaa al Amazighia,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa al Amazighia,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Amazighia.html,False,Medi 1 Radio,Ara
+31,Idaa al Amazighia,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa al Amazighia,https://www.lyngsat.com/radiochannels/ma/Idaa-al-Amazighia.html,False,Medi 1 Radio,Ara
+40,Radio Marrakech,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Marrakech,https://www.lyngsat.com/radiochannels/ma/Radio-Marrakech.html,False,Medi 1 Radio,
+40,Radio Marrakech,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Marrakech,https://www.lyngsat.com/radiochannels/ma/Radio-Marrakech.html,False,Medi 1 Radio,
+41,Idaa Mohammed Assadiss,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa Mohammed Assadiss,https://www.lyngsat.com/radiochannels/ma/Idaa-Mohammed-Assadiss.html,False,Medi 1 Radio,Ara
+41,Idaa Mohammed Assadiss,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Idaa Mohammed Assadiss,https://www.lyngsat.com/radiochannels/ma/Idaa-Mohammed-Assadiss.html,False,Medi 1 Radio,Ara
+50,Radio Agadir,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Agadir,https://www.lyngsat.com/radiochannels/ma/Radio-Agadir.html,False,Medi 1 Radio,
+50,Radio Agadir,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Agadir,https://www.lyngsat.com/radiochannels/ma/Radio-Agadir.html,False,Medi 1 Radio,
+54,Radio Casablanca,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Casablanca,https://www.lyngsat.com/radiochannels/ma/Radio-Casablanca.html,False,Medi 1 Radio,
+54,Radio Casablanca,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Casablanca,https://www.lyngsat.com/radiochannels/ma/Radio-Casablanca.html,False,Medi 1 Radio,
+70,Radio Tétouan,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Tétouan,https://www.lyngsat.com/radiochannels/ma/Radio-Tetouan.html,False,Medi 1 Radio,
+70,Radio Tétouan,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Tétouan,https://www.lyngsat.com/radiochannels/ma/Radio-Tetouan.html,False,Medi 1 Radio,
+80,Radio Meknes,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Meknes,https://www.lyngsat.com/radiochannels/ma/Radio-Meknes.html,False,Medi 1 Radio,
+80,Radio Meknes,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Meknes,https://www.lyngsat.com/radiochannels/ma/Radio-Meknes.html,False,Medi 1 Radio,
+572,Radio Houceima,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Houceima,https://www.lyngsat.com/radiochannels/ma/Radio-Houceima.html,False,Medi 1 Radio,
+572,Radio Houceima,,,DVB-S2,4400.0,5/6,11618 V,tp DW8,0.0,,,Radio Houceima,https://www.lyngsat.com/radiochannels/ma/Radio-Houceima.html,False,Medi 1 Radio,
+1,Al-Iman TV (Lebanon),65535-1MPEG-4/SD,308.0,DVB-S2,1250.0,3/4,11622 H,tp DM9,47.0,,,,,False,Medi 1 Radio,Ara
+1,Radio Albachaer,,,DVB-S2,1250.0,3/4,11622 H,tp DM9,47.0,,,Radio Albachaer,https://www.lyngsat.com/radiochannels/lb/Radio-Albachaer.html,False,Medi 1 Radio,Ara
+1,Radio Albachaer,,,DVB-S2,1250.0,3/4,11622 H,tp DM9,47.0,,,Radio Albachaer,https://www.lyngsat.com/radiochannels/lb/Radio-Albachaer.html,False,Medi 1 Radio,Ara
+,Oman TV,1-1,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,https://www.lyngsat.com/providers/--/Oman-TV.html,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,True,Oman TV,
+,Oman TV,1-1,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,https://www.lyngsat.com/providers/--/Oman-TV.html,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,True,Oman TV,
+1100,Oman TV,HEVC/HD,1110.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,https://www.lyngsat.com/providers/--/Oman-TV.html,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,True,Oman TV,Ara
+1100,Oman TV,HEVC/HD,1110.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,https://www.lyngsat.com/providers/--/Oman-TV.html,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,True,Oman TV,Ara
+1200,Oman TV Sport,HEVC/HD,1210.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Sport,https://www.lyngsat.com/tvchannels/om/Oman-TV-Sport.html,False,Oman TV,Ara
+1200,Oman TV Sport,HEVC/HD,1210.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Sport,https://www.lyngsat.com/tvchannels/om/Oman-TV-Sport.html,False,Oman TV,Ara
+1300,Oman TV Mubashir,HEVC/HD,1310.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Mubashir,https://www.lyngsat.com/tvchannels/om/Oman-TV-Mubashir.html,False,Oman TV,Ara
+1300,Oman TV Mubashir,HEVC/HD,1310.0,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman TV Mubashir,https://www.lyngsat.com/tvchannels/om/Oman-TV-Mubashir.html,False,Oman TV,Ara
+1700,Radio Oman,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Radio Oman,https://www.lyngsat.com/radiochannels/om/Radio-Oman.html,False,Oman TV,
+1700,Radio Oman,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Radio Oman,https://www.lyngsat.com/radiochannels/om/Radio-Oman.html,False,Oman TV,
+1800,Al-Shabab,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Al-Shabab,https://www.lyngsat.com/radiochannels/om/Al-Shabab.html,False,Oman TV,Ara
+1900,Radio Oman FM,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Radio Oman FM,https://www.lyngsat.com/radiochannels/om/Radio-Oman-FM.html,False,Oman TV,Eng
+1900,Radio Oman FM,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Radio Oman FM,https://www.lyngsat.com/radiochannels/om/Radio-Oman-FM.html,False,Oman TV,Eng
+2000,Oman Classic Radio,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Oman Classic Radio,https://www.lyngsat.com/radiochannels/om/Oman-Classic-Radio.html,False,Oman TV,Eng
+2100,Holy Quran Radio (Oman),,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Holy Quran Radio (Oman),https://www.lyngsat.com/radiochannels/om/Holy-Quran-Radio.html,False,Oman TV,Ara
+2200,Sawt Oman 1,,,DVB-S2,2500.0,5/6,11627 V,tp DE8,,,,Sawt Oman 1,https://www.lyngsat.com/radiochannels/om/Sawt-Oman-1.html,False,Oman TV,Ara
+1,Libya Sport HD1,65535-1MPEG-4/HD,308.0,DVB-S2,1667.0,5/6,11643 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,Afaq TV,65535-1MPEG-4/HD,308.0,DVB-S2,2296.0,3/4,11663 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,AIC TV,?-?MPEG-4/HD,256.0,DVB-S2,2500.0,3/5,11666 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,Libya Sport HD2,65535-1MPEG-4/HD,101.0,DVB-S2,2917.0,3/4,11671 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,Libya Sport FM,,,DVB-S2,2917.0,3/4,11671 V,tp DM10,47.0,,,Libya Sport FM,https://www.lyngsat.com/radiochannels/ly/Libya-Sport-FM.html,False,Oman TV,Ara
+1,Al Hadath,1-5MPEG-2/SD,308.0,DVB-S,2850.0,7/8,11678 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,Yemen Today TV,8192-4096MPEG-4/SD,36.0,DVB-S,1300.0,5/6,11690 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+2,Nabaa TV,65534-1MPEG-4/SD,313.0,DVB-S2,1100.0,2/3,11692 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+1,Altaleaa TV,65535-1MPEG-4/HD,33.0,DVB-S2,1481.0,3/4,11696 V,tp DM10,47.0,,,,,False,Oman TV,Ara
+,,,,,,,,,,,,DVB-S28PSK12003/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK14813/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK14813/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK14813/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S20005/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S20005/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S29003/4,GkWare,False,Oman TV,
+,,,,,,,,,,,,DVB-S29003/4,GkWare,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK29633/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK28565/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK33335/6,BISS 2,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK33335/6,BISS 2,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK28503/4,BISS 1,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK28503/4,BISS 1,False,Oman TV,
+,,,,,,,,,,,,DVB-S28507/8,BISS 1,False,Oman TV,
+,,,,,,,,,,,,DVB-S28507/8,BISS 1,False,Oman TV,
+,,,,,,,,,,,,DVB-S28507/8,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28507/8,,False,Oman TV,
+,,,,,,,,,,,,DVB-S2553/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S2553/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S1853/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S1853/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S1853/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK44005/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK44005/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK1703/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S2QPSK1703/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1753/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1753/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1755/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1755/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1805/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK1805/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK12503/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK12503/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK16675/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK22963/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK25003/5,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK25003/5,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK29173/4,,False,Oman TV,
+,,,,,,,,,,,,DVB-S13005/6,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK11002/3,,False,Oman TV,
+,,,,,,,,,,,,DVB-S28PSK11002/3,,False,Oman TV,

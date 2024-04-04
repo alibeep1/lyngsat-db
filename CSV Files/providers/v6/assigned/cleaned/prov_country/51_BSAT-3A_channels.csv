@@ -1,0 +1,12 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country,Provider_Country
+151.0,BS Asahi,/HD,320.0,ISDB-S,28860,2/3,11727 R,tp 1,,B-CAS,,BS Asahi,https://www.lyngsat.com/tvchannels/jp/BS-Asahi.html,,,False,,Jpn,jp,
+161.0,BS-TBS,/HD,273.0,ISDB-S,28860,2/3,11727 R,tp 1,,B-CAS,,BS-TBS,https://www.lyngsat.com/tvchannels/jp/BS-TBS.html,,,False,,Jpn,jp,
+171.0,BS TV Tokyo,/HD,,ISDB-S,28860,2/3,11727 R,tp 1,,B-CAS,,BS TV Tokyo,https://www.lyngsat.com/tvchannels/jp/BS-TV-Tokyo.html,,,False,,Jpn,jp,
+103.0,NHK BS Premium,/HD,,ISDB-S,28860,2/3,11766 R,tp 3,,B-CAS,,NHK BS Premium,https://www.lyngsat.com/tvchannels/jp/NHK-BS-Premium.html,,,False,,Jpn,jp,
+211.0,BS 11,/HD,,ISDB-S,28860,2/3,11881 R,tp 9,,B-CAS,,BS 11,https://www.lyngsat.com/tvchannels/jp/BS-11.html,,,False,,Jpn,jp,
+222.0,BS 12,/HD,,ISDB-S,28860,2/3,11881 R,tp 9,,B-CAS,,BS 12,https://www.lyngsat.com/tvchannels/jp/BS-12.html,,,False,,Jpn,jp,
+141.0,BS Nippon TV,/HD,,ISDB-S,28860,2/3,11958 R,tp 13,,B-CAS,,BS Nippon TV,https://www.lyngsat.com/tvchannels/jp/BS-Nippon-TV.html,,,False,,Jpn,jp,
+181.0,BS Fuji,/HD,,ISDB-S,28860,2/3,11958 R,tp 13,,B-CAS,,BS Fuji,https://www.lyngsat.com/tvchannels/jp/BS-Fuji.html,,,False,,Jpn,jp,
+101.0,NHK BS 1,,,ISDB-S,28860,2/3,11996 R,tp 15,,B-CAS,,NHK BS 1,https://www.lyngsat.com/tvchannels/jp/NHK-BS-1.html,,,False,,Jpn,jp,
+45329.0,BS-TBS 4K,HEVC/UHD,,ISDB-S3,.,2/3,12034 R,tp 17,,ACAS,,BS-TBS 4K,https://www.lyngsat.com/tvchannels/jp/BS-TBS-4K.html,,,False,,Jpn,jp,
+45330.0,BS Fuji 4K,HEVC/UHD,,ISDB-S3,.,2/3,12034 R,tp 17,,ACAS,,BS Fuji 4K,https://www.lyngsat.com/tvchannels/jp/BS-Fuji-4K.html,,,False,,Jpn,jp,

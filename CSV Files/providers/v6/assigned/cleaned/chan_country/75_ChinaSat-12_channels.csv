@@ -1,0 +1,59 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,(feeds),,,DVB-S2,2400.0,3/4,3728 H,tp 1A,,,,,,False,,,
+,(feeds),,,DVB-S2,1650.0,5/6,3730 V,tp 1B,,,,,,False,,,
+,(feeds),,,DVB-S2,1200.0,3/4,3763 H,tp 2A,,,,,,False,,,
+,(feeds),,,DVB-S2,1600.0,3/4,3770 H,tp 2A,,,,,,False,,,
+,(feeds),,,DVB-S2,4600.0,3/4,3811 V,tp 3B,,,,,,False,,,
+,(feeds),,,DVB-S2,4600.0,3/4,3817 V,tp 3B,,,,,,False,,,
+,(feeds),,,DVB-S2,7500.0,5/6,3828 V,tp 3B,,,,,,False,,,
+,(feeds),,,DVB-S2,6920.0,3/4,3858 H,,,,,,,False,,,
+,(feeds),,,DVB-S,3600.0,3/4,3983 V,,,,,,,False,,,
+,(feeds),,,DVB-S,3600.0,3/4,3995 V,,,,,,,False,,,
+,(feeds),,,DVB-S2,3750.0,9/10,4005 H,,,,,,,False,,,
+,(feeds),,,DVB-S,1200.0,3/4,4025 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S,1200.0,3/4,4028 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S2,2080.0,3/4,4040 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S,1500.0,5/6,4043 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S2,1500.0,5/6,4067 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S2,1080.0,3/4,4094 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S2,1600.0,3/4,4096 H,tp 8A,,,,,,False,,,
+,(feeds),,,DVB-S2,1600.0,5/6,4098 H,tp 8A,,,,,,False,,,
+1.0,Yunnan Lancang-Mekong International Channel,1-1MPEG-4/SD,256.0,DVB-S2,1800.0,3/4,3774 H,tp 2A,,,,,,False,,,
+,(BBTV Channel 7 feeds),,,DVB-S2,2300.0,5/6,3836 V,tp 3B,,,,,,False,,,
+,,,,DVB-S2,7200.0,3/4,4020 V,tp 7B,,,,,,False,,,
+1.0,Polimer,MPEG-4/SD,1001.0,DVB-S2,7200.0,3/4,4020 V,tp 7B,,,,Polimer,https://www.lyngsat.com/tvchannels/in/Polimer.html,False,,Tam,in
+2.0,Polimer News,MPEG-4/SD,1002.0,DVB-S2,7200.0,3/4,4020 V,tp 7B,,,,Polimer News,https://www.lyngsat.com/tvchannels/in/Polimer-News.html,False,,Tam,in
+3.0,Jothi TV,MPEG-4/SD,1003.0,DVB-S2,7200.0,3/4,4020 V,tp 7B,,,,Jothi TV,https://www.lyngsat.com/tvchannels/in/Jothi-TV.html,False,,Tam,in
+4.0,Polimer Samachar,MPEG-4/SD,1004.0,DVB-S2,7200.0,3/4,4020 V,tp 7B,,,,Polimer Samachar,https://www.lyngsat.com/tvchannels/in/Polimer-Samachar.html,False,,Hin,in
+,(NBT TV feeds),,,DVB-S2,3750.0,3/4,4027 V,tp 7B,,,,,,False,,,
+,(NBT TV feeds),,,DVB-S,3750.0,3/4,4032 V,tp 7B,,,,,,False,,,
+,Voice of Strait,65535-1,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,https://www.lyngsat.com/providers/cn/Voice-of-Strait.html,,,True,Voice of Strait,,
+1.0,VOS Auto and Life FM 90.6,,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,,VOS Auto and Life FM 90.6,https://www.lyngsat.com/radiochannels/cn/VOS-Auto-and-Life-FM-906.html,False,Voice of Strait,Chi,cn
+1.0,CHBC 107.1 FM,,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,,CHBC 107.1 FM,https://www.lyngsat.com/radiochannels/cn/CHBC-1071-FM.html,False,Voice of Strait,Chi,cn
+1.0,VOS News AM 666,,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,,VOS News AM 666,https://www.lyngsat.com/radiochannels/cn/VOS-News-AM-666.html,False,Voice of Strait,Chi,cn
+1.0,VOS Minnan Dialect AM 783,,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,,VOS Minnan Dialect AM 783,https://www.lyngsat.com/radiochannels/cn/VOS-Minnan-Dialect-AM-783.html,False,Voice of Strait,Chi,cn
+1.0,VOS Sunshine FM 99.6,,,DVB-S2,1073.0,3/4,4035 H,tp 8A,,,,VOS Sunshine FM 99.6,https://www.lyngsat.com/radiochannels/cn/VOS-Sunshine-FM-996.html,False,Voice of Strait,Chi,cn
+,Raj TV Network,1-1,,DVB-S2,28800.0,3/4,4140 V,,,,https://www.lyngsat.com/providers/in/Raj-TV-Network.html,,,True,Raj TV Network,,
+1.0,Raj TV,MPEG-4/SD,601.0,DVB-S2,28800.0,3/4,4140 V,,,Irdeto,,Raj TV,https://www.lyngsat.com/tvchannels/in/Raj-TV.html,False,Raj TV Network,Tam,in
+2.0,Raj Digital Plus,MPEG-4/SD,602.0,DVB-S2,28800.0,3/4,4140 V,,,Irdeto,,Raj Digital Plus,https://www.lyngsat.com/tvchannels/in/Raj-Digital-Plus.html,False,Raj TV Network,Tam,in
+3.0,Raj News,MPEG-4/SD,603.0,DVB-S2,28800.0,3/4,4140 V,,,Irdeto,,Raj News,https://www.lyngsat.com/tvchannels/in/Raj-News.html,False,Raj TV Network,Tam,in
+4.0,Raj Musix Tamil,MPEG-4/SD,604.0,DVB-S2,28800.0,3/4,4140 V,,,Irdeto,,Raj Musix Tamil,https://www.lyngsat.com/tvchannels/in/Raj-Musix-Tamil.html,False,Raj TV Network,Tam,in
+5.0,Vissa,MPEG-4/SD,605.0,DVB-S2,28800.0,3/4,4140 V,,,,,Vissa,https://www.lyngsat.com/tvchannels/in/Vissa.html,False,Raj TV Network,Tel,in
+6.0,Raj Musix Kannada,MPEG-4/SD,606.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj Musix Kannada,https://www.lyngsat.com/tvchannels/in/Raj-Musix-Kannada.html,False,Raj TV Network,Kan,in
+7.0,Raj News Kannada,MPEG-4/SD,607.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj News Kannada,https://www.lyngsat.com/tvchannels/in/Raj-News-Kannada.html,False,Raj TV Network,Kan,in
+8.0,Raj Musix Telugu,MPEG-4/SD,608.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj Musix Telugu,https://www.lyngsat.com/tvchannels/in/Raj-Musix-Telugu.html,False,Raj TV Network,Tel,in
+9.0,Raj News Telugu,MPEG-4/SD,609.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj News Telugu,https://www.lyngsat.com/tvchannels/in/Raj-News-Telugu.html,False,Raj TV Network,Tel,in
+10.0,Raj News Malayalam,MPEG-4/SD,610.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj News Malayalam,https://www.lyngsat.com/tvchannels/in/Raj-News-Malayalam.html,False,Raj TV Network,Mal,in
+11.0,Raj Musix Malayalam,MPEG-4/SD,611.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj Musix Malayalam,https://www.lyngsat.com/tvchannels/in/Raj-Musix-Malayalam.html,False,Raj TV Network,Mal,in
+12.0,Raj Pariwar,MPEG-4/SD,612.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj Pariwar,https://www.lyngsat.com/tvchannels/in/Raj-Pariwar.html,False,Raj TV Network,Hin,in
+13.0,Raj Nagaichuvai,MPEG-4/SD,613.0,DVB-S2,28800.0,3/4,4140 V,,,,,Raj Nagaichuvai,https://www.lyngsat.com/tvchannels/in/Raj-Nagaichuvai.html,False,Raj TV Network,Tam,in
+1.0,Korean Central TV,65281-1MPEG-4/HD,101.0,DVB-S2,4167.0,3/5,4180 V,,,,,,,False,Raj TV Network,Kor,
+2.0,Voice of Korea,,,DVB-S2,4167.0,3/5,4180 V,,,,,Voice of Korea,https://www.lyngsat.com/radiochannels/kp/Voice-of-Korea.html,False,Raj TV Network,,kp
+3.0,KCBS,,,DVB-S2,4167.0,3/5,4180 V,,,,,KCBS,https://www.lyngsat.com/radiochannels/kp/KCBS.html,False,Raj TV Network,Kor,kp
+1.0,Zhejiang Satellite TV,?-?MPEG-4/SD,69.0,DVB-S2,10831.0,1/4,11148 V,,,,,,,False,Raj TV Network,Chi,
+1.0,CCTV 13,?-?MPEG-4/SD,256.0,DVB-S2,8332.0,3/4,11191 V,,,,,,,False,Raj TV Network,Chi,
+,,,,,,,,,,,,DVB-S2QPSK18003/4,,False,Raj TV Network,,
+,,,,,,,,,,,,DVB-S28PSK41673/5,,False,Raj TV Network,,
+,,,,,,,,,,,,DVB-S2QPSK108311/4,,False,Raj TV Network,,
+,,,,,,,,,,,,DVB-S2QPSK83323/4,,False,Raj TV Network,,
+,,,,,,,,,,,,DVB-S2QPSK83323/4,,False,Raj TV Network,,

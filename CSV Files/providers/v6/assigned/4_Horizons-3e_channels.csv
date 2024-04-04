@@ -1,0 +1,31 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+11003 H,DVB-S2QPSK288002/3,,MySat,,,,3.1,,C Sutton240302,DVB-S2,28800,2/3,11003 H,,,,https://www.lyngsat.com/providers/au/MySat.html,,,True,MySat
+11003 H,DVB-S2QPSK288002/3,1.0,Rai Italia Australia,,MPEG-4/SD,412.0,413 Ita,,,DVB-S2,28800,2/3,11003 H,,,,,Rai Italia Australia,https://www.lyngsat.com/tvchannels/it/Rai-Italia-Australia.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,4.0,Mediaset Italia,,MPEG-4/SD,427.0,428 Ita,,,DVB-S2,28800,2/3,11003 H,,,,,Mediaset Italia,https://www.lyngsat.com/tvchannels/it/Mediaset-Italia.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,15.0,Alpha Sat,,MPEG-4/SD,457.0,458 Gre,,,DVB-S2,28800,2/3,11003 H,,,,,Alpha Sat,https://www.lyngsat.com/tvchannels/gr/Alpha-Sat.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,16.0,ERT World,,MPEG-4/SD,462.0,463 Gre,,,DVB-S2,28800,2/3,11003 H,,,,,ERT World,https://www.lyngsat.com/tvchannels/gr/ERT-World.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,18.0,Ant1 Pacific,,MPEG-4/SD,442.0,443 Gre,,,DVB-S2,28800,2/3,11003 H,,,,,Ant1 Pacific,https://www.lyngsat.com/tvchannels/gr/Ant1-Pacific.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,19.0,Greek Cinema,,MPEG-4/SD,447.0,448 Gre,,,DVB-S2,28800,2/3,11003 H,,,,,Greek Cinema,https://www.lyngsat.com/tvchannels/us/Greek-Cinema.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,20.0,SportPlus (Greece),,MPEG-4/SD,452.0,453 Gre,,,DVB-S2,28800,2/3,11003 H,,,,,SportPlus (Greece),https://www.lyngsat.com/tvchannels/gr/SportPlus.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,140.0,Al Jadeed,,MPEG-4/SD,516.0,690 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,Al Jadeed,https://www.lyngsat.com/tvchannels/lb/Al-Jadeed.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,197.0,LBC International,,MPEG-4/SD,525.0,753 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,LBC International,https://www.lyngsat.com/tvchannels/lb/LBC-International.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,204.0,NourSat,,MPEG-4/SD,530.0,790 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,NourSat,https://www.lyngsat.com/tvchannels/lb/NourSat.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,204.0,NourSat,,MPEG-4/SD,530.0,790 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,NourSat,https://www.lyngsat.com/tvchannels/lb/NourSat.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,206.0,MBC Maser,,MPEG-4/SD,532.0,810 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,206.0,MBC Maser,,MPEG-4/SD,532.0,810 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,300.0,MTV (Lebanon),,MPEG-4/SD,302.0,303 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,MTV (Lebanon),https://www.lyngsat.com/tvchannels/lb/MTV.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,389.0,Aljazeera Channel,,MPEG-4/SD,562.0,.63 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html,False,MySat
+11003 H,DVB-S2QPSK288002/3,389.0,Aljazeera Channel,,MPEG-4/SD,562.0,.63 Ara,,,DVB-S2,28800,2/3,11003 H,,,,,Aljazeera Channel,https://www.lyngsat.com/tvchannels/qa/Aljazeera-Channel.html,False,MySat
+11061 H,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230501,DVB-S2,7500,5/6,11061 H,,,,,,,False,MySat
+11061 V,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230416,DVB-S2,7500,5/6,11061 V,,,,,,,False,MySat
+11078 H,DVB-S28PSK7500,,(feeds),,,,,,C Sutton230719,DVB-S2,7500,5/6,11078 H,,,,,,,False,MySat
+11079 V,DVB-S27500,,(feeds),,,,,,C Sutton230430,DVB-S2,7500,5/6,11079 V,,,,,,,False,MySat
+11087 H,DVB-S28PSK7500,,(feeds),,,,,,C Sutton230719,DVB-S2,7500,5/6,11087 H,,,,,,,False,MySat
+11131 V,DVB-S28PSK7500,,(feeds),,,,,,C Sutton230416,DVB-S2,7500,5/6,11131 V,,,,,,,False,MySat
+11251 V,DVB-S230000,,(feeds),,,,,,C Sutton230415,DVB-S2,7500,5/6,11251 V,,,,,,,False,MySat
+11274 H,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230507,DVB-S2,7500,5/6,11274 H,,,,,,,False,MySat
+11283 H,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230501,DVB-S2,7500,5/6,11283 H,,,,,,,False,MySat
+11292 H,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230507,DVB-S2,7500,5/6,11292 H,,,,,,,False,MySat
+11301 H,DVB-S28PSK75003/4,,(feeds),,,,,,C Sutton230520,DVB-S2,7500,3/4,11301 H,,,,,,,False,MySat
+11340 H,DVB-S28PSK75003/4,,(feeds),,,,,,C Sutton230607,DVB-S2,7500,3/4,11340 H,,,,,,,False,MySat
+12274 H,DVB-S28PSK75005/6,,(feeds),,,,,,C Sutton230501,DVB-S2,7500,5/6,12274 H,,,,,,,False,MySat

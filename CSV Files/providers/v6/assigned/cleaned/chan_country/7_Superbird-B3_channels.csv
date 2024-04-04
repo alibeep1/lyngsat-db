@@ -1,0 +1,13 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+1.0,Nippon TV,?-?HEVC/HD,512.0,DVB-S2,5180.0,3/4,12314 H,,,BISS,,,,False,,Jpn,
+1.0,[NTV test card],?-?HEVC/HD,512.0,DVB-S2,5179.0,2/3,12319 H,,,BISS,,,,False,,,
+1.0,NTV News 24,?-?HEVC/HD,512.0,DVB-S2,5179.0,1/2,12324 H,,,BISS,,,,False,,Jpn,
+,(TBS feeds),,,DVB-S2,5179.0,2/3,12348 H,,,,,,,False,,,
+,(NTV feeds),,,DVB-S2,5179.0,2/3,12354 H,,,,,,,False,,,
+,(Fuji TV feeds),,,DVB-S2,7072.0,3/4,12395 H,,,,,,,False,,,
+,(feeds),,,DVB-S2,15150.0,3/4,12403 V,,,,,,,False,,,
+,(feeds),,,DVB-S2,11707.0,3/4,12419 V,,,,,,,False,,,
+,(feeds),,,DVB-S2,12222.0,3/4,12441 V,,,,,,,False,,,
+1.0,[test card],?-?HEVC/SD,1241.0,DVB-S2,5454.0,3/4,12523 H,,,,,,,False,,,
+,,,,,,,,,,,,DVB-S2QPSK51803/4,BISS,False,,,
+,,,,,,,,,,,,DVB-S2QPSK51791/2,BISS,False,,,

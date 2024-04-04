@@ -1,0 +1,8 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,(feeds),,,DVB-S2,30000.0,5/6,4020 H,tp 16,,,,,,False,,
+,(feeds),,,DVB-S2,14036.0,5/6,4071 V,tp 19,,,,,,False,,
+,(feeds),,,DVB-S2,15000.0,2/3,4151 V,tp 23,,,,,,False,,
+,(feeds),,,DVB-S2,15000.0,2/3,4169 V,tp 23,,,,,,False,,
+1.0,The CW,?-?MPEG-4/HD,162.0,DVB-S2,15000.0,5/6,4109 H,tp 20,,,,,,False,,Eng
+,(CBS feeds),,,DVB-S2,34286.0,2/3,4140 H,tp 22,,,,,,False,,
+,,,,,,,,,,,,DVB-S28PSK150005/6,,False,,

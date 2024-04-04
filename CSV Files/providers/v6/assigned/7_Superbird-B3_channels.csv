@@ -1,0 +1,13 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+12314 HJapan,DVB-S2QPSK51803/4,1.0,Nippon TV,,?-?HEVC/HD,512.0,4.04112 Jpn,BISS,T Kameda200713,DVB-S2,5180.0,3/4,12314 H,,,BISS,,,,False,
+12319 HJapan,DVB-S216APSK51792/3,1.0,[NTV test card],,?-?HEVC/HD,512.0,4112,BISS,T Kameda180905,DVB-S2,5179.0,2/3,12319 H,,,BISS,,,,False,
+12324 HJapan,DVB-S2QPSK51791/2,1.0,NTV News 24,,?-?HEVC/HD,512.0,1.04112 Jpn,BISS,T Kameda180905,DVB-S2,5179.0,1/2,12324 H,,,BISS,,,,False,
+12348 HJapan,DVB-S216APSK51792/3,,(TBS feeds),,,,,,T Kameda180905,DVB-S2,5179.0,2/3,12348 H,,,,,,,False,
+12354 HJapan,DVB-S216APSK51792/3,,(NTV feeds),,,,,,T Kameda180905,DVB-S2,5179.0,2/3,12354 H,,,,,,,False,
+12395 HJapan,DVB-S232APSK70723/4,,(Fuji TV feeds),,,,,,T Kameda180905,DVB-S2,7072.0,3/4,12395 H,,,,,,,False,
+12403 VJapan,DVB-S2QPSK151503/4,,(feeds),,,,,,T Kameda201122,DVB-S2,15150.0,3/4,12403 V,,,,,,,False,
+12419 VJapan,DVB-S2117073/4,,(feeds),,,,,,T Kameda181104,DVB-S2,11707.0,3/4,12419 V,,,,,,,False,
+12441 VJapan,DVB-S2QPSK122223/4,,(feeds),,,,,,T Kameda180905,DVB-S2,12222.0,3/4,12441 V,,,,,,,False,
+12523 HJapan,DVB-S2QPSK54543/4,1.0,[test card],,?-?HEVC/SD,1241.0,4.01242,,T Kameda190421,DVB-S2,5454.0,3/4,12523 H,,,,,,,False,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK51803/4,BISS,False,
+,,,,,,,,,,,,,,,,,,DVB-S2QPSK51791/2,BISS,False,

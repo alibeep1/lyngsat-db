@@ -1,0 +1,306 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,,,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,,,,,False,,
+,,,,DVB-S2,3333.0,1/2,3819 V,tp 3C,,,,,,,,False,,
+,,,,DVB-S2,3333.0,1/2,3823 V,tp 3C,,,,,,,,False,,
+,,,,DVB-S2,1400.0,4/5,3827 H,tp 15C,,,,,,,,False,,
+,,,,DVB-S2,2500.0,5/6,3940 H,tp 18C,,,,,,,,False,,
+,,,,DVB-S,2222.0,3/4,3945 V,tp 6C,,,,,,,,False,,
+,,,,DVB-S2,1666.0,5/6,3995 V,tp 8C,,,,,,,,False,,
+,,,,DVB-S2,30000.0,5/6,11104 V,tp 8K,,,,,,,,False,,
+257.0,Wailing Women Worldwide TV,,257.0,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Wailing Women Worldwide TV,https://www.lyngsat.com/tvchannels/ng/Wailing-Women-Worldwide-TV.html,,,False,,Eng
+531.0,MFM TV,,532.0,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,MFM TV,https://www.lyngsat.com/tvchannels/ng/MFM-TV.html,,,False,,Eng
+1.0,MFM TV,?-?MPEG-4/HD,33.0,DVB-S2,2400.0,3/5,4148 V,tp 11C,,,,MFM TV,https://www.lyngsat.com/tvchannels/ng/MFM-TV.html,,,False,,Eng
+513.0,Zodiak Radio,,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Zodiak Radio,https://www.lyngsat.com/radiochannels/mw/Zodiak-Radio.html,,,False,,Eng
+513.0,Zodiak Radio,,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Zodiak Radio,https://www.lyngsat.com/radiochannels/mw/Zodiak-Radio.html,,,False,,Eng
+514.0,Capital FM (Malawi),,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Capital FM (Malawi),https://www.lyngsat.com/radiochannels/mw/Capital-FM.html,,,False,,Eng
+514.0,Capital FM (Malawi),,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Capital FM (Malawi),https://www.lyngsat.com/radiochannels/mw/Capital-FM.html,,,False,,Eng
+517.0,Nyami Nyami FM,,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Nyami Nyami FM,https://www.lyngsat.com/radiochannels/za/Nyami-Nyami-FM.html,,,False,,Eng
+517.0,Nyami Nyami FM,,,DVB-S2,3333.0,1/2,3817 H,tp 4C,,,,Nyami Nyami FM,https://www.lyngsat.com/radiochannels/za/Nyami-Nyami-FM.html,,,False,,Eng
+1.0,Kameme TV,?-?MPEG-4/SD,258.0,DVB-S2,1400.0,4/5,3827 V,tp 3C,,,,,,,,False,,Eng
+,Kenyan mux,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,,,,,False,,
+,Kenyan mux,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,,,,,False,,
+11.0,Lulu FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Lulu FM,https://www.lyngsat.com/radiochannels/ke/Lulu-FM.html,,,False,,
+12.0,Trace FM Kenya,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Trace FM Kenya,https://www.lyngsat.com/radiochannels/fr/Trace-FM-Kenya.html,,,False,,Eng
+13.0,Sidai FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Sidai FM,https://www.lyngsat.com/radiochannels/ke/Sidai-FM.html,,,False,,
+13.0,Sidai FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Sidai FM,https://www.lyngsat.com/radiochannels/ke/Sidai-FM.html,,,False,,
+14.0,Soundcity Radio 88.5 Nairobi,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Soundcity Radio 88.5 Nairobi,https://www.lyngsat.com/radiochannels/ng/Soundcity-Radio-885-Nairobi.html,,,False,,Eng
+15.0,Sang'u FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Sang'u FM,https://www.lyngsat.com/radiochannels/ke/Sangu-FM.html,,,False,,
+15.0,Sang'u FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Sang'u FM,https://www.lyngsat.com/radiochannels/ke/Sangu-FM.html,,,False,,
+16.0,Getu FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Getu FM,https://www.lyngsat.com/radiochannels/ke/Getu-FM.html,,,False,,Som
+16.0,Getu FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Getu FM,https://www.lyngsat.com/radiochannels/ke/Getu-FM.html,,,False,,Som
+17.0,Inka FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Inka FM,https://www.lyngsat.com/radiochannels/gh/Inka-FM.html,,,False,,
+18.0,Gichichio FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Gichichio FM,https://www.lyngsat.com/radiochannels/ke/Gichichio-FM.html,,,False,,
+19.0,Kayu FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Kayu FM,https://www.lyngsat.com/radiochannels/ke/Kayu-FM.html,,,False,,Eng
+19.0,Kayu FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Kayu FM,https://www.lyngsat.com/radiochannels/ke/Kayu-FM.html,,,False,,Eng
+20.0,Mwangaza wa Neno FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+20.0,Mwangaza wa Neno FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+20.0,Mwangaza wa Neno FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+20.0,Mwangaza wa Neno FM,,,DVB-S2,1585.0,3/4,3834 H,tp 16C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+512.0,Mwangaza wa Neno FM,,,DVB-S2,1166.0,3/4,4117 V,tp 11C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+512.0,Mwangaza wa Neno FM,,,DVB-S2,1166.0,3/4,4117 V,tp 11C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+512.0,Mwangaza wa Neno FM,,,DVB-S2,1166.0,3/4,4117 V,tp 11C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+512.0,Mwangaza wa Neno FM,,,DVB-S2,1166.0,3/4,4117 V,tp 11C,,,,Mwangaza wa Neno FM,https://www.lyngsat.com/radiochannels/ke/Mwangaza-wa-Neno-FM.html,,,False,,
+1003.0,Thunder TV,?-?MPEG-4/SD,34.0,DVB-S2,1250.0,3/4,3836 H,tp 16C,,,,,,,,False,,Eng
+257.0,Christ Mandate TV,?-?MPEG-4/SD,257.0,DVB-S2,1250.0,2/3,3838 H,tp 16C,,,,,,,,False,,Eng
+101.0,Rapid TV,?-?MPEG-4/SD,33.0,DVB-S2,1500.0,3/4,3840 H,tp 16C,,,,,,,,False,,Eng
+1.0,Salt TV,?-?MPEG-2/SD,308.0,DVB-S2,1582.0,2/3,3842 H,tp 16C,,,,,,,,False,,Eng
+2.0,Salt FM,,,DVB-S2,1582.0,2/3,3842 H,tp 16C,,,,Salt FM,https://www.lyngsat.com/radiochannels/ug/Salt-FM.html,,,False,,Eng
+1.0,AfroSport TV,?-?MPEG-4/HD,257.0,DVB-S2,2380.0,3/5,3863 H,tp 16C,,,,,,,,False,,Eng
+1.0,News Central TV,?-?MPEG-4/SD,273.0,DVB-S2,2500.0,5/6,3866 H,tp 16C,,,,,,,,False,,Eng
+100.0,Joy Gospel TV,?-?MPEG-4/SD,257.0,DVB-S2,1250.0,3/5,3869 H,tp 16C,,,,,,,,False,,Eng
+1.0,Jehova Jire TV,?-?,256.0,DVB-S2,1250.0,3/5,3874 H,tp 17C,,,,,,,,False,,Eng
+,(feeds),,,DVB-S2,7200.0,3/4,3915 V,tp 6C,,,,,,,,False,,
+,(feeds),,,DVB-S,2222.0,3/4,3944 H,tp 18C,,,,,,,,False,,
+,(feeds),,,DVB-S2,3750.0,3/4,3955 V,tp 7C,,,,,,,,False,,
+,(feeds),,,DVB-S2,3333.0,5/6,10958 H,tp 1K,,,,,,,,False,,
+,(feeds),,,DVB-S2,7500.0,5/6,10960 V,tp 2K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2962.0,5/6,10998 V,tp 4K,,,,,,,,False,,
+,(feeds),,,DVB-S2,10000.0,5/6,11007 V,tp 4K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5832.0,3/4,11017 H,tp 3K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5832.0,3/4,11024 H,tp 3K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5185.0,3/4,11030 H,tp 3K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11037 V,tp 6K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3333.0,5/6,11042 H,tp 5K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11042 V,tp 6K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11046 H,tp 5K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2480.0,5/6,11048 V,tp 6K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3333.0,5/6,11049 H,tp 5K,,,,,,,,False,,
+,(feeds),,,DVB-S2,7500.0,5/6,11058 H,tp 5K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5000.0,5/6,11060 V,tp 6K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3333.0,3/4,11071 H,tp 5K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3330.0,5/6,11071 V,tp 6K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2222.0,5/6,11077 V,tp 8K,,,,,,,,False,,
+,(feeds),,,DVB-S2,7500.0,3/4,11088 V,tp 8K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5000.0,3/4,11119 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,7500.0,3/4,11126 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11132 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11135 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,5800.0,3/4,11143 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S,2100.0,3/4,11147 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3330.0,5/6,11150 V,tp 10K,,,,,,,,False,,
+,(feeds),,,DVB-S2,7200.0,3/4,11162 V,tp 12K,,,,,,,,False,,
+,(feeds),,,DVB-S2,3200.0,5/6,11174 V,tp 12K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2060.0,4/5,11184 V,tp 12K,,,,,,,,False,,
+,(feeds),,,DVB-S2,2500.0,5/6,11187 V,tp 12K,,,,,,,,False,,
+2.0,Wasafi TV,?-?MPEG-4/SD,515.0,DVB-S2,2500.0,5/6,3922 V,tp 6C,,,,,,,,False,,
+1.0,Wasafi FM,,,DVB-S2,2500.0,5/6,3922 V,tp 6C,,,,Wasafi FM,https://www.lyngsat.com/radiochannels/tz/Wasafi-FM.html,,,False,,
+1.0,Plus TV Africa,?-?MPEG-4/SD,512.0,DVB-S2,1666.0,5/6,3993 V,tp 8C,,,,,,,,False,,Eng
+1.0,Hi-Impact TV,?-?MPEG-4/HD,258.0,DVB-S2,2204.0,3/5,4003 V,tp 8C,,,,,,,,False,,Eng
+2.0,Hi-Impact Radio,,,DVB-S2,2204.0,3/5,4003 V,tp 8C,,,,Hi-Impact Radio,https://www.lyngsat.com/radiochannels/ng/Hi-Impact-Radio.html,,,False,,Eng
+1.0,Salvation Ministries,?-?MPEG-4/SD,512.0,DVB-S2,1600.0,5/6,4005 V,tp 8C,,,,,,,,False,,Eng
+2.0,Channel Ten,1-1MPEG-4/SD,49.0,DVB-S2,2432.0,3/4,4112 V,tp 11C,,,,,,,,False,,Eng
+1.0,Magic FM (Tanzania),,,DVB-S2,2432.0,3/4,4112 V,tp 11C,,,,Magic FM (Tanzania),https://www.lyngsat.com/radiochannels/tz/Magic-FM.html,,,False,,Eng
+3.0,Classic FM (Tanzania),,,DVB-S2,2432.0,3/4,4112 V,tp 11C,,,,Classic FM (Tanzania),https://www.lyngsat.com/radiochannels/tz/Classic-FM.html,,,False,,Eng
+1.0,TV Imaan,?-?MPEG-4/SD,512.0,DVB-S2,1190.0,8/9,4115 V,tp 11C,,,,,,,,False,,
+2.0,Radio Imaan FM,,,DVB-S2,1190.0,8/9,4115 V,tp 11C,,,,Radio Imaan FM,https://www.lyngsat.com/radiochannels/tz/Radio-Imaan-FM.html,,,False,,Eng
+257.0,Mwangaza TV,?-?MPEG-4/SD,257.0,DVB-S2,1166.0,3/4,4117 V,tp 11C,,,,,,,,False,,
+257.0,Celebration TV,?-?MPEG-4/SD,257.0,DVB-S2,1200.0,3/5,4119 V,tp 11C,,,,,,,,False,,Eng
+257.0,Celebration TV,?-?MPEG-4/SD,257.0,DVB-S2,1057.0,3/4,4125 V,tp 11C,,,,,,,,False,,Eng
+1.0,Lagos TV,?-?MPEG-4/SD,103.0,DVB-S2,1190.0,3/4,4121 V,tp 11C,,,,,,,,False,,Eng
+1.0,Star TV (Tanzania),?-?MPEG-2/SD,4194.0,DVB-S2,2381.0,3/4,4123 V,tp 11C,,,,,,,,False,,Swa
+3.0,TV Sapientia,?-?MPEG-4/HD,481.0,DVB-S2,2380.0,5/6,4127 V,tp 11C,,,,,,,,False,,Eng
+1.0,TV E,?-?MPEG-4/HD,260.0,DVB-S2,2000.0,3/4,4130 V,tp 11C,,,,,,,,False,,Eng
+2.0,EFM,,,DVB-S2,2000.0,3/4,4130 V,tp 11C,,,,EFM,https://www.lyngsat.com/radiochannels/tz/EFM.html,,,False,,Swa
+1.0,Clouds TV,8192-4096MPEG-4/SD,512.0,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,,,,,False,,Eng
+2.0,Clouds FM,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Clouds FM,https://www.lyngsat.com/radiochannels/tz/Clouds-FM.html,,,False,,Eng
+2.0,Clouds FM,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Clouds FM,https://www.lyngsat.com/radiochannels/tz/Clouds-FM.html,,,False,,Eng
+3.0,Choice FM,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Choice FM,https://www.lyngsat.com/radiochannels/tz/Choice-FM.html,,,False,,Swa
+4.0,Radio Safina,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Radio Safina,https://www.lyngsat.com/radiochannels/tz/Radio-Safina.html,,,False,,
+4.0,Radio Safina,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Radio Safina,https://www.lyngsat.com/radiochannels/tz/Radio-Safina.html,,,False,,
+5.0,Jambo FM,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Jambo FM,https://www.lyngsat.com/radiochannels/tz/Jambo-FM.html,,,False,,Swa
+5.0,Jambo FM,,,DVB-S2,1843.0,5/6,4132 V,tp 11C,,,,Jambo FM,https://www.lyngsat.com/radiochannels/tz/Jambo-FM.html,,,False,,Swa
+1.0,Salvation TV (Nigeria),?-?MPEG-4/SD,512.0,DVB-S,1282.0,5/6,4135 V,tp 11C,,,,,,,,False,,Eng
+257.0,Upendo TV,?-?MPEG-4/HD,257.0,DVB-S2,1603.0,8/9,4137 V,tp 11C,,,,,,,,False,,
+1.0,Milele FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Milele FM,https://www.lyngsat.com/radiochannels/ke/Milele-FM.html,,,False,,
+2.0,Kameme FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Kameme FM,https://www.lyngsat.com/radiochannels/ke/Kameme-FM.html,,,False,,
+3.0,Meru FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Meru FM,https://www.lyngsat.com/radiochannels/ke/Meru-FM.html,,,False,,
+4.0,Mayian FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Mayian FM,https://www.lyngsat.com/radiochannels/ke/Mayian-FM.html,,,False,,
+5.0,Emoo FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Emoo FM,https://www.lyngsat.com/radiochannels/ke/Emoo-FM.html,,,False,,
+6.0,Msenangu FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Msenangu FM,https://www.lyngsat.com/radiochannels/ke/Msenangu-FM.html,,,False,,
+7.0,Osiepe FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Osiepe FM,https://www.lyngsat.com/radiochannels/ke/Osiepe-FM.html,,,False,,
+8.0,Anguo FM,,,DVB-S2,1304.0,5/6,4138 V,tp 11C,,,,Anguo FM,https://www.lyngsat.com/radiochannels/ke/Anguo-FM.html,,,False,,
+,Silverbird TV,,,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,
+,Silverbird TV,,,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,
+2.0,Silverbird TV,MPEG-4/SD,529.0,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,Eng
+2.0,Silverbird TV,MPEG-4/SD,529.0,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,Eng
+10.0,Silverbird TV,MPEG-4/SD,1041.0,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,Eng
+10.0,Silverbird TV,MPEG-4/SD,1041.0,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,https://www.lyngsat.com/providers/ng/Silverbird-TV.html,Silverbird TV,https://www.lyngsat.com/tvchannels/ng/Silverbird-TV.html,,,True,Silverbird TV,Eng
+32.0,Silverbird News 24,MPEG-4/SD,34.0,DVB-S2,2328.0,3/4,4140 V,tp 11C,,,,Silverbird News 24,https://www.lyngsat.com/tvchannels/ng/Silverbird-News-24.html,,,False,Silverbird TV,Eng
+1001.0,Arise & Shine TV,?-?MPEG-4/HD,34.0,DVB-S2,2300.0,3/4,4144 V,tp 11C,,,,,,,,False,Silverbird TV,Eng
+1.0,Imam Ali TV,65535-1MPEG-4/HD,1001.0,DVB-S2,2030.0,8/9,11002 H,tp 3K,,,,,,,,False,Silverbird TV,Ara
+,ARB Media Qrup,0-1,,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,https://www.lyngsat.com/providers/az/ARB-Media-Qrup.html,,,,,True,ARB Media Qrup,
+1.0,ARB,MPEG-4/HD,515.0,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,ARB,https://www.lyngsat.com/tvchannels/az/ARB.html,,,False,ARB Media Qrup,Aze
+2.0,ARB 24,MPEG-4/HD,516.0,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,ARB 24,https://www.lyngsat.com/tvchannels/az/ARB-24.html,,,False,ARB Media Qrup,Aze
+3.0,ARB Günes,MPEG-4/HD,513.0,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,ARB Günes,https://www.lyngsat.com/tvchannels/az/ARB-Gunes.html,,,False,ARB Media Qrup,Aze
+4.0,Start TV,MPEG-4/HD,517.0,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,Start TV,https://www.lyngsat.com/tvchannels/az/Start-TV.html,,,False,ARB Media Qrup,Aze
+4.0,Start TV,MPEG-4/HD,517.0,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,Start TV,https://www.lyngsat.com/tvchannels/az/Start-TV.html,,,False,ARB Media Qrup,Aze
+5.0,Kepez FM,,,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,Kepez FM,https://www.lyngsat.com/radiochannels/az/Kepez-FM.html,,,False,ARB Media Qrup,Aze
+5.0,Kepez FM,,,DVB-S2,12700.0,5/6,11024 V,tp 4K,,,,Kepez FM,https://www.lyngsat.com/radiochannels/az/Kepez-FM.html,,,False,ARB Media Qrup,Aze
+,Georgian mux,0-0,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,,,,,False,ARB Media Qrup,
+1.0,1 TV (Georgia),MPEG-4/SD,1010.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,1 TV (Georgia),https://www.lyngsat.com/tvchannels/ge/1-TV.html,,,False,ARB Media Qrup,Geo
+2.0,Ajara TV,MPEG-4/HD,1020.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Ajara TV,https://www.lyngsat.com/tvchannels/ge/Ajara-TV.html,,,False,ARB Media Qrup,Geo
+3.0,Imedi TV,MPEG-4/HD,1030.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Imedi TV,https://www.lyngsat.com/tvchannels/ge/Imedi-TV.html,,,False,ARB Media Qrup,Geo
+3.0,Imedi TV,MPEG-4/HD,1030.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Imedi TV,https://www.lyngsat.com/tvchannels/ge/Imedi-TV.html,,,False,ARB Media Qrup,Geo
+4.0,GDS TV,MPEG-4/SD,1040.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,GDS TV,https://www.lyngsat.com/tvchannels/ge/GDS-TV.html,,,False,ARB Media Qrup,Geo
+6.0,TV Pirveli,MPEG-4/HD,1060.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,TV Pirveli,https://www.lyngsat.com/tvchannels/ge/TV-Pirveli.html,,,False,ARB Media Qrup,Geo
+6.0,TV Pirveli,MPEG-4/HD,1060.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,TV Pirveli,https://www.lyngsat.com/tvchannels/ge/TV-Pirveli.html,,,False,ARB Media Qrup,Geo
+7.0,Mtavari Arkhi,MPEG-4/HD,1070.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Mtavari Arkhi,https://www.lyngsat.com/tvchannels/ge/Mtavari-Arkhi.html,,,False,ARB Media Qrup,Geo
+7.0,Mtavari Arkhi,MPEG-4/HD,1070.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Mtavari Arkhi,https://www.lyngsat.com/tvchannels/ge/Mtavari-Arkhi.html,,,False,ARB Media Qrup,Geo
+8.0,Obieqtivi TV,MPEG-4/SD,1080.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Obieqtivi TV,https://www.lyngsat.com/tvchannels/ge/Obieqtivi-TV.html,,,False,ARB Media Qrup,Geo
+8.0,Obieqtivi TV,MPEG-4/SD,1080.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Obieqtivi TV,https://www.lyngsat.com/tvchannels/ge/Obieqtivi-TV.html,,,False,ARB Media Qrup,Geo
+9.0,TV 25 (Georgia),MPEG-4/HD,1090.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,TV 25 (Georgia),https://www.lyngsat.com/tvchannels/ge/TV-25.html,,,False,ARB Media Qrup,Geo
+9.0,TV 25 (Georgia),MPEG-4/HD,1090.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,TV 25 (Georgia),https://www.lyngsat.com/tvchannels/ge/TV-25.html,,,False,ARB Media Qrup,Geo
+11.0,Rustavi 2,MPEG-4/HD,1110.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Rustavi 2,https://www.lyngsat.com/tvchannels/ge/Rustavi-2.html,,,False,ARB Media Qrup,Geo
+11.0,Rustavi 2,MPEG-4/HD,1110.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Rustavi 2,https://www.lyngsat.com/tvchannels/ge/Rustavi-2.html,,,False,ARB Media Qrup,Geo
+12.0,Qartuli TV,MPEG-4/SD,1120.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Qartuli TV,https://www.lyngsat.com/tvchannels/ge/Qartuli-TV.html,,,False,ARB Media Qrup,Geo
+12.0,Qartuli TV,MPEG-4/SD,1120.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Qartuli TV,https://www.lyngsat.com/tvchannels/ge/Qartuli-TV.html,,,False,ARB Media Qrup,Geo
+13.0,Comedy TV (Georgia),MPEG-4/SD,1130.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Comedy TV (Georgia),https://www.lyngsat.com/tvchannels/ge/Comedy-TV.html,,,False,ARB Media Qrup,Geo
+14.0,Pos TV,MPEG-4/HD,1140.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Pos TV,https://www.lyngsat.com/tvchannels/ge/Pos-TV.html,,,False,ARB Media Qrup,Geo
+15.0,Marneuli TV,MPEG-4/SD,1150.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Marneuli TV,https://www.lyngsat.com/tvchannels/ge/Marneuli-TV.html,,,False,ARB Media Qrup,Geo
+15.0,Marneuli TV,MPEG-4/SD,1150.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Marneuli TV,https://www.lyngsat.com/tvchannels/ge/Marneuli-TV.html,,,False,ARB Media Qrup,Geo
+17.0,Palitra News,MPEG-4/SD,1170.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Palitra News,https://www.lyngsat.com/tvchannels/ge/Palitra-News.html,,,False,ARB Media Qrup,Geo
+17.0,Palitra News,MPEG-4/SD,1170.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Palitra News,https://www.lyngsat.com/tvchannels/ge/Palitra-News.html,,,False,ARB Media Qrup,Geo
+18.0,Formula,MPEG-4/HD,1180.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Formula,https://www.lyngsat.com/tvchannels/ge/Formula.html,,,False,ARB Media Qrup,Geo
+18.0,Formula,MPEG-4/HD,1180.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Formula,https://www.lyngsat.com/tvchannels/ge/Formula.html,,,False,ARB Media Qrup,Geo
+20.0,Haber Global,MPEG-4/HD,1200.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Haber Global,https://www.lyngsat.com/tvchannels/tr/Haber-Global.html,,,False,ARB Media Qrup,Tur
+20.0,Haber Global,MPEG-4/HD,1200.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Haber Global,https://www.lyngsat.com/tvchannels/tr/Haber-Global.html,,,False,ARB Media Qrup,Tur
+22.0,Az TV,MPEG-4/SD,1220.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+22.0,Az TV,MPEG-4/SD,1220.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+22.0,Az TV,MPEG-4/SD,1220.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+22.0,Az TV,MPEG-4/SD,1220.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Az TV,MPEG-4/HD,101.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Az TV,MPEG-4/HD,101.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Az TV,MPEG-4/HD,101.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Az TV,MPEG-4/HD,101.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Az TV,https://www.lyngsat.com/tvchannels/az/Az-TV.html,,,False,ARB Media Qrup,Aze
+24.0,Baku TV,MPEG-4/HD,1240.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+24.0,Baku TV,MPEG-4/HD,1240.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+24.0,Baku TV,MPEG-4/HD,1240.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+24.0,Baku TV,MPEG-4/HD,1240.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Baku TV,MPEG-4/HD,1701.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Baku TV,MPEG-4/HD,1701.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Baku TV,MPEG-4/HD,1701.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+1.0,Baku TV,MPEG-4/HD,1701.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Baku TV,https://www.lyngsat.com/tvchannels/az/Baku-TV.html,,,False,ARB Media Qrup,Aze
+27.0,Ictimai TV,MPEG-4/SD,1270.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+27.0,Ictimai TV,MPEG-4/SD,1270.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+27.0,Ictimai TV,MPEG-4/SD,1270.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+27.0,Ictimai TV,MPEG-4/SD,1270.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+4.0,Ictimai TV,MPEG-4/HD,131.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+4.0,Ictimai TV,MPEG-4/HD,131.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+4.0,Ictimai TV,MPEG-4/HD,131.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+4.0,Ictimai TV,MPEG-4/HD,131.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai TV,https://www.lyngsat.com/tvchannels/az/Ictimai-TV.html,,,False,ARB Media Qrup,Aze
+28.0,Azercosmos promo,MPEG-2/SD,1280.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,,,,,False,ARB Media Qrup,Eng
+39.0,Azercosmos promo,MPEG-4/HD,1390.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,,,,,False,ARB Media Qrup,Eng
+36.0,Marao TV,MPEG-4/SD,1360.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Marao TV,https://www.lyngsat.com/tvchannels/ge/Marao-TV.html,,,False,ARB Media Qrup,Geo
+37.0,Topaz 2,HEVC/HD,1370.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Topaz 2,https://www.lyngsat.com/tvchannels/az/Topaz-2.html,,,False,ARB Media Qrup,Aze
+38.0,Equalympic,MPEG-4/SD,1380.0,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Equalympic,https://www.lyngsat.com/tvchannels/ua/Equalympic.html,,,False,ARB Media Qrup,Ukr
+29.0,Radio Imedi,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Radio Imedi,https://www.lyngsat.com/radiochannels/ge/Radio-Imedi.html,,,False,ARB Media Qrup,Geo
+29.0,Radio Imedi,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Radio Imedi,https://www.lyngsat.com/radiochannels/ge/Radio-Imedi.html,,,False,ARB Media Qrup,Geo
+30.0,Radio Sakartvelos Xhma,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Radio Sakartvelos Xhma,https://www.lyngsat.com/radiochannels/ge/Radio-Sakartvelos-Xhma.html,,,False,ARB Media Qrup,Geo
+33.0,Radio Ajara,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Radio Ajara,https://www.lyngsat.com/radiochannels/ge/Radio-Ajara.html,,,False,ARB Media Qrup,Geo
+34.0,Georgia Radio,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Georgia Radio,https://www.lyngsat.com/radiochannels/ge/Georgia-Radio.html,,,False,ARB Media Qrup,Geo
+34.0,Georgia Radio,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,Georgia Radio,https://www.lyngsat.com/radiochannels/ge/Georgia-Radio.html,,,False,ARB Media Qrup,Geo
+35.0,FM Obieqtivi,,,DVB-S2,30000.0,5/6,11095 H,tp 7K,,,,FM Obieqtivi,https://www.lyngsat.com/radiochannels/ge/FM-Obieqtivi.html,,,False,ARB Media Qrup,Geo
+,Azercosmos,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,https://www.lyngsat.com/providers/az/Azercosmos.html,,,,,True,Azercosmos,
+2.0,TMB Azerbaycan,MPEG-4/HD,1702.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,TMB Azerbaycan,https://www.lyngsat.com/tvchannels/tr/TMB-Azerbaycan.html,,,False,Azercosmos,Aze
+3.0,TNV Planeta,MPEG-4/SD,1703.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,TNV Planeta,https://www.lyngsat.com/tvchannels/ru/TNV-Planeta.html,,,False,Azercosmos,Rus
+4.0,Tugan Tel,MPEG-4/SD,1704.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Tugan Tel,https://www.lyngsat.com/tvchannels/ru/Tugan-Tel.html,,,False,Azercosmos,Rus
+4.0,Tugan Tel,MPEG-4/SD,1704.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Tugan Tel,https://www.lyngsat.com/tvchannels/ru/Tugan-Tel.html,,,False,Azercosmos,Rus
+5.0,Belarus 24,MPEG-4/HD,1705.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Belarus 24,https://www.lyngsat.com/tvchannels/by/Belarus-24.html,,,False,Azercosmos,Rus
+5.0,Belarus 24,MPEG-4/HD,1705.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Belarus 24,https://www.lyngsat.com/tvchannels/by/Belarus-24.html,,,False,Azercosmos,Rus
+6.0,Next TV,MPEG-4/SD,1706.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Next TV,https://www.lyngsat.com/tvchannels/kg/Next-TV.html,,,False,Azercosmos,Kir
+7.0,AzStar TV,MPEG-4/HD,1707.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,AzStar TV,https://www.lyngsat.com/tvchannels/ca/AzStar-TV.html,,,False,Azercosmos,
+7.0,AzStar TV,MPEG-4/HD,1707.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,AzStar TV,https://www.lyngsat.com/tvchannels/ca/AzStar-TV.html,,,False,Azercosmos,
+8.0,GünAz TV,MPEG-4/HD,1708.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,GünAz TV,https://www.lyngsat.com/tvchannels/us/GunAz-TV.html,,,False,Azercosmos,Aze
+8.0,GünAz TV,MPEG-4/HD,1708.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,GünAz TV,https://www.lyngsat.com/tvchannels/us/GunAz-TV.html,,,False,Azercosmos,Aze
+9.0,Misli TV,MPEG-4/HD,1709.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,BISS,,Misli TV,https://www.lyngsat.com/tvchannels/tr/Misli-TV.html,,,False,Azercosmos,Tur
+9.0,Misli TV,MPEG-4/HD,1709.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,BISS,,Misli TV,https://www.lyngsat.com/tvchannels/tr/Misli-TV.html,,,False,Azercosmos,Tur
+10.0,Misli TV,MPEG-4/HD,1710.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,BISS,,Misli TV,https://www.lyngsat.com/tvchannels/tr/Misli-TV.html,,,False,Azercosmos,Tur
+10.0,Misli TV,MPEG-4/HD,1710.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,BISS,,Misli TV,https://www.lyngsat.com/tvchannels/tr/Misli-TV.html,,,False,Azercosmos,Tur
+12.0,Az News TV,MPEG-4/HD,1712.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Az News TV,https://www.lyngsat.com/tvchannels/se/Az-News-TV.html,,,False,Azercosmos,Aze
+12.0,Az News TV,MPEG-4/HD,1712.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Az News TV,https://www.lyngsat.com/tvchannels/se/Az-News-TV.html,,,False,Azercosmos,Aze
+13.0,Iran International,MPEG-4/SD,1713.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,,,False,Azercosmos,Per
+13.0,Iran International,MPEG-4/SD,1713.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Iran International,https://www.lyngsat.com/tvchannels/uk/Iran-International.html,,,False,Azercosmos,Per
+14.0,Pars TV,MPEG-4/SD,1714.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pars TV,https://www.lyngsat.com/tvchannels/us/Pars-TV.html,,,False,Azercosmos,Per
+14.0,Pars TV,MPEG-4/SD,1714.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pars TV,https://www.lyngsat.com/tvchannels/us/Pars-TV.html,,,False,Azercosmos,Per
+15.0,Omid-e-Iran,MPEG-4/SD,1715.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Omid-e-Iran,https://www.lyngsat.com/tvchannels/us/Omid-e-Iran.html,,,False,Azercosmos,Per
+15.0,Omid-e-Iran,MPEG-4/SD,1715.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Omid-e-Iran,https://www.lyngsat.com/tvchannels/us/Omid-e-Iran.html,,,False,Azercosmos,Per
+17.0,TRT Türk,MPEG-4/HD,1717.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,TRT Türk,https://www.lyngsat.com/tvchannels/tr/TRT-Turk.html,,,False,Azercosmos,Tur
+17.0,TRT Türk,MPEG-4/HD,1717.0,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,TRT Türk,https://www.lyngsat.com/tvchannels/tr/TRT-Turk.html,,,False,Azercosmos,Tur
+51.0,Pal FM,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pal FM,https://www.lyngsat.com/radiochannels/tr/Pal-FM.html,,,False,Azercosmos,Tur
+51.0,Pal FM,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pal FM,https://www.lyngsat.com/radiochannels/tr/Pal-FM.html,,,False,Azercosmos,Tur
+52.0,Pal Doga,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pal Doga,https://www.lyngsat.com/radiochannels/tr/Pal-Doga.html,,,False,Azercosmos,Tur
+52.0,Pal Doga,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Pal Doga,https://www.lyngsat.com/radiochannels/tr/Pal-Doga.html,,,False,Azercosmos,Tur
+53.0,Next FM,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Next FM,https://www.lyngsat.com/radiochannels/kg/Next-FM.html,,,False,Azercosmos,Kir
+54.0,Radio Belarus,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Radio Belarus,https://www.lyngsat.com/radiochannels/by/Radio-Belarus.html,,,False,Azercosmos,
+54.0,Radio Belarus,,,DVB-S2,30000.0,5/6,11135 H,tp 9K,,,,Radio Belarus,https://www.lyngsat.com/radiochannels/by/Radio-Belarus.html,,,False,Azercosmos,
+,Teleradio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,https://www.lyngsat.com/providers/az/Teleradio.html,,,,,True,Teleradio,
+2.0,Idman TV,MPEG-4/HD,111.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Idman TV,https://www.lyngsat.com/tvchannels/az/Idman-TV.html,,,False,Teleradio,Aze
+3.0,Medeniyyet TV,MPEG-4/HD,121.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Medeniyyet TV,https://www.lyngsat.com/tvchannels/az/Medeniyyet-TV.html,,,False,Teleradio,Aze
+3.0,Medeniyyet TV,MPEG-4/HD,121.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Medeniyyet TV,https://www.lyngsat.com/tvchannels/az/Medeniyyet-TV.html,,,False,Teleradio,Aze
+5.0,Azad TV (Azerbaijan),MPEG-4/HD,141.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azad TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Azad-TV.html,,,False,Teleradio,Aze
+5.0,Azad TV (Azerbaijan),MPEG-4/HD,141.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azad TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Azad-TV.html,,,False,Teleradio,Aze
+6.0,Xezer Xeber,MPEG-4/HD,151.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Xezer Xeber,https://www.lyngsat.com/tvchannels/az/Xezer-Xeber.html,,,False,Teleradio,Aze
+7.0,CBC (Azerbaijan),MPEG-4/HD,161.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,CBC (Azerbaijan),https://www.lyngsat.com/tvchannels/az/CBC.html,,,False,Teleradio,Aze
+7.0,CBC (Azerbaijan),MPEG-4/HD,161.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,CBC (Azerbaijan),https://www.lyngsat.com/tvchannels/az/CBC.html,,,False,Teleradio,Aze
+8.0,CBC Sport,MPEG-4/HD,171.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,CBC Sport,https://www.lyngsat.com/tvchannels/az/CBC-Sport.html,,,False,Teleradio,Aze
+9.0,Real TV (Azerbaijan),MPEG-4/HD,181.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Real TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Real-TV.html,,,False,Teleradio,Aze
+9.0,Real TV (Azerbaijan),MPEG-4/HD,181.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Real TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Real-TV.html,,,False,Teleradio,Aze
+10.0,Space TV (Azerbaijan),MPEG-4/HD,191.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Space TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Space-TV.html,,,False,Teleradio,Aze
+11.0,Muz TV (Azerbaijan),MPEG-4/SD,201.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Muz TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Muz-TV.html,,,False,Teleradio,Aze
+12.0,Dünya TV (Azerbaijan),MPEG-4/SD,211.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Dünya TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Dunya-TV.html,,,False,Teleradio,Aze
+12.0,Dünya TV (Azerbaijan),MPEG-4/SD,211.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Dünya TV (Azerbaijan),https://www.lyngsat.com/tvchannels/az/Dunya-TV.html,,,False,Teleradio,Aze
+13.0,GTRK Groznyj,MPEG-4/SD,221.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,GTRK Groznyj,https://www.lyngsat.com/tvchannels/ru/GTRK-Groznyj.html,,,False,Teleradio,Rus
+13.0,GTRK Groznyj,MPEG-4/SD,221.0,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,GTRK Groznyj,https://www.lyngsat.com/tvchannels/ru/GTRK-Groznyj.html,,,False,Teleradio,Rus
+21.0,Azerbayan Radiosu,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azerbayan Radiosu,https://www.lyngsat.com/radiochannels/az/Azerbayan-Radiosu.html,,,False,Teleradio,Aze
+21.0,Azerbayan Radiosu,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azerbayan Radiosu,https://www.lyngsat.com/radiochannels/az/Azerbayan-Radiosu.html,,,False,Teleradio,Aze
+22.0,Asan Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Asan Radio,https://www.lyngsat.com/radiochannels/az/Asan-Radio.html,,,False,Teleradio,Aze
+22.0,Asan Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Asan Radio,https://www.lyngsat.com/radiochannels/az/Asan-Radio.html,,,False,Teleradio,Aze
+23.0,Radio TMB 100.5,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Radio TMB 100.5,https://www.lyngsat.com/radiochannels/az/Radio-TMB-1005.html,,,False,Teleradio,Aze
+23.0,Radio TMB 100.5,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Radio TMB 100.5,https://www.lyngsat.com/radiochannels/az/Radio-TMB-1005.html,,,False,Teleradio,Aze
+24.0,Araz FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Araz FM,https://www.lyngsat.com/radiochannels/az/Araz-FM.html,,,False,Teleradio,Aze
+24.0,Araz FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Araz FM,https://www.lyngsat.com/radiochannels/az/Araz-FM.html,,,False,Teleradio,Aze
+25.0,Media FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Media FM,https://www.lyngsat.com/radiochannels/az/Media-FM.html,,,False,Teleradio,Aze
+26.0,Radio Enerji,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Radio Enerji,https://www.lyngsat.com/radiochannels/az/Radio-Enerji.html,,,False,Teleradio,Aze
+27.0,Voice of Azerbaijan,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Voice of Azerbaijan,https://www.lyngsat.com/radiochannels/az/Voice-of-Azerbaijan.html,,,False,Teleradio,Aze
+28.0,Ictimai Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai Radio,https://www.lyngsat.com/radiochannels/az/Ictimai-Radio.html,,,False,Teleradio,Aze
+28.0,Ictimai Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Ictimai Radio,https://www.lyngsat.com/radiochannels/az/Ictimai-Radio.html,,,False,Teleradio,Aze
+29.0,Azad 106.3 FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azad 106.3 FM,https://www.lyngsat.com/radiochannels/az/Azad-1063-FM.html,,,False,Teleradio,Aze
+29.0,Azad 106.3 FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Azad 106.3 FM,https://www.lyngsat.com/radiochannels/az/Azad-1063-FM.html,,,False,Teleradio,Aze
+30.0,Xezer FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Xezer FM,https://www.lyngsat.com/radiochannels/az/Xezer-FM.html,,,False,Teleradio,Aze
+30.0,Xezer FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Xezer FM,https://www.lyngsat.com/radiochannels/az/Xezer-FM.html,,,False,Teleradio,Aze
+31.0,CBC FM,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,CBC FM,https://www.lyngsat.com/radiochannels/az/CBC-FM.html,,,False,Teleradio,Aze
+32.0,Space Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Space Radio,https://www.lyngsat.com/radiochannels/az/Space-Radio.html,,,False,Teleradio,Aze
+32.0,Space Radio,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Space Radio,https://www.lyngsat.com/radiochannels/az/Space-Radio.html,,,False,Teleradio,Aze
+33.0,Real FM 107,,,DVB-S2,30000.0,5/6,11175 H,tp 11K,,,,Real FM 107,https://www.lyngsat.com/radiochannels/az/Real-FM-107.html,,,False,Teleradio,Aze
+,,,,,,,,,,,,DVB-S2QPSK14004/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK12503/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK12502/3,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK15003/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK15822/3,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK23803/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK25005/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK12503/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK12503/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK25005/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK16665/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK22043/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK16005/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK24323/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK11908/9,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK11663/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK12003/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK12003/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK11903/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK23813/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK23813/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK10573/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK10573/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK23805/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK20003/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK18435/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S12825/6,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S2QPSK16038/9,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK23003/4,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK24003/5,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK20308/9,,,,False,Teleradio,
+,,,,,,,,,,,,DVB-S28PSK20308/9,,,,False,Teleradio,

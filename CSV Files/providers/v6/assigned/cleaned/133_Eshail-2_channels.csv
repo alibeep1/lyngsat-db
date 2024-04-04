@@ -1,0 +1,90 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+1.0,Es'hailSat promo,65535-43690MPEG-4/HD,257.0,DVB-S2,1500,4/5,10492 H,,,,,,,,,False,,
+,,224-1090,,DVB-S,30000,3/4,10730 H,,50.0,,,,,,,False,,
+,,,,DVB-S2,27500,2/3,10890 V,,50.0,,,,,,,False,,
+,,,,DVB-S2,27500,2/3,10930 H,,50.0,,,,,,,False,,
+,,224-2050,,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,,,,,False,,
+,,,,DVB-S2,27500,2/3,11430 H,,50.0,,,,,,,False,,
+10903.0,Qatar Today,MPEG-4/SD,931.0,DVB-S,30000,3/4,10730 H,,50.0,,,Qatar Today,https://www.lyngsat.com/tvchannels/qa/Qatar-Today.html,,,False,,Ara
+10904.0,Al Mamlaka TV,MPEG-2/SD,941.0,DVB-S,30000,3/4,10730 H,,50.0,,,Al Mamlaka TV,https://www.lyngsat.com/tvchannels/jo/Al-Mamlaka-TV.html,,,False,,Ara
+10904.0,Al Mamlaka TV,MPEG-2/SD,941.0,DVB-S,30000,3/4,10730 H,,50.0,,,Al Mamlaka TV,https://www.lyngsat.com/tvchannels/jo/Al-Mamlaka-TV.html,,,False,,Ara
+10905.0,Al-Aqsa TV,MPEG-4/HD,951.0,DVB-S,30000,3/4,10730 H,,50.0,,,Al-Aqsa TV,https://www.lyngsat.com/tvchannels/ps/Al-Aqsa-TV.html,,,False,,Ara
+,Al Rayyan,224-2070,,DVB-S2,27500,2/3,10730 V,,50.0,,https://www.lyngsat.com/providers/qa/Al-Rayyan.html,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html,,,True,Al Rayyan,
+,Al Rayyan,224-2070,,DVB-S2,27500,2/3,10730 V,,50.0,,https://www.lyngsat.com/providers/qa/Al-Rayyan.html,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html,,,True,Al Rayyan,
+20701.0,Al Rayyan,MPEG-4/HD,101.0,DVB-S2,27500,2/3,10730 V,,50.0,,https://www.lyngsat.com/providers/qa/Al-Rayyan.html,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html,,,True,Al Rayyan,Ara
+20701.0,Al Rayyan,MPEG-4/HD,101.0,DVB-S2,27500,2/3,10730 V,,50.0,,https://www.lyngsat.com/providers/qa/Al-Rayyan.html,Al Rayyan,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan.html,,,True,Al Rayyan,Ara
+20702.0,Al Rayyan Al Qadeem,MPEG-4/HD,102.0,DVB-S2,27500,2/3,10730 V,,50.0,,,Al Rayyan Al Qadeem,https://www.lyngsat.com/tvchannels/qa/Al-Rayyan-Al-Qadeem.html,,,False,Al Rayyan,Ara
+20703.0,Al Rayyan Radio,,,DVB-S2,27500,2/3,10730 V,,50.0,,,Al Rayyan Radio,https://www.lyngsat.com/radiochannels/qa/Al-Rayyan-Radio.html,,,False,Al Rayyan,Ara
+20704.0,Sout Al Islam,,,DVB-S2,27500,2/3,10730 V,,50.0,,,Sout Al Islam,https://www.lyngsat.com/radiochannels/qa/Sout-Al-Islam.html,,,False,Al Rayyan,Ara
+,Al Kass,224-4137,,DVB-S2,27500,3/4,10770 H,,50.0,"Irdeto,Videoguard",https://www.lyngsat.com/providers/qa/Al-Kass.html,,,,,True,Al Kass,
+111.0,Al Kass Five,MPEG-4/HD,203.0,DVB-S2,27500,3/4,10770 H,,50.0,,,Al Kass Five,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Five.html,,,False,Al Kass,Ara Eng
+112.0,Al Kass Six,MPEG-4/HD,221.0,DVB-S2,27500,3/4,10770 H,,50.0,"Irdeto,Videoguard",,Al Kass Six,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Six.html,,,False,Al Kass,Ara Eng
+113.0,Al Kass Nine,MPEG-4/HD,223.0,DVB-S2,27500,3/4,10770 H,,50.0,"Irdeto,Videoguard",,Al Kass Nine,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Nine.html,,,False,Al Kass,Ara Eng
+114.0,Al Kass Ten,MPEG-4/HD,202.0,DVB-S2,27500,3/4,10770 H,,50.0,"Irdeto,Videoguard",,Al Kass Ten,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Ten.html,,,False,Al Kass,Ara Eng
+,Qatari mux,2-2,,DVB-S2,27500,3/4,10770 V,,50.0,,,,,,,False,Al Kass,
+1.0,Qatar TV,MPEG-4/HD,401.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar TV,https://www.lyngsat.com/tvchannels/qa/Qatar-TV.html,,,False,Al Kass,Ara
+1.0,Qatar TV,MPEG-4/HD,401.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar TV,https://www.lyngsat.com/tvchannels/qa/Qatar-TV.html,,,False,Al Kass,Ara
+2.0,Qatar TV 2,MPEG-4/HD,201.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar TV 2,https://www.lyngsat.com/tvchannels/qa/Qatar-TV-2.html,,,False,Al Kass,Ara
+2.0,Qatar TV 2,MPEG-4/HD,201.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar TV 2,https://www.lyngsat.com/tvchannels/qa/Qatar-TV-2.html,,,False,Al Kass,Ara
+3.0,Al Kass One,MPEG-4/HD,210.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Al Kass One,https://www.lyngsat.com/tvchannels/qa/Al-Kass-One.html,,,False,Al Kass,Ara Eng
+4.0,Al Kass Two,MPEG-4/HD,204.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Al Kass Two,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Two.html,,,False,Al Kass,Ara Eng
+5.0,Al Kass Four,MPEG-4/HD,205.0,DVB-S2,27500,3/4,10770 V,,50.0,,,Al Kass Four,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Four.html,,,False,Al Kass,Ara Eng
+10.0,Sout al Khaleej 2,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Sout al Khaleej 2,https://www.lyngsat.com/radiochannels/qa/Sout-al-Khaleej-2.html,,,False,Al Kass,Ara
+11.0,Sout al Khaleej 3,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Sout al Khaleej 3,https://www.lyngsat.com/radiochannels/qa/Sout-al-Khaleej-3.html,,,False,Al Kass,Ara
+12.0,Sout al Khaleej 4,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Sout al Khaleej 4,https://www.lyngsat.com/radiochannels/qa/Sout-al-Khaleej-4.html,,,False,Al Kass,Ara
+13.0,Sout al Khaleej Europe,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Sout al Khaleej Europe,https://www.lyngsat.com/radiochannels/qa/Sout-al-Khaleej-Europe.html,,,False,Al Kass,Ara
+21.0,Qatar Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar Radio,https://www.lyngsat.com/radiochannels/qa/Qatar-Radio.html,,,False,Al Kass,Ara
+21.0,Qatar Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Qatar Radio,https://www.lyngsat.com/radiochannels/qa/Qatar-Radio.html,,,False,Al Kass,Ara
+22.0,Holy Quran Radio 1,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Holy Quran Radio 1,https://www.lyngsat.com/radiochannels/qa/Holy-Quran-Radio-1.html,,,False,Al Kass,Ara
+22.0,Holy Quran Radio 1,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Holy Quran Radio 1,https://www.lyngsat.com/radiochannels/qa/Holy-Quran-Radio-1.html,,,False,Al Kass,Ara
+23.0,Oryx FM,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Oryx FM,https://www.lyngsat.com/radiochannels/qa/Oryx-FM.html,,,False,Al Kass,Fre
+23.0,Oryx FM,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Oryx FM,https://www.lyngsat.com/radiochannels/qa/Oryx-FM.html,,,False,Al Kass,Fre
+24.0,QBS Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,QBS Radio,https://www.lyngsat.com/radiochannels/qa/QBS-Radio.html,,,False,Al Kass,Eng
+24.0,QBS Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,QBS Radio,https://www.lyngsat.com/radiochannels/qa/QBS-Radio.html,,,False,Al Kass,Eng
+25.0,Urdu Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Urdu Radio,https://www.lyngsat.com/radiochannels/qa/Urdu-Radio.html,,,False,Al Kass,Urd
+25.0,Urdu Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Urdu Radio,https://www.lyngsat.com/radiochannels/qa/Urdu-Radio.html,,,False,Al Kass,Urd
+26.0,Holy Quran Radio 2,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Holy Quran Radio 2,https://www.lyngsat.com/radiochannels/qa/Holy-Quran-Radio-2.html,,,False,Al Kass,Ara
+26.0,Holy Quran Radio 2,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Holy Quran Radio 2,https://www.lyngsat.com/radiochannels/qa/Holy-Quran-Radio-2.html,,,False,Al Kass,Ara
+27.0,Hola Qatar Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Hola Qatar Radio,https://www.lyngsat.com/radiochannels/qa/Hola-Qatar-Radio.html,,,False,Al Kass,Spa
+27.0,Hola Qatar Radio,,,DVB-S2,27500,3/4,10770 V,,50.0,,,Hola Qatar Radio,https://www.lyngsat.com/radiochannels/qa/Hola-Qatar-Radio.html,,,False,Al Kass,Spa
+8605.0,[BeIn Sports Max 1 info card],MPEG-4/HD,491.0,DVB-S2,27500,2/3,10810 V,,50.0,,,,,,,False,Al Kass,Ara
+8607.0,BeIn Sports News,MPEG-4/HD,511.0,DVB-S2,27500,2/3,10810 V,,50.0,,,BeIn Sports News,https://www.lyngsat.com/tvchannels/qa/BeIn-Sports-News.html,,,False,Al Kass,Ara
+20415.0,[Al Kass Seven info card],MPEG-4/HD,491.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+20416.0,[Al Kass Eight info card],MPEG-4/HD,501.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+20417.0,BeIn Sports,MPEG-4/HD,541.0,DVB-S2,27500,2/3,10850 H,,50.0,,,BeIn Sports,https://www.lyngsat.com/tvchannels/qa/BeIn-Sports.html,,,False,Al Kass,Ara Eng
+20418.0,[BeIn Sports Max 3 info card],MPEG-4/HD,451.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+20419.0,[BeIn Sports Max 4 info card],MPEG-4/HD,551.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+20420.0,[BeIn Sports Max 5 info card],MPEG-4/HD,521.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+20421.0,[BeIn Sports Max 6 info card],MPEG-4/HD,531.0,DVB-S2,27500,2/3,10850 H,,50.0,,,,,,,False,Al Kass,
+8805.0,[BeIn Sports Max 2 info card],MPEG-4/HD,531.0,DVB-S2,27500,2/3,10850 V,,50.0,,,,,,,False,Al Kass,
+4.0,A News,MPEG-4/HD,60.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,A News,https://www.lyngsat.com/tvchannels/tr/A-News.html,,,False,Al Kass,Eng
+4.0,A News,MPEG-4/HD,60.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,A News,https://www.lyngsat.com/tvchannels/tr/A-News.html,,,False,Al Kass,Eng
+20501.0,Alaraby TV,MPEG-4/HD,101.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html,,,False,Al Kass,Ara
+20501.0,Alaraby TV,MPEG-4/HD,101.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Alaraby TV,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV.html,,,False,Al Kass,Ara
+20502.0,Syria TV,MPEG-4/HD,102.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Syria TV,https://www.lyngsat.com/tvchannels/tr/Syria-TV.html,,,False,Al Kass,Ara
+20502.0,Syria TV,MPEG-4/HD,102.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Syria TV,https://www.lyngsat.com/tvchannels/tr/Syria-TV.html,,,False,Al Kass,Ara
+20503.0,Bedaya TV,MPEG-4/HD,103.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Bedaya TV,https://www.lyngsat.com/tvchannels/sa/Bedaya-TV.html,,,False,Al Kass,Ara
+20504.0,Alaraby TV 2,MPEG-4/HD,104.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Alaraby TV 2,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV-2.html,,,False,Al Kass,Ara
+20504.0,Alaraby TV 2,MPEG-4/HD,104.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Alaraby TV 2,https://www.lyngsat.com/tvchannels/uk/Alaraby-TV-2.html,,,False,Al Kass,Ara
+20505.0,Al Rahma,MPEG-2/SD,105.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Al Rahma,https://www.lyngsat.com/tvchannels/eg/Al-Rahma.html,,,False,Al Kass,Ara
+20506.0,Salam TV (Turkey),MPEG-4/SD,106.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Salam TV (Turkey),https://www.lyngsat.com/tvchannels/tr/Salam-TV.html,,,False,Al Kass,
+20506.0,Salam TV (Turkey),MPEG-4/SD,106.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Salam TV (Turkey),https://www.lyngsat.com/tvchannels/tr/Salam-TV.html,,,False,Al Kass,
+20509.0,Majan TV,MPEG-4/HD,109.0,DVB-S2,30000,2/3,11310 V,tp E6,50.0,,,Majan TV,https://www.lyngsat.com/tvchannels/om/Majan-TV.html,,,False,Al Kass,Ara
+,Rotana,224-2080,,DVB-S2,27500,3/4,11350 H,,50.0,,https://www.lyngsat.com/providers/sa/Rotana.html,,,,,True,Rotana,
+20801.0,Rotana Cinema KSA,MPEG-4/HD,101.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Cinema KSA,https://www.lyngsat.com/tvchannels/sa/Rotana-Cinema-KSA.html,,,False,Rotana,Ara
+20801.0,Rotana Cinema KSA,MPEG-4/HD,101.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Cinema KSA,https://www.lyngsat.com/tvchannels/sa/Rotana-Cinema-KSA.html,,,False,Rotana,Ara
+20802.0,Rotana Comedy,MPEG-4/HD,102.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Comedy,https://www.lyngsat.com/tvchannels/sa/Rotana-Comedy.html,,,False,Rotana,Ara
+20802.0,Rotana Comedy,MPEG-4/HD,102.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Comedy,https://www.lyngsat.com/tvchannels/sa/Rotana-Comedy.html,,,False,Rotana,Ara
+20803.0,Rotana Classic,MPEG-4/HD,103.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Classic,https://www.lyngsat.com/tvchannels/sa/Rotana-Classic.html,,,False,Rotana,Ara
+20803.0,Rotana Classic,MPEG-4/HD,103.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Classic,https://www.lyngsat.com/tvchannels/sa/Rotana-Classic.html,,,False,Rotana,Ara
+20804.0,Rotana Khalejia,MPEG-4/HD,104.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Khalejia,https://www.lyngsat.com/tvchannels/sa/Rotana-Khalejia.html,,,False,Rotana,Ara
+20804.0,Rotana Khalejia,MPEG-4/HD,104.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Khalejia,https://www.lyngsat.com/tvchannels/sa/Rotana-Khalejia.html,,,False,Rotana,Ara
+20805.0,Rotana Drama,MPEG-4/HD,105.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Drama,https://www.lyngsat.com/tvchannels/sa/Rotana-Drama.html,,,False,Rotana,Ara
+20805.0,Rotana Drama,MPEG-4/HD,105.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Drama,https://www.lyngsat.com/tvchannels/sa/Rotana-Drama.html,,,False,Rotana,Ara
+20806.0,Rotana Music,MPEG-4/HD,106.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Music,https://www.lyngsat.com/tvchannels/sa/Rotana-Music.html,,,False,Rotana,Ara
+20807.0,LBC (Saudi Arabia),MPEG-4/HD,107.0,DVB-S2,27500,3/4,11350 H,,50.0,,,LBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/LBC.html,,,False,Rotana,Ara
+20807.0,LBC (Saudi Arabia),MPEG-4/HD,107.0,DVB-S2,27500,3/4,11350 H,,50.0,,,LBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/LBC.html,,,False,Rotana,Ara
+20808.0,Alresalah TV,MPEG-4/HD,108.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Alresalah TV,https://www.lyngsat.com/tvchannels/sa/Alresalah-TV.html,,,False,Rotana,Ara
+20808.0,Alresalah TV,MPEG-4/HD,108.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Alresalah TV,https://www.lyngsat.com/tvchannels/sa/Alresalah-TV.html,,,False,Rotana,Ara
+20809.0,Rotana Clip,MPEG-4/HD,109.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Clip,https://www.lyngsat.com/tvchannels/sa/Rotana-Clip.html,,,False,Rotana,Ara
+20809.0,Rotana Clip,MPEG-4/HD,109.0,DVB-S2,27500,3/4,11350 H,,50.0,,,Rotana Clip,https://www.lyngsat.com/tvchannels/sa/Rotana-Clip.html,,,False,Rotana,Ara

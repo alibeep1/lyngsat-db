@@ -1,0 +1,12 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+3797 HC,DVB-S15503/4,1.0,[PANP test card],,65535-1MPEG-2/SD,308.0,5.5 256,,T Kameda200922,DVB-S,1550.0,3/4,3797 H,,,,,,,False,
+3797 HC,DVB-S15503/4,1.0,Radyo Pilipinas 1,,,,256 Tgl,,,DVB-S,1550.0,3/4,3797 H,,,,,Radyo Pilipinas 1,https://www.lyngsat.com/radiochannels/ph/Radyo-Pilipinas-1.html,False,
+12257 VKu0,DVB-S30963/4,1.0,[JCSAT 5A test card],,176-1MPEG-2/SD,48.0,5.5  49,,T Kameda060726,DVB-S,3096.0,3/4,12257 V,,0.0,,,,,False,
+12746 HKu0,DVB-S30963/4,1.0,[JCSAT 5A test card],,176-1MPEG-2/SD,48.0,5.5  49,,T Kameda060726,DVB-S,3096.0,3/4,12746 H,,0.0,,,,,False,
+12288 HKu,DVB-S72413/4,,(feeds),,,,,,T Kameda080309,DVB-S,7241.0,3/4,12288 H,,,,,,,False,
+12340 HKu,DVB-S72413/4,,(feeds),,,,,,T Kameda080309,DVB-S,7241.0,3/4,12340 H,,,,,,,False,
+12400 VKu,DVB-S216APSK66022/3,,(feeds),,,,,,T Kameda170723,DVB-S2,6602.0,2/3,12400 V,,,,,,,False,
+12408 HKu,DVB-S72413/4,,(feeds),,,,,,T Kameda080501,DVB-S,7241.0,3/4,12408 H,,,,,,,False,
+12420 HKu,DVB-S72413/4,,(feeds),,,,,,T Kameda080420,DVB-S,7241.0,3/4,12420 H,,,,,,,False,
+12323 VKu0,DVB-S232APSK133303/4,2700.0,NTV News 24,,?-?MPEG-4/SD,2048.0,8001 Jpn,,T Kameda170723,DVB-S2,13330.0,3/4,12323 V,,0.0,,,,,False,
+,,,,,,,,,,,,,,,,,,DVB-S232APSK133303/4,,False,

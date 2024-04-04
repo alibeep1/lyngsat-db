@@ -1,0 +1,436 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,Dunya Media Group,,,DVB-S2,12000.0,3/5,3718 V,,37-39,,https://www.lyngsat.com/providers/pk/Dunya-Media-Group.html,,,True,Dunya Media Group,,
+1,Dunya News,MPEG-4/HD,101.0,DVB-S2,12000.0,3/5,3718 V,,37-39,,,Dunya News,https://www.lyngsat.com/tvchannels/pk/Dunya-News.html,False,Dunya Media Group,Urd,pk
+1,Dunya News,MPEG-4/HD,101.0,DVB-S2,12000.0,3/5,3718 V,,37-39,,,Dunya News,https://www.lyngsat.com/tvchannels/pk/Dunya-News.html,False,Dunya Media Group,Urd,pk
+2,Lahore News,MPEG-4/HD,201.0,DVB-S2,12000.0,3/5,3718 V,,37-39,,,Lahore News,https://www.lyngsat.com/tvchannels/pk/Lahore-News.html,False,Dunya Media Group,,pk
+2,Lahore News,MPEG-4/HD,201.0,DVB-S2,12000.0,3/5,3718 V,,37-39,,,Lahore News,https://www.lyngsat.com/tvchannels/pk/Lahore-News.html,False,Dunya Media Group,,pk
+4,Dunya Entertainment,MPEG-4/SD,401.0,DVB-S2,12000.0,3/5,3718 V,,37-39,,,Dunya Entertainment,https://www.lyngsat.com/tvchannels/pk/Dunya-Entertainment.html,False,Dunya Media Group,,pk
+,,,,DVB-S2,12000.0,3/5,3730 V,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,7200.0,3/5,3740 V,,37-39,,,,,False,Dunya Media Group,,
+,,1-1,,DVB-S2,7700.0,3/4,3770 V,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,4000.0,3/4,3792 V,,37-39,BISS 1,,,,False,Dunya Media Group,,
+,,,,DVB-S2,6500.0,3/4,3834 H,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,4800.0,3/4,4024 H,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,3232.0,3/4,4047 V,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,3200.0,5/6,4064 V,,37-39,,,,,False,Dunya Media Group,,
+,,0-0,,DVB-S2,6150.0,3/4,4074 V,,37-39,,,,,False,Dunya Media Group,,
+,,.-.,,DVB-S2,2800.0,3/4,4101 V,,37-39,,,,,False,Dunya Media Group,,
+,,1-1,,DVB-S2,4800.0,5/6,4115 V,,37-39,,,,,False,Dunya Media Group,,
+,,65535-0,,DVB-S2,2490.0,3/5,4120 V,,37-39,,,,,False,Dunya Media Group,,
+,,65535-1,,DVB-S2,5000.0,3/4,4181 V,,37-39,,,,,False,Dunya Media Group,,
+,,,,DVB-S2,5000.0,3/4,4186 V,,37-39,,,,,False,Dunya Media Group,,
+1,92 News,MPEG-4/HD,92.0,DVB-S2,7200.0,3/5,3740 V,,37-39,,,92 News,https://www.lyngsat.com/tvchannels/pk/92-News.html,False,Dunya Media Group,,pk
+1,92 News,MPEG-4/HD,92.0,DVB-S2,7200.0,3/5,3740 V,,37-39,,,92 News,https://www.lyngsat.com/tvchannels/pk/92-News.html,False,Dunya Media Group,,pk
+2,11 News,MPEG-4/SD,93.0,DVB-S2,7200.0,3/5,3740 V,,37-39,,,11 News,https://www.lyngsat.com/tvchannels/pk/11-News.html,False,Dunya Media Group,,pk
+3,92 Entertainment,MPEG-2/SD,94.0,DVB-S2,7200.0,3/5,3740 V,,37-39,,,92 Entertainment,https://www.lyngsat.com/tvchannels/pk/92-Entertainment.html,False,Dunya Media Group,,pk
+1,9 News HD,?-?MPEG-4/HD,33.0,DVB-S2,1500.0,5/6,3745 V,,37-39,,,,,False,Dunya Media Group,,
+,VU TV Network,,,DVB-S2,7500.0,3/4,3754 V,,37-39,,https://www.lyngsat.com/providers/pk/VU-TV-Network.html,,,True,VU TV Network,,
+1,VU TV Network 1,MPEG-4/SD,33.0,DVB-S2,7500.0,3/4,3754 V,,37-39,,,VU TV Network 1,https://www.lyngsat.com/tvchannels/pk/VU-TV-Network-1.html,False,VU TV Network,Urd,pk
+2,VU TV Network 2,MPEG-4/SD,35.0,DVB-S2,7500.0,3/4,3754 V,,37-39,,,VU TV Network 2,https://www.lyngsat.com/tvchannels/pk/VU-TV-Network-2.html,False,VU TV Network,Urd,pk
+3,VU TV Network 3,MPEG-4/SD,40.0,DVB-S2,7500.0,3/4,3754 V,,37-39,,,VU TV Network 3,https://www.lyngsat.com/tvchannels/pk/VU-TV-Network-3.html,False,VU TV Network,Urd,pk
+4,VU TV Network 4,MPEG-4/SD,66.0,DVB-S2,7500.0,3/4,3754 V,,37-39,,,VU TV Network 4,https://www.lyngsat.com/tvchannels/pk/VU-TV-Network-4.html,False,VU TV Network,Urd,pk
+,Suno FM,1-1,,DVB-S,1003.0,1/2,3760 H,,37-39,,https://www.lyngsat.com/providers/pk/Suno-FM.html,Suno FM,https://www.lyngsat.com/radiochannels/pk/Suno-FM.html,True,Suno FM,,pk
+257,Suno FM,,,DVB-S,1003.0,1/2,3760 H,,37-39,,https://www.lyngsat.com/providers/pk/Suno-FM.html,Suno FM,https://www.lyngsat.com/radiochannels/pk/Suno-FM.html,True,Suno FM,,pk
+258,Suno FM GB,,,DVB-S,1003.0,1/2,3760 H,,37-39,,,Suno FM GB,https://www.lyngsat.com/radiochannels/pk/Suno-FM-GB.html,False,Suno FM,,pk
+1,Suno News HD,?-?MPEG-4/HD,33.0,DVB-S2,4100.0,3/5,3762 V,,37-39,,,,,False,Suno FM,Urd,
+1,24 News HD,MPEG-4/SD,257.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,24 News HD,https://www.lyngsat.com/tvchannels/pk/24-News-HD.html,False,Suno FM,,pk
+1,24 News HD,MPEG-4/SD,257.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,24 News HD,https://www.lyngsat.com/tvchannels/pk/24-News-HD.html,False,Suno FM,,pk
+2,City 42,MPEG-4/SD,261.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,City 42,https://www.lyngsat.com/tvchannels/pk/City-42.html,False,Suno FM,Urd,pk
+2,City 42,MPEG-4/SD,261.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,City 42,https://www.lyngsat.com/tvchannels/pk/City-42.html,False,Suno FM,Urd,pk
+3,City 41,MPEG-4/SD,266.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,City 41,https://www.lyngsat.com/tvchannels/pk/City-41.html,False,Suno FM,Urd,pk
+4,Rohi TV,MPEG-4/SD,271.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,Rohi TV,https://www.lyngsat.com/tvchannels/pk/Rohi-TV.html,False,Suno FM,Lah,pk
+6,City 21,MPEG-4/SD,281.0,DVB-S2,7700.0,3/4,3770 V,,37-39,,,City 21,https://www.lyngsat.com/tvchannels/pk/City-21.html,False,Suno FM,,pk
+,AJK TV,MPEG-2/SD,308.0,DVB-S,2600.0,3/4,3778 V,,37-39,,,,,False,Suno FM,,
+1,Green Entertainment,?-1MPEG-4/HD,101.0,DVB-S2,6348.0,3/5,3783 V,,37-39,,,,,False,Suno FM,,
+1,Aan TV,MPEG-4/HD,106.0,DVB-S2,4000.0,3/4,3792 V,,37-39,,,Aan TV,https://www.lyngsat.com/tvchannels/pk/Aan-TV.html,False,Suno FM,,pk
+2,Planet 6 tests,MPEG-4/SD,36.0,DVB-S2,4000.0,3/4,3792 V,,37-39,BISS 1,,,,False,Suno FM,,
+3,M-News,MPEG-4/SD,33.0,DVB-S2,4000.0,3/4,3792 V,,37-39,,,M-News,https://www.lyngsat.com/tvchannels/--/M-News.html,False,Suno FM,,--
+4,M-Life,HEVC/SD,39.0,DVB-S2,4000.0,3/4,3792 V,,37-39,BISS 1,,M-Life,https://www.lyngsat.com/tvchannels/--/M-Life.html,False,Suno FM,,--
+5,M-Sports,HEVC/SD,42.0,DVB-S2,4000.0,3/4,3792 V,,37-39,BISS 1,,M-Sports,https://www.lyngsat.com/tvchannels/--/M-Sports.html,False,Suno FM,,--
+6,Me TV,HEVC/SD,45.0,DVB-S2,4000.0,3/4,3792 V,,37-39,BISS 1,,Me TV,https://www.lyngsat.com/tvchannels/--/Me-TV.html,False,Suno FM,,--
+,TeleNest,1-1,,DVB-S2,5500.0,3/4,3799 V,,37-39,,https://www.lyngsat.com/providers/pk/TeleNest.html,,,True,TeleNest,,
+,TeleNest,1-1,,DVB-S2,5500.0,3/4,3799 V,,37-39,,https://www.lyngsat.com/providers/pk/TeleNest.html,,,True,TeleNest,,
+,TeleNest,,,DVB-S2,6944.0,3/4,3969 V,,37-39,,https://www.lyngsat.com/providers/pk/TeleNest.html,,,True,TeleNest,,
+,TeleNest,,,DVB-S2,6944.0,3/4,3969 V,,37-39,,https://www.lyngsat.com/providers/pk/TeleNest.html,,,True,TeleNest,,
+15,Kohenoor News,MPEG-4/SD,156.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Kohenoor News,https://www.lyngsat.com/tvchannels/pk/Kohenoor-News.html,False,TeleNest,Urd,pk
+15,Kohenoor News,MPEG-4/SD,156.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Kohenoor News,https://www.lyngsat.com/tvchannels/pk/Kohenoor-News.html,False,TeleNest,Urd,pk
+20,V Entertainment,MPEG-4/SD,261.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,V Entertainment,https://www.lyngsat.com/tvchannels/pk/V-Entertainment.html,False,TeleNest,,pk
+25,Filmazia Punjabi,MPEG-4/SD,266.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Filmazia Punjabi,https://www.lyngsat.com/tvchannels/pk/Filmazia-Punjabi.html,False,TeleNest,,pk
+30,Filmazia Pashto,MPEG-4/SD,271.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Filmazia Pashto,https://www.lyngsat.com/tvchannels/pk/Filmazia-Pashto.html,False,TeleNest,Pus,pk
+35,Filmazia,MPEG-4/SD,276.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Filmazia,https://www.lyngsat.com/tvchannels/pk/Filmazia.html,False,TeleNest,,pk
+40,Filmazia Gaane,MPEG-4/SD,281.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Filmazia Gaane,https://www.lyngsat.com/tvchannels/pk/Filmazia-Gaane.html,False,TeleNest,,pk
+50,Pakistan 1,MPEG-4/SD,291.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,Pakistan 1,https://www.lyngsat.com/tvchannels/pk/Pakistan-1.html,False,TeleNest,,pk
+55,South Asia Global TV,MPEG-4/SD,296.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,South Asia Global TV,https://www.lyngsat.com/tvchannels/pk/South-Asia-Global-TV.html,False,TeleNest,Eng,pk
+55,South Asia Global TV,MPEG-4/SD,296.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,South Asia Global TV,https://www.lyngsat.com/tvchannels/pk/South-Asia-Global-TV.html,False,TeleNest,Eng,pk
+60,[Hadi TV 1 info card],MPEG-4/SD,302.0,DVB-S2,5500.0,3/4,3799 V,,37-39,,,,,False,TeleNest,,
+,Geo TV Network,,,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,https://www.lyngsat.com/providers/pk/Geo-TV-Network.html,,,True,Geo TV Network,,
+1050,Geo News,MPEG-4/HD,101.0,DVB-S2,16855.0,3/5,3813 V,,37-39,,,Geo News,https://www.lyngsat.com/tvchannels/pk/Geo-News.html,False,Geo TV Network,Urd,pk
+1050,Geo News,MPEG-4/HD,101.0,DVB-S2,16855.0,3/5,3813 V,,37-39,,,Geo News,https://www.lyngsat.com/tvchannels/pk/Geo-News.html,False,Geo TV Network,Urd,pk
+1060,Geo TV,MPEG-4/HD,102.0,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,,Geo TV,https://www.lyngsat.com/tvchannels/pk/Geo-TV.html,False,Geo TV Network,Urd,pk
+1070,Geo Kahani,MPEG-4/HD,103.0,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,,Geo Kahani,https://www.lyngsat.com/tvchannels/pk/Geo-Kahani.html,False,Geo TV Network,,pk
+1070,Geo Kahani,MPEG-4/HD,103.0,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,,Geo Kahani,https://www.lyngsat.com/tvchannels/pk/Geo-Kahani.html,False,Geo TV Network,,pk
+1080,Geo Super,MPEG-4/HD,104.0,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,,Geo Super,https://www.lyngsat.com/tvchannels/pk/Geo-Super.html,False,Geo TV Network,Urd,pk
+1090,Geo Tez,MPEG-4/HD,105.0,DVB-S2,16855.0,3/5,3813 V,,37-39,,,Geo Tez,https://www.lyngsat.com/tvchannels/pk/Geo-Tez.html,False,Geo TV Network,Urd,pk
+1090,Geo Tez,MPEG-4/HD,105.0,DVB-S2,16855.0,3/5,3813 V,,37-39,,,Geo Tez,https://www.lyngsat.com/tvchannels/pk/Geo-Tez.html,False,Geo TV Network,Urd,pk
+1100,Geo Middle East,MPEG-4/HD,106.0,DVB-S2,16855.0,3/5,3813 V,,37-39,Conax,,Geo Middle East,https://www.lyngsat.com/tvchannels/pk/Geo-Middle-East.html,False,Geo TV Network,Urd,pk
+,Gourmet News Network,MPEG-4/HD,33.0,DVB-S2,4000.0,3/5,3832 V,,37-39,,,,,False,Geo TV Network,Urd,
+16,Apna Channel,MPEG-4/HD,33.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Apna Channel,https://www.lyngsat.com/tvchannels/pk/Apna-Channel.html,False,Geo TV Network,,pk
+16,Apna Channel,MPEG-4/HD,33.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Apna Channel,https://www.lyngsat.com/tvchannels/pk/Apna-Channel.html,False,Geo TV Network,,pk
+32,8XM,MPEG-4/HD,49.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,8XM,https://www.lyngsat.com/tvchannels/pk/8XM.html,False,Geo TV Network,,pk
+48,Abb Takk,MPEG-4/HD,65.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Abb Takk,https://www.lyngsat.com/tvchannels/pk/Abb-Takk.html,False,Geo TV Network,,pk
+48,Abb Takk,MPEG-4/HD,65.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Abb Takk,https://www.lyngsat.com/tvchannels/pk/Abb-Takk.html,False,Geo TV Network,,pk
+64,Jalwa,MPEG-4/HD,81.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Jalwa,https://www.lyngsat.com/tvchannels/pk/Jalwa.html,False,Geo TV Network,,pk
+64,Jalwa,MPEG-4/HD,81.0,DVB-S2,6500.0,3/4,3834 H,,37-39,,,Jalwa,https://www.lyngsat.com/tvchannels/pk/Jalwa.html,False,Geo TV Network,,pk
+,Express,,,DVB-S2,4800.0,3/4,3838 V,,37-39,,https://www.lyngsat.com/providers/pk/Express.html,,,True,Express,,
+2,Express Entertainment,MPEG-4/HD,513.0,DVB-S2,4800.0,3/4,3838 V,,37-39,,,Express Entertainment,https://www.lyngsat.com/tvchannels/pk/Express-Entertainment.html,False,Express,Urd,pk
+2,Express Entertainment,MPEG-4/HD,513.0,DVB-S2,4800.0,3/4,3838 V,,37-39,,,Express Entertainment,https://www.lyngsat.com/tvchannels/pk/Express-Entertainment.html,False,Express,Urd,pk
+3,Express News,MPEG-4/HD,514.0,DVB-S2,4800.0,3/4,3838 V,,37-39,,,Express News,https://www.lyngsat.com/tvchannels/pk/Express-News.html,False,Express,Urd,pk
+,SS Creative Solutions,,,DVB-S2,6600.0,3/4,3846 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,6600.0,3/4,3846 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,6600.0,3/4,3846 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,6600.0,3/4,3846 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,4800.0,3/4,4023 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,4800.0,3/4,4023 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,4800.0,3/4,4023 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,,,DVB-S2,4800.0,3/4,4023 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-0,,DVB-S2,4800.0,3/4,4037 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-0,,DVB-S2,4800.0,3/4,4037 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-0,,DVB-S2,4800.0,3/4,4037 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-0,,DVB-S2,4800.0,3/4,4037 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-2,,DVB-S2,5000.0,3/4,4060 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-2,,DVB-S2,5000.0,3/4,4060 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-2,,DVB-S2,5000.0,3/4,4060 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+,SS Creative Solutions,65535-2,,DVB-S2,5000.0,3/4,4060 V,,37-39,,https://www.lyngsat.com/providers/ae/SS-Creative-Solutions.html,,,True,SS Creative Solutions,,
+1,Hulchul TV,MPEG-4/SD,1101.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Hulchul TV,https://www.lyngsat.com/tvchannels/pk/Hulchul-TV.html,False,SS Creative Solutions,,pk
+3,Press TV,MPEG-4/SD,1103.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html,False,SS Creative Solutions,,ir
+3,Press TV,MPEG-4/SD,1103.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html,False,SS Creative Solutions,,ir
+131,Press TV,?-?MPEG-4/HD,1310.0,DVB-S2,2400.0,3/4,4145 V,,37-39,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html,False,SS Creative Solutions,Eng,ir
+131,Press TV,?-?MPEG-4/HD,1310.0,DVB-S2,2400.0,3/4,4145 V,,37-39,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html,False,SS Creative Solutions,Eng,ir
+5,Starlite TV,MPEG-4/SD,1105.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Starlite TV,https://www.lyngsat.com/tvchannels/pk/Starlite-TV.html,False,SS Creative Solutions,,pk
+6,Paigham TV Pashto,MPEG-4/SD,1106.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Paigham TV Pashto,https://www.lyngsat.com/tvchannels/pk/Paigham-TV-Pashto.html,False,SS Creative Solutions,Pus,pk
+8,Super Screen,MPEG-4/SD,1108.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Super Screen,https://www.lyngsat.com/tvchannels/pk/Super-Screen.html,False,SS Creative Solutions,,pk
+16,Channel 4 News,MPEG-4/SD,1116.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Channel 4 News,https://www.lyngsat.com/tvchannels/--/Channel-4-News.html,False,SS Creative Solutions,,--
+19,Hidayat TV,MPEG-4/SD,1119.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Hidayat TV,https://www.lyngsat.com/tvchannels/uk/Hidayat-TV.html,False,SS Creative Solutions,Urd,uk
+19,Hidayat TV,MPEG-4/SD,1119.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Hidayat TV,https://www.lyngsat.com/tvchannels/uk/Hidayat-TV.html,False,SS Creative Solutions,Urd,uk
+20,Bethat TV,MPEG-4/SD,1120.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Bethat TV,https://www.lyngsat.com/tvchannels/hk/Bethat-TV.html,False,SS Creative Solutions,Urd,hk
+21,Voice News,MPEG-4/SD,1121.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Voice News,https://www.lyngsat.com/tvchannels/pk/Voice-News.html,False,SS Creative Solutions,,pk
+21,Voice News,MPEG-4/SD,1121.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Voice News,https://www.lyngsat.com/tvchannels/pk/Voice-News.html,False,SS Creative Solutions,,pk
+22,Hadi TV 1,MPEG-4/SD,1122.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Hadi TV 1,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-1.html,False,SS Creative Solutions,,iq
+22,Hadi TV 1,MPEG-4/SD,1122.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Hadi TV 1,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-1.html,False,SS Creative Solutions,,iq
+25,Sahar Urdu,MPEG-4/SD,1125.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Sahar Urdu,https://www.lyngsat.com/tvchannels/ir/Sahar-Urdu.html,False,SS Creative Solutions,Urd,ir
+25,Sahar Urdu,MPEG-4/SD,1125.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Sahar Urdu,https://www.lyngsat.com/tvchannels/ir/Sahar-Urdu.html,False,SS Creative Solutions,Urd,ir
+26,Muntazar TV,MPEG-4/SD,1126.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,Muntazar TV,https://www.lyngsat.com/tvchannels/pk/Muntazar-TV.html,False,SS Creative Solutions,,pk
+27,IFilm English,MPEG-4/SD,1127.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,IFilm English,https://www.lyngsat.com/tvchannels/ir/IFilm-English.html,False,SS Creative Solutions,,ir
+27,IFilm English,MPEG-4/SD,1127.0,DVB-S2,6600.0,3/4,3846 V,,37-39,,,IFilm English,https://www.lyngsat.com/tvchannels/ir/IFilm-English.html,False,SS Creative Solutions,,ir
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+,Radio Pakistan,0-0,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+257,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+513,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+769,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1025,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1281,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1537,Radio Pakistan,,,DVB-S,1081.0,3/4,3847 H,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+7,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+9,Radio Pakistan,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/Radio-Pakistan.html,Radio Pakistan,https://www.lyngsat.com/radiochannels/pk/Radio-Pakistan.html,True,Radio Pakistan,,pk
+1,PTV Bolan,65535-1MPEG-2/SD,308.0,DVB-S,2590.0,3/4,3856 V,,37-39,,,,,False,Radio Pakistan,Urd,
+,(feeds),,,DVB-S2,2833.0,2/3,3859 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,1650.0,3/4,10990 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,1500.0,3/4,10992 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,3012.0,3/4,11103 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,1808.0,3/4,11122 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,1300.0,3/4,11124 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,3760.0,3/4,11150 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,3000.0,7/8,11167 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,2000.0,3/4,11184 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,2000.0,3/4,11188 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,2000.0,3/4,11191 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,2050.0,3/4,12652 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,3333.0,3/4,12691 V,,,,,,,False,Radio Pakistan,,
+,(feeds),,,DVB-S,3333.0,3/4,12696 V,,,,,,,False,Radio Pakistan,,
+257,Dharti TV,?-?MPEG-4/HD,599.0,DVB-S2,1850.0,3/5,3862 V,,37-39,,,,,False,Radio Pakistan,,
+,Madani Channel Urdu,MPEG-4/SD,33.0,DVB-S2,2960.0,3/5,3952 V,,37-39,,,,,False,Radio Pakistan,Urd,
+1,7 News HD,?-?MPEG-4/HD,101.0,DVB-S2,2356.0,3/5,3964 V,,37-39,,,,,False,Radio Pakistan,Urd,
+2,Discover Pakistan,MPEG-4/HD,102.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Discover Pakistan,https://www.lyngsat.com/tvchannels/pk/Discover-Pakistan.html,False,Radio Pakistan,,pk
+2,Discover Pakistan,MPEG-4/HD,102.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Discover Pakistan,https://www.lyngsat.com/tvchannels/pk/Discover-Pakistan.html,False,Radio Pakistan,,pk
+4,Sindh TV,MPEG-4/HD,115.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Sindh TV,https://www.lyngsat.com/tvchannels/pk/Sindh-TV.html,False,Radio Pakistan,,pk
+5,Sindh TV News,MPEG-4/HD,120.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Sindh TV News,https://www.lyngsat.com/tvchannels/pk/Sindh-TV-News.html,False,Radio Pakistan,,pk
+5,Sindh TV News,MPEG-4/HD,120.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Sindh TV News,https://www.lyngsat.com/tvchannels/pk/Sindh-TV-News.html,False,Radio Pakistan,,pk
+6,See TV,MPEG-4/SD,126.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,See TV,https://www.lyngsat.com/tvchannels/pk/See-TV.html,False,Radio Pakistan,Urd,pk
+7,Hoora TV,,506.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Hoora TV,https://www.lyngsat.com/tvchannels/pk/Hoora-TV.html,False,Radio Pakistan,,pk
+9,Star Asia,MPEG-4/SD,144.0,DVB-S2,6944.0,3/4,3969 V,,37-39,,,Star Asia,https://www.lyngsat.com/tvchannels/pk/Star-Asia.html,False,Radio Pakistan,,pk
+,Public News,MPEG-4/HD,881.0,DVB-S2,3650.0,3/5,3979 V,,37-39,,,,,False,Radio Pakistan,,
+,A Plus,MPEG-2/SD,33.0,DVB-S2,3255.0,3/4,3983 V,,37-39,,,,,False,Radio Pakistan,Urd,
+1,ATV (Pakistan),?-?MPEG-4/SD,220.0,DVB-S2,2900.0,3/4,3992 V,,37-39,,,,,False,Radio Pakistan,Urd,
+,PTV Network,1-1,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/PTV-Network.html,,,True,PTV Network,,
+,PTV Network,1-1,,DVB-S2,13333.0,3/4,4001 V,,37-39,,https://www.lyngsat.com/providers/pk/PTV-Network.html,,,True,PTV Network,,
+,PTV Network,65535-1,,DVB-S2,5800.0,3/5,4052 V,,37-39,,https://www.lyngsat.com/providers/pk/PTV-Network.html,,,True,PTV Network,,
+,PTV Network,65535-1,,DVB-S2,5800.0,3/5,4052 V,,37-39,,https://www.lyngsat.com/providers/pk/PTV-Network.html,,,True,PTV Network,,
+1,PTV Home,MPEG-4/HD,512.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+1,PTV Home,MPEG-4/HD,512.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+1,PTV Home,MPEG-4/HD,512.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+1,PTV Home,MPEG-4/HD,512.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+3,PTV Home,MPEG-4/SD,681.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+3,PTV Home,MPEG-4/SD,681.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+3,PTV Home,MPEG-4/SD,681.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+3,PTV Home,MPEG-4/SD,681.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,PTV Home,https://www.lyngsat.com/tvchannels/pk/PTV-Home.html,False,PTV Network,Urd,pk
+2,PTV News,MPEG-4/HD,513.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV News,https://www.lyngsat.com/tvchannels/pk/PTV-News.html,False,PTV Network,Urd,pk
+2,PTV News,MPEG-4/HD,513.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV News,https://www.lyngsat.com/tvchannels/pk/PTV-News.html,False,PTV Network,Urd,pk
+3,PTV Global,MPEG-4/SD,514.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Global,https://www.lyngsat.com/tvchannels/pk/PTV-Global.html,False,PTV Network,Urd,pk
+4,PTV Sports,MPEG-4/HD,515.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV Sports,https://www.lyngsat.com/tvchannels/pk/PTV-Sports.html,False,PTV Network,Urd,pk
+5,PTV World,MPEG-4/HD,516.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV World,https://www.lyngsat.com/tvchannels/pk/PTV-World.html,False,PTV Network,Eng,pk
+5,PTV World,MPEG-4/HD,516.0,DVB-S2,13333.0,3/4,4001 V,,37-39,,,PTV World,https://www.lyngsat.com/tvchannels/pk/PTV-World.html,False,PTV Network,Eng,pk
+8,FM Radio Sawat,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,,FM Radio Sawat,https://www.lyngsat.com/radiochannels/pk/FM-Radio-Sawat.html,False,PTV Network,,pk
+10,Radio Apna & Nori,,,DVB-S2,13333.0,3/4,4001 V,,37-39,,,Radio Apna & Nori,https://www.lyngsat.com/radiochannels/pk/Radio-Apna-and-Nori.html,False,PTV Network,,pk
+,PTV National Multan,MPEG-4/SD,308.0,DVB-S,1850.0,3/4,4013 V,,37-39,,,,,False,PTV Network,,
+,PTV National Peshawar,MPEG-4/SD,481.0,DVB-S2,2400.0,3/5,4016 V,,37-39,,,,,False,PTV Network,,
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+1,Noor TV (UK),MPEG-4/SD,101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Noor TV (UK),https://www.lyngsat.com/tvchannels/uk/Noor-TV.html,False,PTV Network,Eng,uk
+2,Minimax Pakistan,MPEG-4/SD,201.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Minimax Pakistan,https://www.lyngsat.com/tvchannels/hu/Minimax-Pakistan.html,False,PTV Network,Urd,hu
+2,Minimax Pakistan,MPEG-4/SD,201.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Minimax Pakistan,https://www.lyngsat.com/tvchannels/hu/Minimax-Pakistan.html,False,PTV Network,Urd,hu
+2,Minimax Pakistan,MPEG-4/SD,201.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Minimax Pakistan,https://www.lyngsat.com/tvchannels/hu/Minimax-Pakistan.html,False,PTV Network,Urd,hu
+2,Minimax Pakistan,MPEG-4/SD,201.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Minimax Pakistan,https://www.lyngsat.com/tvchannels/hu/Minimax-Pakistan.html,False,PTV Network,Urd,hu
+3,Eye TV,MPEG-4/SD,1000.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Eye TV,https://www.lyngsat.com/tvchannels/--/Eye-TV.html,False,PTV Network,,--
+3,Eye TV,MPEG-4/SD,1000.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Eye TV,https://www.lyngsat.com/tvchannels/--/Eye-TV.html,False,PTV Network,,--
+3,Eye TV,MPEG-4/SD,1000.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Eye TV,https://www.lyngsat.com/tvchannels/--/Eye-TV.html,False,PTV Network,,--
+3,Eye TV,MPEG-4/SD,1000.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Eye TV,https://www.lyngsat.com/tvchannels/--/Eye-TV.html,False,PTV Network,,--
+4,Mega (Pakistan),MPEG-4/SD,301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Mega (Pakistan),https://www.lyngsat.com/tvchannels/pk/Mega.html,False,PTV Network,,pk
+4,Mega (Pakistan),MPEG-4/SD,301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Mega (Pakistan),https://www.lyngsat.com/tvchannels/pk/Mega.html,False,PTV Network,,pk
+4,Mega (Pakistan),MPEG-4/SD,301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Mega (Pakistan),https://www.lyngsat.com/tvchannels/pk/Mega.html,False,PTV Network,,pk
+4,Mega (Pakistan),MPEG-4/SD,301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Mega (Pakistan),https://www.lyngsat.com/tvchannels/pk/Mega.html,False,PTV Network,,pk
+5,CineMax,MPEG-4/SD,501.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,CineMax,https://www.lyngsat.com/tvchannels/--/CineMax.html,False,PTV Network,,--
+5,CineMax,MPEG-4/SD,501.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,CineMax,https://www.lyngsat.com/tvchannels/--/CineMax.html,False,PTV Network,,--
+5,CineMax,MPEG-4/SD,501.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,CineMax,https://www.lyngsat.com/tvchannels/--/CineMax.html,False,PTV Network,,--
+5,CineMax,MPEG-4/SD,501.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,CineMax,https://www.lyngsat.com/tvchannels/--/CineMax.html,False,PTV Network,,--
+6,Prime Asia TV HD,MPEG-4/SD,601.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Prime Asia TV HD,https://www.lyngsat.com/tvchannels/pk/Prime-Asia-TV-HD.html,False,PTV Network,,pk
+6,Prime Asia TV HD,MPEG-4/SD,601.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Prime Asia TV HD,https://www.lyngsat.com/tvchannels/pk/Prime-Asia-TV-HD.html,False,PTV Network,,pk
+6,Prime Asia TV HD,MPEG-4/SD,601.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Prime Asia TV HD,https://www.lyngsat.com/tvchannels/pk/Prime-Asia-TV-HD.html,False,PTV Network,,pk
+6,Prime Asia TV HD,MPEG-4/SD,601.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Prime Asia TV HD,https://www.lyngsat.com/tvchannels/pk/Prime-Asia-TV-HD.html,False,PTV Network,,pk
+7,Global News (Pakistan),MPEG-4/SD,701.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Global News (Pakistan),https://www.lyngsat.com/tvchannels/pk/Global-News.html,False,PTV Network,,pk
+7,Global News (Pakistan),MPEG-4/SD,701.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Global News (Pakistan),https://www.lyngsat.com/tvchannels/pk/Global-News.html,False,PTV Network,,pk
+7,Global News (Pakistan),MPEG-4/SD,701.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Global News (Pakistan),https://www.lyngsat.com/tvchannels/pk/Global-News.html,False,PTV Network,,pk
+7,Global News (Pakistan),MPEG-4/SD,701.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Global News (Pakistan),https://www.lyngsat.com/tvchannels/pk/Global-News.html,False,PTV Network,,pk
+8,Dhanak TV,MPEG-4/SD,720.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Dhanak TV,https://www.lyngsat.com/tvchannels/pk/Dhanak-TV.html,False,PTV Network,,pk
+8,Dhanak TV,MPEG-4/SD,720.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Dhanak TV,https://www.lyngsat.com/tvchannels/pk/Dhanak-TV.html,False,PTV Network,,pk
+8,Dhanak TV,MPEG-4/SD,720.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Dhanak TV,https://www.lyngsat.com/tvchannels/pk/Dhanak-TV.html,False,PTV Network,,pk
+8,Dhanak TV,MPEG-4/SD,720.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Dhanak TV,https://www.lyngsat.com/tvchannels/pk/Dhanak-TV.html,False,PTV Network,,pk
+9,A1 Entertainment TV,MPEG-4/SD,901.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,A1 Entertainment TV,https://www.lyngsat.com/tvchannels/pk/A1-Entertainment-TV.html,False,PTV Network,,pk
+9,A1 Entertainment TV,MPEG-4/SD,901.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,A1 Entertainment TV,https://www.lyngsat.com/tvchannels/pk/A1-Entertainment-TV.html,False,PTV Network,,pk
+9,A1 Entertainment TV,MPEG-4/SD,901.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,A1 Entertainment TV,https://www.lyngsat.com/tvchannels/pk/A1-Entertainment-TV.html,False,PTV Network,,pk
+9,A1 Entertainment TV,MPEG-4/SD,901.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,A1 Entertainment TV,https://www.lyngsat.com/tvchannels/pk/A1-Entertainment-TV.html,False,PTV Network,,pk
+10,Cinemax 2,MPEG-4/SD,1001.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Cinemax 2,https://www.lyngsat.com/tvchannels/pk/Cinemax-2.html,False,PTV Network,,pk
+10,Cinemax 2,MPEG-4/SD,1001.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Cinemax 2,https://www.lyngsat.com/tvchannels/pk/Cinemax-2.html,False,PTV Network,,pk
+10,Cinemax 2,MPEG-4/SD,1001.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Cinemax 2,https://www.lyngsat.com/tvchannels/pk/Cinemax-2.html,False,PTV Network,,pk
+10,Cinemax 2,MPEG-4/SD,1001.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Cinemax 2,https://www.lyngsat.com/tvchannels/pk/Cinemax-2.html,False,PTV Network,,pk
+11,Champion TV (Pakistan),MPEG-4/SD,1101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Champion TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Champion-TV.html,False,PTV Network,,pk
+11,Champion TV (Pakistan),MPEG-4/SD,1101.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Champion TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Champion-TV.html,False,PTV Network,,pk
+11,Champion TV (Pakistan),MPEG-4/SD,1101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Champion TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Champion-TV.html,False,PTV Network,,pk
+11,Champion TV (Pakistan),MPEG-4/SD,1101.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Champion TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Champion-TV.html,False,PTV Network,,pk
+12,B Cinema,MPEG-4/SD,1201.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,B Cinema,https://www.lyngsat.com/tvchannels/pk/B-Cinema.html,False,PTV Network,,pk
+13,Movie One,MPEG-4/SD,1301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Movie One,https://www.lyngsat.com/tvchannels/--/Movie-One.html,False,PTV Network,,--
+13,Movie One,MPEG-4/SD,1301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Movie One,https://www.lyngsat.com/tvchannels/--/Movie-One.html,False,PTV Network,,--
+13,Movie One,MPEG-4/SD,1301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Movie One,https://www.lyngsat.com/tvchannels/--/Movie-One.html,False,PTV Network,,--
+13,Movie One,MPEG-4/SD,1301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Movie One,https://www.lyngsat.com/tvchannels/--/Movie-One.html,False,PTV Network,,--
+14,Silver Screen,MPEG-4/SD,1401.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Silver Screen,https://www.lyngsat.com/tvchannels/pk/Silver-Screen.html,False,PTV Network,,pk
+14,Silver Screen,MPEG-4/SD,1401.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Silver Screen,https://www.lyngsat.com/tvchannels/pk/Silver-Screen.html,False,PTV Network,,pk
+14,Silver Screen,MPEG-4/SD,1401.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Silver Screen,https://www.lyngsat.com/tvchannels/pk/Silver-Screen.html,False,PTV Network,,pk
+14,Silver Screen,MPEG-4/SD,1401.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Silver Screen,https://www.lyngsat.com/tvchannels/pk/Silver-Screen.html,False,PTV Network,,pk
+16,On News HD,MPEG-4/SD,1601.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,On News HD,https://www.lyngsat.com/tvchannels/pk/On-News-HD.html,False,PTV Network,,pk
+16,On News HD,MPEG-4/SD,1601.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,On News HD,https://www.lyngsat.com/tvchannels/pk/On-News-HD.html,False,PTV Network,,pk
+16,On News HD,MPEG-4/SD,1601.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,On News HD,https://www.lyngsat.com/tvchannels/pk/On-News-HD.html,False,PTV Network,,pk
+16,On News HD,MPEG-4/SD,1601.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,On News HD,https://www.lyngsat.com/tvchannels/pk/On-News-HD.html,False,PTV Network,,pk
+17,Quran TV (Pakistan),MPEG-4/SD,1701.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Quran TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Quran-TV.html,False,PTV Network,,pk
+17,Quran TV (Pakistan),MPEG-4/SD,1701.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Quran TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Quran-TV.html,False,PTV Network,,pk
+17,Quran TV (Pakistan),MPEG-4/SD,1701.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Quran TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Quran-TV.html,False,PTV Network,,pk
+17,Quran TV (Pakistan),MPEG-4/SD,1701.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Quran TV (Pakistan),https://www.lyngsat.com/tvchannels/pk/Quran-TV.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+22,BTV Mehak Malik Dance,MPEG-4/SD,2005.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,BTV Mehak Malik Dance,https://www.lyngsat.com/tvchannels/pk/BTV-Mehak-Malik-Dance.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4023 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+23,Al Ehsaan TV,MPEG-4/SD,2301.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Al Ehsaan TV,https://www.lyngsat.com/tvchannels/pk/Al-Ehsaan-TV.html,False,PTV Network,,pk
+1,Samaa TV,8192-4096MPEG-4/SD,512.0,DVB-S2,3600.0,3/4,4029 H,,37-39,,,,,False,PTV Network,Urd,
+1,ABN News (Pakistan),?-?MPEG-4/HD,33.0,DVB-S2,3200.0,3/5,4032 V,,37-39,,,,,False,PTV Network,,
+12,Starmax,MPEG-4/SD,1201.0,DVB-S2,4800.0,3/4,4037 V,,37-39,,,Starmax,https://www.lyngsat.com/tvchannels/--/Starmax.html,False,PTV Network,,--
+1,AIK News,?-?MPEG-4/SD,258.0,DVB-S2,4100.0,3/4,4042 H,,37-39,,,,,False,PTV Network,,
+65535-?,AIK News,65535-?MPEG-4/SD,258.0,DVB-S2,3232.0,3/4,4042 V,,37-39,,,,,False,PTV Network,,
+1,PTV National Karachi,MPEG-4/HD,481.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,PTV National Karachi,https://www.lyngsat.com/tvchannels/pk/PTV-National-Karachi.html,False,PTV Network,Urd,pk
+2,(PTV feeds),,581.0,DVB-S2,5800.0,3/5,4052 V,,37-39,,,,,False,PTV Network,,
+1,Peace TV English,MPEG-4/HD,500.0,DVB-S2,5000.0,3/4,4060 V,,37-39,,,Peace TV English,https://www.lyngsat.com/tvchannels/ae/Peace-TV-English.html,False,PTV Network,,ae
+2,Peace TV Urdu,MPEG-4/HD,503.0,DVB-S2,5000.0,3/4,4060 V,,37-39,,,Peace TV Urdu,https://www.lyngsat.com/tvchannels/ae/Peace-TV-Urdu.html,False,PTV Network,,ae
+3,Quran TV (Saudi Arabia),MPEG-4/SD,506.0,DVB-S2,5000.0,3/4,4060 V,,37-39,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,PTV Network,Ara,sa
+3,Quran TV (Saudi Arabia),MPEG-4/SD,506.0,DVB-S2,5000.0,3/4,4060 V,,37-39,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,PTV Network,Ara,sa
+1,Mun TV,MPEG-4/HD,34.0,DVB-S2,3200.0,5/6,4064 V,,37-39,,,Mun TV,https://www.lyngsat.com/tvchannels/pk/Mun-TV.html,False,PTV Network,,pk
+2,Time News,MPEG-4/HD,36.0,DVB-S2,3200.0,5/6,4064 V,,37-39,,,Time News,https://www.lyngsat.com/tvchannels/pk/Time-News.html,False,PTV Network,,pk
+2,Time News,MPEG-4/HD,36.0,DVB-S2,3200.0,5/6,4064 V,,37-39,,,Time News,https://www.lyngsat.com/tvchannels/pk/Time-News.html,False,PTV Network,,pk
+1,Aaj News,MPEG-4/SD,34.0,DVB-S2,6150.0,3/4,4074 V,,37-39,,,Aaj News,https://www.lyngsat.com/tvchannels/pk/Aaj-News.html,False,PTV Network,Urd,pk
+1,Aaj News,MPEG-4/SD,34.0,DVB-S2,6150.0,3/4,4074 V,,37-39,,,Aaj News,https://www.lyngsat.com/tvchannels/pk/Aaj-News.html,False,PTV Network,Urd,pk
+257,Play Entertainment,MPEG-4/SD,37.0,DVB-S2,6150.0,3/4,4074 V,,37-39,,,Play Entertainment,https://www.lyngsat.com/tvchannels/pk/Play-Entertainment.html,False,PTV Network,Urd,pk
+513,Aaj Entertainment,MPEG-4/SD,40.0,DVB-S2,6150.0,3/4,4074 V,,37-39,,,Aaj Entertainment,https://www.lyngsat.com/tvchannels/pk/Aaj-Entertainment.html,False,PTV Network,Urd,pk
+1,Talon News,?-?MPEG-4/SD,101.0,DVB-S2,3195.0,3/5,4081 V,,37-39,,,,,False,PTV Network,,
+257,GTV Network,1-1MPEG-4/HD,257.0,DVB-S2,3463.0,3/5,4085 V,,37-39,,,,,False,PTV Network,,
+1,Dawn News,0-0MPEG-4/SD,308.0,DVB-S2,2035.0,3/4,4090 V,,37-39,,,,,False,PTV Network,Urd,
+1,Paigham TV Urdu,1-1MPEG-4/SD,240.0,DVB-S2,2400.0,3/5,4092 V,,37-39,,,,,False,PTV Network,Urd,
+257,Such News,?-?MPEG-4/HD,257.0,DVB-S2,3231.0,3/4,4096 V,,37-39,,,,,False,PTV Network,Urd,
+3,Raavi TV,0-0MPEG-2/SD,5129.0,DVB-S,4340.0,3/4,4101 H,,37-39,,,,,False,PTV Network,Urd,
+1,Roze News,MPEG-4/SD,49.0,DVB-S2,2800.0,3/4,4101 V,,37-39,,,Roze News,https://www.lyngsat.com/tvchannels/pk/Roze-News.html,False,PTV Network,,pk
+1,Roze News,MPEG-4/SD,49.0,DVB-S2,2800.0,3/4,4101 V,,37-39,,,Roze News,https://www.lyngsat.com/tvchannels/pk/Roze-News.html,False,PTV Network,,pk
+2,Roze Excel HD,MPEG-4/SD,101.0,DVB-S2,2800.0,3/4,4101 V,,37-39,,,Roze Excel HD,https://www.lyngsat.com/tvchannels/pk/Roze-Excel-HD.html,False,PTV Network,,pk
+1,Mehran TV,65535-1MPEG-2/SD,49.0,DVB-S2,1600.0,5/6,4104 V,,37-39,,,,,False,PTV Network,,
+2,Awaz TV Network,?-?MPEG-4/SD,36.0,DVB-S2,1538.0,3/4,4111 V,,37-39,,,,,False,PTV Network,,
+1,TV One Global,MPEG-4/SD,101.0,DVB-S2,4800.0,5/6,4115 V,,37-39,,,TV One Global,https://www.lyngsat.com/tvchannels/pk/TV-One-Global.html,False,PTV Network,Urd,pk
+2,News One (Pakistan),MPEG-4/SD,201.0,DVB-S2,4800.0,5/6,4115 V,,37-39,,,News One (Pakistan),https://www.lyngsat.com/tvchannels/pk/News-One.html,False,PTV Network,Eng,pk
+3,Waseb TV,MPEG-4/SD,301.0,DVB-S2,4800.0,5/6,4115 V,,37-39,,,Waseb TV,https://www.lyngsat.com/tvchannels/pk/Waseb-TV.html,False,PTV Network,Lah,pk
+1,TV Today (Pakistan),MPEG-4/HD,1000.0,DVB-S2,2490.0,3/5,4120 V,,37-39,,,TV Today (Pakistan),https://www.lyngsat.com/tvchannels/pk/TV-Today.html,False,PTV Network,,pk
+2,Film World,MPEG-4/SD,1001.0,DVB-S2,2490.0,3/5,4120 V,,37-39,,,Film World,https://www.lyngsat.com/tvchannels/pk/Film-World.html,False,PTV Network,,pk
+,AVT Channels,4-0,,DVB-S2,6400.0,2/3,4125 V,,37-39,,https://www.lyngsat.com/providers/pk/AVT-Channels.html,,,True,AVT Channels,,
+1,Khyber TV,MPEG-4/HD,103.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber TV,https://www.lyngsat.com/tvchannels/pk/Khyber-TV.html,False,AVT Channels,Pus,pk
+1,Khyber TV,MPEG-4/HD,103.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber TV,https://www.lyngsat.com/tvchannels/pk/Khyber-TV.html,False,AVT Channels,Pus,pk
+2,Khyber News,MPEG-4/HD,105.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber News,https://www.lyngsat.com/tvchannels/pk/Khyber-News.html,False,AVT Channels,Pus,pk
+2,Khyber News,MPEG-4/HD,105.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber News,https://www.lyngsat.com/tvchannels/pk/Khyber-News.html,False,AVT Channels,Pus,pk
+3,Kay 2,MPEG-4/HD,107.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Kay 2,https://www.lyngsat.com/tvchannels/pk/Kay-2.html,False,AVT Channels,,pk
+3,Kay 2,MPEG-4/HD,107.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Kay 2,https://www.lyngsat.com/tvchannels/pk/Kay-2.html,False,AVT Channels,,pk
+4,Khyber Middle East TV,MPEG-4/SD,109.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber Middle East TV,https://www.lyngsat.com/tvchannels/pk/Khyber-Middle-East-TV.html,False,AVT Channels,,pk
+4,Khyber Middle East TV,MPEG-4/SD,109.0,DVB-S2,6400.0,2/3,4125 V,,37-39,,,Khyber Middle East TV,https://www.lyngsat.com/tvchannels/pk/Khyber-Middle-East-TV.html,False,AVT Channels,,pk
+12,A Sports,?-?MPEG-4/HD,32.0,DVB-S2,4166.0,3/5,4131 V,,37-39,,,,,False,AVT Channels,,
+,KTN Network,,,DVB-S2,2400.0,5/6,4135 V,,37-39,,https://www.lyngsat.com/providers/pk/KTN-Network.html,,,True,KTN Network,,
+257,KTN,MPEG-4/SD,257.0,DVB-S2,2400.0,5/6,4135 V,,37-39,,,KTN,https://www.lyngsat.com/tvchannels/pk/KTN.html,False,KTN Network,,pk
+258,Kashish,MPEG-4/SD,261.0,DVB-S2,2400.0,5/6,4135 V,,37-39,,,Kashish,https://www.lyngsat.com/tvchannels/pk/Kashish.html,False,KTN Network,,pk
+513,KTN News,MPEG-4/SD,513.0,DVB-S2,2400.0,5/6,4135 V,,37-39,,,KTN News,https://www.lyngsat.com/tvchannels/pk/KTN-News.html,False,KTN Network,,pk
+1,Mashriq TV,65535-1MPEG-4/SD,33.0,DVB-S2,1600.0,3/5,4138 V,,37-39,,,,,False,KTN Network,Pus,
+1,Fast Sports,65535-1MPEG-4/HD,33.0,DVB-S2,3333.0,3/5,4141 V,,37-39,,,,,False,KTN Network,,
+,Hum Network,0-0,,DVB-S2,16100.0,3/4,4160 V,,37-39,,https://www.lyngsat.com/providers/pk/Hum-Network.html,,,True,Hum Network,,
+101,Hum News,MPEG-4/HD,201.0,DVB-S2,16100.0,3/4,4160 V,,37-39,,,Hum News,https://www.lyngsat.com/tvchannels/pk/Hum-News.html,False,Hum Network,Urd,pk
+101,Hum News,MPEG-4/HD,201.0,DVB-S2,16100.0,3/4,4160 V,,37-39,,,Hum News,https://www.lyngsat.com/tvchannels/pk/Hum-News.html,False,Hum Network,Urd,pk
+102,Hum Masala,MPEG-4/SD,202.0,DVB-S2,16100.0,3/4,4160 V,,37-39,,,Hum Masala,https://www.lyngsat.com/tvchannels/pk/Hum-Masala.html,False,Hum Network,Urd,pk
+103,Hum Sitaray,MPEG-4/SD,203.0,DVB-S2,16100.0,3/4,4160 V,,37-39,,,Hum Sitaray,https://www.lyngsat.com/tvchannels/pk/Hum-Sitaray.html,False,Hum Network,Urd,pk
+104,Hum TV MENA,MPEG-4/SD,204.0,DVB-S2,16100.0,3/4,4160 V,,37-39,Conax,,Hum TV MENA,https://www.lyngsat.com/tvchannels/pk/Hum-TV-MENA.html,False,Hum Network,Urd,pk
+105,Hum TV,MPEG-4/HD,205.0,DVB-S2,16100.0,3/4,4160 V,,37-39,Conax,,Hum TV,https://www.lyngsat.com/tvchannels/pk/Hum-TV.html,False,Hum Network,Urd,pk
+105,Hum TV,MPEG-4/HD,205.0,DVB-S2,16100.0,3/4,4160 V,,37-39,Conax,,Hum TV,https://www.lyngsat.com/tvchannels/pk/Hum-TV.html,False,Hum Network,Urd,pk
+106,Pashto 1,MPEG-4/SD,206.0,DVB-S2,16100.0,3/4,4160 V,,37-39,,,Pashto 1,https://www.lyngsat.com/tvchannels/pk/Pashto-1.html,False,Hum Network,Pus,pk
+1,Aur Life HD,65535-1MPEG-4/HD,33.0,DVB-S2,3148.0,3/4,4174 V,,37-39,,,,,False,Hum Network,,
+1,Neo TV,MPEG-4/HD,33.0,DVB-S2,5000.0,3/4,4181 V,,37-39,,,Neo TV,https://www.lyngsat.com/tvchannels/pk/Neo-TV.html,False,Hum Network,Urd,pk
+1,Neo TV,MPEG-4/HD,33.0,DVB-S2,5000.0,3/4,4181 V,,37-39,,,Neo TV,https://www.lyngsat.com/tvchannels/pk/Neo-TV.html,False,Hum Network,Urd,pk
+2,Lahore Rang,MPEG-4/HD,37.0,DVB-S2,5000.0,3/4,4181 V,,37-39,,,Lahore Rang,https://www.lyngsat.com/tvchannels/pk/Lahore-Rang.html,False,Hum Network,Urd,pk
+,,,,,,,,,,,,DVB-S28PSK15005/6,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK41003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK41003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S26003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK63483/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK40003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK40003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S25903/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK18503/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK29603/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK29603/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK23563/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK36503/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK36503/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32553/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK29003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S18503/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK36003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK36003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK41003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32323/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK31953/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK34633/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK20353/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK20353/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32313/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK32313/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S43403/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S2QPSK16005/6,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK15383/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK15383/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK41663/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK16003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK16003/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK33333/5,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK24003/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK31483/4,,False,Hum Network,,
+,,,,,,,,,,,,DVB-S28PSK31483/4,,False,Hum Network,,

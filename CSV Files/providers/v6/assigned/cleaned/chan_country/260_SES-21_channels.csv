@@ -1,0 +1,31 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+50000.0,[test card],MPEG-4/SD,7937.0,DVB-S2,34280,5/6,4020 H,tp 16,0,,,,,,,False,,,
+50000.0,[test card],MPEG-4/SD,7937.0,DVB-S2,34280,5/6,4080 V,tp 19,0,,,,,,,False,,,
+,,,,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,,,,,False,,,
+2.0,Military History US,MPEG-4/SD,200.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Military History US,https://www.lyngsat.com/tvchannels/us/Military-History-US.html,,,False,,Eng,us
+3.0,Lifetime Real Women,MPEG-4/SD,300.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Lifetime Real Women,https://www.lyngsat.com/tvchannels/us/Lifetime-Real-Women.html,,,False,,Eng,us
+10.0,Vice TV West,MPEG-4/HD,1010.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Vice TV West,https://www.lyngsat.com/tvchannels/us/Vice-TV-West.html,,,False,,Eng,us
+11.0,Lifetime West,MPEG-4/HD,1110.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Lifetime West,https://www.lyngsat.com/tvchannels/us/Lifetime-West.html,,,False,,Eng,us
+12.0,A&E West,MPEG-4/HD,1210.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,A&E West,https://www.lyngsat.com/tvchannels/us/AandE-West.html,,,False,,Eng,us
+14.0,History West,MPEG-4/HD,1410.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,History West,https://www.lyngsat.com/tvchannels/us/History-West.html,,,False,,Eng,us
+15.0,FYI West,MPEG-4/HD,1510.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,FYI West,https://www.lyngsat.com/tvchannels/us/FYI-West.html,,,False,,Eng,us
+16.0,Lifetime Movies West,MPEG-4/HD,1610.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Lifetime Movies West,https://www.lyngsat.com/tvchannels/us/Lifetime-Movies-West.html,,,False,,Eng,us
+100.0,Crime + Investigation USA,MPEG-4/HD,610.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,Crime + Investigation USA,https://www.lyngsat.com/tvchannels/us/Crime---Investigation-USA.html,,,False,,Eng,us
+101.0,History en Español,MPEG-4/HD,710.0,DVB-S2,30000,5/6,4100 H,tp 20,0,PowerVu,,History en Español,https://www.lyngsat.com/tvchannels/us/History-en-Espanol.html,,,False,,Spa,us
+,SES,,,DVB-S2,30000,5/6,4180 H,tp 24,0,"BISS,PowerVu,Viaccess",https://www.lyngsat.com/providers/lu/SES.html,,,,,True,SES,,
+4.0,Fight Network,MPEG-4/HD,2004.0,DVB-S2,30000,5/6,4180 H,tp 24,0,PowerVu,,Fight Network,https://www.lyngsat.com/tvchannels/ca/Fight-Network.html,,,False,SES,Eng,ca
+10.0,BabyFirst TV,MPEG-4/HD,2010.0,DVB-S2,30000,5/6,4180 H,tp 24,0,Viaccess,,BabyFirst TV,https://www.lyngsat.com/tvchannels/us/BabyFirst-TV.html,,,False,SES,Eng,us
+13.0,Baby TV Latin America,MPEG-4/SD,2013.0,DVB-S2,30000,5/6,4180 H,tp 24,0,Viaccess,,Baby TV Latin America,https://www.lyngsat.com/tvchannels/uk/Baby-TV-Latin-America.html,,,False,SES,Spa,uk
+14.0,AXS TV,MPEG-4/HD,2014.0,DVB-S2,30000,5/6,4180 H,tp 24,0,BISS,,AXS TV,https://www.lyngsat.com/tvchannels/us/AXS-TV.html,,,False,SES,Eng,us
+15.0,HDNet Movies,MPEG-4/HD,2015.0,DVB-S2,30000,5/6,4180 H,tp 24,0,BISS,,HDNet Movies,https://www.lyngsat.com/tvchannels/us/HDNet-Movies.html,,,False,SES,Eng,us
+20.0,TVE Internacional América,MPEG-4/HD,2025.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,SES,Spa,es
+20.0,TVE Internacional América,MPEG-4/HD,2025.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,SES,Spa,es
+21.0,TVE Internacional América,MPEG-2/SD,2026.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,SES,Spa,es
+21.0,TVE Internacional América,MPEG-2/SD,2026.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,SES,Spa,es
+22.0,Canal 24 Horas,MPEG-2/SD,2020.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,Canal 24 Horas,https://www.lyngsat.com/tvchannels/es/Canal-24-Horas.html,,,False,SES,Spa,es
+22.0,Canal 24 Horas,MPEG-2/SD,2020.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,Canal 24 Horas,https://www.lyngsat.com/tvchannels/es/Canal-24-Horas.html,,,False,SES,Spa,es
+23.0,Star HD,MPEG-4/HD,2024.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,Star HD,https://www.lyngsat.com/tvchannels/es/Star-HD.html,,,False,SES,Spa,es
+24.0,Clan,MPEG-4/HD,2021.0,DVB-S2,30000,5/6,4180 H,tp 24,0,,,Clan,https://www.lyngsat.com/tvchannels/es/Clan.html,,,False,SES,Spa,es
+201.0,RNE Radio Nacional,,,DVB-S2,30000,5/6,4180 H,tp 24,0,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html,,,False,SES,Spa,es
+201.0,RNE Radio Nacional,,,DVB-S2,30000,5/6,4180 H,tp 24,0,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html,,,False,SES,Spa,es
+204.0,Radio Exterior,,,DVB-S2,30000,5/6,4180 H,tp 24,0,,,Radio Exterior,https://www.lyngsat.com/radiochannels/es/Radio-Exterior.html,,,False,SES,Spa,es

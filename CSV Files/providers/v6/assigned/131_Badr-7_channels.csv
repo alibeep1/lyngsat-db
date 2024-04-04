@@ -1,0 +1,151 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider
+10955 HNW Africa0,DVB-S28PSK7893/4,,MFM Radio,,,,7.9,,EnoSat231113,DVB-S2,789.0,3/4,10955 H,,0.0,,https://www.lyngsat.com/providers/ma/MFM-Radio.html,,,True,MFM Radio
+10955 HNW Africa0,DVB-S28PSK7893/4,1000.0,MFM Radio Casablanca,,,,101 Ara,,,DVB-S2,789.0,3/4,10955 H,,0.0,,,MFM Radio Casablanca,https://www.lyngsat.com/radiochannels/ma/MFM-Radio-Casablanca.html,False,MFM Radio
+10955 HNW Africa0,DVB-S28PSK7893/4,2000.0,MFM Radio Agadir,,,,201 Ara,,,DVB-S2,789.0,3/4,10955 H,,0.0,,,MFM Radio Agadir,https://www.lyngsat.com/radiochannels/ma/MFM-Radio-Agadir.html,False,MFM Radio
+10955 HNW Africa0,DVB-S28PSK7893/4,3000.0,MFM Radio Marrakech,,,,301 Ara,,,DVB-S2,789.0,3/4,10955 H,,0.0,,,MFM Radio Marrakech,https://www.lyngsat.com/radiochannels/ma/MFM-Radio-Marrakech.html,False,MFM Radio
+10955 HNW Africa0,DVB-S28PSK7893/4,4000.0,MFM Radio Fes,,,,401 Ara,,,DVB-S2,789.0,3/4,10955 H,,0.0,,,MFM Radio Fes,https://www.lyngsat.com/radiochannels/ma/MFM-Radio-Fes.html,False,MFM Radio
+10960 HNW Africa,DVB-S28PSK33003/4,,(feeds),,,,,,DX Bozóth210909,DVB-S2,3300.0,3/4,10960 H,,,,,,,False,MFM Radio
+11022 HNW Africa,DVB-S44352/3,,(feeds),,,,,,DX Bozóth220704,DVB-S,4435.0,2/3,11022 H,,,,,,,False,MFM Radio
+10970 VNW Africa0,DVB-S28PSK275002/3,,RCS,,702-7814,,6.6,,M Al-Taie240324,DVB-S2,27500.0,2/3,10970 V,,0.0,,https://www.lyngsat.com/providers/gh/RCS.html,,,True,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,,RCS,,702-7814,,6.6,,M Al-Taie240324,DVB-S2,27500.0,2/3,10970 V,,0.0,,https://www.lyngsat.com/providers/gh/RCS.html,,,True,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,,RCS,,702-7815,,6.6,,M Al-Taie240329,DVB-S2,27500.0,2/3,11010 V,,0.0,,https://www.lyngsat.com/providers/gh/RCS.html,,,True,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,,RCS,,702-7815,,6.6,,M Al-Taie240329,DVB-S2,27500.0,2/3,11010 V,,0.0,,https://www.lyngsat.com/providers/gh/RCS.html,,,True,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7101.0,Gaskia TV,,MPEG-4/HD,1101.0,2101 Hau,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Gaskia TV,https://www.lyngsat.com/tvchannels/gh/Gaskia-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7102.0,Gaskia Plus TV,,MPEG-4/HD,1102.0,2102 Hau,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Gaskia Plus TV,https://www.lyngsat.com/tvchannels/gh/Gaskia-Plus-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7103.0,Haske TV,,MPEG-4/SD,1103.0,51 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Haske TV,https://www.lyngsat.com/tvchannels/ng/Haske-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7103.0,Haske TV,,MPEG-4/SD,1103.0,51 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Haske TV,https://www.lyngsat.com/tvchannels/ng/Haske-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8114.0,Haske TV,,MPEG-4/SD,51.0,56 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Haske TV,https://www.lyngsat.com/tvchannels/ng/Haske-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8114.0,Haske TV,,MPEG-4/SD,51.0,56 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Haske TV,https://www.lyngsat.com/tvchannels/ng/Haske-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7109.0,Saha TV,,MPEG-4/HD,1109.0,2109 Ara,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Saha TV,https://www.lyngsat.com/tvchannels/--/Saha-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7113.0,Pan African TV,,MPEG-4/HD,1113.0,2113 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Pan African TV,https://www.lyngsat.com/tvchannels/gh/Pan-African-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7115.0,MTA Ghana,,MPEG-4/HD,1115.0,2115 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,MTA Ghana,https://www.lyngsat.com/tvchannels/uk/MTA-Ghana.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7116.0,Khalifa TV,,MPEG-4/SD,1116.0,2116,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Khalifa TV,https://www.lyngsat.com/tvchannels/--/Khalifa-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7117.0,NTA Knowledge,,MPEG-4/SD,1117.0,2117 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,NTA Knowledge,https://www.lyngsat.com/tvchannels/ng/NTA-Knowledge.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7119.0,NTA Igbo,,MPEG-4/SD,1119.0,2119,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,NTA Igbo,https://www.lyngsat.com/tvchannels/ng/NTA-Igbo.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7121.0,NTA 2,,MPEG-4/SD,1121.0,2121 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,NTA 2,https://www.lyngsat.com/tvchannels/ng/NTA-2.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7122.0,Rahma TV (Ghana),,MPEG-4/HD,1122.0,2122 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Rahma TV (Ghana),https://www.lyngsat.com/tvchannels/gh/Rahma-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7124.0,Sunna TV (Saudi Arabia),,MPEG-4/HD,1124.0,2124 Ara,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7124.0,Sunna TV (Saudi Arabia),,MPEG-4/HD,1124.0,2124 Ara,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7124.0,Sunna TV (Saudi Arabia),,MPEG-4/HD,1124.0,2124 Ara,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7124.0,Sunna TV (Saudi Arabia),,MPEG-4/HD,1124.0,2124 Ara,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5602.0,Sunna TV (Saudi Arabia),,MPEG-2/SD,2301.0,2311 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5602.0,Sunna TV (Saudi Arabia),,MPEG-2/SD,2301.0,2311 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5602.0,Sunna TV (Saudi Arabia),,MPEG-2/SD,2301.0,2311 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5602.0,Sunna TV (Saudi Arabia),,MPEG-2/SD,2301.0,2311 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7126.0,Quran TV (Saudi Arabia),,MPEG-4/HD,1126.0,2126 Ara,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7126.0,Quran TV (Saudi Arabia),,MPEG-4/HD,1126.0,2126 Ara,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7126.0,Quran TV (Saudi Arabia),,MPEG-4/HD,1126.0,2126 Ara,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7126.0,Quran TV (Saudi Arabia),,MPEG-4/HD,1126.0,2126 Ara,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5601.0,Quran TV (Saudi Arabia),,MPEG-2/SD,2308.0,2309 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5601.0,Quran TV (Saudi Arabia),,MPEG-2/SD,2308.0,2309 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5601.0,Quran TV (Saudi Arabia),,MPEG-2/SD,2308.0,2309 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+11230 HMENA,DVB-S275003/4,5601.0,Quran TV (Saudi Arabia),,MPEG-2/SD,2308.0,2309 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7127.0,Eeman Da'wah TV,,MPEG-4/SD,1127.0,2127,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Eeman Da'wah TV,https://www.lyngsat.com/tvchannels/gh/Eeman-Dawah-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7128.0,AAU TV,,MPEG-4/SD,1128.0,212. Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,AAU TV,https://www.lyngsat.com/tvchannels/gh/AAU-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7130.0,Western North TV,,MPEG-4/SD,1130.0,2130 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Western North TV,https://www.lyngsat.com/tvchannels/gh/Western-North-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7136.0,KBTV,,MPEG-4/SD,1136.0,2136 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,KBTV,https://www.lyngsat.com/tvchannels/ng/KBTV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7137.0,Sunnah TV Ghana,,MPEG-4/SD,1137.0,2137 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Sunnah TV Ghana,https://www.lyngsat.com/tvchannels/ng/Sunnah-TV-Ghana.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7140.0,OSBC TV,,MPEG-4/SD,1140.0,2140 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,OSBC TV,https://www.lyngsat.com/tvchannels/ng/OSBC-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7140.0,OSBC TV,,MPEG-4/SD,1140.0,2140 Eng,,,DVB-S2,27500.0,2/3,10970 V,,0.0,,,OSBC TV,https://www.lyngsat.com/tvchannels/ng/OSBC-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7142.0,Al-Ansar TV,,MPEG-4/SD,1142.0,2142 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Al-Ansar TV,https://www.lyngsat.com/tvchannels/ng/Al-Ansar-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7146.0,Ogun State TV,,MPEG-4/HD,1146.0,2146 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Ogun State TV,https://www.lyngsat.com/tvchannels/ng/Ogun-State-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7146.0,Ogun State TV,,MPEG-4/HD,1146.0,2146 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Ogun State TV,https://www.lyngsat.com/tvchannels/ng/Ogun-State-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7151.0,Peace TV English,,MPEG-4/HD,1151.0,2151 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Peace TV English,https://www.lyngsat.com/tvchannels/ae/Peace-TV-English.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7181.0,Kantanka TV,,MPEG-4/SD,1181.0,33 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Kantanka TV,https://www.lyngsat.com/tvchannels/gh/Kantanka-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7193.0,Aso TV,,MPEG-4/SD,1193.0,2193 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Aso TV,https://www.lyngsat.com/tvchannels/ng/Aso-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7194.0,Kwara TV,,MPEG-4/HD,1194.0,2194 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Kwara TV,https://www.lyngsat.com/tvchannels/ng/Kwara-TV.html,False,RCS
+10970 VNW Africa0,DVB-S28PSK275002/3,7195.0,Ekiti State TV,,MPEG-4/SD,512.0,49 Eng,,new,DVB-S2,27500.0,2/3,10970 V,,0.0,,,Ekiti State TV,https://www.lyngsat.com/tvchannels/ng/Ekiti-State-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8105.0,Africa TV 3,,MPEG-4/SD,1298.0,2298 Hau,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Africa TV 3,https://www.lyngsat.com/tvchannels/sd/Africa-TV-3.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8105.0,Africa TV 3,,MPEG-4/SD,1298.0,2298 Hau,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Africa TV 3,https://www.lyngsat.com/tvchannels/sd/Africa-TV-3.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8106.0,Africa TV 3 Qur'an,,MPEG-4/HD,1206.0,2206 Hau,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Africa TV 3 Qur'an,https://www.lyngsat.com/tvchannels/sd/Africa-TV-3-Quran.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8123.0,Wisal TV,,MPEG-2/SD,1223.0,2223 Hau,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Wisal TV,https://www.lyngsat.com/tvchannels/ng/Wisal-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8125.0,Hikma TV English,,MPEG-4/HD,1225.0,2225 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Hikma TV English,https://www.lyngsat.com/tvchannels/--/Hikma-TV-English.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8145.0,Manara TV,,MPEG-4/HD,1145.0,2145 Hau,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Manara TV,https://www.lyngsat.com/tvchannels/ng/Manara-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8149.0,Qausain TV,,MPEG-4/SD,62.0,53 Hau,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Qausain TV,https://www.lyngsat.com/tvchannels/ng/Qausain-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8153.0,NTA Entertainment,,MPEG-4/SD,1253.0,2253 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,NTA Entertainment,https://www.lyngsat.com/tvchannels/ng/NTA-Entertainment.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8155.0,Wonderland TV,,MPEG-4/SD,1255.0,2255,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Wonderland TV,https://www.lyngsat.com/tvchannels/ng/Wonderland-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8157.0,Zamani Plus,,MPEG-4/HD,1257.0,2257 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Zamani Plus,https://www.lyngsat.com/tvchannels/ng/Zamani-Plus.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8158.0,Ihsan TV,,MPEG-4/SD,1258.0,2258 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Ihsan TV,https://www.lyngsat.com/tvchannels/ng/Ihsan-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8159.0,NTA Sports 24,,MPEG-4/SD,1259.0,2259 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,NTA Sports 24,https://www.lyngsat.com/tvchannels/ng/NTA-Sports-24.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8161.0,Kiddiwinks,,MPEG-4/SD,1261.0,2261 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Kiddiwinks,https://www.lyngsat.com/tvchannels/za/Kiddiwinks.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8161.0,Kiddiwinks,,MPEG-4/SD,1261.0,2261 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Kiddiwinks,https://www.lyngsat.com/tvchannels/za/Kiddiwinks.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8165.0,KSMC,,MPEG-4/HD,1265.0,2265 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,KSMC,https://www.lyngsat.com/tvchannels/ng/KSMC.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8166.0,ATV Yola,,MPEG-4/SD,1266.0,2266 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,ATV Yola,https://www.lyngsat.com/tvchannels/ng/ATV-Yola.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8175.0,NTA Hausa,,MPEG-4/SD,1275.0,2275 Hau,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,NTA Hausa,https://www.lyngsat.com/tvchannels/ng/NTA-Hausa.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8178.0,NTA Parliament,,MPEG-4/SD,1278.0,2278 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,NTA Parliament,https://www.lyngsat.com/tvchannels/ng/NTA-Parliament.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8180.0,Huda TV,,MPEG-4/SD,211.0,221 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Huda TV,https://www.lyngsat.com/tvchannels/eg/Huda-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8180.0,Huda TV,,MPEG-4/SD,211.0,221 Eng,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Huda TV,https://www.lyngsat.com/tvchannels/eg/Huda-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8183.0,NTA Yoruba,,MPEG-4/SD,1283.0,2283 Yor,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,NTA Yoruba,https://www.lyngsat.com/tvchannels/ng/NTA-Yoruba.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8184.0,Hadi TV 5,,MPEG-4/SD,1284.0,50,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Hadi TV 5,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-5.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8184.0,Hadi TV 5,,MPEG-4/SD,1284.0,50,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Hadi TV 5,https://www.lyngsat.com/tvchannels/iq/Hadi-TV-5.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8185.0,Al'umma TV,,MPEG-4/SD,1285.0,60,,,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Al'umma TV,https://www.lyngsat.com/tvchannels/ng/Alumma-TV.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8187.0,AIT National,,MPEG-4/HD,1287.0,2287 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,AIT National,https://www.lyngsat.com/tvchannels/ng/AIT-National.html,False,RCS
+11010 VNW Africa0,DVB-S28PSK275002/3,8188.0,Unity TV,,MPEG-4/SD,1288.0,56 Eng,,new,DVB-S2,27500.0,2/3,11010 V,,0.0,,,Unity TV,https://www.lyngsat.com/tvchannels/ng/Unity-TV.html,False,RCS
+11018 HNW Africa0,DVB-S28PSK33303/4,1.0,Laayoune TV,,8192-4096MPEG-4/HD,300.0,7.9 301,,Secastello201117,DVB-S2,3330.0,3/4,11018 H,,0.0,,,,,False,RCS
+11018 HNW Africa0,DVB-S28PSK33303/4,2.0,Radio Laayoune,,,,302,,,DVB-S2,3330.0,3/4,11018 H,,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,RCS
+11018 HNW Africa0,DVB-S28PSK33303/4,2.0,Radio Laayoune,,,,302,,,DVB-S2,3330.0,3/4,11018 H,,0.0,,,Radio Laayoune,https://www.lyngsat.com/radiochannels/ma/Radio-Laayoune.html,False,RCS
+11230 HMENA,DVB-S275003/4,,Saudi Broadcasting Authority,,702-26,,5.5,,R Cervi230923,DVB-S,27500.0,3/4,11230 H,,,,https://www.lyngsat.com/providers/sa/Saudi-Broadcasting-Authority.html,,,True,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2601.0,Saudi TV,,MPEG-2/SD,512.0,612 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2601.0,Saudi TV,,MPEG-2/SD,512.0,612 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2602.0,Thikrayat TV,,MPEG-2/SD,513.0,712 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Thikrayat TV,https://www.lyngsat.com/tvchannels/sa/Thikrayat-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2602.0,Thikrayat TV,,MPEG-2/SD,513.0,712 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Thikrayat TV,https://www.lyngsat.com/tvchannels/sa/Thikrayat-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2603.0,SBC,,MPEG-2/SD,514.0,812 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,SBC,https://www.lyngsat.com/tvchannels/sa/SBC.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2603.0,SBC,,MPEG-2/SD,514.0,812 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,SBC,https://www.lyngsat.com/tvchannels/sa/SBC.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2604.0,Ekhbariya TV,,MPEG-2/SD,515.0,912 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2604.0,Ekhbariya TV,,MPEG-2/SD,515.0,912 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2605.0,Saudia Alaan TV,,MPEG-2/SD,516.0,914 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudia Alaan TV,https://www.lyngsat.com/tvchannels/sa/Saudia-Alaan-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2605.0,Saudia Alaan TV,,MPEG-2/SD,516.0,914 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudia Alaan TV,https://www.lyngsat.com/tvchannels/sa/Saudia-Alaan-TV.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5603.0,KSA Sports 1,,MPEG-2/SD,2312.0,2313 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 1,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-1.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5603.0,KSA Sports 1,,MPEG-2/SD,2312.0,2313 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 1,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-1.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5604.0,KSA Sports 2,,MPEG-2/SD,2314.0,2315 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 2,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-2.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5604.0,KSA Sports 2,,MPEG-2/SD,2314.0,2315 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 2,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-2.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5605.0,KSA Sports 3,,MPEG-2/SD,2316.0,2317 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 3,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-3.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,5605.0,KSA Sports 3,,MPEG-2/SD,2316.0,2317 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,KSA Sports 3,https://www.lyngsat.com/tvchannels/sa/KSA-Sports-3.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2620.0,Quran Radio (Saudi Arabia),,,,613 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2620.0,Quran Radio (Saudi Arabia),,,,613 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2621.0,Riyadh Radio,,,,713 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2621.0,Riyadh Radio,,,,713 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2622.0,Jeddah Radio,,,,813 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2622.0,Jeddah Radio,,,,813 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2623.0,Saudia Radio,,,,913,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2623.0,Saudia Radio,,,,913,,,DVB-S,27500.0,3/4,11230 H,,,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2625.0,Neda Radio,,,,413 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Neda Radio,https://www.lyngsat.com/radiochannels/sa/Neda-Radio.html,False,Saudi Broadcasting Authority
+11230 HMENA,DVB-S275003/4,2625.0,Neda Radio,,,,413 Ara,,,DVB-S,27500.0,3/4,11230 H,,,,,Neda Radio,https://www.lyngsat.com/radiochannels/sa/Neda-Radio.html,False,Saudi Broadcasting Authority
+11270 VEast MENA50,DVB-S275005/6,,MBC,,702-7104,,6.5,,Marcel 2231003,DVB-S,27500.0,5/6,11270 V,,50.0,,https://www.lyngsat.com/providers/sa/MBC.html,,,True,MBC
+11270 VEast MENA50,DVB-S275005/6,1.0,MBC (Saudi Arabia),,MPEG-2/SD,402.0,602 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,1.0,MBC (Saudi Arabia),,MPEG-2/SD,402.0,602 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,2.0,MBC 4,,MPEG-2/SD,405.0,605 Eng,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC 4,https://www.lyngsat.com/tvchannels/sa/MBC-4.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,3.0,MBC Drama (Saudi Arabia),,MPEG-2/SD,428.0,628 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Drama (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-Drama.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,3.0,MBC Drama (Saudi Arabia),,MPEG-2/SD,428.0,628 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Drama (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-Drama.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,4.0,Citruss TV,,MPEG-2/SD,416.0,616 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Citruss TV,https://www.lyngsat.com/tvchannels/sa/Citruss-TV.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,5.0,MBC Bollywood,,MPEG-2/SD,401.0,601 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Bollywood,https://www.lyngsat.com/tvchannels/sa/MBC-Bollywood.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,6.0,MBC 2 (Saudi Arabia),,MPEG-2/SD,403.0,603 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC 2 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-2.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,7.0,MBC Action,,MPEG-2/SD,406.0,606 Eng,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Action,https://www.lyngsat.com/tvchannels/sa/MBC-Action.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,8.0,MBC Max,,MPEG-2/SD,408.0,608 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Max,https://www.lyngsat.com/tvchannels/sa/MBC-Max.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,9.0,MBC 3 (Saudi Arabia),,MPEG-2/SD,404.0,604 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC 3 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-3.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,9.0,MBC 3 (Saudi Arabia),,MPEG-2/SD,404.0,604 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC 3 (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/MBC-3.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,11.0,Wanasah,,MPEG-2/SD,414.0,614 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Wanasah,https://www.lyngsat.com/tvchannels/sa/Wanasah.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,11.0,Wanasah,,MPEG-2/SD,414.0,614 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Wanasah,https://www.lyngsat.com/tvchannels/sa/Wanasah.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,57.0,MBC Maser,,MPEG-2/SD,430.0,707 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,57.0,MBC Maser,,MPEG-2/SD,430.0,707 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,MBC Maser,https://www.lyngsat.com/tvchannels/sa/MBC-Maser.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,58.0,MBC Maser 2,,MPEG-2/SD,431.0,708 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,MBC Maser 2,https://www.lyngsat.com/tvchannels/sa/MBC-Maser-2.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,58.0,MBC Maser 2,,MPEG-2/SD,431.0,708 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,MBC Maser 2,https://www.lyngsat.com/tvchannels/sa/MBC-Maser-2.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,59.0,Alarabiya,,MPEG-2/SD,427.0,627 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,Alarabiya,https://www.lyngsat.com/tvchannels/sa/Alarabiya.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,59.0,Alarabiya,,MPEG-2/SD,427.0,627 Ara,BISS 1,,DVB-S,27500.0,5/6,11270 V,,50.0,BISS 1,,Alarabiya,https://www.lyngsat.com/tvchannels/sa/Alarabiya.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,52.0,MBC FM,,,,702 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,52.0,MBC FM,,,,702 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,52.0,MBC FM,,,,702 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,52.0,MBC FM,,,,702 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,56.0,MBC FM,,,,716 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,56.0,MBC FM,,,,716 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,56.0,MBC FM,,,,716 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,56.0,MBC FM,,,,716 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC FM,https://www.lyngsat.com/radiochannels/sa/MBC-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,53.0,Alula FM,,,,703 Eng,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Alula FM,https://www.lyngsat.com/radiochannels/sa/Alula-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,54.0,Panorama FM,,,,704 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,54.0,Panorama FM,,,,704 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Panorama FM,https://www.lyngsat.com/radiochannels/sa/Panorama-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,55.0,Al Arabiya FM,,,,705 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Al Arabiya FM,https://www.lyngsat.com/radiochannels/sa/Al-Arabiya-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,55.0,Al Arabiya FM,,,,705 Ara,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,Al Arabiya FM,https://www.lyngsat.com/radiochannels/sa/Al-Arabiya-FM.html,False,MBC
+11270 VEast MENA50,DVB-S275005/6,60.0,MBC Loud FM,,,,717 Eng,,,DVB-S,27500.0,5/6,11270 V,,50.0,,,MBC Loud FM,https://www.lyngsat.com/radiochannels/sa/MBC-Loud-FM.html,False,MBC
+11472 VNW Africa0,DVB-S2QPSK41668/9,101.0,[Abaantu test card],,878-2400MPEG-2/SD,256.0,6.2 Eng,,D Shimoni231108,DVB-S2,4166.0,8/9,11472 V,,0.0,,,,,False,MBC
+,,,,,,,,,,,,,,,,,,DVB-S28PSK33303/4,,False,MBC
+,,,,,,,,,,,,,,,,,,DVB-S28PSK33303/4,,False,MBC

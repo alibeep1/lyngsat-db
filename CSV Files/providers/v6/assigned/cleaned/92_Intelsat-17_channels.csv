@@ -1,0 +1,314 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,TV5Monde,1-1305,,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,https://www.lyngsat.com/providers/fr/TV5Monde.html,,,,,True,TV5Monde,
+1034.0,TV5Monde Pacifique,MPEG-4/HD,1234.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Pacifique,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Pacifique.html,,,False,TV5Monde,Fre
+1035.0,TV5Monde Asie,MPEG-2/SD,1235.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Asie,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Asie.html,,,False,TV5Monde,Fre
+1035.0,TV5Monde Asie,MPEG-2/SD,1235.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Asie,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Asie.html,,,False,TV5Monde,Fre
+1036.0,TV5Monde Asie,MPEG-4/HD,1236.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Asie,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Asie.html,,,False,TV5Monde,Fre
+1036.0,TV5Monde Asie,MPEG-4/HD,1236.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Asie,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Asie.html,,,False,TV5Monde,Fre
+1037.0,TV5Monde Style,MPEG-4/HD,1237.0,DVB-S2,14870.0,3/5,3836 H,tp LM4CH,38.2,PowerVu,,TV5Monde Style,https://www.lyngsat.com/tvchannels/fr/TV5Monde-Style.html,,,False,TV5Monde,Fre
+,Tata Communications,51-12,,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-12,,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-12,,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-14,,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-14,,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-14,,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-13,,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-13,,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+,Tata Communications,51-13,,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,https://www.lyngsat.com/providers/in/Tata-Communications.html,,,,,True,Tata Communications,
+1.0,Kalaignar TV,MPEG-4/SD,4102.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,Irdeto,,Kalaignar TV,https://www.lyngsat.com/tvchannels/in/Kalaignar-TV.html,,,False,Tata Communications,Tam
+2.0,Kalaignar Seithigal,MPEG-4/SD,4201.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,Irdeto,,Kalaignar Seithigal,https://www.lyngsat.com/tvchannels/in/Kalaignar-Seithigal.html,,,False,Tata Communications,Tam
+3.0,Isai Aruvi,MPEG-4/SD,4302.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,Irdeto,,Isai Aruvi,https://www.lyngsat.com/tvchannels/in/Isai-Aruvi.html,,,False,Tata Communications,Tam
+4.0,Sirippoli,MPEG-4/SD,4402.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,Irdeto,,Sirippoli,https://www.lyngsat.com/tvchannels/in/Sirippoli.html,,,False,Tata Communications,Tam
+5.0,Chithiram,MPEG-4/SD,4501.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Chithiram,https://www.lyngsat.com/tvchannels/in/Chithiram.html,,,False,Tata Communications,Tam
+6.0,Kalaignar Murasu TV,MPEG-4/SD,4601.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,Irdeto,,Kalaignar Murasu TV,https://www.lyngsat.com/tvchannels/in/Kalaignar-Murasu-TV.html,,,False,Tata Communications,Tam
+11.0,Vendhar TV,MPEG-4/SD,5101.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Vendhar TV,https://www.lyngsat.com/tvchannels/in/Vendhar-TV.html,,,False,Tata Communications,Tam
+13.0,News 7 Tamil,MPEG-4/SD,1301.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,News 7 Tamil,https://www.lyngsat.com/tvchannels/in/News-7-Tamil.html,,,False,Tata Communications,Tam
+17.0,Sai TV,MPEG-4/SD,5701.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Sai TV,https://www.lyngsat.com/tvchannels/in/Sai-TV.html,,,False,Tata Communications,Tam
+18.0,Hindu Dharmam,MPEG-4/SD,5801.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Hindu Dharmam,https://www.lyngsat.com/tvchannels/in/Hindu-Dharmam.html,,,False,Tata Communications,
+20.0,TV 5 Kannada,MPEG-4/SD,6001.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,TV 5 Kannada,https://www.lyngsat.com/tvchannels/in/TV-5-Kannada.html,,,False,Tata Communications,Kan
+21.0,Malai Murasu TV,MPEG-4/SD,6101.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Malai Murasu TV,https://www.lyngsat.com/tvchannels/in/Malai-Murasu-TV.html,,,False,Tata Communications,Tam
+22.0,Malar TV,MPEG-4/SD,6201.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Malar TV,https://www.lyngsat.com/tvchannels/in/Malar-TV.html,,,False,Tata Communications,Tam
+24.0,News J,MPEG-4/SD,6401.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,News J,https://www.lyngsat.com/tvchannels/in/News-J.html,,,False,Tata Communications,Tam
+24.0,News J,MPEG-4/SD,6401.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,News J,https://www.lyngsat.com/tvchannels/in/News-J.html,,,False,Tata Communications,Tam
+30.0,News Malayalam 24x7,MPEG-4/SD,7001.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,News Malayalam 24x7,https://www.lyngsat.com/tvchannels/in/News-Malayalam-24x7.html,,,False,Tata Communications,Mal
+31.0,Sairam TV,MPEG-4/SD,7101.0,DVB-S2,28800.0,5/6,3845 V,tp LM4CV,38.2,,,Sairam TV,https://www.lyngsat.com/tvchannels/in/Sairam-TV.html,,,False,Tata Communications,Tam
+,Indiasign,9-99,,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,https://www.lyngsat.com/providers/in/Indiasign.html,,,,,True,Indiasign,
+,Indiasign,9-99,,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,https://www.lyngsat.com/providers/in/Indiasign.html,,,,,True,Indiasign,
+,Indiasign,9-9,,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,https://www.lyngsat.com/providers/in/Indiasign.html,,,,,True,Indiasign,
+,Indiasign,9-9,,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,https://www.lyngsat.com/providers/in/Indiasign.html,,,,,True,Indiasign,
+1.0,CVR English,MPEG-4/SD,201.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,CVR English,https://www.lyngsat.com/tvchannels/in/CVR-English.html,,,False,Indiasign,Eng
+2.0,CVR OM Spiritual,MPEG-4/SD,202.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,CVR OM Spiritual,https://www.lyngsat.com/tvchannels/in/CVR-OM-Spiritual.html,,,False,Indiasign,Tel
+3.0,[Indiasign test card],MPEG-4/SD,203.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+5.0,[Indiasign test card],MPEG-4/SD,205.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+8.0,[Indiasign test card],MPEG-4/SD,208.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+10.0,[Indiasign test card],MPEG-4/SD,210.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+11.0,[Indiasign test card],MPEG-4/SD,211.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+13.0,[Indiasign test card],MPEG-4/SD,213.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+16.0,[Indiasign test card],MPEG-4/SD,216.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+17.0,[Indiasign test card],MPEG-4/SD,217.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+19.0,[Indiasign test card],MPEG-4/SD,219.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+20.0,[Indiasign test card],MPEG-4/SD,220.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+21.0,[Indiasign test card],MPEG-4/SD,221.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+2.0,[Indiasign test card],MPEG-4/SD,202.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+4.0,[Indiasign test card],MPEG-4/SD,204.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+6.0,[Indiasign test card],MPEG-4/SD,206.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+16.0,[Indiasign test card],MPEG-4/SD,216.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+4.0,Unique TV,MPEG-4/SD,204.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Unique TV,https://www.lyngsat.com/tvchannels/--/Unique-TV.html,,,False,Indiasign,
+6.0,Orange Bangla TV,MPEG-4/SD,206.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Orange Bangla TV,https://www.lyngsat.com/tvchannels/in/Orange-Bangla-TV.html,,,False,Indiasign,Ben
+7.0,Nireekshana TV,MPEG-4/SD,207.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Nireekshana TV,https://www.lyngsat.com/tvchannels/in/Nireekshana-TV.html,,,False,Indiasign,Tel
+9.0,Pasand TV,MPEG-4/SD,209.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Pasand TV,https://www.lyngsat.com/tvchannels/in/Pasand-TV.html,,,False,Indiasign,
+12.0,Hornbill TV,MPEG-4/SD,212.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Hornbill TV,https://www.lyngsat.com/tvchannels/in/Hornbill-TV.html,,,False,Indiasign,
+12.0,Hornbill TV,MPEG-4/SD,212.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Hornbill TV,https://www.lyngsat.com/tvchannels/in/Hornbill-TV.html,,,False,Indiasign,
+14.0,Madhimugam TV,MPEG-4/SD,214.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,Madhimugam TV,https://www.lyngsat.com/tvchannels/in/Madhimugam-TV.html,,,False,Indiasign,
+15.0,[test card],MPEG-4/SD,215.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,,,,,False,Indiasign,
+18.0,TV 45,MPEG-4/SD,218.0,DVB-S2,14300.0,3/4,3876 H,tp LM5CH,38.2,,,TV 45,https://www.lyngsat.com/tvchannels/in/TV-45.html,,,False,Indiasign,Tel
+,Sun TV Network,0-11,,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,https://www.lyngsat.com/providers/in/Sun-TV-Network.html,,,,,True,Sun TV Network,
+,Sun TV Network,0-11,,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,https://www.lyngsat.com/providers/in/Sun-TV-Network.html,,,,,True,Sun TV Network,
+,Sun TV Network,0-1,,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,https://www.lyngsat.com/providers/in/Sun-TV-Network.html,,,,,True,Sun TV Network,
+,Sun TV Network,0-1,,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,https://www.lyngsat.com/providers/in/Sun-TV-Network.html,,,,,True,Sun TV Network,
+100.0,Sun TV (India),MPEG-4/SD,4448.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun TV (India),https://www.lyngsat.com/tvchannels/in/Sun-TV.html,,,False,Sun TV Network,Tam
+100.0,Sun TV (India),MPEG-4/SD,4448.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun TV (India),https://www.lyngsat.com/tvchannels/in/Sun-TV.html,,,False,Sun TV Network,Tam
+10.0,Sun TV (India),MPEG-4/HD,39.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun TV (India),https://www.lyngsat.com/tvchannels/in/Sun-TV.html,,,False,Sun TV Network,Tam Tam
+10.0,Sun TV (India),MPEG-4/HD,39.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun TV (India),https://www.lyngsat.com/tvchannels/in/Sun-TV.html,,,False,Sun TV Network,Tam Tam
+101.0,KTV (India),MPEG-4/SD,37.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,KTV (India),https://www.lyngsat.com/tvchannels/in/KTV.html,,,False,Sun TV Network,Tam
+101.0,KTV (India),MPEG-4/SD,37.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,KTV (India),https://www.lyngsat.com/tvchannels/in/KTV.html,,,False,Sun TV Network,Tam
+11.0,KTV (India),MPEG-4/HD,57.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,KTV (India),https://www.lyngsat.com/tvchannels/in/KTV.html,,,False,Sun TV Network,Tam
+11.0,KTV (India),MPEG-4/HD,57.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,KTV (India),https://www.lyngsat.com/tvchannels/in/KTV.html,,,False,Sun TV Network,Tam
+102.0,Sun News (India),MPEG-4/SD,40.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun News (India),https://www.lyngsat.com/tvchannels/in/Sun-News.html,,,False,Sun TV Network,Tam
+102.0,Sun News (India),MPEG-4/SD,40.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun News (India),https://www.lyngsat.com/tvchannels/in/Sun-News.html,,,False,Sun TV Network,Tam
+103.0,Sun Music,MPEG-4/SD,43.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Music,https://www.lyngsat.com/tvchannels/in/Sun-Music.html,,,False,Sun TV Network,Tam
+103.0,Sun Music,MPEG-4/SD,43.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Music,https://www.lyngsat.com/tvchannels/in/Sun-Music.html,,,False,Sun TV Network,Tam
+12.0,Sun Music,MPEG-4/HD,45.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Music,https://www.lyngsat.com/tvchannels/in/Sun-Music.html,,,False,Sun TV Network,Tam Tam
+12.0,Sun Music,MPEG-4/HD,45.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Music,https://www.lyngsat.com/tvchannels/in/Sun-Music.html,,,False,Sun TV Network,Tam Tam
+104.0,Gemini TV,MPEG-4/SD,46.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini TV,https://www.lyngsat.com/tvchannels/in/Gemini-TV.html,,,False,Sun TV Network,Tel
+104.0,Gemini TV,MPEG-4/SD,46.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini TV,https://www.lyngsat.com/tvchannels/in/Gemini-TV.html,,,False,Sun TV Network,Tel
+13.0,Gemini TV,MPEG-4/HD,60.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Gemini TV,https://www.lyngsat.com/tvchannels/in/Gemini-TV.html,,,False,Sun TV Network,Tel
+13.0,Gemini TV,MPEG-4/HD,60.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Gemini TV,https://www.lyngsat.com/tvchannels/in/Gemini-TV.html,,,False,Sun TV Network,Tel
+105.0,Gemini Movies,MPEG-4/SD,49.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Movies,https://www.lyngsat.com/tvchannels/in/Gemini-Movies.html,,,False,Sun TV Network,Tel
+105.0,Gemini Movies,MPEG-4/SD,49.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Movies,https://www.lyngsat.com/tvchannels/in/Gemini-Movies.html,,,False,Sun TV Network,Tel
+116.0,Gemini Movies,MPEG-4/HD,53.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Movies,https://www.lyngsat.com/tvchannels/in/Gemini-Movies.html,,,False,Sun TV Network,Tel
+116.0,Gemini Movies,MPEG-4/HD,53.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Movies,https://www.lyngsat.com/tvchannels/in/Gemini-Movies.html,,,False,Sun TV Network,Tel
+106.0,Gemini Comedy,MPEG-4/SD,52.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Comedy,https://www.lyngsat.com/tvchannels/in/Gemini-Comedy.html,,,False,Sun TV Network,Tel
+107.0,Udaya TV,MPEG-4/SD,55.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Udaya TV,https://www.lyngsat.com/tvchannels/in/Udaya-TV.html,,,False,Sun TV Network,Kan
+107.0,Udaya TV,MPEG-4/SD,55.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Udaya TV,https://www.lyngsat.com/tvchannels/in/Udaya-TV.html,,,False,Sun TV Network,Kan
+117.0,Udaya TV,MPEG-4/HD,65.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Udaya TV,https://www.lyngsat.com/tvchannels/in/Udaya-TV.html,,,False,Sun TV Network,Kan
+117.0,Udaya TV,MPEG-4/HD,65.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Udaya TV,https://www.lyngsat.com/tvchannels/in/Udaya-TV.html,,,False,Sun TV Network,Kan
+108.0,Udaya Movies,MPEG-4/SD,58.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Udaya Movies,https://www.lyngsat.com/tvchannels/in/Udaya-Movies.html,,,False,Sun TV Network,Kan
+109.0,Surya TV,MPEG-4/HD,61.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Surya TV,https://www.lyngsat.com/tvchannels/in/Surya-TV.html,,,False,Sun TV Network,Mal
+109.0,Surya TV,MPEG-4/HD,61.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Surya TV,https://www.lyngsat.com/tvchannels/in/Surya-TV.html,,,False,Sun TV Network,Mal
+110.0,Surya TV,MPEG-4/SD,64.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Surya TV,https://www.lyngsat.com/tvchannels/in/Surya-TV.html,,,False,Sun TV Network,Mal
+110.0,Surya TV,MPEG-4/SD,64.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Surya TV,https://www.lyngsat.com/tvchannels/in/Surya-TV.html,,,False,Sun TV Network,Mal
+111.0,Chutti TV,MPEG-4/SD,67.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Chutti TV,https://www.lyngsat.com/tvchannels/in/Chutti-TV.html,,,False,Sun TV Network,Tam
+112.0,Kochu TV,MPEG-4/SD,70.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Kochu TV,https://www.lyngsat.com/tvchannels/in/Kochu-TV.html,,,False,Sun TV Network,Mal
+113.0,Gemini Music,MPEG-4/SD,73.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Music,https://www.lyngsat.com/tvchannels/in/Gemini-Music.html,,,False,Sun TV Network,Tel
+113.0,Gemini Music,MPEG-4/SD,73.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Music,https://www.lyngsat.com/tvchannels/in/Gemini-Music.html,,,False,Sun TV Network,Tel
+115.0,Gemini Music,MPEG-4/HD,44.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Music,https://www.lyngsat.com/tvchannels/in/Gemini-Music.html,,,False,Sun TV Network,Tel
+115.0,Gemini Music,MPEG-4/HD,44.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Gemini Music,https://www.lyngsat.com/tvchannels/in/Gemini-Music.html,,,False,Sun TV Network,Tel
+114.0,Surya Movies,MPEG-4/SD,33.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Surya Movies,https://www.lyngsat.com/tvchannels/in/Surya-Movies.html,,,False,Sun TV Network,Mal
+118.0,Sun Bangla,MPEG-4/SD,71.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Bangla,https://www.lyngsat.com/tvchannels/in/Sun-Bangla.html,,,False,Sun TV Network,Ben
+118.0,Sun Bangla,MPEG-4/SD,71.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Bangla,https://www.lyngsat.com/tvchannels/in/Sun-Bangla.html,,,False,Sun TV Network,Ben
+14.0,Sun Bangla,MPEG-4/HD,92.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Bangla,https://www.lyngsat.com/tvchannels/in/Sun-Bangla.html,,,False,Sun TV Network,Ben
+14.0,Sun Bangla,MPEG-4/HD,92.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Bangla,https://www.lyngsat.com/tvchannels/in/Sun-Bangla.html,,,False,Sun TV Network,Ben
+119.0,Sun Marathi,MPEG-4/SD,77.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Marathi,https://www.lyngsat.com/tvchannels/in/Sun-Marathi.html,,,False,Sun TV Network,Mar
+119.0,Sun Marathi,MPEG-4/SD,77.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Marathi,https://www.lyngsat.com/tvchannels/in/Sun-Marathi.html,,,False,Sun TV Network,Mar
+15.0,Sun Marathi,MPEG-4/HD,95.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Marathi,https://www.lyngsat.com/tvchannels/in/Sun-Marathi.html,,,False,Sun TV Network,Mar
+15.0,Sun Marathi,MPEG-4/HD,95.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Marathi,https://www.lyngsat.com/tvchannels/in/Sun-Marathi.html,,,False,Sun TV Network,Mar
+120.0,Sun Neo,MPEG-4/HD,132.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Neo,https://www.lyngsat.com/tvchannels/in/Sun-Neo.html,,,False,Sun TV Network,Hin
+120.0,Sun Neo,MPEG-4/HD,132.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Neo,https://www.lyngsat.com/tvchannels/in/Sun-Neo.html,,,False,Sun TV Network,Hin
+121.0,Sun Neo,MPEG-4/SD,135.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Neo,https://www.lyngsat.com/tvchannels/in/Sun-Neo.html,,,False,Sun TV Network,Hin
+121.0,Sun Neo,MPEG-4/SD,135.0,DVB-S2,30000.0,3/4,3885 V,tp LM5CV,38.2,Irdeto,,Sun Neo,https://www.lyngsat.com/tvchannels/in/Sun-Neo.html,,,False,Sun TV Network,Hin
+1.0,HMTV,MPEG-4/SD,201.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,HMTV,https://www.lyngsat.com/tvchannels/in/HMTV.html,,,False,Sun TV Network,Tel
+3.0,Aradana TV,MPEG-4/SD,203.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Aradana TV,https://www.lyngsat.com/tvchannels/in/Aradana-TV.html,,,False,Sun TV Network,Hin
+3.0,Aradana TV,MPEG-4/SD,203.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Aradana TV,https://www.lyngsat.com/tvchannels/in/Aradana-TV.html,,,False,Sun TV Network,Hin
+5.0,T News,MPEG-4/SD,205.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,T News,https://www.lyngsat.com/tvchannels/in/T-News.html,,,False,Sun TV Network,Tel
+5.0,T News,MPEG-4/SD,205.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,T News,https://www.lyngsat.com/tvchannels/in/T-News.html,,,False,Sun TV Network,Tel
+7.0,MBC TV,MPEG-4/SD,207.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,MBC TV,https://www.lyngsat.com/tvchannels/in/MBC-TV.html,,,False,Sun TV Network,Ori
+8.0,Calvary TV,MPEG-4/SD,208.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Calvary TV,https://www.lyngsat.com/tvchannels/in/Calvary-TV.html,,,False,Sun TV Network,Tel
+9.0,Prarthana Bhawan TV,MPEG-4/SD,209.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Prarthana Bhawan TV,https://www.lyngsat.com/tvchannels/in/Prarthana-Bhawan-TV.html,,,False,Sun TV Network,Hin
+10.0,7S Music,MPEG-4/SD,210.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,7S Music,https://www.lyngsat.com/tvchannels/in/7S-Music.html,,,False,Sun TV Network,Tam
+11.0,ABN (India),MPEG-4/SD,211.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,ABN (India),https://www.lyngsat.com/tvchannels/in/ABN.html,,,False,Sun TV Network,Tel
+11.0,ABN (India),MPEG-4/SD,211.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,ABN (India),https://www.lyngsat.com/tvchannels/in/ABN.html,,,False,Sun TV Network,Tel
+12.0,Mojo TV,MPEG-4/SD,212.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Mojo TV,https://www.lyngsat.com/tvchannels/in/Mojo-TV.html,,,False,Sun TV Network,Tel
+13.0,V6 News,MPEG-4/SD,213.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,V6 News,https://www.lyngsat.com/tvchannels/in/V6-News.html,,,False,Sun TV Network,Tel
+13.0,V6 News,MPEG-4/SD,213.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,V6 News,https://www.lyngsat.com/tvchannels/in/V6-News.html,,,False,Sun TV Network,Tel
+14.0,CVR News,MPEG-4/SD,214.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,CVR News,https://www.lyngsat.com/tvchannels/in/CVR-News.html,,,False,Sun TV Network,Tel
+15.0,Mercy TV (India),MPEG-4/SD,215.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Mercy TV (India),https://www.lyngsat.com/tvchannels/in/Mercy-TV.html,,,False,Sun TV Network,
+15.0,Mercy TV (India),MPEG-4/SD,215.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,Mercy TV (India),https://www.lyngsat.com/tvchannels/in/Mercy-TV.html,,,False,Sun TV Network,
+17.0,CVR Health,MPEG-4/SD,217.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,CVR Health,https://www.lyngsat.com/tvchannels/in/CVR-Health.html,,,False,Sun TV Network,Tel
+18.0,INews (India),MPEG-4/SD,218.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,INews (India),https://www.lyngsat.com/tvchannels/in/INews.html,,,False,Sun TV Network,Tel
+19.0,10 TV,MPEG-4/SD,219.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,10 TV,https://www.lyngsat.com/tvchannels/in/10-TV.html,,,False,Sun TV Network,Tel
+19.0,10 TV,MPEG-4/SD,219.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,10 TV,https://www.lyngsat.com/tvchannels/in/10-TV.html,,,False,Sun TV Network,Tel
+20.0,AP 24x7,MPEG-4/SD,220.0,DVB-S2,13840.0,5/6,3894 H,tp LM5CH,38.2,,,AP 24x7,https://www.lyngsat.com/tvchannels/in/AP-24x7.html,,,False,Sun TV Network,
+,New Delhi TV,1-1,,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,https://www.lyngsat.com/providers/in/New-Delhi-TV.html,,,,,True,New Delhi TV,
+1.0,NDTV 24x7,MPEG-4/SD,1160.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV 24x7,https://www.lyngsat.com/tvchannels/in/NDTV-24x7.html,,,False,New Delhi TV,Eng Hin
+1.0,NDTV 24x7,MPEG-4/SD,1160.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV 24x7,https://www.lyngsat.com/tvchannels/in/NDTV-24x7.html,,,False,New Delhi TV,Eng Hin
+2.0,NDTV India,MPEG-4/SD,1260.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV India,https://www.lyngsat.com/tvchannels/in/NDTV-India.html,,,False,New Delhi TV,Hin
+2.0,NDTV India,MPEG-4/SD,1260.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV India,https://www.lyngsat.com/tvchannels/in/NDTV-India.html,,,False,New Delhi TV,Hin
+3.0,NDTV Profit,MPEG-4/SD,1360.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV Profit,https://www.lyngsat.com/tvchannels/in/NDTV-Profit.html,,,False,New Delhi TV,Eng
+3.0,NDTV Profit,MPEG-4/SD,1360.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV Profit,https://www.lyngsat.com/tvchannels/in/NDTV-Profit.html,,,False,New Delhi TV,Eng
+4.0,NDTV Good Times,MPEG-4/SD,1460.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,Irdeto,,NDTV Good Times,https://www.lyngsat.com/tvchannels/in/NDTV-Good-Times.html,,,False,New Delhi TV,Eng
+5.0,NDTV Madhya Pradesh & Chhattisgarh,MPEG-4/SD,1560.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,,,NDTV Madhya Pradesh & Chhattisgarh,https://www.lyngsat.com/tvchannels/in/NDTV-Madhya-Pradesh-and-Chhattisgarh.html,,,False,New Delhi TV,
+5.0,NDTV Madhya Pradesh & Chhattisgarh,MPEG-4/SD,1560.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,,,NDTV Madhya Pradesh & Chhattisgarh,https://www.lyngsat.com/tvchannels/in/NDTV-Madhya-Pradesh-and-Chhattisgarh.html,,,False,New Delhi TV,
+6.0,NDTV Rajasthan,MPEG-4/SD,1660.0,DVB-S2,11200.0,3/4,3914 H,tp LM6CH,38.2,,,NDTV Rajasthan,https://www.lyngsat.com/tvchannels/in/NDTV-Rajasthan.html,,,False,New Delhi TV,
+1.0,Kushi TV,MPEG-4/SD,54.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Kushi TV,https://www.lyngsat.com/tvchannels/in/Kushi-TV.html,,,False,New Delhi TV,Tel
+2.0,Udaya Music,MPEG-4/SD,33.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Udaya Music,https://www.lyngsat.com/tvchannels/in/Udaya-Music.html,,,False,New Delhi TV,Kan
+3.0,Chintu TV,MPEG-4/SD,66.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Chintu TV,https://www.lyngsat.com/tvchannels/in/Chintu-TV.html,,,False,New Delhi TV,Kan
+4.0,Adithya TV,MPEG-4/SD,69.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Adithya TV,https://www.lyngsat.com/tvchannels/in/Adithya-TV.html,,,False,New Delhi TV,Tam
+5.0,Udaya Comedy,MPEG-4/SD,36.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Udaya Comedy,https://www.lyngsat.com/tvchannels/in/Udaya-Comedy.html,,,False,New Delhi TV,Kan
+6.0,Surya Comedy,MPEG-4/SD,48.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Surya Comedy,https://www.lyngsat.com/tvchannels/in/Surya-Comedy.html,,,False,New Delhi TV,Mal
+7.0,Surya Music,MPEG-4/SD,42.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Surya Music,https://www.lyngsat.com/tvchannels/in/Surya-Music.html,,,False,New Delhi TV,Mal
+8.0,Sun Life,MPEG-4/SD,51.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Sun Life,https://www.lyngsat.com/tvchannels/in/Sun-Life.html,,,False,New Delhi TV,Tam
+9.0,Gemini Life,MPEG-4/SD,63.0,DVB-S2,30000.0,3/4,3925 V,tp LM6CV,38.2,Irdeto,,Gemini Life,https://www.lyngsat.com/tvchannels/in/Gemini-Life.html,,,False,New Delhi TV,Tel
+,Indo Teleports,28-4,,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,https://www.lyngsat.com/providers/in/Indo-Teleports.html,,,,,True,Indo Teleports,
+1400.0,Peppers TV,MPEG-4/SD,3002.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Peppers TV,https://www.lyngsat.com/tvchannels/in/Peppers-TV.html,,,False,Indo Teleports,
+1403.0,Total TV Haryana,MPEG-4/SD,3032.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Total TV Haryana,https://www.lyngsat.com/tvchannels/in/Total-TV-Haryana.html,,,False,Indo Teleports,Hin
+1405.0,Tabbar Hits,MPEG-4/SD,3052.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Tabbar Hits,https://www.lyngsat.com/tvchannels/in/Tabbar-Hits.html,,,False,Indo Teleports,
+1407.0,BRK News,MPEG-4/SD,3072.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,BRK News,https://www.lyngsat.com/tvchannels/in/BRK-News.html,,,False,Indo Teleports,
+1408.0,Chardikla Time TV,MPEG-4/SD,3082.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Chardikla Time TV,https://www.lyngsat.com/tvchannels/in/Chardikla-Time-TV.html,,,False,Indo Teleports,Pan
+1408.0,Chardikla Time TV,MPEG-4/SD,3082.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Chardikla Time TV,https://www.lyngsat.com/tvchannels/in/Chardikla-Time-TV.html,,,False,Indo Teleports,Pan
+1411.0,Enterr 10 Bangla,MPEG-4/SD,3112.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Enterr 10 Bangla,https://www.lyngsat.com/tvchannels/in/Enterr-10-Bangla.html,,,False,Indo Teleports,Ben
+1412.0,Enterr 10,MPEG-4/SD,3122.0,DVB-S2,18330.0,2/3,3932 H,tp LM6CH,38.2,,,Enterr 10,https://www.lyngsat.com/tvchannels/in/Enterr-10.html,,,False,Indo Teleports,Hin
+2.0,Thanthi TV,MPEG-4/SD,6201.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,Thanthi TV,https://www.lyngsat.com/tvchannels/in/Thanthi-TV.html,,,False,Indo Teleports,Tam
+2.0,Thanthi TV,MPEG-4/SD,6201.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,Thanthi TV,https://www.lyngsat.com/tvchannels/in/Thanthi-TV.html,,,False,Indo Teleports,Tam
+6.0,Janam TV,MPEG-4/SD,6601.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,Janam TV,https://www.lyngsat.com/tvchannels/in/Janam-TV.html,,,False,Indo Teleports,Mal
+6.0,Janam TV,MPEG-4/SD,6601.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,Janam TV,https://www.lyngsat.com/tvchannels/in/Janam-TV.html,,,False,Indo Teleports,Mal
+12.0,News Tamil 24x7,MPEG-4/SD,7201.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,News Tamil 24x7,https://www.lyngsat.com/tvchannels/in/News-Tamil-24x7.html,,,False,Indo Teleports,Tam
+12.0,News Tamil 24x7,MPEG-4/SD,7201.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,News Tamil 24x7,https://www.lyngsat.com/tvchannels/in/News-Tamil-24x7.html,,,False,Indo Teleports,Tam
+13.0,Thanthi One,MPEG-4/SD,7301.0,DVB-S2,14400.0,2/3,3966 H,tp LM7CH,38.2,,,Thanthi One,https://www.lyngsat.com/tvchannels/in/Thanthi-One.html,,,False,Indo Teleports,
+,Encompass,1-101,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,https://www.lyngsat.com/providers/us/Encompass.html,,,,,True,Encompass,
+5.0,VoA TV Global,MPEG-4/HD,100.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA TV Global,https://www.lyngsat.com/tvchannels/us/VoA-TV-Global.html,,,False,Encompass,Eng
+6.0,VoA TV Indian Ocean,MPEG-4/HD,500.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA TV Indian Ocean,https://www.lyngsat.com/tvchannels/us/VoA-TV-Indian-Ocean.html,,,False,Encompass,Eng
+7.0,VoA TV China,MPEG-4/HD,800.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA TV China,https://www.lyngsat.com/tvchannels/us/VoA-TV-China.html,,,False,Encompass,Chi
+8.0,VoA TV Africa,MPEG-4/HD,600.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA TV Africa,https://www.lyngsat.com/tvchannels/us/VoA-TV-Africa.html,,,False,Encompass,Eng
+257.0,God TV Asia,MPEG-2/SD,49.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,God TV Asia,https://www.lyngsat.com/tvchannels/uk/God-TV-Asia.html,,,False,Encompass,Eng
+257.0,God TV Asia,MPEG-2/SD,49.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,God TV Asia,https://www.lyngsat.com/tvchannels/uk/God-TV-Asia.html,,,False,Encompass,Eng
+1111.0,Colors MENA,MPEG-4/HD,1112.0,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,Irdeto,,Colors MENA,https://www.lyngsat.com/tvchannels/in/Colors-MENA.html,,,False,Encompass,Hin
+9.0,VoA Urdu,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Urdu,https://www.lyngsat.com/radiochannels/us/VoA-Urdu.html,,,False,Encompass,Urd
+12.0,VoA East Timor,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA East Timor,https://www.lyngsat.com/radiochannels/us/VoA-East-Timor.html,,,False,Encompass,
+18.0,VoA Tibetan,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Tibetan,https://www.lyngsat.com/radiochannels/us/VoA-Tibetan.html,,,False,Encompass,
+18.0,VoA Tibetan,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Tibetan,https://www.lyngsat.com/radiochannels/us/VoA-Tibetan.html,,,False,Encompass,
+18.0,VoA Madagascar,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Madagascar,https://www.lyngsat.com/radiochannels/us/VoA-Madagascar.html,,,False,Encompass,
+18.0,VoA Asia,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Asia,https://www.lyngsat.com/radiochannels/us/VoA-Asia.html,,,False,Encompass,
+18.0,Radio Free Asia,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,Radio Free Asia,https://www.lyngsat.com/radiochannels/us/Radio-Free-Asia.html,,,False,Encompass,
+19.0,VoA Mongolia,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Mongolia,https://www.lyngsat.com/radiochannels/us/VoA-Mongolia.html,,,False,Encompass,Mon
+21.0,VoA Somali,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Somali,https://www.lyngsat.com/radiochannels/us/VoA-Somali.html,,,False,Encompass,Som
+22.0,VoA Congo DRC,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Congo DRC,https://www.lyngsat.com/radiochannels/us/VoA-Congo-DRC.html,,,False,Encompass,
+23.0,VoA Kenya,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,VoA Kenya,https://www.lyngsat.com/radiochannels/us/VoA-Kenya.html,,,False,Encompass,
+24.0,Radio Farda,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,Radio Farda,https://www.lyngsat.com/radiochannels/us/Radio-Farda.html,,,False,Encompass,Per
+25.0,Radio Free Ashna,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,Radio Free Ashna,https://www.lyngsat.com/radiochannels/us/Radio-Free-Ashna.html,,,False,Encompass,
+25.0,Deewa Radio,,,DVB-S2,14400.0,3/4,3984 H,tp LM7CH,38.2,,,Deewa Radio,https://www.lyngsat.com/radiochannels/us/Deewa-Radio.html,,,False,Encompass,
+,Planetcast,1-3,,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,https://www.lyngsat.com/providers/in/Planetcast.html,,,,,True,Planetcast,
+,Planetcast,1-3,,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,https://www.lyngsat.com/providers/in/Planetcast.html,,,,,True,Planetcast,
+,Planetcast,164-14,,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,https://www.lyngsat.com/providers/in/Planetcast.html,,,,,True,Planetcast,
+,Planetcast,164-14,,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,https://www.lyngsat.com/providers/in/Planetcast.html,,,,,True,Planetcast,
+5.0,Shalom TV India,MPEG-4/SD,1314.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Shalom TV India,https://www.lyngsat.com/tvchannels/in/Shalom-TV-India.html,,,False,Planetcast,
+5.0,Shalom TV India,MPEG-4/SD,1314.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Shalom TV India,https://www.lyngsat.com/tvchannels/in/Shalom-TV-India.html,,,False,Planetcast,
+6.0,Jeevan TV,MPEG-4/SD,1570.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Jeevan TV,https://www.lyngsat.com/tvchannels/in/Jeevan-TV.html,,,False,Planetcast,Mal
+7.0,Media One,MPEG-4/SD,1826.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Media One,https://www.lyngsat.com/tvchannels/in/Media-One.html,,,False,Planetcast,Mal
+7.0,Media One,MPEG-4/SD,1826.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Media One,https://www.lyngsat.com/tvchannels/in/Media-One.html,,,False,Planetcast,Mal
+8.0,Kaumudy TV,MPEG-4/SD,2082.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Kaumudy TV,https://www.lyngsat.com/tvchannels/in/Kaumudy-TV.html,,,False,Planetcast,Mal
+8.0,Kaumudy TV,MPEG-4/SD,2082.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Kaumudy TV,https://www.lyngsat.com/tvchannels/in/Kaumudy-TV.html,,,False,Planetcast,Mal
+10.0,Powervision TV,MPEG-4/SD,2594.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Powervision TV,https://www.lyngsat.com/tvchannels/in/Powervision-TV.html,,,False,Planetcast,Mal
+10.0,Powervision TV,MPEG-4/SD,2594.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Powervision TV,https://www.lyngsat.com/tvchannels/in/Powervision-TV.html,,,False,Planetcast,Mal
+11.0,Sathiyam TV,MPEG-4/SD,2850.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Sathiyam TV,https://www.lyngsat.com/tvchannels/in/Sathiyam-TV.html,,,False,Planetcast,Tam
+12.0,Dheeran TV,MPEG-4/SD,3106.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Dheeran TV,https://www.lyngsat.com/tvchannels/in/Dheeran-TV.html,,,False,Planetcast,
+12.0,Dheeran TV,MPEG-4/SD,3106.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Dheeran TV,https://www.lyngsat.com/tvchannels/in/Dheeran-TV.html,,,False,Planetcast,
+15.0,Harvest TV 24x7,MPEG-4/SD,3874.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Harvest TV 24x7,https://www.lyngsat.com/tvchannels/in/Harvest-TV-24x7.html,,,False,Planetcast,Eng
+15.0,Harvest TV 24x7,MPEG-4/SD,3874.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Harvest TV 24x7,https://www.lyngsat.com/tvchannels/in/Harvest-TV-24x7.html,,,False,Planetcast,Eng
+19.0,Safari,MPEG-4/SD,3378.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Safari,https://www.lyngsat.com/tvchannels/in/Safari.html,,,False,Planetcast,
+19.0,Safari,MPEG-4/SD,3378.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Safari,https://www.lyngsat.com/tvchannels/in/Safari.html,,,False,Planetcast,
+20.0,Aashirwad,MPEG-4/SD,3634.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Aashirwad,https://www.lyngsat.com/tvchannels/in/Aashirwad.html,,,False,Planetcast,
+23.0,Darshana TV Middle East,MPEG-4/SD,2301.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Darshana TV Middle East,https://www.lyngsat.com/tvchannels/in/Darshana-TV-Middle-East.html,,,False,Planetcast,Mal
+24.0,Republic Kannada,MPEG-4/SD,2401.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Republic Kannada,https://www.lyngsat.com/tvchannels/in/Republic-Kannada.html,,,False,Planetcast,Kan
+24.0,Republic Kannada,MPEG-4/SD,2401.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Republic Kannada,https://www.lyngsat.com/tvchannels/in/Republic-Kannada.html,,,False,Planetcast,Kan
+26.0,Velicham TV,MPEG-4/SD,2601.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Velicham TV,https://www.lyngsat.com/tvchannels/in/Velicham-TV.html,,,False,Planetcast,Tam
+26.0,Velicham TV,MPEG-4/SD,2601.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Velicham TV,https://www.lyngsat.com/tvchannels/in/Velicham-TV.html,,,False,Planetcast,Tam
+29.0,Studio One +,MPEG-4/SD,2901.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Studio One +,https://www.lyngsat.com/tvchannels/in/Studio-One--.html,,,False,Planetcast,Tel
+39.0,Vertent Samachar Plus 24x7,MPEG-4/SD,3901.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Vertent Samachar Plus 24x7,https://www.lyngsat.com/tvchannels/in/Vertent-Samachar-Plus-24x7.html,,,False,Planetcast,Hin
+40.0,Reporter,MPEG-4/SD,4001.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Reporter,https://www.lyngsat.com/tvchannels/in/Reporter.html,,,False,Planetcast,Mal
+51.0,Ate TV,MPEG-4/SD,5001.0,DVB-S2,14400.0,3/4,4006 H,tp LM8CH,38.2,,,Ate TV,https://www.lyngsat.com/tvchannels/in/Ate-TV.html,,,False,Planetcast,Mal
+1.0,Angel TV India,MPEG-4/HD,101.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Angel TV India,https://www.lyngsat.com/tvchannels/in/Angel-TV-India.html,,,False,Planetcast,Tam
+1.0,Angel TV India,MPEG-4/HD,101.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Angel TV India,https://www.lyngsat.com/tvchannels/in/Angel-TV-India.html,,,False,Planetcast,Tam
+5.0,Madha TV,MPEG-4/SD,501.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Madha TV,https://www.lyngsat.com/tvchannels/in/Madha-TV.html,,,False,Planetcast,Tam
+5.0,Madha TV,MPEG-4/SD,501.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Madha TV,https://www.lyngsat.com/tvchannels/in/Madha-TV.html,,,False,Planetcast,Tam
+6.0,Makkal TV,MPEG-4/SD,601.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Makkal TV,https://www.lyngsat.com/tvchannels/in/Makkal-TV.html,,,False,Planetcast,Tam
+6.0,Makkal TV,MPEG-4/SD,601.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Makkal TV,https://www.lyngsat.com/tvchannels/in/Makkal-TV.html,,,False,Planetcast,Tam
+7.0,Kairali TV,MPEG-4/SD,701.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Kairali TV,https://www.lyngsat.com/tvchannels/in/Kairali-TV.html,,,False,Planetcast,Mal
+8.0,Kairali News,MPEG-4/SD,801.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Kairali News,https://www.lyngsat.com/tvchannels/in/Kairali-News.html,,,False,Planetcast,Mal
+8.0,Kairali News,MPEG-4/SD,801.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Kairali News,https://www.lyngsat.com/tvchannels/in/Kairali-News.html,,,False,Planetcast,Mal
+9.0,We,MPEG-4/SD,901.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,We,https://www.lyngsat.com/tvchannels/in/We.html,,,False,Planetcast,Mal
+15.0,Moon TV,MPEG-4/SD,1501.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Moon TV,https://www.lyngsat.com/tvchannels/in/Moon-TV.html,,,False,Planetcast,Tam
+16.0,Puthiya Thalaimurai,MPEG-4/SD,1601.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Puthiya Thalaimurai,https://www.lyngsat.com/tvchannels/in/Puthiya-Thalaimurai.html,,,False,Planetcast,Tam
+16.0,Puthiya Thalaimurai,MPEG-4/SD,1601.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Puthiya Thalaimurai,https://www.lyngsat.com/tvchannels/in/Puthiya-Thalaimurai.html,,,False,Planetcast,Tam
+17.0,Sankara TV,MPEG-4/SD,1701.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Sankara TV,https://www.lyngsat.com/tvchannels/in/Sankara-TV.html,,,False,Planetcast,Kan
+21.0,Tamilan TV,MPEG-4/SD,2101.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Tamilan TV,https://www.lyngsat.com/tvchannels/in/Tamilan-TV.html,,,False,Planetcast,Tam
+23.0,Vasanth TV,MPEG-4/SD,2301.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Vasanth TV,https://www.lyngsat.com/tvchannels/in/Vasanth-TV.html,,,False,Planetcast,Tam
+24.0,Win TV (India),MPEG-4/SD,2402.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Win TV (India),https://www.lyngsat.com/tvchannels/in/Win-TV.html,,,False,Planetcast,Tam
+29.0,Public TV,MPEG-4/SD,2901.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Public TV,https://www.lyngsat.com/tvchannels/in/Public-TV.html,,,False,Planetcast,Kan
+29.0,Public TV,MPEG-4/SD,2901.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Public TV,https://www.lyngsat.com/tvchannels/in/Public-TV.html,,,False,Planetcast,Kan
+32.0,TV 5 News,MPEG-4/SD,3201.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,TV 5 News,https://www.lyngsat.com/tvchannels/in/TV-5-News.html,,,False,Planetcast,Tel
+40.0,Public Music,MPEG-4/SD,4001.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Public Music,https://www.lyngsat.com/tvchannels/in/Public-Music.html,,,False,Planetcast,Kan
+41.0,Kairali Arabia,MPEG-4/SD,4101.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Kairali Arabia,https://www.lyngsat.com/tvchannels/in/Kairali-Arabia.html,,,False,Planetcast,Mal
+42.0,Public Movies,MPEG-4/SD,4201.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Public Movies,https://www.lyngsat.com/tvchannels/in/Public-Movies.html,,,False,Planetcast,Kan
+43.0,Mathrubhumi News,MPEG-4/SD,4301.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Mathrubhumi News,https://www.lyngsat.com/tvchannels/in/Mathrubhumi-News.html,,,False,Planetcast,Mal
+43.0,Mathrubhumi News,MPEG-4/SD,4301.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Mathrubhumi News,https://www.lyngsat.com/tvchannels/in/Mathrubhumi-News.html,,,False,Planetcast,Mal
+44.0,Kappa TV,MPEG-4/SD,4401.0,DVB-S2,30000.0,3/4,4015 V,tp LM8CV,38.2,,,Kappa TV,https://www.lyngsat.com/tvchannels/in/Kappa-TV.html,,,False,Planetcast,Mal
+1917.0,Vijay TV,MPEG-4/SD,705.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,"Nagravision,Videoguard",,Vijay TV,https://www.lyngsat.com/tvchannels/hk/Vijay-TV.html,,,False,Planetcast,Tam
+1925.0,Asianet News,MPEG-4/SD,2305.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Asianet News,https://www.lyngsat.com/tvchannels/in/Asianet-News.html,,,False,Planetcast,Mal
+1925.0,Asianet News,MPEG-4/SD,2305.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Asianet News,https://www.lyngsat.com/tvchannels/in/Asianet-News.html,,,False,Planetcast,Mal
+1926.0,Asianet Middle East,MPEG-4/SD,2321.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Asianet Middle East,https://www.lyngsat.com/tvchannels/in/Asianet-Middle-East.html,,,False,Planetcast,Mal
+1927.0,Suvarna News,MPEG-4/SD,2337.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Suvarna News,https://www.lyngsat.com/tvchannels/in/Suvarna-News.html,,,False,Planetcast,Kan
+1927.0,Suvarna News,MPEG-4/SD,2337.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Suvarna News,https://www.lyngsat.com/tvchannels/in/Suvarna-News.html,,,False,Planetcast,Kan
+1928.0,Amrita TV,MPEG-4/SD,2353.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Amrita TV,https://www.lyngsat.com/tvchannels/in/Amrita-TV.html,,,False,Planetcast,Mal
+1931.0,Goodness TV,MPEG-4/SD,2401.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Goodness TV,https://www.lyngsat.com/tvchannels/in/Goodness-TV.html,,,False,Planetcast,Mal
+1932.0,Jaihind TV,MPEG-4/SD,2417.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Jaihind TV,https://www.lyngsat.com/tvchannels/in/Jaihind-TV.html,,,False,Planetcast,Mal
+1936.0,Manorama News International,MPEG-4/SD,2481.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,Manorama News International,https://www.lyngsat.com/tvchannels/in/Manorama-News-International.html,,,False,Planetcast,Mal
+1937.0,24 News,MPEG-4/SD,2491.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,24 News,https://www.lyngsat.com/tvchannels/in/24-News.html,,,False,Planetcast,Mal
+1937.0,24 News,MPEG-4/SD,2491.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,,,24 News,https://www.lyngsat.com/tvchannels/in/24-News.html,,,False,Planetcast,Mal
+1938.0,Flowers TV,MPEG-4/SD,2501.0,DVB-S2,14400.0,2/3,4024 H,tp LM8CH,38.2,Conax,,Flowers TV,https://www.lyngsat.com/tvchannels/in/Flowers-TV.html,,,False,Planetcast,Mal
+,(feeds),,,DVB-S2,7200.0,3/4,4121 L,tp G11CL,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S,7200.0,3/4,10962 H,tp AF4K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S,3255.0,3/4,11519 H,tp AF7K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S,3255.0,3/4,11527 H,tp AF7K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,2222.0,3/4,11534 V,tp EM8K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,2222.0,3/4,11534 V,tp EM8K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S,2600.0,5/6,11538 V,tp EM8K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,5000.0,3/5,12515 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,2330.0,3/4,12519 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,2330.0,3/4,12522 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1050.0,5/6,12524 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1050.0,5/6,12526 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1050.0,5/6,12528 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,5/6,12531 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,5/6,12533 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,5/6,12535 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,5/6,12539 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,5/6,12541 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,1750.0,3/4,12543 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,5000.0,3/5,12554 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,7300.0,3/4,12560 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,7300.0,3/4,12570 H,tp RU1K,,,,,,,,False,Planetcast,
+,(feeds),,,DVB-S2,7300.0,3/4,12579 H,tp RU1K,,,,,,,,False,Planetcast,
+1.0,Mindset Liberty Learn,?-?MPEG-2/SD,520.0,DVB-S,13271.0,3/4,11505 H,tp AF7K,0.0,,,,,,,False,Planetcast,Eng
+,Connecto TV,1-1,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,https://www.lyngsat.com/providers/ru/Connecto-TV.html,,,,,True,Connecto TV,
+60.0,NRJ Russia (+2h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,NRJ Russia (+2h),https://www.lyngsat.com/radiochannels/fr/NRJ-Russia.html,,,False,Connecto TV,Rus
+60.0,NRJ Russia (+2h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,NRJ Russia (+2h),https://www.lyngsat.com/radiochannels/fr/NRJ-Russia.html,,,False,Connecto TV,Rus
+61.0,Avtoradio (0h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Avtoradio (0h),https://www.lyngsat.com/radiochannels/ru/Avtoradio.html,,,False,Connecto TV,Rus
+62.0,Avtoradio (+4h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Avtoradio (+4h),https://www.lyngsat.com/radiochannels/ru/Avtoradio.html,,,False,Connecto TV,Rus
+63.0,Avtoradio (+7h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Avtoradio (+7h),https://www.lyngsat.com/radiochannels/ru/Avtoradio.html,,,False,Connecto TV,Rus
+64.0,Avtoradio (+2h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Avtoradio (+2h),https://www.lyngsat.com/radiochannels/ru/Avtoradio.html,,,False,Connecto TV,Rus
+65.0,Humor FM (+4h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+4h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+65.0,Humor FM (+4h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+4h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+66.0,Humor FM (+7h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+7h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+66.0,Humor FM (+7h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+7h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+67.0,Humor FM (+2h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+2h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+67.0,Humor FM (+2h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Humor FM (+2h),https://www.lyngsat.com/radiochannels/ru/Humor-FM.html,,,False,Connecto TV,Rus
+68.0,Avtoradio Sankt Peterburg,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Avtoradio Sankt Peterburg,https://www.lyngsat.com/radiochannels/ru/Avtoradio-Sankt-Peterburg.html,,,False,Connecto TV,Rus
+69.0,Militseyskaya Volna,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Militseyskaya Volna,https://www.lyngsat.com/radiochannels/ru/Militseyskaya-Volna.html,,,False,Connecto TV,Rus
+69.0,Militseyskaya Volna,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Militseyskaya Volna,https://www.lyngsat.com/radiochannels/ru/Militseyskaya-Volna.html,,,False,Connecto TV,Rus
+70.0,NRJ Russia (+4h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,NRJ Russia (+4h),https://www.lyngsat.com/radiochannels/fr/NRJ-Russia.html,,,False,Connecto TV,Rus
+70.0,NRJ Russia (+4h),,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,NRJ Russia (+4h),https://www.lyngsat.com/radiochannels/fr/NRJ-Russia.html,,,False,Connecto TV,Rus
+71.0,Business FM,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Business FM,https://www.lyngsat.com/radiochannels/ru/Business-FM.html,,,False,Connecto TV,Rus
+415.0,Radio Kniga,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Radio Kniga,https://www.lyngsat.com/radiochannels/ru/Radio-Kniga.html,,,False,Connecto TV,Rus
+415.0,Radio Kniga,,,DVB-S2,2000.0,5/6,12537 H,tp RU1K,0.0,,,Radio Kniga,https://www.lyngsat.com/radiochannels/ru/Radio-Kniga.html,,,False,Connecto TV,Rus
+,,,,,,,,,,,,DVB-S132713/4,,,,False,Connecto TV,

@@ -1,0 +1,49 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+701.0,Telekarta promo,MPEG-2/SD,801.0,DVB-S,44948,5/6,10981 V,tp B2,0,,,,,,,False,,Rus,
+712.0,Shop & Show,MPEG-2/SD,812.0,DVB-S,44948,5/6,10981 V,tp B2,0,,,Shop & Show,https://www.lyngsat.com/tvchannels/ru/Shop-and-Show.html,,,False,,Rus,ru
+712.0,Shop & Show,MPEG-2/SD,812.0,DVB-S,44948,5/6,10981 V,tp B2,0,,,Shop & Show,https://www.lyngsat.com/tvchannels/ru/Shop-and-Show.html,,,False,,Rus,ru
+791.0,Europa Plus (+7h),,,DVB-S,44948,5/6,10981 V,tp B2,0,,,Europa Plus (+7h),https://www.lyngsat.com/radiochannels/ru/Europa-Plus.html,,,False,,Rus,ru
+791.0,Europa Plus (+7h),,,DVB-S,44948,5/6,10981 V,tp B2,0,,,Europa Plus (+7h),https://www.lyngsat.com/radiochannels/ru/Europa-Plus.html,,,False,,Rus,ru
+792.0,Retro FM Rossiya (+7h),,,DVB-S,44948,5/6,10981 V,tp B2,0,,,Retro FM Rossiya (+7h),https://www.lyngsat.com/radiochannels/ru/Retro-FM-Rossiya.html,,,False,,Rus,ru
+792.0,Retro FM Rossiya (+7h),,,DVB-S,44948,5/6,10981 V,tp B2,0,,,Retro FM Rossiya (+7h),https://www.lyngsat.com/radiochannels/ru/Retro-FM-Rossiya.html,,,False,,Rus,ru
+,Arktik Telekom,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,https://www.lyngsat.com/providers/ru/Arktik-Telekom.html,,,,,True,Arktik Telekom,,
+1.0,NVK Sakha,MPEG-4/SD,111.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,NVK Sakha,https://www.lyngsat.com/tvchannels/ru/NVK-Sakha.html,,,False,Arktik Telekom,Rus,ru
+1.0,NVK Sakha,MPEG-4/SD,111.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,NVK Sakha,https://www.lyngsat.com/tvchannels/ru/NVK-Sakha.html,,,False,Arktik Telekom,Rus,ru
+2.0,Sakha 24,MPEG-4/SD,211.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Sakha 24,https://www.lyngsat.com/tvchannels/ru/Sakha-24.html,,,False,Arktik Telekom,Rus,ru
+3.0,NVK Sakha Pokrovsk,MPEG-4/SD,311.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,NVK Sakha Pokrovsk,https://www.lyngsat.com/tvchannels/ru/NVK-Sakha-Pokrovsk.html,,,False,Arktik Telekom,Rus,ru
+4.0,Mamont TV,MPEG-4/SD,411.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Mamont TV,https://www.lyngsat.com/tvchannels/ru/Mamont-TV.html,,,False,Arktik Telekom,Rus,ru
+5.0,Almaznyy kray TV,MPEG-4/SD,511.0,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Almaznyy kray TV,https://www.lyngsat.com/tvchannels/ru/Almaznyy-kray-TV.html,,,False,Arktik Telekom,Rus,ru
+1.0,Radio Republic Sakha,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Radio Republic Sakha,https://www.lyngsat.com/radiochannels/ru/Radio-Republic-Sakha.html,,,False,Arktik Telekom,Rus,ru
+1.0,Radio Mayak,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,,,False,Arktik Telekom,Rus,ru
+1.0,Radio Mayak,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,,,False,Arktik Telekom,Rus,ru
+1.0,Radio Rossii,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Radio Rossii,https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,Arktik Telekom,Rus,ru
+1.0,Radio Rossii,,,DVB-S2,4340,3/4,11124 V,tp B6,0,,,Radio Rossii,https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,Arktik Telekom,Rus,ru
+883.0,8 Kanal,MPEG-4/SD,283.0,DVB-S2,30000,3/4,11387 V,tp F10,0,,,8 Kanal,https://www.lyngsat.com/tvchannels/ru/8-Kanal.html,,,False,Arktik Telekom,Rus,ru
+883.0,8 Kanal,MPEG-4/SD,283.0,DVB-S2,30000,3/4,11387 V,tp F10,0,,,8 Kanal,https://www.lyngsat.com/tvchannels/ru/8-Kanal.html,,,False,Arktik Telekom,Rus,ru
+895.0,TNT Music,MPEG-4/SD,295.0,DVB-S2,30000,3/4,11387 V,tp F10,0,,,TNT Music,https://www.lyngsat.com/tvchannels/ru/TNT-Music.html,,,False,Arktik Telekom,Rus,ru
+895.0,TNT Music,MPEG-4/SD,295.0,DVB-S2,30000,3/4,11387 V,tp F10,0,,,TNT Music,https://www.lyngsat.com/tvchannels/ru/TNT-Music.html,,,False,Arktik Telekom,Rus,ru
+,@ StarBlazer,,,DVB-S2X,.,3/4,11432 H,tp F11,0,,,,,,,False,Arktik Telekom,,
+803.0,Soyuz,MPEG-4/SD,203.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Soyuz,https://www.lyngsat.com/tvchannels/ru/Soyuz.html,,,False,Arktik Telekom,Rus,ru
+803.0,Soyuz,MPEG-4/SD,203.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Soyuz,https://www.lyngsat.com/tvchannels/ru/Soyuz.html,,,False,Arktik Telekom,Rus,ru
+805.0,Juvelirochka,MPEG-4/SD,205.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+805.0,Juvelirochka,MPEG-4/SD,205.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+805.0,Juvelirochka,MPEG-4/SD,205.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+805.0,Juvelirochka,MPEG-4/SD,205.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+738.0,Juvelirochka,MPEG-2/SD,838.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+738.0,Juvelirochka,MPEG-2/SD,838.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+738.0,Juvelirochka,MPEG-2/SD,838.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+738.0,Juvelirochka,MPEG-2/SD,838.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,Arktik Telekom,Rus,ru
+809.0,STS Love (+7h),MPEG-4/SD,209.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,STS Love (+7h),https://www.lyngsat.com/tvchannels/ru/STS-Love.html,,,False,Arktik Telekom,Rus,ru
+817.0,Leomax 24,MPEG-4/SD,217.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+817.0,Leomax 24,MPEG-4/SD,217.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+817.0,Leomax 24,MPEG-4/SD,217.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+817.0,Leomax 24,MPEG-4/SD,217.0,DVB-S2,22250,2/3,11530 H,tp D3,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+728.0,Leomax 24,MPEG-2/SD,828.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+728.0,Leomax 24,MPEG-2/SD,828.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+728.0,Leomax 24,MPEG-2/SD,828.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+728.0,Leomax 24,MPEG-2/SD,828.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,Leomax 24,https://www.lyngsat.com/tvchannels/ru/Leomax-24.html,,,False,Arktik Telekom,Rus,ru
+769.0,[test card],MPEG-2/SD,869.0,DVB-S,38400,5/6,11665 V,tp D8,0,,,,,,,False,Arktik Telekom,,
+793.0,Europa Plus (+5h),,,DVB-S,38400,5/6,11665 V,tp D8,0,,,Europa Plus (+5h),https://www.lyngsat.com/radiochannels/ru/Europa-Plus.html,,,False,Arktik Telekom,Rus,ru
+793.0,Europa Plus (+5h),,,DVB-S,38400,5/6,11665 V,tp D8,0,,,Europa Plus (+5h),https://www.lyngsat.com/radiochannels/ru/Europa-Plus.html,,,False,Arktik Telekom,Rus,ru
+794.0,Retro FM Rossiya (+5h),,,DVB-S,38400,5/6,11665 V,tp D8,0,,,Retro FM Rossiya (+5h),https://www.lyngsat.com/radiochannels/ru/Retro-FM-Rossiya.html,,,False,Arktik Telekom,Rus,ru
+794.0,Retro FM Rossiya (+5h),,,DVB-S,38400,5/6,11665 V,tp D8,0,,,Retro FM Rossiya (+5h),https://www.lyngsat.com/radiochannels/ru/Retro-FM-Rossiya.html,,,False,Arktik Telekom,Rus,ru

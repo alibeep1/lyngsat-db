@@ -1,0 +1,219 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,(feeds),,,DVB-S2,9600,3/4,11465 H,tp 203,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11473 H,tp 203,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11481 V,tp 199,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11497 H,tp 203,,,,,,False,,,
+,(feeds),,,DVB-S2,4875,3/4,11516 V,tp 199,,,,,,False,,,
+,(feeds),,,DVB-S2,9600,3/4,11525 H,tp 204,,,,,,False,,,
+,(feeds),,,DVB-S2,9600,3/4,11537 H,tp 204,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11539 V,tp 199,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,2/3,11544 V,tp 199,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,11546 H,tp 204,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11547 V,tp 199,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,11552 H,tp 204,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11561 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,9600,3/4,11567 H,tp 204,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11570 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11575 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,3600,3/4,11580 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,7500,3/4,11585 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,4500,3/4,11586 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,4500,3/4,11592 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11594 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,3/4,11602 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,4500,3/4,11602 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,4875,3/4,11608 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S,4500,3/4,11614 V,tp 200,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,11614 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11621 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11623 V,tp 201,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,11629 H,tp 205,,,,,,False,,,
+,(feeds),,,DVB-S2,4875,3/4,11656 V,tp 202,,,,,,False,,,
+,(feeds),,,DVB-S,6750,3/4,11687 V,tp 202,,,,,,False,,,
+109.0,(feeds),,109.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,,,False,,,
+,(feeds),,,DVB-S2,7500,3/4,12078 V,tp 180,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12082 V,tp 180,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12088 V,tp 180,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12095 V,tp 180,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12103 V,tp 180,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,12576 H,tp 194,,,,,,False,,,
+,(feeds),,,DVB-S2,15000,3/4,12581 V,tp 190,,,,,,False,,,
+,(feeds),,,DVB-S2,4875,3/4,12593 V,tp 190,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,12603 V,tp 190,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,3/4,12615 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,3/4,12621 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,3/4,12627 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S,4500,3/4,12633 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12639 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,12645 H,tp 196,,,,,,False,,,
+,(feeds),,,DVB-S2,4875,3/4,12679 H,tp 197,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,12720 H,tp 198,,,,,,False,,,
+,(feeds),,,DVB-S2,9230,3/4,12734 H,tp 198,,,,,,False,,,
+,Telecom CLM,8916-1,,DVB-S2,3600,3/4,11491 V,tp 199,,,https://www.lyngsat.com/providers/es/Telecom-CLM.html,,,True,Telecom CLM,,
+2.0,CMM TV,MPEG-4/HD,408.0,DVB-S2,3600,3/4,11491 V,tp 199,,,,CMM TV,https://www.lyngsat.com/tvchannels/es/CMM-TV.html,False,Telecom CLM,Spa Qaa,es
+2.0,CMM TV,MPEG-4/HD,408.0,DVB-S2,3600,3/4,11491 V,tp 199,,,,CMM TV,https://www.lyngsat.com/tvchannels/es/CMM-TV.html,False,Telecom CLM,Spa Qaa,es
+3.0,Radio C-LM Toledo,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Toledo,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Toledo.html,False,Telecom CLM,Spa,es
+4.0,Radio C-LM Albacete,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Albacete,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Albacete.html,False,Telecom CLM,Spa,es
+6.0,Radio C-LM Ciudad Real,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Ciudad Real,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Ciudad-Real.html,False,Telecom CLM,Spa,es
+7.0,Radio C-LM Cuenca,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Cuenca,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Cuenca.html,False,Telecom CLM,Spa,es
+8.0,Radio C-LM Guadalajara,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Guadalajara,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Guadalajara.html,False,Telecom CLM,Spa,es
+10.0,Radio C-LM Talavera,,,DVB-S2,3600,3/4,11491 V,tp 199,,,,Radio C-LM Talavera,https://www.lyngsat.com/radiochannels/es/Radio-C-LM-Talavera.html,False,Telecom CLM,Spa,es
+,Cellnex,0-101,,DVB-S,4000,2/3,11644 V,tp 206,,,https://www.lyngsat.com/providers/es/Cellnex.html,,,True,Cellnex,,
+1.0,Onda Cero,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Onda Cero,https://www.lyngsat.com/radiochannels/es/Onda-Cero.html,False,Cellnex,Spa,es
+1.0,Onda Cero,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Onda Cero,https://www.lyngsat.com/radiochannels/es/Onda-Cero.html,False,Cellnex,Spa,es
+2.0,Europa FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Europa FM (Spain),https://www.lyngsat.com/radiochannels/es/Europa-FM.html,False,Cellnex,Spa,es
+2.0,Europa FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Europa FM (Spain),https://www.lyngsat.com/radiochannels/es/Europa-FM.html,False,Cellnex,Spa,es
+4.0,Es Radio,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Es Radio,https://www.lyngsat.com/radiochannels/es/Es-Radio.html,False,Cellnex,Spa,es
+4.0,Es Radio,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Es Radio,https://www.lyngsat.com/radiochannels/es/Es-Radio.html,False,Cellnex,Spa,es
+8.0,Radio María España,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Radio María España,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Espana.html,False,Cellnex,Spa,it
+8.0,Radio María España,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Radio María España,https://www.lyngsat.com/radiochannels/it/Radio-Maria-Espana.html,False,Cellnex,Spa,it
+10.0,Cadena 100,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Cadena 100,https://www.lyngsat.com/radiochannels/es/Cadena-100.html,False,Cellnex,Spa,es
+10.0,Cadena 100,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Cadena 100,https://www.lyngsat.com/radiochannels/es/Cadena-100.html,False,Cellnex,Spa,es
+11.0,Rock FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Rock FM (Spain),https://www.lyngsat.com/radiochannels/es/Rock-FM.html,False,Cellnex,Spa,es
+11.0,Rock FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Rock FM (Spain),https://www.lyngsat.com/radiochannels/es/Rock-FM.html,False,Cellnex,Spa,es
+25.0,Kiss FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Kiss FM (Spain),https://www.lyngsat.com/radiochannels/es/Kiss-FM.html,False,Cellnex,Spa,es
+25.0,Kiss FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Kiss FM (Spain),https://www.lyngsat.com/radiochannels/es/Kiss-FM.html,False,Cellnex,Spa,es
+26.0,Hit FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Hit FM (Spain),https://www.lyngsat.com/radiochannels/es/Hit-FM.html,False,Cellnex,Spa,es
+26.0,Hit FM (Spain),,,DVB-S,4000,2/3,11644 V,tp 206,,,,Hit FM (Spain),https://www.lyngsat.com/radiochannels/es/Hit-FM.html,False,Cellnex,Spa,es
+30.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+30.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+30.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+30.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+37.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+37.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+37.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+37.0,COPE,,,DVB-S,4000,2/3,11644 V,tp 206,,,,COPE,https://www.lyngsat.com/radiochannels/es/COPE.html,False,Cellnex,Spa,es
+39.0,MegaStar FM,,,DVB-S,4000,2/3,11644 V,tp 206,,,,MegaStar FM,https://www.lyngsat.com/radiochannels/es/MegaStar-FM.html,False,Cellnex,Spa,es
+39.0,MegaStar FM,,,DVB-S,4000,2/3,11644 V,tp 206,,,,MegaStar FM,https://www.lyngsat.com/radiochannels/es/MegaStar-FM.html,False,Cellnex,Spa,es
+58.0,Aragón Radio Zaragoza,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Zaragoza,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Zaragoza.html,False,Cellnex,Spa,es
+58.0,Aragón Radio Zaragoza,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Zaragoza,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Zaragoza.html,False,Cellnex,Spa,es
+59.0,Aragón Radio Huesca,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Huesca,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Huesca.html,False,Cellnex,Spa,es
+59.0,Aragón Radio Huesca,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Huesca,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Huesca.html,False,Cellnex,Spa,es
+60.0,Aragón Radio Teruel,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Teruel,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Teruel.html,False,Cellnex,Spa,es
+60.0,Aragón Radio Teruel,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Aragón Radio Teruel,https://www.lyngsat.com/radiochannels/es/Aragon-Radio-Teruel.html,False,Cellnex,Spa,es
+116.0,Canal Extremadura Radio,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Canal Extremadura Radio,https://www.lyngsat.com/radiochannels/es/Canal-Extremadura-Radio.html,False,Cellnex,Spa,es
+116.0,Canal Extremadura Radio,,,DVB-S,4000,2/3,11644 V,tp 206,,,,Canal Extremadura Radio,https://www.lyngsat.com/radiochannels/es/Canal-Extremadura-Radio.html,False,Cellnex,Spa,es
+,RTVE,1-60004,,DVB-S2,15750,3/4,11675 H,tp 206,,,https://www.lyngsat.com/providers/es/RTVE.html,,,True,RTVE,,
+0.0,RNE Radio 5 Tenerife,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio 5 Tenerife,https://www.lyngsat.com/radiochannels/es/RNE-Radio-5-Tenerife.html,False,RTVE,Spa,es
+0.0,RNE Radio Clásica,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio Clásica,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Clasica.html,False,RTVE,Spa,es
+0.0,RNE Radio Clásica,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio Clásica,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Clasica.html,False,RTVE,Spa,es
+0.0,RNE Radio Nacional Tenerife,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio Nacional Tenerife,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional-Tenerife.html,False,RTVE,Spa,es
+0.0,RNE Radio 3,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio 3,https://www.lyngsat.com/radiochannels/es/RNE-Radio-3.html,False,RTVE,Spa,es
+0.0,RNE Radio 3,,,DVB-S2,15750,3/4,11675 H,tp 206,,,,RNE Radio 3,https://www.lyngsat.com/radiochannels/es/RNE-Radio-3.html,False,RTVE,Spa,es
+1000.0,Radio Mars,1-1,,DVB-S,185,3/4,11695 V,tp 202,,,,,,False,RTVE,Ara,
+,[Sersat test card],?-?,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,,,False,RTVE,,
+101.0,Cadena 3,,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,Cadena 3,https://www.lyngsat.com/radiochannels/ar/Cadena-3.html,False,RTVE,Spa,ar
+101.0,Cadena 3,,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,Cadena 3,https://www.lyngsat.com/radiochannels/ar/Cadena-3.html,False,RTVE,Spa,ar
+102.0,Radio 3 Cadena Patagonia,,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,Radio 3 Cadena Patagonia,https://www.lyngsat.com/radiochannels/ar/Radio-3-Cadena-Patagonia.html,False,RTVE,Spa,ar
+103.0,Radio 3 Trelew,,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,Radio 3 Trelew,https://www.lyngsat.com/radiochannels/ar/Radio-3-Trelew.html,False,RTVE,Spa,ar
+103.0,Radio 3 Trelew,,,DVB-S2,1080,3/5,11797 V,tp 209,0.0,,,Radio 3 Trelew,https://www.lyngsat.com/radiochannels/ar/Radio-3-Trelew.html,False,RTVE,Spa,ar
+,ICRT,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,https://www.lyngsat.com/providers/cu/ICRT.html,,,True,ICRT,,
+1.0,Cubavisión Nacional,MPEG-4/SD,257.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Nacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Nacional.html,False,ICRT,Spa,cu
+1.0,Cubavisión Nacional,MPEG-4/SD,257.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Nacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Nacional.html,False,ICRT,Spa,cu
+101.0,Cubavisión Nacional,MPEG-2/SD,101.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Nacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Nacional.html,False,ICRT,Spa,cu
+101.0,Cubavisión Nacional,MPEG-2/SD,101.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Nacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Nacional.html,False,ICRT,Spa,cu
+2.0,Tele Rebelde,MPEG-4/SD,258.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Tele Rebelde,https://www.lyngsat.com/tvchannels/cu/Tele-Rebelde.html,False,ICRT,Spa,cu
+2.0,Tele Rebelde,MPEG-4/SD,258.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Tele Rebelde,https://www.lyngsat.com/tvchannels/cu/Tele-Rebelde.html,False,ICRT,Spa,cu
+102.0,Tele Rebelde,MPEG-2/SD,102.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Tele Rebelde,https://www.lyngsat.com/tvchannels/cu/Tele-Rebelde.html,False,ICRT,Spa,cu
+102.0,Tele Rebelde,MPEG-2/SD,102.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Tele Rebelde,https://www.lyngsat.com/tvchannels/cu/Tele-Rebelde.html,False,ICRT,Spa,cu
+3.0,Canal Educativo,MPEG-4/SD,259.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Educativo,https://www.lyngsat.com/tvchannels/cu/Canal-Educativo.html,False,ICRT,Spa,cu
+3.0,Canal Educativo,MPEG-4/SD,259.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Educativo,https://www.lyngsat.com/tvchannels/cu/Canal-Educativo.html,False,ICRT,Spa,cu
+103.0,Canal Educativo,MPEG-2/SD,103.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Educativo,https://www.lyngsat.com/tvchannels/cu/Canal-Educativo.html,False,ICRT,Spa,cu
+103.0,Canal Educativo,MPEG-2/SD,103.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Educativo,https://www.lyngsat.com/tvchannels/cu/Canal-Educativo.html,False,ICRT,Spa,cu
+4.0,Telesur (Venezuela),MPEG-4/SD,260.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+4.0,Telesur (Venezuela),MPEG-4/SD,260.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+4.0,Telesur (Venezuela),MPEG-4/SD,260.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+4.0,Telesur (Venezuela),MPEG-4/SD,260.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+104.0,Telesur (Venezuela),MPEG-2/SD,104.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+104.0,Telesur (Venezuela),MPEG-2/SD,104.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+104.0,Telesur (Venezuela),MPEG-2/SD,104.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+104.0,Telesur (Venezuela),MPEG-2/SD,104.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Telesur (Venezuela),https://www.lyngsat.com/tvchannels/ve/Telesur.html,False,ICRT,Spa,ve
+5.0,Canal Multivisión,MPEG-4/SD,261.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Canal Multivisión,https://www.lyngsat.com/tvchannels/cu/Canal-Multivision.html,False,ICRT,Spa,cu
+5.0,Canal Multivisión,MPEG-4/SD,261.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Canal Multivisión,https://www.lyngsat.com/tvchannels/cu/Canal-Multivision.html,False,ICRT,Spa,cu
+106.0,Canal Multivisión,MPEG-2/SD,106.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Canal Multivisión,https://www.lyngsat.com/tvchannels/cu/Canal-Multivision.html,False,ICRT,Spa,cu
+106.0,Canal Multivisión,MPEG-2/SD,106.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,BISS,,Canal Multivisión,https://www.lyngsat.com/tvchannels/cu/Canal-Multivision.html,False,ICRT,Spa,cu
+7.0,Canal Habana,MPEG-4/SD,263.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Habana,https://www.lyngsat.com/tvchannels/cu/Canal-Habana.html,False,ICRT,Spa,cu
+8.0,Canal Caribe,MPEG-4/SD,264.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Caribe,https://www.lyngsat.com/tvchannels/cu/Canal-Caribe.html,False,ICRT,Spa,cu
+9.0,Canal Clave,MPEG-4/SD,265.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Canal Clave,https://www.lyngsat.com/tvchannels/cu/Canal-Clave.html,False,ICRT,Spa,cu
+105.0,Cubavisión Internacional,MPEG-2/SD,105.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Internacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Internacional.html,False,ICRT,Spa,cu
+105.0,Cubavisión Internacional,MPEG-2/SD,105.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Cubavisión Internacional,https://www.lyngsat.com/tvchannels/cu/Cubavision-Internacional.html,False,ICRT,Spa,cu
+108.0,Señal ACN,MPEG-2/SD,108.0,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Señal ACN,https://www.lyngsat.com/tvchannels/cu/Senal-ACN.html,False,ICRT,Spa,cu
+10.0,Radio Rebelde FM,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Rebelde FM,https://www.lyngsat.com/radiochannels/cu/Radio-Rebelde-FM.html,False,ICRT,Spa,cu
+10.0,Radio Rebelde FM,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Rebelde FM,https://www.lyngsat.com/radiochannels/cu/Radio-Rebelde-FM.html,False,ICRT,Spa,cu
+11.0,Radio Progreso,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Progreso,https://www.lyngsat.com/radiochannels/cu/Radio-Progreso.html,False,ICRT,Spa,cu
+11.0,Radio Progreso,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Progreso,https://www.lyngsat.com/radiochannels/cu/Radio-Progreso.html,False,ICRT,Spa,cu
+12.0,Radio Taíno,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Taíno,https://www.lyngsat.com/radiochannels/cu/Radio-Taino.html,False,ICRT,Spa,cu
+12.0,Radio Taíno,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Taíno,https://www.lyngsat.com/radiochannels/cu/Radio-Taino.html,False,ICRT,Spa,cu
+13.0,Radio Enciclopedia,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Enciclopedia,https://www.lyngsat.com/radiochannels/cu/Radio-Enciclopedia.html,False,ICRT,Spa,cu
+13.0,Radio Enciclopedia,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Enciclopedia,https://www.lyngsat.com/radiochannels/cu/Radio-Enciclopedia.html,False,ICRT,Spa,cu
+14.0,CMBF Radio Musical Nacional,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,CMBF Radio Musical Nacional,https://www.lyngsat.com/radiochannels/cu/CMBF-Radio-Musical-Nacional.html,False,ICRT,Spa,cu
+14.0,CMBF Radio Musical Nacional,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,CMBF Radio Musical Nacional,https://www.lyngsat.com/radiochannels/cu/CMBF-Radio-Musical-Nacional.html,False,ICRT,Spa,cu
+15.0,Radio Reloj,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Reloj,https://www.lyngsat.com/radiochannels/cu/Radio-Reloj.html,False,ICRT,Spa,cu
+15.0,Radio Reloj,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Reloj,https://www.lyngsat.com/radiochannels/cu/Radio-Reloj.html,False,ICRT,Spa,cu
+16.0,Radio Habana Cuba,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Habana Cuba,https://www.lyngsat.com/radiochannels/cu/Radio-Habana-Cuba.html,False,ICRT,,cu
+16.0,Radio Habana Cuba,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Habana Cuba,https://www.lyngsat.com/radiochannels/cu/Radio-Habana-Cuba.html,False,ICRT,,cu
+17.0,Habana Radio,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Habana Radio,https://www.lyngsat.com/radiochannels/cu/Habana-Radio.html,False,ICRT,Spa,cu
+17.0,Habana Radio,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Habana Radio,https://www.lyngsat.com/radiochannels/cu/Habana-Radio.html,False,ICRT,Spa,cu
+18.0,Radio Rebelde AM,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Rebelde AM,https://www.lyngsat.com/radiochannels/cu/Radio-Rebelde-AM.html,False,ICRT,Spa,cu
+18.0,Radio Rebelde AM,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Rebelde AM,https://www.lyngsat.com/radiochannels/cu/Radio-Rebelde-AM.html,False,ICRT,Spa,cu
+19.0,Radio Habana Cuba 2,,,DVB-S,27500,2/3,11884 V,tp 211,0.0,,,Radio Habana Cuba 2,https://www.lyngsat.com/radiochannels/cu/Radio-Habana-Cuba-2.html,False,ICRT,,cu
+,ASBU Bouquet,167-2600,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,https://www.lyngsat.com/providers/tn/ASBU-Bouquet.html,,,True,ASBU Bouquet,,
+3001.0,Palestine TV,MPEG-2/SD,3021.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html,False,ASBU Bouquet,Ara,ps
+3001.0,Palestine TV,MPEG-2/SD,3021.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html,False,ASBU Bouquet,Ara,ps
+3004.0,Oman TV,MPEG-2/SD,3024.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,False,ASBU Bouquet,Ara,om
+3004.0,Oman TV,MPEG-2/SD,3024.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html,False,ASBU Bouquet,Ara,om
+3008.0,Saudi TV,MPEG-2/SD,3028.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,ASBU Bouquet,Ara,sa
+3008.0,Saudi TV,MPEG-2/SD,3028.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html,False,ASBU Bouquet,Ara,sa
+3010.0,Sharjah TV,MPEG-2/SD,3073.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,ASBU Bouquet,Ara,ae
+3010.0,Sharjah TV,MPEG-2/SD,3073.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html,False,ASBU Bouquet,Ara,ae
+3011.0,Quran TV (Saudi Arabia),MPEG-2/SD,3121.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,ASBU Bouquet,Ara,sa
+3011.0,Quran TV (Saudi Arabia),MPEG-2/SD,3121.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html,False,ASBU Bouquet,Ara,sa
+3012.0,KTV 1,MPEG-4/HD,3122.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html,False,ASBU Bouquet,Ara,kw
+3012.0,KTV 1,MPEG-4/HD,3122.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html,False,ASBU Bouquet,Ara,kw
+3013.0,KTV Al Qurain,MPEG-4/HD,3123.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html,False,ASBU Bouquet,Ara,kw
+3013.0,KTV Al Qurain,MPEG-4/HD,3123.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html,False,ASBU Bouquet,Ara,kw
+3051.0,Sudan TV,MPEG-2/SD,3071.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sudan TV,https://www.lyngsat.com/tvchannels/sd/Sudan-TV.html,False,ASBU Bouquet,Ara,sd
+3052.0,Alwatania TV,MPEG-2/SD,3072.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Alwatania TV,https://www.lyngsat.com/tvchannels/ly/Alwatania-TV.html,False,ASBU Bouquet,Ara,ly
+3052.0,Alwatania TV,MPEG-2/SD,3072.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Alwatania TV,https://www.lyngsat.com/tvchannels/ly/Alwatania-TV.html,False,ASBU Bouquet,Ara,ly
+3111.0,Sunna TV (Saudi Arabia),MPEG-2/SD,3221.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,ASBU Bouquet,Ara,sa
+3111.0,Sunna TV (Saudi Arabia),MPEG-2/SD,3221.0,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html,False,ASBU Bouquet,Ara,sa
+3007.0,Holy Quran Radio (Oman),,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Holy Quran Radio (Oman),https://www.lyngsat.com/radiochannels/om/Holy-Quran-Radio.html,False,ASBU Bouquet,Ara,om
+3504.0,Riyadh Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,ASBU Bouquet,Ara,sa
+3504.0,Riyadh Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html,False,ASBU Bouquet,Ara,sa
+3505.0,Quran Radio (Saudi Arabia),,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,ASBU Bouquet,Ara,sa
+3505.0,Quran Radio (Saudi Arabia),,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html,False,ASBU Bouquet,Ara,sa
+3507.0,Alnour Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Alnour Radio,https://www.lyngsat.com/radiochannels/lb/Alnour-Radio.html,False,ASBU Bouquet,Ara,lb
+3507.0,Alnour Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Alnour Radio,https://www.lyngsat.com/radiochannels/lb/Alnour-Radio.html,False,ASBU Bouquet,Ara,lb
+3509.0,Holy Quran Radio (Sudan),,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Holy Quran Radio (Sudan),https://www.lyngsat.com/radiochannels/sd/Holy-Quran-Radio.html,False,ASBU Bouquet,Ara,sd
+3510.0,Radio Oman,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Radio Oman,https://www.lyngsat.com/radiochannels/om/Radio-Oman.html,False,ASBU Bouquet,Ara,om
+3510.0,Radio Oman,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Radio Oman,https://www.lyngsat.com/radiochannels/om/Radio-Oman.html,False,ASBU Bouquet,Ara,om
+3512.0,Sharjah Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html,False,ASBU Bouquet,Ara,ae
+3512.0,Sharjah Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html,False,ASBU Bouquet,Ara,ae
+3514.0,Saudia Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,ASBU Bouquet,,sa
+3514.0,Saudia Radio,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html,False,ASBU Bouquet,,sa
+3517.0,Radio Oman FM,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Radio Oman FM,https://www.lyngsat.com/radiochannels/om/Radio-Oman-FM.html,False,ASBU Bouquet,Ara,om
+3517.0,Radio Oman FM,,,DVB-S,27500,3/4,12132 H,tp 187,0.0,,,Radio Oman FM,https://www.lyngsat.com/radiochannels/om/Radio-Oman-FM.html,False,ASBU Bouquet,Ara,om
+,,1-1,,DVB-S,1481,3/4,12519 V,tp 189,,,,,,False,ASBU Bouquet,,
+1.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+1.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+1.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+1.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+8.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+8.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+8.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+8.0,RDP Antena 1,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1.html,False,ASBU Bouquet,Por,pt
+2.0,RDP Antena 2,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 2,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-2.html,False,ASBU Bouquet,Por,pt
+2.0,RDP Antena 2,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 2,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-2.html,False,ASBU Bouquet,Por,pt
+3.0,RDP Antena 3,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 3,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-3.html,False,ASBU Bouquet,Por,pt
+3.0,RDP Antena 3,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 3,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-3.html,False,ASBU Bouquet,Por,pt
+4.0,RDP África,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP África,https://www.lyngsat.com/radiochannels/pt/RDP-Africa.html,False,ASBU Bouquet,Por,pt
+4.0,RDP África,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP África,https://www.lyngsat.com/radiochannels/pt/RDP-Africa.html,False,ASBU Bouquet,Por,pt
+6.0,RDP Antena 1 Açores,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1 Açores,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1-Acores.html,False,ASBU Bouquet,Por,pt
+6.0,RDP Antena 1 Açores,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1 Açores,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1-Acores.html,False,ASBU Bouquet,Por,pt
+9.0,RDP Antena 1 Madeira,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1 Madeira,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1-Madeira.html,False,ASBU Bouquet,Por,pt
+9.0,RDP Antena 1 Madeira,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 1 Madeira,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-1-Madeira.html,False,ASBU Bouquet,Por,pt
+10.0,RDP Antena 3 Madeira,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 3 Madeira,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-3-Madeira.html,False,ASBU Bouquet,Por,pt
+10.0,RDP Antena 3 Madeira,,,DVB-S,1481,3/4,12519 V,tp 189,,,,RDP Antena 3 Madeira,https://www.lyngsat.com/radiochannels/pt/RDP-Antena-3-Madeira.html,False,ASBU Bouquet,Por,pt
+,@ AOL Internet,,,DVB-S2,.,3/4,12706 H,tp 198,,,,,,False,ASBU Bouquet,,
+,,,,,,,,,,,,DVB-S1853/4,,False,ASBU Bouquet,,
+,,,,,,,,,,,,DVB-S1853/4,,False,ASBU Bouquet,,

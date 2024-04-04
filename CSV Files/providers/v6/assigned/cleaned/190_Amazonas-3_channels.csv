@@ -1,0 +1,90 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,(feeds),,,DVB-S,,,3659 H,tp 11,,,,,,False,,
+,(feeds),,,DVB-S,,,3668 H,tp 11,,,,,,False,,
+,(feeds),,,DVB-S,5000.0,3/4,3948 H,tp 16,,,,,,False,,
+,SBT Rio Grande,,,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,
+,SBT Rio Grande,,,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,
+,SBT Rio Grande,MPEG-4/1seg,257.0,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,Por
+,SBT Rio Grande,MPEG-4/1seg,257.0,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,Por
+51776.0,SBT Rio Grande,MPEG-4/HD,1110.0,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,Por
+51776.0,SBT Rio Grande,MPEG-4/HD,1110.0,DVB-S2,5000.0,3/4,3942 V,tp 6,0.0,BISS,https://www.lyngsat.com/providers/br/SBT-Rio-Grande.html,SBT Rio Grande,https://www.lyngsat.com/tvchannels/br/SBT-Rio-Grande.html,True,SBT Rio Grande,Por
+,Assembleia Legislativa TV,MPEG-2/HD,337.0,DVB-S2,3750.0,2/3,3960 H,tp 16,0.0,,,,,False,SBT Rio Grande,Por
+,Grupo Vierci,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,https://www.lyngsat.com/providers/py/Grupo-Vierci.html,,,True,Grupo Vierci,
+,E40 TV,MPEG-4/SD,5408.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,E40 TV,https://www.lyngsat.com/tvchannels/py/E40-TV.html,False,Grupo Vierci,Spa
+1.0,Telefuturo (Paraguay),MPEG-4/SD,101.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Telefuturo (Paraguay),https://www.lyngsat.com/tvchannels/py/Telefuturo.html,False,Grupo Vierci,Spa
+1.0,Telefuturo (Paraguay),MPEG-4/SD,101.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Telefuturo (Paraguay),https://www.lyngsat.com/tvchannels/py/Telefuturo.html,False,Grupo Vierci,Spa
+2.0,Latele (Paraguay),MPEG-4/SD,201.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Latele (Paraguay),https://www.lyngsat.com/tvchannels/py/Latele.html,False,Grupo Vierci,Spa
+2.0,Latele (Paraguay),MPEG-4/SD,201.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Latele (Paraguay),https://www.lyngsat.com/tvchannels/py/Latele.html,False,Grupo Vierci,Spa
+4.0,N PY,MPEG-4/SD,301.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,N PY,https://www.lyngsat.com/tvchannels/py/N-PY.html,False,Grupo Vierci,Spa
+4.0,N PY,MPEG-4/SD,301.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,N PY,https://www.lyngsat.com/tvchannels/py/N-PY.html,False,Grupo Vierci,Spa
+5.0,Canal Pro,MPEG-4/HD,105.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,,,Canal Pro,https://www.lyngsat.com/tvchannels/py/Canal-Pro.html,False,Grupo Vierci,Spa
+5.0,Canal Pro,MPEG-4/HD,105.0,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,,,Canal Pro,https://www.lyngsat.com/tvchannels/py/Canal-Pro.html,False,Grupo Vierci,Spa
+1.0,Estación 40,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Estación 40,https://www.lyngsat.com/radiochannels/py/Estacion-40.html,False,Grupo Vierci,Spa
+1.0,Estación 40,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Estación 40,https://www.lyngsat.com/radiochannels/py/Estacion-40.html,False,Grupo Vierci,Spa
+2.0,Monumental 1080 AM,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Monumental 1080 AM,https://www.lyngsat.com/radiochannels/py/Monumental-1080-AM.html,False,Grupo Vierci,Spa
+2.0,Monumental 1080 AM,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Monumental 1080 AM,https://www.lyngsat.com/radiochannels/py/Monumental-1080-AM.html,False,Grupo Vierci,Spa
+3.0,Radio 1° de Marzo,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Radio 1° de Marzo,https://www.lyngsat.com/radiochannels/py/Radio-1--de-Marzo.html,False,Grupo Vierci,Spa
+3.0,Radio 1° de Marzo,,,DVB-S2,9875.0,2/3,3970 H,tp 16,0.0,BISS,,Radio 1° de Marzo,https://www.lyngsat.com/radiochannels/py/Radio-1--de-Marzo.html,False,Grupo Vierci,Spa
+,TV ALESP,MPEG-4/SD,512.0,DVB-S2,2500.0,2/3,3977 H,tp 16,0.0,,,,,False,Grupo Vierci,Por
+,Telerama (Ecuador),MPEG-4/SD,101.0,DVB-S2,1666.0,4/5,3992 H,tp 16,0.0,,,,,False,Grupo Vierci,Spa
+,TV Legislativa (Ecuador),MPEG-4/HD,33.0,DVB-S2,2083.0,3/4,3997 H,tp 16,0.0,,,,,False,Grupo Vierci,Spa
+,TV Pajuçara,,,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,
+,TV Pajuçara,,,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,
+,TV Pajuçara,MPEG-4/HD,273.0,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,Por
+,TV Pajuçara,MPEG-4/HD,273.0,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,Por
+,TV Pajuçara,MPEG-4/1seg,529.0,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,Por
+,TV Pajuçara,MPEG-4/1seg,529.0,DVB-S2,5000.0,3/4,4022 V,tp 7,0.0,,https://www.lyngsat.com/providers/br/TV-Pajucara.html,TV Pajuçara,https://www.lyngsat.com/tvchannels/br/TV-Pajucara.html,True,TV Pajuçara,Por
+,CruiseSat,,,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,https://www.lyngsat.com/providers/us/CruiseSat.html,,,True,CruiseSat,
+10.0,TCM US,HEVC/HD,110.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,TCM US,https://www.lyngsat.com/tvchannels/us/TCM-US.html,False,CruiseSat,Eng
+11.0,Cartoon Network Canada East,HEVC/HD,910.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Cartoon Network Canada East,https://www.lyngsat.com/tvchannels/us/Cartoon-Network-Canada-East.html,False,CruiseSat,Eng
+12.0,CBS News,HEVC/SD,481.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,CBS News,https://www.lyngsat.com/tvchannels/us/CBS-News.html,False,CruiseSat,Eng
+12.0,CBS News,HEVC/SD,481.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,CBS News,https://www.lyngsat.com/tvchannels/us/CBS-News.html,False,CruiseSat,Eng
+13.0,HGTV East,HEVC/SD,1001.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,HGTV East,https://www.lyngsat.com/tvchannels/us/HGTV-East.html,False,CruiseSat,Eng
+14.0,Food Network East,HEVC/SD,35.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Food Network East,https://www.lyngsat.com/tvchannels/us/Food-Network-East.html,False,CruiseSat,Eng
+15.0,Travel Channel East,HEVC/SD,38.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Travel Channel East,https://www.lyngsat.com/tvchannels/us/Travel-Channel-East.html,False,CruiseSat,Eng
+16.0,Discovery Channel East,HEVC/SD,41.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Discovery Channel East,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-East.html,False,CruiseSat,Eng
+17.0,Nickelodeon East,HEVC/SD,44.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Nickelodeon East,https://www.lyngsat.com/tvchannels/us/Nickelodeon-East.html,False,CruiseSat,Eng
+21.0,ESPNU,HEVC/HD,273.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,ESPNU,https://www.lyngsat.com/tvchannels/us/ESPNU.html,False,CruiseSat,Eng
+22.0,ESPN US,HEVC/HD,274.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,ESPN US,https://www.lyngsat.com/tvchannels/us/ESPN-US.html,False,CruiseSat,Eng
+23.0,ESPN 2 US,HEVC/HD,275.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,ESPN 2 US,https://www.lyngsat.com/tvchannels/us/ESPN-2-US.html,False,CruiseSat,Eng
+24.0,SEC Network,HEVC/HD,276.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,SEC Network,https://www.lyngsat.com/tvchannels/us/SEC-Network.html,False,CruiseSat,Eng
+25.0,CNN USA,HEVC/HD,710.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,CNN USA,https://www.lyngsat.com/tvchannels/us/CNN-USA.html,False,CruiseSat,Eng
+300.0,Rai Italia Nord America,HEVC/HD,811.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,Rai Italia Nord America,https://www.lyngsat.com/tvchannels/it/Rai-Italia-Nord-America.html,False,CruiseSat,Ita
+350.0,TVE Internacional América,HEVC/HD,3304.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,False,CruiseSat,Spa
+9111.0,RTL Deutschland,HEVC/HD,117.0,DVB-S2,23333.0,3/4,4040 V,tp 7,0.0,Xcrypt,,RTL Deutschland,https://www.lyngsat.com/tvchannels/de/RTL-Deutschland.html,False,CruiseSat,Ger
+1.0,La Gran Carpa Catedral TV,?-?MPEG-4/HD,33.0,DVB-S2,4543.0,3/4,4139 H,tp 19,0.0,,,,,False,CruiseSat,Spa
+,Grupo JBB,,,DVB-S2,4000.0,2/3,4156 H,tp 19,0.0,,https://www.lyngsat.com/providers/py/Grupo-JBB.html,,,True,Grupo JBB,
+1.0,Trece (Paraguay),MPEG-4/SD,66.0,DVB-S2,4000.0,2/3,4156 H,tp 19,0.0,,,Trece (Paraguay),https://www.lyngsat.com/tvchannels/py/Trece.html,False,Grupo JBB,Spa
+1.0,Trece (Paraguay),MPEG-4/SD,66.0,DVB-S2,4000.0,2/3,4156 H,tp 19,0.0,,,Trece (Paraguay),https://www.lyngsat.com/tvchannels/py/Trece.html,False,Grupo JBB,Spa
+2.0,Unicanal,MPEG-4/SD,140.0,DVB-S2,4000.0,2/3,4156 H,tp 19,0.0,,,Unicanal,https://www.lyngsat.com/tvchannels/py/Unicanal.html,False,Grupo JBB,Spa
+2.0,Unicanal,MPEG-4/SD,140.0,DVB-S2,4000.0,2/3,4156 H,tp 19,0.0,,,Unicanal,https://www.lyngsat.com/tvchannels/py/Unicanal.html,False,Grupo JBB,Spa
+2.0,ABC TV (Paraguay),?-?MPEG-4/HD,69.0,DVB-S2,1666.0,5/6,4172 V,tp 10,0.0,,,,,False,Grupo JBB,Spa
+,ABC AM 730,,,DVB-S2,1666.0,5/6,4172 V,tp 10,0.0,,,ABC AM 730,https://www.lyngsat.com/radiochannels/py/ABC-AM-730.html,False,Grupo JBB,Spa
+,ABC AM 730,,,DVB-S2,1666.0,5/6,4172 V,tp 10,0.0,,,ABC AM 730,https://www.lyngsat.com/radiochannels/py/ABC-AM-730.html,False,Grupo JBB,Spa
+,TV Capixaba,MPEG-2/SD,100.0,DVB-S,2500.0,3/4,4178 H,tp 19,0.0,,,,,False,Grupo JBB,Por
+,América Paraguay,,,DVB-S2,4444.0,3/4,4195 V,tp 10,0.0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html,América Paraguay,https://www.lyngsat.com/tvchannels/ar/America-Paraguay.html,True,América Paraguay,
+,América Paraguay,,,DVB-S2,4444.0,3/4,4195 V,tp 10,0.0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html,América Paraguay,https://www.lyngsat.com/tvchannels/ar/America-Paraguay.html,True,América Paraguay,
+,América Paraguay,MPEG-4/HD,49.0,DVB-S2,4444.0,3/4,4195 V,tp 10,0.0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html,América Paraguay,https://www.lyngsat.com/tvchannels/ar/America-Paraguay.html,True,América Paraguay,Spa
+,América Paraguay,MPEG-4/HD,49.0,DVB-S2,4444.0,3/4,4195 V,tp 10,0.0,,https://www.lyngsat.com/providers/ar/America-Paraguay.html,América Paraguay,https://www.lyngsat.com/tvchannels/ar/America-Paraguay.html,True,América Paraguay,Spa
+,A24 Paraguay,MPEG-4/HD,69.0,DVB-S2,4444.0,3/4,4195 V,tp 10,0.0,,,A24 Paraguay,https://www.lyngsat.com/tvchannels/ar/A24-Paraguay.html,False,América Paraguay,Spa
+,DTCom,,,DVB-S2,10805.0,2/3,11026 V,,0.0,,https://www.lyngsat.com/providers/br/DTCom.html,,,True,DTCom,
+,DTCom Sat 1,MPEG-4/SD,120.0,DVB-S2,10805.0,2/3,11026 V,,0.0,,,DTCom Sat 1,https://www.lyngsat.com/tvchannels/br/DTCom-Sat-1.html,False,DTCom,Por
+,DTCom Sat 2,MPEG-4/SD,220.0,DVB-S2,10805.0,2/3,11026 V,,0.0,,,DTCom Sat 2,https://www.lyngsat.com/tvchannels/br/DTCom-Sat-2.html,False,DTCom,Por
+,[test card],MPEG-4/SD,1220.0,DVB-S2,10805.0,2/3,11026 V,,0.0,,,,,False,DTCom,
+,,,,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,,,False,DTCom,
+1003.0,NSC TV Florianópolis,MPEG-2/SD,2597.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,NSC TV Florianópolis,https://www.lyngsat.com/tvchannels/br/NSC-TV-Florianopolis.html,False,DTCom,Por
+1008.0,TV Globo Brasília,MPEG-2/SD,2055.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,TV Globo Brasília,https://www.lyngsat.com/tvchannels/br/TV-Globo-Brasilia.html,False,DTCom,Por
+1014.0,TV Globo Nordeste,MPEG-2/SD,2053.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,TV Globo Nordeste,https://www.lyngsat.com/tvchannels/br/TV-Globo-Nordeste.html,False,DTCom,Por
+1016.0,TV Verdes Mares,MPEG-2/SD,2054.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,TV Verdes Mares,https://www.lyngsat.com/tvchannels/br/TV-Verdes-Mares.html,False,DTCom,Por
+1018.0,TV Integração,MPEG-2/SD,2596.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,TV Integração,https://www.lyngsat.com/tvchannels/br/TV-Integracao.html,False,DTCom,Por
+1150.0,Sexy Hot,MPEG-2/SD,2067.0,DVB-S,10805.0,2/3,11135 V,tp 25,0.0,Nagravision,,Sexy Hot,https://www.lyngsat.com/tvchannels/br/Sexy-Hot.html,False,DTCom,Por
+,(DCI feeds),,,DVB-S,10805.0,2/3,12060 V,tp 3,,,,,,False,DTCom,
+,,,,,,,,,,,,DVB-S28PSK37502/3,,False,DTCom,
+,,,,,,,,,,,,DVB-S28PSK25002/3,,False,DTCom,
+,,,,,,,,,,,,DVB-S2QPSK16664/5,,False,DTCom,
+,,,,,,,,,,,,DVB-S2QPSK16664/5,,False,DTCom,
+,,,,,,,,,,,,DVB-S28PSK20833/4,,False,DTCom,
+,,,,,,,,,,,,DVB-S245433/4,,False,DTCom,
+,,,,,,,,,,,,DVB-S2QPSK16665/6,,False,DTCom,
+,,,,,,,,,,,,DVB-S2QPSK16665/6,,False,DTCom,
+,,,,,,,,,,,,DVB-S25003/4,,False,DTCom,

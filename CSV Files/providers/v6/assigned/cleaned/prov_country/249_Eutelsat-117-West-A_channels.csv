@@ -1,0 +1,676 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country,Provider_Country
+,Edusat,,,DVB-S,27000.0,3/4,3720 V,tp 1,,,https://www.lyngsat.com/providers/mx/Edusat.html,,,,,True,Edusat,,,mx
+1.0,Telesecundaria,MPEG-2/SD,33.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Telesecundaria,https://www.lyngsat.com/tvchannels/mx/Telesecundaria.html,,,False,Edusat,Spa,mx,
+2.0,Capacita TV,MPEG-2/SD,32.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Capacita TV,https://www.lyngsat.com/tvchannels/mx/Capacita-TV.html,,,False,Edusat,Spa,mx,
+3.0,ILCE Canal 13 Innova Conocimiento,MPEG-2/SD,37.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,ILCE Canal 13 Innova Conocimiento,https://www.lyngsat.com/tvchannels/mx/ILCE-Canal-13-Innova-Conocimiento.html,,,False,Edusat,Spa,mx,
+5.0,Espacio Universitario,MPEG-2/SD,38.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Espacio Universitario,https://www.lyngsat.com/tvchannels/mx/Espacio-Universitario.html,,,False,Edusat,Spa,mx,
+5.0,Espacio Universitario,MPEG-2/SD,38.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Espacio Universitario,https://www.lyngsat.com/tvchannels/mx/Espacio-Universitario.html,,,False,Edusat,Spa,mx,
+,Espacio Universitario,MPEG-4/HD,481.0,DVB-S2,5200.0,3/4,3766 H,tp 4,,,,Espacio Universitario,https://www.lyngsat.com/tvchannels/mx/Espacio-Universitario.html,,,False,Edusat,Spa,mx,
+,Espacio Universitario,MPEG-4/HD,481.0,DVB-S2,5200.0,3/4,3766 H,tp 4,,,,Espacio Universitario,https://www.lyngsat.com/tvchannels/mx/Espacio-Universitario.html,,,False,Edusat,Spa,mx,
+6.0,Canal 22 Nacional,MPEG-2/SD,39.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Canal 22 Nacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Nacional.html,,,False,Edusat,Spa,mx,
+7.0,Telebachillerato,MPEG-2/SD,35.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Telebachillerato,https://www.lyngsat.com/tvchannels/mx/Telebachillerato.html,,,False,Edusat,Spa,mx,
+8.0,Canal Iberoamericano,MPEG-2/SD,40.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+8.0,Canal Iberoamericano,MPEG-2/SD,40.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+,Canal Iberoamericano,MPEG-4/HD,481.0,DVB-S2,5200.0,3/4,3773 H,tp 4,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+,Canal Iberoamericano,MPEG-4/HD,481.0,DVB-S2,5200.0,3/4,3773 H,tp 4,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+,Canal Iberoamericano,MPEG-2/SD,257.0,DVB-S,3600.0,3/4,3779 H,tp 4,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+,Canal Iberoamericano,MPEG-2/SD,257.0,DVB-S,3600.0,3/4,3779 H,tp 4,,,,Canal Iberoamericano,https://www.lyngsat.com/tvchannels/mx/Canal-Iberoamericano.html,,,False,Edusat,Spa,mx,
+9.0,Tele México,MPEG-2/SD,41.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Tele México,https://www.lyngsat.com/tvchannels/mx/Tele-Mexico.html,,,False,Edusat,Spa,mx,
+10.0,TV Universidad,MPEG-2/SD,42.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,TV Universidad,https://www.lyngsat.com/tvchannels/mx/TV-Universidad.html,,,False,Edusat,Spa,mx,
+11.0,Red de las Artes,MPEG-2/SD,43.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Red de las Artes,https://www.lyngsat.com/tvchannels/mx/Red-de-las-Artes.html,,,False,Edusat,Spa,mx,
+12.0,Aprende TV,MPEG-2/SD,44.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Aprende TV,https://www.lyngsat.com/tvchannels/mx/Aprende-TV.html,,,False,Edusat,Spa,mx,
+12.0,Aprende TV,MPEG-2/SD,44.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Aprende TV,https://www.lyngsat.com/tvchannels/mx/Aprende-TV.html,,,False,Edusat,Spa,mx,
+13.0,Canal del Congreso 45.1,MPEG-2/SD,45.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,,,False,Edusat,Spa,mx,
+13.0,Canal del Congreso 45.1,MPEG-2/SD,45.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,,,False,Edusat,Spa,mx,
+,Canal del Congreso 45.1,MPEG-4/HD,308.0,DVB-S2,4090.0,3/4,3792 H,tp 4,,,,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,,,False,Edusat,Spa,mx,
+,Canal del Congreso 45.1,MPEG-4/HD,308.0,DVB-S2,4090.0,3/4,3792 H,tp 4,,,,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,,,False,Edusat,Spa,mx,
+14.0,Especiales,MPEG-2/SD,46.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Especiales,https://www.lyngsat.com/tvchannels/mx/Especiales.html,,,False,Edusat,Spa,mx,
+15.0,Telesecundaria +,MPEG-2/SD,36.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Telesecundaria +,https://www.lyngsat.com/tvchannels/mx/Telesecundaria--.html,,,False,Edusat,Spa,mx,
+16.0,TV UNAM,MPEG-2/SD,47.0,DVB-S,27000.0,3/4,3720 V,tp 1,,,,TV UNAM,https://www.lyngsat.com/tvchannels/mx/TV-UNAM.html,,,False,Edusat,Spa,mx,
+,Horizonte 107.9,,,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Horizonte 107.9,https://www.lyngsat.com/radiochannels/mx/Horizonte-1079.html,,,False,Edusat,Spa,mx,
+,Horizonte 107.9,,,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Horizonte 107.9,https://www.lyngsat.com/radiochannels/mx/Horizonte-1079.html,,,False,Edusat,Spa,mx,
+,Señal 96.5 FM,,,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Señal 96.5 FM,https://www.lyngsat.com/radiochannels/mx/Senal-965-FM.html,,,False,Edusat,Spa,mx,
+,Señal 96.5 FM,,,DVB-S,27000.0,3/4,3720 V,tp 1,,,,Señal 96.5 FM,https://www.lyngsat.com/radiochannels/mx/Senal-965-FM.html,,,False,Edusat,Spa,mx,
+,,,,DVB-S,27000.0,3/4,3740 H,tp 2,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,1583.0,5/6,3910 H,tp 10,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,667.0,3/4,3935 H,tp 12,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,2250.0,3/4,4002 V,tp 15,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,23200.0,5/6,4015 H,tp 16,,"BISS,Compunicate",,,,,,False,Edusat,,,
+,,,,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,,,,,False,Edusat,,,
+,,1386-1,,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,,,,,False,Edusat,,,
+,,,,DVB-S2,1481.0,3/4,12040 H,tp 17,0.0,,,,,,,False,Edusat,,,
+,,,,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,,,,,False,Edusat,,,
+,Radio ILCE,,,DVB-S2,5200.0,3/4,3766 H,tp 4,,,,Radio ILCE,https://www.lyngsat.com/radiochannels/mx/Radio-ILCE.html,,,False,Edusat,Spa,mx,
+,[test card],MPEG-4/HD,308.0,DVB-S2,4800.0,3/4,3784 H,tp 4,,,,,,,,False,Edusat,,,
+34.0,[test card],MPEG-2/SD,1216.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,,,,,False,Edusat,,,
+,Telecentro (Dominican Republic),MPEG-2/SD,49.0,DVB-S,4000.0,3/4,3786 V,tp 5,,,,,,,,False,Edusat,Spa,,
+,La Kalle,,,DVB-S,4000.0,3/4,3786 V,tp 5,,,,La Kalle,https://www.lyngsat.com/radiochannels/do/La-Kalle.html,,,False,Edusat,Spa,do,
+,Original,,,DVB-S,4000.0,3/4,3786 V,tp 5,,,,Original,https://www.lyngsat.com/radiochannels/do/Original.html,,,False,Edusat,Spa,do,
+,Original,,,DVB-S,4000.0,3/4,3786 V,tp 5,,,,Original,https://www.lyngsat.com/radiochannels/do/Original.html,,,False,Edusat,Spa,do,
+,Justicia TV (Mexico),MPEG-4/HD,481.0,DVB-S2,4090.0,3/4,3787 H,tp 4,,,,,,,,False,Edusat,Spa,,
+,TV Más,MPEG-4/HD,308.0,DVB-S2,3080.0,3/4,3791 V,tp 5,,,,,,,,False,Edusat,Spa,,
+,Radio Más,,,DVB-S2,3080.0,3/4,3791 V,tp 5,,,,Radio Más,https://www.lyngsat.com/radiochannels/mx/Radio-Mas.html,,,False,Edusat,Spa,mx,
+,Radio Más,,,DVB-S2,3080.0,3/4,3791 V,tp 5,,,,Radio Más,https://www.lyngsat.com/radiochannels/mx/Radio-Mas.html,,,False,Edusat,Spa,mx,
+1.0,RTU,?-?MPEG-2/SD,512.0,DVB-S,2242.0,3/4,3796 V,tp 5,,,,,,,,False,Edusat,Spa,,
+,Once México,MPEG-4/HD,481.0,DVB-S2,4090.0,3/4,3797 H,tp 4,,,,,,,,False,Edusat,Spa,,
+,RCG TV,MPEG-4/HD,256.0,DVB-S2,1660.0,3/5,3799 V,tp 5,,,,,,,,False,Edusat,Spa,,
+,Azteca,,,DVB-S2,15000.0,3/4,3810 V,tp 5,,,https://www.lyngsat.com/providers/mx/Azteca.html,,,,,True,Azteca,,,mx
+1.0,Azteca Uno,MPEG-2/HD,49.0,DVB-S2,15000.0,3/4,3810 V,tp 5,,,,Azteca Uno,https://www.lyngsat.com/tvchannels/mx/Azteca-Uno.html,,,False,Azteca,Spa,mx,
+2.0,Azteca 7,MPEG-2/HD,65.0,DVB-S2,15000.0,3/4,3810 V,tp 5,,HRT,,Azteca 7,https://www.lyngsat.com/tvchannels/mx/Azteca-7.html,,,False,Azteca,Spa,mx,
+3.0,ADN 40,MPEG-2/SD,81.0,DVB-S2,15000.0,3/4,3810 V,tp 5,,,,ADN 40,https://www.lyngsat.com/tvchannels/mx/ADN-40.html,,,False,Azteca,Spa,mx,
+3.0,ADN 40,MPEG-2/SD,81.0,DVB-S2,15000.0,3/4,3810 V,tp 5,,,,ADN 40,https://www.lyngsat.com/tvchannels/mx/ADN-40.html,,,False,Azteca,Spa,mx,
+9.0,A Más +,MPEG-4/SD,177.0,DVB-S2,15000.0,3/4,3810 V,tp 5,,,,A Más +,https://www.lyngsat.com/tvchannels/mx/A-Mas--.html,,,False,Azteca,Spa,mx,
+,PCTV,,,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",https://www.lyngsat.com/providers/mx/PCTV.html,,,,,True,PCTV,,,mx
+9.0,Cine Mexicano (Mexico),MPEG-4/SD,900.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Cine Mexicano (Mexico),https://www.lyngsat.com/tvchannels/mx/Cine-Mexicano.html,,,False,PCTV,Spa,mx,
+11.0,Cinema Platino 2,MPEG-4/SD,1100.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Cinema Platino 2,https://www.lyngsat.com/tvchannels/mx/Cinema-Platino-2.html,,,False,PCTV,Spa,mx,
+12.0,TeleFórmula,MPEG-4/HD,1200.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,TeleFórmula,https://www.lyngsat.com/tvchannels/mx/TeleFormula.html,,,False,PCTV,Spa,mx,
+12.0,TeleFórmula,MPEG-4/HD,1200.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,TeleFórmula,https://www.lyngsat.com/tvchannels/mx/TeleFormula.html,,,False,PCTV,Spa,mx,
+,TeleFórmula,MPEG-4/HD,101.0,DVB-S2,3730.0,5/6,4073 V,tp 19,,,,TeleFórmula,https://www.lyngsat.com/tvchannels/mx/TeleFormula.html,,,False,PCTV,Spa,mx,
+,TeleFórmula,MPEG-4/HD,101.0,DVB-S2,3730.0,5/6,4073 V,tp 19,,,,TeleFórmula,https://www.lyngsat.com/tvchannels/mx/TeleFormula.html,,,False,PCTV,Spa,mx,
+13.0,TVC Delay,MPEG-4/SD,1350.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,TVC Delay,https://www.lyngsat.com/tvchannels/mx/TVC-Delay.html,,,False,PCTV,Spa,mx,
+14.0,Video Rola,MPEG-4/SD,1400.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Video Rola,https://www.lyngsat.com/tvchannels/mx/Video-Rola.html,,,False,PCTV,Spa,mx,
+15.0,Excélsior TV,MPEG-4/SD,1500.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Excélsior TV,https://www.lyngsat.com/tvchannels/mx/Excelsior-TV.html,,,False,PCTV,Spa,mx,
+16.0,AMC México,MPEG-4/SD,1600.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,AMC México,https://www.lyngsat.com/tvchannels/us/AMC-Mexico.html,,,False,PCTV,Spa,us,
+17.0,Más Chic Lationamérica,MPEG-4/SD,1700.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Más Chic Lationamérica,https://www.lyngsat.com/tvchannels/us/Mas-Chic-Lationamerica.html,,,False,PCTV,Spa,us,
+18.0,El Gourmet Norte,MPEG-4/SD,1800.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,El Gourmet Norte,https://www.lyngsat.com/tvchannels/ar/El-Gourmet-Norte.html,,,False,PCTV,Spa,ar,
+19.0,Film & Arts América Latina,MPEG-4/SD,1900.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Film & Arts América Latina,https://www.lyngsat.com/tvchannels/ar/Film-and-Arts-America-Latina.html,,,False,PCTV,Spa,ar,
+20.0,Quiero TV,MPEG-4/SD,2000.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,,,Quiero TV,https://www.lyngsat.com/tvchannels/mx/Quiero-TV.html,,,False,PCTV,Spa,mx,
+20.0,Quiero TV,MPEG-4/SD,2000.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,,,Quiero TV,https://www.lyngsat.com/tvchannels/mx/Quiero-TV.html,,,False,PCTV,Spa,mx,
+21.0,Megacanal,MPEG-4/SD,2100.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,,,Megacanal,https://www.lyngsat.com/tvchannels/mx/Megacanal.html,,,False,PCTV,Spa,mx,
+22.0,Cinema Platino,MPEG-4/HD,2200.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Cinema Platino,https://www.lyngsat.com/tvchannels/mx/Cinema-Platino.html,,,False,PCTV,Spa,mx,
+23.0,Meganoticias MX,MPEG-4/HD,2350.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Meganoticias MX,https://www.lyngsat.com/tvchannels/mx/Meganoticias-MX.html,,,False,PCTV,Spa,mx,
+25.0,TVC Deportes,MPEG-4/HD,2500.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,TVC Deportes,https://www.lyngsat.com/tvchannels/mx/TVC-Deportes.html,,,False,PCTV,Spa,mx,
+26.0,Pánico,MPEG-4/HD,2600.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Pánico,https://www.lyngsat.com/tvchannels/mx/Panico.html,,,False,PCTV,Spa,mx,
+32.0,Mega Sports (Mexico),MPEG-4/SD,3200.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Mega Sports (Mexico),https://www.lyngsat.com/tvchannels/mx/Mega-Sports.html,,,False,PCTV,Spa,mx,
+33.0,NBA TV Latin America,MPEG-4/SD,3300.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,NBA TV Latin America,https://www.lyngsat.com/tvchannels/us/NBA-TV-Latin-America.html,,,False,PCTV,Spa,us,
+34.0,Pasiones Latinoamérica,MPEG-4/SD,3400.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Pasiones Latinoamérica,https://www.lyngsat.com/tvchannels/us/Pasiones-Latinoamerica.html,,,False,PCTV,Spa,us,
+35.0,Hola! TV América Latina,MPEG-4/SD,3500.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Hola! TV América Latina,https://www.lyngsat.com/tvchannels/es/Hola-TV-America-Latina.html,,,False,PCTV,Spa,es,
+35.0,Hola! TV América Latina,MPEG-4/SD,3500.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Hola! TV América Latina,https://www.lyngsat.com/tvchannels/es/Hola-TV-America-Latina.html,,,False,PCTV,Spa,es,
+,Hola! TV América Latina,MPEG-4/HD,521.0,DVB-S2,6333.0,3/4,4094 V,tp 19,,PowerVu,,Hola! TV América Latina,https://www.lyngsat.com/tvchannels/es/Hola-TV-America-Latina.html,,,False,PCTV,Spa,es,
+,Hola! TV América Latina,MPEG-4/HD,521.0,DVB-S2,6333.0,3/4,4094 V,tp 19,,PowerVu,,Hola! TV América Latina,https://www.lyngsat.com/tvchannels/es/Hola-TV-America-Latina.html,,,False,PCTV,Spa,es,
+36.0,Beat Box,MPEG-4/SD,3600.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,Beat Box,https://www.lyngsat.com/tvchannels/mx/Beat-Box.html,,,False,PCTV,Spa,mx,
+37.0,TVC Deportes 2,MPEG-4/HD,3700.0,DVB-S2,30000.0,3/4,3820 H,tp 6,,"Conax,PowerVu",,TVC Deportes 2,https://www.lyngsat.com/tvchannels/mx/TVC-Deportes-2.html,,,False,PCTV,Spa,mx,
+,SICOM TV,128-8,,DVB-S2,4416.0,5/6,3825 V,tp 7,,,https://www.lyngsat.com/providers/mx/SICOM-TV.html,,,,,True,SICOM TV,,,mx
+1025.0,SICOM TV 16.1,MPEG-4/SD,4114.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1025.0,SICOM TV 16.1,MPEG-4/SD,4114.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1025.0,SICOM TV 16.1,MPEG-4/SD,4114.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1025.0,SICOM TV 16.1,MPEG-4/SD,4114.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1026.0,SICOM TV 16.1,MPEG-4/HD,4115.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1026.0,SICOM TV 16.1,MPEG-4/HD,4115.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1026.0,SICOM TV 16.1,MPEG-4/HD,4115.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1026.0,SICOM TV 16.1,MPEG-4/HD,4115.0,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,SICOM TV 16.1,https://www.lyngsat.com/tvchannels/mx/SICOM-TV-161.html,,,False,SICOM TV,Spa,mx,
+1002.0,Puebla FM,,,DVB-S2,4416.0,5/6,3825 V,tp 7,,,,Puebla FM,https://www.lyngsat.com/radiochannels/mx/Puebla-FM.html,,,False,SICOM TV,Spa,mx,
+1.0,Sistema Michoacano de TV,?-?MPEG-4/HD,33.0,DVB-S2,3500.0,3/4,3845 H,tp 8,,,,,,,,False,SICOM TV,Spa,,
+2.0,Radio Pública de Michoacan FM,,,DVB-S2,3500.0,3/4,3845 H,tp 8,,,,Radio Pública de Michoacan FM,https://www.lyngsat.com/tvchannels/mx/Radio-Publica-de-Michoacan-FM.html,,,False,SICOM TV,Spa,mx,
+2.0,Radio Pública de Michoacan FM,,,DVB-S2,3500.0,3/4,3845 H,tp 8,,,,Radio Pública de Michoacan FM,https://www.lyngsat.com/tvchannels/mx/Radio-Publica-de-Michoacan-FM.html,,,False,SICOM TV,Spa,mx,
+2.0,Azteca Honduras,?-4369MPEG-4/HD,611.0,DVB-S2,2800.0,5/6,3849 H,tp 8,,,,,,,,False,SICOM TV,Spa Spa,,
+,Tele Saltillo,HEVC/HD,33.0,DVB-S2,2082.0,3/4,3852 H,tp 8,,,,,,,,False,SICOM TV,Spa,,
+1.0,UCSG TV,?-?MPEG-4/SD,101.0,DVB-S2,1667.0,2/3,3855 H,tp 8,,,,,,,,False,SICOM TV,Spa,,
+,Heraldo TV,MPEG-4/HD,481.0,DVB-S2,4440.0,3/4,3858 H,tp 8,,,,,,,,False,SICOM TV,Spa,,
+,Heraldo Radio,,,DVB-S2,4440.0,3/4,3858 H,tp 8,,,,Heraldo Radio,https://www.lyngsat.com/radiochannels/mx/Heraldo-Radio.html,,,False,SICOM TV,Spa,mx,
+,Heraldo Radio,,,DVB-S2,4440.0,3/4,3858 H,tp 8,,,,Heraldo Radio,https://www.lyngsat.com/radiochannels/mx/Heraldo-Radio.html,,,False,SICOM TV,Spa,mx,
+,TM Global Communications,,,DVB-S2,2500.0,5/6,3865 H,tp 8,,,https://www.lyngsat.com/providers/hn/TM-Global-Communications.html,,,,,True,TM Global Communications,,,hn
+,Maya TV (Honduras),MPEG-4/HD,257.0,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Maya TV (Honduras),https://www.lyngsat.com/tvchannels/hn/Maya-TV.html,,,False,TM Global Communications,Spa,hn,
+,Go TV,MPEG-4/HD,261.0,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Go TV,https://www.lyngsat.com/tvchannels/hn/Go-TV.html,,,False,TM Global Communications,Spa,hn,
+,ICN,MPEG-4/SD,517.0,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,ICN,https://www.lyngsat.com/tvchannels/hn/ICN.html,,,False,TM Global Communications,Spa,hn,
+,Radio Globo Honduras,,,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+,Radio Globo Honduras,,,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+,Radio Globo Honduras,,,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+,Radio Globo Honduras,,,DVB-S2,2500.0,5/6,3865 H,tp 8,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+8.0,Radio Globo Honduras,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+8.0,Radio Globo Honduras,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+8.0,Radio Globo Honduras,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+8.0,Radio Globo Honduras,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Radio Globo Honduras,https://www.lyngsat.com/radiochannels/hn/Radio-Globo-Honduras.html,,,False,TM Global Communications,Spa,hn,
+,Canal 28 Nuevo León,,,DVB-S2,6165.0,5/6,3865 V,tp 9,,,https://www.lyngsat.com/providers/mx/Canal-28-Nuevo-Leon.html,Canal 28 Nuevo León,https://www.lyngsat.com/tvchannels/mx/Canal-28-Nuevo-Leon.html,,,True,Canal 28 Nuevo León,,mx,mx
+,Canal 28 Nuevo León,,,DVB-S2,6165.0,5/6,3865 V,tp 9,,,https://www.lyngsat.com/providers/mx/Canal-28-Nuevo-Leon.html,Canal 28 Nuevo León,https://www.lyngsat.com/tvchannels/mx/Canal-28-Nuevo-Leon.html,,,True,Canal 28 Nuevo León,,mx,mx
+,Canal 28 Nuevo León,MPEG-2/SD,49.0,DVB-S2,6165.0,5/6,3865 V,tp 9,,,https://www.lyngsat.com/providers/mx/Canal-28-Nuevo-Leon.html,Canal 28 Nuevo León,https://www.lyngsat.com/tvchannels/mx/Canal-28-Nuevo-Leon.html,,,True,Canal 28 Nuevo León,Spa,mx,mx
+,Canal 28 Nuevo León,MPEG-2/SD,49.0,DVB-S2,6165.0,5/6,3865 V,tp 9,,,https://www.lyngsat.com/providers/mx/Canal-28-Nuevo-Leon.html,Canal 28 Nuevo León,https://www.lyngsat.com/tvchannels/mx/Canal-28-Nuevo-Leon.html,,,True,Canal 28 Nuevo León,Spa,mx,mx
+,Canal 28.2 Nuevo León,MPEG-2/SD,65.0,DVB-S2,6165.0,5/6,3865 V,tp 9,,,,Canal 28.2 Nuevo León,https://www.lyngsat.com/tvchannels/mx/Canal-282-Nuevo-Leon.html,,,False,Canal 28 Nuevo León,Spa,mx,
+,TV Arquidiocesana,MPEG-4/HD,258.0,DVB-S2,2500.0,3/4,3870 H,tp 8,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,Tele Yucatán,MPEG-4/HD,101.0,DVB-S2,2875.0,5/6,3872 V,tp 9,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+1.0,Free TV,?-?MPEG-2/HD,33.0,DVB-S2,4167.0,3/4,3876 H,tp 10,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,(Liga Mexicana de Beisbol feeds),,,DVB-S2,7500.0,2/3,3879 V,tp 9,,,,,,,,False,Canal 28 Nuevo León,,,
+,Hidalgo TV,MPEG-4/HD,33.0,DVB-S2,3255.0,5/6,3884 H,tp 10,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,WWB TV,MPEG-4/HD,101.0,DVB-S2,3330.0,3/4,3888 V,tp 9,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,Jalisco TV,MPEG-2/SD,256.0,DVB-S,2540.0,5/6,3888 H,tp 10,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,Jalisco Radio FM,,,DVB-S,2540.0,5/6,3888 H,tp 10,,,,Jalisco Radio FM,https://www.lyngsat.com/radiochannels/mx/Jalisco-Radio-FM.html,,,False,Canal 28 Nuevo León,Spa,mx,
+,Jalisco Radio FM,,,DVB-S,2540.0,5/6,3888 H,tp 10,,,,Jalisco Radio FM,https://www.lyngsat.com/radiochannels/mx/Jalisco-Radio-FM.html,,,False,Canal 28 Nuevo León,Spa,mx,
+,Telefuturo (Dominican Republic),MPEG-4/SD,61.0,DVB-S,1667.0,3/4,3891 V,tp 9,,,,,,,,False,Canal 28 Nuevo León,Spa,,
+,TV Azteca Guate,,,DVB-S2,5000.0,3/4,3892 H,tp 10,,,https://www.lyngsat.com/providers/mx/TV-Azteca-Guate.html,TV Azteca Guate,https://www.lyngsat.com/tvchannels/mx/TV-Azteca-Guate.html,,,True,TV Azteca Guate,,mx,mx
+1.0,TV Azteca Guate,MPEG-4/HD,101.0,DVB-S2,5000.0,3/4,3892 H,tp 10,,,https://www.lyngsat.com/providers/mx/TV-Azteca-Guate.html,TV Azteca Guate,https://www.lyngsat.com/tvchannels/mx/TV-Azteca-Guate.html,,,True,TV Azteca Guate,Spa,mx,mx
+,A Más + Guate,MPEG-4/HD,4128.0,DVB-S2,5000.0,3/4,3892 H,tp 10,,,,A Más + Guate,https://www.lyngsat.com/tvchannels/mx/A-Mas---Guate.html,,,False,TV Azteca Guate,Spa,mx,
+2.0,Unión Radio,,,DVB-S2,5000.0,3/4,3892 H,tp 10,,,,Unión Radio,https://www.lyngsat.com/radiochannels/gt/Union-Radio.html,,,False,TV Azteca Guate,Spa,gt,
+2.0,Unión Radio,,,DVB-S2,5000.0,3/4,3892 H,tp 10,,,,Unión Radio,https://www.lyngsat.com/radiochannels/gt/Union-Radio.html,,,False,TV Azteca Guate,Spa,gt,
+,Tlaxcala TV,MPEG-4/SD,308.0,DVB-S2,2415.0,3/5,3894 V,tp 9,,,,,,,,False,TV Azteca Guate,Spa,,
+,Radio Tlaxcala,,,DVB-S2,2415.0,3/5,3894 V,tp 9,,,,Radio Tlaxcala,https://www.lyngsat.com/radiochannels/mx/Radio-Tlaxcala.html,,,False,TV Azteca Guate,Spa,mx,
+,Radio Tlaxcala,,,DVB-S2,2415.0,3/5,3894 V,tp 9,,,,Radio Tlaxcala,https://www.lyngsat.com/radiochannels/mx/Radio-Tlaxcala.html,,,False,TV Azteca Guate,Spa,mx,
+,CB TV,MPEG-4/HD,513.0,DVB-S2,2080.0,4/5,3898 V,tp 9,,,,,,,,False,TV Azteca Guate,Spa,,
+,TV Cuatro,,,DVB-S2,7500.0,5/6,3899 H,tp 10,,,https://www.lyngsat.com/providers/mx/TV-Cuatro.html,,,,,True,TV Cuatro,,,mx
+512.0,TV Cuatro 4.1,MPEG-2/HD,33.0,DVB-S2,7500.0,5/6,3899 H,tp 10,,,,TV Cuatro 4.1,https://www.lyngsat.com/tvchannels/mx/TV-Cuatro-41.html,,,False,TV Cuatro,Spa,mx,
+513.0,TV Cuatro 4.2,MPEG-2/SD,36.0,DVB-S2,7500.0,5/6,3899 H,tp 10,,,,TV Cuatro 4.2,https://www.lyngsat.com/tvchannels/mx/TV-Cuatro-42.html,,,False,TV Cuatro,Spa,mx,
+514.0,TV Cuatro 4.3,MPEG-2/SD,39.0,DVB-S2,7500.0,5/6,3899 H,tp 10,,,,TV Cuatro 4.3,https://www.lyngsat.com/tvchannels/mx/TV-Cuatro-43.html,,,False,TV Cuatro,Spa,mx,
+515.0,TV Cuatro 4.4,MPEG-2/SD,42.0,DVB-S2,7500.0,5/6,3899 H,tp 10,,,,TV Cuatro 4.4,https://www.lyngsat.com/tvchannels/mx/TV-Cuatro-44.html,,,False,TV Cuatro,Spa,mx,
+1.0,La Voz de María,?-?MPEG-2/SD,308.0,DVB-S,2200.0,7/8,3903 V,tp 11,,,,,,,,False,TV Cuatro,Spa,,
+,Teleceiba,MPEG-4/SD,481.0,DVB-S2,1600.0,3/4,3905 H,tp 10,,,,,,,,False,TV Cuatro,Spa,,
+,UNAH UTV,MPEG-4/SD,130.0,DVB-S2,2500.0,4/5,3908 H,tp 10,,,,,,,,False,TV Cuatro,,,
+,Dominican Republic mux,,,DVB-S,6379.0,3/4,3909 V,tp 11,,,,,,,,False,TV Cuatro,,,
+1.0,Telesistema,MPEG-2/SD,58.0,DVB-S,6379.0,3/4,3909 V,tp 11,,,,Telesistema,https://www.lyngsat.com/tvchannels/do/Telesistema.html,,,False,TV Cuatro,Spa,do,
+2.0,Tele Antillas,MPEG-2/SD,34.0,DVB-S,6379.0,3/4,3909 V,tp 11,,,,Tele Antillas,https://www.lyngsat.com/tvchannels/do/Tele-Antillas.html,,,False,TV Cuatro,Spa,do,
+3.0,Coral 39,MPEG-2/SD,42.0,DVB-S,6379.0,3/4,3909 V,tp 11,,,,Coral 39,https://www.lyngsat.com/tvchannels/do/Coral-39.html,,,False,TV Cuatro,Spa,do,
+1.0,FFAA TV,MPEG-4/SD,130.0,DVB-S2,1583.0,5/6,3910 H,tp 10,,,,FFAA TV,https://www.lyngsat.com/tvchannels/hn/FFAA-TV.html,,,False,TV Cuatro,Spa,hn,
+2.0,EDN TV,MPEG-4/SD,66.0,DVB-S2,1583.0,5/6,3910 H,tp 10,,,,EDN TV,https://www.lyngsat.com/tvchannels/hn/EDN-TV.html,,,False,TV Cuatro,,hn,
+2.0,EDN TV,MPEG-4/SD,66.0,DVB-S2,1583.0,5/6,3910 H,tp 10,,,,EDN TV,https://www.lyngsat.com/tvchannels/hn/EDN-TV.html,,,False,TV Cuatro,,hn,
+22.0,EDN TV,MPEG-4/SD,66.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,EDN TV,https://www.lyngsat.com/tvchannels/hn/EDN-TV.html,,,False,TV Cuatro,Spa,hn,
+22.0,EDN TV,MPEG-4/SD,66.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,EDN TV,https://www.lyngsat.com/tvchannels/hn/EDN-TV.html,,,False,TV Cuatro,Spa,hn,
+,CorTV,MPEG-2/HD,49.0,DVB-S2,4000.0,3/4,3917 H,tp 10,,,,,,,,False,TV Cuatro,Spa,,
+,Oaxaqueña Radio Aro FM,,,DVB-S2,4000.0,3/4,3917 H,tp 10,,,,Oaxaqueña Radio Aro FM,https://www.lyngsat.com/radiochannels/mx/Oaxaquena-Radio-Aro-FM.html,,,False,TV Cuatro,Spa,mx,
+,Global 96.9 Aro FM,,,DVB-S2,4000.0,3/4,3917 H,tp 10,,,,Global 96.9 Aro FM,https://www.lyngsat.com/radiochannels/mx/Global-969-Aro-FM.html,,,False,TV Cuatro,Spa,mx,
+,UDG TV,,,DVB-S2,4500.0,3/4,3917 V,tp 11,,,https://www.lyngsat.com/providers/--/UDG-TV.html,,,,,True,UDG TV,,,--
+,UDG TV Canal 44,MPEG-4/HD,49.0,DVB-S2,4500.0,3/4,3917 V,tp 11,,,,UDG TV Canal 44,https://www.lyngsat.com/tvchannels/mx/UDG-TV-Canal-44.html,,,False,UDG TV,Spa,mx,
+,UDG TV 44 Noticias,MPEG-4/HD,481.0,DVB-S2,4500.0,3/4,3917 V,tp 11,,,,UDG TV 44 Noticias,https://www.lyngsat.com/tvchannels/mx/UDG-TV-44-Noticias.html,,,False,UDG TV,Spa,mx,
+,TPSD,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,https://www.lyngsat.com/providers/do/TPSD.html,,,,,True,TPSD,,,do
+,Canal del Sol,MPEG-2/SD,1203.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Canal del Sol,https://www.lyngsat.com/tvchannels/do/Canal-del-Sol.html,,,False,TPSD,Spa,do,
+,Canal del Sol,MPEG-2/SD,1203.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Canal del Sol,https://www.lyngsat.com/tvchannels/do/Canal-del-Sol.html,,,False,TPSD,Spa,do,
+,Canal 49,MPEG-2/SD,1221.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Canal 49,https://www.lyngsat.com/tvchannels/do/Canal-49.html,,,False,TPSD,Spa,do,
+,Su Mundo TV,MPEG-2/SD,1222.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Su Mundo TV,https://www.lyngsat.com/tvchannels/do/Su-Mundo-TV.html,,,False,TPSD,Spa,do,
+,Su Mundo TV,MPEG-2/SD,1222.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Su Mundo TV,https://www.lyngsat.com/tvchannels/do/Su-Mundo-TV.html,,,False,TPSD,Spa,do,
+9.0,Get TV,MPEG-2/SD,1101.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Get TV,https://www.lyngsat.com/tvchannels/do/Get-TV.html,,,False,TPSD,Spa,do,
+9.0,Get TV,MPEG-2/SD,1101.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Get TV,https://www.lyngsat.com/tvchannels/do/Get-TV.html,,,False,TPSD,Spa,do,
+25.0,Canal 25,MPEG-2/SD,1204.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Canal 25,https://www.lyngsat.com/tvchannels/do/Canal-25.html,,,False,TPSD,Spa,do,
+25.0,Canal 25,MPEG-2/SD,1204.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Canal 25,https://www.lyngsat.com/tvchannels/do/Canal-25.html,,,False,TPSD,Spa,do,
+27.0,Red Nacional de Noticias,MPEG-2/SD,1213.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Red Nacional de Noticias,https://www.lyngsat.com/tvchannels/do/Red-Nacional-de-Noticias.html,,,False,TPSD,Spa,do,
+27.0,Red Nacional de Noticias,MPEG-2/SD,1213.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Red Nacional de Noticias,https://www.lyngsat.com/tvchannels/do/Red-Nacional-de-Noticias.html,,,False,TPSD,Spa,do,
+33.0,Super Canal,MPEG-2/SD,1212.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Super Canal,https://www.lyngsat.com/tvchannels/do/Super-Canal.html,,,False,TPSD,Spa,do,
+45.0,Noticias 16,MPEG-2/SD,1208.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Noticias 16,https://www.lyngsat.com/tvchannels/do/Noticias-16.html,,,False,TPSD,Spa,do,
+45.0,Noticias 16,MPEG-2/SD,1208.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Noticias 16,https://www.lyngsat.com/tvchannels/do/Noticias-16.html,,,False,TPSD,Spa,do,
+47.0,Amé 47,MPEG-2/SD,1211.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Amé 47,https://www.lyngsat.com/tvchannels/do/Ame-47.html,,,False,TPSD,Spa,do,
+47.0,Amé 47,MPEG-2/SD,1211.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Amé 47,https://www.lyngsat.com/tvchannels/do/Ame-47.html,,,False,TPSD,Spa,do,
+70.0,WMTI,MPEG-2/SD,1205.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,WMTI,https://www.lyngsat.com/tvchannels/do/WMTI.html,,,False,TPSD,Spa,do,
+90.0,Naranja TV,MPEG-2/SD,1218.0,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Naranja TV,https://www.lyngsat.com/tvchannels/do/Naranja-TV.html,,,False,TPSD,Spa,do,
+,Urbe 97.5 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Urbe 97.5 FM,https://www.lyngsat.com/radiochannels/do/Urbe-975-FM.html,,,False,TPSD,Spa,do,
+,Urbe 97.5 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Urbe 97.5 FM,https://www.lyngsat.com/radiochannels/do/Urbe-975-FM.html,,,False,TPSD,Spa,do,
+,KV 94.7 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,KV 94.7 FM,https://www.lyngsat.com/radiochannels/do/KV-947-FM.html,,,False,TPSD,Spa,do,
+,KV 94.7 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,KV 94.7 FM,https://www.lyngsat.com/radiochannels/do/KV-947-FM.html,,,False,TPSD,Spa,do,
+,Top Latina 101.7 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Top Latina 101.7 FM,https://www.lyngsat.com/radiochannels/do/Top-Latina-1017-FM.html,,,False,TPSD,Spa,do,
+,Top Latina 101.7 FM,,,DVB-S2,7257.0,8/9,3924 V,tp 11,,,,Top Latina 101.7 FM,https://www.lyngsat.com/radiochannels/do/Top-Latina-1017-FM.html,,,False,TPSD,Spa,do,
+,Ecuador TV,,,DVB-S,4400.0,3/4,3925 H,tp 12,,,https://www.lyngsat.com/providers/ec/Ecuador-TV.html,Ecuador TV,https://www.lyngsat.com/tvchannels/ec/Ecuador-TV.html,,,True,Ecuador TV,,ec,ec
+1.0,Ecuador TV,MPEG-2/SD,512.0,DVB-S,4400.0,3/4,3925 H,tp 12,,,https://www.lyngsat.com/providers/ec/Ecuador-TV.html,Ecuador TV,https://www.lyngsat.com/tvchannels/ec/Ecuador-TV.html,,,True,Ecuador TV,Spa,ec,ec
+2.0,Ecuador TV Internacional,MPEG-2/SD,514.0,DVB-S,4400.0,3/4,3925 H,tp 12,,,,Ecuador TV Internacional,https://www.lyngsat.com/tvchannels/ec/Ecuador-TV-Internacional.html,,,False,Ecuador TV,Spa,ec,
+,Radio Nacional del Ecuador,,,DVB-S,4400.0,3/4,3925 H,tp 12,,,,Radio Nacional del Ecuador,https://www.lyngsat.com/radiochannels/ec/Radio-Nacional-del-Ecuador.html,,,False,Ecuador TV,Spa,ec,
+,Püblica FM,,,DVB-S,4400.0,3/4,3925 H,tp 12,,,,Püblica FM,https://www.lyngsat.com/radiochannels/ec/Publica-FM.html,,,False,Ecuador TV,Spa,ec,
+,Püblica FM,,,DVB-S,4400.0,3/4,3925 H,tp 12,,,,Püblica FM,https://www.lyngsat.com/radiochannels/ec/Publica-FM.html,,,False,Ecuador TV,Spa,ec,
+,Emisoras Unidas,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,https://www.lyngsat.com/providers/gt/Emisoras-Unidas.html,Emisoras Unidas,https://www.lyngsat.com/radiochannels/gt/Emisoras-Unidas.html,,,True,Emisoras Unidas,,gt,gt
+,Emisoras Unidas,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,https://www.lyngsat.com/providers/gt/Emisoras-Unidas.html,Emisoras Unidas,https://www.lyngsat.com/radiochannels/gt/Emisoras-Unidas.html,,,True,Emisoras Unidas,,gt,gt
+,Emisoras Unidas,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,https://www.lyngsat.com/providers/gt/Emisoras-Unidas.html,Emisoras Unidas,https://www.lyngsat.com/radiochannels/gt/Emisoras-Unidas.html,,,True,Emisoras Unidas,Spa,gt,gt
+,Emisoras Unidas,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,https://www.lyngsat.com/providers/gt/Emisoras-Unidas.html,Emisoras Unidas,https://www.lyngsat.com/radiochannels/gt/Emisoras-Unidas.html,,,True,Emisoras Unidas,Spa,gt,gt
+,Yosi Sideral,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,Yosi Sideral,https://www.lyngsat.com/radiochannels/gt/Yosi-Sideral.html,,,False,Emisoras Unidas,Spa,gt,
+,Yosi Sideral,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,Yosi Sideral,https://www.lyngsat.com/radiochannels/gt/Yosi-Sideral.html,,,False,Emisoras Unidas,Spa,gt,
+,La Grande FM,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,La Grande FM,https://www.lyngsat.com/radiochannels/gt/La-Grande-FM.html,,,False,Emisoras Unidas,Spa,gt,
+,La Grande FM,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,La Grande FM,https://www.lyngsat.com/radiochannels/gt/La-Grande-FM.html,,,False,Emisoras Unidas,Spa,gt,
+,Fabuestéreo,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,Fabuestéreo,https://www.lyngsat.com/radiochannels/gt/Fabuestereo.html,,,False,Emisoras Unidas,Spa,gt,
+,Fabuestéreo,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,Fabuestéreo,https://www.lyngsat.com/radiochannels/gt/Fabuestereo.html,,,False,Emisoras Unidas,Spa,gt,
+,La Tronadora,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,La Tronadora,https://www.lyngsat.com/radiochannels/gt/La-Tronadora.html,,,False,Emisoras Unidas,Spa,gt,
+,La Tronadora,,,DVB-S2,667.0,3/4,3930 V,tp 11,,,,La Tronadora,https://www.lyngsat.com/radiochannels/gt/La-Tronadora.html,,,False,Emisoras Unidas,Spa,gt,
+,Grupo ACIR,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,https://www.lyngsat.com/providers/mx/Grupo-ACIR.html,,,,,True,Grupo ACIR,,,mx
+,88.9 Noticias,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,88.9 Noticias,https://www.lyngsat.com/radiochannels/mx/889-Noticias.html,,,False,Grupo ACIR,Spa,mx,
+,La Comadre,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,La Comadre,https://www.lyngsat.com/radiochannels/mx/La-Comadre.html,,,False,Grupo ACIR,Spa,mx,
+,Match,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,Match,https://www.lyngsat.com/radiochannels/mx/Match.html,,,False,Grupo ACIR,Spa,mx,
+,Match,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,Match,https://www.lyngsat.com/radiochannels/mx/Match.html,,,False,Grupo ACIR,Spa,mx,
+,106.5 Mix FM,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,106.5 Mix FM,https://www.lyngsat.com/radiochannels/mx/1065-Mix-FM.html,,,False,Grupo ACIR,Spa,mx,
+,Amor,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,Amor,https://www.lyngsat.com/radiochannels/mx/Amor.html,,,False,Grupo ACIR,Spa,mx,
+,Amor,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,Amor,https://www.lyngsat.com/radiochannels/mx/Amor.html,,,False,Grupo ACIR,Spa,mx,
+,Radio Felicidad,,,DVB-S2,667.0,3/4,3938 V,tp 11,,,,Radio Felicidad,https://www.lyngsat.com/radiochannels/mx/Radio-Felicidad.html,,,False,Grupo ACIR,Spa,mx,
+,Cable Color,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,https://www.lyngsat.com/providers/hn/Cable-Color.html,,,,,True,Cable Color,,,hn
+,Vea Canal,MPEG-4/SD,911.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Vea Canal,https://www.lyngsat.com/tvchannels/gt/Vea-Canal.html,,,False,Cable Color,Spa,gt,
+,Vea Canal,MPEG-4/SD,911.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Vea Canal,https://www.lyngsat.com/tvchannels/gt/Vea-Canal.html,,,False,Cable Color,Spa,gt,
+1.0,DTV (Honduras),MPEG-4/SD,4098.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,DTV (Honduras),https://www.lyngsat.com/tvchannels/hn/DTV.html,,,False,Cable Color,Spa,hn,
+2.0,Q'hubo TV,MPEG-4/SD,4100.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Q'hubo TV,https://www.lyngsat.com/tvchannels/hn/Qhubo-TV.html,,,False,Cable Color,Spa,hn,
+2.0,Q'hubo TV,MPEG-4/SD,4100.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Q'hubo TV,https://www.lyngsat.com/tvchannels/hn/Qhubo-TV.html,,,False,Cable Color,Spa,hn,
+6.0,HCH,MPEG-4/SD,611.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,HCH,https://www.lyngsat.com/tvchannels/hn/HCH.html,,,False,Cable Color,Spa,hn,
+6.0,HCH,MPEG-4/SD,611.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,HCH,https://www.lyngsat.com/tvchannels/hn/HCH.html,,,False,Cable Color,Spa,hn,
+9.0,Canal 11 (Honduras),MPEG-4/SD,4134.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Canal 11 (Honduras),https://www.lyngsat.com/tvchannels/hn/Canal-11.html,,,False,Cable Color,Spa,hn,
+9.0,Canal 11 (Honduras),MPEG-4/SD,4134.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Canal 11 (Honduras),https://www.lyngsat.com/tvchannels/hn/Canal-11.html,,,False,Cable Color,Spa,hn,
+14.0,CCI Channel,MPEG-4/SD,711.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,CCI Channel,https://www.lyngsat.com/tvchannels/hn/CCI-Channel.html,,,False,Cable Color,Spa,hn,
+15.0,JBN TV,MPEG-4/SD,4128.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,JBN TV,https://www.lyngsat.com/tvchannels/hn/JBN-TV.html,,,False,Cable Color,Spa,hn,
+15.0,JBN TV,MPEG-4/SD,4128.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,JBN TV,https://www.lyngsat.com/tvchannels/hn/JBN-TV.html,,,False,Cable Color,Spa,hn,
+16.0,RTV (Honduras),MPEG-4/SD,130.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,RTV (Honduras),https://www.lyngsat.com/tvchannels/hn/RTV.html,,,False,Cable Color,Spa,hn,
+17.0,Une TV,MPEG-4/SD,4132.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Une TV,https://www.lyngsat.com/tvchannels/hn/Une-TV.html,,,False,Cable Color,Spa,hn,
+17.0,Une TV,MPEG-4/SD,4132.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Une TV,https://www.lyngsat.com/tvchannels/hn/Une-TV.html,,,False,Cable Color,Spa,hn,
+19.0,Nuevo Mundo TV,MPEG-4/SD,4136.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Nuevo Mundo TV,https://www.lyngsat.com/tvchannels/gt/Nuevo-Mundo-TV.html,,,False,Cable Color,Spa,gt,
+19.0,Nuevo Mundo TV,MPEG-4/SD,4136.0,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,Nuevo Mundo TV,https://www.lyngsat.com/tvchannels/gt/Nuevo-Mundo-TV.html,,,False,Cable Color,Spa,gt,
+10.0,HCH Radio,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,HCH Radio,https://www.lyngsat.com/radiochannels/hn/HCH-Radio.html,,,False,Cable Color,Spa,hn,
+10.0,HCH Radio,,,DVB-S2,8333.0,5/6,3947 V,tp 13,,,,HCH Radio,https://www.lyngsat.com/radiochannels/hn/HCH-Radio.html,,,False,Cable Color,Spa,hn,
+,Az TV de Paga,,,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,https://www.lyngsat.com/providers/mx/Az-TV-de-Paga.html,,,,,True,Az TV de Paga,,,mx
+1.0,Az Mundo,MPEG-4/SD,49.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Az Mundo,https://www.lyngsat.com/tvchannels/mx/Az-Mundo.html,,,False,Az TV de Paga,Spa,mx,
+2.0,Az Corazón,MPEG-4/SD,65.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Az Corazón,https://www.lyngsat.com/tvchannels/mx/Az-Corazon.html,,,False,Az TV de Paga,Spa,mx,
+3.0,Az Clic,MPEG-4/SD,81.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Az Clic,https://www.lyngsat.com/tvchannels/mx/Az-Clic.html,,,False,Az TV de Paga,Spa,mx,
+4.0,Az Cinema,MPEG-4/SD,97.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Az Cinema,https://www.lyngsat.com/tvchannels/mx/Az-Cinema.html,,,False,Az TV de Paga,Spa,mx,
+5.0,Azteca Uno +1,MPEG-4/SD,113.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Azteca Uno +1,https://www.lyngsat.com/tvchannels/mx/Azteca-Uno--1.html,,,False,Az TV de Paga,Spa,mx,
+6.0,Azteca Uno +2,MPEG-4/SD,129.0,DVB-S2,15145.0,3/5,3948 H,tp 12,,HRT,,Azteca Uno +2,https://www.lyngsat.com/tvchannels/mx/Azteca-Uno--2.html,,,False,Az TV de Paga,Spa,mx,
+,Inti TV,MPEG-4/HD,2702.0,DVB-S2,4800.0,3/4,3960 V,tp 13,,,,Inti TV,https://www.lyngsat.com/tvchannels/ec/Inti-TV.html,,,False,Az TV de Paga,Spa,ec,
+202.0,Inti TV,MPEG-4/HD,3520.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Inti TV,https://www.lyngsat.com/tvchannels/ec/Inti-TV.html,,,False,Az TV de Paga,Spa,ec,
+,TeleProgreso,MPEG-4/SD,258.0,DVB-S,1666.0,3/4,3963 V,tp 13,,,,,,,,False,Az TV de Paga,Spa,,
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,3963 H,tp 14,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+,Panamericana TV,,,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Panamericana TV,MPEG-4/HD,33.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+2.0,Panamericana TV,MPEG-4/1seg,273.0,DVB-S2,2400.0,3/4,4164 H,tp 24,,,https://www.lyngsat.com/providers/pe/Panamericana-TV.html,Panamericana TV,https://www.lyngsat.com/tvchannels/pe/Panamericana-TV.html,,,True,Panamericana TV,Spa,pe,pe
+1.0,Oromar TV,?-?MPEG-4/SD,101.0,DVB-S2,1480.0,3/4,3966 H,tp 14,,,,,,,,False,Panamericana TV,Spa,,
+,Ecuavisa,,,DVB-S2,7500.0,3/4,3968 V,tp 13,,,https://www.lyngsat.com/providers/ec/Ecuavisa.html,Ecuavisa,https://www.lyngsat.com/tvchannels/ec/Ecuavisa.html,,,True,Ecuavisa,,ec,ec
+1.0,Ecuavisa,MPEG-4/HD,529.0,DVB-S2,7500.0,3/4,3968 V,tp 13,,,https://www.lyngsat.com/providers/ec/Ecuavisa.html,Ecuavisa,https://www.lyngsat.com/tvchannels/ec/Ecuavisa.html,,,True,Ecuavisa,Spa,ec,ec
+2.0,Ecuavisa Internacional,MPEG-4/SD,528.0,DVB-S2,7500.0,3/4,3968 V,tp 13,,,,Ecuavisa Internacional,https://www.lyngsat.com/tvchannels/ec/Ecuavisa-Internacional.html,,,False,Ecuavisa,Spa,ec,
+2.0,Ecuavisa Internacional,MPEG-4/SD,528.0,DVB-S2,7500.0,3/4,3968 V,tp 13,,,,Ecuavisa Internacional,https://www.lyngsat.com/tvchannels/ec/Ecuavisa-Internacional.html,,,False,Ecuavisa,Spa,ec,
+207.0,Ecuavisa Internacional,MPEG-4/SD,3570.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Ecuavisa Internacional,https://www.lyngsat.com/tvchannels/ec/Ecuavisa-Internacional.html,,,False,Ecuavisa,Spa,ec,
+207.0,Ecuavisa Internacional,MPEG-4/SD,3570.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Ecuavisa Internacional,https://www.lyngsat.com/tvchannels/ec/Ecuavisa-Internacional.html,,,False,Ecuavisa,Spa,ec,
+1.0,Guatevisión,?-?MPEG-4/HD,768.0,DVB-S2,2916.0,3/4,3973 H,tp 14,,,,,,,,False,Ecuavisa,Spa,,
+,La Red,,,DVB-S2,2916.0,3/4,3973 H,tp 14,,,,La Red,https://www.lyngsat.com/radiochannels/gt/La-Red.html,,,False,Ecuavisa,Spa,gt,
+,La Red,,,DVB-S2,2916.0,3/4,3973 H,tp 14,,,,La Red,https://www.lyngsat.com/radiochannels/gt/La-Red.html,,,False,Ecuavisa,Spa,gt,
+1.0,RTG,?-?MPEG-4/HD,4194.0,DVB-S2,2666.0,3/4,3976 V,tp 13,,,,,,,,False,Ecuavisa,Spa,,
+,RTG Radio,,,DVB-S2,2666.0,3/4,3976 V,tp 13,,,,RTG Radio,https://www.lyngsat.com/radiochannels/mx/RTG-Radio.html,,,False,Ecuavisa,,mx,
+,Gamavisión,MPEG-4/SD,308.0,DVB-S2,1666.0,3/4,3977 H,tp 14,,,,,,,,False,Ecuavisa,Spa,,
+,W Radio,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,W Radio,https://www.lyngsat.com/radiochannels/mx/W-Radio.html,,,False,Ecuavisa,Spa,mx,
+,W Radio,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,W Radio,https://www.lyngsat.com/radiochannels/mx/W-Radio.html,,,False,Ecuavisa,Spa,mx,
+,W Deportes,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,W Deportes,https://www.lyngsat.com/radiochannels/mx/W-Deportes.html,,,False,Ecuavisa,Spa,mx,
+,W Deportes,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,W Deportes,https://www.lyngsat.com/radiochannels/mx/W-Deportes.html,,,False,Ecuavisa,Spa,mx,
+,Los 40 México,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,Los 40 México,https://www.lyngsat.com/radiochannels/es/Los-40-Mexico.html,,,False,Ecuavisa,Spa,es,
+,Los 40 México,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,Los 40 México,https://www.lyngsat.com/radiochannels/es/Los-40-Mexico.html,,,False,Ecuavisa,Spa,es,
+,La Ke Buena,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,832.0,5/6,3980 H,tp 14,,,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,La Ke Buena,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Ke Buena,https://www.lyngsat.com/radiochannels/mx/La-Ke-Buena.html,,,False,Ecuavisa,Spa,mx,
+,Televisa,,,DVB-S2,7500.0,2/3,3985 V,tp 15,,BISS,https://www.lyngsat.com/providers/mx/Televisa.html,,,,,True,Televisa,,,mx
+1.0,Las Estrellas México,MPEG-4/HD,101.0,DVB-S2,7500.0,2/3,3985 V,tp 15,,BISS,,Las Estrellas México,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico.html,,,False,Televisa,Spa,mx,
+1.0,Las Estrellas México,MPEG-4/HD,101.0,DVB-S2,7500.0,2/3,3985 V,tp 15,,BISS,,Las Estrellas México,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico.html,,,False,Televisa,Spa,mx,
+8.0,Las Estrellas México,MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Las Estrellas México,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico.html,,,False,Televisa,Spa,mx,
+8.0,Las Estrellas México,MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Las Estrellas México,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico.html,,,False,Televisa,Spa,mx,
+2.0,Canal 5 (Mexico City),MPEG-4/HD,201.0,DVB-S2,7500.0,2/3,3985 V,tp 15,,BISS,,Canal 5 (Mexico City),https://www.lyngsat.com/tvchannels/mx/Canal-5.html,,,False,Televisa,Spa,mx,
+2.0,Canal 5 (Mexico City),MPEG-4/HD,201.0,DVB-S2,7500.0,2/3,3985 V,tp 15,,BISS,,Canal 5 (Mexico City),https://www.lyngsat.com/tvchannels/mx/Canal-5.html,,,False,Televisa,Spa,mx,
+4.0,Canal 5 (Mexico City),MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Canal 5 (Mexico City),https://www.lyngsat.com/tvchannels/mx/Canal-5.html,,,False,Televisa,Spa,mx,
+4.0,Canal 5 (Mexico City),MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Canal 5 (Mexico City),https://www.lyngsat.com/tvchannels/mx/Canal-5.html,,,False,Televisa,Spa,mx,
+,Telemax (Mexico),MPEG-2/HD,49.0,DVB-S2,4050.0,5/6,3996 V,tp 15,,,,,,,,False,Televisa,Spa,,
+,Radio Sonora,,,DVB-S2,4050.0,5/6,3996 V,tp 15,,,,Radio Sonora,https://www.lyngsat.com/radiochannels/mx/Radio-Sonora.html,,,False,Televisa,Spa,mx,
+,Radio Sonora,,,DVB-S2,4050.0,5/6,3996 V,tp 15,,,,Radio Sonora,https://www.lyngsat.com/radiochannels/mx/Radio-Sonora.html,,,False,Televisa,Spa,mx,
+1.0,CineClick,MPEG-4/HD,53.0,DVB-S2,2250.0,3/4,4002 V,tp 15,,,,CineClick,https://www.lyngsat.com/tvchannels/us/CineClick.html,,,False,Televisa,Spa,us,
+2.0,XTime Channel,MPEG-4/HD,63.0,DVB-S2,2250.0,3/4,4002 V,tp 15,,,,XTime Channel,https://www.lyngsat.com/tvchannels/us/XTime-Channel.html,,,False,Televisa,Spa,us,
+,RTVE,,,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,https://www.lyngsat.com/providers/es/RTVE.html,,,,,True,RTVE,,,es
+10.0,TVE Internacional América,MPEG-4/HD,4400.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,RTVE,Spa,es,
+10.0,TVE Internacional América,MPEG-4/HD,4400.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,RTVE,Spa,es,
+11.0,TVE Internacional América,MPEG-2/SD,4368.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,RTVE,Spa,es,
+11.0,TVE Internacional América,MPEG-2/SD,4368.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,TVE Internacional América,https://www.lyngsat.com/tvchannels/es/TVE-Internacional-America.html,,,False,RTVE,Spa,es,
+12.0,Canal 24 Horas,MPEG-2/SD,4384.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,Canal 24 Horas,https://www.lyngsat.com/tvchannels/es/Canal-24-Horas.html,,,False,RTVE,Spa,es,
+12.0,Canal 24 Horas,MPEG-2/SD,4384.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,Canal 24 Horas,https://www.lyngsat.com/tvchannels/es/Canal-24-Horas.html,,,False,RTVE,Spa,es,
+13.0,Star HD,MPEG-4/HD,4432.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,Star HD,https://www.lyngsat.com/tvchannels/es/Star-HD.html,,,False,RTVE,Spa,es,
+14.0,Clan,MPEG-4/HD,4416.0,DVB-S2,9425.0,3/4,4013 V,tp 15,,KeyFly,,Clan,https://www.lyngsat.com/tvchannels/es/Clan.html,,,False,RTVE,Spa,es,
+201.0,RNE Radio Nacional,,,DVB-S2,9425.0,3/4,4013 V,tp 15,,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html,,,False,RTVE,Spa,es,
+201.0,RNE Radio Nacional,,,DVB-S2,9425.0,3/4,4013 V,tp 15,,,,RNE Radio Nacional,https://www.lyngsat.com/radiochannels/es/RNE-Radio-Nacional.html,,,False,RTVE,Spa,es,
+202.0,Radio Exterior,,,DVB-S2,9425.0,3/4,4013 V,tp 15,,,,Radio Exterior,https://www.lyngsat.com/radiochannels/es/Radio-Exterior.html,,,False,RTVE,Spa,es,
+1.0,Claro Sports,MPEG-4/HD,36.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,Compunicate,,Claro Sports,https://www.lyngsat.com/tvchannels/mx/Claro-Sports.html,,,False,RTVE,Spa,mx,
+2.0,Concert Channel,MPEG-4/HD,39.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,BISS,,Concert Channel,https://www.lyngsat.com/tvchannels/us/Concert-Channel.html,,,False,RTVE,Eng,us,
+3.0,Canal Claro,MPEG-4/HD,42.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,Compunicate,,Canal Claro,https://www.lyngsat.com/tvchannels/cl/Canal-Claro.html,,,False,RTVE,Spa,cl,
+4.0,Claro Cinema,MPEG-4/HD,33.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,BISS,,Claro Cinema,https://www.lyngsat.com/tvchannels/mx/Claro-Cinema.html,,,False,RTVE,Spa,mx,
+5.0,Nuestra Vision,MPEG-4/HD,47.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,,,Nuestra Vision,https://www.lyngsat.com/tvchannels/us/Nuestra-Vision.html,,,False,RTVE,Spa,us,
+6.0,(Claro Sports feeds),,49.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,,,,,,,False,RTVE,,,
+7.0,(Claro Sports feeds),,44.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,,,,,,,False,RTVE,,,
+8.0,Claro Sports 2,MPEG-4/HD,55.0,DVB-S2,23200.0,5/6,4015 H,tp 16,,Compunicate,,Claro Sports 2,https://www.lyngsat.com/tvchannels/mx/Claro-Sports-2.html,,,False,RTVE,Spa,mx,
+,Grupo Telemicro,,,DVB-S,15200.0,5/6,4031 V,tp 17,,,https://www.lyngsat.com/providers/do/Grupo-Telemicro.html,,,,,True,Grupo Telemicro,,,do
+1.0,Telemicro 5,MPEG-2/SD,308.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Telemicro 5,https://www.lyngsat.com/tvchannels/do/Telemicro-5.html,,,False,Grupo Telemicro,Spa,do,
+1.0,Telemicro 5,MPEG-2/SD,308.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Telemicro 5,https://www.lyngsat.com/tvchannels/do/Telemicro-5.html,,,False,Grupo Telemicro,Spa,do,
+2.0,Digital 15,MPEG-2/SD,512.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Digital 15,https://www.lyngsat.com/tvchannels/do/Digital-15.html,,,False,Grupo Telemicro,Spa,do,
+2.0,Digital 15,MPEG-2/SD,512.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Digital 15,https://www.lyngsat.com/tvchannels/do/Digital-15.html,,,False,Grupo Telemicro,Spa,do,
+3.0,Telemicro Internacional,MPEG-4/HD,81.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+3.0,Telemicro Internacional,MPEG-4/HD,81.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+3.0,Telemicro Internacional,MPEG-4/HD,81.0,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+200.0,Telemicro Internacional,MPEG-4/HD,3500.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+200.0,Telemicro Internacional,MPEG-4/HD,3500.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+200.0,Telemicro Internacional,MPEG-4/HD,3500.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+206.0,Telemicro Internacional,MPEG-4/SD,3560.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+206.0,Telemicro Internacional,MPEG-4/SD,3560.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+206.0,Telemicro Internacional,MPEG-4/SD,3560.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Telemicro Internacional,https://www.lyngsat.com/tvchannels/do/Telemicro-Internacional.html,,,False,Grupo Telemicro,Spa,do,
+1.0,Independencia FM,,,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Independencia FM,https://www.lyngsat.com/radiochannels/do/Independencia-FM.html,,,False,Grupo Telemicro,Spa,do,
+1.0,Independencia FM,,,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Independencia FM,https://www.lyngsat.com/radiochannels/do/Independencia-FM.html,,,False,Grupo Telemicro,Spa,do,
+2.0,Primera FM,,,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Primera FM,https://www.lyngsat.com/radiochannels/do/Primera-FM.html,,,False,Grupo Telemicro,Spa,do,
+2.0,Primera FM,,,DVB-S,15200.0,5/6,4031 V,tp 17,,,,Primera FM,https://www.lyngsat.com/radiochannels/do/Primera-FM.html,,,False,Grupo Telemicro,Spa,do,
+,United Teleports,,,DVB-S2,13917.0,5/6,4049 V,tp 17,,,https://www.lyngsat.com/providers/us/United-Teleports.html,,,,,True,United Teleports,,,us
+9.0,Cutlery Corner Network,MPEG-4/SD,62.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Cutlery Corner Network,https://www.lyngsat.com/tvchannels/us/Cutlery-Corner-Network.html,,,False,United Teleports,Eng,us,
+9.0,Cutlery Corner Network,MPEG-4/SD,62.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Cutlery Corner Network,https://www.lyngsat.com/tvchannels/us/Cutlery-Corner-Network.html,,,False,United Teleports,Eng,us,
+24.0,Retro TV East,MPEG-4/SD,336.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Retro TV East,https://www.lyngsat.com/tvchannels/us/Retro-TV-East.html,,,False,United Teleports,Eng,us,
+24.0,Retro TV East,MPEG-4/SD,336.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Retro TV East,https://www.lyngsat.com/tvchannels/us/Retro-TV-East.html,,,False,United Teleports,Eng,us,
+101.0,DNJ TV,HEVC/HD,101.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,DNJ TV,https://www.lyngsat.com/tvchannels/pr/DNJ-TV.html,,,False,United Teleports,Spa,pr,
+101.0,DNJ TV,HEVC/HD,101.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,DNJ TV,https://www.lyngsat.com/tvchannels/pr/DNJ-TV.html,,,False,United Teleports,Spa,pr,
+103.0,WJPX-TV (San Juan),MPEG-4/SD,121.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,WJPX-TV (San Juan),https://www.lyngsat.com/tvchannels/us/WJPX-TV.html,,,False,United Teleports,Spa,us,
+104.0,GEB,MPEG-4/HD,131.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+104.0,GEB,MPEG-4/HD,131.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+104.0,GEB,MPEG-4/HD,131.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+104.0,GEB,MPEG-4/HD,131.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+2200.0,GEB,HEVC/HD,2201.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+2200.0,GEB,HEVC/HD,2201.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+2200.0,GEB,HEVC/HD,2201.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+2200.0,GEB,HEVC/HD,2201.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,GEB,https://www.lyngsat.com/tvchannels/us/GEB.html,,,False,United Teleports,Eng,us,
+105.0,WSPF-CD (St. Petersburg),MPEG-4/HD,141.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,WSPF-CD (St. Petersburg),https://www.lyngsat.com/tvchannels/us/WSPF-CD.html,,,False,United Teleports,Spa,us,
+106.0,Revival TV (USA),HEVC/HD,151.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+106.0,Revival TV (USA),HEVC/HD,151.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+106.0,Revival TV (USA),HEVC/HD,151.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+106.0,Revival TV (USA),HEVC/HD,151.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+2120.0,Revival TV (USA),HEVC/HD,2121.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+2120.0,Revival TV (USA),HEVC/HD,2121.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+2120.0,Revival TV (USA),HEVC/HD,2121.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+2120.0,Revival TV (USA),HEVC/HD,2121.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Revival TV (USA),https://www.lyngsat.com/tvchannels/us/Revival-TV.html,,,False,United Teleports,Eng,us,
+107.0,America's Auction Channel,MPEG-4/SD,161.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,America's Auction Channel,https://www.lyngsat.com/tvchannels/us/Americas-Auction-Channel.html,,,False,United Teleports,Eng,us,
+107.0,America's Auction Channel,MPEG-4/SD,161.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,America's Auction Channel,https://www.lyngsat.com/tvchannels/us/Americas-Auction-Channel.html,,,False,United Teleports,Eng,us,
+109.0,NRB TV,MPEG-4/HD,201.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+109.0,NRB TV,MPEG-4/HD,201.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+109.0,NRB TV,MPEG-4/HD,201.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+109.0,NRB TV,MPEG-4/HD,201.0,DVB-S2,13917.0,5/6,4049 V,tp 17,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+2130.0,NRB TV,HEVC/HD,2131.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+2130.0,NRB TV,HEVC/HD,2131.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+2130.0,NRB TV,HEVC/HD,2131.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+2130.0,NRB TV,HEVC/HD,2131.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,NRB TV,https://www.lyngsat.com/tvchannels/us/NRB-TV.html,,,False,United Teleports,Eng,us,
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+,Televisa Networks,,,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,https://www.lyngsat.com/providers/mx/Televisa-Networks.html,,,,,True,Televisa Networks,,,mx
+1.0,Foro TV (Mexico),MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Foro TV (Mexico),https://www.lyngsat.com/tvchannels/mx/Foro-TV.html,,,False,Televisa Networks,Spa,mx,
+1.0,Foro TV (Mexico),MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Foro TV (Mexico),https://www.lyngsat.com/tvchannels/mx/Foro-TV.html,,,False,Televisa Networks,Spa,mx,
+2.0,Las Estrellas México +2,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Las Estrellas México +2,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico--2.html,,,False,Televisa Networks,Spa,mx,
+3.0,BitMe,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,BitMe,https://www.lyngsat.com/tvchannels/mx/BitMe.html,,,False,Televisa Networks,Spa,mx,
+5.0,Telehit Música,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Telehit Música,https://www.lyngsat.com/tvchannels/mx/Telehit-Musica.html,,,False,Televisa Networks,Spa,mx,
+6.0,Distrito Comedia,MPEG-4/HD,610.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Distrito Comedia,https://www.lyngsat.com/tvchannels/mx/Distrito-Comedia.html,,,False,Televisa Networks,Spa,mx,
+7.0,Telemundo Internacional México,MPEG-4/HD,710.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Telemundo Internacional México,https://www.lyngsat.com/tvchannels/us/Telemundo-Internacional-Mexico.html,,,False,Televisa Networks,Spa,us,
+9.0,Nu9ve,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Nu9ve,https://www.lyngsat.com/tvchannels/mx/Nu9ve.html,,,False,Televisa Networks,Spa,mx,
+10.0,Golden Edge,MPEG-4/HD,1010.0,DVB-S2,30000.0,5/6,4060 H,tp 18,,Digicipher,,Golden Edge,https://www.lyngsat.com/tvchannels/mx/Golden-Edge.html,,,False,Televisa Networks,Spa,mx,
+,Mexicanal,MPEG-4/HD,512.0,DVB-S2,3100.0,2/3,4067 V,tp 19,,BISS,,,,,,False,Televisa Networks,Spa,,
+1.0,Teleuniverso (Dominican Republic),?-?HEVC/HD,1121.0,DVB-S2,2500.0,3/4,4076 V,tp 19,,,,,,,,False,Televisa Networks,Spa,,
+,The Erotic Networks,,,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,https://www.lyngsat.com/providers/us/The-Erotic-Networks.html,,,,,True,The Erotic Networks,,,us
+4.0,Hustler TV USA,MPEG-2/SD,80.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Hustler TV USA,https://www.lyngsat.com/tvchannels/us/Hustler-TV-USA.html,,,False,The Erotic Networks,Eng,us,
+6.0,Cheap Thrills,MPEG-2/SD,272.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Cheap Thrills,https://www.lyngsat.com/tvchannels/us/Cheap-Thrills.html,,,False,The Erotic Networks,Eng,us,
+7.0,Xtsy Latin,MPEG-2/SD,336.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Xtsy Latin,https://www.lyngsat.com/tvchannels/us/Xtsy-Latin.html,,,False,The Erotic Networks,Eng,us,
+8.0,Xtsy XXX,MPEG-2/SD,400.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Xtsy XXX,https://www.lyngsat.com/tvchannels/us/Xtsy-XXX.html,,,False,The Erotic Networks,Eng,us,
+9.0,Juicy,MPEG-2/SD,592.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Juicy,https://www.lyngsat.com/tvchannels/us/Juicy.html,,,False,The Erotic Networks,Eng,us,
+11.0,Penthouse TV,MPEG-2/SD,464.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Penthouse TV,https://www.lyngsat.com/tvchannels/us/Penthouse-TV.html,,,False,The Erotic Networks,Eng,us,
+12.0,Xtsy XX.5,MPEG-2/SD,528.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Xtsy XX.5,https://www.lyngsat.com/tvchannels/us/Xtsy-XX5.html,,,False,The Erotic Networks,Eng,us,
+13.0,TEN,MPEG-2/SD,571.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,TEN,https://www.lyngsat.com/tvchannels/us/TEN.html,,,False,The Erotic Networks,Eng,us,
+16.0,Hustler HD USA,MPEG-4/HD,720.0,DVB-S2,11167.0,5/6,4085 V,tp 19,,Digicipher,,Hustler HD USA,https://www.lyngsat.com/tvchannels/us/Hustler-HD-USA.html,,,False,The Erotic Networks,Eng,us,
+,Atresmedia,,,DVB-S2,6333.0,3/4,4094 V,tp 19,,PowerVu,https://www.lyngsat.com/providers/es/Atresmedia.html,,,,,True,Atresmedia,,,es
+,Atrecine,MPEG-4/HD,4101.0,DVB-S2,6333.0,3/4,4094 V,tp 19,,PowerVu,,Atrecine,https://www.lyngsat.com/tvchannels/es/Atrecine.html,,,False,Atresmedia,Spa,es,
+,Atreseries,MPEG-4/HD,4111.0,DVB-S2,6333.0,3/4,4094 V,tp 19,,PowerVu,,Atreseries,https://www.lyngsat.com/tvchannels/es/Atreseries.html,,,False,Atresmedia,Spa,es,
+1.0,Golden Plus,MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Golden Plus,https://www.lyngsat.com/tvchannels/mx/Golden-Plus.html,,,False,Atresmedia,Spa,mx,
+2.0,Golden Premier,MPEG-4/HD,610.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Golden Premier,https://www.lyngsat.com/tvchannels/mx/Golden-Premier.html,,,False,Atresmedia,Spa,mx,
+2.0,Golden Premier,MPEG-4/HD,610.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Golden Premier,https://www.lyngsat.com/tvchannels/mx/Golden-Premier.html,,,False,Atresmedia,Spa,mx,
+25.0,Golden Premier,MPEG-4/HD,3536.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,Golden Premier,https://www.lyngsat.com/tvchannels/mx/Golden-Premier.html,,,False,Atresmedia,Spa,mx,
+25.0,Golden Premier,MPEG-4/HD,3536.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,Golden Premier,https://www.lyngsat.com/tvchannels/mx/Golden-Premier.html,,,False,Atresmedia,Spa,mx,
+3.0,Golden Premier 2,MPEG-4/HD,710.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Golden Premier 2,https://www.lyngsat.com/tvchannels/mx/Golden-Premier-2.html,,,False,Atresmedia,Spa,mx,
+4.0,Adrenalina Sports Network,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Adrenalina Sports Network,https://www.lyngsat.com/tvchannels/us/Adrenalina-Sports-Network.html,,,False,Atresmedia,Spa,us,
+5.0,De Película Plus,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,De Película Plus,https://www.lyngsat.com/tvchannels/mx/De-Pelicula-Plus.html,,,False,Atresmedia,Spa,mx,
+6.0,TeleHit,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,TeleHit,https://www.lyngsat.com/tvchannels/mx/TeleHit.html,,,False,Atresmedia,Spa,mx,
+6.0,TeleHit,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,TeleHit,https://www.lyngsat.com/tvchannels/mx/TeleHit.html,,,False,Atresmedia,Spa,mx,
+22.0,TeleHit,MPEG-4/HD,2768.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,TeleHit,https://www.lyngsat.com/tvchannels/mx/TeleHit.html,,,False,Atresmedia,Spa,mx,
+22.0,TeleHit,MPEG-4/HD,2768.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,TeleHit,https://www.lyngsat.com/tvchannels/mx/TeleHit.html,,,False,Atresmedia,Spa,mx,
+7.0,TUDN México,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,TUDN México,https://www.lyngsat.com/tvchannels/mx/TUDN-Mexico.html,,,False,Atresmedia,Spa,mx,
+8.0,Unicable,MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Unicable,https://www.lyngsat.com/tvchannels/mx/Unicable.html,,,False,Atresmedia,Spa,mx,
+9.0,Tlnovelas América,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Tlnovelas América,https://www.lyngsat.com/tvchannels/mx/Tlnovelas-America.html,,,False,Atresmedia,Spa,mx,
+10.0,Bandamax,MPEG-4/HD,1010.0,DVB-S2,30000.0,5/6,4100 H,tp 20,,Digicipher,,Bandamax,https://www.lyngsat.com/tvchannels/mx/Bandamax.html,,,False,Atresmedia,Spa,mx,
+,Thema America,,,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,https://www.lyngsat.com/providers/fr/Thema-America.html,,,,,True,Thema America,,,fr
+201.0,Once Internacional,MPEG-4/SD,3510.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Once Internacional,https://www.lyngsat.com/tvchannels/mx/Once-Internacional.html,,,False,Thema America,Spa,mx,
+203.0,AyM Sports,MPEG-4/SD,3530.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,AyM Sports,https://www.lyngsat.com/tvchannels/mx/AyM-Sports.html,,,False,Thema America,Spa,mx,
+204.0,Latin American Sports USA,MPEG-4/SD,3540.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Latin American Sports USA,https://www.lyngsat.com/tvchannels/mx/Latin-American-Sports-USA.html,,,False,Thema America,Spa,mx,
+205.0,Kanal D Drama,MPEG-4/SD,3550.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Kanal D Drama,https://www.lyngsat.com/tvchannels/tr/Kanal-D-Drama.html,,,False,Thema America,Spa,tr,
+205.0,Kanal D Drama,MPEG-4/SD,3550.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Kanal D Drama,https://www.lyngsat.com/tvchannels/tr/Kanal-D-Drama.html,,,False,Thema America,Spa,tr,
+209.0,Kanal D Drama,MPEG-4/HD,3590.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Kanal D Drama,https://www.lyngsat.com/tvchannels/tr/Kanal-D-Drama.html,,,False,Thema America,Spa,tr,
+209.0,Kanal D Drama,MPEG-4/HD,3590.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Kanal D Drama,https://www.lyngsat.com/tvchannels/tr/Kanal-D-Drama.html,,,False,Thema America,Spa,tr,
+208.0,CB TV Michoacan,MPEG-4/SD,3580.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,CB TV Michoacan,https://www.lyngsat.com/tvchannels/mx/CB-TV-Michoacan.html,,,False,Thema America,Spa,mx,
+210.0,Canal 22 Internacional,MPEG-4/HD,3600.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Canal 22 Internacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Internacional.html,,,False,Thema America,Spa,mx,
+213.0,Studiocanal TV,MPEG-4/HD,3630.0,DVB-S2,19665.0,5/6,4114 V,tp 21,,PowerVu,,Studiocanal TV,https://www.lyngsat.com/tvchannels/fr/Studiocanal-TV.html,,,False,Thema America,Fre,fr,
+20.0,Golden,MPEG-4/HD,2256.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,Golden,https://www.lyngsat.com/tvchannels/mx/Golden.html,,,False,Thema America,Spa,mx,
+21.0,De Película,MPEG-4/HD,2512.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,De Película,https://www.lyngsat.com/tvchannels/mx/De-Pelicula.html,,,False,Thema America,Spa,mx,
+21.0,De Película,MPEG-4/HD,2512.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,De Película,https://www.lyngsat.com/tvchannels/mx/De-Pelicula.html,,,False,Thema America,Spa,mx,
+23.0,De Película,MPEG-4/HD,3024.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,De Película,https://www.lyngsat.com/tvchannels/mx/De-Pelicula.html,,,False,Thema America,Spa,mx,
+23.0,De Película,MPEG-4/HD,3024.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,De Película,https://www.lyngsat.com/tvchannels/mx/De-Pelicula.html,,,False,Thema America,Spa,mx,
+24.0,Las Estrellas México +1,MPEG-4/HD,3300.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,Las Estrellas México +1,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico--1.html,,,False,Thema America,Spa,mx,
+26.0,(feeds),,3792.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,,,,,False,Thema America,,,
+27.0,(feeds),,4047.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,,,,,False,Thema America,,,
+28.0,(feeds),,4304.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,,,,,False,Thema America,,,
+29.0,(feeds),,4560.0,DVB-S2,30000.0,5/6,4140 H,tp 22,,Digicipher,,,,,,False,Thema America,,,
+,(feeds),,,DVB-S2,2678.0,2/3,12193 V,tp 24,,,,,,,,False,Thema America,,,
+3.0,(Fox Sports feeds),,611.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,,,,,False,Thema America,,,
+4.0,Fox Sports Premium,MPEG-4/HD,711.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,Fox Sports Premium,https://www.lyngsat.com/tvchannels/us/Fox-Sports-Premium.html,,,False,Thema America,Spa Eng,us,
+5.0,El Financiero Bloomberg,MPEG-4/HD,911.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,,,El Financiero Bloomberg,https://www.lyngsat.com/tvchannels/mx/El-Financiero-Bloomberg.html,,,False,Thema America,Spa Eng,mx,
+5.0,El Financiero Bloomberg,MPEG-4/HD,911.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,,,El Financiero Bloomberg,https://www.lyngsat.com/tvchannels/mx/El-Financiero-Bloomberg.html,,,False,Thema America,Spa Eng,mx,
+6.0,ESPN Premium Chile,MPEG-4/HD,1011.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,ESPN Premium Chile,https://www.lyngsat.com/tvchannels/us/ESPN-Premium-Chile.html,,,False,Thema America,Spa Eng,us,
+7.0,Fox Sports 2 México,MPEG-4/HD,1611.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,Fox Sports 2 México,https://www.lyngsat.com/tvchannels/us/Fox-Sports-2-Mexico.html,,,False,Thema America,Spa Eng,us,
+8.0,ESPN 6 América Latina,MPEG-4/HD,1311.0,DVB-S2,30000.0,5/6,4160 V,tp 23,,PowerVu,,ESPN 6 América Latina,https://www.lyngsat.com/tvchannels/us/ESPN-6-America-Latina.html,,,False,Thema America,Spa Eng,us,
+,Multimedios,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,https://www.lyngsat.com/providers/mx/Multimedios.html,,,,,True,Multimedios,,,mx
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/SD,211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Milenio TV,MPEG-4/HD,511.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Milenio TV,https://www.lyngsat.com/tvchannels/mx/Milenio-TV.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/SD,311.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/SD,311.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/SD,311.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/SD,311.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/HD,711.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/HD,711.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/HD,711.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Teleritmo,MPEG-4/HD,711.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Teleritmo,https://www.lyngsat.com/tvchannels/mx/Teleritmo.html,,,False,Multimedios,Spa,mx,
+,Canal 6 USA,MPEG-4/HD,411.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 USA,https://www.lyngsat.com/tvchannels/mx/Canal-6-USA.html,,,False,Multimedios,Spa,mx,
+,CV Shopping,MPEG-4/SD,611.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,,,CV Shopping,https://www.lyngsat.com/tvchannels/mx/CV-Shopping.html,,,False,Multimedios,Spa,mx,
+,Canal 6 Saltillo,MPEG-4/SD,811.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 Saltillo,https://www.lyngsat.com/tvchannels/mx/Canal-6-Saltillo.html,,,False,Multimedios,Spa,mx,
+,Canal 6 Saltillo,MPEG-4/SD,811.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 Saltillo,https://www.lyngsat.com/tvchannels/mx/Canal-6-Saltillo.html,,,False,Multimedios,Spa,mx,
+,Canal 6 CDMX,MPEG-4/HD,911.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,,,Canal 6 CDMX,https://www.lyngsat.com/tvchannels/mx/Canal-6-CDMX.html,,,False,Multimedios,Spa,mx,
+,Canal 6 CDMX,MPEG-4/HD,911.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,,,Canal 6 CDMX,https://www.lyngsat.com/tvchannels/mx/Canal-6-CDMX.html,,,False,Multimedios,Spa,mx,
+,Canal 8 Costa Rica,MPEG-4/SD,1011.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 8 Costa Rica,https://www.lyngsat.com/tvchannels/mx/Canal-8-Costa-Rica.html,,,False,Multimedios,Spa,mx,
+,Canal 8 Costa Rica,MPEG-4/SD,1011.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 8 Costa Rica,https://www.lyngsat.com/tvchannels/mx/Canal-8-Costa-Rica.html,,,False,Multimedios,Spa,mx,
+,Canal 6 +,MPEG-4/HD,1111.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 +,https://www.lyngsat.com/tvchannels/mx/Canal-6--.html,,,False,Multimedios,Spa,mx,
+,Canal 6 Monterrey,MPEG-4/HD,1211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 Monterrey,https://www.lyngsat.com/tvchannels/mx/Canal-6-Monterrey.html,,,False,Multimedios,Spa,mx,
+,Canal 6 Monterrey,MPEG-4/HD,1211.0,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Canal 6 Monterrey,https://www.lyngsat.com/tvchannels/mx/Canal-6-Monterrey.html,,,False,Multimedios,Spa,mx,
+,RG La Deportiva 92.9 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,RG La Deportiva 92.9 FM,https://www.lyngsat.com/radiochannels/mx/RG-La-Deportiva-929-FM.html,,,False,Multimedios,Spa,mx,
+,RG La Deportiva 92.9 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,RG La Deportiva 92.9 FM,https://www.lyngsat.com/radiochannels/mx/RG-La-Deportiva-929-FM.html,,,False,Multimedios,Spa,mx,
+,La Lupe 88.9 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Lupe 88.9 FM,https://www.lyngsat.com/radiochannels/mx/La-Lupe-889-FM.html,,,False,Multimedios,Spa,mx,
+,La Lupe 88.9 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,La Lupe 88.9 FM,https://www.lyngsat.com/radiochannels/mx/La-Lupe-889-FM.html,,,False,Multimedios,Spa,mx,
+,Hits 106.1 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Hits 106.1 FM,https://www.lyngsat.com/radiochannels/mx/Hits-1061-FM.html,,,False,Multimedios,Spa,mx,
+,Hits 106.1 FM,,,DVB-S2,25800.0,2/3,4184 H,tp 24,,PowerVu,,Hits 106.1 FM,https://www.lyngsat.com/radiochannels/mx/Hits-1061-FM.html,,,False,Multimedios,Spa,mx,
+2140.0,God TV US,HEVC/HD,2141.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,God TV US,https://www.lyngsat.com/tvchannels/uk/God-TV-US.html,,,False,Multimedios,Eng,uk,
+2140.0,God TV US,HEVC/HD,2141.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,God TV US,https://www.lyngsat.com/tvchannels/uk/God-TV-US.html,,,False,Multimedios,Eng,uk,
+2160.0,CBN News (USA),HEVC/HD,2161.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,CBN News (USA),https://www.lyngsat.com/tvchannels/us/CBN-News.html,,,False,Multimedios,Eng,us,
+2160.0,CBN News (USA),HEVC/HD,2161.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,CBN News (USA),https://www.lyngsat.com/tvchannels/us/CBN-News.html,,,False,Multimedios,Eng,us,
+2170.0,CBN Family,HEVC/HD,2171.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,CBN Family,https://www.lyngsat.com/tvchannels/us/CBN-Family.html,,,False,Multimedios,Eng,us,
+2170.0,CBN Family,HEVC/HD,2171.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,CBN Family,https://www.lyngsat.com/tvchannels/us/CBN-Family.html,,,False,Multimedios,Eng,us,
+2180.0,Inspiration TV,HEVC/HD,2181.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Inspiration TV,https://www.lyngsat.com/tvchannels/us/Inspiration-TV.html,,,False,Multimedios,Eng,us,
+2180.0,Inspiration TV,HEVC/HD,2181.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Inspiration TV,https://www.lyngsat.com/tvchannels/us/Inspiration-TV.html,,,False,Multimedios,Eng,us,
+2230.0,Real America's Voice,HEVC/HD,2231.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Real America's Voice,https://www.lyngsat.com/tvchannels/us/Real-Americas-Voice.html,,,False,Multimedios,Eng,us,
+2230.0,Real America's Voice,HEVC/HD,2231.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Real America's Voice,https://www.lyngsat.com/tvchannels/us/Real-Americas-Voice.html,,,False,Multimedios,Eng,us,
+2240.0,Heartland East,HEVC/HD,2241.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Heartland East,https://www.lyngsat.com/tvchannels/us/Heartland-East.html,,,False,Multimedios,Eng,us,
+2240.0,Heartland East,HEVC/HD,2241.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Heartland East,https://www.lyngsat.com/tvchannels/us/Heartland-East.html,,,False,Multimedios,Eng,us,
+2260.0,One America News Network,HEVC/HD,2261.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,,,False,Multimedios,Eng,us,
+2270.0,AWE,HEVC/HD,2271.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,AWE,https://www.lyngsat.com/tvchannels/us/AWE.html,,,False,Multimedios,Eng,us,
+2280.0,The Word Network,HEVC/SD,2281.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,The Word Network,https://www.lyngsat.com/tvchannels/us/The-Word-Network.html,,,False,Multimedios,Eng,us,
+2290.0,Jewelry TV,HEVC/HD,2291.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,,,False,Multimedios,Eng,us,
+2290.0,Jewelry TV,HEVC/HD,2291.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,,,False,Multimedios,Eng,us,
+2320.0,Radiant TV,HEVC/HD,2321.0,DVB-S2,30000.0,2/3,11940 V,tp 12,,,,Radiant TV,https://www.lyngsat.com/tvchannels/us/Radiant-TV.html,,,False,Multimedios,Eng,us,
+1.0,TV Cosmos 15.1,?-?MPEG-4/HD,258.0,DVB-S2,1481.0,3/4,12017 H,tp 39,,,,,,,,False,Multimedios,Spa,,
+50427.0,Tigo promo,MPEG-4/SD,3078.0,DVB-S2,1481.0,3/4,12060 V,tp 18,0.0,,,,,,,False,Multimedios,Spa,,
+1.0,Hope Channel Inter-America,MPEG-4/SD,3601.0,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Hope Channel Inter-America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America.html,,,False,Multimedios,Spa,us,
+1.0,Hope Channel Inter-America,MPEG-4/SD,3601.0,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Hope Channel Inter-America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America.html,,,False,Multimedios,Spa,us,
+2.0,Hope Channel Inter-America English,MPEG-4/SD,3602.0,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Hope Channel Inter-America English,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America-English.html,,,False,Multimedios,Eng,us,
+2.0,Hope Channel Inter-America English,MPEG-4/SD,3602.0,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Hope Channel Inter-America English,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Inter-America-English.html,,,False,Multimedios,Eng,us,
+17.0,Radio Nuevo Tiempo,,,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Radio Nuevo Tiempo,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo.html,,,False,Multimedios,Spa,us,
+17.0,Radio Nuevo Tiempo,,,DVB-S2,3330.0,2/3,12123 V,tp 22,0.0,,,Radio Nuevo Tiempo,https://www.lyngsat.com/radiochannels/us/Radio-Nuevo-Tiempo.html,,,False,Multimedios,Spa,us,
+1.0,BVN Amerika,1-1MPEG-4/SD,2001.0,DVB-S2,3600.0,1/2,12147 H,tp 23,0.0,,,,,,,False,Multimedios,Dut,,
+401.0,BYU TV,1-4MPEG-4/HD,5120.0,DVB-S2,2678.0,2/3,12151 H,tp 23,0.0,,,,,,,False,Multimedios,Eng,,
+,,,,,,,,,,,,DVB-S28PSK52003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK52003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK52003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK52003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S36003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S36003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S40003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S40003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40903/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40903/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40903/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40903/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40903/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK30803/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S22423/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK16603/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK16603/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK35003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK35003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK28005/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK20823/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK16672/3,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK44403/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK44403/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK25003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK25003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK25003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK25003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK28755/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK41673/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK32555/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK33303/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S25405/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S25405/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S16673/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S16673/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK24153/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK24153/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK20804/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S22007/8,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S22007/8,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK16003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK16003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK25004/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK25004/5,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK48003/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S16663/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S16663/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK14803/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK14803/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK29163/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK26663/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK16663/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40505/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK40505/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK31002/3,BISS,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK37305/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK37305/6,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S214813/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S214813/4,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S2QPSK36001/2,,,,False,Multimedios,,,
+,,,,,,,,,,,,DVB-S28PSK26782/3,,,,False,Multimedios,,,

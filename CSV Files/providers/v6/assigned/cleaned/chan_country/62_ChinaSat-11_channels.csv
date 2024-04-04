@@ -1,0 +1,8 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+17042.0,Al Quran,HEVC/SD,806.0,DVB-S2,34284,3/4,3975 H,,,,,Al Quran,https://www.lyngsat.com/tvchannels/mv/Al-Quran.html,,,False,,,mv
+17093.0,SSTV,HEVC,634.0,DVB-S2,34284,3/4,3975 H,,,,,SSTV,https://www.lyngsat.com/tvchannels/mv/SSTV.html,,,False,,,mv
+17093.0,SSTV,HEVC,634.0,DVB-S2,34284,3/4,3975 H,,,,,SSTV,https://www.lyngsat.com/tvchannels/mv/SSTV.html,,,False,,,mv
+17014.0,VFM 99,,,DVB-S2,34284,3/4,3975 V,,,,,VFM 99,https://www.lyngsat.com/radiochannels/mv/VFM-99.html,,,False,,,mv
+,(feeds),,,DVB-S,1600,7/8,11596 V,,,,,,,,,False,,,
+,(feeds),,,DVB-S,1600,7/8,11600 V,,,,,,,,,False,,,
+,(feeds),,,DVB-S2,2400,5/6,11658 V,,,,,,,,,False,,,

@@ -1,0 +1,84 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,(feeds),,,DVB-S2,7200,3/4,3688 L,tp EA2,,,,,,False,,,
+,(feeds),,,DVB-S2,7120,3/4,3693 R,tp EA1,,,,,,False,,,
+,(feeds),,,DVB-S2,3700,3/4,3694 L,tp EA2,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3746 R,tp EA3,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3750 L,tp EA4,,,,,,False,,,
+,(feeds),,,DVB-S2,7500,5/6,3758 R,tp EA3,,,,,,False,,,
+,(feeds),,,DVB-S2,7120,3/4,3767 R,tp EA3,,,,,,False,,,
+,(feeds),,,DVB-S2,7120,3/4,3776 R,tp EA3,,,,,,False,,,
+,(feeds),,,DVB-S2,3750,2/3,3777 L,tp EA4,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,3788 L,tp EA4,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3790 R,tp EA5,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3799 R,tp EA5,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3808 L,tp EA4,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3808 R,tp EA5,,,,,,False,,,
+,(feeds),,,DVB-S2,7120,2/3,3817 L,tp EA4,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3817 R,tp EA5,,,,,,False,,,
+,(feeds),,,DVB-S2,7500,3/4,3830 L,tp EA6,,,,,,False,,,
+,(feeds),,,DVB-S2,7500,5/6,3839 L,tp EA8,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3847 L,tp EA8,,,,,,False,,,
+,(feeds),,,DVB-S2,6666,2/3,3848 R,tp EA7,,,,,,False,,,
+,(feeds),,,DVB-S2,9875,3/4,3856 L,tp EA8,,,,,,False,,,
+,(feeds),,,DVB-S2,6666,2/3,3857 R,tp EA7,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3868 R,tp EA9,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,2/3,3869 L,tp EA10,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,2/3,3878 L,tp EA10,,,,,,False,,,
+,(feeds),,,DVB-S2,4937,3/4,3886 R,tp EA9,,,,,,False,,,
+,(feeds),,,DVB-S2,4937,3/4,3892 R,tp EA9,,,,,,False,,,
+,(feeds),,,DVB-S2,4937,3/4,3898 R,tp EA9,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3908 L,tp EA12,,,,,,False,,,
+,(feeds),,,DVB-S2,4800,3/4,3909 R,tp EA11,,,,,,False,,,
+,(feeds),,,DVB-S2,7500,5/6,3911 L,tp EA12,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3917 R,tp EA11,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3927 R,tp EA11,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,3936 L,tp EA12,,,,,,False,,,
+,(feeds),,,DVB-S2,5000,3/4,4025 R,tp EA13,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4122 L,tp EA20,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4126 R,tp EA19,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4130 L,tp EA20,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4135 R,tp EA19,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4140 L,tp EA20,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,5/6,4158 L,tp EA20,,,,,,False,,,
+,(feeds),,,DVB-S2,9874,3/4,4160 R,tp EA19,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4167 L,tp EA20,,,,,,False,,,
+,(feeds),,,DVB-S2,7200,3/4,4176 L,tp EA20,,,,,,False,,,
+,Sersat,1-1,,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,"Irdeto,Verimatrix",https://www.lyngsat.com/providers/ar/Sersat.html,,,True,Sersat,,
+1.0,Garage TV,MPEG-4/HD,1160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,Irdeto,,Garage TV,https://www.lyngsat.com/tvchannels/ar/Garage-TV.html,False,Sersat,Spa,ar
+1.0,Garage TV,MPEG-4/HD,1160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,Irdeto,,Garage TV,https://www.lyngsat.com/tvchannels/ar/Garage-TV.html,False,Sersat,Spa,ar
+2.0,Chacra TV,MPEG-4/HD,2160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,,,Chacra TV,https://www.lyngsat.com/tvchannels/ar/Chacra-TV.html,False,Sersat,Spa,ar
+2.0,Chacra TV,MPEG-4/HD,2160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,,,Chacra TV,https://www.lyngsat.com/tvchannels/ar/Chacra-TV.html,False,Sersat,Spa,ar
+3.0,Argentinísima Satelital,MPEG-4/HD,3160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,,,Argentinísima Satelital,https://www.lyngsat.com/tvchannels/ar/Argentinisima-Satelital.html,False,Sersat,Spa,ar
+3.0,Argentinísima Satelital,MPEG-4/HD,3160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,,,Argentinísima Satelital,https://www.lyngsat.com/tvchannels/ar/Argentinisima-Satelital.html,False,Sersat,Spa,ar
+5.0,Canal 26,MPEG-4/HD,5160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,Verimatrix,,Canal 26,https://www.lyngsat.com/tvchannels/ar/Canal-26.html,False,Sersat,Spa,ar
+5.0,Canal 26,MPEG-4/HD,5160.0,DVB-S2,15000,2/3,3834 R,tp EA7,36-38,Verimatrix,,Canal 26,https://www.lyngsat.com/tvchannels/ar/Canal-26.html,False,Sersat,Spa,ar
+,,,,DVB-S2,4937,3/4,3898 L,tp EA10,36-38,,,,,False,Sersat,,
+,,,,DVB-S2,7200,3/4,3965 R,tp EA13,36-38,,,,,False,Sersat,,
+,Paramount Networks Americas,5-301,,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Networks-Americas.html,,,True,Paramount Networks Americas,,
+611.0,Comedy Central Latinoamérica Sur,MPEG-4/HD,110.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Comedy Central Latinoamérica Sur,https://www.lyngsat.com/tvchannels/us/Comedy-Central-Latinoamerica-Sur.html,False,Paramount Networks Americas,Spa Eng,us
+621.0,Nickelodeon Brasil,MPEG-4/HD,210.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nickelodeon Brasil,https://www.lyngsat.com/tvchannels/us/Nickelodeon-Brasil.html,False,Paramount Networks Americas,Por Eng,us
+631.0,Nickelodeon Centro,MPEG-4/HD,310.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nickelodeon Centro,https://www.lyngsat.com/tvchannels/us/Nickelodeon-Centro.html,False,Paramount Networks Americas,Spa Eng,us
+641.0,MTV Latino Norte,MPEG-4/HD,410.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,MTV Latino Norte,https://www.lyngsat.com/tvchannels/us/MTV-Latino-Norte.html,False,Paramount Networks Americas,Spa Eng,us
+651.0,Paramount Network Brasil,MPEG-4/HD,510.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Paramount Network Brasil,https://www.lyngsat.com/tvchannels/us/Paramount-Network-Brasil.html,False,Paramount Networks Americas,Por Eng,us
+661.0,MTV Latino Sud,MPEG-4/HD,610.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,MTV Latino Sud,https://www.lyngsat.com/tvchannels/us/MTV-Latino-Sud.html,False,Paramount Networks Americas,Spa Eng,us
+671.0,Nickelodeon Norte,MPEG-4/HD,710.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nickelodeon Norte,https://www.lyngsat.com/tvchannels/us/Nickelodeon-Norte.html,False,Paramount Networks Americas,Spa Eng,us
+681.0,Nick Jr Latin America,MPEG-4/HD,810.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nick Jr Latin America,https://www.lyngsat.com/tvchannels/us/Nick-Jr-Latin-America.html,False,Paramount Networks Americas,Spa Eng,us
+711.0,Nick Jr Brasil,MPEG-4/HD,910.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nick Jr Brasil,https://www.lyngsat.com/tvchannels/us/Nick-Jr-Brasil.html,False,Paramount Networks Americas,Por Eng,us
+721.0,Nickelodeon Sur,MPEG-4/HD,1010.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Nickelodeon Sur,https://www.lyngsat.com/tvchannels/us/Nickelodeon-Sur.html,False,Paramount Networks Americas,Spa Eng,us
+731.0,Comedy Central Brasil,MPEG-4/HD,1110.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,Comedy Central Brasil,https://www.lyngsat.com/tvchannels/us/Comedy-Central-Brasil.html,False,Paramount Networks Americas,Por Eng,us
+741.0,MTV Brasil,MPEG-4/HD,1210.0,DVB-S2,30000,5/6,4055 R,tp EA15,36-38,PowerVu,,MTV Brasil,https://www.lyngsat.com/tvchannels/us/MTV-Brasil.html,False,Paramount Networks Americas,Por Eng,us
+,SES,1-6,,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,https://www.lyngsat.com/providers/lu/SES.html,,,True,SES,,
+7002.0,Rai Italia Sud America,MPEG-4/HD,712.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,Irdeto,,Rai Italia Sud America,https://www.lyngsat.com/tvchannels/it/Rai-Italia-Sud-America.html,False,SES,Ita Ita,it
+7015.0,CNN Brasil,MPEG-4/HD,2015.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,Viaccess,,CNN Brasil,https://www.lyngsat.com/tvchannels/us/CNN-Brasil.html,False,SES,Por,us
+7015.0,CNN Brasil,MPEG-4/HD,2015.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,Viaccess,,CNN Brasil,https://www.lyngsat.com/tvchannels/us/CNN-Brasil.html,False,SES,Por,us
+7016.0,CNN Brasil,MPEG-2/SD,36.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,Viaccess,,CNN Brasil,https://www.lyngsat.com/tvchannels/us/CNN-Brasil.html,False,SES,Por,us
+7016.0,CNN Brasil,MPEG-2/SD,36.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,Viaccess,,CNN Brasil,https://www.lyngsat.com/tvchannels/us/CNN-Brasil.html,False,SES,Por,us
+7030.0,France 24 English,MPEG-4/HD,1304.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 English,https://www.lyngsat.com/tvchannels/fr/France-24-English.html,False,SES,Eng Eng,fr
+7030.0,France 24 English,MPEG-4/HD,1304.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 English,https://www.lyngsat.com/tvchannels/fr/France-24-English.html,False,SES,Eng Eng,fr
+7031.0,France 24 Español,MPEG-4/HD,1311.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 Español,https://www.lyngsat.com/tvchannels/fr/France-24-Espanol.html,False,SES,Spa Spa,fr
+7031.0,France 24 Español,MPEG-4/HD,1311.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 Español,https://www.lyngsat.com/tvchannels/fr/France-24-Espanol.html,False,SES,Spa Spa,fr
+7032.0,France 24 Français,MPEG-2/SD,303.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,False,SES,Fre Fre,fr
+7032.0,France 24 Français,MPEG-2/SD,303.0,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,France 24 Français,https://www.lyngsat.com/tvchannels/fr/France-24-Francais.html,False,SES,Fre Fre,fr
+7035.0,RFI Latine,,,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,RFI Latine,https://www.lyngsat.com/radiochannels/fr/RFI-Latine.html,False,SES,Spa,fr
+7036.0,RFI Français,,,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,RFI Français,https://www.lyngsat.com/radiochannels/fr/RFI-Francais.html,False,SES,Fre,fr
+7037.0,RFI Langues,,,DVB-S2,30000,2/3,4095 L,tp EA18,36-38,,,RFI Langues,https://www.lyngsat.com/radiochannels/fr/RFI-Langues.html,False,SES,,fr

@@ -1,0 +1,428 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+,STV,4371-3,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-3,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-3,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-11,,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-11,,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-11,,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-3,,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-3,,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+,STV,4371-3,,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/STV.html,,,,,True,STV,
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+16.0,Mult,MPEG-2/SD,216.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+16.0,Mult,MPEG-2/SD,216.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+16.0,Mult,MPEG-2/SD,216.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+2.0,Mult,MPEG-4/HD,1001.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mult,https://www.lyngsat.com/tvchannels/ru/Mult.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+1.0,Moya Planeta,MPEG-2/SD,201.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+1.0,Moya Planeta,MPEG-2/SD,201.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+1.0,Moya Planeta,MPEG-2/SD,201.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+3.0,Moya Planeta,MPEG-4/HD,1012.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Moya Planeta,https://www.lyngsat.com/tvchannels/ru/Moya-Planeta.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+3.0,Russkiy Roman,MPEG-2/SD,203.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+3.0,Russkiy Roman,MPEG-2/SD,203.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+3.0,Russkiy Roman,MPEG-2/SD,203.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+4.0,Russkiy Roman,MPEG-4/HD,1013.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Russkiy Roman,https://www.lyngsat.com/tvchannels/ru/Russkiy-Roman.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+5.0,Telekanal FAN,MPEG-4/SD,1014.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+14.0,Telekanal FAN,MPEG-4/HD,1023.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Telekanal FAN,https://www.lyngsat.com/tvchannels/ru/Telekanal-FAN.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+7.0,Muz Soyuz,MPEG-4/SD,1006.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Muz Soyuz,https://www.lyngsat.com/tvchannels/ru/Muz-Soyuz.html,,,False,STV,Rus
+8.0,Mosfilm (+4h),MPEG-4/SD,1007.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm (+4h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+8.0,Mosfilm (+4h),MPEG-4/SD,1007.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm (+4h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+8.0,Mosfilm (+4h),MPEG-4/SD,1007.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm (+4h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+8.0,Mosfilm (+4h),MPEG-4/SD,1007.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm (+4h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+9.0,Tri Angela,MPEG-4/SD,1019.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Tri Angela,https://www.lyngsat.com/tvchannels/us/Tri-Angela.html,,,False,STV,Rus
+10.0,Mosfilm (+2h),MPEG-4/SD,1008.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm (+2h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+10.0,Mosfilm (+2h),MPEG-4/SD,1008.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm (+2h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+10.0,Mosfilm (+2h),MPEG-4/SD,1008.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm (+2h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+10.0,Mosfilm (+2h),MPEG-4/SD,1008.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm (+2h),https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+13.0,Mosfilm,MPEG-4/HD,1022.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+17.0,Mosfilm,MPEG-4/SD,1026.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,Mosfilm,https://www.lyngsat.com/tvchannels/ru/Mosfilm.html,,,False,STV,Rus
+15.0,Pes i Ko,MPEG-4/SD,1024.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Pes i Ko,https://www.lyngsat.com/tvchannels/ru/Pes-i-Ko.html,,,False,STV,Rus
+15.0,Pes i Ko,MPEG-4/SD,1024.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Pes i Ko,https://www.lyngsat.com/tvchannels/ru/Pes-i-Ko.html,,,False,STV,Rus
+15.0,Pes i Ko,MPEG-4/SD,1024.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Pes i Ko,https://www.lyngsat.com/tvchannels/ru/Pes-i-Ko.html,,,False,STV,Rus
+15.0,Pes i Ko,MPEG-4/SD,1024.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Pes i Ko,https://www.lyngsat.com/tvchannels/ru/Pes-i-Ko.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+16.0,Moskva 24,MPEG-4/SD,1025.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva 24,https://www.lyngsat.com/tvchannels/ru/Moskva-24.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+18.0,Kaleidoskop TV,MPEG-4/SD,1027.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Kaleidoskop TV,https://www.lyngsat.com/tvchannels/ru/Kaleidoskop-TV.html,,,False,STV,Rus
+19.0,Moskva Telekanal,MPEG-4/SD,1028.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva Telekanal,https://www.lyngsat.com/tvchannels/ru/Moskva-Telekanal.html,,,False,STV,Rus
+19.0,Moskva Telekanal,MPEG-4/SD,1028.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Moskva Telekanal,https://www.lyngsat.com/tvchannels/ru/Moskva-Telekanal.html,,,False,STV,Rus
+19.0,Moskva Telekanal,MPEG-4/SD,1028.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva Telekanal,https://www.lyngsat.com/tvchannels/ru/Moskva-Telekanal.html,,,False,STV,Rus
+19.0,Moskva Telekanal,MPEG-4/SD,1028.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Moskva Telekanal,https://www.lyngsat.com/tvchannels/ru/Moskva-Telekanal.html,,,False,STV,Rus
+23.0,KinoMult,MPEG-4/SD,1031.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,KinoMult,https://www.lyngsat.com/tvchannels/ru/KinoMult.html,,,False,STV,Rus
+23.0,KinoMult,MPEG-4/SD,1031.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,Irdeto,,KinoMult,https://www.lyngsat.com/tvchannels/ru/KinoMult.html,,,False,STV,Rus
+23.0,KinoMult,MPEG-4/SD,1031.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,KinoMult,https://www.lyngsat.com/tvchannels/ru/KinoMult.html,,,False,STV,Rus
+23.0,KinoMult,MPEG-4/SD,1031.0,DVB-S2,35000.0,3/4,12527 H,,0.0,Irdeto,,KinoMult,https://www.lyngsat.com/tvchannels/ru/KinoMult.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+24.0,STS International,MPEG-4/SD,1032.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+1.0,STS International,MPEG-4/SD,1001.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+1.0,STS International,MPEG-4/SD,1001.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+1.0,STS International,MPEG-4/SD,1001.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS International,https://www.lyngsat.com/tvchannels/ru/STS-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+25.0,Domashniy International,MPEG-4/SD,1033.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+5.0,Domashniy International,MPEG-4/SD,2005.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+5.0,Domashniy International,MPEG-4/SD,2005.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+5.0,Domashniy International,MPEG-4/SD,2005.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Domashniy International,https://www.lyngsat.com/tvchannels/ru/Domashniy-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+26.0,Peretz International,MPEG-4/SD,1034.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+6.0,Peretz International,MPEG-4/SD,2006.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+6.0,Peretz International,MPEG-4/SD,2006.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+6.0,Peretz International,MPEG-4/SD,2006.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Peretz International,https://www.lyngsat.com/tvchannels/ru/Peretz-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+27.0,REN TV International,MPEG-4/SD,1035.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+7.0,REN TV International,MPEG-4/SD,2007.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+7.0,REN TV International,MPEG-4/SD,2007.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+7.0,REN TV International,MPEG-4/SD,2007.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,REN TV International,https://www.lyngsat.com/tvchannels/ru/REN-TV-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+28.0,5 Kanal International,MPEG-4/SD,1036.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+8.0,5 Kanal International,MPEG-4/SD,2008.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+8.0,5 Kanal International,MPEG-4/SD,2008.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+8.0,5 Kanal International,MPEG-4/SD,2008.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,5 Kanal International,https://www.lyngsat.com/tvchannels/ru/5-Kanal-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+29.0,STS Kids International,MPEG-4/SD,1037.0,DVB-S2,35000.0,3/4,12527 H,,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+9.0,STS Kids International,MPEG-4/SD,2009.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+9.0,STS Kids International,MPEG-4/SD,2009.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+9.0,STS Kids International,MPEG-4/SD,2009.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,STS Kids International,https://www.lyngsat.com/tvchannels/ru/STS-Kids-International.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35007.0,3/4,10985 H,tp 17,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+22.0,Radio Vanya,,,DVB-S2,35000.0,3/4,12527 H,,0.0,,,Radio Vanya,https://www.lyngsat.com/radiochannels/ru/Radio-Vanya.html,,,False,STV,Rus
+,GeoTelecommunications,100-406,,DVB-S2,7500.0,5/6,11490 V,,0.0,,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,100-406,,DVB-S2,7500.0,5/6,11490 V,,0.0,,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,100-406,,DVB-S2,7500.0,5/6,11490 V,,0.0,,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,100-406,,DVB-S2,7500.0,5/6,11490 V,,0.0,,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,100-406,,DVB-S2,7500.0,5/6,11490 V,,0.0,,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-400,,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-400,,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-400,,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-400,,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-400,,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-408,,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-408,,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-408,,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-408,,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-408,,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-401,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,"BISS 1,Irdeto",https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-401,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,"BISS 1,Irdeto",https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-401,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,"BISS 1,Irdeto",https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-401,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,"BISS 1,Irdeto",https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-401,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,"BISS 1,Irdeto",https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-409,,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-409,,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-409,,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-409,,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+,GeoTelecommunications,58-409,,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,https://www.lyngsat.com/providers/ru/GeoTelecommunications.html,,,,,True,GeoTelecommunications,
+1310.0,Mir 24,MPEG-4/HD,1311.0,DVB-S2,7500.0,5/6,11490 V,,0.0,,,Mir 24,https://www.lyngsat.com/tvchannels/ru/Mir-24.html,,,False,GeoTelecommunications,Rus
+1310.0,Mir 24,MPEG-4/HD,1311.0,DVB-S2,7500.0,5/6,11490 V,,0.0,,,Mir 24,https://www.lyngsat.com/tvchannels/ru/Mir-24.html,,,False,GeoTelecommunications,Rus
+1330.0,Mir,MPEG-4/HD,1331.0,DVB-S2,7500.0,5/6,11490 V,,0.0,BISS 1,,Mir,https://www.lyngsat.com/tvchannels/ru/Mir.html,,,False,GeoTelecommunications,Rus
+1720.0,Mir +4,MPEG-4/SD,1721.0,DVB-S2,7500.0,5/6,11490 V,,0.0,BISS 1,,Mir +4,https://www.lyngsat.com/tvchannels/ru/Mir--4.html,,,False,GeoTelecommunications,Rus
+,(Mir feeds),,,DVB-S2,3800.0,3/4,11508 V,,,,,,,,,False,GeoTelecommunications,
+150.0,TBN Rossiya,MPEG-4/SD,151.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,TBN Rossiya,https://www.lyngsat.com/tvchannels/us/TBN-Rossiya.html,,,False,GeoTelecommunications,Rus
+150.0,TBN Rossiya,MPEG-4/SD,151.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,TBN Rossiya,https://www.lyngsat.com/tvchannels/us/TBN-Rossiya.html,,,False,GeoTelecommunications,Rus
+160.0,Draiv,MPEG-4/SD,161.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Draiv,https://www.lyngsat.com/tvchannels/ru/Draiv.html,,,False,GeoTelecommunications,Rus
+170.0,Evrokino,MPEG-4/SD,171.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Evrokino,https://www.lyngsat.com/tvchannels/ru/Evrokino.html,,,False,GeoTelecommunications,Rus
+180.0,Usadba,MPEG-4/SD,181.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Usadba,https://www.lyngsat.com/tvchannels/ru/Usadba.html,,,False,GeoTelecommunications,Rus
+190.0,Unikum,MPEG-4/SD,191.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Unikum,https://www.lyngsat.com/tvchannels/ru/Unikum.html,,,False,GeoTelecommunications,Rus
+200.0,Russkiy Illusion,MPEG-4/SD,201.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Russkiy Illusion,https://www.lyngsat.com/tvchannels/ru/Russkiy-Illusion.html,,,False,GeoTelecommunications,Rus
+210.0,Illusion +,MPEG-4/SD,211.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Illusion +,https://www.lyngsat.com/tvchannels/ru/Illusion--.html,,,False,GeoTelecommunications,Rus
+220.0,Okhota i Rybalka,MPEG-4/SD,221.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Okhota i Rybalka,https://www.lyngsat.com/tvchannels/ru/Okhota-i-Rybalka.html,,,False,GeoTelecommunications,Rus
+230.0,Voprosy i Otvety,MPEG-4/SD,231.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Voprosy i Otvety,https://www.lyngsat.com/tvchannels/ru/Voprosy-i-Otvety.html,,,False,GeoTelecommunications,Rus
+240.0,Retro,MPEG-4/SD,241.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Retro,https://www.lyngsat.com/tvchannels/ru/Retro.html,,,False,GeoTelecommunications,Rus
+250.0,Zdorovoe TV,MPEG-4/SD,251.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Zdorovoe TV,https://www.lyngsat.com/tvchannels/ru/Zdorovoe-TV.html,,,False,GeoTelecommunications,Rus
+260.0,Domashnie Zhivotnye,MPEG-4/SD,261.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Domashnie Zhivotnye,https://www.lyngsat.com/tvchannels/ru/Domashnie-Zhivotnye.html,,,False,GeoTelecommunications,Rus
+270.0,Psikhologiya 21,MPEG-4/SD,271.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Psikhologiya 21,https://www.lyngsat.com/tvchannels/ru/Psikhologiya-21.html,,,False,GeoTelecommunications,Rus
+280.0,Zoo Park,MPEG-4/SD,281.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Zoo Park,https://www.lyngsat.com/tvchannels/ru/Zoo-Park.html,,,False,GeoTelecommunications,Rus
+290.0,Avto 24,MPEG-4/SD,291.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Avto 24,https://www.lyngsat.com/tvchannels/ru/Avto-24.html,,,False,GeoTelecommunications,Rus
+330.0,Russkiy Illusion Mezhdunarodnaya versiya,MPEG-4/SD,331.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Russkiy Illusion Mezhdunarodnaya versiya,https://www.lyngsat.com/tvchannels/ru/Russkiy-Illusion-Mezhdunarodnaya-versiya.html,,,False,GeoTelecommunications,Rus
+340.0,Ru TV,MPEG-4/SD,341.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Ru TV,https://www.lyngsat.com/tvchannels/ru/Ru-TV.html,,,False,GeoTelecommunications,Rus
+340.0,Ru TV,MPEG-4/SD,341.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Ru TV,https://www.lyngsat.com/tvchannels/ru/Ru-TV.html,,,False,GeoTelecommunications,Rus
+350.0,Tochka TV,MPEG-4/SD,351.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Tochka TV,https://www.lyngsat.com/tvchannels/ru/Tochka-TV.html,,,False,GeoTelecommunications,Rus
+350.0,Tochka TV,MPEG-4/SD,351.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Tochka TV,https://www.lyngsat.com/tvchannels/ru/Tochka-TV.html,,,False,GeoTelecommunications,Rus
+360.0,RTG TV,MPEG-4/SD,361.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,RTG TV,https://www.lyngsat.com/tvchannels/ru/RTG-TV.html,,,False,GeoTelecommunications,Rus Eng Tur
+370.0,Tochka Otryva,MPEG-4/SD,371.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Tochka Otryva,https://www.lyngsat.com/tvchannels/ru/Tochka-Otryva.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+380.0,Telekanal 360°,MPEG-4/SD,381.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+3.0,Telekanal 360°,MPEG-4/HD,2003.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+21.0,Telekanal 360°,MPEG-4/SD,1019.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Telekanal 360°,https://www.lyngsat.com/tvchannels/ru/Telekanal-360-.html,,,False,GeoTelecommunications,Rus
+390.0,360° Novosti,MPEG-4/SD,391.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+390.0,360° Novosti,MPEG-4/SD,391.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+390.0,360° Novosti,MPEG-4/SD,391.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+390.0,360° Novosti,MPEG-4/SD,391.0,DVB-S2,22000.0,3/4,11531 V,,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+22.0,360° Novosti,MPEG-4/SD,1022.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+22.0,360° Novosti,MPEG-4/SD,1022.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+22.0,360° Novosti,MPEG-4/SD,1022.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+22.0,360° Novosti,MPEG-4/SD,1022.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,360° Novosti,https://www.lyngsat.com/tvchannels/ru/360--Novosti.html,,,False,GeoTelecommunications,Rus
+450.0,Zhivi!,MPEG-4/SD,451.0,DVB-S2,22000.0,3/4,11531 V,,0.0,Irdeto,,Zhivi!,https://www.lyngsat.com/tvchannels/ru/Zhivi.html,,,False,GeoTelecommunications,Rus
+800.0,Bober,MPEG-4/SD,801.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Bober,https://www.lyngsat.com/tvchannels/ru/Bober.html,,,False,GeoTelecommunications,Rus
+800.0,Bober,MPEG-4/SD,801.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Bober,https://www.lyngsat.com/tvchannels/ru/Bober.html,,,False,GeoTelecommunications,Rus
+810.0,Dom Kino Premium,MPEG-4/HD,811.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Dom Kino Premium,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-Premium.html,,,False,GeoTelecommunications,Rus
+810.0,Dom Kino Premium,MPEG-4/HD,811.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Dom Kino Premium,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-Premium.html,,,False,GeoTelecommunications,Rus
+880.0,Dom Kino Premium,MPEG-4/SD,881.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Dom Kino Premium,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-Premium.html,,,False,GeoTelecommunications,Rus
+880.0,Dom Kino Premium,MPEG-4/SD,881.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Dom Kino Premium,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-Premium.html,,,False,GeoTelecommunications,Rus
+860.0,Telekanal Futbol,MPEG-4/SD,861.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Telekanal Futbol,https://www.lyngsat.com/tvchannels/ru/Telekanal-Futbol.html,,,False,GeoTelecommunications,Rus
+870.0,Bolshaya Aziya,MPEG-4/SD,871.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Bolshaya Aziya,https://www.lyngsat.com/tvchannels/ru/Bolshaya-Aziya.html,,,False,GeoTelecommunications,Rus
+870.0,Bolshaya Aziya,MPEG-4/SD,871.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Bolshaya Aziya,https://www.lyngsat.com/tvchannels/ru/Bolshaya-Aziya.html,,,False,GeoTelecommunications,Rus
+890.0,Dom Kino,MPEG-4/SD,891.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Dom Kino,https://www.lyngsat.com/tvchannels/ru/Dom-Kino.html,,,False,GeoTelecommunications,Rus
+900.0,Centralnoe TV,MPEG-4/SD,901.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Centralnoe TV,https://www.lyngsat.com/tvchannels/ru/Centralnoe-TV.html,,,False,GeoTelecommunications,Rus
+910.0,Nasha Tema,MPEG-4/SD,911.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Nasha Tema,https://www.lyngsat.com/tvchannels/ru/Nasha-Tema.html,,,False,GeoTelecommunications,Rus
+920.0,Vmeste RF,MPEG-4/SD,921.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+920.0,Vmeste RF,MPEG-4/SD,921.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+920.0,Vmeste RF,MPEG-4/SD,921.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+920.0,Vmeste RF,MPEG-4/SD,921.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+1310.0,Vmeste RF,HEVC/SD,2554.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+1310.0,Vmeste RF,HEVC/SD,2554.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+1310.0,Vmeste RF,HEVC/SD,2554.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+1310.0,Vmeste RF,HEVC/SD,2554.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Vmeste RF,https://www.lyngsat.com/tvchannels/ru/Vmeste-RF.html,,,False,GeoTelecommunications,Rus
+930.0,Muzika Pervogo,MPEG-4/SD,931.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Muzika Pervogo,https://www.lyngsat.com/tvchannels/ru/Muzika-Pervogo.html,,,False,GeoTelecommunications,Rus
+940.0,Telekanal O!,MPEG-4/SD,941.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Telekanal O!,https://www.lyngsat.com/tvchannels/ru/Telekanal-O.html,,,False,GeoTelecommunications,Rus
+950.0,Pobeda,MPEG-4/SD,951.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Pobeda,https://www.lyngsat.com/tvchannels/ru/Pobeda.html,,,False,GeoTelecommunications,Rus
+960.0,Poehali!,MPEG-4/SD,961.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Poehali!,https://www.lyngsat.com/tvchannels/ru/Poehali.html,,,False,GeoTelecommunications,Rus
+970.0,Telecafé (Russia),MPEG-4/SD,971.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Telecafé (Russia),https://www.lyngsat.com/tvchannels/ru/Telecafe.html,,,False,GeoTelecommunications,Rus
+980.0,Vremya,MPEG-4/SD,981.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Vremya,https://www.lyngsat.com/tvchannels/ru/Vremya.html,,,False,GeoTelecommunications,Rus
+990.0,Lapki Live,MPEG-4/SD,991.0,DVB-S2,22000.0,3/4,11559 V,,0.0,Irdeto,,Lapki Live,https://www.lyngsat.com/tvchannels/ru/Lapki-Live.html,,,False,GeoTelecommunications,Rus
+1000.0,LDPR TV,MPEG-4/SD,1001.0,DVB-S2,22000.0,3/4,11559 V,,0.0,,,LDPR TV,https://www.lyngsat.com/tvchannels/ru/LDPR-TV.html,,,False,GeoTelecommunications,Rus
+420.0,RBK TV,MPEG-4/HD,421.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,RBK TV,https://www.lyngsat.com/tvchannels/ru/RBK-TV.html,,,False,GeoTelecommunications,Rus
+420.0,RBK TV,MPEG-4/HD,421.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,RBK TV,https://www.lyngsat.com/tvchannels/ru/RBK-TV.html,,,False,GeoTelecommunications,Rus
+440.0,Bober International,MPEG-4/SD,441.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Bober International,https://www.lyngsat.com/tvchannels/ru/Bober-International.html,,,False,GeoTelecommunications,Rus
+450.0,Dom Kino Premium International,MPEG-4/SD,451.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Dom Kino Premium International,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-Premium-International.html,,,False,GeoTelecommunications,Rus
+460.0,Dom Kino International,MPEG-4/SD,461.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Dom Kino International,https://www.lyngsat.com/tvchannels/ru/Dom-Kino-International.html,,,False,GeoTelecommunications,Rus
+470.0,Karusel International,MPEG-4/SD,471.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Karusel International,https://www.lyngsat.com/tvchannels/ru/Karusel-International.html,,,False,GeoTelecommunications,Rus
+490.0,Oruzhie,MPEG-4/SD,481.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Oruzhie,https://www.lyngsat.com/tvchannels/ru/Oruzhie.html,,,False,GeoTelecommunications,Rus
+500.0,Feniks plus Kino,MPEG-2/SD,501.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Feniks plus Kino,https://www.lyngsat.com/tvchannels/ru/Feniks-plus-Kino.html,,,False,GeoTelecommunications,Rus
+510.0,TV Centr International,MPEG-4/SD,511.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,TV Centr International,https://www.lyngsat.com/tvchannels/ru/TV-Centr-International.html,,,False,GeoTelecommunications,Rus
+520.0,Muzika Pervogo International,MPEG-4/SD,521.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Muzika Pervogo International,https://www.lyngsat.com/tvchannels/ru/Muzika-Pervogo-International.html,,,False,GeoTelecommunications,Rus
+530.0,BelRos,MPEG-2/SD,531.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,BelRos,https://www.lyngsat.com/tvchannels/ru/BelRos.html,,,False,GeoTelecommunications,Rus
+530.0,BelRos,MPEG-2/SD,531.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,BelRos,https://www.lyngsat.com/tvchannels/ru/BelRos.html,,,False,GeoTelecommunications,Rus
+540.0,U,MPEG-4/SD,541.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,U,https://www.lyngsat.com/tvchannels/ru/U.html,,,False,GeoTelecommunications,Rus
+540.0,U,MPEG-4/SD,541.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,U,https://www.lyngsat.com/tvchannels/ru/U.html,,,False,GeoTelecommunications,Rus
+550.0,Telekanal O! International,MPEG-4/SD,551.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Telekanal O! International,https://www.lyngsat.com/tvchannels/ru/Telekanal-O-International.html,,,False,GeoTelecommunications,Rus
+560.0,E TV (Russia),MPEG-4/SD,561.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,E TV (Russia),https://www.lyngsat.com/tvchannels/ru/E-TV.html,,,False,GeoTelecommunications,Rus
+600.0,Perviy kanal CIS,MPEG-4/SD,601.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Perviy kanal CIS,https://www.lyngsat.com/tvchannels/ru/Perviy-kanal-CIS.html,,,False,GeoTelecommunications,Rus
+630.0,Pobeda International,MPEG-4/SD,631.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Pobeda International,https://www.lyngsat.com/tvchannels/ru/Pobeda-International.html,,,False,GeoTelecommunications,Rus
+630.0,Pobeda International,MPEG-4/SD,631.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Pobeda International,https://www.lyngsat.com/tvchannels/ru/Pobeda-International.html,,,False,GeoTelecommunications,Rus
+640.0,Poehali! International,MPEG-4/SD,641.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Poehali! International,https://www.lyngsat.com/tvchannels/ru/Poehali-International.html,,,False,GeoTelecommunications,Rus
+650.0,Telecafé International,MPEG-4/SD,651.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Telecafé International,https://www.lyngsat.com/tvchannels/ru/Telecafe-International.html,,,False,GeoTelecommunications,Rus
+660.0,Shopping Live,MPEG-4/SD,661.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Shopping Live,https://www.lyngsat.com/tvchannels/ru/Shopping-Live.html,,,False,GeoTelecommunications,Rus
+660.0,Shopping Live,MPEG-4/SD,661.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Shopping Live,https://www.lyngsat.com/tvchannels/ru/Shopping-Live.html,,,False,GeoTelecommunications,Rus
+680.0,Solntse,MPEG-4/SD,681.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Solntse,https://www.lyngsat.com/tvchannels/ru/Solntse.html,,,False,GeoTelecommunications,Rus
+690.0,Start,MPEG-4/SD,691.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Start,https://www.lyngsat.com/tvchannels/ru/Start.html,,,False,GeoTelecommunications,Rus
+700.0,Vremya International,MPEG-4/SD,701.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Vremya International,https://www.lyngsat.com/tvchannels/ru/Vremya-International.html,,,False,GeoTelecommunications,Rus
+720.0,Magnat,MPEG-4/SD,721.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Magnat,https://www.lyngsat.com/tvchannels/ru/Magnat.html,,,False,GeoTelecommunications,Rus
+720.0,Magnat,MPEG-4/SD,721.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Magnat,https://www.lyngsat.com/tvchannels/ru/Magnat.html,,,False,GeoTelecommunications,Rus
+760.0,Anekdot TV,MPEG-4/SD,761.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Anekdot TV,https://www.lyngsat.com/tvchannels/ru/Anekdot-TV.html,,,False,GeoTelecommunications,Rus
+870.0,Kinoman,MPEG-4/SD,871.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Kinoman,https://www.lyngsat.com/tvchannels/ru/Kinoman.html,,,False,GeoTelecommunications,Rus
+880.0,Lapki Live International,MPEG-4/SD,881.0,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,Irdeto,,Lapki Live International,https://www.lyngsat.com/tvchannels/ru/Lapki-Live-International.html,,,False,GeoTelecommunications,Rus
+710.0,Radio VERA,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio VERA,https://www.lyngsat.com/radiochannels/ru/Radio-VERA.html,,,False,GeoTelecommunications,Rus
+710.0,Radio VERA,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio VERA,https://www.lyngsat.com/radiochannels/ru/Radio-VERA.html,,,False,GeoTelecommunications,Rus
+740.0,Radio Komsomolskaya Pravda,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Komsomolskaya Pravda,https://www.lyngsat.com/radiochannels/ru/Radio-Komsomolskaya-Pravda.html,,,False,GeoTelecommunications,Rus
+740.0,Radio Komsomolskaya Pravda,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Komsomolskaya Pravda,https://www.lyngsat.com/radiochannels/ru/Radio-Komsomolskaya-Pravda.html,,,False,GeoTelecommunications,Rus
+780.0,Radio Zvezda (+2h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+2h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+780.0,Radio Zvezda (+2h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+2h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+790.0,Radio Zvezda (+4h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+4h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+790.0,Radio Zvezda (+4h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+4h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+800.0,Radio Zvezda (+6h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+6h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+800.0,Radio Zvezda (+6h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (+6h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+810.0,DFM,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,DFM,https://www.lyngsat.com/radiochannels/ru/DFM.html,,,False,GeoTelecommunications,Rus
+810.0,DFM,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,DFM,https://www.lyngsat.com/radiochannels/ru/DFM.html,,,False,GeoTelecommunications,Rus
+820.0,Hit FM (Russia),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Hit FM (Russia),https://www.lyngsat.com/radiochannels/ru/Hit-FM.html,,,False,GeoTelecommunications,Rus
+820.0,Hit FM (Russia),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Hit FM (Russia),https://www.lyngsat.com/radiochannels/ru/Hit-FM.html,,,False,GeoTelecommunications,Rus
+830.0,Maximum 103.7 FM,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Maximum 103.7 FM,https://www.lyngsat.com/radiochannels/ru/Maximum-1037-FM.html,,,False,GeoTelecommunications,Rus
+830.0,Maximum 103.7 FM,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Maximum 103.7 FM,https://www.lyngsat.com/radiochannels/ru/Maximum-1037-FM.html,,,False,GeoTelecommunications,Rus
+840.0,Russkoe Radio,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Russkoe Radio,https://www.lyngsat.com/radiochannels/ru/Russkoe-Radio.html,,,False,GeoTelecommunications,Rus
+840.0,Russkoe Radio,,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Russkoe Radio,https://www.lyngsat.com/radiochannels/ru/Russkoe-Radio.html,,,False,GeoTelecommunications,Rus
+850.0,Russkoe Radio (+2h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Russkoe Radio (+2h),https://www.lyngsat.com/radiochannels/ru/Russkoe-Radio.html,,,False,GeoTelecommunications,Rus
+850.0,Russkoe Radio (+2h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Russkoe Radio (+2h),https://www.lyngsat.com/radiochannels/ru/Russkoe-Radio.html,,,False,GeoTelecommunications,Rus
+860.0,Radio Zvezda (0h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (0h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+860.0,Radio Zvezda (0h),,,DVB-S,43200.0,7/8,11605 V,tp 11,0.0,,,Radio Zvezda (0h),https://www.lyngsat.com/radiochannels/ru/Radio-Zvezda.html,,,False,GeoTelecommunications,Rus
+2.0,Nauka,MPEG-2/SD,202.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Nauka,https://www.lyngsat.com/tvchannels/ru/Nauka.html,,,False,GeoTelecommunications,Rus
+4.0,Russkiy Bestseller,MPEG-2/SD,204.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkiy Bestseller,https://www.lyngsat.com/tvchannels/ru/Russkiy-Bestseller.html,,,False,GeoTelecommunications,Rus
+5.0,Sarafan,MPEG-2/SD,205.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Sarafan,https://www.lyngsat.com/tvchannels/ru/Sarafan.html,,,False,GeoTelecommunications,Rus
+6.0,Mult i muzyka,MPEG-2/SD,206.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mult i muzyka,https://www.lyngsat.com/tvchannels/ru/Mult-i-muzyka.html,,,False,GeoTelecommunications,Rus
+7.0,Kino TV (Russia),MPEG-2/SD,207.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Kino TV (Russia),https://www.lyngsat.com/tvchannels/ru/Kino-TV.html,,,False,GeoTelecommunications,Rus
+8.0,Zhivaya Planeta,MPEG-2/SD,208.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Zhivaya Planeta,https://www.lyngsat.com/tvchannels/ru/Zhivaya-Planeta.html,,,False,GeoTelecommunications,Rus
+9.0,Istoriya Telekanal,MPEG-2/SD,209.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Istoriya Telekanal,https://www.lyngsat.com/tvchannels/ru/Istoriya-Telekanal.html,,,False,GeoTelecommunications,Rus
+10.0,Ani,MPEG-2/SD,210.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Ani,https://www.lyngsat.com/tvchannels/ru/Ani.html,,,False,GeoTelecommunications,Rus
+11.0,Belarus 24,MPEG-2/SD,211.0,DVB-S,44922.0,5/6,11665 V,,0.0,,,Belarus 24,https://www.lyngsat.com/tvchannels/by/Belarus-24.html,,,False,GeoTelecommunications,Rus
+11.0,Belarus 24,MPEG-2/SD,211.0,DVB-S,44922.0,5/6,11665 V,,0.0,,,Belarus 24,https://www.lyngsat.com/tvchannels/by/Belarus-24.html,,,False,GeoTelecommunications,Rus
+12.0,Russkaya Komediya,MPEG-2/SD,212.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkaya Komediya,https://www.lyngsat.com/tvchannels/ru/Russkaya-Komediya.html,,,False,GeoTelecommunications,Rus
+13.0,Russkiy Detektiv,MPEG-2/SD,213.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Russkiy Detektiv,https://www.lyngsat.com/tvchannels/ru/Russkiy-Detektiv.html,,,False,GeoTelecommunications,Rus
+14.0,Mosfilm International,MPEG-4/SD,214.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mosfilm International,https://www.lyngsat.com/tvchannels/ru/Mosfilm-International.html,,,False,GeoTelecommunications,Rus
+15.0,Cinéma,MPEG-2/SD,215.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Cinéma,https://www.lyngsat.com/tvchannels/ru/Cinema.html,,,False,GeoTelecommunications,Rus
+17.0,Mama,MPEG-2/SD,217.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Mama,https://www.lyngsat.com/tvchannels/ru/Mama.html,,,False,GeoTelecommunications,Rus
+18.0,Techno 24,MPEG-2/SD,218.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Techno 24,https://www.lyngsat.com/tvchannels/ru/Techno-24.html,,,False,GeoTelecommunications,Rus
+19.0,NST,MPEG-2/SD,219.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,NST,https://www.lyngsat.com/tvchannels/ru/NST.html,,,False,GeoTelecommunications,Rus
+20.0,Telekanal Doktor,MPEG-2/SD,220.0,DVB-S,44922.0,5/6,11665 V,,0.0,Irdeto,,Telekanal Doktor,https://www.lyngsat.com/tvchannels/ru/Telekanal-Doktor.html,,,False,GeoTelecommunications,Rus
+1537.0,Radio Chanson,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Chanson,https://www.lyngsat.com/radiochannels/ru/Radio-Chanson.html,,,False,GeoTelecommunications,Rus
+1537.0,Radio Chanson,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Chanson,https://www.lyngsat.com/radiochannels/ru/Radio-Chanson.html,,,False,GeoTelecommunications,Rus
+1538.0,Vesti FM,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,,,False,GeoTelecommunications,Rus
+1538.0,Vesti FM,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Vesti FM,https://www.lyngsat.com/radiochannels/ru/Vesti-FM.html,,,False,GeoTelecommunications,Rus
+1539.0,Radio Mayak,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,,,False,GeoTelecommunications,Rus
+1539.0,Radio Mayak,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Mayak,https://www.lyngsat.com/radiochannels/ru/Radio-Mayak.html,,,False,GeoTelecommunications,Rus
+1540.0,Radio Rossii,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii,https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1540.0,Radio Rossii,,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii,https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1541.0,Radio Rossii (+2h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+2h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1541.0,Radio Rossii (+2h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+2h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1542.0,Radio Rossii (+4h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+4h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1542.0,Radio Rossii (+4h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+4h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1543.0,Radio Rossii (+7h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+7h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1543.0,Radio Rossii (+7h),,,DVB-S2,45000.0,2/3,11740 V,,0.0,,,Radio Rossii (+7h),https://www.lyngsat.com/radiochannels/ru/Radio-Rossii.html,,,False,GeoTelecommunications,Rus
+1349.0,Shayan TV,MPEG-4/SD,2866.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Shayan TV,https://www.lyngsat.com/tvchannels/ru/Shayan-TV.html,,,False,GeoTelecommunications,Rus
+1350.0,TNV Planeta,HEVC/SD,2874.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,TNV Planeta,https://www.lyngsat.com/tvchannels/ru/TNV-Planeta.html,,,False,GeoTelecommunications,Rus
+1378.0,Soyuz,HEVC/SD,3098.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Soyuz,https://www.lyngsat.com/tvchannels/ru/Soyuz.html,,,False,GeoTelecommunications,Rus
+1378.0,Soyuz,HEVC/SD,3098.0,DVB-S2,45000.0,2/3,11800 V,,0.0,,,Soyuz,https://www.lyngsat.com/tvchannels/ru/Soyuz.html,,,False,GeoTelecommunications,Rus
+1248.0,Juvelirochka,MPEG-4/SD,2058.0,DVB-S2,45000.0,2/3,11920 V,,0.0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,GeoTelecommunications,Rus
+1248.0,Juvelirochka,MPEG-4/SD,2058.0,DVB-S2,45000.0,2/3,11920 V,,0.0,,,Juvelirochka,https://www.lyngsat.com/tvchannels/ru/Juvelirochka.html,,,False,GeoTelecommunications,Rus
+1320.0,[MTS info card],MPEG-4/SD,2634.0,DVB-S2,45000.0,2/3,11920 V,,0.0,,,,,,,False,GeoTelecommunications,Rus
+1.0,Kirkuk TV,8192-4096MPEG-4/HD,513.0,DVB-S,2500.0,7/8,12318 H,,,,,,,,,False,GeoTelecommunications,Kur
+,Kerkük FM,,,DVB-S,2500.0,7/8,12318 H,,,,,Kerkük FM,https://www.lyngsat.com/radiochannels/iq/Kerkuk-FM.html,,,False,GeoTelecommunications,Kur
+,(feeds),,,DVB-S2,1900.0,3/4,12326 H,,,,,,,,,False,GeoTelecommunications,
+,(feeds),,,DVB-S2,7500.0,3/4,12422 H,,,,,,,,,False,GeoTelecommunications,
+,(feeds),,,DVB-S2,7500.0,3/4,12431 H,,,,,,,,,False,GeoTelecommunications,
+2090.0,Match! Planeta,MPEG-4/SD,2091.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Match! Planeta,https://www.lyngsat.com/tvchannels/ru/Match-Planeta.html,,,False,GeoTelecommunications,Rus
+2100.0,Pyatnitsa! International,MPEG-4/SD,2101.0,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,,Pyatnitsa! International,https://www.lyngsat.com/tvchannels/ru/Pyatnitsa-International.html,,,False,GeoTelecommunications,Rus
+2190.0,TV XXI,MPEG-4/SD,2191.0,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,,TV XXI,https://www.lyngsat.com/tvchannels/lv/TV-XXI.html,,,False,GeoTelecommunications,Rus Eng
+2200.0,TNT International,MPEG-4/SD,2201.0,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,,TNT International,https://www.lyngsat.com/tvchannels/ru/TNT-International.html,,,False,GeoTelecommunications,Rus Eng
+2210.0,TV 3 International,MPEG-4/SD,2211.0,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,,TV 3 International,https://www.lyngsat.com/tvchannels/ru/TV-3-International.html,,,False,GeoTelecommunications,Rus
+2220.0,Nano TV,MPEG-4/SD,2221.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Nano TV,https://www.lyngsat.com/tvchannels/ru/Nano-TV.html,,,False,GeoTelecommunications,Rus
+2220.0,Nano TV,MPEG-4/SD,2221.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Nano TV,https://www.lyngsat.com/tvchannels/ru/Nano-TV.html,,,False,GeoTelecommunications,Rus
+2250.0,Krasnaya Liniya,MPEG-4/SD,2251.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Krasnaya Liniya,https://www.lyngsat.com/tvchannels/ru/Krasnaya-Liniya.html,,,False,GeoTelecommunications,Rus
+2250.0,Krasnaya Liniya,MPEG-4/SD,2251.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Krasnaya Liniya,https://www.lyngsat.com/tvchannels/ru/Krasnaya-Liniya.html,,,False,GeoTelecommunications,Rus
+2260.0,TNT 4 International (0h),MPEG-4/SD,2261.0,DVB-S2,44950.0,4/5,12533 V,,0.0,Irdeto,,TNT 4 International (0h),https://www.lyngsat.com/tvchannels/ru/TNT-4-International.html,,,False,GeoTelecommunications,Rus Eng
+2270.0,Konniy Mir,MPEG-4/SD,2271.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Konniy Mir,https://www.lyngsat.com/tvchannels/ru/Konniy-Mir.html,,,False,GeoTelecommunications,Rus
+2280.0,Luxury,MPEG-4/SD,2281.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Luxury,https://www.lyngsat.com/tvchannels/ru/Luxury.html,,,False,GeoTelecommunications,Rus
+2320.0,Torre Ricca,MPEG-4/SD,2321.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Torre Ricca,https://www.lyngsat.com/tvchannels/ru/Torre-Ricca.html,,,False,GeoTelecommunications,Rus
+2320.0,Torre Ricca,MPEG-4/SD,2321.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,Torre Ricca,https://www.lyngsat.com/tvchannels/ru/Torre-Ricca.html,,,False,GeoTelecommunications,Rus
+2330.0,San Porto,MPEG-4/SD,2331.0,DVB-S2,44950.0,4/5,12533 V,,0.0,,,San Porto,https://www.lyngsat.com/tvchannels/ru/San-Porto.html,,,False,GeoTelecommunications,Rus
+,RSCC,4371-15,,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,https://www.lyngsat.com/providers/ru/RSCC.html,,,,,True,RSCC,
+2.0,Baby Time,MPEG-4/SD,1002.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Baby Time,https://www.lyngsat.com/tvchannels/ru/Baby-Time.html,,,False,RSCC,Rus
+10.0,Plan B,MPEG-4/SD,2010.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Plan B,https://www.lyngsat.com/tvchannels/ru/Plan-B.html,,,False,RSCC,Rus Eng
+11.0,8 Kanal (Russia),MPEG-4/SD,2011.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,8 Kanal (Russia),https://www.lyngsat.com/tvchannels/ru/8-Kanal.html,,,False,RSCC,Rus
+11.0,8 Kanal (Russia),MPEG-4/SD,2011.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,8 Kanal (Russia),https://www.lyngsat.com/tvchannels/ru/8-Kanal.html,,,False,RSCC,Rus
+12.0,Romance Películas,MPEG-4/SD,2012.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Romance Películas,https://www.lyngsat.com/tvchannels/us/Romance-Peliculas.html,,,False,RSCC,Spa
+12.0,Romance Películas,MPEG-4/SD,2012.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Romance Películas,https://www.lyngsat.com/tvchannels/us/Romance-Peliculas.html,,,False,RSCC,Spa
+13.0,Suspense,MPEG-4/SD,2013.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Suspense,https://www.lyngsat.com/tvchannels/--/Suspense.html,,,False,RSCC,
+14.0,Cartoon Classics,MPEG-4/SD,2014.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Cartoon Classics,https://www.lyngsat.com/tvchannels/--/Cartoon-Classics.html,,,False,RSCC,Rus
+18.0,Mir Basketbola,MPEG-4/SD,245.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Mir Basketbola,https://www.lyngsat.com/tvchannels/ru/Mir-Basketbola.html,,,False,RSCC,Rus
+23.0,Travel + Adventure,MPEG-4/SD,1023.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Travel + Adventure,https://www.lyngsat.com/tvchannels/us/Travel---Adventure.html,,,False,RSCC,Rus Eng
+23.0,Travel + Adventure,MPEG-4/SD,1023.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Travel + Adventure,https://www.lyngsat.com/tvchannels/us/Travel---Adventure.html,,,False,RSCC,Rus Eng
+24.0,Travel + Adventure,MPEG-4/HD,1024.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Travel + Adventure,https://www.lyngsat.com/tvchannels/us/Travel---Adventure.html,,,False,RSCC,Rus Eng
+24.0,Travel + Adventure,MPEG-4/HD,1024.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,Irdeto,,Travel + Adventure,https://www.lyngsat.com/tvchannels/us/Travel---Adventure.html,,,False,RSCC,Rus Eng
+26.0,Vitrina TV,MPEG-4/SD,1026.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Vitrina TV,https://www.lyngsat.com/tvchannels/ru/Vitrina-TV.html,,,False,RSCC,Rus
+26.0,Vitrina TV,MPEG-4/SD,1026.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Vitrina TV,https://www.lyngsat.com/tvchannels/ru/Vitrina-TV.html,,,False,RSCC,Rus
+27.0,Otkritiy Mir,MPEG-4/SD,1027.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Otkritiy Mir,https://www.lyngsat.com/tvchannels/ru/Otkritiy-Mir.html,,,False,RSCC,Rus
+28.0,Bridge TV Hits,MPEG-4/SD,1028.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Hits,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Hits.html,,,False,RSCC,Rus
+29.0,Bridge TV Classic,MPEG-4/SD,1029.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Classic,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Classic.html,,,False,RSCC,Rus
+30.0,Bridge TV Shlyager,MPEG-4/SD,1030.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Shlyager,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Shlyager.html,,,False,RSCC,Rus
+31.0,Bridge TV Rock,MPEG-4/SD,1031.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Rock,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Rock.html,,,False,RSCC,Rus
+32.0,Bridge TV Fresh,MPEG-4/SD,1032.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Fresh,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Fresh.html,,,False,RSCC,Rus
+33.0,Bridge TV,MPEG-4/SD,1033.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV,https://www.lyngsat.com/tvchannels/ru/Bridge-TV.html,,,False,RSCC,Rus
+34.0,Bridge TV Russkiy Hit,MPEG-4/SD,1034.0,DVB-S2,35007.0,2/3,12653 V,tp 14,0.0,,,Bridge TV Russkiy Hit,https://www.lyngsat.com/tvchannels/ru/Bridge-TV-Russkiy-Hit.html,,,False,RSCC,Rus
+,,,,,,,,,,,,DVB-S25007/8,,,,False,RSCC,

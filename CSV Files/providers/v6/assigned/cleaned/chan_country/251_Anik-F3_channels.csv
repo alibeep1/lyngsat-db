@@ -1,0 +1,33 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+,CTV,,,DVB-S2,15000.0,3/4,4030 V,tp 8B,0.0,,https://www.lyngsat.com/providers/ca/CTV.html,,,,,True,CTV,,
+1.0,CTV British Columbia,MPEG-4/HD,4097.0,DVB-S2,15000.0,3/4,4030 V,tp 8B,0.0,,,CTV British Columbia,https://www.lyngsat.com/tvchannels/ca/CTV-British-Columbia.html,,,False,CTV,Eng,ca
+2.0,CTV 2 Vancouver Island,MPEG-4/HD,1793.0,DVB-S2,15000.0,3/4,4030 V,tp 8B,0.0,,,CTV 2 Vancouver Island,https://www.lyngsat.com/tvchannels/ca/CTV-2-Vancouver-Island.html,,,False,CTV,Eng,ca
+3.0,(CTV feeds),,2049.0,DVB-S2,15000.0,3/4,4030 V,tp 8B,0.0,,,,,,,False,CTV,,
+,,3-301,,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,,,,,False,CTV,,
+,,0-1148,,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,,,,,False,CTV,,
+2.0,[test card],MPEG-2/SD,110.0,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,,,,,False,CTV,,
+500.0,Legislative Assembly TV Nunavut,MPEG-2/SD,200.0,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,Legislative Assembly TV Nunavut,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-TV-Nunavut.html,,,False,CTV,Eng,ca
+500.0,Legislative Assembly TV Nunavut,MPEG-2/SD,200.0,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,Legislative Assembly TV Nunavut,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-TV-Nunavut.html,,,False,CTV,Eng,ca
+510.0,Canal M (Canada),,,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,Canal M (Canada),https://www.lyngsat.com/radiochannels/ca/Canal-M.html,,,False,CTV,Fre,ca
+510.0,Canal M (Canada),,,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,Canal M (Canada),https://www.lyngsat.com/radiochannels/ca/Canal-M.html,,,False,CTV,Fre,ca
+520.0,Radio France Internationale,,,DVB-S,23800.0,3/4,4096 V,tp 10B,0.0,,,Radio France Internationale,https://www.lyngsat.com/radiochannels/fr/Radio-France-Internationale.html,,,False,CTV,Fre,fr
+,Legislative Assembly of Ontario,MPEG-4/HD,95.0,DVB-S2,3399.0,4/5,4116 V,tp 10B,0.0,,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,,,False,CTV,Eng Fre,ca
+,Legislative Assembly of Ontario,MPEG-4/HD,95.0,DVB-S2,3399.0,4/5,4116 V,tp 10B,0.0,,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,,,False,CTV,Eng Fre,ca
+904.0,Legislative Assembly of Ontario,MPEG-4/SD,131.0,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,,,False,CTV,Eng,ca
+904.0,Legislative Assembly of Ontario,MPEG-4/SD,131.0,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,Legislative Assembly of Ontario,https://www.lyngsat.com/tvchannels/ca/Legislative-Assembly-of-Ontario.html,,,False,CTV,Eng,ca
+901.0,APTN E,MPEG-4/SD,101.0,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,APTN E,https://www.lyngsat.com/tvchannels/ca/APTN-E.html,,,False,CTV,Eng,ca
+902.0,APTN W,MPEG-4/SD,111.0,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,APTN W,https://www.lyngsat.com/tvchannels/ca/APTN-W.html,,,False,CTV,Eng,ca
+903.0,APTN N,MPEG-4/SD,121.0,DVB-S,21000.0,1/2,4144 V,tp 11B,0.0,Digicipher,,APTN N,https://www.lyngsat.com/tvchannels/ca/APTN-N.html,,,False,CTV,Eng,ca
+,Educational Media Foundation,1-1,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,https://www.lyngsat.com/providers/us/Educational-Media-Foundation.html,,,,,True,Educational Media Foundation,,
+1.0,Radio Nueva Vida,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,,,False,Educational Media Foundation,Spa,us
+1.0,Radio Nueva Vida,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,,,False,Educational Media Foundation,Spa,us
+2.0,K-Love,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,,,False,Educational Media Foundation,Eng,us
+2.0,K-Love,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,,,False,Educational Media Foundation,Eng,us
+3.0,Air 1 Worship Now,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,,,False,Educational Media Foundation,Eng,us
+3.0,Air 1 Worship Now,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,,,False,Educational Media Foundation,Eng,us
+13.0,K-Love 90s,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,,,False,Educational Media Foundation,Eng,us
+13.0,K-Love 90s,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,,,False,Educational Media Foundation,Eng,us
+21.0,K-Love 2000s,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,,,False,Educational Media Foundation,Eng,us
+21.0,K-Love 2000s,,,DVB-S,2800.0,3/4,4196 V,tp 12B,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,,,False,Educational Media Foundation,Eng,us
+,,,,,,,,,,,,DVB-S2QPSK33994/5,,,,False,Educational Media Foundation,,
+,,,,,,,,,,,,DVB-S2QPSK33994/5,,,,False,Educational Media Foundation,,

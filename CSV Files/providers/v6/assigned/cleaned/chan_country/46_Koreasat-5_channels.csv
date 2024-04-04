@@ -1,0 +1,14 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,CGN TV,1-1,,DVB-S,10740.0,2/3,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,CGN TV,https://www.lyngsat.com/tvchannels/kr/CGN-TV.html,True,CGN TV,,kr
+,CGN TV,1-1,,DVB-S,10740.0,2/3,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,CGN TV,https://www.lyngsat.com/tvchannels/kr/CGN-TV.html,True,CGN TV,,kr
+1.0,CGN TV,MPEG-2/SD,512.0,DVB-S,10740.0,2/3,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,CGN TV,https://www.lyngsat.com/tvchannels/kr/CGN-TV.html,True,CGN TV,Kor,kr
+1.0,CGN TV,MPEG-2/SD,512.0,DVB-S,10740.0,2/3,12347 V,,,,https://www.lyngsat.com/providers/kr/CGN-TV.html,CGN TV,https://www.lyngsat.com/tvchannels/kr/CGN-TV.html,True,CGN TV,Kor,kr
+2.0,CGN TV Japan,MPEG-2/SD,513.0,DVB-S,10740.0,2/3,12347 V,,,,,CGN TV Japan,https://www.lyngsat.com/tvchannels/kr/CGN-TV-Japan.html,False,CGN TV,Jpn,kr
+2.0,CGN TV Japan,MPEG-2/SD,513.0,DVB-S,10740.0,2/3,12347 V,,,,,CGN TV Japan,https://www.lyngsat.com/tvchannels/kr/CGN-TV-Japan.html,False,CGN TV,Jpn,kr
+3.0,CGN TV Chinese,MPEG-2/SD,514.0,DVB-S,10740.0,2/3,12347 V,,,,,CGN TV Chinese,https://www.lyngsat.com/tvchannels/kr/CGN-TV-Chinese.html,False,CGN TV,Chi,kr
+3.0,CGN TV Chinese,MPEG-2/SD,514.0,DVB-S,10740.0,2/3,12347 V,,,,,CGN TV Chinese,https://www.lyngsat.com/tvchannels/kr/CGN-TV-Chinese.html,False,CGN TV,Chi,kr
+1.0,NTD TV China,?-?MPEG-2/SD,512.0,DVB-S2,3900.0,3/4,12363 V,,,,,,,False,CGN TV,Chi,
+2.0,Sound of Hope,,,DVB-S2,3900.0,3/4,12363 V,,,,,Sound of Hope,https://www.lyngsat.com/radiochannels/us/Sound-of-Hope.html,False,CGN TV,Chi,us
+2.0,Sound of Hope,,,DVB-S2,3900.0,3/4,12363 V,,,,,Sound of Hope,https://www.lyngsat.com/radiochannels/us/Sound-of-Hope.html,False,CGN TV,Chi,us
+,,,,,,,,,,,,DVB-S2QPSK39003/4,,False,CGN TV,,
+,,,,,,,,,,,,DVB-S2QPSK39003/4,,False,CGN TV,,

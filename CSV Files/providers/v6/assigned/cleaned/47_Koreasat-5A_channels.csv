@@ -1,0 +1,230 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages
+1001.0,MNB,MPEG-4/HD,1001.0,DVB-S2,43200.0,5/6,11493 V,,,,,MNB,https://www.lyngsat.com/tvchannels/mn/MNB.html,,,False,,Mon
+1001.0,MNB,MPEG-4/HD,1001.0,DVB-S2,43200.0,5/6,11493 V,,,,,MNB,https://www.lyngsat.com/tvchannels/mn/MNB.html,,,False,,Mon
+1036.0,BBS TV (Mongolia),MPEG-4/SD,4220.0,DVB-S2,43200.0,5/6,11493 V,,,,,BBS TV (Mongolia),https://www.lyngsat.com/tvchannels/mn/BBS-TV.html,,,False,,Mon
+,(feeds),,,DVB-S2,1020.0,3/5,12303 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,1100.0,5/6,12306 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,1000.0,5/6,12311 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,1030.0,5/6,12312 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,1060.0,5/6,12315 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,2000.0,3/4,12317 H,,,,,,,,,False,,
+,(feeds),,,DVB-S2,4500.0,5/6,12383 H,,,BISS,,,,,,False,,
+1.0,G Sat promo,MPEG-4/SD,1001.0,DVB-S2,30000.0,3/4,12310 V,,0.0,,,,,,,False,,Tgl
+2.0,One Media Network,MPEG-4/SD,1006.0,DVB-S2,30000.0,3/4,12310 V,,0.0,,,One Media Network,https://www.lyngsat.com/tvchannels/ph/One-Media-Network.html,,,False,,Eng
+,(LG feeds),,,DVB-S,3333.0,5/6,12354 H,,,BISS,,,,,,False,,
+,(MBN feeds),,,DVB-S2,4400.0,3/4,12359 H,,,,,,,,,False,,
+,(MBN feeds),,,DVB-S2,4400.0,3/4,12623 H,,,,,,,,,False,,
+,American Forces Network,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",https://www.lyngsat.com/providers/us/American-Forces-Network.html,,,,,True,American Forces Network,
+,American Forces Network,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",https://www.lyngsat.com/providers/us/American-Forces-Network.html,,,,,True,American Forces Network,
+,American Forces Network,18-101,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",https://www.lyngsat.com/providers/us/American-Forces-Network.html,,,,,True,American Forces Network,
+,American Forces Network,18-101,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",https://www.lyngsat.com/providers/us/American-Forces-Network.html,,,,,True,American Forces Network,
+2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Atlantic,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Atlantic.html,,,False,American Forces Network,Eng
+2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Atlantic,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Atlantic.html,,,False,American Forces Network,Eng
+2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Atlantic,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Atlantic.html,,,False,American Forces Network,Eng
+2.0,AFN Prime Atlantic,MPEG-4/HD,1260.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Atlantic,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Atlantic.html,,,False,American Forces Network,Eng
+3.0,AFN News,MPEG-4/HD,1560.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN News,https://www.lyngsat.com/tvchannels/us/AFN-News.html,,,False,American Forces Network,Eng
+3.0,AFN News,MPEG-4/HD,1560.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN News,https://www.lyngsat.com/tvchannels/us/AFN-News.html,,,False,American Forces Network,Eng
+3.0,AFN News,MPEG-4/HD,1560.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN News,https://www.lyngsat.com/tvchannels/us/AFN-News.html,,,False,American Forces Network,Eng
+3.0,AFN News,MPEG-4/HD,1560.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN News,https://www.lyngsat.com/tvchannels/us/AFN-News.html,,,False,American Forces Network,Eng
+4.0,AFN Sports,MPEG-4/HD,1160.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Sports,https://www.lyngsat.com/tvchannels/us/AFN-Sports.html,,,False,American Forces Network,Eng
+4.0,AFN Sports,MPEG-4/HD,1160.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Sports,https://www.lyngsat.com/tvchannels/us/AFN-Sports.html,,,False,American Forces Network,Eng
+4.0,AFN Sports,MPEG-4/HD,1160.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Sports,https://www.lyngsat.com/tvchannels/us/AFN-Sports.html,,,False,American Forces Network,Eng
+4.0,AFN Sports,MPEG-4/HD,1160.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Sports,https://www.lyngsat.com/tvchannels/us/AFN-Sports.html,,,False,American Forces Network,Eng
+5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Pacific,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Pacific.html,,,False,American Forces Network,Eng
+5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Pacific,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Pacific.html,,,False,American Forces Network,Eng
+5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Pacific,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Pacific.html,,,False,American Forces Network,Eng
+5.0,AFN Prime Pacific,MPEG-4/HD,1460.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Prime Pacific,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Pacific.html,,,False,American Forces Network,Eng
+6.0,AFN Spectrum,MPEG-4/HD,1360.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Spectrum,https://www.lyngsat.com/tvchannels/us/AFN-Spectrum.html,,,False,American Forces Network,Eng
+6.0,AFN Spectrum,MPEG-4/HD,1360.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Spectrum,https://www.lyngsat.com/tvchannels/us/AFN-Spectrum.html,,,False,American Forces Network,Eng
+6.0,AFN Spectrum,MPEG-4/HD,1360.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Spectrum,https://www.lyngsat.com/tvchannels/us/AFN-Spectrum.html,,,False,American Forces Network,Eng
+6.0,AFN Spectrum,MPEG-4/HD,1360.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Spectrum,https://www.lyngsat.com/tvchannels/us/AFN-Spectrum.html,,,False,American Forces Network,Eng
+7.0,AFN Sports 2,MPEG-4/HD,1660.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Sports 2,https://www.lyngsat.com/tvchannels/us/AFN-Sports-2.html,,,False,American Forces Network,Eng
+7.0,AFN Sports 2,MPEG-4/HD,1660.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Sports 2,https://www.lyngsat.com/tvchannels/us/AFN-Sports-2.html,,,False,American Forces Network,Eng
+7.0,AFN Sports 2,MPEG-4/HD,1660.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Sports 2,https://www.lyngsat.com/tvchannels/us/AFN-Sports-2.html,,,False,American Forces Network,Eng
+7.0,AFN Sports 2,MPEG-4/HD,1660.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Sports 2,https://www.lyngsat.com/tvchannels/us/AFN-Sports-2.html,,,False,American Forces Network,Eng
+8.0,AFN Family,MPEG-4/HD,1960.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Family,https://www.lyngsat.com/tvchannels/us/AFN-Family.html,,,False,American Forces Network,Eng
+8.0,AFN Family,MPEG-4/HD,1960.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Family,https://www.lyngsat.com/tvchannels/us/AFN-Family.html,,,False,American Forces Network,Eng
+8.0,AFN Family,MPEG-4/HD,1960.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Family,https://www.lyngsat.com/tvchannels/us/AFN-Family.html,,,False,American Forces Network,Eng
+8.0,AFN Family,MPEG-4/HD,1960.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Family,https://www.lyngsat.com/tvchannels/us/AFN-Family.html,,,False,American Forces Network,Eng
+9.0,AFN Movie,MPEG-4/HD,1060.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Movie,https://www.lyngsat.com/tvchannels/us/AFN-Movie.html,,,False,American Forces Network,Eng
+9.0,AFN Movie,MPEG-4/HD,1060.0,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Movie,https://www.lyngsat.com/tvchannels/us/AFN-Movie.html,,,False,American Forces Network,Eng
+9.0,AFN Movie,MPEG-4/HD,1060.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Movie,https://www.lyngsat.com/tvchannels/us/AFN-Movie.html,,,False,American Forces Network,Eng
+9.0,AFN Movie,MPEG-4/HD,1060.0,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Movie,https://www.lyngsat.com/tvchannels/us/AFN-Movie.html,,,False,American Forces Network,Eng
+401.0,[test card],MPEG-2/SD,1760.0,DVB-S2,30000.0,2/3,12470 V,,0.0,,,,,,,False,American Forces Network,
+401.0,[test card],MPEG-2/SD,1760.0,DVB-S2,30000.0,2/3,12590 V,,0.0,,,,,,,False,American Forces Network,
+402.0,[American Forces Network test card],MPEG-4/HD,1860.0,DVB-S2,30000.0,2/3,12470 V,,0.0,,,,,,,False,American Forces Network,
+402.0,[American Forces Network test card],MPEG-4/HD,1860.0,DVB-S2,30000.0,2/3,12590 V,,0.0,,,,,,,False,American Forces Network,
+20.0,AFN The Eagle Pacific,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Pacific,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Pacific.html,,,False,American Forces Network,Eng
+20.0,AFN The Eagle Pacific,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Pacific,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Pacific.html,,,False,American Forces Network,Eng
+20.0,AFN The Eagle Pacific,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Pacific,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Pacific.html,,,False,American Forces Network,Eng
+20.0,AFN The Eagle Pacific,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Pacific,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Pacific.html,,,False,American Forces Network,Eng
+21.0,AFN The Voice,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Voice,https://www.lyngsat.com/radiochannels/us/AFN-The-Voice.html,,,False,American Forces Network,Eng
+21.0,AFN The Voice,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Voice,https://www.lyngsat.com/radiochannels/us/AFN-The-Voice.html,,,False,American Forces Network,Eng
+21.0,AFN The Voice,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Voice,https://www.lyngsat.com/radiochannels/us/AFN-The-Voice.html,,,False,American Forces Network,Eng
+21.0,AFN The Voice,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Voice,https://www.lyngsat.com/radiochannels/us/AFN-The-Voice.html,,,False,American Forces Network,Eng
+22.0,AFN PowerTalk,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN PowerTalk,https://www.lyngsat.com/radiochannels/us/AFN-PowerTalk.html,,,False,American Forces Network,Eng
+22.0,AFN PowerTalk,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN PowerTalk,https://www.lyngsat.com/radiochannels/us/AFN-PowerTalk.html,,,False,American Forces Network,Eng
+22.0,AFN PowerTalk,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN PowerTalk,https://www.lyngsat.com/radiochannels/us/AFN-PowerTalk.html,,,False,American Forces Network,Eng
+22.0,AFN PowerTalk,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN PowerTalk,https://www.lyngsat.com/radiochannels/us/AFN-PowerTalk.html,,,False,American Forces Network,Eng
+23.0,AFN Clutch,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Clutch,https://www.lyngsat.com/radiochannels/us/AFN-Clutch.html,,,False,American Forces Network,Eng
+23.0,AFN Clutch,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Clutch,https://www.lyngsat.com/radiochannels/us/AFN-Clutch.html,,,False,American Forces Network,Eng
+23.0,AFN Clutch,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Clutch,https://www.lyngsat.com/radiochannels/us/AFN-Clutch.html,,,False,American Forces Network,Eng
+23.0,AFN Clutch,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Clutch,https://www.lyngsat.com/radiochannels/us/AFN-Clutch.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+24.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+401.0,AFN Fans,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Fans,https://www.lyngsat.com/radiochannels/us/AFN-Fans.html,,,False,American Forces Network,Eng
+25.0,AFN The Blend,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Blend,https://www.lyngsat.com/radiochannels/us/AFN-The-Blend.html,,,False,American Forces Network,Eng
+25.0,AFN The Blend,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Blend,https://www.lyngsat.com/radiochannels/us/AFN-The-Blend.html,,,False,American Forces Network,Eng
+25.0,AFN The Blend,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Blend,https://www.lyngsat.com/radiochannels/us/AFN-The-Blend.html,,,False,American Forces Network,Eng
+25.0,AFN The Blend,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Blend,https://www.lyngsat.com/radiochannels/us/AFN-The-Blend.html,,,False,American Forces Network,Eng
+26.0,AFN Legacy,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Legacy,https://www.lyngsat.com/radiochannels/us/AFN-Legacy.html,,,False,American Forces Network,Eng
+26.0,AFN Legacy,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Legacy,https://www.lyngsat.com/radiochannels/us/AFN-Legacy.html,,,False,American Forces Network,Eng
+26.0,AFN Legacy,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Legacy,https://www.lyngsat.com/radiochannels/us/AFN-Legacy.html,,,False,American Forces Network,Eng
+26.0,AFN Legacy,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Legacy,https://www.lyngsat.com/radiochannels/us/AFN-Legacy.html,,,False,American Forces Network,Eng
+27.0,AFN's Joe Radio,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN's Joe Radio,https://www.lyngsat.com/radiochannels/us/AFNs-Joe-Radio.html,,,False,American Forces Network,Eng
+27.0,AFN's Joe Radio,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN's Joe Radio,https://www.lyngsat.com/radiochannels/us/AFNs-Joe-Radio.html,,,False,American Forces Network,Eng
+27.0,AFN's Joe Radio,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN's Joe Radio,https://www.lyngsat.com/radiochannels/us/AFNs-Joe-Radio.html,,,False,American Forces Network,Eng
+27.0,AFN's Joe Radio,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN's Joe Radio,https://www.lyngsat.com/radiochannels/us/AFNs-Joe-Radio.html,,,False,American Forces Network,Eng
+28.0,AFN Gravity,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Gravity,https://www.lyngsat.com/radiochannels/us/AFN-Gravity.html,,,False,American Forces Network,Eng
+28.0,AFN Gravity,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Gravity,https://www.lyngsat.com/radiochannels/us/AFN-Gravity.html,,,False,American Forces Network,Eng
+28.0,AFN Gravity,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Gravity,https://www.lyngsat.com/radiochannels/us/AFN-Gravity.html,,,False,American Forces Network,Eng
+28.0,AFN Gravity,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Gravity,https://www.lyngsat.com/radiochannels/us/AFN-Gravity.html,,,False,American Forces Network,Eng
+29.0,AFN Country,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Country,https://www.lyngsat.com/radiochannels/us/AFN-Country.html,,,False,American Forces Network,Eng
+29.0,AFN Country,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Country,https://www.lyngsat.com/radiochannels/us/AFN-Country.html,,,False,American Forces Network,Eng
+29.0,AFN Country,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Country,https://www.lyngsat.com/radiochannels/us/AFN-Country.html,,,False,American Forces Network,Eng
+29.0,AFN Country,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Country,https://www.lyngsat.com/radiochannels/us/AFN-Country.html,,,False,American Forces Network,Eng
+30.0,NPR AFN,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,NPR AFN,https://www.lyngsat.com/radiochannels/us/NPR-AFN.html,,,False,American Forces Network,Eng
+30.0,NPR AFN,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,NPR AFN,https://www.lyngsat.com/radiochannels/us/NPR-AFN.html,,,False,American Forces Network,Eng
+30.0,NPR AFN,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,NPR AFN,https://www.lyngsat.com/radiochannels/us/NPR-AFN.html,,,False,American Forces Network,Eng
+30.0,NPR AFN,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,NPR AFN,https://www.lyngsat.com/radiochannels/us/NPR-AFN.html,,,False,American Forces Network,Eng
+31.0,AFN Seasonal,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Seasonal,https://www.lyngsat.com/radiochannels/us/AFN-Seasonal.html,,,False,American Forces Network,Eng
+31.0,AFN Seasonal,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Seasonal,https://www.lyngsat.com/radiochannels/us/AFN-Seasonal.html,,,False,American Forces Network,Eng
+31.0,AFN Seasonal,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Seasonal,https://www.lyngsat.com/radiochannels/us/AFN-Seasonal.html,,,False,American Forces Network,Eng
+31.0,AFN Seasonal,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Seasonal,https://www.lyngsat.com/radiochannels/us/AFN-Seasonal.html,,,False,American Forces Network,Eng
+32.0,AFN Contingency,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Contingency,https://www.lyngsat.com/radiochannels/us/AFN-Contingency.html,,,False,American Forces Network,Eng
+32.0,AFN Contingency,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Contingency,https://www.lyngsat.com/radiochannels/us/AFN-Contingency.html,,,False,American Forces Network,Eng
+32.0,AFN Contingency,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Contingency,https://www.lyngsat.com/radiochannels/us/AFN-Contingency.html,,,False,American Forces Network,Eng
+32.0,AFN Contingency,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Contingency,https://www.lyngsat.com/radiochannels/us/AFN-Contingency.html,,,False,American Forces Network,Eng
+33.0,AFN Freedom Rock,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Freedom Rock,https://www.lyngsat.com/radiochannels/us/AFN-Freedom-Rock.html,,,False,American Forces Network,Eng
+33.0,AFN Freedom Rock,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN Freedom Rock,https://www.lyngsat.com/radiochannels/us/AFN-Freedom-Rock.html,,,False,American Forces Network,Eng
+33.0,AFN Freedom Rock,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Freedom Rock,https://www.lyngsat.com/radiochannels/us/AFN-Freedom-Rock.html,,,False,American Forces Network,Eng
+33.0,AFN Freedom Rock,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN Freedom Rock,https://www.lyngsat.com/radiochannels/us/AFN-Freedom-Rock.html,,,False,American Forces Network,Eng
+35.0,AFN The Eagle Iwakuni,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Iwakuni,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Iwakuni.html,,,False,American Forces Network,Eng
+35.0,AFN The Eagle Iwakuni,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Iwakuni,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Iwakuni.html,,,False,American Forces Network,Eng
+35.0,AFN The Eagle Iwakuni,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Iwakuni,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Iwakuni.html,,,False,American Forces Network,Eng
+35.0,AFN The Eagle Iwakuni,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Iwakuni,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Iwakuni.html,,,False,American Forces Network,Eng
+36.0,AFN The Eagle Daegu,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Daegu,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Daegu.html,,,False,American Forces Network,Eng
+36.0,AFN The Eagle Daegu,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Daegu,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Daegu.html,,,False,American Forces Network,Eng
+36.0,AFN The Eagle Daegu,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Daegu,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Daegu.html,,,False,American Forces Network,Eng
+36.0,AFN The Eagle Daegu,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Daegu,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Daegu.html,,,False,American Forces Network,Eng
+37.0,AFN The Eagle Humphreys,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Humphreys,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Humphreys.html,,,False,American Forces Network,Eng
+37.0,AFN The Eagle Humphreys,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Humphreys,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Humphreys.html,,,False,American Forces Network,Eng
+37.0,AFN The Eagle Humphreys,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Humphreys,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Humphreys.html,,,False,American Forces Network,Eng
+37.0,AFN The Eagle Humphreys,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Humphreys,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Humphreys.html,,,False,American Forces Network,Eng
+38.0,AFN The Eagle Kunsan,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Kunsan,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Kunsan.html,,,False,American Forces Network,Eng
+38.0,AFN The Eagle Kunsan,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Kunsan,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Kunsan.html,,,False,American Forces Network,Eng
+38.0,AFN The Eagle Kunsan,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Kunsan,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Kunsan.html,,,False,American Forces Network,Eng
+38.0,AFN The Eagle Kunsan,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Kunsan,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Kunsan.html,,,False,American Forces Network,Eng
+39.0,AFN The Eagle Misawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Misawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Misawa.html,,,False,American Forces Network,Eng
+39.0,AFN The Eagle Misawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Misawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Misawa.html,,,False,American Forces Network,Eng
+39.0,AFN The Eagle Misawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Misawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Misawa.html,,,False,American Forces Network,Eng
+39.0,AFN The Eagle Misawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Misawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Misawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+40.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+43.0,AFN The Eagle Okinawa,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Okinawa,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Okinawa.html,,,False,American Forces Network,Eng
+41.0,AFN The Eagle Tokyo,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Tokyo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Tokyo.html,,,False,American Forces Network,Eng
+41.0,AFN The Eagle Tokyo,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Tokyo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Tokyo.html,,,False,American Forces Network,Eng
+41.0,AFN The Eagle Tokyo,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Tokyo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Tokyo.html,,,False,American Forces Network,Eng
+41.0,AFN The Eagle Tokyo,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Tokyo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Tokyo.html,,,False,American Forces Network,Eng
+42.0,AFN The Eagle Sasebo,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Sasebo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Sasebo.html,,,False,American Forces Network,Eng
+42.0,AFN The Eagle Sasebo,,,DVB-S2,30000.0,2/3,12470 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Sasebo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Sasebo.html,,,False,American Forces Network,Eng
+42.0,AFN The Eagle Sasebo,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Sasebo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Sasebo.html,,,False,American Forces Network,Eng
+42.0,AFN The Eagle Sasebo,,,DVB-S2,30000.0,2/3,12590 V,,0.0,"PowerVu,Verimatrix",,AFN The Eagle Sasebo,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Sasebo.html,,,False,American Forces Network,Eng
+,(SBS feeds),,,DVB-S2,5500.0,3/4,12520 H,,,,,,,,,False,American Forces Network,
+,(SBS feeds),,,DVB-S2,5500.0,3/4,12527 H,,,,,,,,,False,American Forces Network,
+166.0,SkyGuide,?-?HEVC/HD,481.0,DVB-S2,8181.0,5/6,12536 H,,0.0,,,,,,,False,American Forces Network,Kor
+2.0,NHTV (Mon-Fri 08:45-17:15),0-1HEVC/HD,1000.0,DVB-S,3720.0,7/8,12554 H,,0.0,,,,,,,False,American Forces Network,Kor
+,MediaCan,,,DVB-S2,8800.0,5/6,12577 H,,0.0,,https://www.lyngsat.com/providers/kr/MediaCan.html,,,,,True,MediaCan,
+,MediaCan,,,DVB-S2,8800.0,5/6,12577 H,,0.0,,https://www.lyngsat.com/providers/kr/MediaCan.html,,,,,True,MediaCan,
+,MediaCan,2-1,,DVB-S,17500.0,5/6,12602 H,,0.0,,https://www.lyngsat.com/providers/kr/MediaCan.html,,,,,True,MediaCan,
+,MediaCan,2-1,,DVB-S,17500.0,5/6,12602 H,,0.0,,https://www.lyngsat.com/providers/kr/MediaCan.html,,,,,True,MediaCan,
+5.0,OUN,MPEG-2/SD,185.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+5.0,OUN,MPEG-2/SD,185.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,OUN,https://www.lyngsat.com/tvchannels/kr/OUN.html,,,False,MediaCan,Kor Kor
+6.0,National Assembly TV,MPEG-2/SD,195.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,National Assembly TV,https://www.lyngsat.com/tvchannels/kr/National-Assembly-TV.html,,,False,MediaCan,Kor
+6.0,National Assembly TV,MPEG-2/SD,195.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,National Assembly TV,https://www.lyngsat.com/tvchannels/kr/National-Assembly-TV.html,,,False,MediaCan,Kor
+6.0,National Assembly TV,MPEG-2/SD,195.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,National Assembly TV,https://www.lyngsat.com/tvchannels/kr/National-Assembly-TV.html,,,False,MediaCan,Kor
+6.0,National Assembly TV,MPEG-2/SD,195.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,National Assembly TV,https://www.lyngsat.com/tvchannels/kr/National-Assembly-TV.html,,,False,MediaCan,Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+8.0,EBS Plus 1,MPEG-2/SD,225.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 1,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-1.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+9.0,EBS Plus 2,MPEG-2/SD,230.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS Plus 2,https://www.lyngsat.com/tvchannels/kr/EBS-Plus-2.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S2,8800.0,5/6,12577 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+10.0,EBS English,MPEG-2/SD,235.0,DVB-S,17500.0,5/6,12602 H,,0.0,,,EBS English,https://www.lyngsat.com/tvchannels/kr/EBS-English.html,,,False,MediaCan,Kor Kor
+,(Korea Telecom feeds),,,DVB-S2,5000.0,3/4,12624 V,,,,,,,,,False,MediaCan,
+,(Korea Telecom feeds),,,DVB-S2,7200.0,3/4,12639 V,,,,,,,,,False,MediaCan,
+,(Korea Telecom feeds),,,DVB-S2,3200.0,3/4,12644 H,,,,,,,,,False,MediaCan,
+,(MBC feeds),,,DVB-S2,3474.0,4/5,12655 H,,,,,,,,,False,MediaCan,
+,(MBC feeds),,,DVB-S2,3474.0,4/5,12660 H,,,,,,,,,False,MediaCan,
+1.0,MBC (South Korea),?-?MPEG-4/HD,513.0,DVB-S2,3818.0,3/4,12665 H,,0.0,,,,,,,False,MediaCan,Kor
+1.0,MBC Standard FM,,,DVB-S2,3818.0,3/4,12665 H,,0.0,,,MBC Standard FM,https://www.lyngsat.com/radiochannels/kr/MBC-Standard-FM.html,,,False,MediaCan,Kor
+1.0,MBC FM4U,,,DVB-S2,3818.0,3/4,12665 H,,0.0,,,MBC FM4U,https://www.lyngsat.com/radiochannels/kr/MBC-FM4U.html,,,False,MediaCan,Kor
+,,,,DVB-S2,11666.0,2/3,12710 V,,,,,,,,,False,MediaCan,
+1.0,KBS Korea,MPEG-4/HD,2051.0,DVB-S2,11666.0,2/3,12710 V,,,,,KBS Korea,https://www.lyngsat.com/tvchannels/kr/KBS-Korea.html,,,False,MediaCan,Kor
+1.0,KBS Korea,MPEG-4/HD,2051.0,DVB-S2,11666.0,2/3,12710 V,,,,,KBS Korea,https://www.lyngsat.com/tvchannels/kr/KBS-Korea.html,,,False,MediaCan,Kor
+2.0,YTN,MPEG-4/HD,33.0,DVB-S2,11666.0,2/3,12710 V,,,,,YTN,https://www.lyngsat.com/tvchannels/kr/YTN.html,,,False,MediaCan,Kor
+2.0,YTN,MPEG-4/HD,33.0,DVB-S2,11666.0,2/3,12710 V,,,,,YTN,https://www.lyngsat.com/tvchannels/kr/YTN.html,,,False,MediaCan,Kor
+3.0,KBS World,MPEG-4/HD,81.0,DVB-S2,11666.0,2/3,12710 V,,,,,KBS World,https://www.lyngsat.com/tvchannels/kr/KBS-World.html,,,False,MediaCan,Kor
+,,,,,,,,,,,,DVB-S216APSK81815/6,,,,False,MediaCan,
+,,,,,,,,,,,,DVB-S37207/8,,,,False,MediaCan,
+,,,,,,,,,,,,DVB-S37207/8,,,,False,MediaCan,
+,,,,,,,,,,,,DVB-S28PSK38183/4,,,,False,MediaCan,

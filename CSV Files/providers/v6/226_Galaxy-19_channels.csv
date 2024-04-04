@@ -1,0 +1,255 @@
+Freq/beam,SR/FEC,SID,Provider/Channel,undef,Compression,VPID,Audio,Encryption,Src_Updated,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL
+3809 Htp 6C0,DVB-S28PSK108903/5,,,,,,5.5,,D Dragos190505,DVB-S2,10890,3/5,3809 H,tp 6,0,,,,
+4032 Htp 16C0,DVB-S28PSK96005/6,,,,,,9.4,PowerVu,Mike 4230829,DVB-S2,9600,5/6,4032 H,tp 16,0,PowerVu,,,
+11960 Vtp 13Ku0,,,,,,,,,Cyberham240306,DVB-S,22000,3/4,11960 V,tp 13,0,,,,
+11987 Vtp 15Ku0,DVB-S3977,,,,,,,,J Newark 2230701,DVB-S,21600,5/6,11987 V,tp 15,0,,,,
+3809 Htp 6C0,DVB-S28PSK108903/5,,Imagen TV,,MPEG-4/HD,33,34 Spa,,,DVB-S2,10890,3/5,3809 H,tp 6,0,,,Imagen TV,https://www.lyngsat.com/tvchannels/mx/Imagen-TV.html
+3809 Htp 6C0,DVB-S28PSK108903/5,,Imagen TV,,MPEG-4/HD,33,34 Spa,,,DVB-S2,10890,3/5,3809 H,tp 6,0,,,Imagen TV,https://www.lyngsat.com/tvchannels/mx/Imagen-TV.html
+3809 Htp 6C0,DVB-S28PSK108903/5,4,Excélsior TV,,MPEG-2/SD,481,482 Spa,,,DVB-S2,10890,3/5,3809 H,tp 6,0,,,Excélsior TV,https://www.lyngsat.com/tvchannels/mx/Excelsior-TV.html
+3861 Htp 8C0,DVB-S28PSK65225/6,1,TV Tabasqueña,,?-?MPEG-2/HD,49,9.4  51 Spa,,A Ishchenko230416,DVB-S2,6522,5/6,3861 H,tp 8,0,,,,
+3913 Htp 10C0,DVB-S28PSK84003/5,1,Imagen Informativa,,?-?MPEG-2/HD,481,5.5 482 Spa,,D Dragos210807,DVB-S2,8400,3/5,3913 H,tp 10,0,,,,
+4009 Vtp 15C0,DVB-S28PSK150005/6,1,The CW,,?-?MPEG-4/HD,162,9.4 163 Eng,,J Klingerman230216,DVB-S2,15000,5/6,4009 V,tp 15,0,,,,
+4027 Vtp 17C,DVB-S61113/4,,(feeds),,,,,,Mike 4230116,DVB-S,6111,3/4,4027 V,tp 17,,,,,
+11930 Vtp 11Ku,DVB-S2640,,(feeds),,,,,,J Newark 2230701,DVB-S,22000,3/4,11930 V,tp 11,,,,,
+11940 Vtp 11Ku,DVB-S2640,,(feeds),,,,,,J Newark 2230701,DVB-S,22000,3/4,11940 V,tp 11,,,,,
+4032 Htp 16C0,DVB-S28PSK96005/6,496,CBC Toronto,,MPEG-4/HD,499,500 Eng,PowerVu,,DVB-S2,9600,5/6,4032 H,tp 16,0,PowerVu,,CBC Toronto,https://www.lyngsat.com/tvchannels/ca/CBC-Toronto.html
+4032 Htp 16C0,DVB-S28PSK96005/6,1472,Ici Radio Canada Télé Montréal,,MPEG-4/HD,1475,1476 Fre,PowerVu,,DVB-S2,9600,5/6,4032 H,tp 16,0,PowerVu,,Ici Radio Canada Télé Montréal,https://www.lyngsat.com/tvchannels/ca/Ici-Radio-Canada-Tele-Montreal.html
+4032 Htp 16C0,DVB-S28PSK96005/6,1776,Télé-Québec,,MPEG-4/HD,1779,1780 Fre,PowerVu,,DVB-S2,9600,5/6,4032 H,tp 16,0,PowerVu,,Télé-Québec,https://www.lyngsat.com/tvchannels/ca/Tele-Quebec.html
+4064 Htp 18C,DVB-S28PSK41663/4,,(Warner Bros feeds),,,,,,Mike 4221215,DVB-S2,4166,3/4,4064 H,tp 18,,,,,
+4080 Vtp 19C,DVB-S216APSK342862/3,,(CBS feeds),,,,,,Mike 4220825,DVB-S2,34286,2/3,4080 V,tp 19,,,,,
+4120 Vtp 21C,DVB-S28PSK300005/6,,(ABC feeds),,,,,,Rick101028,DVB-S2,30000,5/6,4120 V,tp 21,,,,,
+4140 Htp 22C0,DVB-S216APSK342865/6,,Televisa,,,,,Director,NOS482230507,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,https://www.lyngsat.com/providers/mx/Televisa.html,,
+4140 Htp 22C0,DVB-S216APSK342865/6,1,Las Estrellas México,,HEVC/HD,2001,4011 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Las Estrellas México,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico.html
+4140 Htp 22C0,DVB-S216APSK342865/6,2,Canal 5,,HEVC/HD,2002,4021 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Canal 5,https://www.lyngsat.com/tvchannels/mx/Canal-5.html
+4140 Htp 22C0,DVB-S216APSK342865/6,3,Nu9ve,,HEVC/HD,2003,4031 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Nu9ve,https://www.lyngsat.com/tvchannels/mx/Nu9ve.html
+4140 Htp 22C0,DVB-S216APSK342865/6,4,Las Estrellas México +1,,HEVC/HD,2004,4041 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Las Estrellas México +1,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico--1.html
+4140 Htp 22C0,DVB-S216APSK342865/6,5,Las Estrellas México +2,,HEVC/HD,2005,4051 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Las Estrellas México +2,https://www.lyngsat.com/tvchannels/mx/Las-Estrellas-Mexico--2.html
+4140 Htp 22C0,DVB-S216APSK342865/6,6,Canal 5 +1,,HEVC/HD,2006,40.2 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Canal 5 +1,https://www.lyngsat.com/tvchannels/mx/Canal-5--1.html
+4140 Htp 22C0,DVB-S216APSK342865/6,7,Canal 5 +2,,HEVC/HD,2007,4072 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Canal 5 +2,https://www.lyngsat.com/tvchannels/mx/Canal-5--2.html
+4140 Htp 22C0,DVB-S216APSK342865/6,8,Nu9ve +1,,HEVC/HD,2008,4082 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Nu9ve +1,https://www.lyngsat.com/tvchannels/mx/Nu9ve--1.html
+4140 Htp 22C0,DVB-S216APSK342865/6,9,Nu9ve +2,,HEVC/HD,2009,4092 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Nu9ve +2,https://www.lyngsat.com/tvchannels/mx/Nu9ve--2.html
+4140 Htp 22C0,DVB-S216APSK342865/6,10,Foro TV (Mexico),,HEVC/HD,2010,4102 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Foro TV (Mexico),https://www.lyngsat.com/tvchannels/mx/Foro-TV.html
+4140 Htp 22C0,DVB-S216APSK342865/6,10,Foro TV (Mexico),,HEVC/HD,2010,4102 Spa,Director,,DVB-S2,34286,5/6,4140 H,tp 22,0,Director,,Foro TV (Mexico),https://www.lyngsat.com/tvchannels/mx/Foro-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,,SES,,1-220,,5.5,,Cyberham240306,DVB-S,22000,3/4,11842 H,tp 6,0,,https://www.lyngsat.com/providers/lu/SES.html,,
+11842 Htp 6Ku0,DVB-S220003/4,1,Hope Channel North America,,MPEG-2/SD,2201,3201 Eng4201 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Hope Channel North America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-North-America.html
+11842 Htp 6Ku0,DVB-S220003/4,1,Hope Channel North America,,MPEG-2/SD,2201,3201 Eng4201 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Hope Channel North America,https://www.lyngsat.com/tvchannels/us/Hope-Channel-North-America.html
+11842 Htp 6Ku0,DVB-S220003/4,2,Daystar TV,,MPEG-2/SD,2002,3002 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,2,Daystar TV,,MPEG-2/SD,2002,3002 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,5,The Word Network,,MPEG-2/SD,46,45 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,The Word Network,https://www.lyngsat.com/tvchannels/us/The-Word-Network.html
+11842 Htp 6Ku0,DVB-S220003/4,8,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),,MPEG-2/SD,2008,3008 Hun,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),https://www.lyngsat.com/tvchannels/hu/Duna-World.html
+11842 Htp 6Ku0,DVB-S220003/4,8,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),,MPEG-2/SD,2008,3008 Hun,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Duna World (Sun 22-Sat 14 & Sat 22-Sun 14),https://www.lyngsat.com/tvchannels/hu/Duna-World.html
+11842 Htp 6Ku0,DVB-S220003/4,8,M4 Sport + (Sat-Sun 14-22),,MPEG-2/SD,2008,3008 Hun,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,M4 Sport + (Sat-Sun 14-22),https://www.lyngsat.com/tvchannels/hu/M4-Sport--.html
+11842 Htp 6Ku0,DVB-S220003/4,11,LLBN His Word,,MPEG-2/SD,2011,3011 Eng4011 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,LLBN His Word,https://www.lyngsat.com/tvchannels/us/LLBN-His-Word.html
+11842 Htp 6Ku0,DVB-S220003/4,11,LLBN His Word,,MPEG-2/SD,2011,3011 Eng4011 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,LLBN His Word,https://www.lyngsat.com/tvchannels/us/LLBN-His-Word.html
+11842 Htp 6Ku0,DVB-S220003/4,12,Esperanza TV,,MPEG-2/SD,2202,3202 Spa,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Esperanza TV,https://www.lyngsat.com/tvchannels/us/Esperanza-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,12,Esperanza TV,,MPEG-2/SD,2202,3202 Spa,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Esperanza TV,https://www.lyngsat.com/tvchannels/us/Esperanza-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,16,TVGE Internacional,,MPEG-2/SD,2016,3016 Spa,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,TVGE Internacional,https://www.lyngsat.com/tvchannels/gq/TVGE-Internacional.html
+11842 Htp 6Ku0,DVB-S220003/4,16,TVGE Internacional,,MPEG-2/SD,2016,3016 Spa,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,TVGE Internacional,https://www.lyngsat.com/tvchannels/gq/TVGE-Internacional.html
+11842 Htp 6Ku0,DVB-S220003/4,17,TVR International,,MPEG-2/SD,2017,3017 Rum,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,TVR International,https://www.lyngsat.com/tvchannels/ro/TVR-International.html
+11842 Htp 6Ku0,DVB-S220003/4,17,TVR International,,MPEG-2/SD,2017,3017 Rum,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,TVR International,https://www.lyngsat.com/tvchannels/ro/TVR-International.html
+11842 Htp 6Ku0,DVB-S220003/4,75,Quo Vadis TV,,MPEG-2/SD,2075,3075 Eng4075 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Quo Vadis TV,https://www.lyngsat.com/tvchannels/ca/Quo-Vadis-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,75,Quo Vadis TV,,MPEG-2/SD,2075,3075 Eng4075 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Quo Vadis TV,https://www.lyngsat.com/tvchannels/ca/Quo-Vadis-TV.html
+11842 Htp 6Ku0,DVB-S220003/4,3,CityLife Radio,,,,3003 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,CityLife Radio,https://www.lyngsat.com/radiochannels/us/CityLife-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,3,CityLife Radio,,,,3003 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,CityLife Radio,https://www.lyngsat.com/radiochannels/us/CityLife-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,7,KNLB,,,,3007 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,KNLB,https://www.lyngsat.com/radiochannels/us/KNLB.html
+11842 Htp 6Ku0,DVB-S220003/4,7,KNLB,,,,3007 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,KNLB,https://www.lyngsat.com/radiochannels/us/KNLB.html
+11842 Htp 6Ku0,DVB-S220003/4,9,Duna World Rádió,,,,3009 Hun,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Duna World Rádió,https://www.lyngsat.com/radiochannels/hu/Duna-World-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,9,Duna World Rádió,,,,3009 Hun,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Duna World Rádió,https://www.lyngsat.com/radiochannels/hu/Duna-World-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,15,The Overcomer,,,,3015 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,The Overcomer,https://www.lyngsat.com/radiochannels/us/The-Overcomer.html
+11842 Htp 6Ku0,DVB-S220003/4,15,The Overcomer,,,,3015 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,The Overcomer,https://www.lyngsat.com/radiochannels/us/The-Overcomer.html
+11842 Htp 6Ku0,DVB-S220003/4,26,Radio Libertad,,,,3026,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,Radio Libertad,https://www.lyngsat.com/radiochannels/us/Radio-Libertad.html
+11842 Htp 6Ku0,DVB-S220003/4,112,LifeTalk Radio,,,,3112 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,LifeTalk Radio,https://www.lyngsat.com/radiochannels/us/LifeTalk-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,112,LifeTalk Radio,,,,3112 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,LifeTalk Radio,https://www.lyngsat.com/radiochannels/us/LifeTalk-Radio.html
+11842 Htp 6Ku0,DVB-S220003/4,113,LifeTalk Translator,,,,3113 Eng,,,DVB-S,22000,3/4,11842 H,tp 6,0,,,LifeTalk Translator,https://www.lyngsat.com/radiochannels/us/LifeTalk-Translator.html
+11966 Htp 14Ku0,DVB-S216005/6,,Saba World,,,,6.5,,I Skaini240128,DVB-S,21600,5/6,11966 H,tp 14,0,,https://www.lyngsat.com/providers/lb/Saba-World.html,,
+11966 Htp 14Ku0,DVB-S216005/6,,Al Rabiaa TV,,MPEG-4/HD,49,50 Ara,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Al Rabiaa TV,https://www.lyngsat.com/tvchannels/iq/Al-Rabiaa-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,Al Rabiaa TV,,MPEG-4/HD,49,50 Ara,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Al Rabiaa TV,https://www.lyngsat.com/tvchannels/iq/Al-Rabiaa-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,Al-Mohtadi HD,,MPEG-4/HD,1000,2000 Ara,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Al-Mohtadi HD,https://www.lyngsat.com/tvchannels/--/Al-Mohtadi-HD.html
+11966 Htp 14Ku0,DVB-S216005/6,,Jam Jam Global Network 2,,MPEG-4/HD,1220,1221 Per,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Jam Jam Global Network 2,https://www.lyngsat.com/tvchannels/ir/Jam-Jam-Global-Network-2.html
+11966 Htp 14Ku0,DVB-S216005/6,,Press TV,,MPEG-4/HD,1310,1311 Eng,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,Press TV,,MPEG-4/HD,1310,1311 Eng,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Press TV,https://www.lyngsat.com/tvchannels/ir/Press-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,Hispan TV,,MPEG-4/SD,1320,1321 Spa,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Hispan TV,https://www.lyngsat.com/tvchannels/ir/Hispan-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,Hispan TV,,MPEG-4/SD,1320,1321 Spa,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Hispan TV,https://www.lyngsat.com/tvchannels/ir/Hispan-TV.html
+11966 Htp 14Ku0,DVB-S216005/6,,IFilm English,,MPEG-4/SD,1330,1331,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,IFilm English,https://www.lyngsat.com/tvchannels/ir/IFilm-English.html
+11966 Htp 14Ku0,DVB-S216005/6,,IFilm English,,MPEG-4/SD,1330,1331,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,IFilm English,https://www.lyngsat.com/tvchannels/ir/IFilm-English.html
+11966 Htp 14Ku0,DVB-S216005/6,829,Channel 8,,MPEG-4/HD,52,53 Kur,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html
+11966 Htp 14Ku0,DVB-S216005/6,829,Channel 8,,MPEG-4/HD,52,53 Kur,,,DVB-S,21600,5/6,11966 H,tp 14,0,,,Channel 8,https://www.lyngsat.com/tvchannels/iq/Channel-8.html
+11993 Htp 16Ku,DVB-S132353/4,,(Texas Lottery feeds),,,,,,ML240301,DVB-S,13235,3/4,11993 H,tp 16,,,,,
+12028 Htp 18Ku0,DVB-S28PSK220003/4,,STN,,20480-600,,7.9,,Cyberham240306,DVB-S2,22000,3/4,12028 H,tp 18,0,,https://www.lyngsat.com/providers/si/STN.html,,
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7790,TRT Türk,,MPEG-2/SD,7200,7300 Tur,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,TRT Türk,https://www.lyngsat.com/tvchannels/tr/TRT-Turk.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7790,TRT Türk,,MPEG-2/SD,7200,7300 Tur,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,TRT Türk,https://www.lyngsat.com/tvchannels/tr/TRT-Turk.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7791,Supreme Master TV,,MPEG-2/SD,7201,7301 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7791,Supreme Master TV,,MPEG-2/SD,7201,7301 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Supreme Master TV,https://www.lyngsat.com/tvchannels/tw/Supreme-Master-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7792,Bayyinat TV,,MPEG-2/SD,7202,7302 Ara,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Bayyinat TV,https://www.lyngsat.com/tvchannels/iq/Bayyinat-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7792,Bayyinat TV,,MPEG-2/SD,7202,7302 Ara,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Bayyinat TV,https://www.lyngsat.com/tvchannels/iq/Bayyinat-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7793,BogBlag TV,,MPEG-2/SD,7203,7303 Rus,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,BogBlag TV,https://www.lyngsat.com/tvchannels/us/BogBlag-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7793,BogBlag TV,,MPEG-2/SD,7203,7303 Rus,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,BogBlag TV,https://www.lyngsat.com/tvchannels/us/BogBlag-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7794,Victory Channel (USA),,MPEG-2/SD,7204,7304 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Victory Channel (USA),https://www.lyngsat.com/tvchannels/us/Victory-Channel.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7794,Victory Channel (USA),,MPEG-2/SD,7204,7304 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Victory Channel (USA),https://www.lyngsat.com/tvchannels/us/Victory-Channel.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7796,Silk Way,,MPEG-2/SD,7206,7306 Kaz,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Silk Way,https://www.lyngsat.com/tvchannels/kz/Silk-Way.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7796,Silk Way,,MPEG-2/SD,7206,7306 Kaz,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Silk Way,https://www.lyngsat.com/tvchannels/kz/Silk-Way.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7797,Kentron TV International,,MPEG-2/SD,7207,7307 Arm,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Kentron TV International,https://www.lyngsat.com/tvchannels/am/Kentron-TV-International.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7801,TV TRWAM,,MPEG-4/HD,7841,7861 Pol,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,TV TRWAM,https://www.lyngsat.com/tvchannels/pl/TV-TRWAM.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7801,TV TRWAM,,MPEG-4/HD,7841,7861 Pol,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,TV TRWAM,https://www.lyngsat.com/tvchannels/pl/TV-TRWAM.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7806,Angel TV America,,MPEG-4/HD,7846,7866 Tam,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Angel TV America,https://www.lyngsat.com/tvchannels/in/Angel-TV-America.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7806,Angel TV America,,MPEG-4/HD,7846,7866 Tam,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Angel TV America,https://www.lyngsat.com/tvchannels/in/Angel-TV-America.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7807,AssyriaSat,,MPEG-2/SD,7847,7867 Syr,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,AssyriaSat,https://www.lyngsat.com/tvchannels/us/AssyriaSat.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7807,AssyriaSat,,MPEG-2/SD,7847,7867 Syr,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,AssyriaSat,https://www.lyngsat.com/tvchannels/us/AssyriaSat.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7810,Rûdaw,,MPEG-2/SD,7850,7870 Kur,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Rûdaw,https://www.lyngsat.com/tvchannels/iq/Rudaw.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7810,Rûdaw,,MPEG-2/SD,7850,7870 Kur,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Rûdaw,https://www.lyngsat.com/tvchannels/iq/Rudaw.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7813,CTN (USA),,MPEG-4/HD,7853,7873 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,CTN (USA),https://www.lyngsat.com/tvchannels/us/CTN.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7813,CTN (USA),,MPEG-4/HD,7853,7873 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,CTN (USA),https://www.lyngsat.com/tvchannels/us/CTN.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7818,3ABN English,,MPEG-4/HD,7858,7878 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN English,https://www.lyngsat.com/tvchannels/us/3ABN-English.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7818,3ABN English,,MPEG-4/HD,7858,7878 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN English,https://www.lyngsat.com/tvchannels/us/3ABN-English.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7819,Amazing Facts TV,,MPEG-2/SD,7859,7879 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Amazing Facts TV,https://www.lyngsat.com/tvchannels/us/Amazing-Facts-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7819,Amazing Facts TV,,MPEG-2/SD,7859,7879 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Amazing Facts TV,https://www.lyngsat.com/tvchannels/us/Amazing-Facts-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7820,Amazing Discoveries TV,,MPEG-2/SD,7860,7880 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Amazing Discoveries TV,https://www.lyngsat.com/tvchannels/ca/Amazing-Discoveries-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7820,Amazing Discoveries TV,,MPEG-2/SD,7860,7880 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Amazing Discoveries TV,https://www.lyngsat.com/tvchannels/ca/Amazing-Discoveries-TV.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7821,Firstlight,,MPEG-2/SD,7891,7901,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Firstlight,https://www.lyngsat.com/tvchannels/nz/Firstlight.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7821,Firstlight,,MPEG-2/SD,7891,7901,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Firstlight,https://www.lyngsat.com/tvchannels/nz/Firstlight.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7798,CJTL Radio,,,,7308 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,CJTL Radio,https://www.lyngsat.com/radiochannels/ca/CJTL-Radio.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7798,CJTL Radio,,,,7308 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,CJTL Radio,https://www.lyngsat.com/radiochannels/ca/CJTL-Radio.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7799,Faith Radio,,,,7309 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Faith Radio,https://www.lyngsat.com/radiochannels/us/Faith-Radio.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7799,Faith Radio,,,,7309 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Faith Radio,https://www.lyngsat.com/radiochannels/us/Faith-Radio.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7814,3ABN Radio Music Channel,,,,7874 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Music Channel,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Music-Channel.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7814,3ABN Radio Music Channel,,,,7874 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Music Channel,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Music-Channel.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7815,3ABN Radio Network,,,,7875 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Network,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Network.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7815,3ABN Radio Network,,,,7875 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Network,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Network.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7816,Radio 74 Internationale,,,,7876 Eng,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Radio 74 Internationale,https://www.lyngsat.com/radiochannels/ch/Radio-74-Internationale.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7817,3ABN Radio Latino,,,,7877 Spa,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Latino,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Latino.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7817,3ABN Radio Latino,,,,7877 Spa,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,3ABN Radio Latino,https://www.lyngsat.com/radiochannels/us/3ABN-Radio-Latino.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7901,Radio Maryja,,,,7961 Pol,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Radio Maryja,https://www.lyngsat.com/radiochannels/pl/Radio-Maryja.html
+12028 Htp 18Ku0,DVB-S28PSK220003/4,7901,Radio Maryja,,,,7961 Pol,,,DVB-S2,22000,3/4,12028 H,tp 18,0,,,Radio Maryja,https://www.lyngsat.com/radiochannels/pl/Radio-Maryja.html
+12053 Vtp 19Ku0,DVB-S220003/4,,Globecast,,?-7,,5.5,,Cyberham240306,DVB-S,22000,3/4,12053 V,tp 19,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12053 Vtp 19Ku0,DVB-S220003/4,,Globecast,,?-7,,5.5,,Cyberham240306,DVB-S,22000,3/4,12053 V,tp 19,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12053 Vtp 19Ku0,DVB-S220003/4,,Globecast,,?-7,,5.5,,Cyberham240306,DVB-S,22000,3/4,12053 V,tp 19,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12053 Vtp 19Ku0,DVB-S220003/4,,Globecast,,?-7,,5.5,,Cyberham240306,DVB-S,22000,3/4,12053 V,tp 19,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12146 Vtp 25Ku0,DVB-S220003/4,,Globecast,,?-10,,5.5,,Cyberham240306,DVB-S,22000,3/4,12146 V,tp 25,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12146 Vtp 25Ku0,DVB-S220003/4,,Globecast,,?-10,,5.5,,Cyberham240306,DVB-S,22000,3/4,12146 V,tp 25,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12146 Vtp 25Ku0,DVB-S220003/4,,Globecast,,?-10,,5.5,,Cyberham240306,DVB-S,22000,3/4,12146 V,tp 25,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12146 Vtp 25Ku0,DVB-S220003/4,,Globecast,,?-10,,5.5,,Cyberham240306,DVB-S,22000,3/4,12146 V,tp 25,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12152 Htp 26Ku0,DVB-S200003/4,,Globecast,,1-5,,5.5,,Cyberham240306,DVB-S,20000,3/4,12152 H,tp 26,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12152 Htp 26Ku0,DVB-S200003/4,,Globecast,,1-5,,5.5,,Cyberham240306,DVB-S,20000,3/4,12152 H,tp 26,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12152 Htp 26Ku0,DVB-S200003/4,,Globecast,,1-5,,5.5,,Cyberham240306,DVB-S,20000,3/4,12152 H,tp 26,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12152 Htp 26Ku0,DVB-S200003/4,,Globecast,,1-5,,5.5,,Cyberham240306,DVB-S,20000,3/4,12152 H,tp 26,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12177 Vtp 27Ku0,DVB-S230003/4,,Globecast,,0-1,,5.5,,ML240119,DVB-S,23000,3/4,12177 V,tp 27,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12177 Vtp 27Ku0,DVB-S230003/4,,Globecast,,0-1,,5.5,,ML240119,DVB-S,23000,3/4,12177 V,tp 27,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12177 Vtp 27Ku0,DVB-S230003/4,,Globecast,,0-1,,5.5,,ML240119,DVB-S,23000,3/4,12177 V,tp 27,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12177 Vtp 27Ku0,DVB-S230003/4,,Globecast,,0-1,,5.5,,ML240119,DVB-S,23000,3/4,12177 V,tp 27,0,,https://www.lyngsat.com/providers/fr/Globecast.html,,
+12053 Vtp 19Ku0,DVB-S220003/4,4,Global Mall TV,,MPEG-2/SD,516,515 Vie,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Global Mall TV,https://www.lyngsat.com/tvchannels/us/Global-Mall-TV.html
+12053 Vtp 19Ku0,DVB-S220003/4,4,Global Mall TV,,MPEG-2/SD,516,515 Vie,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Global Mall TV,https://www.lyngsat.com/tvchannels/us/Global-Mall-TV.html
+12053 Vtp 19Ku0,DVB-S220003/4,15,IBC TV,,MPEG-2/SD,1090,1091 Vie,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,IBC TV,https://www.lyngsat.com/tvchannels/us/IBC-TV.html
+12053 Vtp 19Ku0,DVB-S220003/4,15,IBC TV,,MPEG-2/SD,1090,1091 Vie,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,IBC TV,https://www.lyngsat.com/tvchannels/us/IBC-TV.html
+12053 Vtp 19Ku0,DVB-S220003/4,318,TBN USA,,MPEG-2/SD,33,34 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,TBN USA,https://www.lyngsat.com/tvchannels/us/TBN-USA.html
+12053 Vtp 19Ku0,DVB-S220003/4,319,TBN Inspire USA,,MPEG-2/SD,47,48 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,TBN Inspire USA,https://www.lyngsat.com/tvchannels/us/TBN-Inspire-USA.html
+12053 Vtp 19Ku0,DVB-S220003/4,321,Smile TV,,MPEG-2/SD,4130,4131 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Smile TV,https://www.lyngsat.com/tvchannels/us/Smile-TV.html
+12053 Vtp 19Ku0,DVB-S220003/4,322,Positiv,,MPEG-2/SD,113,114 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Positiv,https://www.lyngsat.com/tvchannels/us/Positiv.html
+12053 Vtp 19Ku0,DVB-S220003/4,322,Positiv,,MPEG-2/SD,113,114 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Positiv,https://www.lyngsat.com/tvchannels/us/Positiv.html
+12053 Vtp 19Ku0,DVB-S220003/4,380,Al Maghribia,,MPEG-2/SD,4023,4033 Ara,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html
+12053 Vtp 19Ku0,DVB-S220003/4,380,Al Maghribia,,MPEG-2/SD,4023,4033 Ara,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Al Maghribia,https://www.lyngsat.com/tvchannels/ma/Al-Maghribia.html
+12053 Vtp 19Ku0,DVB-S220003/4,381,2M Monde,,MPEG-2/SD,272,273 Ara,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,2M Monde,https://www.lyngsat.com/tvchannels/ma/2M-Monde.html
+12053 Vtp 19Ku0,DVB-S220003/4,524,Tele Congo,,MPEG-2/SD,180,181 Fre,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Tele Congo,https://www.lyngsat.com/tvchannels/cg/Tele-Congo.html
+12053 Vtp 19Ku0,DVB-S220003/4,527,Armenia 1 TV Satellite,,MPEG-2/SD,592,593 Arm,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Armenia 1 TV Satellite,https://www.lyngsat.com/tvchannels/am/Armenia-1-TV-Satellite.html
+12053 Vtp 19Ku0,DVB-S220003/4,527,Armenia 1 TV Satellite,,MPEG-2/SD,592,593 Arm,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Armenia 1 TV Satellite,https://www.lyngsat.com/tvchannels/am/Armenia-1-TV-Satellite.html
+12053 Vtp 19Ku0,DVB-S220003/4,382,WWCR,,,,761 Eng,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,WWCR,https://www.lyngsat.com/radiochannels/us/WWCR.html
+12053 Vtp 19Ku0,DVB-S220003/4,525,Radio Congo,,,,182 Fre,,,DVB-S,22000,3/4,12053 V,tp 19,0,,,Radio Congo,https://www.lyngsat.com/radiochannels/cg/Radio-Congo.html
+12084 Vtp 21Ku0,DVB-S207603/4,,CCTV,,,,5.5,,Mike 4220305,DVB-S,20760,3/4,12084 V,tp 21,0,,https://www.lyngsat.com/providers/cn/CCTV.html,,
+12084 Vtp 21Ku0,DVB-S207603/4,1,CCTV 4 America,,MPEG-2/SD,512,650 Chi,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CCTV 4 America,https://www.lyngsat.com/tvchannels/cn/CCTV-4-America.html
+12084 Vtp 21Ku0,DVB-S207603/4,1,CCTV 4 America,,MPEG-2/SD,512,650 Chi,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CCTV 4 America,https://www.lyngsat.com/tvchannels/cn/CCTV-4-America.html
+12084 Vtp 21Ku0,DVB-S207603/4,2,CGTN,,MPEG-2/SD,513,660 Eng,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html
+12084 Vtp 21Ku0,DVB-S207603/4,2,CGTN,,MPEG-2/SD,513,660 Eng,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html
+12084 Vtp 21Ku0,DVB-S207603/4,3,CGTN Français,,MPEG-2/SD,514,670 Fre,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html
+12084 Vtp 21Ku0,DVB-S207603/4,3,CGTN Français,,MPEG-2/SD,514,670 Fre,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Français,https://www.lyngsat.com/tvchannels/cn/CGTN-Francais.html
+12084 Vtp 21Ku0,DVB-S207603/4,7,CGTN Español,,MPEG-2/SD,518,710 Spa,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Español,https://www.lyngsat.com/tvchannels/cn/CGTN-Espanol.html
+12084 Vtp 21Ku0,DVB-S207603/4,7,CGTN Español,,MPEG-2/SD,518,710 Spa,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Español,https://www.lyngsat.com/tvchannels/cn/CGTN-Espanol.html
+12084 Vtp 21Ku0,DVB-S207603/4,8,CGTN Documentary,,MPEG-2/SD,519,720 Eng,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html
+12084 Vtp 21Ku0,DVB-S207603/4,8,CGTN Documentary,,MPEG-2/SD,519,720 Eng,,,DVB-S,20760,3/4,12084 V,tp 21,0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html
+12146 Vtp 25Ku0,DVB-S220003/4,801,Palestine TV,,MPEG-2/SD,2021,2031 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,801,Palestine TV,,MPEG-2/SD,2021,2031 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Palestine TV,https://www.lyngsat.com/tvchannels/ps/Palestine-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,802,Oman TV,,MPEG-4/SD,2022,2032 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,802,Oman TV,,MPEG-4/SD,2022,2032 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Oman TV,https://www.lyngsat.com/tvchannels/om/Oman-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,803,Sudan TV,,MPEG-2/SD,2023,2033 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Sudan TV,https://www.lyngsat.com/tvchannels/sd/Sudan-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,805,Ekhbariya TV,,MPEG-2/SD,2025,2035 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,805,Ekhbariya TV,,MPEG-2/SD,2025,2035 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Ekhbariya TV,https://www.lyngsat.com/tvchannels/sa/Ekhbariya-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,807,Sharjah TV,,MPEG-2/SD,2027,2037 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,807,Sharjah TV,,MPEG-2/SD,2027,2037 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Sharjah TV,https://www.lyngsat.com/tvchannels/ae/Sharjah-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,808,Canal Algérie 2,,MPEG-2/SD,2028,2038 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Canal Algérie 2,https://www.lyngsat.com/tvchannels/dz/Canal-Algerie-2.html
+12146 Vtp 25Ku0,DVB-S220003/4,812,Jordan TV,,MPEG-2/SD,2073,2083 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Jordan TV,https://www.lyngsat.com/tvchannels/jo/Jordan-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,812,Jordan TV,,MPEG-2/SD,2073,2083 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Jordan TV,https://www.lyngsat.com/tvchannels/jo/Jordan-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,814,SSBC TV,,MPEG-2/SD,2029,2039 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,SSBC TV,https://www.lyngsat.com/tvchannels/ss/SSBC-TV.html
+12146 Vtp 25Ku0,DVB-S220003/4,815,KTV 1,,MPEG-4/HD,2074,2084 Ara,,new,DVB-S,22000,3/4,12146 V,tp 25,0,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html
+12146 Vtp 25Ku0,DVB-S220003/4,815,KTV 1,,MPEG-4/HD,2074,2084 Ara,,new,DVB-S,22000,3/4,12146 V,tp 25,0,,,KTV 1,https://www.lyngsat.com/tvchannels/kw/KTV-1.html
+12146 Vtp 25Ku0,DVB-S220003/4,816,KTV Al Qurain,,MPEG-4/HD,2075,2085 Ara,,new,DVB-S,22000,3/4,12146 V,tp 25,0,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html
+12146 Vtp 25Ku0,DVB-S220003/4,816,KTV Al Qurain,,MPEG-4/HD,2075,2085 Ara,,new,DVB-S,22000,3/4,12146 V,tp 25,0,,,KTV Al Qurain,https://www.lyngsat.com/tvchannels/kw/KTV-Al-Qurain.html
+12146 Vtp 25Ku0,DVB-S220003/4,824,Riyadh Radio,,,,1324 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,824,Riyadh Radio,,,,1324 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Riyadh Radio,https://www.lyngsat.com/radiochannels/sa/Riyadh-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,825,Quran Radio (Saudi Arabia),,,,2105 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,825,Quran Radio (Saudi Arabia),,,,2105 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Quran Radio (Saudi Arabia),https://www.lyngsat.com/radiochannels/sa/Quran-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,831,SSBC Radio,,,,2217 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,SSBC Radio,https://www.lyngsat.com/radiochannels/ss/SSBC-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,834,Sharjah Radio,,,,1322 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html
+12146 Vtp 25Ku0,DVB-S220003/4,834,Sharjah Radio,,,,1322 Ara,,,DVB-S,22000,3/4,12146 V,tp 25,0,,,Sharjah Radio,https://www.lyngsat.com/radiochannels/ae/Sharjah-Radio.html
+12152 Htp 26Ku0,DVB-S200003/4,7,Alwatania TV,,MPEG-2/SD,700,701 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Alwatania TV,https://www.lyngsat.com/tvchannels/ly/Alwatania-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,7,Alwatania TV,,MPEG-2/SD,700,701 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Alwatania TV,https://www.lyngsat.com/tvchannels/ly/Alwatania-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,8,Quran TV (Saudi Arabia),,MPEG-2/SD,1024,1034 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,8,Quran TV (Saudi Arabia),,MPEG-2/SD,1024,1034 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Quran TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Quran-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,9,Sunna TV (Saudi Arabia),,MPEG-2/SD,1025,1035 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,9,Sunna TV (Saudi Arabia),,MPEG-2/SD,1025,1035 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Sunna TV (Saudi Arabia),https://www.lyngsat.com/tvchannels/sa/Sunna-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,10,Saudi TV,,MPEG-4/HD,1021,1031 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,10,Saudi TV,,MPEG-4/HD,1021,1031 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Saudi TV,https://www.lyngsat.com/tvchannels/sa/Saudi-TV.html
+12152 Htp 26Ku0,DVB-S200003/4,608,RTP Internacional América,,MPEG-2/SD,800,801 Por,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,RTP Internacional América,https://www.lyngsat.com/tvchannels/pt/RTP-Internacional-America.html
+12152 Htp 26Ku0,DVB-S200003/4,604,Jeddah Radio,,,,4523 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html
+12152 Htp 26Ku0,DVB-S200003/4,604,Jeddah Radio,,,,4523 Ara,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Jeddah Radio,https://www.lyngsat.com/radiochannels/sa/Jeddah-Radio.html
+12152 Htp 26Ku0,DVB-S200003/4,605,Saudia Radio,,,,3140,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html
+12152 Htp 26Ku0,DVB-S200003/4,605,Saudia Radio,,,,3140,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,Saudia Radio,https://www.lyngsat.com/radiochannels/sa/Saudia-Radio.html
+12152 Htp 26Ku0,DVB-S200003/4,609,RDP Internacional,,,,901 Por,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html
+12152 Htp 26Ku0,DVB-S200003/4,609,RDP Internacional,,,,901 Por,,,DVB-S,20000,3/4,12152 H,tp 26,0,,,RDP Internacional,https://www.lyngsat.com/radiochannels/pt/RDP-Internacional.html
+12177 Vtp 27Ku0,DVB-S230003/4,1,Hwazan Satellite TV,,MPEG-2/SD,308,256 Chi,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Hwazan Satellite TV,https://www.lyngsat.com/tvchannels/tw/Hwazan-Satellite-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,1,Hwazan Satellite TV,,MPEG-2/SD,308,256 Chi,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Hwazan Satellite TV,https://www.lyngsat.com/tvchannels/tw/Hwazan-Satellite-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,3,RTS 1 (Senegal),,MPEG-2/SD,300,301 Fre,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,RTS 1 (Senegal),https://www.lyngsat.com/tvchannels/sn/RTS-1.html
+12177 Vtp 27Ku0,DVB-S230003/4,3,RTS 1 (Senegal),,MPEG-2/SD,300,301 Fre,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,RTS 1 (Senegal),https://www.lyngsat.com/tvchannels/sn/RTS-1.html
+12177 Vtp 27Ku0,DVB-S230003/4,7,Al Mayadeen TV,,MPEG-2/SD,33,34 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Al Mayadeen TV,https://www.lyngsat.com/tvchannels/lb/Al-Mayadeen-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,7,Al Mayadeen TV,,MPEG-2/SD,33,34 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Al Mayadeen TV,https://www.lyngsat.com/tvchannels/lb/Al-Mayadeen-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,8,Muslim Network TV,,MPEG-4/SD,800,801 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Muslim Network TV,https://www.lyngsat.com/tvchannels/us/Muslim-Network-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,8,Muslim Network TV,,MPEG-4/SD,800,801 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Muslim Network TV,https://www.lyngsat.com/tvchannels/us/Muslim-Network-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,9,Yemen TV,,MPEG-2/SD,4896,680 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,9,Yemen TV,,MPEG-2/SD,4896,680 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Yemen TV,https://www.lyngsat.com/tvchannels/ye/Yemen-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,10,Guide US TV,,MPEG-2/SD,66,67 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Guide US TV,https://www.lyngsat.com/tvchannels/us/Guide-US-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,10,Guide US TV,,MPEG-2/SD,66,67 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Guide US TV,https://www.lyngsat.com/tvchannels/us/Guide-US-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,11,EEE Network,,MPEG-2/SD,69,70 Spa,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,EEE Network,https://www.lyngsat.com/tvchannels/us/EEE-Network.html
+12177 Vtp 27Ku0,DVB-S230003/4,12,Good Idea TV,,MPEG-2/SD,56,57 Tha,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Good Idea TV,https://www.lyngsat.com/tvchannels/us/Good-Idea-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,12,Good Idea TV,,MPEG-2/SD,56,57 Tha,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Good Idea TV,https://www.lyngsat.com/tvchannels/us/Good-Idea-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,16,Iran e Aryaee TV,,MPEG-2/SD,6432,6433 Per,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Iran e Aryaee TV,https://www.lyngsat.com/tvchannels/us/Iran-e-Aryaee-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,16,Iran e Aryaee TV,,MPEG-2/SD,6432,6433 Per,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Iran e Aryaee TV,https://www.lyngsat.com/tvchannels/us/Iran-e-Aryaee-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,17,NAT TV,,MPEG-2/SD,4130,4133 Tha,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,NAT TV,https://www.lyngsat.com/tvchannels/us/NAT-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,20,Impact TV Network (USA),,MPEG-2/SD,2000,2001 Rus,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Impact TV Network (USA),https://www.lyngsat.com/tvchannels/us/Impact-TV-Network.html
+12177 Vtp 27Ku0,DVB-S230003/4,20,Impact TV Network (USA),,MPEG-2/SD,2000,2001 Rus,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Impact TV Network (USA),https://www.lyngsat.com/tvchannels/us/Impact-TV-Network.html
+12177 Vtp 27Ku0,DVB-S230003/4,21,Parole di Vita,,MPEG-4/HD,501,502 Ita,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Parole di Vita,https://www.lyngsat.com/tvchannels/it/Parole-di-Vita.html
+12177 Vtp 27Ku0,DVB-S230003/4,21,Parole di Vita,,MPEG-4/HD,501,502 Ita,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Parole di Vita,https://www.lyngsat.com/tvchannels/it/Parole-di-Vita.html
+12177 Vtp 27Ku0,DVB-S230003/4,26,Al-Sirat TV,,MPEG-2/SD,113,114 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Al-Sirat TV,https://www.lyngsat.com/tvchannels/lb/Al-Sirat-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,26,Al-Sirat TV,,MPEG-2/SD,113,114 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Al-Sirat TV,https://www.lyngsat.com/tvchannels/lb/Al-Sirat-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,27,Bethel TV (Peru),,MPEG-2/SD,5664,5665 Spa,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,27,Bethel TV (Peru),,MPEG-2/SD,5664,5665 Spa,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Bethel TV (Peru),https://www.lyngsat.com/tvchannels/pe/Bethel-TV.html
+12177 Vtp 27Ku0,DVB-S230003/4,4,Global Star 3,,,,63 Spa,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Global Star 3,https://www.lyngsat.com/radiochannels/us/Global-Star-3.html
+12177 Vtp 27Ku0,DVB-S230003/4,4,Global Star 3,,,,63 Spa,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Global Star 3,https://www.lyngsat.com/radiochannels/us/Global-Star-3.html
+12177 Vtp 27Ku0,DVB-S230003/4,6,Radio Sana'a,,,,681 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html
+12177 Vtp 27Ku0,DVB-S230003/4,6,Radio Sana'a,,,,681 Ara,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Radio Sana'a,https://www.lyngsat.com/radiochannels/ye/Radio-Sanaa.html
+12177 Vtp 27Ku0,DVB-S230003/4,13,WRN English North America,,,,49 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,WRN English North America,https://www.lyngsat.com/radiochannels/uk/WRN-English-North-America.html
+12177 Vtp 27Ku0,DVB-S230003/4,15,Radio Mega,,,,45 Fre,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Radio Mega,https://www.lyngsat.com/radiochannels/us/Radio-Mega.html
+12177 Vtp 27Ku0,DVB-S230003/4,15,Radio Mega,,,,45 Fre,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Radio Mega,https://www.lyngsat.com/radiochannels/us/Radio-Mega.html
+12177 Vtp 27Ku0,DVB-S230003/4,23,Republic Broadcasting Network,,,,35 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Republic Broadcasting Network,https://www.lyngsat.com/radiochannels/us/Republic-Broadcasting-Network.html
+12177 Vtp 27Ku0,DVB-S230003/4,23,Republic Broadcasting Network,,,,35 Eng,,,DVB-S,23000,3/4,12177 V,tp 27,0,,,Republic Broadcasting Network,https://www.lyngsat.com/radiochannels/us/Republic-Broadcasting-Network.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,,Intelsat,,,,6.6,,Cyberham240306,DVB-S2,22500,2/3,12184 H,tp 28,0,,https://www.lyngsat.com/providers/lu/Intelsat.html,,
+12184 Htp 28Ku0,DVB-S28PSK225002/3,1,Al Kass Two,,/HD,100,101 Ara,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,Al Kass Two,https://www.lyngsat.com/tvchannels/qa/Al-Kass-Two.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,3,Qatar TV,,/HD,48,49 Ara,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,Qatar TV,https://www.lyngsat.com/tvchannels/qa/Qatar-TV.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,3,Qatar TV,,/HD,48,49 Ara,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,Qatar TV,https://www.lyngsat.com/tvchannels/qa/Qatar-TV.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,4,MTA 8 America,,MPEG-4/HD,300,401 Eng,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,MTA 8 America,https://www.lyngsat.com/tvchannels/uk/MTA-8-America.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,4,MTA 8 America,,MPEG-4/HD,300,401 Eng,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,MTA 8 America,https://www.lyngsat.com/tvchannels/uk/MTA-8-America.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,5,MTA 8 America +3,,MPEG-4/HD,500,601 Eng,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,MTA 8 America +3,https://www.lyngsat.com/tvchannels/uk/MTA-8-America--3.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,6,MTA 3 Al-Arabia,,MPEG-4/HD,301,411 Ara,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,6,MTA 3 Al-Arabia,,MPEG-4/HD,301,411 Ara,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,MTA 3 Al-Arabia,https://www.lyngsat.com/tvchannels/uk/MTA-3-Al-Arabia.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,1001,Wedo Big Stories,,MPEG-4/HD,1000,1001 Eng,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,Wedo Big Stories,https://www.lyngsat.com/tvchannels/ch/Wedo-Big-Stories.html
+12184 Htp 28Ku0,DVB-S28PSK225002/3,1001,Wedo Big Stories,,MPEG-4/HD,1000,1001 Eng,,,DVB-S2,22500,2/3,12184 H,tp 28,0,,,Wedo Big Stories,https://www.lyngsat.com/tvchannels/ch/Wedo-Big-Stories.html
+,,,,,,,,,,,,,,,,,,DVB-S28PSK65225/6,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK84003/5,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK84003/5,
+,,,,,,,,,,,,,,,,,,DVB-S28PSK150005/6,

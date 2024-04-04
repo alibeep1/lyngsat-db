@@ -1,0 +1,168 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,Pkg_Name,Pkg_URL,is_Provider,Provider,Languages,Channel_Country
+,(feeds),,,DVB-S2,2240.0,2/3,3704 H,tp 3A,,,,,,,,False,,,
+,(feeds),,,DVB-S2,7200.0,3/4,3763 H,tp 4A,,,,,,,,False,,,
+3.0,(feeds),,769.0,DVB-S2,3750.0,5/6,3872 H,tp 7A,0.0,BISS,,,,,,False,,,
+,(feeds),,,DVB-S2,7500.0,3/4,3905 V,tp 7B,,,,,,,,False,,,
+,(feeds),,,DVB-S2,5600.0,3/4,3914 V,tp 7B,,,,,,,,False,,,
+,(GMA feeds),,,DVB-S2,2240.0,2/3,3707 H,tp 3A,,,,,,,,False,,,
+,(GMA feeds),,,DVB-S2,2240.0,2/3,3710 H,tp 3A,,,,,,,,False,,,
+,GMA Network,,,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,,,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,,,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,0-700,,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,0-700,,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+,GMA Network,0-700,,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/GMA-Network.html,,,,,True,GMA Network,,
+12.0,GMA TV,MPEG-4/SD,110.0,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+12.0,GMA TV,MPEG-4/SD,110.0,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+12.0,GMA TV,MPEG-4/SD,110.0,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+96.0,GMA TV,MPEG-4/SD,463.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+96.0,GMA TV,MPEG-4/SD,463.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+96.0,GMA TV,MPEG-4/SD,463.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+112.0,GMA TV,MPEG-4/1seg,3187.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+112.0,GMA TV,MPEG-4/1seg,3187.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+112.0,GMA TV,MPEG-4/1seg,3187.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GMA TV,https://www.lyngsat.com/tvchannels/ph/GMA-TV.html,,,False,GMA Network,Tgl,ph
+14.0,GTV (Philippines),MPEG-4/SD,210.0,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,,GTV (Philippines),https://www.lyngsat.com/tvchannels/ph/GTV.html,,,False,GMA Network,Tgl,ph
+14.0,GTV (Philippines),MPEG-4/SD,210.0,DVB-S2,4583.0,3/4,3745 H,tp 4A,0.0,PowerVu,,GTV (Philippines),https://www.lyngsat.com/tvchannels/ph/GTV.html,,,False,GMA Network,Tgl,ph
+97.0,GTV (Philippines),MPEG-4/SD,479.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GTV (Philippines),https://www.lyngsat.com/tvchannels/ph/GTV.html,,,False,GMA Network,Tgl,ph
+97.0,GTV (Philippines),MPEG-4/SD,479.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,GTV (Philippines),https://www.lyngsat.com/tvchannels/ph/GTV.html,,,False,GMA Network,Tgl,ph
+1.0,GMA Life TV,MPEG-4/SD,1160.0,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,GMA Life TV,https://www.lyngsat.com/tvchannels/ph/GMA-Life-TV.html,,,False,GMA Network,Tgl,ph
+2.0,GMA Pinoy TV USA & Canada,MPEG-4/SD,1260.0,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,GMA Pinoy TV USA & Canada,https://www.lyngsat.com/tvchannels/ph/GMA-Pinoy-TV-USA-and-Canada.html,,,False,GMA Network,Tgl,ph
+9.0,GMA News TV,MPEG-4/SD,1460.0,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,GMA News TV,https://www.lyngsat.com/tvchannels/ph/GMA-News-TV.html,,,False,GMA Network,Tgl,ph
+7.0,DZBB 594 Super Radyo,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,DZBB 594 Super Radyo,https://www.lyngsat.com/radiochannels/ph/DZBB-594-Super-Radyo.html,,,False,GMA Network,Tgl,ph
+7.0,DZBB 594 Super Radyo,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,DZBB 594 Super Radyo,https://www.lyngsat.com/radiochannels/ph/DZBB-594-Super-Radyo.html,,,False,GMA Network,Tgl,ph
+100.0,Barangay LS 97.1,,,DVB-S2,4444.0,2/3,3751 H,tp 4A,0.0,PowerVu,,Barangay LS 97.1,https://www.lyngsat.com/radiochannels/ph/Barangay-LS-971.html,,,False,GMA Network,Tgl,ph
+,(GMA TV feeds),,,DVB-S2,1600.0,2/3,3768 H,tp 4A,,,,,,,,False,GMA Network,,
+,(GMA TV feeds),,,DVB-S2,4800.0,2/3,3774 H,tp 4A,,,,,,,,False,GMA Network,,
+1.0,SMNI News Channel,?-?MPEG-4/SD,33.0,DVB-S2,3333.0,3/4,3824 H,tp 6A,0.0,,,,,,,False,GMA Network,Tgl,
+36.0,SMNI,8192-4096MPEG-4/SD,512.0,DVB-S2,1660.0,3/4,3827 H,tp 6A,0.0,,,,,,,False,GMA Network,Tgl,
+54.0,DZAR Sonshine Radio 1026,,,DVB-S2,1660.0,3/4,3827 H,tp 6A,0.0,,,DZAR Sonshine Radio 1026,https://www.lyngsat.com/radiochannels/ph/DZAR-Sonshine-Radio-1026.html,,,False,GMA Network,,ph
+,,,,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,,,,,False,GMA Network,,
+,,,,DVB-S2,3750.0,3/4,3884 H,tp 7A,0.0,,,,,,,False,GMA Network,,
+,,,,DVB-S2,17600.0,3/4,4020 V,tp 10B,0.0,,,,,,,False,GMA Network,,
+1.0,INC TV,MPEG-4/HD,611.0,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,INC TV,https://www.lyngsat.com/tvchannels/ph/INC-TV.html,,,False,GMA Network,Tgl,ph
+1.0,INC TV,MPEG-4/HD,611.0,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,INC TV,https://www.lyngsat.com/tvchannels/ph/INC-TV.html,,,False,GMA Network,Tgl,ph
+2.0,Net 25,MPEG-4/HD,711.0,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,Net 25,https://www.lyngsat.com/tvchannels/ph/Net-25.html,,,False,GMA Network,Tgl,ph
+3.0,INC Radio DZEM 954,,,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,INC Radio DZEM 954,https://www.lyngsat.com/radiochannels/ph/INC-Radio-DZEM-954.html,,,False,GMA Network,,ph
+3.0,INC Radio DZEM 954,,,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,INC Radio DZEM 954,https://www.lyngsat.com/radiochannels/ph/INC-Radio-DZEM-954.html,,,False,GMA Network,,ph
+6.0,Radyo Agila,,,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,Radyo Agila,https://www.lyngsat.com/radiochannels/ph/Radyo-Agila.html,,,False,GMA Network,Tgl,ph
+7.0,Eagle FM,,,DVB-S2,5000.0,3/4,3831 H,tp 6A,0.0,,,Eagle FM,https://www.lyngsat.com/radiochannels/ph/Eagle-FM.html,,,False,GMA Network,,ph
+,Solar Entertainment,0-1,,DVB-S2,2500.0,3/4,3835 H,tp 6A,0.0,VisionCrypt,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,,,,,True,Solar Entertainment,,
+,Solar Entertainment,0-1,,DVB-S2,2500.0,3/4,3835 H,tp 6A,0.0,VisionCrypt,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,,,,,True,Solar Entertainment,,
+,Solar Entertainment,,,DVB-S2,3750.0,3/4,3867 H,tp 7A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,,,,,True,Solar Entertainment,,
+,Solar Entertainment,,,DVB-S2,3750.0,3/4,3867 H,tp 7A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/Solar-Entertainment.html,,,,,True,Solar Entertainment,,
+1.0,Jungo Pinoy,MPEG-4/SD,310.0,DVB-S2,2500.0,3/4,3835 H,tp 6A,0.0,VisionCrypt,,Jungo Pinoy,https://www.lyngsat.com/tvchannels/ph/Jungo-Pinoy.html,,,False,Solar Entertainment,Tgl,ph
+4.0,Scream Flix,MPEG-4/SD,710.0,DVB-S2,2500.0,3/4,3835 H,tp 6A,0.0,VisionCrypt,,Scream Flix,https://www.lyngsat.com/tvchannels/ph/Scream-Flix.html,,,False,Solar Entertainment,Eng,ph
+98.0,Heart of Asia,MPEG-4/SD,1744.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,Heart of Asia,https://www.lyngsat.com/tvchannels/ph/Heart-of-Asia.html,,,False,Solar Entertainment,Tgl,ph
+101.0,Hallypop,MPEG-4/SD,1760.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,Hallypop,https://www.lyngsat.com/tvchannels/ph/Hallypop.html,,,False,Solar Entertainment,Eng,ph
+102.0,I Heart Movies,MPEG-4/SD,1776.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,I Heart Movies,https://www.lyngsat.com/tvchannels/ph/I-Heart-Movies.html,,,False,Solar Entertainment,Tgl,ph
+103.0,Pinoy Hits,MPEG-4/SD,1792.0,DVB-S2,8000.0,3/4,3847 H,tp 6A,0.0,PowerVu,,Pinoy Hits,https://www.lyngsat.com/tvchannels/ph/Pinoy-Hits.html,,,False,Solar Entertainment,Tgl,ph
+1.0,IBC 13,?-?MPEG-4/SD,210.0,DVB-S2,2500.0,2/3,3856 H,tp 6A,0.0,,,,,,,False,Solar Entertainment,Tgl,
+402.0,Solar Sports,MPEG-4/SD,1410.0,DVB-S2,3750.0,3/4,3867 H,tp 7A,0.0,PowerVu,,Solar Sports,https://www.lyngsat.com/tvchannels/ph/Solar-Sports.html,,,False,Solar Entertainment,Eng,ph
+405.0,Front Row Channel,MPEG-4/SD,1110.0,DVB-S2,3750.0,3/4,3867 H,tp 7A,0.0,PowerVu,,Front Row Channel,https://www.lyngsat.com/tvchannels/ph/Front-Row-Channel.html,,,False,Solar Entertainment,Eng,ph
+417.0,Solar Flix,MPEG-4/SD,1810.0,DVB-S2,3750.0,3/4,3867 H,tp 7A,0.0,PowerVu,,Solar Flix,https://www.lyngsat.com/tvchannels/ph/Solar-Flix.html,,,False,Solar Entertainment,Eng,ph
+,Zoe Broadcasting Network,,,DVB-S2,3750.0,5/6,3872 H,tp 7A,0.0,,https://www.lyngsat.com/providers/ph/Zoe-Broadcasting-Network.html,,,,,True,Zoe Broadcasting Network,,
+1.0,Light TV,MPEG-4/SD,257.0,DVB-S2,3750.0,5/6,3872 H,tp 7A,0.0,,,Light TV,https://www.lyngsat.com/tvchannels/ph/Light-TV.html,,,False,Zoe Broadcasting Network,Tgl,ph
+2.0,A2Z Channel 11,MPEG-4/SD,513.0,DVB-S2,3750.0,5/6,3872 H,tp 7A,0.0,,,A2Z Channel 11,https://www.lyngsat.com/tvchannels/ph/A2Z-Channel-11.html,,,False,Zoe Broadcasting Network,Tgl,ph
+,Viva Entertainment,,,DVB-S2,3750.0,3/4,3876 H,tp 7A,0.0,PowerVu,https://www.lyngsat.com/providers/ph/Viva-Entertainment.html,,,,,True,Viva Entertainment,,
+1.0,Pinoy Box Office,MPEG-4/SD,110.0,DVB-S2,3750.0,3/4,3876 H,tp 7A,0.0,PowerVu,,Pinoy Box Office,https://www.lyngsat.com/tvchannels/ph/Pinoy-Box-Office.html,,,False,Viva Entertainment,Tgl,ph
+2.0,Viva Cinema,MPEG-4/SD,210.0,DVB-S2,3750.0,3/4,3876 H,tp 7A,0.0,PowerVu,,Viva Cinema,https://www.lyngsat.com/tvchannels/ph/Viva-Cinema.html,,,False,Viva Entertainment,Tgl,ph
+4.0,Tagalized Movie Channnel,MPEG-4/SD,410.0,DVB-S2,3750.0,3/4,3876 H,tp 7A,0.0,PowerVu,,Tagalized Movie Channnel,https://www.lyngsat.com/tvchannels/ph/Tagalized-Movie-Channnel.html,,,False,Viva Entertainment,Tgl,ph
+64.0,AllTV,2-2MPEG-4/HD,101.0,DVB-S2,3140.0,3/4,3897 H,tp 7A,0.0,,,,,,,False,Viva Entertainment,Tgl,
+,People's TV,2-2,,DVB-S2,3500.0,5/6,3930 V,tp 8B,0.0,,https://www.lyngsat.com/providers/ph/Peoples-TV.html,People's TV,https://www.lyngsat.com/tvchannels/ph/Peoples-TV.html,,,True,People's TV,,ph
+1.0,People's TV,MPEG-4/SD,200.0,DVB-S2,3500.0,5/6,3930 V,tp 8B,0.0,,https://www.lyngsat.com/providers/ph/Peoples-TV.html,People's TV,https://www.lyngsat.com/tvchannels/ph/Peoples-TV.html,,,True,People's TV,Tgl,ph
+2.0,Congress TV,MPEG-4/SD,513.0,DVB-S2,3500.0,5/6,3930 V,tp 8B,0.0,,,Congress TV,https://www.lyngsat.com/tvchannels/ph/Congress-TV.html,,,False,People's TV,Tgl,ph
+,SpeedCast,,,DVB-S2,17600.0,3/4,3946 V,tp 8B,0.0,ABV,https://www.lyngsat.com/providers/hk/SpeedCast.html,,,,,True,SpeedCast,,
+1.0,AniPlus HD,MPEG-4/HD,101.0,DVB-S2,17600.0,3/4,3946 V,tp 8B,0.0,ABV,,AniPlus HD,https://www.lyngsat.com/tvchannels/kr/AniPlus-HD.html,,,False,SpeedCast,Kor,kr
+2.0,CinemaWorld,MPEG-4/HD,201.0,DVB-S2,17600.0,3/4,3946 V,tp 8B,0.0,ABV,,CinemaWorld,https://www.lyngsat.com/tvchannels/sg/CinemaWorld.html,,,False,SpeedCast,Eng,sg
+3.0,K+,MPEG-4/HD,301.0,DVB-S2,17600.0,3/4,3946 V,tp 8B,0.0,ABV,,K+,https://www.lyngsat.com/tvchannels/kr/K-.html,,,False,SpeedCast,Kor,kr
+1.0,Radio Maria Philippines,?-?,,DVB-S,256.0,1/2,4056 H,tp 11A,0.0,,,,,,,False,SpeedCast,Tgl,
+,TV 5 Network,,,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,https://www.lyngsat.com/providers/ph/TV-5-Network.html,,,,,True,TV 5 Network,,
+2380.0,TV 5 (Philippines),MPEG-4/SD,2382.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,TV 5 (Philippines),https://www.lyngsat.com/tvchannels/ph/TV-5.html,,,False,TV 5 Network,Tgl,ph
+2380.0,TV 5 (Philippines),MPEG-4/SD,2382.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,TV 5 (Philippines),https://www.lyngsat.com/tvchannels/ph/TV-5.html,,,False,TV 5 Network,Tgl,ph
+2880.0,TV 5 (Philippines),MPEG-4/1seg,2882.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,TV 5 (Philippines),https://www.lyngsat.com/tvchannels/ph/TV-5.html,,,False,TV 5 Network,Tgl,ph
+2880.0,TV 5 (Philippines),MPEG-4/1seg,2882.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,TV 5 (Philippines),https://www.lyngsat.com/tvchannels/ph/TV-5.html,,,False,TV 5 Network,Tgl,ph
+2430.0,RPTV,MPEG-4/SD,2432.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,RPTV,https://www.lyngsat.com/tvchannels/ph/RPTV.html,,,False,TV 5 Network,Tgl,ph
+9.0,RPTV,?-?MPEG-4/HD,110.0,DVB-S2,5000.0,3/4,4095 H,tp 12A,0.0,PowerVu,,RPTV,https://www.lyngsat.com/tvchannels/ph/RPTV.html,,,False,TV 5 Network,Tgl,ph
+2720.0,One Sports,MPEG-4/SD,2722.0,DVB-S2,10000.0,3/5,4081 H,tp 12A,0.0,,,One Sports,https://www.lyngsat.com/tvchannels/ph/One-Sports.html,,,False,TV 5 Network,Eng,ph
+11.0,DWIZ 882 AM,,,DVB-S2,5000.0,3/4,4095 H,tp 12A,0.0,PowerVu,,DWIZ 882 AM,https://www.lyngsat.com/radiochannels/ph/DWIZ-882-AM.html,,,False,TV 5 Network,Tgl,ph
+11.0,DWIZ 882 AM,,,DVB-S2,5000.0,3/4,4095 H,tp 12A,0.0,PowerVu,,DWIZ 882 AM,https://www.lyngsat.com/radiochannels/ph/DWIZ-882-AM.html,,,False,TV 5 Network,Tgl,ph
+201.0,CCTV 13,MPEG-4/SD,2001.0,DVB-S2,45000.0,3/4,12416 V,tp 3B,0.0,,,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,,,False,TV 5 Network,Chi,cn
+201.0,CCTV 13,MPEG-4/SD,2001.0,DVB-S2,45000.0,3/4,12416 V,tp 3B,0.0,,,CCTV 13,https://www.lyngsat.com/tvchannels/cn/CCTV-13.html,,,False,TV 5 Network,Chi,cn
+101.0,MNB,MPEG-4/HD,1311.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,MNB,https://www.lyngsat.com/tvchannels/mn/MNB.html,,,False,TV 5 Network,Mon,mn
+101.0,MNB,MPEG-4/HD,1311.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,MNB,https://www.lyngsat.com/tvchannels/mn/MNB.html,,,False,TV 5 Network,Mon,mn
+102.0,TV 25 (Mongolia),MPEG-4/HD,1321.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,TV 25 (Mongolia),https://www.lyngsat.com/tvchannels/mn/TV-25.html,,,False,TV 5 Network,Mon,mn
+103.0,TV 5 (Mongolia),MPEG-4/SD,1061.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,TV 5 (Mongolia),https://www.lyngsat.com/tvchannels/mn/TV-5.html,,,False,TV 5 Network,Mon,mn
+104.0,9 TV (Mongolia),MPEG-4/SD,1361.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,9 TV (Mongolia),https://www.lyngsat.com/tvchannels/mn/9-TV.html,,,False,TV 5 Network,Mon,mn
+105.0,TenGer TV,MPEG-4/HD,1081.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,TenGer TV,https://www.lyngsat.com/tvchannels/mn/TenGer-TV.html,,,False,TV 5 Network,Mon,mn
+106.0,Mongol TV,MPEG-4/SD,1181.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Mongol TV,https://www.lyngsat.com/tvchannels/mn/Mongol-TV.html,,,False,TV 5 Network,Mon,mn
+107.0,Edu TV,MPEG-4/SD,1291.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Edu TV,https://www.lyngsat.com/tvchannels/mn/Edu-TV.html,,,False,TV 5 Network,Mon,mn
+108.0,UBS,MPEG-4/SD,1121.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,UBS,https://www.lyngsat.com/tvchannels/mn/UBS.html,,,False,TV 5 Network,Mon,mn
+109.0,Eagle News,MPEG-4/SD,1021.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Eagle News,https://www.lyngsat.com/tvchannels/mn/Eagle-News.html,,,False,TV 5 Network,Mon,mn
+112.0,SBN TV (Mongolia),MPEG-4/SD,1031.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,SBN TV (Mongolia),https://www.lyngsat.com/tvchannels/mn/SBN-TV.html,,,False,TV 5 Network,Mon,mn
+113.0,MNB Sport,MPEG-4/SD,1331.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,MNB Sport,https://www.lyngsat.com/tvchannels/mn/MNB-Sport.html,,,False,TV 5 Network,Mon,mn
+113.0,MNB Sport,MPEG-4/SD,1331.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,MNB Sport,https://www.lyngsat.com/tvchannels/mn/MNB-Sport.html,,,False,TV 5 Network,Mon,mn
+114.0,NTV (Mongolia),MPEG-4/HD,1351.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,NTV (Mongolia),https://www.lyngsat.com/tvchannels/mn/NTV.html,,,False,TV 5 Network,Mon,mn
+115.0,ETV HD,MPEG-4/SD,1171.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,ETV HD,https://www.lyngsat.com/tvchannels/mn/ETV-HD.html,,,False,TV 5 Network,Mon,mn
+116.0,TV 8 (Mongolia),MPEG-4/SD,1141.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,TV 8 (Mongolia),https://www.lyngsat.com/tvchannels/mn/TV-8.html,,,False,TV 5 Network,Mon,mn
+116.0,TV 8 (Mongolia),MPEG-4/SD,1141.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,TV 8 (Mongolia),https://www.lyngsat.com/tvchannels/mn/TV-8.html,,,False,TV 5 Network,Mon,mn
+117.0,Star TV (Mongolia),MPEG-4/SD,1051.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Star TV (Mongolia),https://www.lyngsat.com/tvchannels/mn/Star-TV.html,,,False,TV 5 Network,Mon,mn
+118.0,Malchin TV,MPEG-4/SD,1071.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Malchin TV,https://www.lyngsat.com/tvchannels/mn/Malchin-TV.html,,,False,TV 5 Network,Mon,mn
+119.0,C1,MPEG-4/SD,1191.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,C1,https://www.lyngsat.com/tvchannels/mn/C1.html,,,False,TV 5 Network,Mon,mn
+121.0,Suld TV,MPEG-4/SD,1211.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Suld TV,https://www.lyngsat.com/tvchannels/mn/Suld-TV.html,,,False,TV 5 Network,Mon,mn
+125.0,Eco TV (Mongolia),MPEG-4/SD,1251.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Eco TV (Mongolia),https://www.lyngsat.com/tvchannels/mn/Eco-TV.html,,,False,TV 5 Network,Mon,mn
+128.0,Central TV,MPEG-4/SD,1281.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Central TV,https://www.lyngsat.com/tvchannels/mn/Central-TV.html,,,False,TV 5 Network,Mon,mn
+129.0,Royal HD,MPEG-4/SD,1161.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Royal HD,https://www.lyngsat.com/tvchannels/mn/Royal-HD.html,,,False,TV 5 Network,Mon,mn
+131.0,Ekh Oron TV,MPEG-4/SD,1041.0,DVB-S2,45000.0,2/3,12477 H,,0.0,,,Ekh Oron TV,https://www.lyngsat.com/tvchannels/mn/Ekh-Oron-TV.html,,,False,TV 5 Network,Mon,mn
+174.0,Mongolsat promo,MPEG-4/HD,1741.0,DVB-S2,45000.0,2/3,12598 H,,0.0,,,,,,,False,TV 5 Network,Mon,
+203.0,TV Kino Teatr,MPEG-4/HD,2031.0,DVB-S2,45000.0,2/3,12598 H,,0.0,,,TV Kino Teatr,https://www.lyngsat.com/tvchannels/mn/TV-Kino-Teatr.html,,,False,TV 5 Network,Mon,mn
+718.0,SJTV,MPEG-4/HD,1086.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,SJTV,https://www.lyngsat.com/tvchannels/tw/SJTV.html,,,False,TV 5 Network,Chi,tw
+719.0,Sinda TV,MPEG-4/HD,1091.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,Sinda TV,https://www.lyngsat.com/tvchannels/tw/Sinda-TV.html,,,False,TV 5 Network,Chi,tw
+721.0,Good 2,MPEG-4/HD,1101.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,Good 2,https://www.lyngsat.com/tvchannels/tw/Good-2.html,,,False,TV 5 Network,Chi,tw
+721.0,Good 2,MPEG-4/HD,1101.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,Good 2,https://www.lyngsat.com/tvchannels/tw/Good-2.html,,,False,TV 5 Network,Chi,tw
+722.0,Hope Channel Chinese,MPEG-4/HD,1106.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,Hope Channel Chinese,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Chinese.html,,,False,TV 5 Network,Chi,us
+722.0,Hope Channel Chinese,MPEG-4/HD,1106.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,Hope Channel Chinese,https://www.lyngsat.com/tvchannels/us/Hope-Channel-Chinese.html,,,False,TV 5 Network,Chi,us
+723.0,UCTV,MPEG-4/SD,1111.0,DVB-S2,45000.0,3/4,12660 V,tp 7B,0.0,,,UCTV,https://www.lyngsat.com/tvchannels/tw/UCTV.html,,,False,TV 5 Network,Chi,tw
+,Great Wall,,,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,https://www.lyngsat.com/providers/cn/Great-Wall.html,,,,,True,Great Wall,,
+1.0,CCTV 4 Asia,MPEG-4/SD,512.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,,,False,Great Wall,Chi,cn
+1.0,CCTV 4 Asia,MPEG-4/SD,512.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV 4 Asia,https://www.lyngsat.com/tvchannels/cn/CCTV-4-Asia.html,,,False,Great Wall,Chi,cn
+2.0,CGTN,MPEG-4/SD,513.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,,,False,Great Wall,Chi,cn
+2.0,CGTN,MPEG-4/SD,513.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,,,False,Great Wall,Chi,cn
+3.0,CCTV Opera,MPEG-4/SD,514.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV Opera,https://www.lyngsat.com/tvchannels/cn/CCTV-Opera.html,,,False,Great Wall,Chi,cn
+4.0,CCTV 6,MPEG-4/SD,515.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV 6,https://www.lyngsat.com/tvchannels/cn/CCTV-6.html,,,False,Great Wall,Chi,cn
+4.0,CCTV 6,MPEG-4/SD,515.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV 6,https://www.lyngsat.com/tvchannels/cn/CCTV-6.html,,,False,Great Wall,Chi,cn
+5.0,CCTV Entertainment,MPEG-4/SD,516.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CCTV Entertainment,https://www.lyngsat.com/tvchannels/cn/CCTV-Entertainment.html,,,False,Great Wall,Chi,cn
+6.0,CGTN Documentary,MPEG-4/SD,517.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,,,False,Great Wall,Eng,cn
+6.0,CGTN Documentary,MPEG-4/SD,517.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,CGTN Documentary,https://www.lyngsat.com/tvchannels/cn/CGTN-Documentary.html,,,False,Great Wall,Eng,cn
+8.0,Dragon TV International,MPEG-4/SD,519.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Dragon TV International,https://www.lyngsat.com/tvchannels/cn/Dragon-TV-International.html,,,False,Great Wall,Chi,cn
+9.0,Jiangsu TV International,MPEG-4/SD,520.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Jiangsu TV International,https://www.lyngsat.com/tvchannels/cn/Jiangsu-TV-International.html,,,False,Great Wall,Chi,cn
+10.0,Hunan TV International,MPEG-4/SD,521.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,,,False,Great Wall,Chi,cn
+10.0,Hunan TV International,MPEG-4/SD,521.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Hunan TV International,https://www.lyngsat.com/tvchannels/cn/Hunan-TV-International.html,,,False,Great Wall,Chi,cn
+11.0,Fujian Straits TV,MPEG-4/SD,522.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Fujian Straits TV,https://www.lyngsat.com/tvchannels/cn/Fujian-Straits-TV.html,,,False,Great Wall,Chi,cn
+12.0,Xiamen Star TV International,MPEG-4/SD,523.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Xiamen Star TV International,https://www.lyngsat.com/tvchannels/cn/Xiamen-Star-TV-International.html,,,False,Great Wall,Chi,cn
+13.0,The Greater Bay Satellite TV,MPEG-4/SD,524.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,The Greater Bay Satellite TV,https://www.lyngsat.com/tvchannels/cn/The-Greater-Bay-Satellite-TV.html,,,False,Great Wall,Chi,cn
+13.0,The Greater Bay Satellite TV,MPEG-4/SD,524.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,The Greater Bay Satellite TV,https://www.lyngsat.com/tvchannels/cn/The-Greater-Bay-Satellite-TV.html,,,False,Great Wall,Chi,cn
+14.0,Shenzhen Satellite TV International,MPEG-4/HD,595.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Shenzhen Satellite TV International,https://www.lyngsat.com/tvchannels/cn/Shenzhen-Satellite-TV-International.html,,,False,Great Wall,Chi,cn
+16.0,Chongqing TV International,MPEG-4/SD,527.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Chongqing TV International,https://www.lyngsat.com/tvchannels/cn/Chongqing-TV-International.html,,,False,Great Wall,Chi,cn
+19.0,Henan TV International Channel,MPEG-4/SD,530.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Henan TV International Channel,https://www.lyngsat.com/tvchannels/cn/Henan-TV-International-Channel.html,,,False,Great Wall,Chi,cn
+20.0,Anhui International Channel,MPEG-4/SD,531.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Anhui International Channel,https://www.lyngsat.com/tvchannels/cn/Anhui-International-Channel.html,,,False,Great Wall,Chi,cn
+21.0,Zhejiang Satellite TV International,MPEG-4/SD,532.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Zhejiang Satellite TV International,https://www.lyngsat.com/tvchannels/cn/Zhejiang-Satellite-TV-International.html,,,False,Great Wall,Chi,cn
+22.0,Yunnan Lancang-Mekong International Channel,MPEG-4/SD,533.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,Yunnan Lancang-Mekong International Channel,https://www.lyngsat.com/tvchannels/cn/Yunnan-Lancang-Mekong-International-Channel.html,,,False,Great Wall,,cn
+30.0,BRTV International Channel,MPEG-4/HD,592.0,DVB-S2,43200.0,2/3,12721 V,tp 8B,0.0,,,BRTV International Channel,https://www.lyngsat.com/tvchannels/cn/BRTV-International-Channel.html,,,False,Great Wall,Chi,cn
+,APT,1337-8,,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,https://www.lyngsat.com/providers/hk/APT.html,,,,,True,APT,,
+1.0,Angel TV Chinese,MPEG-4/SD,2801.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,Angel TV Chinese,https://www.lyngsat.com/tvchannels/in/Angel-TV-Chinese.html,,,False,APT,Chi,in
+1.0,Angel TV Chinese,MPEG-4/SD,2801.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,Angel TV Chinese,https://www.lyngsat.com/tvchannels/in/Angel-TV-Chinese.html,,,False,APT,Chi,in
+4.0,GCN Korea,MPEG-4/SD,48.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,GCN Korea,https://www.lyngsat.com/tvchannels/us/GCN-Korea.html,,,False,APT,,us
+4.0,GCN Korea,MPEG-4/SD,48.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,GCN Korea,https://www.lyngsat.com/tvchannels/us/GCN-Korea.html,,,False,APT,,us
+12.0,One TV,MPEG-4/SD,36.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,One TV,https://www.lyngsat.com/tvchannels/hk/One-TV.html,,,False,APT,Chi,hk
+13.0,One TV Discover,MPEG-4/SD,110.0,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,One TV Discover,https://www.lyngsat.com/tvchannels/hk/One-TV-Discover.html,,,False,APT,Chi,hk
+,NHK World Japan Radio,,,DVB-S2,9600.0,2/3,12739 H,tp 8A,0.0,,,NHK World Japan Radio,https://www.lyngsat.com/radiochannels/jp/NHK-World-Japan-Radio.html,,,False,APT,,jp
+,,,,,,,,,,,,DVB-S2QPSK33333/4,,,,False,APT,,
+,,,,,,,,,,,,DVB-S2QPSK16603/4,,,,False,APT,,
+,,,,,,,,,,,,DVB-S2QPSK16603/4,,,,False,APT,,
+,,,,,,,,,,,,DVB-S28PSK25002/3,,,,False,APT,,
+,,,,,,,,,,,,DVB-S28PSK31403/4,,,,False,APT,,
+,,,,,,,,,,,,DVB-S2561/2,,,,False,APT,,
+,,,,,,,,,,,,DVB-S28PSK50003/4,PowerVu,,,False,APT,,

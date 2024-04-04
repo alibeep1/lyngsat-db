@@ -1,0 +1,14 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+,@ Oceanic Broadband,,,DVB-S2,2048.0,2/3,3792 R,tp WHR3,0,,,,,False,,
+,American Forces Network,,,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",https://www.lyngsat.com/providers/us/American-Forces-Network.html,,,True,American Forces Network,
+202.0,AFN Prime Pacific,MPEG-4/SD,1260.0,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN Prime Pacific,https://www.lyngsat.com/tvchannels/us/AFN-Prime-Pacific.html,False,American Forces Network,Eng
+203.0,AFN News,MPEG-4/SD,1360.0,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN News,https://www.lyngsat.com/tvchannels/us/AFN-News.html,False,American Forces Network,Eng
+204.0,AFN Sports,MPEG-4/SD,2060.0,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN Sports,https://www.lyngsat.com/tvchannels/us/AFN-Sports.html,False,American Forces Network,Eng
+220.0,AFN The Eagle Japan,,,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN The Eagle Japan,https://www.lyngsat.com/radiochannels/us/AFN-The-Eagle-Japan.html,False,American Forces Network,Eng
+221.0,AFN The Voice,,,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN The Voice,https://www.lyngsat.com/radiochannels/us/AFN-The-Voice.html,False,American Forces Network,Eng
+222.0,AFN Music Service 1,,,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN Music Service 1,https://www.lyngsat.com/radiochannels/us/AFN-Music-Service-1.html,False,American Forces Network,Eng
+223.0,AFN Music Service 2,,,DVB-S2,11000.0,1/2,4055 L,tp GLL7,34-35,"PowerVu,Verimatrix",,AFN Music Service 2,https://www.lyngsat.com/radiochannels/us/AFN-Music-Service-2.html,False,American Forces Network,Eng
+11.0,KGTF (PBS - Agana),?-?MPEG-4/SD,177.0,DVB-S2,2127.0,1/2,4152 R,tp GLR10,34-35,,,,,False,American Forces Network,Eng
+301.0,BYU TV Global,?-?MPEG-4/SD,4864.0,DVB-S2,2644.0,3/4,4192 R,tp GLR10,34-35,,,,,False,American Forces Network,Eng Chi
+,,,,,,,,,,,,DVB-S2QPSK2127,,False,American Forces Network,
+,,,,,,,,,,,,DVB-S2QPSK26443/4,,False,American Forces Network,

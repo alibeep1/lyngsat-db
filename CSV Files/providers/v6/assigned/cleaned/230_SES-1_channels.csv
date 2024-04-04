@@ -1,0 +1,252 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages
+1,Daystar TV,?-?MPEG-2/SD,257.0,DVB-S,4442.0,3/4,4005 V,tp 15,0.0,,,,,False,,Eng
+,RCN,,,DVB-S2,3333.0,5/6,4011 V,tp 15,0.0,RAS,https://www.lyngsat.com/providers/co/RCN.html,,,True,RCN,
+5,RCN Nuestra Tele,MPEG-4/SD,101.0,DVB-S2,3333.0,5/6,4011 V,tp 15,0.0,RAS,,RCN Nuestra Tele,https://www.lyngsat.com/tvchannels/co/RCN-Nuestra-Tele.html,False,RCN,Spa
+6,NTN 24,MPEG-4/SD,201.0,DVB-S2,3333.0,5/6,4011 V,tp 15,0.0,RAS,,NTN 24,https://www.lyngsat.com/tvchannels/co/NTN-24.html,False,RCN,Spa
+6,NTN 24,MPEG-4/SD,201.0,DVB-S2,3333.0,5/6,4011 V,tp 15,0.0,RAS,,NTN 24,https://www.lyngsat.com/tvchannels/co/NTN-24.html,False,RCN,Spa
+7,RCN Novelas,MPEG-4/SD,301.0,DVB-S2,3333.0,5/6,4011 V,tp 15,0.0,RAS,,RCN Novelas,https://www.lyngsat.com/tvchannels/co/RCN-Novelas.html,False,RCN,Spa
+,Warner Bros. Discovery,815-101,,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,True,Warner Bros. Discovery,
+31,HGTV East,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,HGTV East,https://www.lyngsat.com/tvchannels/us/HGTV-East.html,False,Warner Bros. Discovery,Eng
+32,Food Network East,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Food Network East,https://www.lyngsat.com/tvchannels/us/Food-Network-East.html,False,Warner Bros. Discovery,Eng
+33,Magnolia Network East,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Magnolia Network East,https://www.lyngsat.com/tvchannels/us/Magnolia-Network-East.html,False,Warner Bros. Discovery,Eng
+34,Cooking Channel,MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Cooking Channel,https://www.lyngsat.com/tvchannels/us/Cooking-Channel.html,False,Warner Bros. Discovery,Eng
+35,Travel Channel East,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Travel Channel East,https://www.lyngsat.com/tvchannels/us/Travel-Channel-East.html,False,Warner Bros. Discovery,Eng
+36,HGTV West,MPEG-4/HD,610.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,HGTV West,https://www.lyngsat.com/tvchannels/us/HGTV-West.html,False,Warner Bros. Discovery,Eng
+37,Food Network West,MPEG-4/HD,710.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Food Network West,https://www.lyngsat.com/tvchannels/us/Food-Network-West.html,False,Warner Bros. Discovery,Eng
+38,Travel Channel West,MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Travel Channel West,https://www.lyngsat.com/tvchannels/us/Travel-Channel-West.html,False,Warner Bros. Discovery,Eng
+39,GAC Family,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,GAC Family,https://www.lyngsat.com/tvchannels/us/GAC-Family.html,False,Warner Bros. Discovery,Eng
+40,Magnolia Network West,MPEG-4/HD,1010.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Magnolia Network West,https://www.lyngsat.com/tvchannels/us/Magnolia-Network-West.html,False,Warner Bros. Discovery,Eng
+41,[test card],,1110.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,,,False,Warner Bros. Discovery,
+,Hallmark,,,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,,,True,Hallmark,
+,Hallmark,,,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,,,True,Hallmark,
+,Hallmark,1-201,,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,,,True,Hallmark,
+,Hallmark,1-201,,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,https://www.lyngsat.com/providers/us/Hallmark.html,,,True,Hallmark,
+11*,Hallmark Channel East,MPEG-2/SD,1260.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Channel East,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-East.html,False,Hallmark,Eng
+11*,Hallmark Channel East,MPEG-2/SD,1260.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Channel East,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-East.html,False,Hallmark,Eng
+201,Hallmark Channel East,MPEG-4/HD,111.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Channel East,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-East.html,False,Hallmark,Eng
+201,Hallmark Channel East,MPEG-4/HD,111.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Channel East,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-East.html,False,Hallmark,Eng
+21*,Hallmark Channel West,MPEG-2/SD,1160.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Channel West,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-West.html,False,Hallmark,Eng
+21*,Hallmark Channel West,MPEG-2/SD,1160.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Channel West,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-West.html,False,Hallmark,Eng
+202,Hallmark Channel West,MPEG-4/HD,211.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Channel West,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-West.html,False,Hallmark,Eng
+202,Hallmark Channel West,MPEG-4/HD,211.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Channel West,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-West.html,False,Hallmark,Eng
+31*,Hallmark Mystery East,MPEG-2/SD,1360.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Mystery East,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-East.html,False,Hallmark,Eng
+31*,Hallmark Mystery East,MPEG-2/SD,1360.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Mystery East,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-East.html,False,Hallmark,Eng
+203,Hallmark Mystery East,MPEG-4/HD,311.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Mystery East,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-East.html,False,Hallmark,Eng
+203,Hallmark Mystery East,MPEG-4/HD,311.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Mystery East,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-East.html,False,Hallmark,Eng
+41*,Hallmark Mystery West,MPEG-2/SD,1460.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Mystery West,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-West.html,False,Hallmark,Eng
+41*,Hallmark Mystery West,MPEG-2/SD,1460.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Hallmark Mystery West,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-West.html,False,Hallmark,Eng
+204,Hallmark Mystery West,MPEG-4/HD,411.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Mystery West,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-West.html,False,Hallmark,Eng
+204,Hallmark Mystery West,MPEG-4/HD,411.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Mystery West,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-West.html,False,Hallmark,Eng
+151,Game Show Network East,MPEG-2/SD,1560.0,DVB-S,12400.0,7/8,4030 V,tp 17,0.0,PowerVu,,Game Show Network East,https://www.lyngsat.com/tvchannels/us/Game-Show-Network-East.html,False,Hallmark,Eng
+205,Hallmark Family,MPEG-4/HD,511.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Hallmark Family,https://www.lyngsat.com/tvchannels/us/Hallmark-Family.html,False,Hallmark,Eng
+211,MavTV,MPEG-4/HD,1111.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,MavTV,https://www.lyngsat.com/tvchannels/us/MavTV.html,False,Hallmark,Eng
+212,Gol TV,MPEG-4/HD,1211.0,DVB-S2,15800.0,5/6,4048 V,tp 17,0.0,PowerVu,,Gol TV,https://www.lyngsat.com/tvchannels/us/Gol-TV.html,False,Hallmark,Eng
+,Paramount Domestic Media Networks HD Plex 4,,,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex-4.html,,,True,Paramount Domestic Media Networks HD Plex 4,
+301,MGM+ East,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ East,https://www.lyngsat.com/tvchannels/us/MGM--East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+301,MGM+ East,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ East,https://www.lyngsat.com/tvchannels/us/MGM--East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+351,MGM+ East,MPEG-4/SD,710.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ East,https://www.lyngsat.com/tvchannels/us/MGM--East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+351,MGM+ East,MPEG-4/SD,710.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ East,https://www.lyngsat.com/tvchannels/us/MGM--East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+302,MGM+ West,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ West,https://www.lyngsat.com/tvchannels/us/MGM--West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+302,MGM+ West,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ West,https://www.lyngsat.com/tvchannels/us/MGM--West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+352,MGM+ West,MPEG-4/SD,810.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ West,https://www.lyngsat.com/tvchannels/us/MGM--West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+352,MGM+ West,MPEG-4/SD,810.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ West,https://www.lyngsat.com/tvchannels/us/MGM--West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+303,MGM+ Hits,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Hits,https://www.lyngsat.com/tvchannels/us/MGM--Hits.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+303,MGM+ Hits,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Hits,https://www.lyngsat.com/tvchannels/us/MGM--Hits.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+354,MGM+ Hits,MPEG-4/SD,1010.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Hits,https://www.lyngsat.com/tvchannels/us/MGM--Hits.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+354,MGM+ Hits,MPEG-4/SD,1010.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Hits,https://www.lyngsat.com/tvchannels/us/MGM--Hits.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+304,MGM+ Marquee,MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Marquee,https://www.lyngsat.com/tvchannels/us/MGM--Marquee.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+305,MGM+ Drive-In,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Drive-In,https://www.lyngsat.com/tvchannels/us/MGM--Drive-In.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+305,MGM+ Drive-In,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Drive-In,https://www.lyngsat.com/tvchannels/us/MGM--Drive-In.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+353,MGM+ Drive-In,MPEG-4/SD,910.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Drive-In,https://www.lyngsat.com/tvchannels/us/MGM--Drive-In.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+353,MGM+ Drive-In,MPEG-4/SD,910.0,DVB-S2,30000.0,5/6,4060 H,tp 18,0.0,PowerVu,,MGM+ Drive-In,https://www.lyngsat.com/tvchannels/us/MGM--Drive-In.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,,,,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,,,False,Paramount Domestic Media Networks HD Plex 4,
+,,?-1,,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,,,False,Paramount Domestic Media Networks HD Plex 4,
+,,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,,,False,Paramount Domestic Media Networks HD Plex 4,
+,BET East,MPEG-4/HD,501.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET East,https://www.lyngsat.com/tvchannels/us/BET-East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET West,MPEG-4/HD,502.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET West,https://www.lyngsat.com/tvchannels/us/BET-West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Canada,MPEG-4/HD,503.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Canada,https://www.lyngsat.com/tvchannels/us/BET-Canada.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Caribbean,MPEG-4/SD,505.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Caribbean,https://www.lyngsat.com/tvchannels/us/BET-Caribbean.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Her Caribbean,MPEG-4/SD,506.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Her Caribbean,https://www.lyngsat.com/tvchannels/us/BET-Her-Caribbean.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Gospel,MPEG-4/SD,507.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Gospel,https://www.lyngsat.com/tvchannels/us/BET-Gospel.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Jams,MPEG-4/SD,509.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Jams,https://www.lyngsat.com/tvchannels/us/BET-Jams.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Soul,MPEG-4/SD,510.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Soul,https://www.lyngsat.com/tvchannels/us/BET-Soul.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,BET Hip-Hop,MPEG-4/SD,511.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,BET Hip-Hop,https://www.lyngsat.com/tvchannels/us/BET-Hip-Hop.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,MTV Classic East,MPEG-4/SD,513.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,MTV Classic East,https://www.lyngsat.com/tvchannels/us/MTV-Classic-East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,MTV Tr3s West,MPEG-4/SD,514.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,MTV Tr3s West,https://www.lyngsat.com/tvchannels/us/MTV-Tr3s-West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,CMT Music,MPEG-4/SD,515.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,CMT Music,https://www.lyngsat.com/tvchannels/us/CMT-Music.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,MTV Tr3s East,MPEG-4/SD,517.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,MTV Tr3s East,https://www.lyngsat.com/tvchannels/us/MTV-Tr3s-East.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,MTV Classic West,MPEG-4/SD,518.0,DVB-S2,30000.0,5/6,4080 V,tp 19,0.0,PowerVu,,MTV Classic West,https://www.lyngsat.com/tvchannels/us/MTV-Classic-West.html,False,Paramount Domestic Media Networks HD Plex 4,Eng
+,Paramount Domestic Media Networks HD Plex 2,?-360,,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex-2.html,,,True,Paramount Domestic Media Networks HD Plex 2,
+201,CMT East,MPEG-4/HD,111.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,CMT East,https://www.lyngsat.com/tvchannels/us/CMT-East.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+202,MTV East,MPEG-4/HD,211.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,MTV East,https://www.lyngsat.com/tvchannels/us/MTV-East.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+203,Nickelodeon West,MPEG-4/HD,311.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Nickelodeon West,https://www.lyngsat.com/tvchannels/us/Nickelodeon-West.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+204,VH1 West,MPEG-4/HD,411.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,VH1 West,https://www.lyngsat.com/tvchannels/us/VH1-West.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+205,MTV Live USA,MPEG-4/HD,511.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,MTV Live USA,https://www.lyngsat.com/tvchannels/us/MTV-Live-USA.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+206,Paramount Network East,MPEG-4/HD,611.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Paramount Network East,https://www.lyngsat.com/tvchannels/us/Paramount-Network-East.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+207,Comedy Central West,MPEG-4/HD,711.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Comedy Central West,https://www.lyngsat.com/tvchannels/us/Comedy-Central-West.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+208,MTV 00s,MPEG-4/HD,811.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,MTV 00s,https://www.lyngsat.com/tvchannels/us/MTV-00s.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+209,Paramount Network Caribbean,MPEG-4/HD,911.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Paramount Network Caribbean,https://www.lyngsat.com/tvchannels/us/Paramount-Network-Caribbean.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+210,Comedy Central Caribbean,MPEG-4/HD,1011.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Comedy Central Caribbean,https://www.lyngsat.com/tvchannels/us/Comedy-Central-Caribbean.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+211,Logo East,MPEG-4/HD,1111.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Logo East,https://www.lyngsat.com/tvchannels/us/Logo-East.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+212,Pop TV East,MPEG-4/HD,1211.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Pop TV East,https://www.lyngsat.com/tvchannels/us/Pop-TV-East.html,False,Paramount Domestic Media Networks HD Plex 2,Eng
+,Paramount Domestic Media Networks HD Plex,,,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,https://www.lyngsat.com/providers/us/Paramount-Domestic-Media-Networks-HD-Plex.html,,,True,Paramount Domestic Media Networks HD Plex,
+401,TV Land East,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,TV Land East,https://www.lyngsat.com/tvchannels/us/TV-Land-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+402,TV Land West,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,TV Land West,https://www.lyngsat.com/tvchannels/us/TV-Land-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+403,MTV 2 East,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,MTV 2 East,https://www.lyngsat.com/tvchannels/us/MTV-2-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+404,MTV 2 West,MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,MTV 2 West,https://www.lyngsat.com/tvchannels/us/MTV-2-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+405,Nick Jr East,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,Nick Jr East,https://www.lyngsat.com/tvchannels/us/Nick-Jr-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+406,Nicktoons East,MPEG-4/HD,610.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,Nicktoons East,https://www.lyngsat.com/tvchannels/us/Nicktoons-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+407,Nicktoons West,MPEG-4/HD,710.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,Nicktoons West,https://www.lyngsat.com/tvchannels/us/Nicktoons-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+408,Nick Jr West,MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,Nick Jr West,https://www.lyngsat.com/tvchannels/us/Nick-Jr-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+409,BET Her East,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,BET Her East,https://www.lyngsat.com/tvchannels/us/BET-Her-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+410,BET Her West,MPEG-4/HD,1010.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,BET Her West,https://www.lyngsat.com/tvchannels/us/BET-Her-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+411,TeenNick East,MPEG-4/HD,1110.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,TeenNick East,https://www.lyngsat.com/tvchannels/us/TeenNick-East.html,False,Paramount Domestic Media Networks HD Plex,Eng
+412,TeenNick West,MPEG-4/HD,1210.0,DVB-S2,30000.0,5/6,4120 V,tp 21,0.0,PowerVu,,TeenNick West,https://www.lyngsat.com/tvchannels/us/TeenNick-West.html,False,Paramount Domestic Media Networks HD Plex,Eng
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,,,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/HD,49.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-2/SD,65.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV,MPEG-4/HD,113.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,https://www.lyngsat.com/providers/us/Jewelry-TV.html,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,True,Jewelry TV,Eng
+,Jewelry TV Extra,MPEG-2/SD,81.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,,Jewelry TV Extra,https://www.lyngsat.com/tvchannels/us/Jewelry-TV-Extra.html,False,Jewelry TV,Eng
+,Jewelry TV Extra,MPEG-2/SD,81.0,DVB-S,29268.0,3/4,4140 H,tp 22,0.0,,,Jewelry TV Extra,https://www.lyngsat.com/tvchannels/us/Jewelry-TV-Extra.html,False,Jewelry TV,Eng
+,NBC Universal,,,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,https://www.lyngsat.com/providers/us/NBC-Universal.html,,,True,NBC Universal,
+39,Altitude Sports,MPEG-2/SD,390.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Altitude Sports,https://www.lyngsat.com/tvchannels/us/Altitude-Sports.html,False,NBC Universal,Eng
+39,Altitude Sports,MPEG-2/SD,390.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Altitude Sports,https://www.lyngsat.com/tvchannels/us/Altitude-Sports.html,False,NBC Universal,Eng
+48,Altitude Sports,MPEG-4/HD,480.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Altitude Sports,https://www.lyngsat.com/tvchannels/us/Altitude-Sports.html,False,NBC Universal,Eng
+48,Altitude Sports,MPEG-4/HD,480.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Altitude Sports,https://www.lyngsat.com/tvchannels/us/Altitude-Sports.html,False,NBC Universal,Eng
+40,USA Network East,MPEG-4/HD,400.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,USA Network East,https://www.lyngsat.com/tvchannels/us/USA-Network-East.html,False,NBC Universal,Eng
+40,USA Network East,MPEG-4/HD,400.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,USA Network East,https://www.lyngsat.com/tvchannels/us/USA-Network-East.html,False,NBC Universal,Eng
+49,USA Network East,MPEG-2/SD,490.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,USA Network East,https://www.lyngsat.com/tvchannels/us/USA-Network-East.html,False,NBC Universal,Eng
+49,USA Network East,MPEG-2/SD,490.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,USA Network East,https://www.lyngsat.com/tvchannels/us/USA-Network-East.html,False,NBC Universal,Eng
+41,Syfy East,MPEG-4/HD,410.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Syfy East,https://www.lyngsat.com/tvchannels/us/Syfy-East.html,False,NBC Universal,Eng
+42,Bravo East,MPEG-4/HD,420.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Bravo East,https://www.lyngsat.com/tvchannels/us/Bravo-East.html,False,NBC Universal,Eng
+43,Oxygen True Crime East,MPEG-4/HD,430.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Oxygen True Crime East,https://www.lyngsat.com/tvchannels/us/Oxygen-True-Crime-East.html,False,NBC Universal,Eng
+44,Oxygen True Crime West,MPEG-4/HD,440.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Oxygen True Crime West,https://www.lyngsat.com/tvchannels/us/Oxygen-True-Crime-West.html,False,NBC Universal,Eng
+46,Universo Este,MPEG-4/HD,460.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Universo Este,https://www.lyngsat.com/tvchannels/us/Universo-Este.html,False,NBC Universal,Spa
+47,Universo Oeste,MPEG-4/HD,470.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Universo Oeste,https://www.lyngsat.com/tvchannels/us/Universo-Oeste.html,False,NBC Universal,Spa
+66,Telemundo Este,MPEG-2/SD,660.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,PowerVu,,Telemundo Este,https://www.lyngsat.com/tvchannels/us/Telemundo-Este.html,False,NBC Universal,Spa
+1,Me TV,MPEG-4/SD,111.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Me TV,https://www.lyngsat.com/tvchannels/us/Me-TV.html,False,NBC Universal,Eng
+2,Heroes & Icons East,MPEG-4/SD,121.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Heroes & Icons East,https://www.lyngsat.com/tvchannels/us/Heroes-and-Icons-East.html,False,NBC Universal,Eng
+3,Start TV East,MPEG-4/SD,131.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Start TV East,https://www.lyngsat.com/tvchannels/us/Start-TV-East.html,False,NBC Universal,Eng
+4,Story TV,MPEG-4/HD,141.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Story TV,https://www.lyngsat.com/tvchannels/us/Story-TV.html,False,NBC Universal,Eng
+5,Movies!,MPEG-4/SD,151.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Movies!,https://www.lyngsat.com/tvchannels/us/Movies.html,False,NBC Universal,Eng
+6,Catchy Comedy,MPEG-4/SD,161.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Catchy Comedy,https://www.lyngsat.com/tvchannels/us/Catchy-Comedy.html,False,NBC Universal,Eng
+112,Heroes & Icons West,MPEG-4/SD,1121.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Heroes & Icons West,https://www.lyngsat.com/tvchannels/us/Heroes-and-Icons-West.html,False,NBC Universal,Eng
+113,Start TV West,MPEG-4/SD,1131.0,DVB-S,30000.0,5/6,4180 H,tp 24,0.0,,,Start TV West,https://www.lyngsat.com/tvchannels/us/Start-TV-West.html,False,NBC Universal,Eng
+,Educational Media Foundation,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,https://www.lyngsat.com/providers/us/Educational-Media-Foundation.html,,,True,Educational Media Foundation,
+1,Radio Nueva Vida,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,False,Educational Media Foundation,Spa
+1,Radio Nueva Vida,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Radio Nueva Vida,https://www.lyngsat.com/radiochannels/us/Radio-Nueva-Vida.html,False,Educational Media Foundation,Spa
+2,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+2,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+2,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+2,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+9,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+9,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+9,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+9,K-Love,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love,https://www.lyngsat.com/radiochannels/us/K-Love.html,False,Educational Media Foundation,Eng
+3,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+3,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+3,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+3,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+7,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+7,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+7,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+7,Air 1 Worship Now,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Air 1 Worship Now,https://www.lyngsat.com/radiochannels/us/Air-1-Worship-Now.html,False,Educational Media Foundation,Eng
+8,K-Love Music,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love Music,https://www.lyngsat.com/radiochannels/us/K-Love-Music.html,False,Educational Media Foundation,Eng
+12,K-Love Birthday Blend,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love Birthday Blend,https://www.lyngsat.com/radiochannels/us/K-Love-Birthday-Blend.html,False,Educational Media Foundation,Eng
+12,K-Love Birthday Blend,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love Birthday Blend,https://www.lyngsat.com/radiochannels/us/K-Love-Birthday-Blend.html,False,Educational Media Foundation,Eng
+13,K-Love 90s,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,False,Educational Media Foundation,Eng
+13,K-Love 90s,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love 90s,https://www.lyngsat.com/radiochannels/us/K-Love-90s.html,False,Educational Media Foundation,Eng
+14,Boost Radio,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Boost Radio,https://www.lyngsat.com/radiochannels/us/Boost-Radio.html,False,Educational Media Foundation,Eng
+14,Boost Radio,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,Boost Radio,https://www.lyngsat.com/radiochannels/us/Boost-Radio.html,False,Educational Media Foundation,Eng
+21,K-Love 2000s,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,False,Educational Media Foundation,Eng
+21,K-Love 2000s,,,DVB-S2,3650.0,3/4,11704 V,tp 1,0.0,,,K-Love 2000s,https://www.lyngsat.com/radiochannels/us/K-Love-2000s.html,False,Educational Media Foundation,Eng
+,American Family Radio,29-1,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,https://www.lyngsat.com/providers/us/American-Family-Radio.html,,,True,American Family Radio,
+1,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+1,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+1,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+1,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+3,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+3,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+3,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+3,AFR Talk,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Talk,https://www.lyngsat.com/radiochannels/us/AFR-Talk.html,False,American Family Radio,Eng
+2,AFR Music,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Music,https://www.lyngsat.com/radiochannels/us/AFR-Music.html,False,American Family Radio,Eng
+2,AFR Music,,,DVB-S,1107.0,2/3,11710 V,tp 1,0.0,,,AFR Music,https://www.lyngsat.com/radiochannels/us/AFR-Music.html,False,American Family Radio,Eng
+1,NewsNation,MPEG-4/HD,101.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,NewsNation,https://www.lyngsat.com/tvchannels/us/NewsNation.html,False,American Family Radio,Eng
+2,NHK World Japan,MPEG-4/HD,102.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,NHK World Japan,https://www.lyngsat.com/tvchannels/jp/NHK-World-Japan.html,False,American Family Radio,Eng
+2,NHK World Japan,MPEG-4/HD,102.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,NHK World Japan,https://www.lyngsat.com/tvchannels/jp/NHK-World-Japan.html,False,American Family Radio,Eng
+3,SBN Domestic,MPEG-4/HD,103.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,SBN Domestic,https://www.lyngsat.com/tvchannels/us/SBN-Domestic.html,False,American Family Radio,Eng
+4,NHK +,MPEG-4/HD,104.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,NHK +,https://www.lyngsat.com/tvchannels/jp/NHK--.html,False,American Family Radio,Jpn
+5,CGTN,MPEG-4/HD,105.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,American Family Radio,Eng
+5,CGTN,MPEG-4/HD,105.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,CGTN,https://www.lyngsat.com/tvchannels/cn/CGTN.html,False,American Family Radio,Eng
+6,Reach TV,MPEG-4/HD,106.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Reach TV,https://www.lyngsat.com/tvchannels/us/Reach-TV.html,False,American Family Radio,Eng
+7,Taiwan +,MPEG-4/HD,107.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Taiwan +,https://www.lyngsat.com/tvchannels/tw/Taiwan--.html,False,American Family Radio,Eng
+7,Taiwan +,MPEG-4/HD,107.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Taiwan +,https://www.lyngsat.com/tvchannels/tw/Taiwan--.html,False,American Family Radio,Eng
+44,Microspace promo,MPEG-4/HD,5185.0,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,,,False,American Family Radio,Eng
+62,North Carolina Reading Service,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,North Carolina Reading Service,https://www.lyngsat.com/radiochannels/us/North-Carolina-Reading-Service.html,False,American Family Radio,Eng
+62,North Carolina Reading Service,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,North Carolina Reading Service,https://www.lyngsat.com/radiochannels/us/North-Carolina-Reading-Service.html,False,American Family Radio,Eng
+1015,Mix 101.5,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Mix 101.5,https://www.lyngsat.com/radiochannels/us/Mix-1015.html,False,American Family Radio,Eng
+1015,Mix 101.5,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Mix 101.5,https://www.lyngsat.com/radiochannels/us/Mix-1015.html,False,American Family Radio,Eng
+0,50s & 60s Hits,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,50s & 60s Hits,https://www.lyngsat.com/radiochannels/us/50s-and-60s-Hits.html,False,American Family Radio,
+0,70s Hits,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,70s Hits,https://www.lyngsat.com/radiochannels/us/70s-Hits.html,False,American Family Radio,
+0,Songbook,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Songbook,https://www.lyngsat.com/radiochannels/us/Songbook.html,False,American Family Radio,
+0,80s Hits,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,80s Hits,https://www.lyngsat.com/radiochannels/us/80s-Hits.html,False,American Family Radio,
+0,Adult Alternative,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Adult Alternative,https://www.lyngsat.com/radiochannels/us/Adult-Alternative.html,False,American Family Radio,
+0,Unforgettable,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Unforgettable,https://www.lyngsat.com/radiochannels/us/Unforgettable.html,False,American Family Radio,
+0,City Lights,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,City Lights,https://www.lyngsat.com/radiochannels/us/City-Lights.html,False,American Family Radio,
+0,The Beach,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,The Beach,https://www.lyngsat.com/radiochannels/us/The-Beach.html,False,American Family Radio,
+0,Swing Kings,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Swing Kings,https://www.lyngsat.com/radiochannels/us/Swing-Kings.html,False,American Family Radio,
+0,Lucille,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Lucille,https://www.lyngsat.com/radiochannels/us/Lucille.html,False,American Family Radio,
+0,7890,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,7890,https://www.lyngsat.com/radiochannels/us/7890.html,False,American Family Radio,
+0,Ensemble,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Ensemble,https://www.lyngsat.com/radiochannels/us/Ensemble.html,False,American Family Radio,
+0,Summer Fun,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,American Family Radio,
+0,Summer Fun,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,American Family Radio,
+0,Summer Fun,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,American Family Radio,
+0,Summer Fun,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Summer Fun,https://www.lyngsat.com/radiochannels/us/Summer-Fun.html,False,American Family Radio,
+0,Rock Show,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Rock Show,https://www.lyngsat.com/radiochannels/us/Rock-Show.html,False,American Family Radio,
+0,Roadhouse,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Roadhouse,https://www.lyngsat.com/radiochannels/us/Roadhouse.html,False,American Family Radio,
+0,Country Gold,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Country Gold,https://www.lyngsat.com/radiochannels/us/Country-Gold.html,False,American Family Radio,
+0,Nashville USA,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Nashville USA,https://www.lyngsat.com/radiochannels/us/Nashville-USA.html,False,American Family Radio,
+0,Country Music 1,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Country Music 1,https://www.lyngsat.com/radiochannels/us/Country-Music-1.html,False,American Family Radio,
+0,Belissimo,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Belissimo,https://www.lyngsat.com/radiochannels/us/Belissimo.html,False,American Family Radio,
+0,The Light,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,The Light,https://www.lyngsat.com/radiochannels/us/The-Light.html,False,American Family Radio,
+0,Plaza,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Plaza,https://www.lyngsat.com/radiochannels/us/Plaza.html,False,American Family Radio,
+0,Impressions,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Impressions,https://www.lyngsat.com/radiochannels/us/Impressions.html,False,American Family Radio,
+0,Easy Instrumentals,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Easy Instrumentals,https://www.lyngsat.com/radiochannels/us/Easy-Instrumentals.html,False,American Family Radio,
+0,Environmental,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Environmental,https://www.lyngsat.com/radiochannels/us/Environmental.html,False,American Family Radio,
+0,Frequency,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Frequency,https://www.lyngsat.com/radiochannels/us/Frequency.html,False,American Family Radio,
+0,Expressions,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Expressions,https://www.lyngsat.com/radiochannels/us/Expressions.html,False,American Family Radio,
+0,Ambrosia,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Ambrosia,https://www.lyngsat.com/radiochannels/us/Ambrosia.html,False,American Family Radio,
+0,FM-1,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,FM-1,https://www.lyngsat.com/radiochannels/us/FM-1.html,False,American Family Radio,
+0,Hitline,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Hitline,https://www.lyngsat.com/radiochannels/us/Hitline.html,False,American Family Radio,
+0,Hot FM,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Hot FM,https://www.lyngsat.com/radiochannels/us/Hot-FM.html,False,American Family Radio,
+0,Strobe,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Strobe,https://www.lyngsat.com/radiochannels/us/Strobe.html,False,American Family Radio,
+0,Little Italy,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Little Italy,https://www.lyngsat.com/radiochannels/us/Little-Italy.html,False,American Family Radio,
+0,Jazz Traditions,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Jazz Traditions,https://www.lyngsat.com/radiochannels/us/Jazz-Traditions.html,False,American Family Radio,
+0,La Musica,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,La Musica,https://www.lyngsat.com/radiochannels/us/La-Musica.html,False,American Family Radio,
+0,Intermezzo,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Intermezzo,https://www.lyngsat.com/radiochannels/us/Intermezzo.html,False,American Family Radio,
+0,Love Songs,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Love Songs,https://www.lyngsat.com/radiochannels/us/Love-Songs.html,False,American Family Radio,
+0,Feedback,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Feedback,https://www.lyngsat.com/radiochannels/us/Feedback.html,False,American Family Radio,
+0,Metro,,,DVB-S,20000.0,1/2,12000 V,tp 15,0.0,,,Metro,https://www.lyngsat.com/radiochannels/us/Metro.html,False,American Family Radio,
+,(feeds),,,DVB-S,20000.0,1/2,12172 H,tp 24,,,,,,False,American Family Radio,
+,,,,,,,,,,,,DVB-S44423/4,,False,American Family Radio,
+,,,,,,,,,,,,DVB-S44423/4,,False,American Family Radio,

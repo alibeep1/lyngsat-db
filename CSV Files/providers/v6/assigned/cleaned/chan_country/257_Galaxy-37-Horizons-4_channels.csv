@@ -1,0 +1,194 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+,GCI,,,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,https://www.lyngsat.com/providers/us/GCI.html,,,True,GCI,,
+,GCI,,,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,https://www.lyngsat.com/providers/us/GCI.html,,,True,GCI,,
+,GCI,,,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,https://www.lyngsat.com/providers/us/GCI.html,,,True,GCI,,
+,GCI,,,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,https://www.lyngsat.com/providers/us/GCI.html,,,True,GCI,,
+1.0,KTUU-TV (NBC - Anchorage),MPEG-4/SD,401.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KTUU-TV (NBC - Anchorage),https://www.lyngsat.com/tvchannels/us/KTUU-TV.html,False,GCI,Eng,us
+1.0,KTUU-TV (NBC - Anchorage),MPEG-4/SD,401.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KTUU-TV (NBC - Anchorage),https://www.lyngsat.com/tvchannels/us/KTUU-TV.html,False,GCI,Eng,us
+2.0,KTBY-TV (Fox - Anchorage),MPEG-4/SD,201.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KTBY-TV (Fox - Anchorage),https://www.lyngsat.com/tvchannels/us/KTBY-TV.html,False,GCI,Eng,us
+3.0,KAUU-DT 4 (My - Anchorage),MPEG-4/SD,301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KAUU-DT 4 (My - Anchorage),https://www.lyngsat.com/tvchannels/us/KAUU-DT-4.html,False,GCI,Eng,us
+5.0,KAUU-TV (CBS - Anchorage),MPEG-4/SD,101.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KAUU-TV (CBS - Anchorage),https://www.lyngsat.com/tvchannels/us/KAUU-TV.html,False,GCI,Eng,us
+6.0,KYUR-TV (ABC - Anchorage),MPEG-4/SD,501.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KYUR-TV (ABC - Anchorage),https://www.lyngsat.com/tvchannels/us/KYUR-TV.html,False,GCI,Eng,us
+7.0,This TV,MPEG-4/SD,701.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,This TV,https://www.lyngsat.com/tvchannels/us/This-TV.html,False,GCI,Eng,us
+8.0,KTOO 360 TV,MPEG-4/SD,601.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KTOO 360 TV,https://www.lyngsat.com/tvchannels/us/KTOO-360-TV.html,False,GCI,Eng,us
+101.0,History West,MPEG-4/SD,801.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,History West,https://www.lyngsat.com/tvchannels/us/History-West.html,False,GCI,Eng,us
+102.0,USA Network West,MPEG-4/SD,901.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,USA Network West,https://www.lyngsat.com/tvchannels/us/USA-Network-West.html,False,GCI,Eng,us
+103.0,ESPN US,MPEG-4/SD,1001.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,ESPN US,https://www.lyngsat.com/tvchannels/us/ESPN-US.html,False,GCI,Eng,us
+104.0,ESPN 2 US,MPEG-4/SD,1101.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,ESPN 2 US,https://www.lyngsat.com/tvchannels/us/ESPN-2-US.html,False,GCI,Eng,us
+105.0,TNT West,MPEG-4/SD,1201.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,TNT West,https://www.lyngsat.com/tvchannels/us/TNT-West.html,False,GCI,Eng,us
+106.0,Discovery Channel West,MPEG-4/SD,1301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Discovery Channel West,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-West.html,False,GCI,Eng,us
+106.0,Discovery Channel West,MPEG-4/SD,1301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Discovery Channel West,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-West.html,False,GCI,Eng,us
+6.0,Discovery Channel West,MPEG-4/HD,97.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Discovery Channel West,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-West.html,False,GCI,Eng Spa,us
+6.0,Discovery Channel West,MPEG-4/HD,97.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Discovery Channel West,https://www.lyngsat.com/tvchannels/us/Discovery-Channel-West.html,False,GCI,Eng Spa,us
+107.0,HLN,MPEG-4/SD,1401.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,HLN,https://www.lyngsat.com/tvchannels/us/HLN.html,False,GCI,Eng,us
+108.0,HGTV West,MPEG-4/SD,1501.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,HGTV West,https://www.lyngsat.com/tvchannels/us/HGTV-West.html,False,GCI,Eng,us
+109.0,TBS West,MPEG-4/SD,1601.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,TBS West,https://www.lyngsat.com/tvchannels/us/TBS-West.html,False,GCI,Eng,us
+1002.0,KAKM-TV (PBS - Anchorage),MPEG-4/SD,1801.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,KAKM-TV (PBS - Anchorage),https://www.lyngsat.com/tvchannels/us/KAKM-TV.html,False,GCI,Eng,us
+1003.0,First Nations Experience,MPEG-4/SD,1901.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,First Nations Experience,https://www.lyngsat.com/tvchannels/us/First-Nations-Experience.html,False,GCI,Eng,us
+1004.0,Outdoor Channel,MPEG-4/SD,2001.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Outdoor Channel,https://www.lyngsat.com/tvchannels/us/Outdoor-Channel.html,False,GCI,Eng,us
+1005.0,Sportsman Channel,MPEG-4/SD,2101.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Sportsman Channel,https://www.lyngsat.com/tvchannels/us/Sportsman-Channel.html,False,GCI,Eng,us
+1009.0,People TV (USA),MPEG-4/SD,2601.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,People TV (USA),https://www.lyngsat.com/tvchannels/us/People-TV.html,False,GCI,Eng,us
+1011.0,ION Mystery,MPEG-4/SD,2701.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,ION Mystery,https://www.lyngsat.com/tvchannels/us/ION-Mystery.html,False,GCI,Eng,us
+1012.0,Court TV,MPEG-4/SD,2801.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Court TV,https://www.lyngsat.com/tvchannels/us/Court-TV.html,False,GCI,Eng,us
+1012.0,Court TV,MPEG-4/SD,2801.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Court TV,https://www.lyngsat.com/tvchannels/us/Court-TV.html,False,GCI,Eng,us
+1013.0,Grit,MPEG-4/SD,2901.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Grit,https://www.lyngsat.com/tvchannels/us/Grit.html,False,GCI,Eng,us
+1014.0,Travel Channel West,MPEG-4/SD,3201.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Travel Channel West,https://www.lyngsat.com/tvchannels/us/Travel-Channel-West.html,False,GCI,Eng,us
+1015.0,Food Network West,MPEG-4/SD,3001.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Food Network West,https://www.lyngsat.com/tvchannels/us/Food-Network-West.html,False,GCI,Eng,us
+1016.0,Magnolia Network West,MPEG-4/SD,3101.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Magnolia Network West,https://www.lyngsat.com/tvchannels/us/Magnolia-Network-West.html,False,GCI,Eng,us
+1017.0,GAC Family,MPEG-4/SD,3301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,GAC Family,https://www.lyngsat.com/tvchannels/us/GAC-Family.html,False,GCI,Eng,us
+1106.0,BYU TV,MPEG-4/SD,2201.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,BYU TV,https://www.lyngsat.com/tvchannels/us/BYU-TV.html,False,GCI,Eng,us
+1107.0,Daystar TV,MPEG-4/SD,2301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,False,GCI,Eng,us
+1107.0,Daystar TV,MPEG-4/SD,2301.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Daystar TV,https://www.lyngsat.com/tvchannels/us/Daystar-TV.html,False,GCI,Eng,us
+1108.0,Root Sports Northwest,MPEG-4/SD,2501.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Root Sports Northwest,https://www.lyngsat.com/tvchannels/us/Root-Sports-Northwest.html,False,GCI,Eng,us
+1110.0,Smithsonian Channel West,MPEG-4/HD,2401.0,DVB-S2,30000.0,5/6,3940 H,tp 12,0.0,PowerVu,,Smithsonian Channel West,https://www.lyngsat.com/tvchannels/us/Smithsonian-Channel-West.html,False,GCI,Eng,us
+1.0,The Weather Channel,MPEG-4/SD,7680.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,,,The Weather Channel,https://www.lyngsat.com/tvchannels/us/The-Weather-Channel.html,False,GCI,Eng,us
+201.0,Olympic Channel USA,MPEG-4/SD,2079.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Olympic Channel USA,https://www.lyngsat.com/tvchannels/es/Olympic-Channel-USA.html,False,GCI,Eng,es
+202.0,Oxygen True Crime West,MPEG-4/SD,2071.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Oxygen True Crime West,https://www.lyngsat.com/tvchannels/us/Oxygen-True-Crime-West.html,False,GCI,Eng,us
+203.0,E! West,MPEG-4/SD,301.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,E! West,https://www.lyngsat.com/tvchannels/us/E-West.html,False,GCI,Eng,us
+204.0,One America News Network,MPEG-4/SD,2701.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+204.0,One America News Network,MPEG-4/SD,2701.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+204.0,One America News Network,MPEG-4/SD,2701.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+500.0,One America News Network,MPEG-4/HD,129.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+500.0,One America News Network,MPEG-4/HD,129.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+500.0,One America News Network,MPEG-4/HD,129.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+600.0,One America News Network,MPEG-2/SD,,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+600.0,One America News Network,MPEG-2/SD,,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+600.0,One America News Network,MPEG-2/SD,,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,One America News Network,https://www.lyngsat.com/tvchannels/us/One-America-News-Network.html,False,GCI,Eng,us
+205.0,Jewelry TV,MPEG-4/SD,2062.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,False,GCI,Eng,us
+205.0,Jewelry TV,MPEG-4/SD,2062.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Jewelry TV,https://www.lyngsat.com/tvchannels/us/Jewelry-TV.html,False,GCI,Eng,us
+206.0,HBO West,MPEG-4/SD,501.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,HBO West,https://www.lyngsat.com/tvchannels/us/HBO-West.html,False,GCI,Eng,us
+207.0,CMT West,MPEG-4/SD,2050.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,CMT West,https://www.lyngsat.com/tvchannels/us/CMT-West.html,False,GCI,Eng,us
+208.0,Comedy Central West,MPEG-4/SD,2046.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Comedy Central West,https://www.lyngsat.com/tvchannels/us/Comedy-Central-West.html,False,GCI,Eng,us
+209.0,MTV West,MPEG-4/SD,2042.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,MTV West,https://www.lyngsat.com/tvchannels/us/MTV-West.html,False,GCI,Eng,us
+210.0,Nickelodeon West,MPEG-4/SD,2037.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Nickelodeon West,https://www.lyngsat.com/tvchannels/us/Nickelodeon-West.html,False,GCI,Eng,us
+211.0,Paramount Network West,MPEG-4/SD,2032.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Paramount Network West,https://www.lyngsat.com/tvchannels/us/Paramount-Network-West.html,False,GCI,Eng,us
+212.0,TV Land West,MPEG-4/SD,2027.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,TV Land West,https://www.lyngsat.com/tvchannels/us/TV-Land-West.html,False,GCI,Eng,us
+213.0,VH1 West,MPEG-4/SD,2023.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,VH1 West,https://www.lyngsat.com/tvchannels/us/VH1-West.html,False,GCI,Eng,us
+214.0,BET Jams,MPEG-4/SD,2019.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,BET Jams,https://www.lyngsat.com/tvchannels/us/BET-Jams.html,False,GCI,Eng,us
+215.0,BET Soul,MPEG-4/SD,2016.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,BET Soul,https://www.lyngsat.com/tvchannels/us/BET-Soul.html,False,GCI,Eng,us
+216.0,CMT Music,MPEG-4/SD,2013.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,CMT Music,https://www.lyngsat.com/tvchannels/us/CMT-Music.html,False,GCI,Eng,us
+217.0,MTV Classic West,MPEG-4/SD,2010.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,MTV Classic West,https://www.lyngsat.com/tvchannels/us/MTV-Classic-West.html,False,GCI,Eng,us
+218.0,MTV 2 West,MPEG-4/SD,2007.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,MTV 2 West,https://www.lyngsat.com/tvchannels/us/MTV-2-West.html,False,GCI,Eng,us
+219.0,Nick Jr West,MPEG-4/SD,2003.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Nick Jr West,https://www.lyngsat.com/tvchannels/us/Nick-Jr-West.html,False,GCI,Eng,us
+220.0,NickMusic US,MPEG-4/SD,2000.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,NickMusic US,https://www.lyngsat.com/tvchannels/us/NickMusic-US.html,False,GCI,Eng,us
+221.0,TeenNick West,MPEG-4/SD,1997.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,TeenNick West,https://www.lyngsat.com/tvchannels/us/TeenNick-West.html,False,GCI,Eng,us
+222.0,Nicktoons West,MPEG-4/SD,1993.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Nicktoons West,https://www.lyngsat.com/tvchannels/us/Nicktoons-West.html,False,GCI,Eng,us
+223.0,Destination America,MPEG-4/SD,2230.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Destination America,https://www.lyngsat.com/tvchannels/us/Destination-America.html,False,GCI,Eng,us
+224.0,American Heroes Channel USA,MPEG-4/SD,2240.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,American Heroes Channel USA,https://www.lyngsat.com/tvchannels/us/American-Heroes-Channel-USA.html,False,GCI,Eng,us
+225.0,Science,MPEG-4/SD,2250.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Science,https://www.lyngsat.com/tvchannels/us/Science.html,False,GCI,Eng,us
+226.0,Investigation Discovery West,MPEG-4/SD,2260.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Investigation Discovery West,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-West.html,False,GCI,Eng,us
+226.0,Investigation Discovery West,MPEG-4/SD,2260.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Investigation Discovery West,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-West.html,False,GCI,Eng,us
+2.0,Investigation Discovery West,MPEG-4/HD,33.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Investigation Discovery West,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-West.html,False,GCI,Eng,us
+2.0,Investigation Discovery West,MPEG-4/HD,33.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Investigation Discovery West,https://www.lyngsat.com/tvchannels/us/Investigation-Discovery-West.html,False,GCI,Eng,us
+227.0,Hallmark Channel West,MPEG-4/SD,2270.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Hallmark Channel West,https://www.lyngsat.com/tvchannels/us/Hallmark-Channel-West.html,False,GCI,Eng,us
+228.0,Hallmark Mystery West,MPEG-4/SD,2280.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Hallmark Mystery West,https://www.lyngsat.com/tvchannels/us/Hallmark-Mystery-West.html,False,GCI,Eng,us
+229.0,Game Show Network West,MPEG-4/SD,2290.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Game Show Network West,https://www.lyngsat.com/tvchannels/us/Game-Show-Network-West.html,False,GCI,Eng,us
+230.0,QVC US,MPEG-4/SD,2300.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,QVC US,https://www.lyngsat.com/tvchannels/us/QVC-US.html,False,GCI,Eng,us
+230.0,QVC US,MPEG-4/SD,2300.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,QVC US,https://www.lyngsat.com/tvchannels/us/QVC-US.html,False,GCI,Eng,us
+231.0,The CW Pacific,MPEG-4/SD,2310.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,The CW Pacific,https://www.lyngsat.com/tvchannels/us/The-CW-Pacific.html,False,GCI,Eng,us
+232.0,TFC USA West,MPEG-4/SD,2320.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,TFC USA West,https://www.lyngsat.com/tvchannels/ph/TFC-USA-West.html,False,GCI,Eng,ph
+233.0,Golf Channel US,MPEG-4/SD,2330.0,DVB-S2,30000.0,5/6,3980 H,tp 14,0.0,PowerVu,,Golf Channel US,https://www.lyngsat.com/tvchannels/us/Golf-Channel-US.html,False,GCI,Eng,us
+,NASA TV,,,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,https://www.lyngsat.com/providers/us/NASA-TV.html,,,True,NASA TV,,
+101.0,NASA TV Public,MPEG-2/HD,274.0,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,,NASA TV Public,https://www.lyngsat.com/tvchannels/us/NASA-TV-Public.html,False,NASA TV,Eng Eng,us
+101.0,NASA TV Public,MPEG-2/HD,274.0,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,,NASA TV Public,https://www.lyngsat.com/tvchannels/us/NASA-TV-Public.html,False,NASA TV,Eng Eng,us
+103.0,NASA TV Media,MPEG-4/HD,4145.0,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,,NASA TV Media,https://www.lyngsat.com/tvchannels/us/NASA-TV-Media.html,False,NASA TV,Eng Eng,us
+103.0,NASA TV Media,MPEG-4/HD,4145.0,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,,NASA TV Media,https://www.lyngsat.com/tvchannels/us/NASA-TV-Media.html,False,NASA TV,Eng Eng,us
+104.0,NASA TV UHD,MPEG-4/UHD,4161.0,DVB-S2,15000.0,5/6,4009 V,tp 15,0.0,,,NASA TV UHD,https://www.lyngsat.com/tvchannels/us/NASA-TV-UHD.html,False,NASA TV,Eng Eng,us
+,,,,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,,,False,NASA TV,,
+,,,,DVB-S,29270.0,7/8,4080 V,tp 19,0.0,"BISS,PowerVu",,,,False,NASA TV,,
+,,13-20,,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,,,False,NASA TV,,
+,,,,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,,,False,NASA TV,,
+1.0,Reelz,MPEG-4/HD,110.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,Reelz,https://www.lyngsat.com/tvchannels/us/Reelz.html,False,NASA TV,Eng,us
+2.0,Bloomberg TV US,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,Bloomberg TV US,https://www.lyngsat.com/tvchannels/us/Bloomberg-TV-US.html,False,NASA TV,Eng,us
+2.0,Bloomberg TV US,MPEG-4/HD,210.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,Bloomberg TV US,https://www.lyngsat.com/tvchannels/us/Bloomberg-TV-US.html,False,NASA TV,Eng,us
+3.0,Eleven Sports USA,MPEG-4/HD,310.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Eleven Sports USA,https://www.lyngsat.com/tvchannels/uk/Eleven-Sports-USA.html,False,NASA TV,Eng,uk
+5.0,Fuse East,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Fuse East,https://www.lyngsat.com/tvchannels/us/Fuse-East.html,False,NASA TV,Eng,us
+5.0,Fuse East,MPEG-4/HD,510.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Fuse East,https://www.lyngsat.com/tvchannels/us/Fuse-East.html,False,NASA TV,Eng,us
+6.0,Fuse East,MPEG-2/SD,610.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Fuse East,https://www.lyngsat.com/tvchannels/us/Fuse-East.html,False,NASA TV,Eng,us
+6.0,Fuse East,MPEG-2/SD,610.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Fuse East,https://www.lyngsat.com/tvchannels/us/Fuse-East.html,False,NASA TV,Eng,us
+7.0,Fuse West,MPEG-2/SD,710.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Fuse West,https://www.lyngsat.com/tvchannels/us/Fuse-West.html,False,NASA TV,Eng,us
+8.0,JBS (USA),MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,JBS (USA),https://www.lyngsat.com/tvchannels/us/JBS.html,False,NASA TV,Eng,us
+8.0,JBS (USA),MPEG-4/HD,810.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,JBS (USA),https://www.lyngsat.com/tvchannels/us/JBS.html,False,NASA TV,Eng,us
+9.0,NTD TV West,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,NTD TV West,https://www.lyngsat.com/tvchannels/us/NTD-TV-West.html,False,NASA TV,Chi,us
+9.0,NTD TV West,MPEG-4/HD,910.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,NTD TV West,https://www.lyngsat.com/tvchannels/us/NTD-TV-West.html,False,NASA TV,Chi,us
+10.0,NTD TV East,MPEG-4/HD,48.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,NTD TV East,https://www.lyngsat.com/tvchannels/us/NTD-TV-East.html,False,NASA TV,Chi,us
+10.0,NTD TV East,MPEG-4/HD,48.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,,,NTD TV East,https://www.lyngsat.com/tvchannels/us/NTD-TV-East.html,False,NASA TV,Chi,us
+11.0,Revolt,MPEG-4/HD,1110.0,DVB-S2,30000.0,5/6,4020 H,tp 16,0.0,PowerVu,,Revolt,https://www.lyngsat.com/tvchannels/us/Revolt.html,False,NASA TV,Eng,us
+,Starz,,,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,https://www.lyngsat.com/providers/us/Starz.html,,,True,Starz,,
+1.0,Starz East,HEVC/HD,100.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz East,https://www.lyngsat.com/tvchannels/us/Starz-East.html,False,Starz,Eng Spa,us
+2.0,Starz Encore East,HEVC/HD,200.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-East.html,False,Starz,Eng Spa,us
+3.0,Starz Encore Action East,HEVC/HD,300.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Action East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Action-East.html,False,Starz,Eng Spa,us
+4.0,Starz Encore Black East,HEVC/HD,400.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Black East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Black-East.html,False,Starz,Eng Spa,us
+5.0,Starz Encore Classic East,HEVC/HD,500.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Classic East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Classic-East.html,False,Starz,Eng Spa,us
+6.0,Starz Encore Family East,HEVC/HD,600.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Family East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Family-East.html,False,Starz,Eng Spa,us
+7.0,Starz Encore Suspense East,HEVC/HD,700.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Suspense East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Suspense-East.html,False,Starz,Eng Spa,us
+8.0,Starz Encore Westerns East,HEVC/HD,800.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Westerns East,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Westerns-East.html,False,Starz,Eng Spa,us
+9.0,Starz Encore Español Este,HEVC/HD,900.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Encore Español Este,https://www.lyngsat.com/tvchannels/us/Starz-Encore-Espanol-Este.html,False,Starz,Spa Spa,us
+10.0,Starz Cinema East,HEVC/HD,1000.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Cinema East,https://www.lyngsat.com/tvchannels/us/Starz-Cinema-East.html,False,Starz,Eng Spa,us
+11.0,Starz Comedy East,HEVC/HD,1100.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Comedy East,https://www.lyngsat.com/tvchannels/us/Starz-Comedy-East.html,False,Starz,Eng Spa,us
+12.0,Starz Edge East,HEVC/HD,1200.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Edge East,https://www.lyngsat.com/tvchannels/us/Starz-Edge-East.html,False,Starz,Eng Spa,us
+13.0,Starz In Black East,HEVC/HD,1300.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz In Black East,https://www.lyngsat.com/tvchannels/us/Starz-In-Black-East.html,False,Starz,Eng Spa,us
+14.0,Starz Kids & Family East,HEVC/HD,1400.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,Starz Kids & Family East,https://www.lyngsat.com/tvchannels/us/Starz-Kids-and-Family-East.html,False,Starz,Eng Spa,us
+15.0,IndiePlex East,HEVC/HD,1500.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,IndiePlex East,https://www.lyngsat.com/tvchannels/us/IndiePlex-East.html,False,Starz,Eng Spa,us
+16.0,RetroPlex East,HEVC/HD,1600.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,RetroPlex East,https://www.lyngsat.com/tvchannels/us/RetroPlex-East.html,False,Starz,Eng Spa,us
+17.0,MoviePlex East,HEVC/HD,1700.0,DVB-S2,32500.0,3/4,4040 V,tp 17,0.0,Digicipher,,MoviePlex East,https://www.lyngsat.com/tvchannels/us/MoviePlex-East.html,False,Starz,Eng Spa,us
+,Herring Networks,758-?,,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,https://www.lyngsat.com/providers/us/Herring-Networks.html,,,True,Herring Networks,,
+100.0,AWE,MPEG-2/SD,16.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,AWE,https://www.lyngsat.com/tvchannels/us/AWE.html,False,Herring Networks,Eng,us
+100.0,AWE,MPEG-2/SD,16.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,AWE,https://www.lyngsat.com/tvchannels/us/AWE.html,False,Herring Networks,Eng,us
+200.0,AWE,MPEG-2/HD,144.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,AWE,https://www.lyngsat.com/tvchannels/us/AWE.html,False,Herring Networks,Eng,us
+200.0,AWE,MPEG-2/HD,144.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,AWE,https://www.lyngsat.com/tvchannels/us/AWE.html,False,Herring Networks,Eng,us
+300.0,[test card],MPEG-4/HD,97.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,,,False,Herring Networks,,
+109.0,[test card],MPEG-4/HD,900.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,,,False,Herring Networks,,
+110.0,[test card],MPEG-4/HD,1000.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,,,False,Herring Networks,,
+400.0,AWE International,MPEG-4/HD,113.0,DVB-S2,17500.0,5/6,4052 H,tp 18,0.0,Digicipher,,AWE International,https://www.lyngsat.com/tvchannels/us/AWE-International.html,False,Herring Networks,Eng,us
+1.0,Apostolic Oneness Network,?-?MPEG-2/SD,33.0,DVB-S,3310.0,3/4,4066 H,tp 18,0.0,,,,,False,Herring Networks,Eng,
+,MBC America,,,DVB-S2,3257.0,3/4,4070 H,tp 18,0.0,BISS,https://www.lyngsat.com/providers/kr/MBC-America.html,MBC America,https://www.lyngsat.com/tvchannels/kr/MBC-America.html,True,MBC America,,kr
+2.0,MBC America,MPEG-4/HD,513.0,DVB-S2,3257.0,3/4,4070 H,tp 18,0.0,BISS,https://www.lyngsat.com/providers/kr/MBC-America.html,MBC America,https://www.lyngsat.com/tvchannels/kr/MBC-America.html,True,MBC America,Kor,kr
+1.0,MBC Drama HD,MPEG-4/HD,538.0,DVB-S2,3257.0,3/4,4070 H,tp 18,0.0,BISS,,MBC Drama HD,https://www.lyngsat.com/tvchannels/kr/MBC-Drama-HD.html,False,MBC America,Kor,kr
+102.0,Superior Livestock Auction TV,MPEG-4/HD,3020.0,DVB-S,29270.0,7/8,4080 V,tp 19,0.0,,,Superior Livestock Auction TV,https://www.lyngsat.com/tvchannels/us/Superior-Livestock-Auction-TV.html,False,MBC America,Eng,us
+107.0,SET Asia,MPEG-2/SD,3070.0,DVB-S,29270.0,7/8,4080 V,tp 19,0.0,PowerVu,,SET Asia,https://www.lyngsat.com/tvchannels/in/SET-Asia.html,False,MBC America,Hin,in
+108.0,Vivid TV,MPEG-2/SD,3080.0,DVB-S,29270.0,7/8,4080 V,tp 19,0.0,PowerVu,,Vivid TV,https://www.lyngsat.com/tvchannels/us/Vivid-TV.html,False,MBC America,Eng,us
+112.0,Real Extreme,MPEG-2/SD,3120.0,DVB-S,29270.0,7/8,4080 V,tp 19,0.0,PowerVu,,Real Extreme,https://www.lyngsat.com/tvchannels/us/Real-Extreme.html,False,MBC America,Eng,us
+1.0,Universal Living Faith Network,MPEG-4/HD,256.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,,,Universal Living Faith Network,https://www.lyngsat.com/tvchannels/us/Universal-Living-Faith-Network.html,False,MBC America,Eng,us
+1.0,Universal Living Faith Network,MPEG-4/HD,256.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,,,Universal Living Faith Network,https://www.lyngsat.com/tvchannels/us/Universal-Living-Faith-Network.html,False,MBC America,Eng,us
+2.0,Canal 13i,MPEG-4/HD,200.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Canal 13i,https://www.lyngsat.com/tvchannels/cl/Canal-13i.html,False,MBC America,Spa,cl
+24.0,TyC Sports Estados Unidos,MPEG-4/HD,4004.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,TyC Sports Estados Unidos,https://www.lyngsat.com/tvchannels/ar/TyC-Sports-Estados-Unidos.html,False,MBC America,Spa,ar
+37.0,TN,MPEG-4/HD,300.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,TN,https://www.lyngsat.com/tvchannels/ar/TN.html,False,MBC America,Spa,ar
+201.0,BBC News Americas,MPEG-4/HD,2160.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,BBC News Americas,https://www.lyngsat.com/tvchannels/uk/BBC-News-Americas.html,False,MBC America,Eng,uk
+208.0,Caracol TV Internacional,MPEG-2/SD,2860.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Caracol TV Internacional,https://www.lyngsat.com/tvchannels/co/Caracol-TV-Internacional.html,False,MBC America,Spa,co
+211.0,Mega TV (USA),MPEG-2/SD,2760.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,Mega TV (USA),https://www.lyngsat.com/tvchannels/us/Mega-TV.html,False,MBC America,Spa Spa,us
+250.0,TV Japan,MPEG-4/HD,2560.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,PowerVu,,TV Japan,https://www.lyngsat.com/tvchannels/us/TV-Japan.html,False,MBC America,Jpn,us
+1001.0,[Intelsat test card],MPEG-4/HD,1000.0,DVB-S2,30000.0,5/6,4100 H,tp 20,0.0,,,,,False,MBC America,,
+101.0,Cowboy Channel,MPEG-4/HD,100.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,Cowboy Channel,https://www.lyngsat.com/tvchannels/us/Cowboy-Channel.html,False,MBC America,Eng,us
+101.0,Cowboy Channel,MPEG-4/HD,100.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,Cowboy Channel,https://www.lyngsat.com/tvchannels/us/Cowboy-Channel.html,False,MBC America,Eng,us
+102.0,Cowboy Channel,MPEG-2/SD,200.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,Cowboy Channel,https://www.lyngsat.com/tvchannels/us/Cowboy-Channel.html,False,MBC America,Eng,us
+102.0,Cowboy Channel,MPEG-2/SD,200.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,Cowboy Channel,https://www.lyngsat.com/tvchannels/us/Cowboy-Channel.html,False,MBC America,Eng,us
+103.0,RFD-TV,MPEG-4/HD,300.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,RFD-TV,https://www.lyngsat.com/tvchannels/us/RFD-TV.html,False,MBC America,Eng,us
+104.0,MavTV,MPEG-4/HD,400.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,MavTV,https://www.lyngsat.com/tvchannels/us/MavTV.html,False,MBC America,Eng,us
+105.0,America's Value Channel,MPEG-4/SD,500.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,,,America's Value Channel,https://www.lyngsat.com/tvchannels/us/Americas-Value-Channel.html,False,MBC America,Eng,us
+106.0,YTA,MPEG-4/HD,600.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,,,YTA,https://www.lyngsat.com/tvchannels/us/YTA.html,False,MBC America,Eng,us
+106.0,YTA,MPEG-4/HD,600.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,,,YTA,https://www.lyngsat.com/tvchannels/us/YTA.html,False,MBC America,Eng,us
+107.0,Newsmax TV,MPEG-4/HD,700.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,PowerVu,,Newsmax TV,https://www.lyngsat.com/tvchannels/us/Newsmax-TV.html,False,MBC America,Eng,us
+108.0,Cowgirl Channel,MPEG-4/HD,800.0,DVB-S2,30000.0,3/4,4140 H,tp 22,0.0,,,Cowgirl Channel,https://www.lyngsat.com/tvchannels/us/Cowgirl-Channel.html,False,MBC America,Eng,us
+,Encompass,,,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,https://www.lyngsat.com/providers/us/Encompass.html,,,True,Encompass,,
+1.0,Justice Central TV,MPEG-4/HD,28.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Justice Central TV,https://www.lyngsat.com/tvchannels/us/Justice-Central-TV.html,False,Encompass,Eng,us
+2.0,Comedy TV (USA),MPEG-4/HD,33.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Comedy TV (USA),https://www.lyngsat.com/tvchannels/us/Comedy-TV.html,False,Encompass,Eng,us
+3.0,Recipe TV,MPEG-4/HD,49.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Recipe TV,https://www.lyngsat.com/tvchannels/us/Recipe-TV.html,False,Encompass,Eng,us
+4.0,Cars TV,MPEG-4/HD,65.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Cars TV,https://www.lyngsat.com/tvchannels/us/Cars-TV.html,False,Encompass,Eng,us
+6.0,My Destination TV,MPEG-4/HD,97.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,My Destination TV,https://www.lyngsat.com/tvchannels/us/My-Destination-TV.html,False,Encompass,Eng,us
+7.0,Es TV,MPEG-4/HD,113.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Es TV,https://www.lyngsat.com/tvchannels/us/Es-TV.html,False,Encompass,Eng,us
+8.0,Fido TV,MPEG-4/HD,1200.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Fido TV,https://www.lyngsat.com/tvchannels/us/Fido-TV.html,False,Encompass,Eng,us
+9.0,FM,MPEG-4/HD,20.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,FM,https://www.lyngsat.com/tvchannels/us/FM.html,False,Encompass,Eng,us
+11.0,Motortrend,MPEG-4/HD,177.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Motortrend,https://www.lyngsat.com/tvchannels/us/Motortrend.html,False,Encompass,Eng,us
+11.0,Motortrend,MPEG-4/HD,177.0,DVB-S2,30000.0,5/6,4160 V,tp 23,0.0,Digicipher,,Motortrend,https://www.lyngsat.com/tvchannels/us/Motortrend.html,False,Encompass,Eng,us
+8.0,Motortrend,MPEG-4/HD,129.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Motortrend,https://www.lyngsat.com/tvchannels/us/Motortrend.html,False,Encompass,Eng,us
+8.0,Motortrend,MPEG-4/HD,129.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Motortrend,https://www.lyngsat.com/tvchannels/us/Motortrend.html,False,Encompass,Eng,us
+,Warner Bros. Discovery,,,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,https://www.lyngsat.com/providers/us/Warner-Bros-Discovery.html,,,True,Warner Bros. Discovery,,
+1.0,Hogar HGTV,MPEG-4/HD,17.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Hogar HGTV,https://www.lyngsat.com/tvchannels/us/Hogar-HGTV.html,False,Warner Bros. Discovery,Eng,us
+3.0,Discovery Family,MPEG-4/HD,49.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Discovery Family,https://www.lyngsat.com/tvchannels/us/Discovery-Family.html,False,Warner Bros. Discovery,Eng,us
+4.0,Oprah Winfrey Network East,MPEG-4/HD,65.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Oprah Winfrey Network East,https://www.lyngsat.com/tvchannels/us/Oprah-Winfrey-Network-East.html,False,Warner Bros. Discovery,Eng,us
+5.0,Discovery Life Channel,MPEG-4/HD,81.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Discovery Life Channel,https://www.lyngsat.com/tvchannels/us/Discovery-Life-Channel.html,False,Warner Bros. Discovery,Eng,us
+7.0,TLC West,MPEG-4/HD,113.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,TLC West,https://www.lyngsat.com/tvchannels/us/TLC-West.html,False,Warner Bros. Discovery,Eng Spa,us
+9.0,Animal Planet West,MPEG-4/HD,145.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Animal Planet West,https://www.lyngsat.com/tvchannels/us/Animal-Planet-West.html,False,Warner Bros. Discovery,Eng,us
+10.0,Oprah Winfrey Network West,MPEG-4/HD,161.0,DVB-S2,30000.0,3/4,4180 H,tp 24,0.0,Digicipher,,Oprah Winfrey Network West,https://www.lyngsat.com/tvchannels/us/Oprah-Winfrey-Network-West.html,False,Warner Bros. Discovery,Eng,us
+,,,,,,,,,,,,DVB-S33103/4,,False,Warner Bros. Discovery,,

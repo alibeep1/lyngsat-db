@@ -1,0 +1,70 @@
+SID,Provider/Channel,Compression,VPID,system_alt,sr_alt,fec_alt,freq_alt,beam_alt,eirp_alt,encryption_alt,Provider_URL,Channel,Channel_URL,is_Provider,Provider,Languages,Channel_Country
+1.0,Ecuavisa Quito,?-?MPEG-2/SD,101.0,DVB-S,,,4038 H,tp 9,0.0,"BISS,Director",,,,False,,Spa,
+,,,,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,,,False,,,
+,,,,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,,,False,,,
+,,,,DVB-S2,13330.0,3/4,4172 V,tp 12,0.0,,,,,False,,,
+,,,,DVB-S2,13330.0,3/4,11968 H,tp 26,,,,,,False,,,
+8.0,Once México,MPEG-4/HD,319.0,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+8.0,Once México,MPEG-4/HD,319.0,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+8.0,Once México,MPEG-4/HD,319.0,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+8.0,Once México,MPEG-4/HD,319.0,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+4.0,Once México,MPEG-2/SD,97.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+4.0,Once México,MPEG-2/SD,97.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+4.0,Once México,MPEG-2/SD,97.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+4.0,Once México,MPEG-2/SD,97.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Once México,https://www.lyngsat.com/tvchannels/mx/Once-Mexico.html,False,,Spa,mx
+9.0,Once niñas y niños,MPEG-4/SD,49.0,DVB-S2,9600.0,3/4,4109 H,tp 11,0.0,,,Once niñas y niños,https://www.lyngsat.com/tvchannels/mx/Once-ninas-y-ninos.html,False,,Spa,mx
+,Grupo Radio Centro,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,https://www.lyngsat.com/providers/mx/Grupo-Radio-Centro.html,,,True,Grupo Radio Centro,,
+,Universal Guadalajara,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal Guadalajara,https://www.lyngsat.com/radiochannels/mx/Universal-Guadalajara.html,False,Grupo Radio Centro,Spa,mx
+,Universal Monterrey,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal Monterrey,https://www.lyngsat.com/radiochannels/mx/Universal-Monterrey.html,False,Grupo Radio Centro,Spa,mx
+,Alfa 91.3 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Alfa 91.3 FM,https://www.lyngsat.com/radiochannels/mx/Alfa-913-FM.html,False,Grupo Radio Centro,Spa,mx
+,Alfa 91.3 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Alfa 91.3 FM,https://www.lyngsat.com/radiochannels/mx/Alfa-913-FM.html,False,Grupo Radio Centro,Spa,mx
+,El Fonógrafo 690 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,El Fonógrafo 690 FM,https://www.lyngsat.com/radiochannels/mx/El-Fonografo-690-FM.html,False,Grupo Radio Centro,Spa,mx
+,El Fonógrafo 690 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,El Fonógrafo 690 FM,https://www.lyngsat.com/radiochannels/mx/El-Fonografo-690-FM.html,False,Grupo Radio Centro,Spa,mx
+,Radio Centro 1030 AM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Radio Centro 1030 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Centro-1030-AM.html,False,Grupo Radio Centro,Spa,mx
+,Radio Centro 1030 AM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Radio Centro 1030 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Centro-1030-AM.html,False,Grupo Radio Centro,Spa,mx
+,Radio Red 1110 AM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Radio Red 1110 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Red-1110-AM.html,False,Grupo Radio Centro,Spa,mx
+,Radio Red 1110 AM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Radio Red 1110 AM,https://www.lyngsat.com/radiochannels/mx/Radio-Red-1110-AM.html,False,Grupo Radio Centro,Spa,mx
+,La Z 107.3 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,La Z 107.3 FM,https://www.lyngsat.com/radiochannels/mx/La-Z-1073-FM.html,False,Grupo Radio Centro,Spa,mx
+,La Z 107.3 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,La Z 107.3 FM,https://www.lyngsat.com/radiochannels/mx/La-Z-1073-FM.html,False,Grupo Radio Centro,Spa,mx
+,Joya 93.7 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Joya 93.7 FM,https://www.lyngsat.com/radiochannels/mx/Joya-937-FM.html,False,Grupo Radio Centro,Spa,mx
+,Joya 93.7 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Joya 93.7 FM,https://www.lyngsat.com/radiochannels/mx/Joya-937-FM.html,False,Grupo Radio Centro,Spa,mx
+,Universal 88.1 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal 88.1 FM,https://www.lyngsat.com/radiochannels/mx/Universal-881-FM.html,False,Grupo Radio Centro,Spa,mx
+,Universal 88.1 FM,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal 88.1 FM,https://www.lyngsat.com/radiochannels/mx/Universal-881-FM.html,False,Grupo Radio Centro,Spa,mx
+,Universal Stereo Online,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal Stereo Online,https://www.lyngsat.com/radiochannels/mx/Universal-Stereo-Online.html,False,Grupo Radio Centro,Spa,mx
+,Universal Stereo Online,,,DVB-S,9600.0,3/4,4118 H,tp 11,0.0,,,Universal Stereo Online,https://www.lyngsat.com/radiochannels/mx/Universal-Stereo-Online.html,False,Grupo Radio Centro,Spa,mx
+,Canal 10 Chiapas,,,DVB-S2,3609.0,3/4,4124 H,tp 11,0.0,,https://www.lyngsat.com/providers/mx/Canal-10-Chiapas.html,Canal 10 Chiapas,https://www.lyngsat.com/tvchannels/mx/Canal-10-Chiapas.html,True,Canal 10 Chiapas,,mx
+,Canal 10 Chiapas,MPEG-4/HD,257.0,DVB-S2,3609.0,3/4,4124 H,tp 11,0.0,,https://www.lyngsat.com/providers/mx/Canal-10-Chiapas.html,Canal 10 Chiapas,https://www.lyngsat.com/tvchannels/mx/Canal-10-Chiapas.html,True,Canal 10 Chiapas,Spa,mx
+,Prende y Aprende,MPEG-4/HD,261.0,DVB-S2,3609.0,3/4,4124 H,tp 11,0.0,,,Prende y Aprende,https://www.lyngsat.com/tvchannels/mx/Prende-y-Aprende.html,False,Canal 10 Chiapas,Spa,mx
+,Justicia TV (Mexico),MPEG-4/HD,512.0,DVB-S2,6400.0,3/4,4132 V,tp 12,0.0,,,,,False,Canal 10 Chiapas,Spa,
+,Canal del Congreso 45.1,,,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,,mx
+,Canal del Congreso 45.1,,,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,,mx
+,Canal del Congreso 45.1,,,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,,mx
+,Canal del Congreso 45.1,,,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,,mx
+,Canal del Congreso 45.1,MPEG-4/HD,49.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/HD,49.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/HD,49.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/HD,49.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/SD,65.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/SD,65.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/SD,65.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+,Canal del Congreso 45.1,MPEG-4/SD,65.0,DVB-S2,6666.0,3/4,4141 V,tp 12,0.0,,https://www.lyngsat.com/providers/mx/Canal-del-Congreso-451.html,Canal del Congreso 45.1,https://www.lyngsat.com/tvchannels/mx/Canal-del-Congreso-451.html,True,Canal del Congreso 45.1,Spa,mx
+1.0,Canal Catorce,MPEG-2/HD,49.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+1.0,Canal Catorce,MPEG-2/HD,49.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+1.0,Canal Catorce,MPEG-2/HD,49.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+1.0,Canal Catorce,MPEG-2/HD,49.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+9.0,Canal Catorce,MPEG-4/HD,161.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+9.0,Canal Catorce,MPEG-4/HD,161.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+9.0,Canal Catorce,MPEG-4/HD,161.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+9.0,Canal Catorce,MPEG-4/HD,161.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal Catorce,https://www.lyngsat.com/tvchannels/mx/Canal-Catorce.html,False,Canal del Congreso 45.1,Spa,mx
+2.0,Canal 22 Nacional,MPEG-2/SD,65.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal 22 Nacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Nacional.html,False,Canal del Congreso 45.1,Spa,mx
+2.0,Canal 22 Nacional,MPEG-2/SD,65.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,Canal 22 Nacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Nacional.html,False,Canal del Congreso 45.1,Spa,mx
+1.0,Canal 22 Nacional,MPEG-4/HD,49.0,DVB-S2,13330.0,3/4,4172 V,tp 12,0.0,,,Canal 22 Nacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Nacional.html,False,Canal del Congreso 45.1,Spa,mx
+1.0,Canal 22 Nacional,MPEG-4/HD,49.0,DVB-S2,13330.0,3/4,4172 V,tp 12,0.0,,,Canal 22 Nacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Nacional.html,False,Canal del Congreso 45.1,Spa,mx
+3.0,TV UNAM,MPEG-2/SD,81.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,TV UNAM,https://www.lyngsat.com/tvchannels/mx/TV-UNAM.html,False,Canal del Congreso 45.1,Spa,mx
+5.0,(feeds),,113.0,DVB-S2,14400.0,3/4,4155 V,tp 12,0.0,,,,,False,Canal del Congreso 45.1,,
+2.0,Canal 22.2,MPEG-4/HD,65.0,DVB-S2,13330.0,3/4,4172 V,tp 12,0.0,,,Canal 22.2,https://www.lyngsat.com/tvchannels/mx/Canal-222.html,False,Canal del Congreso 45.1,Spa,mx
+4.0,Canal 22 Internacional,MPEG-4/HD,97.0,DVB-S2,13330.0,3/4,4172 V,tp 12,0.0,,,Canal 22 Internacional,https://www.lyngsat.com/tvchannels/mx/Canal-22-Internacional.html,False,Canal del Congreso 45.1,Spa,mx
+,(CBC feeds),,,DVB-S2,8200.0,5/6,11978 H,tp 26,,,,,,False,Canal del Congreso 45.1,,
+,(CBC feeds),,,DVB-S2,8200.0,5/6,11988 H,tp 26,,,,,,False,Canal del Congreso 45.1,,
+,,,,,,,,,,,,DVB-S1600,BISSDirector,False,Canal del Congreso 45.1,,
+,,,,,,,,,,,,DVB-S2QPSK64003/4,,False,Canal del Congreso 45.1,,
